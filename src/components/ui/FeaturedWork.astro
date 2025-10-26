@@ -35,30 +35,30 @@ const metadataItems = [
 ];
 ---
 
-<article class={`mb-20 md:mb-24 last:mb-0 ${className}`}>
-  <a href={href} class="group block border border-line hover:border-accent transition-colors p-10 md:p-12 bg-paper">
-    <div class="max-w-[54rem] mx-auto flex gap-6 md:gap-8">
+<article class={`mb-16 md:mb-20 lg:mb-24 last:mb-0 ${className}`}>
+  <a href={href} class="group block border border-line hover:border-accent transition-colors p-6 sm:p-8 md:p-10 lg:p-12 bg-paper">
+    <div class="max-w-[54rem] mx-auto flex gap-4 sm:gap-6 md:gap-8">
       <!-- Roman numeral on left -->
       <div class="shrink-0">
-        <span class="font-serif text-[3rem] md:text-[4rem] text-accent font-light leading-none block opacity-10">
+        <span class="font-serif text-[2.5rem] sm:text-[3rem] md:text-[4rem] text-accent font-light leading-none block opacity-10">
           {romanNumerals[index] || index + 1}
         </span>
       </div>
 
       <!-- Content aligned -->
-      <div class="flex-1 pt-1">
+      <div class="flex-1 pt-0.5 sm:pt-1">
         <!-- Title -->
-        <h3 class="font-serif text-[2rem] md:text-[2.5rem] font-normal leading-[1.1] tracking-[-0.02em] text-ink group-hover:text-accent transition-colors mb-5">
+        <h3 class="font-serif text-[1.5rem] sm:text-[1.875rem] md:text-[2.25rem] lg:text-[2.5rem] font-normal leading-[1.15] sm:leading-[1.1] tracking-[-0.02em] text-ink group-hover:text-accent transition-colors mb-4 sm:mb-5">
           {title}
         </h3>
 
         <!-- Author -->
-        <div class="font-serif-body text-[1.125rem] text-ink-medium font-normal mb-7 pb-7 border-b border-line">
+        <div class="font-serif-body text-[1rem] sm:text-[1.0625rem] md:text-[1.125rem] text-ink-medium font-normal mb-5 sm:mb-6 md:mb-7 pb-5 sm:pb-6 md:pb-7 border-b border-line">
           {author.join(', ')}
         </div>
 
         <!-- Description -->
-        <p class="font-serif-body text-[1.0625rem] leading-[1.8] text-ink-light font-normal mb-6">
+        <p class="font-serif-body text-[0.9375rem] sm:text-[1rem] md:text-[1.0625rem] leading-[1.7] sm:leading-[1.75] md:leading-[1.8] text-ink-light font-normal mb-5 sm:mb-6">
           {description}
         </p>
 
