@@ -13,6 +13,9 @@ sources:
   - name: "Internet Archive - Volume II"
     url: "https://archive.org/details/in.ernet.dli.2015.281273"
     type: "archive"
+  - name: "Internet Archive - Volume III"
+    url: "https://archive.org/details/in.ernet.dli.2015.279393"
+    type: "archive"
 references:
   - name: "Wikipedia: Charles Augustus Kincaid"
     url: "https://en.wikipedia.org/wiki/Charles_Augustus_Kincaid"
