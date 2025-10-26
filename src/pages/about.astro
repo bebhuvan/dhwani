@@ -4,53 +4,156 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 <BaseLayout title="About - Dhwani">
   <main>
-    <article class="py-12 md:py-16 lg:py-20 px-6 md:px-8 lg:px-12 max-w-[1100px] mx-auto">
-      <h1 class="font-serif text-[clamp(2.5rem,7vw,4.5rem)] font-semibold leading-[1.1] tracking-[-0.025em] text-ink mb-10 md:mb-12">
-        About Dhwani
-      </h1>
+    <article class="py-16 md:py-20 lg:py-24 px-6 md:px-8 lg:px-12">
+      <div class="max-w-[680px] mx-auto">
+        <h1 class="font-serif text-[clamp(2.75rem,7vw,4.5rem)] font-normal leading-[1.12] tracking-[-0.02em] text-ink mb-16 md:mb-20">
+          About Dhwani
+        </h1>
 
-      <div class="prose-content space-y-7 md:space-y-8">
-        <p class="font-serif-body text-[1rem] md:text-[1.1rem] leading-[1.75] md:leading-[1.85] text-ink-light font-light">
-          A curated directory dedicated to organizing and celebrating India's rich literary heritage.
-        </p>
+        <div class="prose-content">
+          <h2 class="font-serif text-[1.85rem] md:text-[2.15rem] font-normal tracking-tight text-ink mb-6 md:mb-7">
+            The Origin Story
+          </h2>
 
-        <p class="font-serif-body text-[1rem] md:text-[1.1rem] leading-[1.75] md:leading-[1.85] text-ink-light font-light">
-          Dhwani gathers links to thousands of public domain literary works—from ancient Vedic hymns to modern poetry—making them discoverable and accessible to readers worldwide. Our collection spans multiple languages, genres, and centuries, offering a comprehensive guide to Indian literary tradition.
-        </p>
-
-        <h2 class="font-serif text-[1.65rem] md:text-[2rem] font-semibold tracking-tight text-ink mt-12 md:mt-14 mb-6 md:mb-7">
-          Our Mission
-        </h2>
-
-        <p class="font-serif-body text-[1rem] md:text-[1.1rem] leading-[1.75] md:leading-[1.85] text-ink-light font-light">
-          We believe that India's literary heritage belongs to everyone. By gathering and organizing links to these works in one place, we ensure they remain discoverable and accessible for future generations. Every text, poem, and philosophical treatise tells a story—of human experience, cultural evolution, and timeless wisdom.
-        </p>
-
-        <h2 class="font-serif text-[1.65rem] md:text-[2rem] font-semibold tracking-tight text-ink mt-12 md:mt-14 mb-6 md:mb-7">
-          What We Offer
-        </h2>
-
-        <ul class="space-y-2.5 md:space-y-3 font-serif-body text-[0.95rem] md:text-[1.05rem] leading-[1.7] md:leading-[1.8] text-ink-light font-light">
-          <li>Curated collections organized by era, language, and theme</li>
-          <li>Full-text search across thousands of works</li>
-          <li>Works sourced from Project Gutenberg, Internet Archive, and other open repositories</li>
-          <li>Clean, distraction-free reading experience</li>
-          <li>Historical context and literary analysis for each work</li>
-        </ul>
-
-        <h2 class="font-serif text-[1.65rem] md:text-[2rem] font-semibold tracking-tight text-ink mt-12 md:mt-14 mb-6 md:mb-7">
-          Open & Free
-        </h2>
-
-        <p class="font-serif-body text-[1rem] md:text-[1.1rem] leading-[1.75] md:leading-[1.85] text-ink-light font-light">
-          All works in our archive are in the public domain or available through open access licenses. Dhwani is built with open-source tools and will always remain free to use.
-        </p>
-
-        <div class="mt-12 md:mt-14 pt-7 md:pt-8 border-t border-line">
-          <p class="font-serif-body text-sm text-ink-lighter font-light">
-            For questions, suggestions, or contributions, reach out at{' '}
-            <a href="mailto:hello@dhwani.org" class="text-accent hover:text-ink transition-colors">hello@dhwani.org</a>
+          <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-6">
+            Most of my projects have their origin stories, but Dhwani emerged from a steady accumulation of things that make me happy—chief among them, a growing obsession with forgotten literary treasures.
           </p>
+
+          <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-6">
+            It started innocently enough. As I dove deeper into reading, one book led to another, and I stumbled upon an astonishing realization: there exists an insanely brilliant, rich collection of Indian literary works languishing in the public domain. These weren't just old books—these were civilizational treasures, largely ignored and forgotten.
+          </p>
+
+          <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-6">
+            That's when I discovered <a href="https://www.gutenberg.org/" target="_blank" rel="noopener noreferrer" class="text-accent hover:text-accent-light border-b border-accent border-opacity-30 hover:border-opacity-100 transition-all">Project Gutenberg</a> and was struck by the beautiful absurdity of it all. The fact that people would dedicate time, effort, and money to digitizing works and making them freely available to anyone, anywhere, seemed almost unreasonable. At first, I probably didn't have the maturity to understand why anyone would care so deeply about preserving works in the so-called public domain.
+          </p>
+
+          <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-medium font-normal mb-10">
+            But as I read more, as my ignorance shrank, the civilizational value became crystal clear. <strong>This is our history.</strong> And if we don't preserve our past, the future will be nothing but a shitty remake of it.
+          </p>
+
+          <h2 class="font-serif text-[1.85rem] md:text-[2.15rem] font-normal tracking-tight text-ink mt-16 md:mt-20 mb-6 md:mb-7">
+            The Problem
+          </h2>
+
+          <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-6">
+            A question began gnawing at me: <strong>Why isn't there a Project Gutenberg for India?</strong>
+          </p>
+
+          <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-6">
+            India is one of the oldest civilizations in the world. The literary and philosophical treasures we have to offer are limitless. The fact that so much of Indian culture has been appropriated by the West only underscores how much we have to give. Yet when you look at India today, there's a profound sense of cultural apathy among the educated class. Nobody seems to give a shit about our cultural artifacts.
+          </p>
+
+          <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-10">
+            What's worse? There isn't even a decent, comprehensive list of Indian works in the public domain. That's how bad things are.
+          </p>
+
+          <h2 class="font-serif text-[1.85rem] md:text-[2.15rem] font-normal tracking-tight text-ink mt-16 md:mt-20 mb-6 md:mb-7">
+            The Solution (For Now)
+          </h2>
+
+          <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-6">
+            This site has been in the making for 5-6 years, percolating in the back of my mind. I kept asking myself: what would it take to build a Project Gutenberg for India?
+          </p>
+
+          <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-6">
+            The honest answer? I don't have the financial resources or deep technical know-how to build something at that scale. But what changed in recent years was the rise of AI coding tools like Claude Code and OpenAI's Codex. They made me realize: even if I can't create a full-fledged digital library, I can do something simpler but potentially just as valuable.
+          </p>
+
+          <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-medium font-normal mb-6">
+            <strong>Dhwani is that something.</strong>
+          </p>
+
+          <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-6">
+            It's a curated directory—an aggregation of links to important Indian works in the public domain. I'm combing through <a href="https://archive.org/" target="_blank" rel="noopener noreferrer" class="text-accent hover:text-accent-light border-b border-accent border-opacity-30 hover:border-opacity-100 transition-all">Archive.org</a>, <a href="https://www.gutenberg.org/" target="_blank" rel="noopener noreferrer" class="text-accent hover:text-accent-light border-b border-accent border-opacity-30 hover:border-opacity-100 transition-all">Project Gutenberg</a>, <a href="https://en.wikisource.org/" target="_blank" rel="noopener noreferrer" class="text-accent hover:text-accent-light border-b border-accent border-opacity-30 hover:border-opacity-100 transition-all">Wikisource</a>, <a href="https://openlibrary.org/" target="_blank" rel="noopener noreferrer" class="text-accent hover:text-accent-light border-b border-accent border-opacity-30 hover:border-opacity-100 transition-all">Open Library</a>, and other repositories, searching for Indian literary and historical works. For each one, I'm creating individual entries with descriptions (with some help from AI) and reference links from multiple sources.
+          </p>
+
+          <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-10">
+            Maybe in the future, technology will advance enough that even technically incompetent idiots like me will be able to make these works fully readable online. But until then, Dhwani serves as a simple archive, a directory of great literary and historical works from our past—from the Vedas and Upanishads to the Ramayana and Mahabharata, to works by Kabir and countless others.
+          </p>
+
+          <h2 class="font-serif text-[1.85rem] md:text-[2.15rem] font-normal tracking-tight text-ink mt-16 md:mt-20 mb-6 md:mb-7">
+            The Hope
+          </h2>
+
+          <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-6">
+            My hope is simple: that someone curious about our cultural heritage stumbles across this directory, finds an old PDF, starts extracting interesting insights, and learns something new. Maybe they'll share a fascinating tidbit. Maybe they'll be inspired to dig deeper.
+          </p>
+
+          <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-10">
+            I even dream of building a mini-magazine based purely on reading these historical texts and surfacing the most interesting facts, stories, and wisdom—a publication built on forgotten knowledge. But I'm just one person with a full-time job and bills to pay. If someone wants to fund that dream, I'm all ears. Until then, this is what I can offer.
+          </p>
+
+          <h2 class="font-serif text-[1.85rem] md:text-[2.15rem] font-normal tracking-tight text-ink mt-16 md:mt-20 mb-6 md:mb-7">
+            Why "Dhwani"?
+          </h2>
+
+          <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-6">
+            <em>Dhwani</em> (ध्वनि) means "voice" or "sound" in several Indian languages, including Kannada. When I was thinking about names, many English options came to mind, but I wanted something distinctly Indian and elegant. This name resonated with my soul.
+          </p>
+
+          <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-16">
+            The intuition was simple: these works are <strong>voices from history</strong>, echoing across time. Hence, Dhwani.
+          </p>
+
+          <div class="pt-12 border-t border-line">
+            <h2 class="font-serif text-[1.5rem] md:text-[1.75rem] font-normal tracking-tight text-ink mb-6">
+              Get In Touch
+            </h2>
+
+            <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-8">
+              If you find this site useful, have feedback or suggestions, want to collaborate, or just want to say hello, I'd love to hear from you.
+            </p>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-10">
+              <div class="space-y-3">
+                <h3 class="font-sans text-[0.75rem] uppercase tracking-wider font-bold text-ink-medium mb-3">Connect</h3>
+                <div class="space-y-2">
+                  <a href="https://bebhuvan.com" target="_blank" rel="noopener noreferrer" class="group flex items-center justify-between px-4 py-2.5 hover:bg-accent-wash transition-all text-[0.95rem]">
+                    <span class="text-ink group-hover:text-accent">bebhuvan.com</span>
+                    <span class="text-accent opacity-50 group-hover:opacity-100 group-hover:translate-x-1 transition-all">→</span>
+                  </a>
+                  <a href="https://bhuvan.substack.com/" target="_blank" rel="noopener noreferrer" class="group flex items-center justify-between px-4 py-2.5 hover:bg-accent-wash transition-all text-[0.95rem]">
+                    <span class="text-ink group-hover:text-accent">Substack</span>
+                    <span class="text-accent opacity-50 group-hover:opacity-100 group-hover:translate-x-1 transition-all">→</span>
+                  </a>
+                  <a href="https://twitter.com/bebhuvan" target="_blank" rel="noopener noreferrer" class="group flex items-center justify-between px-4 py-2.5 hover:bg-accent-wash transition-all text-[0.95rem]">
+                    <span class="text-ink group-hover:text-accent">Twitter</span>
+                    <span class="text-accent opacity-50 group-hover:opacity-100 group-hover:translate-x-1 transition-all">→</span>
+                  </a>
+                  <a href="https://www.linkedin.com/in/bebhuvan/" target="_blank" rel="noopener noreferrer" class="group flex items-center justify-between px-4 py-2.5 hover:bg-accent-wash transition-all text-[0.95rem]">
+                    <span class="text-ink group-hover:text-accent">LinkedIn</span>
+                    <span class="text-accent opacity-50 group-hover:opacity-100 group-hover:translate-x-1 transition-all">→</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="space-y-3">
+                <h3 class="font-sans text-[0.75rem] uppercase tracking-wider font-bold text-ink-medium mb-3">Side Projects</h3>
+                <div class="space-y-2">
+                  <a href="https://seneca.ink" target="_blank" rel="noopener noreferrer" class="group flex items-center justify-between px-4 py-2.5 hover:bg-accent-wash transition-all text-[0.95rem]">
+                    <span class="text-ink group-hover:text-accent">seneca.ink</span>
+                    <span class="text-accent opacity-50 group-hover:opacity-100 group-hover:translate-x-1 transition-all">→</span>
+                  </a>
+                  <a href="https://paperlanterns.ink" target="_blank" rel="noopener noreferrer" class="group flex items-center justify-between px-4 py-2.5 hover:bg-accent-wash transition-all text-[0.95rem]">
+                    <span class="text-ink group-hover:text-accent">paperlanterns.ink</span>
+                    <span class="text-accent opacity-50 group-hover:opacity-100 group-hover:translate-x-1 transition-all">→</span>
+                  </a>
+                  <a href="https://papertrails.rabbitholes.garden" target="_blank" rel="noopener noreferrer" class="group flex items-center justify-between px-4 py-2.5 hover:bg-accent-wash transition-all text-[0.95rem]">
+                    <span class="text-ink group-hover:text-accent">papertrails</span>
+                    <span class="text-accent opacity-50 group-hover:opacity-100 group-hover:translate-x-1 transition-all">→</span>
+                  </a>
+                  <a href="https://booktrails.rabbitholes.garden" target="_blank" rel="noopener noreferrer" class="group flex items-center justify-between px-4 py-2.5 hover:bg-accent-wash transition-all text-[0.95rem]">
+                    <span class="text-ink group-hover:text-accent">booktrails</span>
+                    <span class="text-accent opacity-50 group-hover:opacity-100 group-hover:translate-x-1 transition-all">→</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-medium font-normal">
+              This is our shared heritage. Let's not let it fade into silence.
+            </p>
+          </div>
         </div>
       </div>
     </article>
