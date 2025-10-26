@@ -1,10 +1,11 @@
 name = "dhwani"
-pages_build_output_dir = "dist"
+main = "worker.js"
 compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
 
-# Build configuration
-[build]
-command = "npm run build"
+# Static assets
+[assets]
+directory = "./dist"
 
 # Environment variables (if needed)
 # [vars]
