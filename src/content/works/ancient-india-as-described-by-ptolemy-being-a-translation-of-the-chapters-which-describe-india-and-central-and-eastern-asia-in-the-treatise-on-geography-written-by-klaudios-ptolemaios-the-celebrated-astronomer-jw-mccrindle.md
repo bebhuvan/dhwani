@@ -2,7 +2,7 @@
 title: "Ancient India: as described by Ptolemy; being a translation of the chapters which describe India and Central and Eastern Asia in the treatise on geography written by Klaudios Ptolemaios, the celebrated astronomer"
 author: ["J.W. McCrindle"]
 year: 1885
-language: ["Eng"]
+language: ["English"]
 genre: ["Literature"]
 description: "Ancient India: as described by Ptolemy; being a translation of the chapters which describe India and Central and Eastern Asia in the treatise on geography written by Klaudios Ptolemaios, the celebrated astronomer by J.W. McCrindle (1885) - A work of historical geography and geography, ancient fro..."
 collections: ['modern-literature']

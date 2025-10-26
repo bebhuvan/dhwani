@@ -14,6 +14,9 @@ references:
   - name: "Open Library"
     url: "https://openlibrary.org/search?q=history+of+hindi+literature+keay&mode=everything"
     type: "other"
+  - name: "Who Was Who in Indology - Frank Ernest Keay"
+    url: "https://whowaswho-indology.info/3411/keay-frank-ernest/?print=print"
+    type: "other"
 featured: false
 publishDate: 2025-10-23
 tags: ["Hindi literature", "literary history", "Bhakti poetry", "Heritage of India Series", "Tulsi Das", "Kabir", "Mughal period", "religious poetry", "vernacular literature", "North India", "20th century scholarship"]

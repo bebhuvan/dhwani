@@ -55,8 +55,8 @@ export default {
       },
       fontFamily: {
         sans: ['Inter', 'system-ui', 'sans-serif'],
-        serif: ['Crimson Text', 'Georgia', 'serif'],
-        'serif-body': ['Crimson Text', 'Georgia', 'serif'],
+        serif: ['Lora', 'Georgia', 'serif'],
+        'serif-body': ['Lora', 'Georgia', 'serif'],
       },
     },
   },

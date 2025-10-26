@@ -48,22 +48,22 @@ const metadataItems = [
       <!-- Content aligned -->
       <div class="flex-1 pt-1">
         <!-- Title -->
-        <h3 class="font-serif text-[2.5rem] md:text-[3.25rem] font-medium leading-[1.05] tracking-[-0.025em] text-ink group-hover:text-accent transition-colors mb-6">
+        <h3 class="font-serif text-[2rem] md:text-[2.5rem] font-normal leading-[1.1] tracking-[-0.02em] text-ink group-hover:text-accent transition-colors mb-5">
           {title}
         </h3>
 
         <!-- Author -->
-        <div class="text-[1.2rem] text-ink-medium font-medium mb-8 pb-8 border-b border-line">
+        <div class="font-serif-body text-[1.125rem] text-ink-medium font-normal mb-7 pb-7 border-b border-line">
           {author.join(', ')}
         </div>
 
         <!-- Description -->
-        <p class="font-serif-body text-[1.15rem] leading-[1.8] text-ink-light font-normal mb-7">
+        <p class="font-serif-body text-[1.0625rem] leading-[1.8] text-ink-light font-normal mb-6">
           {description}
         </p>
 
         <!-- Metadata -->
-        <div class="flex flex-wrap gap-x-3 gap-y-2 text-[0.9rem] text-ink-lighter">
+        <div class="flex flex-wrap gap-x-3 gap-y-2 text-[0.875rem] text-ink-lighter font-normal">
           <span>{language.join(', ')}</span>
           {year && (
             <>

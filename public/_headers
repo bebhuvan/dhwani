@@ -6,8 +6,20 @@
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=()
 
-  # Content Security Policy
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' https://api.dhwani.in; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+  # HSTS - Enforce HTTPS for 1 year, include subdomains
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+
+  # COOP - Isolate browsing context
+  Cross-Origin-Opener-Policy: same-origin
+
+  # COEP - Require cross-origin resources to opt-in (using credentialless for compatibility)
+  Cross-Origin-Embedder-Policy: credentialless
+
+  # CORP - Control how resources can be loaded (cross-origin for external images)
+  Cross-Origin-Resource-Policy: cross-origin
+
+  # Content Security Policy - Strict, no unsafe-inline
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://static.cloudflareinsights.com; style-src 'self'; img-src 'self' data: https:; font-src 'self'; connect-src 'self' https://api.dhwani.in; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests
 
   # Cache Control
   Cache-Control: public, max-age=0, must-revalidate

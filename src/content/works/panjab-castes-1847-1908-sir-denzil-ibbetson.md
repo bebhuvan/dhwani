@@ -2,7 +2,7 @@
 title: "Panjab castes"
 author: ["1847-1908  Sir  Denzil Ibbetson"]
 year: 1916
-language: ["Eng"]
+language: ["English"]
 genre: ["Literature"]
 description: "Panjab castes by 1847-1908  Sir  Denzil Ibbetson (1916) - A work of caste ,  india punjab and punjab (india) ,  social life and customs from the Indian literary heritage, now available in digital format."
 collections: ['regional-voices', 'modern-literature']
