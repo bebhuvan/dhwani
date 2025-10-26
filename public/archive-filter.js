@@ -31,8 +31,15 @@
         author.includes(searchTerm) ||
         description.includes(searchTerm);
 
-      // Extract just the name part from author (remove dates/numbers)
-      const cleanSelectedAuthor = selectedAuthor.replace(/^\d{4}-\d{4}\s+/, '').toLowerCase();
+      // Clean the selected author for matching
+      // Remove date prefixes like "1762-1829  ", suffixes like ", 1791-1867"
+      // and convert to lowercase for case-insensitive matching
+      let cleanSelectedAuthor = selectedAuthor
+        .replace(/^\d{4}-\d{4}\s+/, '')  // Remove "YYYY-YYYY " prefix
+        .replace(/,\s*\d{4}-\d{4}$/, '')  // Remove ", YYYY-YYYY" suffix
+        .toLowerCase()
+        .trim();
+
       const matchesAuthor = !selectedAuthor || author.includes(cleanSelectedAuthor);
       const matchesLanguage = !selectedLanguage || language.includes(selectedLanguage);
       const matchesGenre = !selectedGenre || genre.includes(selectedGenre);
