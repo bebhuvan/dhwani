@@ -31,7 +31,9 @@
         author.includes(searchTerm) ||
         description.includes(searchTerm);
 
-      const matchesAuthor = !selectedAuthor || author.includes(selectedAuthor);
+      // Extract just the name part from author (remove dates/numbers)
+      const cleanSelectedAuthor = selectedAuthor.replace(/^\d{4}-\d{4}\s+/, '').toLowerCase();
+      const matchesAuthor = !selectedAuthor || author.includes(cleanSelectedAuthor);
       const matchesLanguage = !selectedLanguage || language.includes(selectedLanguage);
       const matchesGenre = !selectedGenre || genre.includes(selectedGenre);
 
