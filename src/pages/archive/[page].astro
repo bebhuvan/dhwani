@@ -15,17 +15,33 @@ export const getStaticPaths = (async ({ paginate }) => {
   const ALL_LANGUAGES = [...new Set(allWorks.flatMap(work => work.data.language))].sort();
   const ALL_GENRES = [...new Set(allWorks.flatMap(work => work.data.genre))].sort();
 
+  // Generate year ranges for filter
+  const years = allWorks.map(w => w.data.year).filter(y => y);
+  const minYear = Math.min(...years);
+  const maxYear = Math.max(...years);
+  const YEAR_RANGES = [
+    { label: 'Before 1500', value: '0-1499' },
+    { label: '1500-1699', value: '1500-1699' },
+    { label: '1700-1799', value: '1700-1799' },
+    { label: '1800-1849', value: '1800-1849' },
+    { label: '1850-1899', value: '1850-1899' },
+    { label: '1900-1949', value: '1900-1949' },
+    { label: '1950-1999', value: '1950-1999' },
+    { label: '2000+', value: '2000-9999' },
+  ];
+
   return paginate(sortedWorks, {
     pageSize: 50,
     props: {
       allAuthors: ALL_AUTHORS,
       allLanguages: ALL_LANGUAGES,
       allGenres: ALL_GENRES,
+      yearRanges: YEAR_RANGES,
     }
   });
 }) satisfies GetStaticPaths;
 
-const { page, allAuthors, allLanguages, allGenres} = Astro.props;
+const { page, allAuthors, allLanguages, allGenres, yearRanges} = Astro.props;
 ---
 
 <BaseLayout title={`Archive - Page ${page.currentPage} - Dhwani`}>
@@ -57,7 +73,7 @@ const { page, allAuthors, allLanguages, allGenres} = Astro.props;
             />
           </div>
 
-          <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 lg:gap-10">
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8 lg:gap-6">
             <div>
               <label for="language-filter" class="block text-[0.7rem] uppercase tracking-[0.2em] text-ink-lighter font-medium mb-3 md:mb-4">
                 Language
@@ -78,6 +94,18 @@ const { page, allAuthors, allLanguages, allGenres} = Astro.props;
                 <option value="">All Genres</option>
                 {allGenres.map(genre => (
                   <option value={genre}>{genre}</option>
+                ))}
+              </select>
+            </div>
+
+            <div>
+              <label for="year-filter" class="block text-[0.7rem] uppercase tracking-[0.2em] text-ink-lighter font-medium mb-3 md:mb-4">
+                Year Published
+              </label>
+              <select id="year-filter" class="w-full px-4 md:px-6 py-3 md:py-4 text-sm md:text-base text-ink bg-warm-white border border-line focus:outline-none focus:border-ink-light">
+                <option value="">All Years</option>
+                {yearRanges.map(range => (
+                  <option value={range.value}>{range.label}</option>
                 ))}
               </select>
             </div>
@@ -115,6 +143,7 @@ const { page, allAuthors, allLanguages, allGenres} = Astro.props;
               data-description={work.data.description.toLowerCase()}
               data-language={work.data.language.join(' ').toLowerCase()}
               data-genre={work.data.genre.join(' ').toLowerCase()}
+              data-year={work.data.year || ''}
             >
               <div class="mb-5 md:mb-6">
                 <h2 class="font-serif text-[1.65rem] md:text-[2.25rem] lg:text-[2.5rem] font-normal leading-[1.2] tracking-tight text-ink mb-2 md:mb-3 transition-all duration-300 group-hover:tracking-[-0.01em]">
@@ -197,6 +226,7 @@ const { page, allAuthors, allLanguages, allGenres} = Astro.props;
     const authorFilter = document.getElementById('author-filter') as HTMLSelectElement;
     const languageFilter = document.getElementById('language-filter') as HTMLSelectElement;
     const genreFilter = document.getElementById('genre-filter') as HTMLSelectElement;
+    const yearFilter = document.getElementById('year-filter') as HTMLSelectElement;
     const workItems = Array.from(document.querySelectorAll('.work-item')) as HTMLElement[];
     const showingCount = document.getElementById('showing-count');
 
@@ -205,6 +235,7 @@ const { page, allAuthors, allLanguages, allGenres} = Astro.props;
       const selectedAuthor = authorFilter.value.toLowerCase();
       const selectedLanguage = languageFilter.value.toLowerCase();
       const selectedGenre = genreFilter.value.toLowerCase();
+      const selectedYearRange = yearFilter.value;
 
       let visibleCount = 0;
 
@@ -214,6 +245,7 @@ const { page, allAuthors, allLanguages, allGenres} = Astro.props;
         const description = item.dataset.description || '';
         const language = item.dataset.language || '';
         const genre = item.dataset.genre || '';
+        const year = item.dataset.year || '';
 
         const matchesSearch = !searchTerm ||
           title.includes(searchTerm) ||
@@ -224,7 +256,14 @@ const { page, allAuthors, allLanguages, allGenres} = Astro.props;
         const matchesLanguage = !selectedLanguage || language.includes(selectedLanguage);
         const matchesGenre = !selectedGenre || genre.includes(selectedGenre);
 
-        const isVisible = matchesSearch && matchesAuthor && matchesLanguage && matchesGenre;
+        let matchesYear = true;
+        if (selectedYearRange && year) {
+          const [minYear, maxYear] = selectedYearRange.split('-').map(Number);
+          const workYear = Number(year);
+          matchesYear = workYear >= minYear && workYear <= maxYear;
+        }
+
+        const isVisible = matchesSearch && matchesAuthor && matchesLanguage && matchesGenre && matchesYear;
 
         if (isVisible) {
           item.style.display = 'block';
@@ -243,5 +282,6 @@ const { page, allAuthors, allLanguages, allGenres} = Astro.props;
     authorFilter?.addEventListener('change', filterWorks);
     languageFilter?.addEventListener('change', filterWorks);
     genreFilter?.addEventListener('change', filterWorks);
+    yearFilter?.addEventListener('change', filterWorks);
   </script>
 </BaseLayout>
