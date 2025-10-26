@@ -4,6 +4,7 @@ import Button from '../../components/ui/Button.astro';
 import Badge from '../../components/ui/Badge.astro';
 import { getCollection } from 'astro:content';
 import type { GetStaticPaths } from 'astro';
+import { getUniqueNormalizedAuthors, normalizeAuthorNames } from '../../utils/authorUtils';
 
 export const getStaticPaths = (async ({ paginate }) => {
   const allWorks = await getCollection('works');
@@ -11,23 +12,23 @@ export const getStaticPaths = (async ({ paginate }) => {
     return b.data.publishDate.valueOf() - a.data.publishDate.valueOf();
   });
 
-  const ALL_AUTHORS = [...new Set(allWorks.flatMap(work => work.data.author))].sort();
+  const ALL_AUTHORS = getUniqueNormalizedAuthors(allWorks);
   const ALL_LANGUAGES = [...new Set(allWorks.flatMap(work => work.data.language))].sort();
   const ALL_GENRES = [...new Set(allWorks.flatMap(work => work.data.genre))].sort();
 
-  // Generate year ranges for filter
+  // Generate year ranges for filter - organized by historical periods
   const years = allWorks.map(w => w.data.year).filter(y => y);
   const minYear = Math.min(...years);
   const maxYear = Math.max(...years);
   const YEAR_RANGES = [
-    { label: 'Before 1500', value: '0-1499' },
-    { label: '1500-1699', value: '1500-1699' },
-    { label: '1700-1799', value: '1700-1799' },
-    { label: '1800-1849', value: '1800-1849' },
-    { label: '1850-1899', value: '1850-1899' },
-    { label: '1900-1949', value: '1900-1949' },
-    { label: '1950-1999', value: '1950-1999' },
-    { label: '2000+', value: '2000-9999' },
+    { label: 'Ancient (Before 500 CE)', value: '-9999-500' },
+    { label: 'Classical (500-1200)', value: '500-1200' },
+    { label: 'Medieval (1200-1500)', value: '1200-1500' },
+    { label: 'Early Modern (1500-1700)', value: '1500-1700' },
+    { label: 'Colonial Era (1700-1850)', value: '1700-1850' },
+    { label: 'Late Colonial (1850-1900)', value: '1850-1900' },
+    { label: '20th Century (1900-1950)', value: '1900-1950' },
+    { label: 'Modern (1950+)', value: '1950-9999' },
   ];
 
   return paginate(sortedWorks, {
@@ -37,11 +38,12 @@ export const getStaticPaths = (async ({ paginate }) => {
       allLanguages: ALL_LANGUAGES,
       allGenres: ALL_GENRES,
       yearRanges: YEAR_RANGES,
+      allWorks: sortedWorks, // Pass all works for client-side filtering across pages
     }
   });
 }) satisfies GetStaticPaths;
 
-const { page, allAuthors, allLanguages, allGenres, yearRanges} = Astro.props;
+const { page, allAuthors, allLanguages, allGenres, yearRanges, allWorks} = Astro.props;
 ---
 
 <BaseLayout title={`Archive - Page ${page.currentPage} - Dhwani`}>
@@ -137,13 +139,14 @@ const { page, allAuthors, allLanguages, allGenres, yearRanges} = Astro.props;
           {page.data.map((work) => (
             <a
               href={`/works/${work.slug}`}
-              class="work-item group block py-10 md:py-12 lg:py-14 border-b border-line first:pt-0 transition-all duration-300 px-6 -mx-6 hover:px-8 hover:border-l-2 hover:border-l-ink"
+              class="work-item work-item-page group block py-10 md:py-12 lg:py-14 border-b border-line first:pt-0 transition-all duration-300 px-6 -mx-6 hover:px-8 hover:border-l-2 hover:border-l-ink"
               data-title={work.data.title.toLowerCase()}
-              data-author={work.data.author.join(' ').toLowerCase()}
+              data-author={normalizeAuthorNames(work.data.author).join(' ').toLowerCase()}
               data-description={work.data.description.toLowerCase()}
               data-language={work.data.language.join(' ').toLowerCase()}
               data-genre={work.data.genre.join(' ').toLowerCase()}
               data-year={work.data.year || ''}
+              data-on-current-page="true"
             >
               <div class="mb-5 md:mb-6">
                 <h2 class="font-serif text-[1.65rem] md:text-[2.25rem] lg:text-[2.5rem] font-normal leading-[1.2] tracking-tight text-ink mb-2 md:mb-3 transition-all duration-300 group-hover:tracking-[-0.01em]">
@@ -173,6 +176,9 @@ const { page, allAuthors, allLanguages, allGenres, yearRanges} = Astro.props;
             </a>
           ))}
         </div>
+
+        <!-- Container for dynamically loaded filtered works -->
+        <div id="filtered-works-container" class="hidden space-y-0"></div>
 
         <!-- Pagination -->
         {page.lastPage > 1 && (

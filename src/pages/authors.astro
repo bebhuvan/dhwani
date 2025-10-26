@@ -1,17 +1,19 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { normalizeAuthorName } from '../utils/authorUtils';
 
 const allWorks = await getCollection('works');
 const authorMap = new Map();
 
-// Group works by author
+// Group works by normalized author name
 allWorks.forEach(work => {
   work.data.author.forEach(author => {
-    if (!authorMap.has(author)) {
-      authorMap.set(author, []);
+    const normalizedName = normalizeAuthorName(author);
+    if (!authorMap.has(normalizedName)) {
+      authorMap.set(normalizedName, []);
     }
-    authorMap.get(author).push(work);
+    authorMap.get(normalizedName).push(work);
   });
 });
 
