@@ -6,6 +6,12 @@ compatibility_flags = ["nodejs_compat"]
 # Static assets
 assets = { directory = "./dist", binding = "ASSETS" }
 
+# Custom domain
+route = "dhwani.ink/*"
+routes = [
+  { pattern = "dhwani.ink/*", custom_domain = true }
+]
+
 # Build configuration
 [build]
 command = "npm run build"
