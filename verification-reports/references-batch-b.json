@@ -1,0 +1,750 @@
+{
+  "batch": "B",
+  "works_processed": 20,
+  "total_references_added": 101,
+  "avg_references_per_work": 5.05,
+  "works_with_3plus_refs": 16,
+  "detailed_results": [
+    {
+      "file": "atharvaveda-saunaka-visha-bandhu-2.md",
+      "title": "Atharvaveda (saunaka)",
+      "authors": [
+        "Visha Bandhu"
+      ],
+      "references_added": 3,
+      "references": [
+        {
+          "name": "Wikipedia: Atharvaveda (saunaka)...",
+          "url": "https://en.wikipedia.org/wiki/Atharvaveda",
+          "type": "wikipedia"
+        },
+        {
+          "name": "OpenLibrary: Atharvaveda (saunaka)...",
+          "url": "https://openlibrary.org/works/OL23652408W",
+          "type": "openlibrary"
+        },
+        {
+          "name": "Wikisource: Atharvaveda (saunaka)...",
+          "url": "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Sanskrit",
+          "type": "wikisource"
+        }
+      ],
+      "author_bio_saved": false
+    },
+    {
+      "file": "bhartiya-jyotish-vigyan-ravindra-kumar-dubey.md",
+      "title": "Bhartiya Jyotish Vigyan",
+      "authors": [
+        "Ravindra Kumar Dubey"
+      ],
+      "references_added": 2,
+      "references": [
+        {
+          "name": "Wikipedia: Ravindra Kumar Dubey",
+          "url": "https://en.wikipedia.org/wiki/Hindi_blogosphere",
+          "type": "wikipedia"
+        },
+        {
+          "name": "OpenLibrary: Ravindra Kumar Dubey",
+          "url": "https://openlibrary.org/authors/OL9548456A",
+          "type": "openlibrary"
+        }
+      ],
+      "author_bio_saved": false
+    },
+    {
+      "file": "bhartiya-shasan-and-rajniti-jain-pukhraj.md",
+      "title": "Bhartiya Shasan And Rajniti",
+      "authors": [
+        "Jain Pukhraj"
+      ],
+      "references_added": 1,
+      "references": [
+        {
+          "name": "Wikipedia: Jain Pukhraj",
+          "url": "https://en.wikipedia.org/wiki/Hinduism_and_Jainism",
+          "type": "wikipedia"
+        }
+      ],
+      "author_bio_saved": false
+    },
+    {
+      "file": "buddhist-art-in-india-grünwedel.md",
+      "title": "Buddhist art in India",
+      "authors": [
+        "Grünwedel",
+        "Albert",
+        "1856-1935 Burgess"
+      ],
+      "references_added": 9,
+      "references": [
+        {
+          "name": "Wikipedia: Buddhist art in India...",
+          "url": "https://en.wikipedia.org/wiki/Buddhist_art",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Grünwedel",
+          "url": "https://en.wikipedia.org/wiki/Albert_Grünwedel",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Albert",
+          "url": "https://en.wikipedia.org/wiki/Albert",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikidata: Buddhist art in India...",
+          "url": "https://www.wikidata.org/wiki/Q57685413",
+          "type": "wikidata"
+        },
+        {
+          "name": "Wikidata: Grünwedel",
+          "url": "https://www.wikidata.org/wiki/Q25710844",
+          "type": "wikidata"
+        },
+        {
+          "name": "Wikidata: Albert",
+          "url": "https://www.wikidata.org/wiki/Q577011",
+          "type": "wikidata"
+        },
+        {
+          "name": "OpenLibrary: Buddhist art in India...",
+          "url": "https://openlibrary.org/works/OL11393833W",
+          "type": "openlibrary"
+        },
+        {
+          "name": "OpenLibrary: Grünwedel",
+          "url": "https://openlibrary.org/authors/OL102359A",
+          "type": "openlibrary"
+        },
+        {
+          "name": "Wikisource: Buddhist art in India...",
+          "url": "https://en.wikisource.org/wiki/Asoka_-_the_Buddhist_Emperor_of_India/Chapter_1",
+          "type": "wikisource"
+        }
+      ],
+      "author_bio_saved": true
+    },
+    {
+      "file": "contributions-of-sanskrit-inscriptions-to-lexicography-tewari.md",
+      "title": "Contributions of Sanskrit inscriptions to lexicography",
+      "authors": [
+        "Tewari",
+        "S. P.",
+        "1944-"
+      ],
+      "references_added": 8,
+      "references": [
+        {
+          "name": "Wikipedia: Contributions of Sanskrit inscriptions t...",
+          "url": "https://en.wikipedia.org/wiki/Sanskrit_literature",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Tewari",
+          "url": "https://en.wikipedia.org/wiki/Tiwari",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: S. P.",
+          "url": "https://en.wikipedia.org/wiki/S&P_500",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikidata: Tewari",
+          "url": "https://www.wikidata.org/wiki/Q37518551",
+          "type": "wikidata"
+        },
+        {
+          "name": "Wikidata: S. P.",
+          "url": "https://www.wikidata.org/wiki/Q63183273",
+          "type": "wikidata"
+        },
+        {
+          "name": "OpenLibrary: Contributions of Sanskrit inscriptions t...",
+          "url": "https://openlibrary.org/works/OL5081993W",
+          "type": "openlibrary"
+        },
+        {
+          "name": "OpenLibrary: Tewari",
+          "url": "https://openlibrary.org/authors/OL6764646A",
+          "type": "openlibrary"
+        },
+        {
+          "name": "Wikisource: Contributions of Sanskrit inscriptions t...",
+          "url": "https://en.wikisource.org/wiki/Fifty_years_of_\"The_Indian_Antiquary\"",
+          "type": "wikisource"
+        }
+      ],
+      "author_bio_saved": true
+    },
+    {
+      "file": "contributions-of-sanskrit-inscriptions-to-lexicography-tewari-s-p-1944.md",
+      "title": "Contributions of Sanskrit inscriptions to lexicography",
+      "authors": [
+        "Tewari, S. P., 1944-"
+      ],
+      "references_added": 4,
+      "references": [
+        {
+          "name": "Wikipedia: Contributions of Sanskrit inscriptions t...",
+          "url": "https://en.wikipedia.org/wiki/Sanskrit_literature",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Tewari, S. P., 1944-",
+          "url": "https://en.wikipedia.org/wiki/List_of_Indian_women_artists",
+          "type": "wikipedia"
+        },
+        {
+          "name": "OpenLibrary: Contributions of Sanskrit inscriptions t...",
+          "url": "https://openlibrary.org/works/OL5081993W",
+          "type": "openlibrary"
+        },
+        {
+          "name": "Wikisource: Contributions of Sanskrit inscriptions t...",
+          "url": "https://en.wikisource.org/wiki/Fifty_years_of_\"The_Indian_Antiquary\"",
+          "type": "wikisource"
+        }
+      ],
+      "author_bio_saved": false
+    },
+    {
+      "file": "critical-word-index-of-the-bhagavadgita-divanji.md",
+      "title": "Critical word index of the Bhagavadgita",
+      "authors": [
+        "Divanji",
+        "Prahlad C."
+      ],
+      "references_added": 7,
+      "references": [
+        {
+          "name": "Wikipedia: Critical word index of the Bhagavadgita...",
+          "url": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Divanji",
+          "url": "https://en.wikipedia.org/wiki/Yoga_Yajnavalkya",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Prahlad C.",
+          "url": "https://en.wikipedia.org/wiki/Manohar_Prahlad_Awati",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikidata: Divanji",
+          "url": "https://www.wikidata.org/wiki/Q102347222",
+          "type": "wikidata"
+        },
+        {
+          "name": "Wikidata: Prahlad C.",
+          "url": "https://www.wikidata.org/wiki/Q113724311",
+          "type": "wikidata"
+        },
+        {
+          "name": "OpenLibrary: Divanji",
+          "url": "https://openlibrary.org/authors/OL5731609A",
+          "type": "openlibrary"
+        },
+        {
+          "name": "Wikisource: Critical word index of the Bhagavadgita...",
+          "url": "https://en.wikisource.org/wiki/The_Glories_of_the_Bhagavad_Gita_(Telang_translation)/Introduction",
+          "type": "wikisource"
+        }
+      ],
+      "author_bio_saved": true
+    },
+    {
+      "file": "critical-word-index-of-the-bhagavadgita-divanji-prahlad-c.md",
+      "title": "Critical word index of the Bhagavadgita",
+      "authors": [
+        "Divanji, Prahlad C."
+      ],
+      "references_added": 4,
+      "references": [
+        {
+          "name": "Wikipedia: Critical word index of the Bhagavadgita...",
+          "url": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Divanji, Prahlad C.",
+          "url": "https://en.wikipedia.org/wiki/Yoga_Yajnavalkya",
+          "type": "wikipedia"
+        },
+        {
+          "name": "OpenLibrary: Divanji, Prahlad C.",
+          "url": "https://openlibrary.org/authors/OL309897A",
+          "type": "openlibrary"
+        },
+        {
+          "name": "Wikisource: Critical word index of the Bhagavadgita...",
+          "url": "https://en.wikisource.org/wiki/The_Glories_of_the_Bhagavad_Gita_(Telang_translation)/Introduction",
+          "type": "wikisource"
+        }
+      ],
+      "author_bio_saved": false
+    },
+    {
+      "file": "epic-mythology-hopkins.md",
+      "title": "Epic mythology",
+      "authors": [
+        "Hopkins",
+        "Edward Washburn",
+        "1857-1932"
+      ],
+      "references_added": 9,
+      "references": [
+        {
+          "name": "Wikipedia: Epic mythology...",
+          "url": "https://en.wikipedia.org/wiki/Greek_mythology",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Hopkins",
+          "url": "https://en.wikipedia.org/wiki/Anthony_Hopkins",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Edward Washburn",
+          "url": "https://en.wikipedia.org/wiki/Edward_Washburn",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikidata: Epic mythology...",
+          "url": "https://www.wikidata.org/wiki/Q127269009",
+          "type": "wikidata"
+        },
+        {
+          "name": "Wikidata: Hopkins",
+          "url": "https://www.wikidata.org/wiki/Q193727",
+          "type": "wikidata"
+        },
+        {
+          "name": "Wikidata: Edward Washburn",
+          "url": "https://www.wikidata.org/wiki/Q5345813",
+          "type": "wikidata"
+        },
+        {
+          "name": "OpenLibrary: Epic mythology...",
+          "url": "https://openlibrary.org/works/OL67930W",
+          "type": "openlibrary"
+        },
+        {
+          "name": "OpenLibrary: Hopkins",
+          "url": "https://openlibrary.org/authors/OL131793A",
+          "type": "openlibrary"
+        },
+        {
+          "name": "Wikisource: Epic mythology...",
+          "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_6/Indian/Introduction",
+          "type": "wikisource"
+        }
+      ],
+      "author_bio_saved": true
+    },
+    {
+      "file": "gandhi-azad-and-nationalism-shakir.md",
+      "title": "Gandhi, Azad and nationalism",
+      "authors": [
+        "Shakir",
+        "Moin",
+        "1941-"
+      ],
+      "references_added": 8,
+      "references": [
+        {
+          "name": "Wikipedia: Gandhi, Azad and nationalism...",
+          "url": "https://en.wikipedia.org/wiki/Maulana_Azad",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Shakir",
+          "url": "https://en.wikipedia.org/wiki/Shakir",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Moin",
+          "url": "https://en.wikipedia.org/wiki/Moin",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikidata: Shakir",
+          "url": "https://www.wikidata.org/wiki/Q26816832",
+          "type": "wikidata"
+        },
+        {
+          "name": "Wikidata: Moin",
+          "url": "https://www.wikidata.org/wiki/Q109128137",
+          "type": "wikidata"
+        },
+        {
+          "name": "OpenLibrary: Gandhi, Azad and nationalism...",
+          "url": "https://openlibrary.org/works/OL12137883W",
+          "type": "openlibrary"
+        },
+        {
+          "name": "OpenLibrary: Shakir",
+          "url": "https://openlibrary.org/authors/OL2961688A",
+          "type": "openlibrary"
+        },
+        {
+          "name": "Wikisource: Gandhi, Azad and nationalism...",
+          "url": "https://en.wikisource.org/wiki/A_Week_with_Gandhi/June_4,_1942",
+          "type": "wikisource"
+        }
+      ],
+      "author_bio_saved": true
+    },
+    {
+      "file": "history-of-aurangzib-based-on-original-sources-jadunath-sarkar.md",
+      "title": "History of Aurangzib based on original sources",
+      "authors": [
+        "Jadunath Sarkar"
+      ],
+      "references_added": 6,
+      "references": [
+        {
+          "name": "Wikipedia: History of Aurangzib based on original s...",
+          "url": "https://en.wikipedia.org/wiki/Muhammad_Sultan_(Mughal_prince)",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Jadunath Sarkar",
+          "url": "https://en.wikipedia.org/wiki/Jadunath_Sarkar",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikidata: Jadunath Sarkar",
+          "url": "https://www.wikidata.org/wiki/Q2035098",
+          "type": "wikidata"
+        },
+        {
+          "name": "OpenLibrary: History of Aurangzib based on original s...",
+          "url": "https://openlibrary.org/works/OL10940148W",
+          "type": "openlibrary"
+        },
+        {
+          "name": "OpenLibrary: Jadunath Sarkar",
+          "url": "https://openlibrary.org/authors/OL4543208A",
+          "type": "openlibrary"
+        },
+        {
+          "name": "Wikisource: History of Aurangzib based on original s...",
+          "url": "https://en.wikisource.org/wiki/Shivaji_and_His_Times",
+          "type": "wikisource"
+        }
+      ],
+      "author_bio_saved": true
+    },
+    {
+      "file": "indian-home-rule-reprinted-with-a-new-foreword-by-the-author-gandhi.md",
+      "title": "Indian home rule. Reprinted with a new foreword by the author",
+      "authors": [
+        "Gandhi",
+        "Mahatma",
+        "1869-1948"
+      ],
+      "references_added": 8,
+      "references": [
+        {
+          "name": "Wikipedia: Indian home rule. Reprinted with a new f...",
+          "url": "https://en.wikipedia.org/wiki/The_Story_of_My_Experiments_with_Truth",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Gandhi",
+          "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Mahatma",
+          "url": "https://en.wikipedia.org/wiki/Mahatma",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikidata: Gandhi",
+          "url": "https://www.wikidata.org/wiki/Q302736",
+          "type": "wikidata"
+        },
+        {
+          "name": "Wikidata: Mahatma",
+          "url": "https://www.wikidata.org/wiki/Q9441",
+          "type": "wikidata"
+        },
+        {
+          "name": "OpenLibrary: Indian home rule. Reprinted with a new f...",
+          "url": "https://openlibrary.org/works/OL298453W",
+          "type": "openlibrary"
+        },
+        {
+          "name": "OpenLibrary: Gandhi",
+          "url": "https://openlibrary.org/authors/OL891A",
+          "type": "openlibrary"
+        },
+        {
+          "name": "Wikisource: Indian home rule. Reprinted with a new f...",
+          "url": "https://en.wikisource.org/wiki/Indian_Home_Rule_(5th_edition)",
+          "type": "wikisource"
+        }
+      ],
+      "author_bio_saved": true
+    },
+    {
+      "file": "kabir-granthavali-gupta-mataprasad.md",
+      "title": "Kabir Granthavali",
+      "authors": [
+        "Gupta, Mataprasad"
+      ],
+      "references_added": 3,
+      "references": [
+        {
+          "name": "Wikipedia: Kabir Granthavali...",
+          "url": "https://en.wikipedia.org/wiki/Kabir",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Gupta, Mataprasad",
+          "url": "https://en.wikipedia.org/wiki/Kahe_Diya_Pardes",
+          "type": "wikipedia"
+        },
+        {
+          "name": "OpenLibrary: Kabir Granthavali...",
+          "url": "https://openlibrary.org/works/OL316165W",
+          "type": "openlibrary"
+        }
+      ],
+      "author_bio_saved": false
+    },
+    {
+      "file": "kabir-granthavali-gupta.md",
+      "title": "Kabir Granthavali",
+      "authors": [
+        "Gupta",
+        "Mataprasad"
+      ],
+      "references_added": 7,
+      "references": [
+        {
+          "name": "Wikipedia: Kabir Granthavali...",
+          "url": "https://en.wikipedia.org/wiki/Kabir",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Gupta",
+          "url": "https://en.wikipedia.org/wiki/Gupta",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Mataprasad",
+          "url": "https://en.wikipedia.org/wiki/Kahe_Diya_Pardes",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikidata: Gupta",
+          "url": "https://www.wikidata.org/wiki/Q3632770",
+          "type": "wikidata"
+        },
+        {
+          "name": "Wikidata: Mataprasad",
+          "url": "https://www.wikidata.org/wiki/Q61362266",
+          "type": "wikidata"
+        },
+        {
+          "name": "OpenLibrary: Kabir Granthavali...",
+          "url": "https://openlibrary.org/works/OL316165W",
+          "type": "openlibrary"
+        },
+        {
+          "name": "OpenLibrary: Gupta",
+          "url": "https://openlibrary.org/authors/OL12880485A",
+          "type": "openlibrary"
+        }
+      ],
+      "author_bio_saved": true
+    },
+    {
+      "file": "kabir-granthawali-kabir.md",
+      "title": "Kabir-granthawali",
+      "authors": [
+        "Kabir",
+        "Shyamsundar Das"
+      ],
+      "references_added": 6,
+      "references": [
+        {
+          "name": "Wikipedia: Kabir-granthawali...",
+          "url": "https://en.wikipedia.org/wiki/Kabir",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Kabir",
+          "url": "https://en.wikipedia.org/wiki/Kabir",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Shyamsundar Das",
+          "url": "https://en.wikipedia.org/wiki/Kabir",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikidata: Kabir",
+          "url": "https://www.wikidata.org/wiki/Q28812631",
+          "type": "wikidata"
+        },
+        {
+          "name": "Wikidata: Shyamsundar Das",
+          "url": "https://www.wikidata.org/wiki/Q12454546",
+          "type": "wikidata"
+        },
+        {
+          "name": "OpenLibrary: Kabir",
+          "url": "https://openlibrary.org/authors/OL2659024A",
+          "type": "openlibrary"
+        }
+      ],
+      "author_bio_saved": true
+    },
+    {
+      "file": "kāñcippurāṇam-civañāṇa-muṉivar-active-18th-century.md",
+      "title": "Kāñcippurāṇam",
+      "authors": [
+        "Civañāṇa Muṉivar, active 18th century"
+      ],
+      "references_added": 1,
+      "references": [
+        {
+          "name": "OpenLibrary: Kāñcippurāṇam...",
+          "url": "https://openlibrary.org/works/OL20648371W",
+          "type": "openlibrary"
+        }
+      ],
+      "author_bio_saved": false
+    },
+    {
+      "file": "kāñcippurāṇam-civañāna-munivar.md",
+      "title": "Kāñcippurāṇam",
+      "authors": [
+        "Civañān̲a Mun̲ivar",
+        "active 18th century"
+      ],
+      "references_added": 5,
+      "references": [
+        {
+          "name": "Wikipedia: Civañān̲a Mun̲ivar",
+          "url": "https://en.wikipedia.org/wiki/Meykandar",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: active 18th century",
+          "url": "https://en.wikipedia.org/wiki/List_of_18th-century_women_artists",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikidata: Civañān̲a Mun̲ivar",
+          "url": "https://www.wikidata.org/wiki/Q113795867",
+          "type": "wikidata"
+        },
+        {
+          "name": "OpenLibrary: Kāñcippurāṇam...",
+          "url": "https://openlibrary.org/works/OL20648371W",
+          "type": "openlibrary"
+        },
+        {
+          "name": "OpenLibrary: Civañān̲a Mun̲ivar",
+          "url": "https://openlibrary.org/authors/OL15281A",
+          "type": "openlibrary"
+        }
+      ],
+      "author_bio_saved": true
+    },
+    {
+      "file": "kashidasi-mahabharat-কশদস-মহভরত-kashiram-das.md",
+      "title": "Kashidasi Mahabharat কাশীদাসী মহাভারত",
+      "authors": [
+        "Kashiram Das",
+        "Sudeb Chandra Chattopadhyaya"
+      ],
+      "references_added": 2,
+      "references": [
+        {
+          "name": "Wikipedia: Kashiram Das",
+          "url": "https://en.wikipedia.org/wiki/Kashiram_Das",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikidata: Kashiram Das",
+          "url": "https://www.wikidata.org/wiki/Q6374348",
+          "type": "wikidata"
+        }
+      ],
+      "author_bio_saved": true
+    },
+    {
+      "file": "kautilya-arthasastra-vidhyalankara.md",
+      "title": "Kautilya Arthasastra",
+      "authors": [
+        "Vidhyalankara",
+        "Pranath"
+      ],
+      "references_added": 5,
+      "references": [
+        {
+          "name": "Wikipedia: Kautilya Arthasastra...",
+          "url": "https://en.wikipedia.org/wiki/Arthashastra",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikipedia: Vidhyalankara",
+          "url": "https://en.wikipedia.org/wiki/Sujatha_Aththanayaka",
+          "type": "wikipedia"
+        },
+        {
+          "name": "Wikidata: Pranath",
+          "url": "https://www.wikidata.org/wiki/Q114512412",
+          "type": "wikidata"
+        },
+        {
+          "name": "OpenLibrary: Kautilya Arthasastra...",
+          "url": "https://openlibrary.org/works/OL18303208W",
+          "type": "openlibrary"
+        },
+        {
+          "name": "Wikisource: Kautilya Arthasastra...",
+          "url": "https://en.wikisource.org/wiki/Arthashastra",
+          "type": "wikisource"
+        }
+      ],
+      "author_bio_saved": true
+    },
+    {
+      "file": "kautilya-arthasastra-vidhyalankara-pranath.md",
+      "title": "Kautilya Arthasastra",
+      "authors": [
+        "Vidhyalankara, Pranath"
+      ],
+      "references_added": 3,
+      "references": [
+        {
+          "name": "Wikipedia: Kautilya Arthasastra...",
+          "url": "https://en.wikipedia.org/wiki/Arthashastra",
+          "type": "wikipedia"
+        },
+        {
+          "name": "OpenLibrary: Kautilya Arthasastra...",
+          "url": "https://openlibrary.org/works/OL18303208W",
+          "type": "openlibrary"
+        },
+        {
+          "name": "Wikisource: Kautilya Arthasastra...",
+          "url": "https://en.wikisource.org/wiki/Arthashastra",
+          "type": "wikisource"
+        }
+      ],
+      "author_bio_saved": false
+    }
+  ]
+}

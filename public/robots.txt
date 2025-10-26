@@ -1,0 +1,24 @@
+# Dhwani Literary Archive - Robots.txt
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://dhwani.in/sitemap-index.xml
+
+# Crawl delays
+Crawl-delay: 1
+
+# Specific paths
+# Allow indexing of works
+Allow: /works/
+Allow: /archive/
+Allow: /collections/
+Allow: /blog/
+
+# Disallow API endpoints (not useful for search engines)
+Disallow: /api/
+
+# Allow RSS feed
+Allow: /rss.xml

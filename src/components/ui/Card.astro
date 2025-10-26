@@ -1,0 +1,39 @@
+---
+export interface Props {
+  variant?: 'default' | 'bordered' | 'elevated' | 'featured';
+  padding?: 'none' | 'sm' | 'md' | 'lg';
+  class?: string;
+  href?: string;
+}
+
+const {
+  variant = 'default',
+  padding = 'md',
+  class: className = '',
+  href
+} = Astro.props;
+
+const baseStyles = 'block transition-all duration-200';
+
+const variantStyles = {
+  default: 'bg-warm-white border border-line-light hover:border-line',
+  bordered: 'bg-warm-white border-2 border-line hover:border-accent',
+  elevated: 'bg-warm-white border border-line-light shadow-sm hover:shadow-md',
+  featured: 'bg-warm-white border-l-4 border-l-accent border border-line-light hover:shadow-lg',
+};
+
+const paddingStyles = {
+  none: '',
+  sm: 'p-6',
+  md: 'p-8',
+  lg: 'p-12 md:p-16',
+};
+
+const combinedClass = `${baseStyles} ${variantStyles[variant]} ${paddingStyles[padding]} ${className}`;
+
+const Tag = href ? 'a' : 'div';
+---
+
+<Tag href={href} class={combinedClass}>
+  <slot />
+</Tag>

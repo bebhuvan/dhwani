@@ -1,0 +1,1348 @@
+{
+  "batch": "A",
+  "works_processed": 20,
+  "successful": 20,
+  "needs_review": 0,
+  "corrections_made": [
+    {
+      "file": "1-bhikshu-pratimoksha-2-bhikshuna-pratimoksha-3-mahabagga-4-chullabagga-sanskrityan.md",
+      "corrections": [
+        "language: ['Hindi'] -> ['Hindi']"
+      ]
+    },
+    {
+      "file": "1-bhikshu-pratimoksha-2-bhikshuna-pratimoksha-3-mahabagga-4-chullabagga-sanskrityan-rahul.md",
+      "corrections": [
+        "language: ['Hindi'] -> ['Hindi']"
+      ]
+    },
+    {
+      "file": "a-comparative-grammar-of-the-sanskrit-zend-greek-latin-lithuanian-gothic-german-and-slavonic-languages-bopp.md",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ]
+    },
+    {
+      "file": "a-compendium-of-the-comparative-grammar-of-the-indo-european-sanskrit-greek-and-latin-languages-schleicher.md",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ]
+    },
+    {
+      "file": "a-concordance-to-the-greek-testament-according-to-the-texts-of-westcott-and-hort-tischendorf-and-the-english-revisers-moulton.md",
+      "corrections": [
+        "language: ['English', 'Greek'] -> ['English', 'Greek']"
+      ]
+    },
+    {
+      "file": "a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale.md",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ]
+    },
+    {
+      "file": "a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale-m-r.md",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ]
+    },
+    {
+      "file": "a-history-of-architecture-in-all-countries-from-the-earliest-times-to-the-present-day-fergusson.md",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ]
+    },
+    {
+      "file": "american-architect-and-architecture-unknown.md",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ]
+    },
+    {
+      "file": "an-alphabetical-list-of-jaina-mss-belonging-to-government-in-the-oriental-library-of-the-asiatic-society-of-bengal-asiatic-society-calcutta.md",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ]
+    },
+    {
+      "file": "an-avesta-grammar-in-comparison-with-sanskrit-jackson.md",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ]
+    },
+    {
+      "file": "a-new-hindustani-english-dictionary-fallon-s.md",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ]
+    },
+    {
+      "file": "annual-address-delivered-to-the-asiatic-society-of-bengal-caluctta-2nd-february-1898-hoernle.md",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ]
+    },
+    {
+      "file": "art-manufactures-of-india-mukharji.md",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ]
+    },
+    {
+      "file": "a-sanskrit-grammar-including-both-the-classical-language-and-the-older-dialects-of-veda-and-brahmana-william-dwight-whitney.md",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ]
+    },
+    {
+      "file": "a-sanskrit-manual-for-high-schools-antoine.md",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ]
+    },
+    {
+      "file": "a-sanskrit-manual-for-high-schools-antoine-robert-1914.md",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ]
+    },
+    {
+      "file": "ashtanga-sangraha-athridev-gupta-1.md",
+      "corrections": [
+        "language: ['Sanskrit'] -> ['Sanskrit']"
+      ]
+    },
+    {
+      "file": "ashtanga-sangraha-athridev-gupta-2.md",
+      "corrections": [
+        "language: ['Sanskrit'] -> ['Sanskrit']"
+      ]
+    },
+    {
+      "file": "atharvaveda-saunaka-visha-bandhu-1.md",
+      "corrections": [
+        "language: ['Hindi'] -> ['Hindi']"
+      ]
+    }
+  ],
+  "detailed_results": [
+    {
+      "file": "1-bhikshu-pratimoksha-2-bhikshuna-pratimoksha-3-mahabagga-4-chullabagga-sanskrityan.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['Hindi'] -> ['Hindi']"
+      ],
+      "archive_id": "in.ernet.dli.2015.292192",
+      "archive_metadata": {
+        "identifier": "in.ernet.dli.2015.292192",
+        "creator": "Sanskrityan, Rahul",
+        "date": "1934",
+        "description": "<p><b>Book Source:</b> <a href=\"http://www.new.dli.ernet.in/handle/2015/292192\" rel=\"nofollow\">Digital Library of India Item 2015.292192</a></p><p>dc.contributor.author: Sanskrityan, Rahul<br />dc.date.accessioned: 2015-08-08T20:15:16Z<br />dc.date.available: 2015-08-08T20:15:16Z<br />dc.date.digitalpublicationdate: 2007/03/13<br />dc.date.citation: 1934<br />dc.identifier.barcode: 04990010200640<br />dc.identifier.origpath: /data2/upload/0054/792<br />dc.identifier.copyno: 1<br />dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/292192<br />dc.description: “Mahabodhi Granthamala, no. 3”<br />dc.description.scannerno: os 5000<br />dc.description.scanningcentre: C-DAK, Kolkata<br />dc.description.main: 1<br />dc.description.tagged: 0<br />dc.description.totalpages: 630<br />dc.format.mimetype: application/pdf<br />dc.language.iso: Hindi<br />dc.publisher.digitalrepublisher: Digital Library Of India<br />dc.publisher: Mahabodhi Sabha, Benares<br />dc.rights: In Public Domain<br />dc.source.library: Uttarpara Jaykrishna Public Library, Hooghly<br />dc.subject.classification: Religion. Theology<br />dc.subject.classification: Buddhism<br />dc.title: Binay Pithak<br />dc.title: 1. Bhikshu-pratimoksha, 2. Bhikshuna Pratimoksha, 3. Mahabagga, 4. Chullabagga<br />dc.type: Print - Paper<br />dc.type: Book<br /></p>",
+        "language": "hin",
+        "mediatype": "texts",
+        "scanner": "Internet Archive Python library 1.2.0.dev4",
+        "subject": "C-DAK",
+        "title": "1. Bhikshu-pratimoksha, 2. Bhikshuna Pratimoksha, 3. Mahabagga, 4. Chullabagga",
+        "publicdate": "2017-01-20 11:42:40",
+        "uploader": "carl@media.org",
+        "addeddate": "2017-01-20 11:42:40",
+        "collection": [
+          "digitallibraryindia",
+          "JaiGyan"
+        ],
+        "identifier-access": "http://archive.org/details/in.ernet.dli.2015.292192",
+        "identifier-ark": "ark:/13960/t5n92kf37",
+        "ppi": "600",
+        "repub_state": "4",
+        "backup_location": "ia906305_10",
+        "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+        "ocr_parameters": "-l hin",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Devanagari",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "hi",
+        "ocr_detected_lang_conf": "1.0000",
+        "pdf_module_version": "0.0.13"
+      },
+      "issues": []
+    },
+    {
+      "file": "1-bhikshu-pratimoksha-2-bhikshuna-pratimoksha-3-mahabagga-4-chullabagga-sanskrityan-rahul.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['Hindi'] -> ['Hindi']"
+      ],
+      "archive_id": "in.ernet.dli.2015.292192",
+      "archive_metadata": {
+        "identifier": "in.ernet.dli.2015.292192",
+        "creator": "Sanskrityan, Rahul",
+        "date": "1934",
+        "description": "<p><b>Book Source:</b> <a href=\"http://www.new.dli.ernet.in/handle/2015/292192\" rel=\"nofollow\">Digital Library of India Item 2015.292192</a></p><p>dc.contributor.author: Sanskrityan, Rahul<br />dc.date.accessioned: 2015-08-08T20:15:16Z<br />dc.date.available: 2015-08-08T20:15:16Z<br />dc.date.digitalpublicationdate: 2007/03/13<br />dc.date.citation: 1934<br />dc.identifier.barcode: 04990010200640<br />dc.identifier.origpath: /data2/upload/0054/792<br />dc.identifier.copyno: 1<br />dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/292192<br />dc.description: “Mahabodhi Granthamala, no. 3”<br />dc.description.scannerno: os 5000<br />dc.description.scanningcentre: C-DAK, Kolkata<br />dc.description.main: 1<br />dc.description.tagged: 0<br />dc.description.totalpages: 630<br />dc.format.mimetype: application/pdf<br />dc.language.iso: Hindi<br />dc.publisher.digitalrepublisher: Digital Library Of India<br />dc.publisher: Mahabodhi Sabha, Benares<br />dc.rights: In Public Domain<br />dc.source.library: Uttarpara Jaykrishna Public Library, Hooghly<br />dc.subject.classification: Religion. Theology<br />dc.subject.classification: Buddhism<br />dc.title: Binay Pithak<br />dc.title: 1. Bhikshu-pratimoksha, 2. Bhikshuna Pratimoksha, 3. Mahabagga, 4. Chullabagga<br />dc.type: Print - Paper<br />dc.type: Book<br /></p>",
+        "language": "hin",
+        "mediatype": "texts",
+        "scanner": "Internet Archive Python library 1.2.0.dev4",
+        "subject": "C-DAK",
+        "title": "1. Bhikshu-pratimoksha, 2. Bhikshuna Pratimoksha, 3. Mahabagga, 4. Chullabagga",
+        "publicdate": "2017-01-20 11:42:40",
+        "uploader": "carl@media.org",
+        "addeddate": "2017-01-20 11:42:40",
+        "collection": [
+          "digitallibraryindia",
+          "JaiGyan"
+        ],
+        "identifier-access": "http://archive.org/details/in.ernet.dli.2015.292192",
+        "identifier-ark": "ark:/13960/t5n92kf37",
+        "ppi": "600",
+        "repub_state": "4",
+        "backup_location": "ia906305_10",
+        "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+        "ocr_parameters": "-l hin",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Devanagari",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "hi",
+        "ocr_detected_lang_conf": "1.0000",
+        "pdf_module_version": "0.0.13"
+      },
+      "issues": []
+    },
+    {
+      "file": "a-comparative-grammar-of-the-sanskrit-zend-greek-latin-lithuanian-gothic-german-and-slavonic-languages-bopp.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ],
+      "archive_id": "comparativegramm01boppuoft",
+      "archive_metadata": {
+        "title": "A comparative grammar of the Sanskrit, Zend, Greek, Latin, Lithuanian, Gothic, German, and Slavonic languages;",
+        "volume": "1",
+        "creator": [
+          "Bopp, Franz, 1791-1867",
+          "Eastwick, Edward Backhouse, 1814-1883"
+        ],
+        "subject": [
+          "Indo-European languages -- Grammar, Comparative",
+          "Language -- Comparative philology"
+        ],
+        "description": "26",
+        "publisher": "London, Williams",
+        "date": "1885",
+        "language": "eng",
+        "copyright-evidence-operator": "AlexAitken",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "copyright-region": "US",
+        "copyright-evidence": "Evidence reported by AlexAitken for item comparativegramm01boppuoft on November 14, 2007: no visible notice of copyright; stated date is 1885.",
+        "copyright-evidence-date": "20071114025831",
+        "sponsor": "MSN",
+        "contributor": "Robarts - University of Toronto",
+        "scanningcenter": "uoft",
+        "mediatype": "texts",
+        "collection": [
+          "robarts",
+          "toronto",
+          "university_of_toronto"
+        ],
+        "call_number": "AEL-0607",
+        "updatedate": "2007-11-14 02:58:35",
+        "updater": "AlexAitken",
+        "identifier": "comparativegramm01boppuoft",
+        "uploader": "alexaitken@archive.org",
+        "addeddate": "2007-11-14 02:58:37",
+        "publicdate": "2007-11-14 02:58:42",
+        "imagecount": "494",
+        "ppi": "400",
+        "lcamid": "325993",
+        "rcamid": "319916",
+        "camera": "1Ds",
+        "operator": "scanner-dave-knox@archive.org",
+        "scanner": "ias8",
+        "scandate": "20071115000443",
+        "identifier-access": "http://www.archive.org/details/comparativegramm01boppuoft",
+        "identifier-ark": "ark:/13960/t2p55hh22",
+        "bookplateleaf": "0004",
+        "curation": "[curator]marcus@archive.org[/curator][date]20071219005308[/date][state]approved[/state]",
+        "sponsordate": "20071130",
+        "filesxml": [
+          "Wed Mar 17 6:51:24 UTC 2010",
+          "Wed Dec 23 20:20:08 UTC 2020"
+        ],
+        "foldoutcount": "0",
+        "repub_state": "4",
+        "backup_location": "ia903601_13",
+        "openlibrary_edition": "OL7070692M",
+        "openlibrary_work": "OL4540619W",
+        "external-identifier": "urn:oclc:record:1042404851",
+        "associated-names": "Eastwick, Edward Backhouse, 1814-1883",
+        "ocr": "tesseract 5.0.0-1-g862e",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.15",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "page_number_confidence": "97",
+        "pdf_module_version": "0.0.18",
+        "page_number_module_version": "1.0.5"
+      },
+      "issues": []
+    },
+    {
+      "file": "a-compendium-of-the-comparative-grammar-of-the-indo-european-sanskrit-greek-and-latin-languages-schleicher.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ],
+      "archive_id": "compendiumofcomp01schluoft",
+      "archive_metadata": {
+        "title": "A compendium of the comparative grammar of the Indo-European, Sanskrit, Greek, and Latin languages;",
+        "volume": "Pt. 1",
+        "creator": [
+          "Schleicher, August, 1821-1868",
+          "Bendall, Herbert"
+        ],
+        "subject": "Indo-European languages -- Grammar, Comparative",
+        "description": "26",
+        "publisher": "London, Trübner",
+        "date": "1874-77",
+        "language": "eng",
+        "copyright-evidence-operator": "scanner-liz-ridolfo",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "copyright-region": "US",
+        "copyright-evidence": "Evidence reported by scanner-liz-ridolfo for item compendiumofcomp01schluoft on October 24, 2007: no visible notice of copyright; stated date is 1874.",
+        "copyright-evidence-date": "20071024185117",
+        "sponsor": "MSN",
+        "contributor": "Robarts - University of Toronto",
+        "scanningcenter": "uoft",
+        "mediatype": "texts",
+        "collection": [
+          "robarts",
+          "toronto",
+          "university_of_toronto"
+        ],
+        "call_number": "AEZ-3105",
+        "updatedate": "2007-10-24 18:51:39",
+        "updater": "scanner-liz-ridolfo",
+        "identifier": "compendiumofcomp01schluoft",
+        "uploader": "liz@archive.org",
+        "addeddate": "2007-10-24 18:51:41",
+        "publicdate": "2007-10-24 18:51:46",
+        "imagecount": "300",
+        "ppi": "400",
+        "lcamid": "1020707450",
+        "rcamid": "1020705646",
+        "camera": "5D",
+        "operator": "scanner-carrie-lounsbury@archive.org",
+        "scanner": "ias12",
+        "scandate": "20071025225027",
+        "identifier-access": "http://www.archive.org/details/compendiumofcomp01schluoft",
+        "identifier-ark": "ark:/13960/t1cj8bf2z",
+        "bookplateleaf": "0006",
+        "sponsordate": "20071031",
+        "curation": "[curator]marcus@archive.org[/curator][date]20071103153408[/date][state]approved[/state]",
+        "filesxml": [
+          "Wed Mar 17 6:51:57 UTC 2010",
+          "Wed Dec 23 20:23:07 UTC 2020"
+        ],
+        "foldoutcount": "0",
+        "repub_state": "4",
+        "backup_location": "ia903601_11",
+        "openlibrary_edition": "OL14001440M",
+        "openlibrary_work": "OL4234452W",
+        "external-identifier": "urn:oclc:record:1042558070",
+        "associated-names": "Bendall, Herbert",
+        "ocr_module_version": "0.0.21",
+        "ocr_converted": "abbyy-to-hocr 1.1.37",
+        "page_number_confidence": "96",
+        "page_number_module_version": "1.0.3"
+      },
+      "issues": []
+    },
+    {
+      "file": "a-concordance-to-the-greek-testament-according-to-the-texts-of-westcott-and-hort-tischendorf-and-the-english-revisers-moulton.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['English', 'Greek'] -> ['English', 'Greek']"
+      ],
+      "archive_id": "aconcordanceto00mouluoft",
+      "archive_metadata": {
+        "identifier": "aconcordanceto00mouluoft",
+        "uploader": "kill.liz@gmail.com",
+        "addeddate": "2006-08-03 14:19:01",
+        "title": "A concordance to the Greek Testament : according to the texts of Westcott and Hort, Tischendorf, and the English revisers",
+        "creator": [
+          "Moulton, W. F. (William Fiddian), 1835-1898",
+          "Geden, Alfred Shenington, 1857-1932"
+        ],
+        "subject": "Bible",
+        "date": "1897",
+        "publisher": "Edinburgh : T. & T. Clark",
+        "language": [
+          "eng",
+          "grc"
+        ],
+        "copyright-evidence-operator": "scanner-Liz-Ridolfo",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "copyright-region": "US",
+        "copyright-evidence": "Evidence reported by scanner-Liz-Ridolfo for item aconcordanceto00mouluoft on Aug 3, 2006; no visible notice of copyright and date found; stated date is 1897; not published by the US government; Have not checked for notice of renewal in the Copyright renewal records.",
+        "copyright-evidence-date": "2006-08-03 14:19:46",
+        "call_number": "AJF-6509",
+        "scanningcenter": "uoft",
+        "sponsor": "MSN",
+        "mediatype": "texts",
+        "contributor": "Emmanuel - University of Toronto",
+        "collection": [
+          "emmanuelcollege",
+          "toronto",
+          "university_of_toronto"
+        ],
+        "updatedate": "2006-08-03 14:19:08",
+        "updater": "scanner-Liz-Ridolfo",
+        "imagecount": "1072",
+        "ppi": "400",
+        "operator": "scanner-chris-webb@archive.org",
+        "scanner": "ias9",
+        "scandate": "20060803212206",
+        "identifier-access": "http://www.archive.org/details/aconcordanceto00mouluoft",
+        "identifier-ark": "ark:/13960/t83j39m2b",
+        "curation": "[curator]julie@archive.org[/curator][date]20060831003958[/date][state]approved[/state]",
+        "publicdate": "2006-08-31 23:56:30",
+        "sponsordate": "20060831",
+        "filesxml": [
+          "Wed Mar 17 4:13:20 UTC 2010",
+          "Wed Dec 23 2:02:38 UTC 2020"
+        ],
+        "lcamid": "null",
+        "rcamid": "null",
+        "camera": "1Ds",
+        "foldoutcount": "0",
+        "repub_state": "4",
+        "backup_location": "ia903600_20",
+        "openlibrary_edition": "OL7120530M",
+        "openlibrary_work": "OL6171790W",
+        "external-identifier": "urn:oclc:record:697629951",
+        "page_number_confidence": "100",
+        "bookplateleaf": "0006",
+        "ocr": "tesseract 5.0.0-1-g862e",
+        "ocr_parameters": "-l eng+grc",
+        "ocr_module_version": "0.0.15",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.4084",
+        "ocr_detected_lang": "el",
+        "ocr_detected_lang_conf": "1.0000",
+        "pdf_module_version": "0.0.18",
+        "page_number_module_version": "1.0.5"
+      },
+      "issues": []
+    },
+    {
+      "file": "a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ],
+      "archive_id": "highersanskritgr00kaleuoft",
+      "archive_metadata": {
+        "title": "A higher Sanskrit grammar, for the use of schools and colleges",
+        "creator": "Kale, M. R. (Moreshvar Ramchandra)",
+        "subject": "Sanskrit language -- Grammar",
+        "description": "26",
+        "publisher": "Delhi M. Banarsidass",
+        "date": "[1961]",
+        "language": "eng",
+        "sponsor": "Tufts University and the National Science Foundation",
+        "contributor": "Robarts - University of Toronto",
+        "scanningcenter": "uoft",
+        "mediatype": "texts",
+        "collection": [
+          "robarts",
+          "toronto",
+          "university_of_toronto"
+        ],
+        "call_number": "AAO-2750",
+        "repub_state": "4",
+        "updatedate": "2007-06-18 14:24:14",
+        "updater": "scanner-liz-ridolfo",
+        "identifier": "highersanskritgr00kaleuoft",
+        "uploader": "liz@archive.org",
+        "addeddate": "2007-06-18 14:24:16",
+        "publicdate": "2007-06-18 14:24:36",
+        "imagecount": "714",
+        "ppi": "500",
+        "lcamid": "330933",
+        "rcamid": "330952",
+        "camera": "1Ds",
+        "operator": "scanner-jen-ford@archive.org",
+        "scanner": "ias3",
+        "scandate": "20070619154057",
+        "identifier-access": "http://www.archive.org/details/highersanskritgr00kaleuoft",
+        "identifier-ark": "ark:/13960/t6d21tx08",
+        "curation": "[curator]sharda@archive.org[/curator][date]20091125231330[/date][state]approved[/state]",
+        "filesxml": [
+          "Thu Mar 18 0:59:00 UTC 2010",
+          "Thu Dec 24 14:03:43 UTC 2020"
+        ],
+        "foldoutcount": "0",
+        "backup_location": "ia903601_2",
+        "openlibrary_edition": "OL14011347M",
+        "openlibrary_work": "OL9081961W",
+        "external-identifier": "urn:oclc:record:1046013237",
+        "ocr_module_version": "0.0.14",
+        "ocr_converted": "abbyy-to-hocr 1.1.11",
+        "page_number_confidence": "100",
+        "page_number_module_version": "1.0.3",
+        "pdf_module_version": "0.0.23"
+      },
+      "issues": []
+    },
+    {
+      "file": "a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale-m-r.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ],
+      "archive_id": "highersanskritgr00kaleuoft",
+      "archive_metadata": {
+        "title": "A higher Sanskrit grammar, for the use of schools and colleges",
+        "creator": "Kale, M. R. (Moreshvar Ramchandra)",
+        "subject": "Sanskrit language -- Grammar",
+        "description": "26",
+        "publisher": "Delhi M. Banarsidass",
+        "date": "[1961]",
+        "language": "eng",
+        "sponsor": "Tufts University and the National Science Foundation",
+        "contributor": "Robarts - University of Toronto",
+        "scanningcenter": "uoft",
+        "mediatype": "texts",
+        "collection": [
+          "robarts",
+          "toronto",
+          "university_of_toronto"
+        ],
+        "call_number": "AAO-2750",
+        "repub_state": "4",
+        "updatedate": "2007-06-18 14:24:14",
+        "updater": "scanner-liz-ridolfo",
+        "identifier": "highersanskritgr00kaleuoft",
+        "uploader": "liz@archive.org",
+        "addeddate": "2007-06-18 14:24:16",
+        "publicdate": "2007-06-18 14:24:36",
+        "imagecount": "714",
+        "ppi": "500",
+        "lcamid": "330933",
+        "rcamid": "330952",
+        "camera": "1Ds",
+        "operator": "scanner-jen-ford@archive.org",
+        "scanner": "ias3",
+        "scandate": "20070619154057",
+        "identifier-access": "http://www.archive.org/details/highersanskritgr00kaleuoft",
+        "identifier-ark": "ark:/13960/t6d21tx08",
+        "curation": "[curator]sharda@archive.org[/curator][date]20091125231330[/date][state]approved[/state]",
+        "filesxml": [
+          "Thu Mar 18 0:59:00 UTC 2010",
+          "Thu Dec 24 14:03:43 UTC 2020"
+        ],
+        "foldoutcount": "0",
+        "backup_location": "ia903601_2",
+        "openlibrary_edition": "OL14011347M",
+        "openlibrary_work": "OL9081961W",
+        "external-identifier": "urn:oclc:record:1046013237",
+        "ocr_module_version": "0.0.14",
+        "ocr_converted": "abbyy-to-hocr 1.1.11",
+        "page_number_confidence": "100",
+        "page_number_module_version": "1.0.3",
+        "pdf_module_version": "0.0.23"
+      },
+      "issues": []
+    },
+    {
+      "file": "a-history-of-architecture-in-all-countries-from-the-earliest-times-to-the-present-day-fergusson.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ],
+      "archive_id": "historyofarchite01ferguoft",
+      "archive_metadata": {
+        "title": "A history of architecture in all countries from the earliest times to the present day",
+        "volume": "1",
+        "creator": "Fergusson, James, 1808-1886",
+        "subject": [
+          "Architecture -- History",
+          "India -- Architecture"
+        ],
+        "description": [
+          "Vol. 1-2. - History of architecture.- Vol. 3. - History of Indian and Eastern architecture.- Vol. 4. - History of modern architecture",
+          "26"
+        ],
+        "publisher": "London : Murray",
+        "date": "1874-",
+        "language": "eng",
+        "copyright-evidence-operator": "scanner-liz-ridolfo",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "copyright-region": "US",
+        "copyright-evidence": "Evidence reported by scanner-liz-ridolfo for item historyofarchite01ferguoft on February 27, 2007: no visible notice of copyright; stated date is 1874.",
+        "copyright-evidence-date": "20070227161005",
+        "sponsor": "MSN",
+        "contributor": "Robarts - University of Toronto",
+        "scanningcenter": "uoft",
+        "mediatype": "texts",
+        "collection": [
+          "robarts",
+          "toronto",
+          "university_of_toronto"
+        ],
+        "call_number": "AEO-3820",
+        "identifier-access": "http://www.archive.org/details/historyofarchite01ferguoft",
+        "updatedate": "2007-02-27 16:10:08",
+        "updater": "scanner-liz-ridolfo",
+        "identifier": "historyofarchite01ferguoft",
+        "uploader": "liz@archive.org",
+        "addeddate": "2007-02-27 16:10:10",
+        "publicdate": "2007-02-27 08:10:15",
+        "imagecount": "650",
+        "ppi": "500",
+        "lcamid": "319802",
+        "rcamid": "319804",
+        "camera": "1Ds",
+        "operator": "scanner-hera-kashmeri@archive.org",
+        "scanner": "ias4",
+        "scandate": "20070301143417",
+        "identifier-ark": "ark:/13960/t6ww78n7b",
+        "curation": "[curator]lajolla@archive.org[/curator][date]20070308175130[/date][state]approved[/state][comment]199[/comment]",
+        "sponsordate": "20070331",
+        "filesxml": "Thu Mar 18 1:18:30 UTC 2010",
+        "backup_location": "ia903600_30",
+        "openlibrary_edition": "OL7021447M",
+        "openlibrary_work": "OL42930W",
+        "external-identifier": "urn:oclc:record:1046008371",
+        "foldoutcount": "0",
+        "ocr_module_version": "0.0.14",
+        "ocr_converted": "abbyy-to-hocr 1.1.11",
+        "page_number_confidence": "100",
+        "page_number_module_version": "1.0.5",
+        "pdf_degraded": "invalid-jp2-headers",
+        "pdf_module_version": "0.0.25"
+      },
+      "issues": []
+    },
+    {
+      "file": "american-architect-and-architecture-unknown.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ],
+      "archive_id": "americanarchite111newyuoft",
+      "archive_metadata": {
+        "title": "American architect and architecture",
+        "volume": "111",
+        "subject": "Architecture -- Periodicals",
+        "description": [
+          "Title aries: Jan. 1876-Dec. 1908, The American architect and building news: Jan. 1909-Aug. 17, 1921, The American architect; Aug. 31, 1921-Dec. 1924, The American architect and the Architectural review; Jan. 1925-May 1936, The American architect",
+          "Absorbed the Inland architect in Jan. 1909; the Architectural review in Aug. 1921; Architecture in June 1936",
+          "Absorbed by the Architectural record",
+          "26"
+        ],
+        "publisher": "New York [etc.]",
+        "language": "eng",
+        "copyright-evidence-operator": "scanner-liz-ridolfo",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "copyright-region": "US",
+        "copyright-evidence": "Evidence reported by scanner-liz-ridolfo for item americanarchite111newyuoft on March 14, 2007: no visible notice of copyright; exact publication date unknown.",
+        "copyright-evidence-date": "20070314190505",
+        "sponsor": "MSN",
+        "contributor": "Robarts - University of Toronto",
+        "scanningcenter": "uoft",
+        "mediatype": "texts",
+        "collection": [
+          "robarts",
+          "toronto",
+          "university_of_toronto"
+        ],
+        "call_number": "ABD-6163",
+        "identifier-access": "http://www.archive.org/details/americanarchite111newyuoft",
+        "updatedate": "2007-03-14 19:05:12",
+        "updater": "scanner-liz-ridolfo",
+        "identifier": "americanarchite111newyuoft",
+        "uploader": "liz@archive.org",
+        "addeddate": "2007-03-14 19:05:14",
+        "publicdate": "2007-03-14 12:05:23",
+        "imagecount": "1184",
+        "ppi": "300",
+        "lcamid": "332430",
+        "rcamid": "332513",
+        "camera": "1Ds",
+        "operator": "scanner-liam-boland@archive.org",
+        "scanner": "uoft1",
+        "scandate": "20070314232120",
+        "identifier-ark": "ark:/13960/t4fn12f3z",
+        "bookplateleaf": "4",
+        "curation": "[curator]marcus@archive.org[/curator][date]20070404015859[/date][state]approved[/state]",
+        "sponsordate": "20070331",
+        "filesxml": [
+          "Wed Mar 17 4:33:37 UTC 2010",
+          "Fri Aug 28 3:30:25 UTC 2015",
+          "Wed Dec 23 3:40:17 UTC 2020"
+        ],
+        "foldoutcount": "0",
+        "repub_state": "4",
+        "backup_location": "ia903600_31",
+        "openlibrary_edition": "OL7021462M",
+        "openlibrary_work": "OL16883294W",
+        "external-identifier": "urn:oclc:record:1039495969",
+        "ocr_module_version": "0.0.13",
+        "ocr_converted": "abbyy-to-hocr 1.1.7",
+        "page_number_confidence": "39",
+        "pdf_module_version": "0.0.15",
+        "date": "1876",
+        "page_number_module_version": "1.0.5"
+      },
+      "issues": []
+    },
+    {
+      "file": "an-alphabetical-list-of-jaina-mss-belonging-to-government-in-the-oriental-library-of-the-asiatic-society-of-bengal-asiatic-society-calcutta.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ],
+      "archive_id": "alphabeticallist00asia",
+      "archive_metadata": {
+        "title": "An alphabetical list of Jaina MSS, belonging to government in the Oriental Library of the Asiatic Society of Bengal",
+        "creator": [
+          "Asiatic Society (Calcutta, India). Library",
+          "Kuñjavihr Nyyabhshana, Pandit"
+        ],
+        "subject": [
+          "Jainism",
+          "Manuscripts, Indic"
+        ],
+        "description": [
+          "Reprint from the Journal of the the Asiatic Society of Bengal, Aug., 1908",
+          "52"
+        ],
+        "publisher": "Calcutta : The Society",
+        "date": "1908",
+        "language": "eng",
+        "page-progression": "lr",
+        "sponsor": "University of Toronto",
+        "contributor": "Robarts - University of Toronto",
+        "scanningcenter": "uoft",
+        "mediatype": "texts",
+        "collection": [
+          "robarts",
+          "toronto",
+          "university_of_toronto"
+        ],
+        "call_number": "ACB-7091",
+        "repub_state": "4",
+        "updatedate": "2011-03-31 16:49:03",
+        "updater": "Kate Farnworth",
+        "identifier": "alphabeticallist00asia",
+        "uploader": "scanner-kate-farnworth@archive.org",
+        "addeddate": "2011-03-31 16:49:04",
+        "publicdate": "2011-03-31 16:49:11",
+        "scanner": "scribe2.toronto.archive.org",
+        "ppi": "400",
+        "camera": "Canon EOS 5D Mark II",
+        "operator": "scanner-rosalie-villanueva@archive.org",
+        "scandate": "20110407021441",
+        "imagecount": "52",
+        "foldoutcount": "0",
+        "identifier-access": "http://www.archive.org/details/alphabeticallist00asia",
+        "identifier-ark": "ark:/13960/t4mk75s3t",
+        "bookplateleaf": "0010",
+        "curation": "[curator]sharda@archive.org[/curator][date]20110418035118[/date][state]approved[/state]",
+        "scanfee": "105",
+        "sponsordate": "20110430",
+        "backup_location": "ia903609_17",
+        "openlibrary_edition": "OL24628677M",
+        "openlibrary_work": "OL15704686W",
+        "external-identifier": "urn:oclc:record:1039510064",
+        "filesxml": "Wed Dec 23 3:22:54 UTC 2020",
+        "oclc-id": "43923405",
+        "associated-names": "Kuñjavihr Nyyabhshana, Pandit",
+        "ocr": "tesseract 5.3.0-3-g9920",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Devanagari",
+        "ocr_detected_script_conf": "0.8699",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "page_number_confidence": "74",
+        "page_number_module_version": "1.0.3",
+        "pdf_module_version": "0.0.23"
+      },
+      "issues": []
+    },
+    {
+      "file": "an-avesta-grammar-in-comparison-with-sanskrit-jackson.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ],
+      "archive_id": "pt1avestagrammar00jackuoft",
+      "archive_metadata": {
+        "title": "An Avesta grammar in comparison with Sanskrit",
+        "volume": "Pt. 1",
+        "creator": "Jackson, A. V. Williams (Abraham Valentine Williams), 1862-1937",
+        "subject": "Avestan language",
+        "description": [
+          "Pt. 1. Phonology, inflection, word-formation; with an introduction on the Avesta",
+          "26"
+        ],
+        "publisher": "Stuttgart, Kohlhammer",
+        "date": "1892",
+        "language": "eng",
+        "copyright-evidence-operator": "andrea@archive.org",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "copyright-region": "US",
+        "copyright-evidence": "Evidence reported by andrea@archive.org for item pt1avestagrammar00jackuoft on November 1, 2007: no visible notice of copyright; stated date is 1892.",
+        "copyright-evidence-date": "20071101183006",
+        "sponsor": "MSN",
+        "contributor": "Robarts - University of Toronto",
+        "scanningcenter": "uoft",
+        "mediatype": "texts",
+        "collection": [
+          "robarts",
+          "toronto",
+          "university_of_toronto"
+        ],
+        "call_number": "AER-6364",
+        "updatedate": "2007-11-01 18:30:13",
+        "updater": "andrea@archive.org",
+        "identifier": "pt1avestagrammar00jackuoft",
+        "uploader": "andrea@archive.org",
+        "addeddate": "2007-11-01 18:30:15",
+        "publicdate": "2007-11-01 18:30:19",
+        "imagecount": "338",
+        "ppi": "400",
+        "lcamid": "1020705222",
+        "rcamid": "1020705646",
+        "camera": "5D",
+        "operator": "scanner-carrie-lounsbury@archive.org",
+        "scanner": "ias12",
+        "scandate": "20071101211548",
+        "identifier-access": "http://www.archive.org/details/pt1avestagrammar00jackuoft",
+        "identifier-ark": "ark:/13960/t9r20w89g",
+        "bookplateleaf": "0004",
+        "curation": "[curator]marcus@archive.org[/curator][date]20071219005308[/date][state]approved[/state]",
+        "sponsordate": "20071130",
+        "filesxml": [
+          "Thu Mar 18 8:40:24 UTC 2010",
+          "Fri Dec 25 21:38:50 UTC 2020"
+        ],
+        "foldoutcount": "0",
+        "repub_state": "4",
+        "backup_location": "ia903601_12",
+        "openlibrary_edition": "OL7026572M",
+        "openlibrary_work": "OL1800101W",
+        "external-identifier": "urn:oclc:record:1051756472",
+        "ocr_module_version": "0.0.21",
+        "ocr_converted": "abbyy-to-hocr 1.1.37",
+        "page_number_confidence": "74",
+        "page_number_module_version": "1.0.3"
+      },
+      "issues": []
+    },
+    {
+      "file": "a-new-hindustani-english-dictionary-fallon-s.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ],
+      "archive_id": "in.ernet.dli.2015.69123",
+      "archive_metadata": {
+        "identifier": "in.ernet.dli.2015.69123",
+        "creator": "Fallon S,w,",
+        "date": "1879",
+        "description": "<p><b>Book Source:</b> <a href=\"http://www.new.dli.ernet.in/handle/2015/69123\" rel=\"nofollow\">Digital Library of India Item 2015.69123</a></p><p>dc.contributor.author: Fallon S,w,<br />dc.date.accessioned: 2015-06-30T01:47:55Z<br />dc.date.available: 2015-06-30T01:47:55Z<br />dc.date.copyrightexpirydate: 0000-00-00<br />dc.date.digitalpublicationdate: 2010-00-00<br />dc.date.citation: 1879<br />dc.identifier.barcode: 99999990005702<br />dc.identifier.origpath: /data6/upload/0139/861<br />dc.identifier.copyno: 1<br />dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/69123<br />dc.description.scanningcentre: Banasthali University<br />dc.description.main: 1<br />dc.description.tagged: 0<br />dc.description.totalpages: 1256<br />dc.format.mimetype: application/pdf<br />dc.language.iso: English<br />dc.publisher.digitalrepublisher: Digital Library Of India<br />dc.publisher: Allahabad, Bharti Bhandar<br />dc.rights: Out_of_copyright<br />dc.source.library: Prakrit Bharti Academy<br />dc.subject.classification: General<br />dc.title: A New Hindustani-english Dictionary<br /></p>",
+        "language": "eng",
+        "mediatype": "texts",
+        "scanner": "Internet Archive Python library 1.1.0",
+        "subject": "Banasthali",
+        "title": "A New Hindustani-english Dictionary",
+        "publicdate": "2017-01-15 22:25:03",
+        "uploader": "carl@media.org",
+        "addeddate": "2017-01-15 22:25:03",
+        "identifier-access": "http://archive.org/details/in.ernet.dli.2015.69123",
+        "identifier-ark": "ark:/13960/t8gf60f1d",
+        "ppi": "300",
+        "ocr": "ABBYY FineReader 11.0",
+        "repub_state": "4",
+        "backup_location": "ia906304_22",
+        "collection": [
+          "digitallibraryindia",
+          "JaiGyan"
+        ]
+      },
+      "issues": []
+    },
+    {
+      "file": "annual-address-delivered-to-the-asiatic-society-of-bengal-caluctta-2nd-february-1898-hoernle.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ],
+      "archive_id": "annualaddressdel00hoeruoft",
+      "archive_metadata": {
+        "title": "Annual address delivered to the Asiatic Society of Bengal, Caluctta, 2nd February, 1898",
+        "creator": [
+          "Hoernle, August Friedrich Rudolf, 1841-1918",
+          "Asiatic Society (Calcutta, India)"
+        ],
+        "subject": [
+          "Civilization, Hindu",
+          "Buddhism -- India",
+          "Jainism",
+          "Calcutta (India) -- History"
+        ],
+        "description": [
+          "With 3 others",
+          "26"
+        ],
+        "publisher": "Calcutta Baptist Mission Press",
+        "date": "1898",
+        "language": "eng",
+        "copyright-evidence-operator": "Marlete Kurten",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "copyright-region": "US",
+        "copyright-evidence": "Evidence reported by Marlete Kurten for item annualaddressdel00hoeruoft on April 4, 2008: no visible notice of copyright; stated date is 1898.",
+        "copyright-evidence-date": "20080404210639",
+        "sponsor": "MSN",
+        "contributor": "Robarts - University of Toronto",
+        "scanningcenter": "uoft",
+        "mediatype": "texts",
+        "collection": [
+          "robarts",
+          "toronto",
+          "university_of_toronto"
+        ],
+        "call_number": "ABL-0567",
+        "updatedate": "2008-04-04 21:07:32",
+        "updater": "Marlete Kurten",
+        "identifier": "annualaddressdel00hoeruoft",
+        "uploader": "marlete@archive.org",
+        "addeddate": "2008-04-04 21:07:38",
+        "publicdate": "2008-04-04 21:07:46",
+        "imagecount": "178",
+        "ppi": "400",
+        "camera": "Canon 5D",
+        "operator": "scanner-patrick-stitt@archive.org",
+        "scanner": "scribe11.toronto.archive.org",
+        "scandate": "20080408023920",
+        "foldoutcount": "0",
+        "identifier-access": "http://www.archive.org/details/annualaddressdel00hoeruoft",
+        "identifier-ark": "ark:/13960/t7fq9xk44",
+        "bookplateleaf": "0006",
+        "curation": "[curator]julie@archive.org[/curator][date]20080523041646[/date][state]approved[/state]",
+        "sponsordate": "20080430",
+        "filesxml": [
+          "Mon Aug 17 21:34:05 UTC 2009",
+          "Fri Aug 28 3:36:41 UTC 2015",
+          "Wed Dec 23 5:04:32 UTC 2020"
+        ],
+        "repub_state": "4",
+        "backup_location": "ia903601_29",
+        "openlibrary_edition": "OL23277944M",
+        "openlibrary_work": "OL7892112W",
+        "external-identifier": "urn:oclc:record:847891245",
+        "associated-names": "Asiatic Society (Calcutta, India)",
+        "ocr_module_version": "0.0.21",
+        "ocr_converted": "abbyy-to-hocr 1.1.37",
+        "page_number_confidence": "92",
+        "page_number_module_version": "1.0.3"
+      },
+      "issues": []
+    },
+    {
+      "file": "art-manufactures-of-india-mukharji.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ],
+      "archive_id": "artmanufactureso00mukhuoft",
+      "archive_metadata": {
+        "title": "Art-manufactures of India",
+        "creator": "Mukharji, T.N",
+        "subject": "India -- Commerce and industries",
+        "description": "14",
+        "publisher": "Calcutta",
+        "date": "1888",
+        "language": "eng",
+        "copyright-evidence-operator": "lexw@archive.org",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "copyright-region": "US",
+        "copyright-evidence": "Evidence reported by lexw@archive.org for item artmanufactureso00mukhuoft on October 13, 2007: no visible notice of copyright; stated date is 1888.",
+        "copyright-evidence-date": "20071013024610",
+        "sponsor": "MSN",
+        "contributor": "Gerstein - University of Toronto",
+        "scanningcenter": "uoft",
+        "mediatype": "texts",
+        "call_number": "AEU-8609",
+        "updatedate": "2007-10-13 02:46:13",
+        "updater": "lexw@archive.org",
+        "identifier": "artmanufactureso00mukhuoft",
+        "uploader": "lexw@archive.org",
+        "addeddate": "2007-10-13 02:46:16",
+        "publicdate": "2007-10-13 02:46:18",
+        "imagecount": "478",
+        "ppi": "400",
+        "lcamid": "1020707106",
+        "rcamid": "1020707278",
+        "camera": "5D",
+        "operator": "scanner-chris-ouderkirk@archive.org",
+        "scanner": "ias13",
+        "scandate": "20071015132540",
+        "identifier-access": "http://www.archive.org/details/artmanufactureso00mukhuoft",
+        "identifier-ark": "ark:/13960/t7tm75459",
+        "bookplateleaf": "0009",
+        "sponsordate": "20071031",
+        "curation": "[curator]marcus@archive.org[/curator][date]20071103153408[/date][state]approved[/state]",
+        "filesxml": [
+          "Wed Mar 17 6:07:18 UTC 2010",
+          "Wed Dec 23 7:17:32 UTC 2020"
+        ],
+        "foldoutcount": "0",
+        "repub_state": "4",
+        "collection": [
+          "gerstein",
+          "toronto",
+          "university_of_toronto"
+        ],
+        "backup_location": "ia903601_10",
+        "openlibrary_edition": "OL7076628M",
+        "openlibrary_work": "OL246720W",
+        "external-identifier": [
+          "urn:oclc:record:697889698",
+          "urn:lcp:artmanufactureso00mukhuoft:epub:30eba156-4f2f-43ae-94d6-42a8ce2bafb7"
+        ],
+        "ocr_module_version": "0.0.21",
+        "ocr_converted": "abbyy-to-hocr 1.1.37",
+        "page_number_confidence": "100",
+        "page_number_module_version": "1.0.3"
+      },
+      "issues": []
+    },
+    {
+      "file": "a-sanskrit-grammar-including-both-the-classical-language-and-the-older-dialects-of-veda-and-brahmana-william-dwight-whitney.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ],
+      "archive_id": "sanskritgrammari00whituoft",
+      "archive_metadata": {
+        "title": "A Sanskrit grammar; including both the classical language, and the older dialects, of Veda and Brahmana",
+        "creator": "Whitney, William Dwight, 1827-1894",
+        "subject": "Sanskrit language -- Grammar",
+        "description": [
+          "A supplement by the author appeared in the same series (Bd. II, Anhang II) with title: The roots, verb-forms, and primary derivatives of the Sanskrit language. Leipzig, 1885 (xiii, [1], 250 p.)",
+          "26"
+        ],
+        "publisher": "Leipzig, Breitkopf and Härtel",
+        "date": "1879",
+        "language": "eng",
+        "sponsor": "Tufts University and the National Science Foundation",
+        "contributor": "Robarts - University of Toronto",
+        "scanningcenter": "uoft",
+        "mediatype": "texts",
+        "collection": [
+          "robarts",
+          "toronto",
+          "university_of_toronto"
+        ],
+        "call_number": "AFD-2434",
+        "repub_state": "4",
+        "updatedate": "2007-06-18 14:25:17",
+        "updater": "scanner-liz-ridolfo",
+        "identifier": "sanskritgrammari00whituoft",
+        "uploader": "liz@archive.org",
+        "addeddate": "2007-06-18 14:25:19",
+        "publicdate": "2007-06-18 14:25:22",
+        "imagecount": "518",
+        "ppi": "500",
+        "lcamid": "330933",
+        "rcamid": "330952",
+        "camera": "1Ds",
+        "operator": "scanner-jen-ford@archive.org",
+        "scanner": "ias3",
+        "missingpages": "237-242",
+        "scandate": "20070620140050",
+        "identifier-access": "http://www.archive.org/details/sanskritgrammari00whituoft",
+        "identifier-ark": "ark:/13960/t3pv6db3m",
+        "curation": "[curator]sharda@archive.org[/curator][date]20091125231330[/date][state]approved[/state]",
+        "filesxml": [
+          "Thu Mar 18 10:12:18 UTC 2010",
+          "Sat Dec 26 3:04:28 UTC 2020"
+        ],
+        "foldoutcount": "0",
+        "backup_location": "ia903601_2",
+        "openlibrary_edition": "OL14040963M",
+        "openlibrary_work": "OL1497719W",
+        "external-identifier": "urn:oclc:record:1084560742",
+        "ocr_module_version": "0.0.14",
+        "ocr_converted": "abbyy-to-hocr 1.1.11",
+        "page_number_confidence": "98",
+        "page_number_module_version": "1.0.5",
+        "pdf_degraded": "invalid-jp2-headers",
+        "pdf_module_version": "0.0.25"
+      },
+      "issues": []
+    },
+    {
+      "file": "a-sanskrit-manual-for-high-schools-antoine.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ],
+      "archive_id": "sanskritmanualfo00antouoft",
+      "archive_metadata": {
+        "title": "A Sanskrit manual for high schools",
+        "creator": "Antoine, Robert, 1914-",
+        "subject": [
+          "Sanskrit language -- Grammar",
+          "Sanskrit language -- Text-books for foreigners English"
+        ],
+        "description": "26",
+        "publisher": "Calcutta St. Xavier's College",
+        "date": "1968",
+        "language": "eng",
+        "sponsor": "msn",
+        "contributor": "Robarts - University of Toronto",
+        "scanningcenter": "uoft",
+        "mediatype": "texts",
+        "collection": [
+          "robarts",
+          "toronto",
+          "university_of_toronto"
+        ],
+        "call_number": "AFZ-7802",
+        "repub_state": "4",
+        "updatedate": "2007-06-18 15:22:19",
+        "updater": "scanner-liz-ridolfo",
+        "identifier": "sanskritmanualfo00antouoft",
+        "uploader": "liz@archive.org",
+        "addeddate": "2007-06-18 15:22:21",
+        "publicdate": "2007-06-18 15:22:28",
+        "imagecount": "186",
+        "ppi": "500",
+        "lcamid": "330933",
+        "rcamid": "330952",
+        "camera": "1Ds",
+        "operator": "scanner-jen-ford@archive.org",
+        "scanner": "ias3",
+        "scandate": "20070620143107",
+        "identifier-access": "http://www.archive.org/details/sanskritmanualfo00antouoft",
+        "identifier-ark": "ark:/13960/t58c9td5k",
+        "curation": "[curator]lajolla@archive.org[/curator][date]20070704020619[/date][state]approved[/state][comment]199[/comment]",
+        "curatecode": "nins",
+        "curatestate": "approved",
+        "sponsordate": "20080531",
+        "filesxml": [
+          "Thu Mar 18 10:12:42 UTC 2010",
+          "Sat Dec 26 3:04:28 UTC 2020"
+        ],
+        "foldoutcount": "0",
+        "backup_location": "ia903601_2",
+        "openlibrary_edition": "OL7084881M",
+        "openlibrary_work": "OL6895537W",
+        "external-identifier": "urn:oclc:record:697599709",
+        "ocr_module_version": "0.0.21",
+        "ocr_converted": "abbyy-to-hocr 1.1.37",
+        "page_number_confidence": "95",
+        "page_number_module_version": "1.0.3"
+      },
+      "issues": []
+    },
+    {
+      "file": "a-sanskrit-manual-for-high-schools-antoine-robert-1914.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['English'] -> ['English']"
+      ],
+      "archive_id": "sanskritmanualfo00antouoft",
+      "archive_metadata": {
+        "title": "A Sanskrit manual for high schools",
+        "creator": "Antoine, Robert, 1914-",
+        "subject": [
+          "Sanskrit language -- Grammar",
+          "Sanskrit language -- Text-books for foreigners English"
+        ],
+        "description": "26",
+        "publisher": "Calcutta St. Xavier's College",
+        "date": "1968",
+        "language": "eng",
+        "sponsor": "msn",
+        "contributor": "Robarts - University of Toronto",
+        "scanningcenter": "uoft",
+        "mediatype": "texts",
+        "collection": [
+          "robarts",
+          "toronto",
+          "university_of_toronto"
+        ],
+        "call_number": "AFZ-7802",
+        "repub_state": "4",
+        "updatedate": "2007-06-18 15:22:19",
+        "updater": "scanner-liz-ridolfo",
+        "identifier": "sanskritmanualfo00antouoft",
+        "uploader": "liz@archive.org",
+        "addeddate": "2007-06-18 15:22:21",
+        "publicdate": "2007-06-18 15:22:28",
+        "imagecount": "186",
+        "ppi": "500",
+        "lcamid": "330933",
+        "rcamid": "330952",
+        "camera": "1Ds",
+        "operator": "scanner-jen-ford@archive.org",
+        "scanner": "ias3",
+        "scandate": "20070620143107",
+        "identifier-access": "http://www.archive.org/details/sanskritmanualfo00antouoft",
+        "identifier-ark": "ark:/13960/t58c9td5k",
+        "curation": "[curator]lajolla@archive.org[/curator][date]20070704020619[/date][state]approved[/state][comment]199[/comment]",
+        "curatecode": "nins",
+        "curatestate": "approved",
+        "sponsordate": "20080531",
+        "filesxml": [
+          "Thu Mar 18 10:12:42 UTC 2010",
+          "Sat Dec 26 3:04:28 UTC 2020"
+        ],
+        "foldoutcount": "0",
+        "backup_location": "ia903601_2",
+        "openlibrary_edition": "OL7084881M",
+        "openlibrary_work": "OL6895537W",
+        "external-identifier": "urn:oclc:record:697599709",
+        "ocr_module_version": "0.0.21",
+        "ocr_converted": "abbyy-to-hocr 1.1.37",
+        "page_number_confidence": "95",
+        "page_number_module_version": "1.0.3"
+      },
+      "issues": []
+    },
+    {
+      "file": "ashtanga-sangraha-athridev-gupta-1.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['Sanskrit'] -> ['Sanskrit']"
+      ],
+      "archive_id": "in.ernet.dli.2015.383455",
+      "archive_metadata": {
+        "identifier": "in.ernet.dli.2015.383455",
+        "creator": "Athridev_gupta",
+        "date": "1951",
+        "description": "<p><b>Book Source:</b> <a href=\"http://www.new.dli.ernet.in/handle/2015/383455\" rel=\"ugc nofollow\">Digital Library of India Item 2015.383455</a></p><p>dc.contributor.author: Athridev_gupta<br />dc.date.accessioned: 2015-09-09T14:41:28Z<br />dc.date.available: 2015-09-09T14:41:28Z<br />dc.date.digitalpublicationdate: 4\\12\\2003<br />dc.date.citation: 1951<br />dc.identifier.other: ORI<br />dc.identifier.barcode: 02040100049120<br />dc.identifier.origpath: /data/upload/0049/125<br />dc.identifier.copyno: 1<br />dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/383455<br />dc.description.scanningcentre: S.V. Digital Library, Tirupati<br />dc.description.main: 1<br />dc.description.tagged: 0<br />dc.description.totalpages: 448<br />dc.format.mimetype: application/pdf<br />dc.language.iso: Sanskrit<br />dc.publisher.digitalrepublisher: UDL TTD TIRUPATI<br />dc.publisher: Nirnaysagar_mudranalaya_mumbai<br />dc.source.library: Sv_digital_library<br />dc.title: Astadasa Granthaha<br />dc.type: Book<br />dc.rights.holder: TTD,Tirupati<br /></p>",
+        "language": "san",
+        "mediatype": "texts",
+        "scanner": "Internet Archive Python library 1.2.0.dev4",
+        "subject": "SV",
+        "title": "Ashtanga Sangraha ",
+        "publicdate": "2017-01-20 21:00:37",
+        "uploader": "carl@media.org",
+        "addeddate": "2017-01-20 21:00:37",
+        "collection": [
+          "digitallibraryindia",
+          "JaiGyan"
+        ],
+        "identifier-access": "http://archive.org/details/in.ernet.dli.2015.383455",
+        "identifier-ark": "ark:/13960/t71w0vb6q",
+        "ppi": "600",
+        "repub_state": "4",
+        "backup_location": "ia906305_12",
+        "year": "1951",
+        "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+        "ocr_parameters": "-l san",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Devanagari",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "hi",
+        "ocr_detected_lang_conf": "1.0000",
+        "page_number_confidence": "42",
+        "page_number_module_version": "1.0.5",
+        "pdf_degraded": "invalid-jp2-headers",
+        "pdf_module_version": "0.0.25"
+      },
+      "issues": []
+    },
+    {
+      "file": "ashtanga-sangraha-athridev-gupta-2.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['Sanskrit'] -> ['Sanskrit']"
+      ],
+      "archive_id": "in.ernet.dli.2015.383455",
+      "archive_metadata": {
+        "identifier": "in.ernet.dli.2015.383455",
+        "creator": "Athridev_gupta",
+        "date": "1951",
+        "description": "<p><b>Book Source:</b> <a href=\"http://www.new.dli.ernet.in/handle/2015/383455\" rel=\"ugc nofollow\">Digital Library of India Item 2015.383455</a></p><p>dc.contributor.author: Athridev_gupta<br />dc.date.accessioned: 2015-09-09T14:41:28Z<br />dc.date.available: 2015-09-09T14:41:28Z<br />dc.date.digitalpublicationdate: 4\\12\\2003<br />dc.date.citation: 1951<br />dc.identifier.other: ORI<br />dc.identifier.barcode: 02040100049120<br />dc.identifier.origpath: /data/upload/0049/125<br />dc.identifier.copyno: 1<br />dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/383455<br />dc.description.scanningcentre: S.V. Digital Library, Tirupati<br />dc.description.main: 1<br />dc.description.tagged: 0<br />dc.description.totalpages: 448<br />dc.format.mimetype: application/pdf<br />dc.language.iso: Sanskrit<br />dc.publisher.digitalrepublisher: UDL TTD TIRUPATI<br />dc.publisher: Nirnaysagar_mudranalaya_mumbai<br />dc.source.library: Sv_digital_library<br />dc.title: Astadasa Granthaha<br />dc.type: Book<br />dc.rights.holder: TTD,Tirupati<br /></p>",
+        "language": "san",
+        "mediatype": "texts",
+        "scanner": "Internet Archive Python library 1.2.0.dev4",
+        "subject": "SV",
+        "title": "Ashtanga Sangraha ",
+        "publicdate": "2017-01-20 21:00:37",
+        "uploader": "carl@media.org",
+        "addeddate": "2017-01-20 21:00:37",
+        "collection": [
+          "digitallibraryindia",
+          "JaiGyan"
+        ],
+        "identifier-access": "http://archive.org/details/in.ernet.dli.2015.383455",
+        "identifier-ark": "ark:/13960/t71w0vb6q",
+        "ppi": "600",
+        "repub_state": "4",
+        "backup_location": "ia906305_12",
+        "year": "1951",
+        "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+        "ocr_parameters": "-l san",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Devanagari",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "hi",
+        "ocr_detected_lang_conf": "1.0000",
+        "page_number_confidence": "42",
+        "page_number_module_version": "1.0.5",
+        "pdf_degraded": "invalid-jp2-headers",
+        "pdf_module_version": "0.0.25"
+      },
+      "issues": []
+    },
+    {
+      "file": "atharvaveda-saunaka-visha-bandhu-1.md",
+      "status": "validated",
+      "corrections": [
+        "language: ['Hindi'] -> ['Hindi']"
+      ],
+      "archive_id": "in.ernet.dli.2015.379318",
+      "archive_metadata": {
+        "identifier": "in.ernet.dli.2015.379318",
+        "creator": "Visha Bandhu",
+        "date": "1962",
+        "description": "<p><b>Book Source:</b> <a href=\"http://www.new.dli.ernet.in/handle/2015/379318\" rel=\"nofollow\">Digital Library of India Item 2015.379318</a></p><p>dc.contributor.author: Visha Bandhu<br />dc.date.accessioned: 2015-09-09T13:57:13Z<br />dc.date.available: 2015-09-09T13:57:13Z<br />dc.date.digitalpublicationdate: 10-03-2003<br />dc.date.citation: 1962<br />dc.identifier.barcode: 02020120022106<br />dc.identifier.origpath: /data/upload/0022/111<br />dc.identifier.copyno: 1<br />dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/379318<br />dc.description.scanningcentre: City Central Library, Hyderabad<br />dc.description.main: 1<br />dc.description.tagged: 0<br />dc.description.totalpages: 464<br />dc.format.mimetype: application/pdf<br />dc.language.iso: Hindi<br />dc.publisher.digitalrepublisher: PAR INFORMATICS,HYD<br />dc.publisher: Deva Datta Shastri. V.v.r.i<br />dc.source.library: Ccl<br />dc.subject.classification: Enter Subject Of The Book<br />dc.title: Atharvaveda (saunaka)<br />dc.type: enter document type<br />dc.rights.holder: enter name of the copyright owner<br /></p>",
+        "language": "hin",
+        "mediatype": "texts",
+        "scanner": "Internet Archive Python library 1.2.0.dev4",
+        "subject": "City",
+        "title": "Atharvaveda (saunaka)",
+        "publicdate": "2017-01-21 16:50:58",
+        "uploader": "carl@media.org",
+        "addeddate": "2017-01-21 16:50:58",
+        "identifier-access": "http://archive.org/details/in.ernet.dli.2015.379318",
+        "identifier-ark": "ark:/13960/t1rg13m3v",
+        "ppi": "300",
+        "repub_state": "4",
+        "backup_location": "ia906305_15",
+        "collection": [
+          "digitallibraryindia",
+          "JaiGyan"
+        ],
+        "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+        "ocr_parameters": "-l hin",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Devanagari",
+        "ocr_detected_script_conf": "0.9970",
+        "ocr_detected_lang": "hi",
+        "ocr_detected_lang_conf": "1.0000",
+        "pdf_module_version": "0.0.13"
+      },
+      "issues": []
+    }
+  ]
+}

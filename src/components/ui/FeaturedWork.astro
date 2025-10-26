@@ -1,0 +1,84 @@
+---
+import MetadataGrid from './MetadataGrid.astro';
+
+export interface Props {
+  title: string;
+  author: string[];
+  language: string[];
+  year?: number;
+  genre?: string[];
+  description: string;
+  href: string;
+  index: number;
+  class?: string;
+}
+
+const {
+  title,
+  author,
+  language,
+  year,
+  genre,
+  description,
+  href,
+  index,
+  class: className = ''
+} = Astro.props;
+
+const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI'];
+
+// Build metadata items
+const metadataItems = [
+  { label: 'Language', value: language },
+  ...(year ? [{ label: 'Year', value: year.toString() }] : []),
+  ...(genre && genre.length > 0 ? [{ label: 'Genre', value: genre }] : []),
+];
+---
+
+<article class={`mb-20 md:mb-24 last:mb-0 ${className}`}>
+  <a href={href} class="group block border border-line hover:border-accent transition-colors p-10 md:p-12 bg-paper">
+    <div class="max-w-[54rem] mx-auto flex gap-6 md:gap-8">
+      <!-- Roman numeral on left -->
+      <div class="shrink-0">
+        <span class="font-serif text-[3rem] md:text-[4rem] text-accent font-light leading-none block" style="opacity: 0.10;">
+          {romanNumerals[index] || index + 1}
+        </span>
+      </div>
+
+      <!-- Content aligned -->
+      <div class="flex-1 pt-1">
+        <!-- Title -->
+        <h3 class="font-serif text-[2.5rem] md:text-[3.25rem] font-medium leading-[1.05] tracking-[-0.025em] text-ink group-hover:text-accent transition-colors mb-6">
+          {title}
+        </h3>
+
+        <!-- Author -->
+        <div class="text-[1.2rem] text-ink-medium font-medium mb-8 pb-8 border-b border-line">
+          {author.join(', ')}
+        </div>
+
+        <!-- Description -->
+        <p class="font-serif-body text-[1.15rem] leading-[1.8] text-ink-light font-normal mb-7">
+          {description}
+        </p>
+
+        <!-- Metadata -->
+        <div class="flex flex-wrap gap-x-3 gap-y-2 text-[0.9rem] text-ink-lighter">
+          <span>{language.join(', ')}</span>
+          {year && (
+            <>
+              <span>·</span>
+              <span>{year}</span>
+            </>
+          )}
+          {genre && genre.length > 0 && (
+            <>
+              <span>·</span>
+              <span>{genre[0]}</span>
+            </>
+          )}
+        </div>
+      </div>
+    </div>
+  </a>
+</article>

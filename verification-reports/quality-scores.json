@@ -1,0 +1,4040 @@
+{
+  "summary": {
+    "total": 101,
+    "averageScore": null,
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 55,
+    "tier4": 45
+  },
+  "tiers": {
+    "tier1": [],
+    "tier2": [],
+    "tier3": [
+      {
+        "file": "kabir-granthavali-gupta-mataprasad.md",
+        "overall": 59,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 100,
+          "genre": 50,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "critical-word-index-of-the-bhagavadgita-divanji-prahlad-c.md",
+        "overall": 58,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 75,
+          "genre": 100,
+          "tags": 55
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "mool-ramayana-ramnathlal-2.md",
+        "overall": 58,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 100,
+          "genre": 50,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "srimad-bhagavad-gita-sanskrit-hindi-and-english-kaushik.md",
+        "overall": 58,
+        "breakdown": {
+          "description": 75,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 100,
+          "genre": 100,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "gitanjali-song-offerings-a-collection-of-prose-translations-made-by-the-author-from-the-original-bengali-rabindranath-tagore.md",
+        "overall": 57,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 100,
+          "genre": 75,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "the-art-of-war-the-oldest-military-treatise-in-the-world-sun-tzu.md",
+        "overall": 57,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 100,
+          "genre": 75,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "mool-ramayana-ramnathlal-1.md",
+        "overall": 56,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 90,
+          "genre": 50,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "the-kama-sutra-of-vatsyayana-vatsyayana.md",
+        "overall": 56,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 100,
+          "genre": 75,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "si-yu-ki-buddhist-records-of-the-western-world-xuanzang.md",
+        "overall": 55,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 90,
+          "genre": 100,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "the-babur-nama-in-english-memoirs-of-babur-babur.md",
+        "overall": 55,
+        "breakdown": {
+          "description": 65,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 90,
+          "genre": 100,
+          "tags": 50
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "the-holy-bible-a-facsimile-in-a-reduced-size-of-the-authorized-version-published-in-the-year-1611-alfred-w-pollard.md",
+        "overall": 55,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 65,
+          "genre": 75,
+          "tags": 55
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "srimad-bhagavad-gita-sanskrit-hindi-and-english-kaushik-ashok.md",
+        "overall": 54,
+        "breakdown": {
+          "description": 75,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 75,
+          "genre": 100,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "laghu-siddhantakaumudi-varadarāja-varadarāja-active-17th-century.md",
+        "overall": 53,
+        "breakdown": {
+          "description": 80,
+          "authorBio": 46,
+          "contentDepth": 35,
+          "references": 65,
+          "genre": 50,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "tyag-patra-jainendra-kumar-2.md",
+        "overall": 52,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 65,
+          "genre": 50,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "sushrut-sanhita-ambikadatt-2.md",
+        "overall": 51,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 65,
+          "genre": 50,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte-vaman-shivaram-1858-1892.md",
+        "overall": 49,
+        "breakdown": {
+          "description": 80,
+          "authorBio": 48,
+          "contentDepth": 35,
+          "references": 50,
+          "genre": 50,
+          "tags": 30
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "the-samkhya-philosophy-containing-samkhya-pravachana-sutram-nandalal-sinha.md",
+        "overall": 49,
+        "breakdown": {
+          "description": 80,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 50,
+          "genre": 75,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "sushrut-sanhita-ambikadatt-1.md",
+        "overall": 48,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 50,
+          "genre": 50,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "the-vaisesika-sutras-of-kanada-translated-by-nandalal-sinha-kanada.md",
+        "overall": 48,
+        "breakdown": {
+          "description": 80,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 50,
+          "genre": 75,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "the-kathá-sarit-ságara-or-ocean-of-the-streams-of-story-somadeva-bhatta.md",
+        "overall": 47,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 55,
+          "genre": 75,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "tyag-patra-jainendra-kumar-1.md",
+        "overall": 47,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 40,
+          "genre": 50,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "the-raghuvamsa-of-kalidasa-with-the-commentary-the-samjivani-of-mallinatha-kalidasa.md",
+        "overall": 46,
+        "breakdown": {
+          "description": 60,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 55,
+          "genre": 75,
+          "tags": 50
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "our-educational-problem-dayal.md",
+        "overall": 45,
+        "breakdown": {
+          "description": 65,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 75,
+          "genre": 0,
+          "tags": 25
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "puranic-encyclopaedia-a-comprehensive-dictionary-with-special-reference-to-the-epic-and-puranic-literature-mani.md",
+        "overall": 45,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 50,
+          "genre": 75,
+          "tags": 30
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "the-cambridge-history-of-india-edward-james-rapson.md",
+        "overall": 45,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 28,
+          "contentDepth": 35,
+          "references": 50,
+          "genre": 50,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "the-ocean-of-story-being-ch-tawneys-translation-of-somadevas-katha-sarit-sagara-somadeva-bhatta.md",
+        "overall": 44,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 40,
+          "genre": 75,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "our-educational-problem-dayal-har-1884-1939.md",
+        "overall": 43,
+        "breakdown": {
+          "description": 65,
+          "authorBio": 46,
+          "contentDepth": 35,
+          "references": 50,
+          "genre": 0,
+          "tags": 25
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "puranic-encyclopaedia-a-comprehensive-dictionary-with-special-reference-to-the-epic-and-puranic-literature-mani-vettam-1921.md",
+        "overall": 43,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 46,
+          "contentDepth": 35,
+          "references": 25,
+          "genre": 75,
+          "tags": 30
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "తలగ-ఇగలష-నఘటవ-telugu-english-dictionary-ప-శకరనరయణ.md",
+        "overall": 43,
+        "breakdown": {
+          "description": 75,
+          "authorBio": 22,
+          "contentDepth": 35,
+          "references": 25,
+          "genre": 75,
+          "tags": 55
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "laghu-siddhantakaumudi-varadarāja-varadarāja.md",
+        "overall": 42,
+        "breakdown": {
+          "description": 80,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 25,
+          "genre": 50,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "the-sacred-books-of-the-east-described-and-examined-hindu-series-unknown.md",
+        "overall": 42,
+        "breakdown": {
+          "description": 80,
+          "authorBio": 40,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 100,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "vedic-grammar-arthur-anthony-macdonell.md",
+        "overall": 42,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 28,
+          "contentDepth": 35,
+          "references": 25,
+          "genre": 75,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte.md",
+        "overall": 41,
+        "breakdown": {
+          "description": 80,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 25,
+          "genre": 50,
+          "tags": 30
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "indian-home-rule-reprinted-with-a-new-foreword-by-the-author-gandhi-mahatma-1869-1948.md",
+        "overall": 58,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 46,
+          "contentDepth": 35,
+          "references": 100,
+          "genre": 50,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "kabir-granthavali-gupta.md",
+        "overall": 58,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 100,
+          "genre": 50,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "kautilya-arthashastra-hindi-anubad-kautilya.md",
+        "overall": 56,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 65,
+          "genre": 100,
+          "tags": 55
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "kautilya-arthasastra-vidhyalankara-pranath.md",
+        "overall": 55,
+        "breakdown": {
+          "description": 85,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 90,
+          "genre": 50,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "a-sanskrit-grammar-including-both-the-classical-language-and-the-older-dialects-of-veda-and-brahmana-william-dwight-whitney.md",
+        "overall": 54,
+        "breakdown": {
+          "description": 80,
+          "authorBio": 28,
+          "contentDepth": 35,
+          "references": 75,
+          "genre": 75,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "an-alphabetical-list-of-jaina-mss-belonging-to-government-in-the-oriental-library-of-the-asiatic-society-of-bengal-asiatic-society-calcutta.md",
+        "overall": 52,
+        "breakdown": {
+          "description": 80,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 75,
+          "genre": 50,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "critical-word-index-of-the-bhagavadgita-divanji.md",
+        "overall": 52,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 50,
+          "genre": 100,
+          "tags": 49
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "hind-swaraj-or-indian-home-rule-mahatma-gandhi.md",
+        "overall": 52,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 75,
+          "genre": 75,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "kautilya-arthasastra-vidhyalankara.md",
+        "overall": 52,
+        "breakdown": {
+          "description": 85,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 75,
+          "genre": 50,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "atharvaveda-saunaka-visha-bandhu-1.md",
+        "overall": 51,
+        "breakdown": {
+          "description": 75,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 90,
+          "genre": 0,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "kabir-granthawali-kabir.md",
+        "overall": 51,
+        "breakdown": {
+          "description": 75,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 65,
+          "genre": 75,
+          "tags": 55
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "indian-home-rule-reprinted-with-a-new-foreword-by-the-author-gandhi.md",
+        "overall": 50,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 75,
+          "genre": 50,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "kashidasi-mahabharat-কশদস-মহভরত-kashiram-das.md",
+        "overall": 49,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 40,
+          "genre": 75,
+          "tags": 49
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "ashtanga-sangraha-athridev-gupta-2.md",
+        "overall": 48,
+        "breakdown": {
+          "description": 75,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 65,
+          "genre": 50,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "atharvaveda-saunaka-visha-bandhu-2.md",
+        "overall": 48,
+        "breakdown": {
+          "description": 75,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 75,
+          "genre": 0,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "history-of-aurangzib-based-on-original-sources-jadunath-sarkar.md",
+        "overall": 48,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 55,
+          "genre": 75,
+          "tags": 49
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "kāñcippurāṇam-civañāna-munivar.md",
+        "overall": 47,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 40,
+          "genre": 50,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "kāñcippurāṇam-civañāṇa-muṉivar-active-18th-century.md",
+        "overall": 47,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 46,
+          "contentDepth": 35,
+          "references": 25,
+          "genre": 50,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "ashtanga-sangraha-athridev-gupta-1.md",
+        "overall": 45,
+        "breakdown": {
+          "description": 75,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 50,
+          "genre": 50,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "bhartiya-jyotish-vigyan-ravindra-kumar-dubey.md",
+        "overall": 45,
+        "breakdown": {
+          "description": 85,
+          "authorBio": 28,
+          "contentDepth": 35,
+          "references": 25,
+          "genre": 75,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "a-classical-dictionary-of-hindu-mythology-and-religion-geography-history-and-literature-john-dowson.md",
+        "overall": 42,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 25,
+          "genre": 75,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "akbar-the-great-mogul-1542-1605-vincent-arthur-smith.md",
+        "overall": 40,
+        "breakdown": {
+          "description": 45,
+          "authorBio": 28,
+          "contentDepth": 35,
+          "references": 40,
+          "genre": 75,
+          "tags": 49
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      }
+    ],
+    "tier4": [
+      {
+        "file": "1-bhikshu-pratimoksha-2-bhikshuna-pratimoksha-3-mahabagga-4-chullabagga-sanskrityan-rahul.md",
+        "overall": 39,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "marma-vijnj-aan-paathak-raamarakshh-1.md",
+        "overall": 39,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "marma-vijnj-aan-paathak-raamarakshh-2.md",
+        "overall": 39,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "1-bhikshu-pratimoksha-2-bhikshuna-pratimoksha-3-mahabagga-4-chullabagga-sanskrityan.md",
+        "overall": 38,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "american-architect-and-architecture-unknown.md",
+        "overall": 38,
+        "breakdown": {
+          "description": 75,
+          "authorBio": 40,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "bhartiya-shasan-and-rajniti-jain-pukhraj.md",
+        "overall": 38,
+        "breakdown": {
+          "description": 90,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "contributions-of-sanskrit-inscriptions-to-lexicography-tewari-s-p-1944.md",
+        "overall": 38,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 44,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 75,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "yoga-sastra-the-yoga-sutras-of-patenjali-examined-with-a-notice-of-swami-vivekanandas-yoga-philosophy-patañjali-christian-literature-society-for-india-murdoch.md",
+        "overall": 38,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 34,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 75,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "a-history-of-architecture-in-all-countries-from-the-earliest-times-to-the-present-day-fergusson.md",
+        "overall": 37,
+        "breakdown": {
+          "description": 75,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 75,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "a-new-hindustani-english-dictionary-fallon-s.md",
+        "overall": 37,
+        "breakdown": {
+          "description": 85,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "a-sanskrit-manual-for-high-schools-antoine-robert-1914.md",
+        "overall": 37,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 46,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 30
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "annual-address-delivered-to-the-asiatic-society-of-bengal-caluctta-2nd-february-1898-hoernle.md",
+        "overall": 37,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 75,
+          "tags": 49
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "hindu-widow-re-marriage-other-tracts-gandhi.md",
+        "overall": 37,
+        "breakdown": {
+          "description": 80,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "linguistic-society-of-india-not-available-1.md",
+        "overall": 37,
+        "breakdown": {
+          "description": 85,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "linguistic-society-of-india-not-available-2.md",
+        "overall": 37,
+        "breakdown": {
+          "description": 85,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "literary-history-of-ancient-india-in-relation-to-its-racial-and-linguistic-affiliations-chandra-chakraberty.md",
+        "overall": 37,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 75,
+          "tags": 49
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "miscellaneous-notices-relating-to-china-and-our-commercial-intercourse-with-that-country-part-the-second-staunton.md",
+        "overall": 37,
+        "breakdown": {
+          "description": 75,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 75,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "raghuvansh-mahakavya-mahakavi-kalidas.md",
+        "overall": 37,
+        "breakdown": {
+          "description": 80,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "the-english-urdu-translators-companion-durga-prasad.md",
+        "overall": 37,
+        "breakdown": {
+          "description": 85,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "buddhist-art-in-india-grünwedel.md",
+        "overall": 36,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 75,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "purohit-darpaned25-bhattacharya-surendramohan-comp.md",
+        "overall": 36,
+        "breakdown": {
+          "description": 75,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "the-great-epic-of-india-its-character-and-origin-hopkins.md",
+        "overall": 36,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 75,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "contributions-of-sanskrit-inscriptions-to-lexicography-tewari.md",
+        "overall": 35,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 75,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "purohit-darpaned25-bhattacharya.md",
+        "overall": 35,
+        "breakdown": {
+          "description": 75,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "research-methodology-bm-jain-1.md",
+        "overall": 35,
+        "breakdown": {
+          "description": 75,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "research-methodology-bm-jain-2.md",
+        "overall": 35,
+        "breakdown": {
+          "description": 75,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "a-comparative-grammar-of-the-sanskrit-zend-greek-latin-lithuanian-gothic-german-and-slavonic-languages-bopp.md",
+        "overall": 34,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 30
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "a-compendium-of-the-comparative-grammar-of-the-indo-european-sanskrit-greek-and-latin-languages-schleicher.md",
+        "overall": 34,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 30
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "a-concordance-to-the-greek-testament-according-to-the-texts-of-westcott-and-hort-tischendorf-and-the-english-revisers-moulton.md",
+        "overall": 34,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale-m-r.md",
+        "overall": 34,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 30
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale.md",
+        "overall": 34,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 30
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "a-sanskrit-manual-for-high-schools-antoine.md",
+        "overall": 34,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 30
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "art-manufactures-of-india-mukharji.md",
+        "overall": 34,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "epic-mythology-hopkins.md",
+        "overall": 34,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 30
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "hindu-superiority-an-attempt-to-determine-the-position-of-the-hindu-race-in-the-scale-of-nations-sarda.md",
+        "overall": 34,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "south-indian-images-of-gods-and-goddesses-krishna-sastri.md",
+        "overall": 34,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 35
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "syntax-of-the-hebrew-language-of-the-old-testament-ewald.md",
+        "overall": 34,
+        "breakdown": {
+          "description": 70,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 30
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "jurisprudence-and-legal-theory-dr-mahajan-v-d-1.md",
+        "overall": 33,
+        "breakdown": {
+          "description": 75,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 15
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "jurisprudence-and-legal-theory-dr-mahajan-v-d-2.md",
+        "overall": 33,
+        "breakdown": {
+          "description": 75,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 15
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "life-in-ancient-india-with-a-map-manning.md",
+        "overall": 33,
+        "breakdown": {
+          "description": 80,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 0,
+          "tags": 25
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "the-lusiad-or-the-discovery-of-india-an-epic-poem-camões.md",
+        "overall": 33,
+        "breakdown": {
+          "description": 65,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 30
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "the-village-gods-of-south-india-henry-whitehead.md",
+        "overall": 33,
+        "breakdown": {
+          "description": 50,
+          "authorBio": 26,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 75,
+          "tags": 45
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "अषटधयय-1897-पणन.md",
+        "overall": 33,
+        "breakdown": {
+          "description": 65,
+          "authorBio": 22,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 37.5
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "an-avesta-grammar-in-comparison-with-sanskrit-jackson.md",
+        "overall": 31,
+        "breakdown": {
+          "description": 55,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 50,
+          "tags": 30
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      },
+      {
+        "file": "gandhi-azad-and-nationalism-shakir.md",
+        "overall": 30,
+        "breakdown": {
+          "description": 65,
+          "authorBio": 24,
+          "contentDepth": 35,
+          "references": 0,
+          "genre": 0,
+          "tags": 25
+        },
+        "weights": {
+          "description": 0.2,
+          "authorBio": 0.15,
+          "contentDepth": 0.3,
+          "references": 0.2,
+          "genre": 0.05,
+          "tags": 0.1
+        }
+      }
+    ]
+  },
+  "all": [
+    {
+      "file": "kabir-granthavali-gupta-mataprasad.md",
+      "overall": 59,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 100,
+        "genre": 50,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "critical-word-index-of-the-bhagavadgita-divanji-prahlad-c.md",
+      "overall": 58,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 75,
+        "genre": 100,
+        "tags": 55
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "mool-ramayana-ramnathlal-2.md",
+      "overall": 58,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 100,
+        "genre": 50,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "srimad-bhagavad-gita-sanskrit-hindi-and-english-kaushik.md",
+      "overall": 58,
+      "breakdown": {
+        "description": 75,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 100,
+        "genre": 100,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "gitanjali-song-offerings-a-collection-of-prose-translations-made-by-the-author-from-the-original-bengali-rabindranath-tagore.md",
+      "overall": 57,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 100,
+        "genre": 75,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "the-art-of-war-the-oldest-military-treatise-in-the-world-sun-tzu.md",
+      "overall": 57,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 100,
+        "genre": 75,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "mool-ramayana-ramnathlal-1.md",
+      "overall": 56,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 90,
+        "genre": 50,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "the-kama-sutra-of-vatsyayana-vatsyayana.md",
+      "overall": 56,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 100,
+        "genre": 75,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "si-yu-ki-buddhist-records-of-the-western-world-xuanzang.md",
+      "overall": 55,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 90,
+        "genre": 100,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "the-babur-nama-in-english-memoirs-of-babur-babur.md",
+      "overall": 55,
+      "breakdown": {
+        "description": 65,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 90,
+        "genre": 100,
+        "tags": 50
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "the-holy-bible-a-facsimile-in-a-reduced-size-of-the-authorized-version-published-in-the-year-1611-alfred-w-pollard.md",
+      "overall": 55,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 65,
+        "genre": 75,
+        "tags": 55
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "srimad-bhagavad-gita-sanskrit-hindi-and-english-kaushik-ashok.md",
+      "overall": 54,
+      "breakdown": {
+        "description": 75,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 75,
+        "genre": 100,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "laghu-siddhantakaumudi-varadarāja-varadarāja-active-17th-century.md",
+      "overall": 53,
+      "breakdown": {
+        "description": 80,
+        "authorBio": 46,
+        "contentDepth": 35,
+        "references": 65,
+        "genre": 50,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "tyag-patra-jainendra-kumar-2.md",
+      "overall": 52,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 65,
+        "genre": 50,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "sushrut-sanhita-ambikadatt-2.md",
+      "overall": 51,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 65,
+        "genre": 50,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte-vaman-shivaram-1858-1892.md",
+      "overall": 49,
+      "breakdown": {
+        "description": 80,
+        "authorBio": 48,
+        "contentDepth": 35,
+        "references": 50,
+        "genre": 50,
+        "tags": 30
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "the-samkhya-philosophy-containing-samkhya-pravachana-sutram-nandalal-sinha.md",
+      "overall": 49,
+      "breakdown": {
+        "description": 80,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 50,
+        "genre": 75,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "sushrut-sanhita-ambikadatt-1.md",
+      "overall": 48,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 50,
+        "genre": 50,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "the-vaisesika-sutras-of-kanada-translated-by-nandalal-sinha-kanada.md",
+      "overall": 48,
+      "breakdown": {
+        "description": 80,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 50,
+        "genre": 75,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "the-kathá-sarit-ságara-or-ocean-of-the-streams-of-story-somadeva-bhatta.md",
+      "overall": 47,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 55,
+        "genre": 75,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "tyag-patra-jainendra-kumar-1.md",
+      "overall": 47,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 40,
+        "genre": 50,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "the-raghuvamsa-of-kalidasa-with-the-commentary-the-samjivani-of-mallinatha-kalidasa.md",
+      "overall": 46,
+      "breakdown": {
+        "description": 60,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 55,
+        "genre": 75,
+        "tags": 50
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "our-educational-problem-dayal.md",
+      "overall": 45,
+      "breakdown": {
+        "description": 65,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 75,
+        "genre": 0,
+        "tags": 25
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "puranic-encyclopaedia-a-comprehensive-dictionary-with-special-reference-to-the-epic-and-puranic-literature-mani.md",
+      "overall": 45,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 50,
+        "genre": 75,
+        "tags": 30
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "the-cambridge-history-of-india-edward-james-rapson.md",
+      "overall": 45,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 28,
+        "contentDepth": 35,
+        "references": 50,
+        "genre": 50,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "the-ocean-of-story-being-ch-tawneys-translation-of-somadevas-katha-sarit-sagara-somadeva-bhatta.md",
+      "overall": 44,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 40,
+        "genre": 75,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "our-educational-problem-dayal-har-1884-1939.md",
+      "overall": 43,
+      "breakdown": {
+        "description": 65,
+        "authorBio": 46,
+        "contentDepth": 35,
+        "references": 50,
+        "genre": 0,
+        "tags": 25
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "puranic-encyclopaedia-a-comprehensive-dictionary-with-special-reference-to-the-epic-and-puranic-literature-mani-vettam-1921.md",
+      "overall": 43,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 46,
+        "contentDepth": 35,
+        "references": 25,
+        "genre": 75,
+        "tags": 30
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "తలగ-ఇగలష-నఘటవ-telugu-english-dictionary-ప-శకరనరయణ.md",
+      "overall": 43,
+      "breakdown": {
+        "description": 75,
+        "authorBio": 22,
+        "contentDepth": 35,
+        "references": 25,
+        "genre": 75,
+        "tags": 55
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "laghu-siddhantakaumudi-varadarāja-varadarāja.md",
+      "overall": 42,
+      "breakdown": {
+        "description": 80,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 25,
+        "genre": 50,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "the-sacred-books-of-the-east-described-and-examined-hindu-series-unknown.md",
+      "overall": 42,
+      "breakdown": {
+        "description": 80,
+        "authorBio": 40,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 100,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "vedic-grammar-arthur-anthony-macdonell.md",
+      "overall": 42,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 28,
+        "contentDepth": 35,
+        "references": 25,
+        "genre": 75,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte.md",
+      "overall": 41,
+      "breakdown": {
+        "description": 80,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 25,
+        "genre": 50,
+        "tags": 30
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "1-bhikshu-pratimoksha-2-bhikshuna-pratimoksha-3-mahabagga-4-chullabagga-sanskrityan-rahul.md",
+      "overall": 39,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "marma-vijnj-aan-paathak-raamarakshh-1.md",
+      "overall": 39,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "marma-vijnj-aan-paathak-raamarakshh-2.md",
+      "overall": 39,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "1-bhikshu-pratimoksha-2-bhikshuna-pratimoksha-3-mahabagga-4-chullabagga-sanskrityan.md",
+      "overall": 38,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "README.md",
+      "overall": null,
+      "breakdown": {
+        "description": 0,
+        "authorBio": 0,
+        "contentDepth": 100,
+        "references": 0,
+        "genre": 50,
+        "tags": null
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "indian-home-rule-reprinted-with-a-new-foreword-by-the-author-gandhi-mahatma-1869-1948.md",
+      "overall": 58,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 46,
+        "contentDepth": 35,
+        "references": 100,
+        "genre": 50,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "kabir-granthavali-gupta.md",
+      "overall": 58,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 100,
+        "genre": 50,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "kautilya-arthashastra-hindi-anubad-kautilya.md",
+      "overall": 56,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 65,
+        "genre": 100,
+        "tags": 55
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "kautilya-arthasastra-vidhyalankara-pranath.md",
+      "overall": 55,
+      "breakdown": {
+        "description": 85,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 90,
+        "genre": 50,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "a-sanskrit-grammar-including-both-the-classical-language-and-the-older-dialects-of-veda-and-brahmana-william-dwight-whitney.md",
+      "overall": 54,
+      "breakdown": {
+        "description": 80,
+        "authorBio": 28,
+        "contentDepth": 35,
+        "references": 75,
+        "genre": 75,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "an-alphabetical-list-of-jaina-mss-belonging-to-government-in-the-oriental-library-of-the-asiatic-society-of-bengal-asiatic-society-calcutta.md",
+      "overall": 52,
+      "breakdown": {
+        "description": 80,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 75,
+        "genre": 50,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "critical-word-index-of-the-bhagavadgita-divanji.md",
+      "overall": 52,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 50,
+        "genre": 100,
+        "tags": 49
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "hind-swaraj-or-indian-home-rule-mahatma-gandhi.md",
+      "overall": 52,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 75,
+        "genre": 75,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "kautilya-arthasastra-vidhyalankara.md",
+      "overall": 52,
+      "breakdown": {
+        "description": 85,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 75,
+        "genre": 50,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "atharvaveda-saunaka-visha-bandhu-1.md",
+      "overall": 51,
+      "breakdown": {
+        "description": 75,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 90,
+        "genre": 0,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "kabir-granthawali-kabir.md",
+      "overall": 51,
+      "breakdown": {
+        "description": 75,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 65,
+        "genre": 75,
+        "tags": 55
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "indian-home-rule-reprinted-with-a-new-foreword-by-the-author-gandhi.md",
+      "overall": 50,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 75,
+        "genre": 50,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "kashidasi-mahabharat-কশদস-মহভরত-kashiram-das.md",
+      "overall": 49,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 40,
+        "genre": 75,
+        "tags": 49
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "ashtanga-sangraha-athridev-gupta-2.md",
+      "overall": 48,
+      "breakdown": {
+        "description": 75,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 65,
+        "genre": 50,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "atharvaveda-saunaka-visha-bandhu-2.md",
+      "overall": 48,
+      "breakdown": {
+        "description": 75,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 75,
+        "genre": 0,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "history-of-aurangzib-based-on-original-sources-jadunath-sarkar.md",
+      "overall": 48,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 55,
+        "genre": 75,
+        "tags": 49
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "kāñcippurāṇam-civañāna-munivar.md",
+      "overall": 47,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 40,
+        "genre": 50,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "kāñcippurāṇam-civañāṇa-muṉivar-active-18th-century.md",
+      "overall": 47,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 46,
+        "contentDepth": 35,
+        "references": 25,
+        "genre": 50,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "ashtanga-sangraha-athridev-gupta-1.md",
+      "overall": 45,
+      "breakdown": {
+        "description": 75,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 50,
+        "genre": 50,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "bhartiya-jyotish-vigyan-ravindra-kumar-dubey.md",
+      "overall": 45,
+      "breakdown": {
+        "description": 85,
+        "authorBio": 28,
+        "contentDepth": 35,
+        "references": 25,
+        "genre": 75,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "a-classical-dictionary-of-hindu-mythology-and-religion-geography-history-and-literature-john-dowson.md",
+      "overall": 42,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 25,
+        "genre": 75,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "akbar-the-great-mogul-1542-1605-vincent-arthur-smith.md",
+      "overall": 40,
+      "breakdown": {
+        "description": 45,
+        "authorBio": 28,
+        "contentDepth": 35,
+        "references": 40,
+        "genre": 75,
+        "tags": 49
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "american-architect-and-architecture-unknown.md",
+      "overall": 38,
+      "breakdown": {
+        "description": 75,
+        "authorBio": 40,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "bhartiya-shasan-and-rajniti-jain-pukhraj.md",
+      "overall": 38,
+      "breakdown": {
+        "description": 90,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "contributions-of-sanskrit-inscriptions-to-lexicography-tewari-s-p-1944.md",
+      "overall": 38,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 44,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 75,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "yoga-sastra-the-yoga-sutras-of-patenjali-examined-with-a-notice-of-swami-vivekanandas-yoga-philosophy-patañjali-christian-literature-society-for-india-murdoch.md",
+      "overall": 38,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 34,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 75,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "a-history-of-architecture-in-all-countries-from-the-earliest-times-to-the-present-day-fergusson.md",
+      "overall": 37,
+      "breakdown": {
+        "description": 75,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 75,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "a-new-hindustani-english-dictionary-fallon-s.md",
+      "overall": 37,
+      "breakdown": {
+        "description": 85,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "a-sanskrit-manual-for-high-schools-antoine-robert-1914.md",
+      "overall": 37,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 46,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 30
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "annual-address-delivered-to-the-asiatic-society-of-bengal-caluctta-2nd-february-1898-hoernle.md",
+      "overall": 37,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 75,
+        "tags": 49
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "hindu-widow-re-marriage-other-tracts-gandhi.md",
+      "overall": 37,
+      "breakdown": {
+        "description": 80,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "linguistic-society-of-india-not-available-1.md",
+      "overall": 37,
+      "breakdown": {
+        "description": 85,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "linguistic-society-of-india-not-available-2.md",
+      "overall": 37,
+      "breakdown": {
+        "description": 85,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "literary-history-of-ancient-india-in-relation-to-its-racial-and-linguistic-affiliations-chandra-chakraberty.md",
+      "overall": 37,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 75,
+        "tags": 49
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "miscellaneous-notices-relating-to-china-and-our-commercial-intercourse-with-that-country-part-the-second-staunton.md",
+      "overall": 37,
+      "breakdown": {
+        "description": 75,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 75,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "raghuvansh-mahakavya-mahakavi-kalidas.md",
+      "overall": 37,
+      "breakdown": {
+        "description": 80,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "the-english-urdu-translators-companion-durga-prasad.md",
+      "overall": 37,
+      "breakdown": {
+        "description": 85,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "buddhist-art-in-india-grünwedel.md",
+      "overall": 36,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 75,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "purohit-darpaned25-bhattacharya-surendramohan-comp.md",
+      "overall": 36,
+      "breakdown": {
+        "description": 75,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "the-great-epic-of-india-its-character-and-origin-hopkins.md",
+      "overall": 36,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 75,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "contributions-of-sanskrit-inscriptions-to-lexicography-tewari.md",
+      "overall": 35,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 75,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "purohit-darpaned25-bhattacharya.md",
+      "overall": 35,
+      "breakdown": {
+        "description": 75,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "research-methodology-bm-jain-1.md",
+      "overall": 35,
+      "breakdown": {
+        "description": 75,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "research-methodology-bm-jain-2.md",
+      "overall": 35,
+      "breakdown": {
+        "description": 75,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "a-comparative-grammar-of-the-sanskrit-zend-greek-latin-lithuanian-gothic-german-and-slavonic-languages-bopp.md",
+      "overall": 34,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 30
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "a-compendium-of-the-comparative-grammar-of-the-indo-european-sanskrit-greek-and-latin-languages-schleicher.md",
+      "overall": 34,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 30
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "a-concordance-to-the-greek-testament-according-to-the-texts-of-westcott-and-hort-tischendorf-and-the-english-revisers-moulton.md",
+      "overall": 34,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale-m-r.md",
+      "overall": 34,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 30
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale.md",
+      "overall": 34,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 30
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "a-sanskrit-manual-for-high-schools-antoine.md",
+      "overall": 34,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 30
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "art-manufactures-of-india-mukharji.md",
+      "overall": 34,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "epic-mythology-hopkins.md",
+      "overall": 34,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 30
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "hindu-superiority-an-attempt-to-determine-the-position-of-the-hindu-race-in-the-scale-of-nations-sarda.md",
+      "overall": 34,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "south-indian-images-of-gods-and-goddesses-krishna-sastri.md",
+      "overall": 34,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 35
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "syntax-of-the-hebrew-language-of-the-old-testament-ewald.md",
+      "overall": 34,
+      "breakdown": {
+        "description": 70,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 30
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "jurisprudence-and-legal-theory-dr-mahajan-v-d-1.md",
+      "overall": 33,
+      "breakdown": {
+        "description": 75,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 15
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "jurisprudence-and-legal-theory-dr-mahajan-v-d-2.md",
+      "overall": 33,
+      "breakdown": {
+        "description": 75,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 15
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "life-in-ancient-india-with-a-map-manning.md",
+      "overall": 33,
+      "breakdown": {
+        "description": 80,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 0,
+        "tags": 25
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "the-lusiad-or-the-discovery-of-india-an-epic-poem-camões.md",
+      "overall": 33,
+      "breakdown": {
+        "description": 65,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 30
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "the-village-gods-of-south-india-henry-whitehead.md",
+      "overall": 33,
+      "breakdown": {
+        "description": 50,
+        "authorBio": 26,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 75,
+        "tags": 45
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "अषटधयय-1897-पणन.md",
+      "overall": 33,
+      "breakdown": {
+        "description": 65,
+        "authorBio": 22,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 37.5
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "an-avesta-grammar-in-comparison-with-sanskrit-jackson.md",
+      "overall": 31,
+      "breakdown": {
+        "description": 55,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 50,
+        "tags": 30
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    },
+    {
+      "file": "gandhi-azad-and-nationalism-shakir.md",
+      "overall": 30,
+      "breakdown": {
+        "description": 65,
+        "authorBio": 24,
+        "contentDepth": 35,
+        "references": 0,
+        "genre": 0,
+        "tags": 25
+      },
+      "weights": {
+        "description": 0.2,
+        "authorBio": 0.15,
+        "contentDepth": 0.3,
+        "references": 0.2,
+        "genre": 0.05,
+        "tags": 0.1
+      }
+    }
+  ]
+}

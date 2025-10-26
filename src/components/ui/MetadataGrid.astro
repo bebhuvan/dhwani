@@ -1,0 +1,33 @@
+---
+export interface MetadataItem {
+  label: string;
+  value: string | string[];
+}
+
+export interface Props {
+  items: MetadataItem[];
+  class?: string;
+}
+
+const { items, class: className = '' } = Astro.props;
+
+const formatValue = (value: string | string[]) => {
+  if (Array.isArray(value)) {
+    return value.join(', ');
+  }
+  return value;
+};
+---
+
+<div class={`flex flex-col gap-3 py-6 border-t border-b border-line-light ${className}`}>
+  {items.map((item) => (
+    <div class="grid grid-cols-[85px_1fr] gap-5 text-[0.8rem]">
+      <span class="tracking-[0.05em] font-medium text-ink-lighter">
+        {item.label}
+      </span>
+      <span class="text-ink-medium">
+        {formatValue(item.value)}
+      </span>
+    </div>
+  ))}
+</div>

@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Upanishads - Dhwani</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Spectral:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --ink: #1a1614;
+      --ink-medium: #4a4441;
+      --ink-light: #6a6461;
+      --ink-lighter: #9a9491;
+      --paper: #fffcf7;
+      --cream: #faf7f2;
+      --warm-white: #fefdfb;
+      --ivory: #f5f3ee;
+      --accent: #e85d3e;
+      --accent-light: #f4764f;
+      --accent-pale: #facabd;
+      --accent-wash: #fef1ed;
+      --amber: #e89950;
+      --burgundy: #c94a2e;
+      --line: #e8e5e0;
+      --line-light: #f0ede8;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+      font-size: 17px;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 0 3rem;
+    }
+
+    .container-wide {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 3rem;
+    }
+
+    /* Header */
+    header {
+      padding: 2.5rem 0;
+      background: var(--warm-white);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      border-bottom: 1px solid transparent;
+      transition: all 0.3s ease;
+    }
+
+    header.scrolled {
+      border-bottom-color: var(--line);
+      box-shadow: 0 1px 8px rgba(0, 0, 0, 0.03);
+    }
+
+    .header-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 3rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .site-title {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 2rem;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      color: var(--ink);
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+
+    .site-title:hover {
+      color: var(--accent);
+    }
+
+    nav {
+      display: flex;
+      gap: 2.5rem;
+      font-size: 0.95rem;
+    }
+
+    nav a {
+      color: var(--ink-light);
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+
+    nav a:hover {
+      color: var(--accent);
+    }
+
+    /* Breadcrumb */
+    .breadcrumb {
+      padding: 2rem 0 1rem;
+      font-size: 0.85rem;
+      color: var(--ink-lighter);
+    }
+
+    .breadcrumb a {
+      color: var(--ink-light);
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+
+    .breadcrumb a:hover {
+      color: var(--accent);
+    }
+
+    .breadcrumb-separator {
+      margin: 0 0.5rem;
+      color: var(--line);
+    }
+
+    /* Work Header */
+    .work-header {
+      padding: 4rem 0 5rem;
+      border-bottom: 1px solid var(--line-light);
+      max-width: 42em;
+    }
+
+    .work-category {
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      color: var(--accent);
+      margin-bottom: 2rem;
+      font-weight: 500;
+    }
+
+    .work-title {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: clamp(2.75rem, 5.5vw, 4.5rem);
+      font-weight: 600;
+      line-height: 1.1;
+      letter-spacing: 0.005em;
+      color: var(--ink);
+      margin-bottom: 1.75rem;
+    }
+
+    .work-author {
+      font-size: 1.4rem;
+      color: var(--ink-medium);
+      font-style: italic;
+      margin-bottom: 3rem;
+      font-weight: 400;
+    }
+
+    .work-description {
+      font-family: 'Spectral', Georgia, serif;
+      font-size: 1.25rem;
+      line-height: 1.9;
+      color: var(--ink-medium);
+      font-weight: 300;
+    }
+
+    /* Metadata Grid */
+    .metadata-section {
+      padding: 4rem 0;
+      background: var(--cream);
+    }
+
+    .metadata-grid {
+      display: flex;
+      gap: 4rem;
+      flex-wrap: wrap;
+    }
+
+    .metadata-item {
+      display: flex;
+      gap: 1rem;
+      align-items: baseline;
+    }
+
+    .metadata-item h3 {
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--ink-lighter);
+      font-weight: 500;
+      min-width: 70px;
+    }
+
+    .metadata-item p {
+      font-size: 0.95rem;
+      color: var(--ink-medium);
+      line-height: 1.6;
+    }
+
+    /* Content */
+    .work-content {
+      padding: 5rem 0;
+      max-width: 38em;
+    }
+
+    .work-content h2 {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 1.85rem;
+      font-weight: 600;
+      color: var(--ink);
+      margin: 4rem 0 1.75rem;
+      letter-spacing: 0.005em;
+      line-height: 1.3;
+    }
+
+    .work-content h2:first-child {
+      margin-top: 0;
+    }
+
+    .work-content p {
+      font-family: 'Spectral', Georgia, serif;
+      font-size: 1.15rem;
+      line-height: 2;
+      color: var(--ink-medium);
+      margin-bottom: 2rem;
+      font-weight: 300;
+    }
+
+    .work-content em {
+      font-style: italic;
+      color: var(--ink);
+    }
+
+    /* Links Section */
+    .links-section {
+      padding: 4rem 0;
+      background: var(--ivory);
+    }
+
+    .links-section h2 {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: var(--ink);
+      margin-bottom: 2.5rem;
+    }
+
+    .links-grid {
+      display: flex;
+      gap: 4rem;
+      flex-wrap: wrap;
+    }
+
+    .link-group {
+      flex: 1;
+      min-width: 200px;
+    }
+
+    .link-group h3 {
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--ink-lighter);
+      margin-bottom: 1.25rem;
+      font-weight: 500;
+    }
+
+    .link-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.875rem;
+      list-style: none;
+    }
+
+    .link-list a {
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 0.95rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      transition: all 0.3s ease;
+    }
+
+    .link-list a:hover {
+      color: var(--burgundy);
+      gap: 0.65rem;
+    }
+
+    /* Related Works */
+    .related-section {
+      padding: 5rem 0;
+    }
+
+    .related-section h2 {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 1.85rem;
+      font-weight: 600;
+      color: var(--ink);
+      margin-bottom: 3.5rem;
+    }
+
+    .related-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 4rem 4.5rem;
+    }
+
+    .related-item {
+      text-decoration: none;
+      color: inherit;
+      display: block;
+      transition: transform 0.3s ease;
+    }
+
+    .related-item:hover {
+      transform: translateX(8px);
+    }
+
+    .related-item h3 {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 1.6rem;
+      font-weight: 600;
+      color: var(--ink);
+      margin-bottom: 0.6rem;
+      transition: color 0.3s ease;
+      line-height: 1.3;
+    }
+
+    .related-item:hover h3 {
+      color: var(--accent);
+    }
+
+    .related-item-author {
+      font-size: 1rem;
+      color: var(--ink-medium);
+      font-style: italic;
+      margin-bottom: 1rem;
+      font-weight: 400;
+    }
+
+    .related-item-excerpt {
+      font-family: 'Spectral', Georgia, serif;
+      font-size: 0.95rem;
+      line-height: 1.75;
+      color: var(--ink-light);
+      font-weight: 300;
+    }
+
+    /* Footer */
+    footer {
+      border-top: 1px solid var(--line);
+      padding: 3rem 0;
+      background: var(--warm-white);
+      margin-top: 4rem;
+      text-align: center;
+    }
+
+    footer p {
+      font-size: 0.85rem;
+      color: var(--ink-lighter);
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .container,
+      .header-inner {
+        padding: 0 2rem;
+      }
+
+      .metadata-grid,
+      .links-grid,
+      .related-grid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+      }
+
+      nav {
+        gap: 1.5rem;
+        font-size: 0.875rem;
+      }
+    }
+
+    ::selection {
+      background: var(--accent-wash);
+      color: var(--ink);
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header id="header">
+    <div class="header-inner">
+      <a href="/" class="site-title">Dhwani</a>
+      <nav>
+        <a href="/archive">Archive</a>
+        <a href="/collections">Collections</a>
+        <a href="/about">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Breadcrumb -->
+    <nav class="breadcrumb">
+      <a href="/">Home</a>
+      <span class="breadcrumb-separator">/</span>
+      <a href="/archive">Archive</a>
+      <span class="breadcrumb-separator">/</span>
+      <span>The Upanishads</span>
+    </nav>
+
+    <!-- Work Header -->
+    <header class="work-header">
+      <div class="work-category">Philosophy · Sanskrit</div>
+      <h1 class="work-title">The Upanishads</h1>
+      <div class="work-author">Multiple Authors</div>
+      <p class="work-description">
+        Ancient philosophical texts that form the theoretical foundation of Hindu thought. The Upanishads explore fundamental questions about the nature of reality, consciousness, the self, and liberation from the cycle of rebirth.
+      </p>
+    </header>
+
+    <!-- Metadata -->
+    <section class="metadata-section">
+      <div class="metadata-grid">
+        <div class="metadata-item">
+          <h3>Period</h3>
+          <p>800–200 BCE</p>
+        </div>
+        <div class="metadata-item">
+          <h3>Language</h3>
+          <p>Sanskrit</p>
+        </div>
+        <div class="metadata-item">
+          <h3>Genre</h3>
+          <p>Philosophy, Spirituality</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Content -->
+    <article class="work-content">
+      <h2>About This Work</h2>
+      <p>
+        The Upanishads are a collection of ancient Sanskrit texts that contain some of the central philosophical concepts and ideas of Hinduism. Composed over several centuries by different sages, these texts represent some of humanity's earliest systematic philosophical inquiry into the nature of reality, consciousness, and the self.
+      </p>
+      <p>
+        The word "Upanishad" literally means "sitting down near"—a reference to students sitting at the feet of a teacher to receive instruction. These dialogues between sages and seekers, between teachers and disciples, continue to influence philosophical and spiritual thought worldwide.
+      </p>
+
+      <h2>Historical Context</h2>
+      <p>
+        The Upanishads mark a significant shift in Indian philosophical thought, moving from the ritual-focused Vedic tradition to more abstract philosophical speculation. They explore questions like: What is the nature of ultimate reality? What is the relationship between the individual self (<em>atman</em>) and the universal consciousness (<em>Brahman</em>)? How does one achieve liberation (<em>moksha</em>)?
+      </p>
+      <p>
+        These texts laid the groundwork for many later Indian philosophical schools and continue to be studied by scholars of religion, philosophy, and consciousness studies around the world.
+      </p>
+
+      <h2>Key Themes</h2>
+      <p>
+        The Upanishads introduce several foundational concepts: the idea of <em>Brahman</em> as the ultimate reality underlying all existence, <em>atman</em> as the individual soul or self, <em>karma</em> as the law of cause and effect, and <em>moksha</em> as liberation from the cycle of birth and death.
+      </p>
+      <p>
+        Rather than providing dogmatic answers, the Upanishads often use dialogue, metaphor, and paradox to point toward truths that transcend ordinary language and conceptual thought.
+      </p>
+    </article>
+
+    <!-- Links -->
+    <section class="links-section">
+      <h2>Read This Work</h2>
+      <div class="links-grid">
+        <div class="link-group">
+          <h3>Full Text</h3>
+          <ul class="link-list">
+            <li><a href="#">Project Gutenberg →</a></li>
+            <li><a href="#">Archive.org →</a></li>
+            <li><a href="#">Wikisource →</a></li>
+          </ul>
+        </div>
+        <div class="link-group">
+          <h3>References</h3>
+          <ul class="link-list">
+            <li><a href="#">Wikipedia Article →</a></li>
+            <li><a href="#">Stanford Encyclopedia →</a></li>
+            <li><a href="#">Sacred Texts →</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Related Works -->
+    <section class="related-section">
+      <h2>Related Works</h2>
+      <div class="related-grid">
+        <a href="#" class="related-item">
+          <h3>Bhagavad Gita</h3>
+          <div class="related-item-author">Vyasa</div>
+          <p class="related-item-excerpt">
+            A 700-verse Hindu scripture that is part of the epic Mahabharata, exploring duty, righteousness, and the nature of reality through dialogue.
+          </p>
+        </a>
+
+        <a href="#" class="related-item">
+          <h3>Yoga Sutras</h3>
+          <div class="related-item-author">Patanjali</div>
+          <p class="related-item-excerpt">
+            A foundational text of yoga philosophy, presenting a systematic approach to meditation and spiritual practice.
+          </p>
+        </a>
+
+        <a href="#" class="related-item">
+          <h3>Brahma Sutras</h3>
+          <div class="related-item-author">Badarayana</div>
+          <p class="related-item-excerpt">
+            A systematic summary of the philosophical teachings found in the Upanishads, forming one of the three key texts of Vedanta.
+          </p>
+        </a>
+
+        <a href="#" class="related-item">
+          <h3>Mandukya Upanishad</h3>
+          <div class="related-item-author">Unknown</div>
+          <p class="related-item-excerpt">
+            The shortest of the principal Upanishads, exploring consciousness through the analysis of the sacred syllable Om.
+          </p>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>Built with care for the public domain · 2025</p>
+  </footer>
+
+  <script>
+    window.addEventListener('scroll', () => {
+      const header = document.getElementById('header');
+      if (window.scrollY > 100) {
+        header.classList.add('scrolled');
+      } else {
+        header.classList.remove('scrolled');
+      }
+    });
+  </script>
+</body>
+</html>

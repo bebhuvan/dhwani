@@ -1,0 +1,198 @@
+---
+import { type CollectionEntry, getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import StructuredData from '../../components/StructuredData.astro';
+import Button from '../../components/ui/Button.astro';
+import Badge from '../../components/ui/Badge.astro';
+import Card from '../../components/ui/Card.astro';
+import MetadataGrid from '../../components/ui/MetadataGrid.astro';
+
+export async function getStaticPaths() {
+  const works = await getCollection('works');
+  return works.map((work) => ({
+    params: { slug: work.slug },
+    props: work,
+  }));
+}
+
+type Props = CollectionEntry<'works'>;
+
+const work = Astro.props;
+const { Content } = await work.render();
+
+// Get related works - optimized to avoid bundling all works
+// Filter at query time instead of in client bundle
+const relatedWorks = (await getCollection('works', ({ slug, data }) => {
+  if (slug === work.slug) return false;
+
+  // Match by language OR genre
+  const hasMatchingLanguage = data.language.some(lang => work.data.language.includes(lang));
+  const hasMatchingGenre = data.genre.some(genre => work.data.genre.includes(genre));
+
+  return hasMatchingLanguage || hasMatchingGenre;
+})).slice(0, 3);
+
+// Breadcrumb schema data
+const breadcrumbData = {
+  items: [
+    { name: 'Home', url: Astro.site },
+    { name: 'Archive', url: `${Astro.site}archive` },
+    { name: work.data.title, url: `${Astro.site}works/${work.slug}` }
+  ]
+};
+---
+
+<BaseLayout title={`${work.data.title} - Dhwani`} description={work.data.description}>
+  <!-- Structured Data for Book and Breadcrumbs -->
+  <StructuredData
+    type="Book"
+    data={{
+      title: work.data.title,
+      author: work.data.author,
+      description: work.data.description,
+      language: work.data.language,
+      genre: work.data.genre,
+      year: work.data.year,
+      siteUrl: Astro.site
+    }}
+    slot="head"
+  />
+  <StructuredData type="BreadcrumbList" data={breadcrumbData} slot="head" />
+
+  <main>
+    <!-- Work Header -->
+    <header class="py-16 md:py-20 lg:py-24 px-6 md:px-8 lg:px-12">
+      <div class="max-w-[680px] mx-auto">
+        <!-- Breadcrumb -->
+        <nav class="mb-8 md:mb-10 text-[0.85rem] text-ink-lighter">
+          <div class="flex items-center gap-2">
+            <a href="/" class="hover:text-accent transition-colors">Home</a>
+            <span>→</span>
+            <a href="/archive" class="hover:text-accent transition-colors">Archive</a>
+            <span>→</span>
+            <span class="text-ink-light">{work.data.title}</span>
+          </div>
+        </nav>
+
+        <h1 class="font-serif text-[clamp(2.75rem,7vw,4.5rem)] font-normal leading-[1.12] tracking-[-0.02em] text-ink mb-6 md:mb-8">
+          {work.data.title}
+        </h1>
+
+        <div class="text-[1.15rem] md:text-[1.25rem] text-ink-light mb-12 md:mb-14">
+          {work.data.author.join(', ')}
+        </div>
+
+        <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-10">
+          {work.data.description}
+        </p>
+
+        <!-- Metadata -->
+        <div class="flex flex-wrap gap-x-3 gap-y-2 text-[0.9rem] text-ink-lighter mb-12 md:mb-16">
+          <span>{work.data.language.join(', ')}</span>
+          {work.data.year && (
+            <>
+              <span>·</span>
+              <span>{work.data.year}</span>
+            </>
+          )}
+          {work.data.genre && work.data.genre.length > 0 && (
+            <>
+              <span>·</span>
+              <span>{work.data.genre.join(', ')}</span>
+            </>
+          )}
+        </div>
+
+        <!-- Read Links -->
+        {(work.data.sources && work.data.sources.length > 0) || (work.data.references && work.data.references.length > 0) ? (
+          <div class="border border-line p-8 md:p-10">
+          {work.data.sources && work.data.sources.length > 0 && (
+            <div>
+              <h2 class="font-serif text-[1.5rem] font-normal text-ink mb-6">
+                Read this work
+              </h2>
+              <div class="space-y-2 mb-8">
+                {work.data.sources.map((source: any) => (
+                  <a
+                    href={source.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="group flex items-center justify-between px-4 py-3.5 -mx-4 hover:bg-accent-wash transition-all"
+                  >
+                    <span class="text-[1rem] text-ink font-medium group-hover:text-accent flex items-center gap-2">
+                      <span class="w-1.5 h-1.5 rounded-full bg-accent opacity-40 group-hover:opacity-100"></span>
+                      {source.name}
+                    </span>
+                    <svg class="w-4 h-4 text-accent opacity-50 group-hover:opacity-100 group-hover:translate-x-1 transition-all" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                    </svg>
+                  </a>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {work.data.references && work.data.references.length > 0 && (
+            <div class={work.data.sources && work.data.sources.length > 0 ? "pt-6 border-t border-line" : ""}>
+              <h2 class="font-serif text-[1.25rem] font-normal text-ink mb-4">
+                Further reading
+              </h2>
+              <div class="space-y-2">
+                {work.data.references.map((ref: any) => (
+                  <a
+                    href={ref.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="group flex items-center gap-2.5 text-[0.9rem] text-ink-light hover:text-accent transition-colors py-1"
+                  >
+                    <svg class="w-3.5 h-3.5 text-ink-lighter group-hover:text-accent shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                    </svg>
+                    <span class="border-b border-ink-lighter border-opacity-30 group-hover:border-accent group-hover:border-opacity-100">{ref.name}</span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+        ) : null}
+      </div>
+    </header>
+
+    <!-- Content -->
+    <article class="py-16 md:py-20 lg:py-24 px-6 md:px-8 lg:px-12">
+      <div class="prose-content mx-auto">
+        <Content />
+      </div>
+    </article>
+
+    <!-- Related Works -->
+    {relatedWorks.length > 0 && (
+      <section class="py-20 md:py-24 px-6 md:px-8 lg:px-12 border-t border-line">
+        <div class="max-w-[1100px] mx-auto">
+          <h2 class="font-serif text-[2rem] md:text-[2.5rem] font-normal text-ink mb-12 md:mb-16">
+            Related works
+          </h2>
+
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-10">
+            {relatedWorks.map((relatedWork) => (
+              <a href={`/works/${relatedWork.slug}`} class="group block p-6 md:p-8 border border-line hover:border-accent hover:shadow-sm transition-all rounded-sm">
+                <h3 class="font-serif text-[1.35rem] md:text-[1.5rem] font-normal leading-[1.25] tracking-[0.005em] text-ink mb-3 group-hover:text-accent transition-colors">
+                  {relatedWork.data.title}
+                </h3>
+
+                <div class="text-[0.9rem] text-ink-medium mb-4">
+                  {relatedWork.data.author.join(', ')}
+                </div>
+
+                <p class="font-serif-body text-[0.85rem] leading-[1.65] text-ink-light font-light line-clamp-3">
+                  {relatedWork.data.description.slice(0, 120)}...
+                </p>
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+  </main>
+</BaseLayout>

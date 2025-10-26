@@ -1,0 +1,72 @@
+---
+export interface Props {
+  type: 'WebSite' | 'Book' | 'Organization' | 'BreadcrumbList';
+  data: any;
+}
+
+const { type, data } = Astro.props;
+
+const schemas = {
+  WebSite: {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Dhwani",
+    "description": "A treasury of Indian literary heritage - discover ancient Vedic hymns, Sanskrit epics, Tagore's poetry, and more from India's public domain literature.",
+    "url": data.url,
+    "inLanguage": "en",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": `${data.url}/archive?search={search_term_string}`
+      },
+      "query-input": "required name=search_term_string"
+    }
+  },
+  Book: {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": data.title,
+    ...(data.author && data.author.length > 0 && {
+      "author": data.author.map((name: string) => ({
+        "@type": "Person",
+        "name": name
+      }))
+    }),
+    "description": data.description,
+    "inLanguage": data.language,
+    "genre": data.genre,
+    ...(data.year && { "datePublished": data.year.toString() }),
+    "isAccessibleForFree": true,
+    "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Dhwani",
+      "url": data.siteUrl
+    }
+  },
+  Organization: {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Dhwani",
+    "description": "A living archive of Indian literary heritage, making public domain texts discoverable and accessible to all.",
+    "url": data.url,
+    "logo": `${data.url}/logo.png`,
+    "sameAs": []
+  },
+  BreadcrumbList: {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": (data.items || []).map((item: any, index: number) => ({
+      "@type": "ListItem",
+      "position": index + 1,
+      "name": item.name,
+      "item": item.url
+    }))
+  }
+};
+
+const schema = schemas[type];
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

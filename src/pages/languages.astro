@@ -1,0 +1,74 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allWorks = await getCollection('works');
+const languageMap = new Map();
+
+// Group works by language
+allWorks.forEach(work => {
+  work.data.language.forEach(language => {
+    if (!languageMap.has(language)) {
+      languageMap.set(language, []);
+    }
+    languageMap.get(language).push(work);
+  });
+});
+
+// Sort languages by work count (descending)
+const languages = Array.from(languageMap.entries())
+  .map(([name, works]) => ({ name, works, count: works.length }))
+  .sort((a, b) => b.count - a.count);
+---
+
+<BaseLayout title="Languages - Dhwani">
+  <main>
+    <!-- Page Header -->
+    <section class="py-12 md:py-16 lg:py-24 px-6 md:px-8 lg:px-12 max-w-[1100px] mx-auto">
+      <h1 class="font-serif text-[clamp(2.5rem,7vw,5.5rem)] font-semibold leading-[1.1] tracking-[-0.02em] text-ink mb-6 md:mb-8">
+        Languages
+      </h1>
+
+      <p class="font-serif-body text-base md:text-[1.3rem] leading-[1.7] md:leading-[1.9] text-ink-medium font-light">
+        Explore India's literary heritage across {languages.length} languages—each with its own tradition, style, and voice.
+      </p>
+    </section>
+
+    <!-- Languages Grid -->
+    <section class="pb-16 md:pb-24 lg:pb-32 px-6 md:px-8 lg:px-12">
+      <div class="max-w-[1100px] mx-auto">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
+          {languages.map(({ name, count, works }) => (
+            <div class="p-8 md:p-10 border border-line-light bg-warm-white">
+              <h2 class="font-serif text-[1.75rem] md:text-[2rem] font-semibold tracking-tight text-ink mb-3">
+                {name}
+              </h2>
+
+              <div class="text-[0.75rem] uppercase tracking-[0.1em] text-ink-lighter mb-6">
+                {count} {count === 1 ? 'Work' : 'Works'}
+              </div>
+
+              <div class="space-y-3">
+                {works.slice(0, 3).map(work => (
+                  <a href={`/works/${work.slug}`} class="block">
+                    <div class="text-[0.9rem] text-accent font-light leading-snug">
+                      {work.data.title}
+                    </div>
+                    <div class="text-[0.8rem] text-ink-lighter italic mt-1">
+                      {work.data.author.join(', ')}
+                    </div>
+                  </a>
+                ))}
+                {count > 3 && (
+                  <div class="text-[0.8rem] text-ink-lighter font-light mt-4">
+                    + {count - 3} more
+                  </div>
+                )}
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

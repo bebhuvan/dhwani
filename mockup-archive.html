@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Archive - Dhwani</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Spectral:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --ink: #1a1614;
+      --ink-medium: #4a4441;
+      --ink-light: #6a6461;
+      --ink-lighter: #9a9491;
+      --paper: #fffcf7;
+      --cream: #faf7f2;
+      --warm-white: #fefdfb;
+      --ivory: #f5f3ee;
+      --accent: #e85d3e;
+      --accent-light: #f4764f;
+      --accent-pale: #facabd;
+      --accent-wash: #fef1ed;
+      --burgundy: #c94a2e;
+      --line: #e8e5e0;
+      --line-light: #f0ede8;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+      font-size: 17px;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 3rem;
+    }
+
+    /* Header */
+    header {
+      padding: 3rem 0;
+      background: var(--warm-white);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 3rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+    }
+
+    .site-title {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 2.25rem;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+      color: var(--ink);
+      text-decoration: none;
+    }
+
+    nav {
+      display: flex;
+      gap: 3rem;
+      font-size: 0.9rem;
+    }
+
+    nav a {
+      color: var(--ink-light);
+      text-decoration: none;
+      letter-spacing: 0.02em;
+    }
+
+    /* Page Header */
+    .page-header {
+      padding: 6rem 0 4rem;
+      max-width: 45rem;
+    }
+
+    .page-title {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: clamp(3.5rem, 7vw, 5.5rem);
+      font-weight: 600;
+      line-height: 1.1;
+      color: var(--ink);
+      margin-bottom: 2rem;
+      letter-spacing: -0.02em;
+    }
+
+    .page-subtitle {
+      font-family: 'Spectral', Georgia, serif;
+      font-size: 1.3rem;
+      line-height: 1.9;
+      color: var(--ink-medium);
+      font-weight: 300;
+    }
+
+    /* Filters */
+    .filters-section {
+      padding: 4rem 0;
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+      background: var(--ivory);
+      margin-bottom: 6rem;
+    }
+
+    .filters-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 2.5rem;
+    }
+
+    .filter-group label {
+      display: block;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+      color: var(--ink-lighter);
+      margin-bottom: 1rem;
+      font-weight: 500;
+    }
+
+    .filter-group input,
+    .filter-group select {
+      width: 100%;
+      padding: 1rem 1.5rem;
+      font-size: 1rem;
+      font-family: 'Inter', sans-serif;
+      color: var(--ink);
+      background: var(--warm-white);
+      border: 1px solid var(--line);
+      border-radius: 0;
+    }
+
+    .filter-group input:focus,
+    .filter-group select:focus {
+      outline: none;
+      border-color: var(--ink-light);
+    }
+
+    .filter-group select {
+      cursor: pointer;
+    }
+
+    .results-count {
+      font-size: 0.8rem;
+      color: var(--ink-lighter);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-top: 2rem;
+    }
+
+    /* Works Grid */
+    .works-section {
+      padding: 0 0 8rem;
+    }
+
+    .works-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 0;
+    }
+
+    .work-item {
+      text-decoration: none;
+      color: inherit;
+      display: block;
+      padding: 3.5rem 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .work-item:first-child {
+      padding-top: 0;
+    }
+
+    .work-item-header {
+      margin-bottom: 1.5rem;
+    }
+
+    .work-item-title {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 2.5rem;
+      line-height: 1.25;
+      color: var(--ink);
+      font-weight: 600;
+      letter-spacing: -0.01em;
+      margin-bottom: 0.75rem;
+    }
+
+    .work-item-author {
+      font-size: 1.15rem;
+      color: var(--ink-medium);
+      font-style: italic;
+      font-weight: 300;
+    }
+
+    .work-item-excerpt {
+      font-family: 'Spectral', Georgia, serif;
+      font-size: 1.05rem;
+      line-height: 1.85;
+      color: var(--ink-light);
+      margin-bottom: 1.5rem;
+      font-weight: 300;
+      max-width: 48rem;
+    }
+
+    .work-item-meta {
+      font-size: 0.75rem;
+      color: var(--ink-lighter);
+      letter-spacing: 0.08em;
+      display: flex;
+      gap: 1rem;
+      text-transform: uppercase;
+    }
+
+    .meta-separator {
+      color: var(--ink-lighter);
+    }
+
+    /* Pagination */
+    .pagination {
+      padding: 6rem 0 0;
+      border-top: 1px solid var(--line);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .pagination a,
+    .pagination span {
+      padding: 1rem 1.5rem;
+      font-size: 0.9rem;
+      text-decoration: none;
+      color: var(--ink-medium);
+      background: transparent;
+      border: none;
+      letter-spacing: 0.02em;
+    }
+
+    .pagination .active {
+      color: var(--ink);
+      font-weight: 500;
+    }
+
+    .pagination .disabled {
+      opacity: 0.3;
+      pointer-events: none;
+    }
+
+    /* Footer */
+    footer {
+      border-top: 1px solid var(--line);
+      padding: 4rem 0;
+      background: var(--warm-white);
+      text-align: center;
+    }
+
+    footer p {
+      font-size: 0.8rem;
+      color: var(--ink-lighter);
+      letter-spacing: 0.02em;
+    }
+
+    /* Responsive */
+    @media (max-width: 1024px) {
+      .filters-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+      }
+
+      .results-count {
+        padding-top: 0;
+        text-align: left;
+      }
+
+      .works-grid {
+        grid-template-columns: 1fr;
+        gap: 3rem;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .container,
+      .header-inner {
+        padding: 0 2rem;
+      }
+
+      nav {
+        gap: 1.5rem;
+        font-size: 0.875rem;
+      }
+    }
+
+    ::selection {
+      background: var(--accent-wash);
+      color: var(--ink);
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header id="header">
+    <div class="header-inner">
+      <a href="/" class="site-title">Dhwani</a>
+      <nav>
+        <a href="/archive">Archive</a>
+        <a href="/collections">Collections</a>
+        <a href="/about">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Page Header -->
+    <div class="page-header">
+      <h1 class="page-title">Archive</h1>
+      <p class="page-subtitle">
+        Browse the complete collection of 258 literary works from India's rich cultural and philosophical traditions. Filter by author, language, or genre to discover texts that interest you.
+      </p>
+    </div>
+
+    <!-- Filters -->
+    <section class="filters-section">
+      <form class="filters-grid">
+        <div class="filter-group">
+          <label for="search">Search</label>
+          <input type="text" id="search" placeholder="Search titles, authors, or keywords...">
+        </div>
+        <div class="filter-group">
+          <label for="author">Author</label>
+          <select id="author">
+            <option value="">All Authors</option>
+            <option value="tagore">Rabindranath Tagore</option>
+            <option value="kalidasa">Kalidasa</option>
+            <option value="valmiki">Valmiki</option>
+            <option value="gandhi">Mahatma Gandhi</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="language">Language</label>
+          <select id="language">
+            <option value="">All Languages</option>
+            <option value="sanskrit">Sanskrit</option>
+            <option value="bengali">Bengali</option>
+            <option value="tamil">Tamil</option>
+            <option value="gujarati">Gujarati</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="genre">Genre</label>
+          <select id="genre">
+            <option value="">All Genres</option>
+            <option value="philosophy">Philosophy</option>
+            <option value="poetry">Poetry</option>
+            <option value="epic">Epic</option>
+            <option value="drama">Drama</option>
+          </select>
+        </div>
+      </form>
+      <div class="results-count">Showing 258 works</div>
+    </section>
+
+    <!-- Works Grid -->
+    <section class="works-section">
+      <div class="works-grid">
+        <!-- Work 1 -->
+        <a href="/works/upanishads" class="work-item">
+          <div class="work-item-header">
+            <h2 class="work-item-title">The Upanishads</h2>
+            <div class="work-item-author">Multiple Authors</div>
+          </div>
+          <p class="work-item-excerpt">
+            Ancient philosophical texts that form the theoretical foundation of Hindu thought. The Upanishads explore fundamental questions about the nature of reality, consciousness, and liberation.
+          </p>
+          <div class="work-item-meta">
+            <span>Sanskrit</span>
+            <span class="meta-separator">·</span>
+            <span>800–200 BCE</span>
+            <span class="meta-separator">·</span>
+            <span>Philosophy</span>
+          </div>
+        </a>
+
+        <!-- Work 2 -->
+        <a href="/works/gitanjali" class="work-item">
+          <div class="work-item-header">
+            <h2 class="work-item-title">Gitanjali</h2>
+            <div class="work-item-author">Rabindranath Tagore</div>
+          </div>
+          <p class="work-item-excerpt">
+            A collection of 103 poems that won Tagore the Nobel Prize in Literature. Song offerings that bridge Eastern spiritual poetry and Western literary traditions.
+          </p>
+          <div class="work-item-meta">
+            <span>Bengali</span>
+            <span class="meta-separator">·</span>
+            <span>1910</span>
+            <span class="meta-separator">·</span>
+            <span>Poetry</span>
+          </div>
+        </a>
+
+        <!-- Work 3 -->
+        <a href="/works/thirukkural" class="work-item">
+          <div class="work-item-header">
+            <h2 class="work-item-title">Thirukkural</h2>
+            <div class="work-item-author">Thiruvalluvar</div>
+          </div>
+          <p class="work-item-excerpt">
+            Ancient Tamil text on ethics, political wisdom, and love. 1,330 couplets that have guided generations across cultures and faiths—a masterpiece of concise moral philosophy.
+          </p>
+          <div class="work-item-meta">
+            <span>Tamil</span>
+            <span class="meta-separator">·</span>
+            <span>c. 200 CE</span>
+            <span class="meta-separator">·</span>
+            <span>Philosophy</span>
+          </div>
+        </a>
+
+        <!-- Work 4 -->
+        <a href="/works/ramayana" class="work-item">
+          <div class="work-item-header">
+            <h2 class="work-item-title">The Ramayana</h2>
+            <div class="work-item-author">Valmiki</div>
+          </div>
+          <p class="work-item-excerpt">
+            One of the great Sanskrit epics. The story of Prince Rama's exile, his wife Sita's abduction, and the battle against the demon king Ravana—a foundational narrative in Indian culture.
+          </p>
+          <div class="work-item-meta">
+            <span>Sanskrit</span>
+            <span class="meta-separator">·</span>
+            <span>c. 500 BCE</span>
+            <span class="meta-separator">·</span>
+            <span>Epic</span>
+          </div>
+        </a>
+
+        <!-- Work 5 -->
+        <a href="/works/shakuntala" class="work-item">
+          <div class="work-item-header">
+            <h2 class="work-item-title">Shakuntala</h2>
+            <div class="work-item-author">Kalidasa</div>
+          </div>
+          <p class="work-item-excerpt">
+            Classical Sanskrit drama about love, memory, and destiny. A king falls in love with a hermit's daughter but forgets her due to a curse. Considered Kalidasa's masterpiece.
+          </p>
+          <div class="work-item-meta">
+            <span>Sanskrit</span>
+            <span class="meta-separator">·</span>
+            <span>c. 400 CE</span>
+            <span class="meta-separator">·</span>
+            <span>Drama</span>
+          </div>
+        </a>
+
+        <!-- Work 6 -->
+        <a href="/works/meghaduta" class="work-item">
+          <div class="work-item-header">
+            <h2 class="work-item-title">Meghaduta</h2>
+            <div class="work-item-author">Kalidasa</div>
+          </div>
+          <p class="work-item-excerpt">
+            A lyric poem in which an exiled yaksha sends a message of longing to his beloved via a passing cloud. Nature and emotion beautifully intertwined in 111 Sanskrit verses.
+          </p>
+          <div class="work-item-meta">
+            <span>Sanskrit</span>
+            <span class="meta-separator">·</span>
+            <span>c. 400 CE</span>
+            <span class="meta-separator">·</span>
+            <span>Poetry</span>
+          </div>
+        </a>
+
+        <!-- Work 7 -->
+        <a href="/works/hind-swaraj" class="work-item">
+          <div class="work-item-header">
+            <h2 class="work-item-title">Hind Swaraj</h2>
+            <div class="work-item-author">Mahatma Gandhi</div>
+          </div>
+          <p class="work-item-excerpt">
+            Gandhi's foundational text on self-rule, civilization, and non-violent resistance. Written in 1909 aboard a ship, it outlines his political philosophy and critique of modernity.
+          </p>
+          <div class="work-item-meta">
+            <span>Gujarati</span>
+            <span class="meta-separator">·</span>
+            <span>1909</span>
+            <span class="meta-separator">·</span>
+            <span>Political Philosophy</span>
+          </div>
+        </a>
+
+        <!-- Work 8 -->
+        <a href="/works/gora" class="work-item">
+          <div class="work-item-header">
+            <h2 class="work-item-title">Gora</h2>
+            <div class="work-item-author">Rabindranath Tagore</div>
+          </div>
+          <p class="work-item-excerpt">
+            A novel exploring identity, nationalism, and religious orthodoxy in colonial India. Tagore's longest work and one of his most politically engaged narratives.
+          </p>
+          <div class="work-item-meta">
+            <span>Bengali</span>
+            <span class="meta-separator">·</span>
+            <span>1910</span>
+            <span class="meta-separator">·</span>
+            <span>Novel</span>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <!-- Pagination -->
+    <nav class="pagination">
+      <a href="#" class="disabled">← Previous</a>
+      <span class="active">1</span>
+      <a href="#">2</a>
+      <a href="#">3</a>
+      <a href="#">4</a>
+      <span>...</span>
+      <a href="#">6</a>
+      <a href="#">Next →</a>
+    </nav>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>Built with care for the public domain · 2025</p>
+  </footer>
+
+</body>
+</html>

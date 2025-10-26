@@ -1,0 +1,21 @@
+name = "dhwani-api"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+# KV namespace for caching
+[[kv_namespaces]]
+binding = "CACHE"
+id = "placeholder_id"  # Replace with actual KV namespace ID after: wrangler kv:namespace create CACHE
+
+[env.production]
+name = "dhwani-api"
+routes = [
+  { pattern = "dhwani.in/api/*", zone_name = "dhwani.in" }
+]
+
+[[env.production.kv_namespaces]]
+binding = "CACHE"
+id = "placeholder_production_id"  # Replace with actual production KV namespace ID
+
+[env.dev]
+name = "dhwani-api-dev"

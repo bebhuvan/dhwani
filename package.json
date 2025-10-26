@@ -1,0 +1,36 @@
+{
+  "name": "dhwani",
+  "type": "module",
+  "version": "2.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "npm run generate-og && astro build && npm run pagefind && npm run generate-related",
+    "preview": "astro preview",
+    "deploy": "npm run build && wrangler pages deploy dist",
+    "deploy:production": "npm run build && wrangler pages deploy dist --branch=main",
+    "cf:dev": "wrangler pages dev dist",
+    "pagefind": "pagefind --source dist --glob \"**/*.html\"",
+    "generate-related": "node scripts/generate-related-works.js",
+    "generate-og": "node scripts/generate-og-image.js",
+    "import-content": "node scripts/import-content.js",
+    "optimize-fonts": "node scripts/optimize-fonts.js",
+    "validate-content": "node scripts/validate-content.js"
+  },
+  "dependencies": {
+    "@astrojs/cloudflare": "^12.6.10",
+    "@astrojs/mdx": "^4.3.6",
+    "@astrojs/rss": "^4.0.12",
+    "@astrojs/sitemap": "^3.6.0",
+    "@astrojs/tailwind": "^6.0.2",
+    "astro": "^5.14.8",
+    "tailwindcss": "^3.4.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.19",
+    "glob": "^11.0.3",
+    "gray-matter": "^4.0.3",
+    "pagefind": "^1.4.0",
+    "prettier": "^3.6.2",
+    "prettier-plugin-astro": "^0.14.1"
+  }
+}

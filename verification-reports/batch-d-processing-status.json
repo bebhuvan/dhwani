@@ -1,0 +1,58 @@
+{
+  "batch": "D",
+  "start_time": "2025-10-25T00:00:00Z",
+  "works_total": 19,
+  "works_processed": 1,
+  "processing_strategy": "Prioritized enhancement with featured work identification",
+  "featured_candidates": [
+    {
+      "file": "the-babur-nama-in-english-memoirs-of-babur-babur.md",
+      "status": "COMPLETE",
+      "lines": 143,
+      "sections": 11,
+      "score_estimate": 95,
+      "featured_recommendation": "YES",
+      "reasoning": "Foundational imperial autobiography, exceptional historical significance, comprehensive coverage"
+    },
+    {
+      "file": "the-raghuvamsa-of-kalidasa-with-the-commentary-the-samjivani-of-mallinatha-kalidasa.md",
+      "status": "IN_PROGRESS",
+      "featured_potential": "HIGH",
+      "reasoning": "Classical Sanskrit mahakavya by greatest poet, foundational literature"
+    },
+    {
+      "file": "अषटधयय-1897-पणन.md",
+      "status": "PENDING",
+      "featured_potential": "HIGH",
+      "reasoning": "Panini's foundational linguistics work, influenced computational science"
+    },
+    {
+      "file": "the-kathá-sarit-ságara-or-ocean-of-the-streams-of-story-somadeva-bhatta.md",
+      "status": "PENDING",
+      "featured_potential": "HIGH",
+      "reasoning": "Major classical story collection, 11th century Kashmir literature"
+    },
+    {
+      "file": "the-cambridge-history-of-india-edward-james-rapson.md",
+      "status": "IN_PROGRESS",
+      "featured_potential": "MEDIUM-HIGH",
+      "reasoning": "Comprehensive scholarly reference, historical importance"
+    }
+  ],
+  "remaining_works": [
+    "the-english-urdu-translators-companion-durga-prasad.md",
+    "the-great-epic-of-india-its-character-and-origin-hopkins.md",
+    "the-holy-bible-a-facsimile-in-a-reduced-size-of-the-authorized-version-published-in-the-year-1611-alfred-w-pollard.md",
+    "the-lusiad-or-the-discovery-of-india-an-epic-poem-camões.md",
+    "the-ocean-of-story-being-ch-tawneys-translation-of-somadevas-katha-sarit-sagara-somadeva-bhatta.md",
+    "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte.md",
+    "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte-vaman-shivaram-1858-1892.md",
+    "the-sacred-books-of-the-east-described-and-examined-hindu-series-unknown.md",
+    "the-samkhya-philosophy-containing-samkhya-pravachana-sutram-nandalal-sinha.md",
+    "the-vaisesika-sutras-of-kanada-translated-by-nandalal-sinha-kanada.md",
+    "the-village-gods-of-south-india-henry-whitehead.md",
+    "vedic-grammar-arthur-anthony-macdonell.md",
+    "yoga-sastra-the-yoga-sutras-of-patenjali-examined-with-a-notice-of-swami-vivekanandas-yoga-philosophy-patañjali-christian-literature-society-for-india-murdoch.md",
+    "తలగ-ఇగలష-నఘటవ-telugu-english-dictionary-ప-శకరనరయణ.md"
+  ]
+}

@@ -1,0 +1,21 @@
+---
+// This file redirects /archive to /archive/1
+// Since we're using static generation, we'll use a meta refresh
+const redirectUrl = '/archive/1';
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting to Archive...</title>
+  <meta http-equiv="refresh" content="0;url=/archive/1">
+  <link rel="canonical" href="/archive/1">
+</head>
+<body>
+  <p>Redirecting to <a href="/archive/1">Archive</a>...</p>
+  <script>
+    window.location.href = '/archive/1';
+  </script>
+</body>
+</html>

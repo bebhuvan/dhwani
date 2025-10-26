@@ -1,0 +1,2729 @@
+{
+  "summary": {
+    "total": 101,
+    "certain": 61,
+    "likely": 0,
+    "probable": 12,
+    "uncertain": 16,
+    "reject": 12,
+    "acceptable": 61,
+    "needsReview": 28,
+    "acceptanceRate": "60.4%"
+  },
+  "acceptable": [
+    {
+      "file": "a-classical-dictionary-of-hindu-mythology-and-religion-geography-history-and-literature-john-dowson.md",
+      "title": "A classical dictionary of Hindu mythology and religion, geography, history, and literature",
+      "author": "[John Dowson]",
+      "year": "1888",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1888, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "a-comparative-grammar-of-the-sanskrit-zend-greek-latin-lithuanian-gothic-german-and-slavonic-languages-bopp.md",
+      "title": "A comparative grammar of the Sanskrit, Zend, Greek, Latin, Lithuanian, Gothic, German, and Slavonic languages;",
+      "author": "[Bopp, Franz, 1791-1867 Eastwick]",
+      "year": "1885",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1885, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "a-compendium-of-the-comparative-grammar-of-the-indo-european-sanskrit-greek-and-latin-languages-schleicher.md",
+      "title": "A compendium of the comparative grammar of the Indo-European, Sanskrit, Greek, and Latin languages;",
+      "author": "[Schleicher, August, 1821-1868 Bendall]",
+      "year": "1874",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1874, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "a-concordance-to-the-greek-testament-according-to-the-texts-of-westcott-and-hort-tischendorf-and-the-english-revisers-moulton.md",
+      "title": "A concordance to the Greek Testament : according to the texts of Westcott and Hort, Tischendorf, and the English revisers",
+      "author": "[Moulton, W. F., 1835-1898 Geden]",
+      "year": "1897",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1897, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "a-history-of-architecture-in-all-countries-from-the-earliest-times-to-the-present-day-fergusson.md",
+      "title": "A history of architecture in all countries from the earliest times to the present day",
+      "author": "[Fergusson, James, 1808-1886]",
+      "year": "1874",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1874, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "a-new-hindustani-english-dictionary-fallon-s.md",
+      "title": "A New Hindustani-english Dictionary",
+      "author": "[Fallon S, w]",
+      "year": "1879",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1879, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "a-sanskrit-grammar-including-both-the-classical-language-and-the-older-dialects-of-veda-and-brahmana-william-dwight-whitney.md",
+      "title": "A Sanskrit grammar; including both the classical language, and the older dialects, of Veda and Brahmana",
+      "author": "[William Dwight Whitney]",
+      "year": "1879",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1879, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "akbar-the-great-mogul-1542-1605-vincent-arthur-smith.md",
+      "title": "Akbar the Great Mogul, 1542-1605",
+      "author": "[Vincent Arthur Smith]",
+      "year": "1917",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1917, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "american-architect-and-architecture-unknown.md",
+      "title": "American architect and architecture",
+      "author": "[]",
+      "year": "1876",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1876, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "an-alphabetical-list-of-jaina-mss-belonging-to-government-in-the-oriental-library-of-the-asiatic-society-of-bengal-asiatic-society-calcutta.md",
+      "title": "An alphabetical list of Jaina MSS, belonging to government in the Oriental Library of the Asiatic Society of Bengal",
+      "author": "[Asiatic Society (Calcutta, India). Library Kuñjavihr Nyyabhshana, Pandit]",
+      "year": "1908",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1908, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "an-avesta-grammar-in-comparison-with-sanskrit-jackson.md",
+      "title": "An Avesta grammar in comparison with Sanskrit",
+      "author": "[Jackson, A. V. Williams, 1862-1937]",
+      "year": "1892",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1892, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "annual-address-delivered-to-the-asiatic-society-of-bengal-caluctta-2nd-february-1898-hoernle.md",
+      "title": "Annual address delivered to the Asiatic Society of Bengal, Caluctta, 2nd February, 1898",
+      "author": "[Hoernle, August Friedrich Rudolf, 1841-1918 Asiatic Society (Calcutta]",
+      "year": "1898",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1898, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "art-manufactures-of-india-mukharji.md",
+      "title": "Art-manufactures of India",
+      "author": "[Mukharji, T.N]",
+      "year": "1888",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1888, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "bhartiya-jyotish-vigyan-ravindra-kumar-dubey.md",
+      "title": "Bhartiya Jyotish Vigyan",
+      "author": "[Ravindra Kumar Dubey]",
+      "year": "1661",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1661, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "buddhist-art-in-india-grünwedel.md",
+      "title": "Buddhist art in India",
+      "author": "[Grünwedel, Albert, 1856-1935 Burgess]",
+      "year": "1901",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1901, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "epic-mythology-hopkins.md",
+      "title": "Epic mythology",
+      "author": "[Hopkins, Edward Washburn, 1857-1932]",
+      "year": "1915",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1915, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "gandhi-azad-and-nationalism-shakir.md",
+      "title": "Gandhi, Azad and nationalism",
+      "author": "[Shakir, Moin, 1941-]",
+      "year": "1900",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1900, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "gitanjali-song-offerings-a-collection-of-prose-translations-made-by-the-author-from-the-original-bengali-rabindranath-tagore.md",
+      "title": "Gitanjali (song offerings) : a collection of prose translations made by the author from the original Bengali",
+      "author": "[Rabindranath Tagore]",
+      "year": "1913",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1913, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "hind-swaraj-or-indian-home-rule-mahatma-gandhi.md",
+      "title": "Hind swaraj, or, Indian home rule",
+      "author": "[Mahatma Gandhi]",
+      "year": "1921",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1921, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "hindu-superiority-an-attempt-to-determine-the-position-of-the-hindu-race-in-the-scale-of-nations-sarda.md",
+      "title": "Hindu superiority: an attempt to determine the position of the Hindu race in the scale of nations",
+      "author": "[Sarda, Har Bilas, diwan bahadur]",
+      "year": "1906",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1906, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "hindu-widow-re-marriage-other-tracts-gandhi.md",
+      "title": "Hindu widow re-marriage & other tracts",
+      "author": "[Gandhi, Mahatma, 1869-1948]",
+      "year": "1920",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1920, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "history-of-aurangzib-based-on-original-sources-jadunath-sarkar.md",
+      "title": "History of Aurangzib based on original sources",
+      "author": "[Jadunath Sarkar]",
+      "year": "1912",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1912, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "indian-home-rule-reprinted-with-a-new-foreword-by-the-author-gandhi-mahatma-1869-1948.md",
+      "title": "Indian home rule. Reprinted with a new foreword by the author",
+      "author": "[Gandhi, Mahatma, 1869-1948]",
+      "year": "1919",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1919, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "indian-home-rule-reprinted-with-a-new-foreword-by-the-author-gandhi.md",
+      "title": "Indian home rule. Reprinted with a new foreword by the author",
+      "author": "[Gandhi, Mahatma, 1869-1948]",
+      "year": "1919",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1919, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "kabir-granthavali-gupta-mataprasad.md",
+      "title": "Kabir Granthavali",
+      "author": "[Gupta, Mataprasad]",
+      "year": "1928",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1928, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "kabir-granthavali-gupta.md",
+      "title": "Kabir Granthavali",
+      "author": "[Gupta, Mataprasad]",
+      "year": "1928",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1928, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "kabir-granthawali-kabir.md",
+      "title": "Kabir-granthawali",
+      "author": "[Kabir, Shyamsundar Das]",
+      "year": "1874",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1874, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "kashidasi-mahabharat-কশদস-মহভরত-kashiram-das.md",
+      "title": "Kashidasi Mahabharat কাশীদাসী মহাভারত",
+      "author": "[Kashiram Das, Sudeb Chandra Chattopadhyaya]",
+      "year": "1925",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1925, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "kautilya-arthashastra-hindi-anubad-kautilya.md",
+      "title": "Kautilya Arthashastra Hindi Anubad",
+      "author": "[Kautilya, Vidya Bhashker, Udayabeer Shastri]",
+      "year": "1925",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1925, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "kāñcippurāṇam-civañāna-munivar.md",
+      "title": "Kāñcippurāṇam",
+      "author": "[Civañān̲a Mun̲ivar, active 18th century]",
+      "year": "1910",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1910, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "kāñcippurāṇam-civañāṇa-muṉivar-active-18th-century.md",
+      "title": "Kāñcippurāṇam",
+      "author": "[Civañāṇa Muṉivar, active 18th century]",
+      "year": "1910",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1910, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "laghu-siddhantakaumudi-varadarāja-varadarāja-active-17th-century.md",
+      "title": "Laghu-siddhantakaumudi",
+      "author": "[Varadarāja Varadarāja, active 17th century]",
+      "year": "1928",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1928, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "laghu-siddhantakaumudi-varadarāja-varadarāja.md",
+      "title": "Laghu-siddhantakaumudi",
+      "author": "[Varadarāja Varadarāja, active 17th century]",
+      "year": "1928",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1928, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "life-in-ancient-india-with-a-map-manning.md",
+      "title": "Life in Ancient India; with a map",
+      "author": "[Manning, Charlotte Speir]",
+      "year": "1856",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1856, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "literary-history-of-ancient-india-in-relation-to-its-racial-and-linguistic-affiliations-chandra-chakraberty.md",
+      "title": "Literary history of ancient India, in relation to its racial and linguistic affiliations",
+      "author": "[Chandra Chakraberty]",
+      "year": "1900",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1900, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "miscellaneous-notices-relating-to-china-and-our-commercial-intercourse-with-that-country-part-the-second-staunton.md",
+      "title": "Miscellaneous notices relating to China, and our commercial intercourse with that country. Part the second",
+      "author": "[Staunton, George Thomas, Sir]",
+      "year": "1828",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1828, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "our-educational-problem-dayal-har-1884-1939.md",
+      "title": "Our educational problem",
+      "author": "[Dayal, Har, 1884-1939]",
+      "year": "1922",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1922, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "our-educational-problem-dayal.md",
+      "title": "Our educational problem",
+      "author": "[Dayal, Har, 1884-1939]",
+      "year": "1922",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1922, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "raghuvansh-mahakavya-mahakavi-kalidas.md",
+      "title": "Raghuvansh Mahakavya",
+      "author": "[Mahakavi Kalidas]",
+      "year": "1907",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1907, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "si-yu-ki-buddhist-records-of-the-western-world-xuanzang.md",
+      "title": "Si-yu-ki, Buddhist records of the Western world",
+      "author": "[Xuanzang, Samuel Beal]",
+      "year": "1884",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1884, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "south-indian-images-of-gods-and-goddesses-krishna-sastri.md",
+      "title": "South-Indian images of gods and goddesses",
+      "author": "[Krishna Sastri]",
+      "year": "1916",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1916, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "syntax-of-the-hebrew-language-of-the-old-testament-ewald.md",
+      "title": "Syntax of the Hebrew language of the Old Testament;",
+      "author": "[Ewald, Heinrich, 1803-1875 Kennedy]",
+      "year": "1891",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1891, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-art-of-war-the-oldest-military-treatise-in-the-world-sun-tzu.md",
+      "title": "The art of war: the oldest military treatise in the world",
+      "author": "[Sun Tzu, Lionel Giles]",
+      "year": "1910",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1910, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-babur-nama-in-english-memoirs-of-babur-babur.md",
+      "title": "The Babur-nama in English (Memoirs of Babur)",
+      "author": "[Babur, Annette Beveridge]",
+      "year": "1922",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1922, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-cambridge-history-of-india-edward-james-rapson.md",
+      "title": "The Cambridge history of India",
+      "author": "[Edward James Rapson]",
+      "year": "1922",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1922, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-english-urdu-translators-companion-durga-prasad.md",
+      "title": "The English Urdu Translators Companion",
+      "author": "[Durga Prasad]",
+      "year": "1890",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1890, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-great-epic-of-india-its-character-and-origin-hopkins.md",
+      "title": "The great epic of India; its character and origin",
+      "author": "[Hopkins, Edward Washburn, 1857-1932]",
+      "year": "1901",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1901, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-holy-bible-a-facsimile-in-a-reduced-size-of-the-authorized-version-published-in-the-year-1611-alfred-w-pollard.md",
+      "title": "The Holy Bible : a facsimile in a reduced size of the Authorized version published in the year 1611",
+      "author": "[Alfred W. Pollard]",
+      "year": "1911",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1911, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-kama-sutra-of-vatsyayana-vatsyayana.md",
+      "title": "The Kama sutra of Vatsyayana",
+      "author": "[Vatsyayana]",
+      "year": "1883",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1883, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-kathá-sarit-ságara-or-ocean-of-the-streams-of-story-somadeva-bhatta.md",
+      "title": "The Kathá sarit ságara; or, Ocean of the streams of story",
+      "author": "[Somadeva Bhatta, C. H. Tawney]",
+      "year": "1880",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1880, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-lusiad-or-the-discovery-of-india-an-epic-poem-camões.md",
+      "title": "The Lusiad : or, The discovery of India : an epic poem",
+      "author": "[Camões, Luís de, 1524?-1580 Mickle]",
+      "year": "1791",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1791, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-ocean-of-story-being-ch-tawneys-translation-of-somadevas-katha-sarit-sagara-somadeva-bhatta.md",
+      "title": "The ocean of story, being C.H. Tawney's translation of Somadeva's Katha sarit sagara",
+      "author": "[Somadeva Bhatta, C. H. Tawney, N. M. Penzer]",
+      "year": "1924",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1924, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-raghuvamsa-of-kalidasa-with-the-commentary-the-samjivani-of-mallinatha-kalidasa.md",
+      "title": "The Raghuvamsa of Kalidasa : with the commentary (the Samjivani) of Mallinatha",
+      "author": "[Kalidasa, Mallinatha, M. R. Kale]",
+      "year": "1922",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1922, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-sacred-books-of-the-east-described-and-examined-hindu-series-unknown.md",
+      "title": "The sacred books of the East, described and examined ; Hindu series",
+      "author": "[]",
+      "year": "1897",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1897, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-samkhya-philosophy-containing-samkhya-pravachana-sutram-nandalal-sinha.md",
+      "title": "The samkhya philosophy; containing samkhya-pravachana sutram",
+      "author": "[Nandalal Sinha, Aniruddha, Vijnana Bhiksu]",
+      "year": "1915",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1915, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-vaisesika-sutras-of-kanada-translated-by-nandalal-sinha-kanada.md",
+      "title": "The Vaisesika sutras of Kanada. Translated by Nandalal Sinha",
+      "author": "[Kanada, Nandalal Sinha]",
+      "year": "1923",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1923, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-village-gods-of-south-india-henry-whitehead.md",
+      "title": "The village gods of South India",
+      "author": "[Henry Whitehead]",
+      "year": "1921",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1921, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "vedic-grammar-arthur-anthony-macdonell.md",
+      "title": "Vedic grammar",
+      "author": "[Arthur Anthony Macdonell]",
+      "year": "1910",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1910, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "yoga-sastra-the-yoga-sutras-of-patenjali-examined-with-a-notice-of-swami-vivekanandas-yoga-philosophy-patañjali-christian-literature-society-for-india-murdoch.md",
+      "title": "Yoga Sastra : the Yoga sutras of Patenjali examined : with a notice of Swami Vivekananda's Yoga philosophy",
+      "author": "[Patañjali Christian Literature Society for India Murdoch, John, 1819-1904]",
+      "year": "1897",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1897, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "अषटधयय-1897-पणन.md",
+      "title": "अष्टाध्यायी (1897)",
+      "author": "[पाणिनी]",
+      "year": "1897",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1897, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "తలగ-ఇగలష-నఘటవ-telugu-english-dictionary-ప-శకరనరయణ.md",
+      "title": "తెలుగు-ఇంగ్లీషు నిఘంటువు (Telugu-English Dictionary)",
+      "author": "[పి శంకరనారాయణ]",
+      "year": "1900",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1900, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    }
+  ],
+  "needsReview": [
+    {
+      "file": "1-bhikshu-pratimoksha-2-bhikshuna-pratimoksha-3-mahabagga-4-chullabagga-sanskrityan-rahul.md",
+      "title": "1. Bhikshu-pratimoksha, 2. Bhikshuna Pratimoksha, 3. Mahabagga, 4. Chullabagga",
+      "author": "[Sanskrityan, Rahul]",
+      "year": "1934",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 91 years ago (1934), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "1-bhikshu-pratimoksha-2-bhikshuna-pratimoksha-3-mahabagga-4-chullabagga-sanskrityan.md",
+      "title": "1. Bhikshu-pratimoksha, 2. Bhikshuna Pratimoksha, 3. Mahabagga, 4. Chullabagga",
+      "author": "[Sanskrityan, Rahul]",
+      "year": "1934",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 91 years ago (1934), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "linguistic-society-of-india-not-available-1.md",
+      "title": "Linguistic Society Of India",
+      "author": "[Not Available]",
+      "year": "1933",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 92 years ago (1933), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "linguistic-society-of-india-not-available-2.md",
+      "title": "Linguistic Society Of India",
+      "author": "[Not Available]",
+      "year": "1933",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 92 years ago (1933), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "mool-ramayana-ramnathlal-1.md",
+      "title": "Mool Ramayana",
+      "author": "[Ramnathlal]",
+      "year": "1929",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 96 years ago (1929), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "mool-ramayana-ramnathlal-2.md",
+      "title": "Mool Ramayana",
+      "author": "[Ramnathlal]",
+      "year": "1929",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 96 years ago (1929), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "purohit-darpaned25-bhattacharya-surendramohan-comp.md",
+      "title": "Purohit-darpan,ed.25",
+      "author": "[Bhattacharya, surendramohan Comp.]",
+      "year": "1933",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 92 years ago (1933), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "purohit-darpaned25-bhattacharya.md",
+      "title": "Purohit-darpan,ed.25",
+      "author": "[Bhattacharya, surendramohan Comp.]",
+      "year": "1933",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 92 years ago (1933), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "research-methodology-bm-jain-1.md",
+      "title": "Research Methodology",
+      "author": "[B.m. Jain]",
+      "year": "1945",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 80 years ago (1945), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "research-methodology-bm-jain-2.md",
+      "title": "Research Methodology",
+      "author": "[B.m. Jain]",
+      "year": "1945",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 80 years ago (1945), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "tyag-patra-jainendra-kumar-1.md",
+      "title": "Tyag-patra",
+      "author": "[Jainendra Kumar]",
+      "year": "1937",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 88 years ago (1937), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "tyag-patra-jainendra-kumar-2.md",
+      "title": "Tyag-patra",
+      "author": "[Jainendra Kumar]",
+      "year": "1937",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 88 years ago (1937), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale-m-r.md",
+      "title": "A higher Sanskrit grammar, for the use of schools and colleges",
+      "author": "[Kale, M. R.]",
+      "year": "1961",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1961, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale.md",
+      "title": "A higher Sanskrit grammar, for the use of schools and colleges",
+      "author": "[Kale, M. R.]",
+      "year": "1961",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1961, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "ashtanga-sangraha-athridev-gupta-1.md",
+      "title": "Ashtanga Sangraha",
+      "author": "[Athridev_gupta]",
+      "year": "1951",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1951, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "ashtanga-sangraha-athridev-gupta-2.md",
+      "title": "Ashtanga Sangraha",
+      "author": "[Athridev_gupta]",
+      "year": "1951",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1951, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "atharvaveda-saunaka-visha-bandhu-1.md",
+      "title": "Atharvaveda (saunaka)",
+      "author": "[Visha Bandhu]",
+      "year": "1962",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1962, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "atharvaveda-saunaka-visha-bandhu-2.md",
+      "title": "Atharvaveda (saunaka)",
+      "author": "[Visha Bandhu]",
+      "year": "1962",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1962, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "critical-word-index-of-the-bhagavadgita-divanji-prahlad-c.md",
+      "title": "Critical word index of the Bhagavadgita",
+      "author": "[Divanji, Prahlad C.]",
+      "year": "1946",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1946, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "critical-word-index-of-the-bhagavadgita-divanji.md",
+      "title": "Critical word index of the Bhagavadgita",
+      "author": "[Divanji, Prahlad C.]",
+      "year": "1946",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1946, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "kautilya-arthasastra-vidhyalankara-pranath.md",
+      "title": "Kautilya Arthasastra",
+      "author": "[Vidhyalankara, Pranath]",
+      "year": "1959",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1959, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "kautilya-arthasastra-vidhyalankara.md",
+      "title": "Kautilya Arthasastra",
+      "author": "[Vidhyalankara, Pranath]",
+      "year": "1959",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1959, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "marma-vijnj-aan-paathak-raamarakshh-1.md",
+      "title": "Marma Vijnj-aan",
+      "author": "[Paat'hak Raamarakshh]",
+      "year": "1949",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1949, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "marma-vijnj-aan-paathak-raamarakshh-2.md",
+      "title": "Marma Vijnj-aan",
+      "author": "[Paat'hak Raamarakshh]",
+      "year": "1949",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1949, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "sushrut-sanhita-ambikadatt-1.md",
+      "title": "Sushrut Sanhita",
+      "author": "[Ambikadatt]",
+      "year": "1954",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1954, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "sushrut-sanhita-ambikadatt-2.md",
+      "title": "Sushrut Sanhita",
+      "author": "[Ambikadatt]",
+      "year": "1954",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1954, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte-vaman-shivaram-1858-1892.md",
+      "title": "The Practical Sanskrit-English dictionary containing appendices on Sanskrit prosody and important literary and geogrpahical names of ancient India",
+      "author": "[Apte, Vaman Shivaram, 1858-1892]",
+      "year": "1965",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1965, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte.md",
+      "title": "The Practical Sanskrit-English dictionary containing appendices on Sanskrit prosody and important literary and geogrpahical names of ancient India",
+      "author": "[Apte, Vaman Shivaram, 1858-1892]",
+      "year": "1965",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1965, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    }
+  ],
+  "reject": [
+    {
+      "file": "README.md",
+      "authorDeathYear": null,
+      "certainty": "UNKNOWN",
+      "level": 0,
+      "reason": "No publication year available",
+      "publicDomain": false
+    },
+    {
+      "file": "a-sanskrit-manual-for-high-schools-antoine-robert-1914.md",
+      "title": "A Sanskrit manual for high schools",
+      "author": "[Antoine, Robert, 1914-]",
+      "year": "1968",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1968, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "a-sanskrit-manual-for-high-schools-antoine.md",
+      "title": "A Sanskrit manual for high schools",
+      "author": "[Antoine, Robert, 1914-]",
+      "year": "1968",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1968, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "bhartiya-shasan-and-rajniti-jain-pukhraj.md",
+      "title": "Bhartiya Shasan And Rajniti",
+      "author": "[Jain Pukhraj]",
+      "year": "1990",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1990, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "contributions-of-sanskrit-inscriptions-to-lexicography-tewari-s-p-1944.md",
+      "title": "Contributions of Sanskrit inscriptions to lexicography",
+      "author": "[Tewari, S. P., 1944-]",
+      "year": "1987",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1987, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "contributions-of-sanskrit-inscriptions-to-lexicography-tewari.md",
+      "title": "Contributions of Sanskrit inscriptions to lexicography",
+      "author": "[Tewari, S. P., 1944-]",
+      "year": "1987",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1987, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "jurisprudence-and-legal-theory-dr-mahajan-v-d-1.md",
+      "title": "Jurisprudence And Legal Theory",
+      "author": "[Dr. Mahajan V. D.]",
+      "year": "1987",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1987, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "jurisprudence-and-legal-theory-dr-mahajan-v-d-2.md",
+      "title": "Jurisprudence And Legal Theory",
+      "author": "[Dr. Mahajan V. D.]",
+      "year": "1987",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1987, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "puranic-encyclopaedia-a-comprehensive-dictionary-with-special-reference-to-the-epic-and-puranic-literature-mani-vettam-1921.md",
+      "title": "Puranic encyclopaedia : a comprehensive dictionary with special reference to the epic and Puranic literature",
+      "author": "[Mani, Vettam, 1921-]",
+      "year": "1975",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1975, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "puranic-encyclopaedia-a-comprehensive-dictionary-with-special-reference-to-the-epic-and-puranic-literature-mani.md",
+      "title": "Puranic encyclopaedia : a comprehensive dictionary with special reference to the epic and Puranic literature",
+      "author": "[Mani, Vettam, 1921-]",
+      "year": "1975",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1975, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "srimad-bhagavad-gita-sanskrit-hindi-and-english-kaushik-ashok.md",
+      "title": "Srimad Bhagavad Gita (Sanskrit, Hindi and English)",
+      "author": "[Kaushik, Ashok]",
+      "year": "1993",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1993, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "srimad-bhagavad-gita-sanskrit-hindi-and-english-kaushik.md",
+      "title": "Srimad Bhagavad Gita (Sanskrit, Hindi and English)",
+      "author": "[Kaushik, Ashok]",
+      "year": "1993",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1993, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    }
+  ],
+  "all": [
+    {
+      "file": "a-classical-dictionary-of-hindu-mythology-and-religion-geography-history-and-literature-john-dowson.md",
+      "title": "A classical dictionary of Hindu mythology and religion, geography, history, and literature",
+      "author": "[John Dowson]",
+      "year": "1888",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1888, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "a-comparative-grammar-of-the-sanskrit-zend-greek-latin-lithuanian-gothic-german-and-slavonic-languages-bopp.md",
+      "title": "A comparative grammar of the Sanskrit, Zend, Greek, Latin, Lithuanian, Gothic, German, and Slavonic languages;",
+      "author": "[Bopp, Franz, 1791-1867 Eastwick]",
+      "year": "1885",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1885, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "a-compendium-of-the-comparative-grammar-of-the-indo-european-sanskrit-greek-and-latin-languages-schleicher.md",
+      "title": "A compendium of the comparative grammar of the Indo-European, Sanskrit, Greek, and Latin languages;",
+      "author": "[Schleicher, August, 1821-1868 Bendall]",
+      "year": "1874",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1874, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "a-concordance-to-the-greek-testament-according-to-the-texts-of-westcott-and-hort-tischendorf-and-the-english-revisers-moulton.md",
+      "title": "A concordance to the Greek Testament : according to the texts of Westcott and Hort, Tischendorf, and the English revisers",
+      "author": "[Moulton, W. F., 1835-1898 Geden]",
+      "year": "1897",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1897, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "a-history-of-architecture-in-all-countries-from-the-earliest-times-to-the-present-day-fergusson.md",
+      "title": "A history of architecture in all countries from the earliest times to the present day",
+      "author": "[Fergusson, James, 1808-1886]",
+      "year": "1874",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1874, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "a-new-hindustani-english-dictionary-fallon-s.md",
+      "title": "A New Hindustani-english Dictionary",
+      "author": "[Fallon S, w]",
+      "year": "1879",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1879, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "a-sanskrit-grammar-including-both-the-classical-language-and-the-older-dialects-of-veda-and-brahmana-william-dwight-whitney.md",
+      "title": "A Sanskrit grammar; including both the classical language, and the older dialects, of Veda and Brahmana",
+      "author": "[William Dwight Whitney]",
+      "year": "1879",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1879, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "akbar-the-great-mogul-1542-1605-vincent-arthur-smith.md",
+      "title": "Akbar the Great Mogul, 1542-1605",
+      "author": "[Vincent Arthur Smith]",
+      "year": "1917",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1917, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "american-architect-and-architecture-unknown.md",
+      "title": "American architect and architecture",
+      "author": "[]",
+      "year": "1876",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1876, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "an-alphabetical-list-of-jaina-mss-belonging-to-government-in-the-oriental-library-of-the-asiatic-society-of-bengal-asiatic-society-calcutta.md",
+      "title": "An alphabetical list of Jaina MSS, belonging to government in the Oriental Library of the Asiatic Society of Bengal",
+      "author": "[Asiatic Society (Calcutta, India). Library Kuñjavihr Nyyabhshana, Pandit]",
+      "year": "1908",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1908, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "an-avesta-grammar-in-comparison-with-sanskrit-jackson.md",
+      "title": "An Avesta grammar in comparison with Sanskrit",
+      "author": "[Jackson, A. V. Williams, 1862-1937]",
+      "year": "1892",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1892, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "annual-address-delivered-to-the-asiatic-society-of-bengal-caluctta-2nd-february-1898-hoernle.md",
+      "title": "Annual address delivered to the Asiatic Society of Bengal, Caluctta, 2nd February, 1898",
+      "author": "[Hoernle, August Friedrich Rudolf, 1841-1918 Asiatic Society (Calcutta]",
+      "year": "1898",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1898, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "art-manufactures-of-india-mukharji.md",
+      "title": "Art-manufactures of India",
+      "author": "[Mukharji, T.N]",
+      "year": "1888",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1888, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "bhartiya-jyotish-vigyan-ravindra-kumar-dubey.md",
+      "title": "Bhartiya Jyotish Vigyan",
+      "author": "[Ravindra Kumar Dubey]",
+      "year": "1661",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1661, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "buddhist-art-in-india-grünwedel.md",
+      "title": "Buddhist art in India",
+      "author": "[Grünwedel, Albert, 1856-1935 Burgess]",
+      "year": "1901",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1901, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "epic-mythology-hopkins.md",
+      "title": "Epic mythology",
+      "author": "[Hopkins, Edward Washburn, 1857-1932]",
+      "year": "1915",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1915, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "gandhi-azad-and-nationalism-shakir.md",
+      "title": "Gandhi, Azad and nationalism",
+      "author": "[Shakir, Moin, 1941-]",
+      "year": "1900",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1900, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "gitanjali-song-offerings-a-collection-of-prose-translations-made-by-the-author-from-the-original-bengali-rabindranath-tagore.md",
+      "title": "Gitanjali (song offerings) : a collection of prose translations made by the author from the original Bengali",
+      "author": "[Rabindranath Tagore]",
+      "year": "1913",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1913, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "hind-swaraj-or-indian-home-rule-mahatma-gandhi.md",
+      "title": "Hind swaraj, or, Indian home rule",
+      "author": "[Mahatma Gandhi]",
+      "year": "1921",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1921, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "hindu-superiority-an-attempt-to-determine-the-position-of-the-hindu-race-in-the-scale-of-nations-sarda.md",
+      "title": "Hindu superiority: an attempt to determine the position of the Hindu race in the scale of nations",
+      "author": "[Sarda, Har Bilas, diwan bahadur]",
+      "year": "1906",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1906, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "hindu-widow-re-marriage-other-tracts-gandhi.md",
+      "title": "Hindu widow re-marriage & other tracts",
+      "author": "[Gandhi, Mahatma, 1869-1948]",
+      "year": "1920",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1920, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "history-of-aurangzib-based-on-original-sources-jadunath-sarkar.md",
+      "title": "History of Aurangzib based on original sources",
+      "author": "[Jadunath Sarkar]",
+      "year": "1912",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1912, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "indian-home-rule-reprinted-with-a-new-foreword-by-the-author-gandhi-mahatma-1869-1948.md",
+      "title": "Indian home rule. Reprinted with a new foreword by the author",
+      "author": "[Gandhi, Mahatma, 1869-1948]",
+      "year": "1919",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1919, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "indian-home-rule-reprinted-with-a-new-foreword-by-the-author-gandhi.md",
+      "title": "Indian home rule. Reprinted with a new foreword by the author",
+      "author": "[Gandhi, Mahatma, 1869-1948]",
+      "year": "1919",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1919, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "kabir-granthavali-gupta-mataprasad.md",
+      "title": "Kabir Granthavali",
+      "author": "[Gupta, Mataprasad]",
+      "year": "1928",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1928, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "kabir-granthavali-gupta.md",
+      "title": "Kabir Granthavali",
+      "author": "[Gupta, Mataprasad]",
+      "year": "1928",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1928, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "kabir-granthawali-kabir.md",
+      "title": "Kabir-granthawali",
+      "author": "[Kabir, Shyamsundar Das]",
+      "year": "1874",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1874, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "kashidasi-mahabharat-কশদস-মহভরত-kashiram-das.md",
+      "title": "Kashidasi Mahabharat কাশীদাসী মহাভারত",
+      "author": "[Kashiram Das, Sudeb Chandra Chattopadhyaya]",
+      "year": "1925",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1925, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "kautilya-arthashastra-hindi-anubad-kautilya.md",
+      "title": "Kautilya Arthashastra Hindi Anubad",
+      "author": "[Kautilya, Vidya Bhashker, Udayabeer Shastri]",
+      "year": "1925",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1925, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "kāñcippurāṇam-civañāna-munivar.md",
+      "title": "Kāñcippurāṇam",
+      "author": "[Civañān̲a Mun̲ivar, active 18th century]",
+      "year": "1910",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1910, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "kāñcippurāṇam-civañāṇa-muṉivar-active-18th-century.md",
+      "title": "Kāñcippurāṇam",
+      "author": "[Civañāṇa Muṉivar, active 18th century]",
+      "year": "1910",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1910, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "laghu-siddhantakaumudi-varadarāja-varadarāja-active-17th-century.md",
+      "title": "Laghu-siddhantakaumudi",
+      "author": "[Varadarāja Varadarāja, active 17th century]",
+      "year": "1928",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1928, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "laghu-siddhantakaumudi-varadarāja-varadarāja.md",
+      "title": "Laghu-siddhantakaumudi",
+      "author": "[Varadarāja Varadarāja, active 17th century]",
+      "year": "1928",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1928, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "life-in-ancient-india-with-a-map-manning.md",
+      "title": "Life in Ancient India; with a map",
+      "author": "[Manning, Charlotte Speir]",
+      "year": "1856",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1856, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "literary-history-of-ancient-india-in-relation-to-its-racial-and-linguistic-affiliations-chandra-chakraberty.md",
+      "title": "Literary history of ancient India, in relation to its racial and linguistic affiliations",
+      "author": "[Chandra Chakraberty]",
+      "year": "1900",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1900, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "miscellaneous-notices-relating-to-china-and-our-commercial-intercourse-with-that-country-part-the-second-staunton.md",
+      "title": "Miscellaneous notices relating to China, and our commercial intercourse with that country. Part the second",
+      "author": "[Staunton, George Thomas, Sir]",
+      "year": "1828",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1828, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "our-educational-problem-dayal-har-1884-1939.md",
+      "title": "Our educational problem",
+      "author": "[Dayal, Har, 1884-1939]",
+      "year": "1922",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1922, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "our-educational-problem-dayal.md",
+      "title": "Our educational problem",
+      "author": "[Dayal, Har, 1884-1939]",
+      "year": "1922",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1922, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "raghuvansh-mahakavya-mahakavi-kalidas.md",
+      "title": "Raghuvansh Mahakavya",
+      "author": "[Mahakavi Kalidas]",
+      "year": "1907",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1907, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "si-yu-ki-buddhist-records-of-the-western-world-xuanzang.md",
+      "title": "Si-yu-ki, Buddhist records of the Western world",
+      "author": "[Xuanzang, Samuel Beal]",
+      "year": "1884",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1884, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "south-indian-images-of-gods-and-goddesses-krishna-sastri.md",
+      "title": "South-Indian images of gods and goddesses",
+      "author": "[Krishna Sastri]",
+      "year": "1916",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1916, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "syntax-of-the-hebrew-language-of-the-old-testament-ewald.md",
+      "title": "Syntax of the Hebrew language of the Old Testament;",
+      "author": "[Ewald, Heinrich, 1803-1875 Kennedy]",
+      "year": "1891",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1891, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-art-of-war-the-oldest-military-treatise-in-the-world-sun-tzu.md",
+      "title": "The art of war: the oldest military treatise in the world",
+      "author": "[Sun Tzu, Lionel Giles]",
+      "year": "1910",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1910, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-babur-nama-in-english-memoirs-of-babur-babur.md",
+      "title": "The Babur-nama in English (Memoirs of Babur)",
+      "author": "[Babur, Annette Beveridge]",
+      "year": "1922",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1922, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-cambridge-history-of-india-edward-james-rapson.md",
+      "title": "The Cambridge history of India",
+      "author": "[Edward James Rapson]",
+      "year": "1922",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1922, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-english-urdu-translators-companion-durga-prasad.md",
+      "title": "The English Urdu Translators Companion",
+      "author": "[Durga Prasad]",
+      "year": "1890",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1890, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-great-epic-of-india-its-character-and-origin-hopkins.md",
+      "title": "The great epic of India; its character and origin",
+      "author": "[Hopkins, Edward Washburn, 1857-1932]",
+      "year": "1901",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1901, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-holy-bible-a-facsimile-in-a-reduced-size-of-the-authorized-version-published-in-the-year-1611-alfred-w-pollard.md",
+      "title": "The Holy Bible : a facsimile in a reduced size of the Authorized version published in the year 1611",
+      "author": "[Alfred W. Pollard]",
+      "year": "1911",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1911, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-kama-sutra-of-vatsyayana-vatsyayana.md",
+      "title": "The Kama sutra of Vatsyayana",
+      "author": "[Vatsyayana]",
+      "year": "1883",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1883, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-kathá-sarit-ságara-or-ocean-of-the-streams-of-story-somadeva-bhatta.md",
+      "title": "The Kathá sarit ságara; or, Ocean of the streams of story",
+      "author": "[Somadeva Bhatta, C. H. Tawney]",
+      "year": "1880",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1880, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-lusiad-or-the-discovery-of-india-an-epic-poem-camões.md",
+      "title": "The Lusiad : or, The discovery of India : an epic poem",
+      "author": "[Camões, Luís de, 1524?-1580 Mickle]",
+      "year": "1791",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1791, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-ocean-of-story-being-ch-tawneys-translation-of-somadevas-katha-sarit-sagara-somadeva-bhatta.md",
+      "title": "The ocean of story, being C.H. Tawney's translation of Somadeva's Katha sarit sagara",
+      "author": "[Somadeva Bhatta, C. H. Tawney, N. M. Penzer]",
+      "year": "1924",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1924, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-raghuvamsa-of-kalidasa-with-the-commentary-the-samjivani-of-mallinatha-kalidasa.md",
+      "title": "The Raghuvamsa of Kalidasa : with the commentary (the Samjivani) of Mallinatha",
+      "author": "[Kalidasa, Mallinatha, M. R. Kale]",
+      "year": "1922",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1922, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-sacred-books-of-the-east-described-and-examined-hindu-series-unknown.md",
+      "title": "The sacred books of the East, described and examined ; Hindu series",
+      "author": "[]",
+      "year": "1897",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1897, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-samkhya-philosophy-containing-samkhya-pravachana-sutram-nandalal-sinha.md",
+      "title": "The samkhya philosophy; containing samkhya-pravachana sutram",
+      "author": "[Nandalal Sinha, Aniruddha, Vijnana Bhiksu]",
+      "year": "1915",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1915, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-vaisesika-sutras-of-kanada-translated-by-nandalal-sinha-kanada.md",
+      "title": "The Vaisesika sutras of Kanada. Translated by Nandalal Sinha",
+      "author": "[Kanada, Nandalal Sinha]",
+      "year": "1923",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1923, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "the-village-gods-of-south-india-henry-whitehead.md",
+      "title": "The village gods of South India",
+      "author": "[Henry Whitehead]",
+      "year": "1921",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1921, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "vedic-grammar-arthur-anthony-macdonell.md",
+      "title": "Vedic grammar",
+      "author": "[Arthur Anthony Macdonell]",
+      "year": "1910",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1910, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "yoga-sastra-the-yoga-sutras-of-patenjali-examined-with-a-notice-of-swami-vivekanandas-yoga-philosophy-patañjali-christian-literature-society-for-india-murdoch.md",
+      "title": "Yoga Sastra : the Yoga sutras of Patenjali examined : with a notice of Swami Vivekananda's Yoga philosophy",
+      "author": "[Patañjali Christian Literature Society for India Murdoch, John, 1819-1904]",
+      "year": "1897",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1897, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "अषटधयय-1897-पणन.md",
+      "title": "अष्टाध्यायी (1897)",
+      "author": "[पाणिनी]",
+      "year": "1897",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1897, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "తలగ-ఇగలష-నఘటవ-telugu-english-dictionary-ప-శకరనరయణ.md",
+      "title": "తెలుగు-ఇంగ్లీషు నిఘంటువు (Telugu-English Dictionary)",
+      "author": "[పి శంకరనారాయణ]",
+      "year": "1900",
+      "authorDeathYear": null,
+      "certainty": "CERTAIN",
+      "level": 100,
+      "reason": "Published in 1900, before 1929 US cutoff",
+      "publicDomain": true,
+      "rules": [
+        "US pre-1929"
+      ]
+    },
+    {
+      "file": "1-bhikshu-pratimoksha-2-bhikshuna-pratimoksha-3-mahabagga-4-chullabagga-sanskrityan-rahul.md",
+      "title": "1. Bhikshu-pratimoksha, 2. Bhikshuna Pratimoksha, 3. Mahabagga, 4. Chullabagga",
+      "author": "[Sanskrityan, Rahul]",
+      "year": "1934",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 91 years ago (1934), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "1-bhikshu-pratimoksha-2-bhikshuna-pratimoksha-3-mahabagga-4-chullabagga-sanskrityan.md",
+      "title": "1. Bhikshu-pratimoksha, 2. Bhikshuna Pratimoksha, 3. Mahabagga, 4. Chullabagga",
+      "author": "[Sanskrityan, Rahul]",
+      "year": "1934",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 91 years ago (1934), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "linguistic-society-of-india-not-available-1.md",
+      "title": "Linguistic Society Of India",
+      "author": "[Not Available]",
+      "year": "1933",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 92 years ago (1933), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "linguistic-society-of-india-not-available-2.md",
+      "title": "Linguistic Society Of India",
+      "author": "[Not Available]",
+      "year": "1933",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 92 years ago (1933), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "mool-ramayana-ramnathlal-1.md",
+      "title": "Mool Ramayana",
+      "author": "[Ramnathlal]",
+      "year": "1929",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 96 years ago (1929), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "mool-ramayana-ramnathlal-2.md",
+      "title": "Mool Ramayana",
+      "author": "[Ramnathlal]",
+      "year": "1929",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 96 years ago (1929), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "purohit-darpaned25-bhattacharya-surendramohan-comp.md",
+      "title": "Purohit-darpan,ed.25",
+      "author": "[Bhattacharya, surendramohan Comp.]",
+      "year": "1933",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 92 years ago (1933), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "purohit-darpaned25-bhattacharya.md",
+      "title": "Purohit-darpan,ed.25",
+      "author": "[Bhattacharya, surendramohan Comp.]",
+      "year": "1933",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 92 years ago (1933), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "research-methodology-bm-jain-1.md",
+      "title": "Research Methodology",
+      "author": "[B.m. Jain]",
+      "year": "1945",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 80 years ago (1945), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "research-methodology-bm-jain-2.md",
+      "title": "Research Methodology",
+      "author": "[B.m. Jain]",
+      "year": "1945",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 80 years ago (1945), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "tyag-patra-jainendra-kumar-1.md",
+      "title": "Tyag-patra",
+      "author": "[Jainendra Kumar]",
+      "year": "1937",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 88 years ago (1937), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "tyag-patra-jainendra-kumar-2.md",
+      "title": "Tyag-patra",
+      "author": "[Jainendra Kumar]",
+      "year": "1937",
+      "authorDeathYear": null,
+      "certainty": "PROBABLE",
+      "level": 60,
+      "reason": "Published 88 years ago (1937), possibly PD but needs verification",
+      "publicDomain": true,
+      "rules": [
+        "Old publication (>80 years)"
+      ]
+    },
+    {
+      "file": "a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale-m-r.md",
+      "title": "A higher Sanskrit grammar, for the use of schools and colleges",
+      "author": "[Kale, M. R.]",
+      "year": "1961",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1961, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale.md",
+      "title": "A higher Sanskrit grammar, for the use of schools and colleges",
+      "author": "[Kale, M. R.]",
+      "year": "1961",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1961, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "ashtanga-sangraha-athridev-gupta-1.md",
+      "title": "Ashtanga Sangraha",
+      "author": "[Athridev_gupta]",
+      "year": "1951",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1951, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "ashtanga-sangraha-athridev-gupta-2.md",
+      "title": "Ashtanga Sangraha",
+      "author": "[Athridev_gupta]",
+      "year": "1951",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1951, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "atharvaveda-saunaka-visha-bandhu-1.md",
+      "title": "Atharvaveda (saunaka)",
+      "author": "[Visha Bandhu]",
+      "year": "1962",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1962, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "atharvaveda-saunaka-visha-bandhu-2.md",
+      "title": "Atharvaveda (saunaka)",
+      "author": "[Visha Bandhu]",
+      "year": "1962",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1962, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "critical-word-index-of-the-bhagavadgita-divanji-prahlad-c.md",
+      "title": "Critical word index of the Bhagavadgita",
+      "author": "[Divanji, Prahlad C.]",
+      "year": "1946",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1946, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "critical-word-index-of-the-bhagavadgita-divanji.md",
+      "title": "Critical word index of the Bhagavadgita",
+      "author": "[Divanji, Prahlad C.]",
+      "year": "1946",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1946, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "kautilya-arthasastra-vidhyalankara-pranath.md",
+      "title": "Kautilya Arthasastra",
+      "author": "[Vidhyalankara, Pranath]",
+      "year": "1959",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1959, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "kautilya-arthasastra-vidhyalankara.md",
+      "title": "Kautilya Arthasastra",
+      "author": "[Vidhyalankara, Pranath]",
+      "year": "1959",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1959, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "marma-vijnj-aan-paathak-raamarakshh-1.md",
+      "title": "Marma Vijnj-aan",
+      "author": "[Paat'hak Raamarakshh]",
+      "year": "1949",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1949, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "marma-vijnj-aan-paathak-raamarakshh-2.md",
+      "title": "Marma Vijnj-aan",
+      "author": "[Paat'hak Raamarakshh]",
+      "year": "1949",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1949, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "sushrut-sanhita-ambikadatt-1.md",
+      "title": "Sushrut Sanhita",
+      "author": "[Ambikadatt]",
+      "year": "1954",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1954, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "sushrut-sanhita-ambikadatt-2.md",
+      "title": "Sushrut Sanhita",
+      "author": "[Ambikadatt]",
+      "year": "1954",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1954, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte-vaman-shivaram-1858-1892.md",
+      "title": "The Practical Sanskrit-English dictionary containing appendices on Sanskrit prosody and important literary and geogrpahical names of ancient India",
+      "author": "[Apte, Vaman Shivaram, 1858-1892]",
+      "year": "1965",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1965, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte.md",
+      "title": "The Practical Sanskrit-English dictionary containing appendices on Sanskrit prosody and important literary and geogrpahical names of ancient India",
+      "author": "[Apte, Vaman Shivaram, 1858-1892]",
+      "year": "1965",
+      "authorDeathYear": null,
+      "certainty": "UNCERTAIN",
+      "level": 40,
+      "reason": "Published in 1965, author death unknown, needs legal review",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "README.md",
+      "authorDeathYear": null,
+      "certainty": "UNKNOWN",
+      "level": 0,
+      "reason": "No publication year available",
+      "publicDomain": false
+    },
+    {
+      "file": "a-sanskrit-manual-for-high-schools-antoine-robert-1914.md",
+      "title": "A Sanskrit manual for high schools",
+      "author": "[Antoine, Robert, 1914-]",
+      "year": "1968",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1968, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "a-sanskrit-manual-for-high-schools-antoine.md",
+      "title": "A Sanskrit manual for high schools",
+      "author": "[Antoine, Robert, 1914-]",
+      "year": "1968",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1968, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "bhartiya-shasan-and-rajniti-jain-pukhraj.md",
+      "title": "Bhartiya Shasan And Rajniti",
+      "author": "[Jain Pukhraj]",
+      "year": "1990",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1990, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "contributions-of-sanskrit-inscriptions-to-lexicography-tewari-s-p-1944.md",
+      "title": "Contributions of Sanskrit inscriptions to lexicography",
+      "author": "[Tewari, S. P., 1944-]",
+      "year": "1987",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1987, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "contributions-of-sanskrit-inscriptions-to-lexicography-tewari.md",
+      "title": "Contributions of Sanskrit inscriptions to lexicography",
+      "author": "[Tewari, S. P., 1944-]",
+      "year": "1987",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1987, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "jurisprudence-and-legal-theory-dr-mahajan-v-d-1.md",
+      "title": "Jurisprudence And Legal Theory",
+      "author": "[Dr. Mahajan V. D.]",
+      "year": "1987",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1987, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "jurisprudence-and-legal-theory-dr-mahajan-v-d-2.md",
+      "title": "Jurisprudence And Legal Theory",
+      "author": "[Dr. Mahajan V. D.]",
+      "year": "1987",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1987, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "puranic-encyclopaedia-a-comprehensive-dictionary-with-special-reference-to-the-epic-and-puranic-literature-mani-vettam-1921.md",
+      "title": "Puranic encyclopaedia : a comprehensive dictionary with special reference to the epic and Puranic literature",
+      "author": "[Mani, Vettam, 1921-]",
+      "year": "1975",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1975, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "puranic-encyclopaedia-a-comprehensive-dictionary-with-special-reference-to-the-epic-and-puranic-literature-mani.md",
+      "title": "Puranic encyclopaedia : a comprehensive dictionary with special reference to the epic and Puranic literature",
+      "author": "[Mani, Vettam, 1921-]",
+      "year": "1975",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1975, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "srimad-bhagavad-gita-sanskrit-hindi-and-english-kaushik-ashok.md",
+      "title": "Srimad Bhagavad Gita (Sanskrit, Hindi and English)",
+      "author": "[Kaushik, Ashok]",
+      "year": "1993",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1993, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    },
+    {
+      "file": "srimad-bhagavad-gita-sanskrit-hindi-and-english-kaushik.md",
+      "title": "Srimad Bhagavad Gita (Sanskrit, Hindi and English)",
+      "author": "[Kaushik, Ashok]",
+      "year": "1993",
+      "authorDeathYear": null,
+      "certainty": "REJECT",
+      "level": 0,
+      "reason": "Published in 1993, too recent (<60 years)",
+      "publicDomain": false,
+      "rules": []
+    }
+  ]
+}

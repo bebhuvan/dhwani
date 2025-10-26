@@ -1,0 +1,221 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Button from '../components/ui/Button.astro';
+import SectionHeader from '../components/ui/SectionHeader.astro';
+import FeaturedWork from '../components/ui/FeaturedWork.astro';
+import WorkCard from '../components/ui/WorkCard.astro';
+import CollectionCard from '../components/ui/CollectionCard.astro';
+import ManuscriptDivider from '../components/ui/ManuscriptDivider.astro';
+import DualNumeral from '../components/ui/DualNumeral.astro';
+import { getCollection } from 'astro:content';
+
+const allWorks = await getCollection('works');
+
+// Featured works: rotate through collection based on day of year
+// This ensures different works are featured each day
+const getDayOfYear = () => {
+  const now = new Date();
+  const start = new Date(now.getFullYear(), 0, 0);
+  const diff = now.getTime() - start.getTime();
+  return Math.floor(diff / (1000 * 60 * 60 * 24));
+};
+
+const dayOffset = getDayOfYear();
+const featuredCount = 3;
+
+// Get featured works if they exist, otherwise rotate through all works
+const manuallyFeatured = allWorks.filter(({ data }) => data.featured);
+const featuredWorks = manuallyFeatured.length >= featuredCount
+  ? manuallyFeatured.slice(0, featuredCount)
+  : allWorks
+      .sort((a, b) => a.data.title.localeCompare(b.data.title)) // Alphabetical for consistency
+      .slice(dayOffset % allWorks.length, (dayOffset % allWorks.length) + featuredCount)
+      .concat(allWorks.slice(0, Math.max(0, featuredCount - allWorks.length + (dayOffset % allWorks.length))))
+      .slice(0, featuredCount);
+
+const recentWorks = allWorks
+  .sort((a, b) => {
+    return b.data.publishDate.valueOf() - a.data.publishDate.valueOf();
+  })
+  .slice(0, 6);
+
+// Calculate statistics
+const totalWorks = allWorks.length;
+const totalAuthors = [...new Set(allWorks.flatMap(work => work.data.author))].length;
+const totalLanguages = [...new Set(allWorks.flatMap(work => work.data.language))].length;
+
+// Collections data
+const collections = [
+  {
+    title: 'Ancient Wisdom',
+    description: 'Vedic hymns, Upanishads, and epics that have guided minds for millennia. The philosophical foundations of Indian thought—from ritual to metaphysics.',
+    href: '/collections#ancient-wisdom',
+  },
+  {
+    title: 'Regional Voices',
+    description: 'Stories in Bengali, verses in Tamil, wisdom in Malayalam. India speaks in many tongues, each with its own literary legacy and cultural richness.',
+    href: '/collections#regional-voices',
+  },
+  {
+    title: 'Modern Literature',
+    description: 'Writers who shaped the modern Indian imagination—from Tagore\'s poetry to Gandhi\'s political philosophy and beyond.',
+    href: '/collections#modern-literature',
+  },
+];
+---
+
+<BaseLayout title="Dhwani - A Treasury of Indian Literary Heritage">
+  <main>
+    <!-- Hero Section -->
+    <section class="relative overflow-hidden">
+      <div class="max-w-[1100px] mx-auto px-6 md:px-8 lg:px-12 py-40 md:py-56 lg:py-64">
+
+        <div class="max-w-[54rem] mx-auto mb-28 md:mb-36 text-center">
+          <h1 class="font-serif text-[clamp(3.5rem,7vw,7rem)] font-medium leading-[0.95] tracking-[-0.035em] text-ink mb-20 md:mb-24">
+            The words that shaped <span class="text-accent italic">a civilization</span>
+          </h1>
+
+          <div class="space-y-7 mb-14">
+            <p class="font-serif-body text-[1.2rem] md:text-[1.35rem] leading-[1.7] text-ink-light font-normal">
+              India's literary heritage—the Vedas and Upanishads, Kalidasa and Tagore, centuries of philosophy, poetry, and thought—exists scattered across the internet. Some on Project Gutenberg. Some on Archive.org. Most difficult to find.
+            </p>
+            <p class="font-serif-body text-[1.2rem] md:text-[1.35rem] leading-[1.7] text-ink-light font-normal">
+              Dhwani is a directory. A map to India's public domain literature. Every work cataloged here links to where you can read it, free and in full.
+            </p>
+          </div>
+
+          <div class="flex flex-wrap gap-4 justify-center">
+            <a href="/archive" class="inline-flex items-center gap-2 px-6 py-3 text-[0.95rem] text-paper bg-accent hover:bg-accent-light transition-colors font-medium">
+              Browse Archive →
+            </a>
+            <a href="/about" class="inline-flex items-center gap-2 px-6 py-3 text-[0.95rem] text-ink-medium hover:text-accent transition-colors font-medium border border-line hover:border-accent">
+              Why This Exists
+            </a>
+          </div>
+        </div>
+
+        <!-- Stats - minimal, understated -->
+        <div class="border-t border-line pt-8 flex flex-wrap gap-x-12 gap-y-6 text-[0.85rem] text-ink-lighter">
+          <div><DualNumeral value={totalWorks} class="text-ink text-[1.5rem] font-medium" showDevanagari={false} /> works</div>
+          <div><DualNumeral value={totalAuthors} class="text-ink text-[1.5rem] font-medium" showDevanagari={false} /> authors</div>
+          <div><DualNumeral value={totalLanguages} class="text-ink text-[1.5rem] font-medium" showDevanagari={false} /> languages</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Mission Statement -->
+    <section class="border-t border-line">
+      <div class="max-w-[1100px] mx-auto px-6 md:px-8 lg:px-12 py-28 md:py-36">
+        <div class="max-w-[52rem] mx-auto text-center">
+          <p class="font-serif text-[1.85rem] md:text-[2.35rem] leading-[1.4] text-ink-medium font-normal mb-9">
+            A country with millennia of literary tradition has no equivalent of Project Gutenberg. No centralized way to discover what's already public domain and freely accessible.
+          </p>
+          <p class="font-serif-body text-[1.1rem] leading-[1.8] text-ink-light font-normal">
+            This is an attempt to fix that—<span class="text-ink-medium">incomplete, imperfect, but here</span>. Not a replacement for a proper digital archive, but <span class="text-ink-medium">a starting point</span>.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Featured Works -->
+    {featuredWorks.length > 0 && (
+      <section class="border-t border-line py-36 md:py-44">
+        <div class="max-w-[1100px] mx-auto px-6 md:px-8 lg:px-12">
+          <h2 class="font-serif text-[2.15rem] md:text-[2.65rem] font-normal text-ink mb-18 md:mb-24 text-center">
+            Essential works
+          </h2>
+
+          <div>
+            {featuredWorks.map((work, index) => (
+              <FeaturedWork
+                title={work.data.title}
+                author={work.data.author}
+                language={work.data.language}
+                year={work.data.year}
+                genre={work.data.genre}
+                description={work.data.description}
+                href={`/works/${work.slug}`}
+                index={index}
+              />
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
+    <!-- Recently Added -->
+    <section class="py-36 md:py-44 border-t border-line">
+      <div class="max-w-[1100px] mx-auto px-6 md:px-8 lg:px-12">
+        <div class="mb-18 md:mb-24 text-center">
+          <h2 class="font-serif text-[2.15rem] md:text-[2.65rem] font-normal text-ink mb-5">
+            Recently Added
+          </h2>
+          <a href="/archive" class="hidden md:inline-flex items-center gap-1 text-[0.85rem] text-ink-lighter hover:text-accent transition-colors">
+            View all →
+          </a>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-x-14 gap-y-14 md:gap-y-20">
+          {recentWorks.map((work) => (
+            <WorkCard
+              title={work.data.title}
+              author={work.data.author}
+              language={work.data.language}
+              year={work.data.year}
+              genre={work.data.genre}
+              description={work.data.description}
+              href={`/works/${work.slug}`}
+            />
+          ))}
+        </div>
+
+        <div class="mt-12 md:mt-16 text-center md:hidden">
+          <a href="/archive" class="inline-flex items-center gap-1 text-[0.9rem] text-accent hover:text-accent-light transition-colors font-medium">
+            View all works →
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Collections -->
+    <section class="py-36 md:py-44 border-t border-line">
+      <div class="max-w-[1100px] mx-auto px-6 md:px-8 lg:px-12">
+        <div class="mb-18 md:mb-24 text-center">
+          <h2 class="font-serif text-[2.65rem] md:text-[3.15rem] font-normal text-ink mb-5">
+            Browse by collection
+          </h2>
+          <p class="text-[0.95rem] text-ink-lighter max-w-[36rem] mx-auto">
+            Curated groupings that trace the arc of Indian literary tradition
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-10">
+          {collections.map((collection, index) => (
+            <a href={collection.href} class="group block p-10 md:p-12 bg-paper border-2 border-line hover:border-accent transition-all hover:shadow-lg">
+              <div class="flex items-start justify-between mb-6">
+                <span class="font-serif text-[5rem] text-accent leading-none font-light" style="opacity: 0.08;">
+                  {String(index + 1).padStart(2, '0')}
+                </span>
+                <svg class="w-6 h-6 text-accent opacity-40 group-hover:opacity-100 group-hover:translate-x-1 transition-all shrink-0 mt-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                </svg>
+              </div>
+              <h3 class="font-serif text-[1.65rem] font-medium text-ink mb-4 group-hover:text-accent transition-colors leading-[1.2]">
+                {collection.title}
+              </h3>
+              <p class="font-serif-body text-[0.95rem] leading-[1.7] text-ink-light font-normal">
+                {collection.description}
+              </p>
+            </a>
+          ))}
+        </div>
+
+        <div class="mt-16 md:mt-20 text-center">
+          <a href="/collections" class="inline-flex items-center gap-2 px-6 py-3 text-[0.95rem] text-paper bg-accent hover:bg-accent-light transition-colors font-medium">
+            View all collections →
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

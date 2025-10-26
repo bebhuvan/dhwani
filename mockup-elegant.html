@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dhwani - Full Elegance</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Spectral:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      /* Elegant, refined palette */
+      --ink: #1a1614;
+      --ink-medium: #4a4441;
+      --ink-light: #6a6461;
+      --ink-lighter: #9a9491;
+
+      --paper: #fffcf7;
+      --cream: #faf7f2;
+      --warm-white: #fefdfb;
+      --ivory: #f5f3ee;
+
+      /* Coral orange - vibrant but refined */
+      --accent: #e85d3e;
+      --accent-light: #f4764f;
+      --accent-pale: #facabd;
+      --accent-wash: #fef1ed;
+
+      /* Supporting tones */
+      --amber: #e89950;
+      --sage: #7a8c6f;
+      --burgundy: #c94a2e;
+
+      /* Subtle lines */
+      --line: #e8e5e0;
+      --line-light: #f0ede8;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+      font-size: 17px;
+      font-weight: 400;
+    }
+
+    /* Typography */
+    .serif {
+      font-family: 'Crimson Text', Georgia, serif;
+    }
+
+    .serif-body {
+      font-family: 'Spectral', Georgia, serif;
+    }
+
+    /* Layout */
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 3rem;
+    }
+
+    .container-wide {
+      max-width: 1300px;
+      margin: 0 auto;
+      padding: 0 3rem;
+    }
+
+    /* Header - Elegant and minimal */
+    header {
+      padding: 3rem 0;
+      background: var(--warm-white);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .header-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 3rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+    }
+
+    .site-title {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 2.25rem;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+      color: var(--ink);
+      text-decoration: none;
+    }
+
+    nav {
+      display: flex;
+      gap: 3rem;
+      font-size: 0.9rem;
+    }
+
+    nav a {
+      color: var(--ink-light);
+      text-decoration: none;
+      font-weight: 400;
+      letter-spacing: 0.02em;
+    }
+
+    /* Hero - Spacious and refined */
+    .hero {
+      padding: 5rem 0 6rem;
+      background: var(--warm-white);
+    }
+
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 5rem;
+      max-width: 50rem;
+    }
+
+    .hero-content h1 {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: clamp(3.5rem, 7vw, 6.5rem);
+      font-weight: 600;
+      line-height: 1.1;
+      letter-spacing: -0.02em;
+      margin-bottom: 3rem;
+      color: var(--ink);
+    }
+
+    .hero-content h1 em {
+      font-style: italic;
+      font-weight: 400;
+      color: var(--accent);
+    }
+
+    .hero-description {
+      font-family: 'Spectral', Georgia, serif;
+      font-size: 1.3rem;
+      line-height: 2;
+      color: var(--ink-medium);
+      margin-bottom: 3rem;
+      font-weight: 300;
+    }
+
+    .hero-cta {
+      display: inline-block;
+      font-size: 0.875rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--accent);
+      padding: 0;
+      text-decoration: none;
+      font-weight: 500;
+      border-bottom: 1px solid var(--accent);
+    }
+
+    .hero-sidebar {
+      border-top: 1px solid var(--line);
+      padding-top: 3rem;
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 3rem;
+      margin-bottom: 3rem;
+    }
+
+    .stat-number {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 3.5rem;
+      font-weight: 400;
+      line-height: 1;
+      color: var(--ink);
+      display: block;
+      margin-bottom: 0.75rem;
+      letter-spacing: -0.02em;
+    }
+
+    .stat-label {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      color: var(--ink-lighter);
+      font-weight: 500;
+    }
+
+    .hero-links {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem 3rem;
+    }
+
+    .hero-link {
+      color: var(--ink-medium);
+      text-decoration: none;
+      font-size: 0.875rem;
+      letter-spacing: 0.01em;
+      line-height: 1.6;
+    }
+
+    /* Section Headers - Clean and elegant */
+    .section-header {
+      margin-bottom: 4rem;
+      max-width: 40rem;
+    }
+
+    .section-eyebrow {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+      color: var(--ink-lighter);
+      margin-bottom: 1.5rem;
+      font-weight: 500;
+    }
+
+    .section-title {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: clamp(2.5rem, 4.5vw, 3.75rem);
+      font-weight: 600;
+      letter-spacing: -0.015em;
+      color: var(--ink);
+      margin-bottom: 1.5rem;
+      line-height: 1.15;
+    }
+
+    .section-subtitle {
+      font-family: 'Spectral', Georgia, serif;
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: var(--ink-medium);
+      font-weight: 300;
+    }
+
+    /* Featured Section */
+    .featured-section {
+      padding: 6rem 0;
+      background: var(--paper);
+    }
+
+    .featured-work {
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+      gap: 5rem;
+      margin-bottom: 5rem;
+      padding-bottom: 5rem;
+      border-bottom: 1px solid var(--line-light);
+    }
+
+    .featured-work:last-child {
+      margin-bottom: 0;
+      padding-bottom: 0;
+      border-bottom: none;
+    }
+
+    .work-sidebar {
+      position: sticky;
+      top: 120px;
+      align-self: start;
+    }
+
+    .work-number {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 1rem;
+      color: var(--accent);
+      margin-bottom: 2rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    .work-title {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 2.25rem;
+      font-weight: 600;
+      line-height: 1.25;
+      letter-spacing: -0.01em;
+      color: var(--ink);
+      margin-bottom: 1rem;
+    }
+
+    .work-author {
+      font-size: 1.05rem;
+      color: var(--ink-medium);
+      font-style: italic;
+      margin-bottom: 2.5rem;
+      font-weight: 300;
+    }
+
+    .work-metadata {
+      font-size: 0.8rem;
+      color: var(--ink-light);
+      display: flex;
+      flex-direction: column;
+      gap: 0.875rem;
+      padding: 1.75rem 0;
+      border-top: 1px solid var(--line-light);
+      border-bottom: 1px solid var(--line-light);
+      margin-bottom: 2rem;
+    }
+
+    .meta-row {
+      display: grid;
+      grid-template-columns: 75px 1fr;
+      gap: 1rem;
+    }
+
+    .meta-label {
+      letter-spacing: 0.05em;
+      font-weight: 500;
+      color: var(--ink-lighter);
+    }
+
+    .meta-value {
+      color: var(--ink-medium);
+    }
+
+    .work-links {
+      display: flex;
+      flex-direction: column;
+      gap: 0.625rem;
+    }
+
+    .work-link {
+      font-size: 0.875rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 400;
+      letter-spacing: 0.01em;
+    }
+
+    .work-content {
+      padding-top: 0.5rem;
+    }
+
+    .work-description {
+      font-family: 'Spectral', Georgia, serif;
+      font-size: 1.05rem;
+      line-height: 1.85;
+      color: var(--ink-medium);
+      font-weight: 300;
+    }
+
+    .work-description p {
+      margin-bottom: 1.75rem;
+    }
+
+    .work-description p:last-child {
+      margin-bottom: 0;
+    }
+
+    .work-description em {
+      font-style: italic;
+      color: var(--ink);
+    }
+
+    /* Pull quote */
+    .work-pullquote {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 1.75rem;
+      font-style: italic;
+      line-height: 1.6;
+      color: var(--ink);
+      padding: 3rem 0;
+      margin: 3rem 0;
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+      font-weight: 400;
+      letter-spacing: -0.01em;
+    }
+
+    /* Archive Section */
+    .archive-section {
+      padding: 6rem 0;
+      background: var(--warm-white);
+    }
+
+    .archive-header {
+      margin-bottom: 4rem;
+    }
+
+    .archive-link {
+      font-size: 0.75rem;
+      color: var(--accent);
+      text-decoration: none;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      font-weight: 500;
+      margin-top: 2rem;
+      display: inline-block;
+    }
+
+    .works-list {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 0;
+    }
+
+    .work-item {
+      text-decoration: none;
+      color: inherit;
+      display: block;
+      padding: 2.5rem 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .work-item-title {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 2rem;
+      line-height: 1.3;
+      color: var(--ink);
+      font-weight: 600;
+      letter-spacing: -0.01em;
+      margin-bottom: 0.65rem;
+    }
+
+    .work-item-author {
+      font-size: 1rem;
+      color: var(--ink-medium);
+      font-style: italic;
+      margin-bottom: 1rem;
+      font-weight: 300;
+    }
+
+    .work-item-excerpt {
+      font-family: 'Spectral', Georgia, serif;
+      font-size: 0.975rem;
+      line-height: 1.75;
+      color: var(--ink-light);
+      margin-bottom: 1rem;
+      font-weight: 300;
+      max-width: 48rem;
+    }
+
+    .work-item-meta {
+      font-size: 0.75rem;
+      color: var(--ink-lighter);
+      letter-spacing: 0.08em;
+      display: flex;
+      gap: 1rem;
+      text-transform: uppercase;
+    }
+
+    .meta-separator {
+      color: var(--line);
+    }
+
+    /* Collections Section */
+    .collections-section {
+      padding: 6rem 0;
+      background: var(--paper);
+    }
+
+    .collections-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 3rem;
+    }
+
+    .collection-card {
+      text-decoration: none;
+      color: inherit;
+      display: flex;
+      flex-direction: column;
+      padding: 2.5rem 2.25rem;
+      background: transparent;
+      border: 1px solid var(--line);
+    }
+
+    .collection-number {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 0.85rem;
+      font-weight: 500;
+      color: var(--accent);
+      line-height: 1;
+      margin-bottom: 1.75rem;
+      letter-spacing: 0.1em;
+    }
+
+    .collection-title {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 1.75rem;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+      color: var(--ink);
+      margin-bottom: 1.25rem;
+      line-height: 1.3;
+    }
+
+    .collection-description {
+      font-family: 'Spectral', Georgia, serif;
+      font-size: 0.95rem;
+      line-height: 1.7;
+      color: var(--ink-medium);
+      margin-bottom: auto;
+      font-weight: 300;
+      flex-grow: 1;
+    }
+
+    .collection-footer {
+      padding-top: 1.75rem;
+      border-top: 1px solid var(--line-light);
+      margin-top: 1.75rem;
+    }
+
+    .collection-count {
+      font-size: 0.7rem;
+      letter-spacing: 0.12em;
+      color: var(--ink-lighter);
+      font-weight: 500;
+      text-transform: uppercase;
+    }
+
+    /* Footer */
+    footer {
+      border-top: 1px solid var(--line);
+      padding: 6rem 0;
+      background: var(--warm-white);
+    }
+
+    .footer-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 3rem;
+    }
+
+    .footer-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 4rem;
+      margin-bottom: 5rem;
+    }
+
+    .footer-about h3 {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 2rem;
+      margin-bottom: 2rem;
+      font-weight: 600;
+      color: var(--ink);
+      letter-spacing: -0.01em;
+    }
+
+    .footer-about p {
+      font-family: 'Spectral', Georgia, serif;
+      font-size: 1.05rem;
+      line-height: 1.85;
+      color: var(--ink-medium);
+      font-weight: 300;
+      max-width: 40rem;
+    }
+
+    .footer-nav {
+      display: flex;
+      gap: 4rem;
+    }
+
+    .footer-nav h4 {
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+      margin-bottom: 1.5rem;
+      font-weight: 500;
+      color: var(--ink-lighter);
+    }
+
+    .footer-links {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      list-style: none;
+    }
+
+    .footer-links a {
+      color: var(--ink-medium);
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 300;
+      letter-spacing: 0.01em;
+    }
+
+    .footer-colophon {
+      padding-top: 3rem;
+      border-top: 1px solid var(--line);
+      font-size: 0.8rem;
+      color: var(--ink-lighter);
+      letter-spacing: 0.02em;
+    }
+
+    /* Responsive */
+    @media (max-width: 1024px) {
+      .container,
+      .container-wide,
+      .header-inner,
+      .footer-inner {
+        padding: 0 2rem;
+      }
+
+      .hero-grid {
+        grid-template-columns: 1fr;
+        gap: 4rem;
+      }
+
+      .featured-work {
+        grid-template-columns: 1fr;
+        gap: 3rem;
+      }
+
+      .work-sidebar {
+        position: static;
+      }
+
+      .works-list {
+        grid-template-columns: 1fr;
+        gap: 3rem;
+      }
+
+      .collections-grid {
+        grid-template-columns: 1fr;
+        gap: 2.5rem;
+      }
+
+      .footer-grid {
+        grid-template-columns: 1fr;
+        gap: 3rem;
+      }
+
+      .archive-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 2rem;
+      }
+    }
+
+    /* Selection */
+    ::selection {
+      background: var(--accent-wash);
+      color: var(--ink);
+    }
+
+    /* Smooth scroll */
+    html {
+      scroll-behavior: smooth;
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header id="header">
+    <div class="header-inner">
+      <a href="/" class="site-title">Dhwani</a>
+      <nav>
+        <a href="/archive">Archive</a>
+        <a href="/collections">Collections</a>
+        <a href="/about">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container">
+      <div class="hero-grid">
+        <div class="hero-content">
+          <h1>
+            A treasury of works that shaped
+            <em>a civilization</em>
+          </h1>
+          <p class="hero-description">
+            From ancient Vedic hymns to modern literary masterpieces—this is an archive of Indian literature, freely accessible, carefully curated, and built with deep respect for the public domain.
+          </p>
+          <a href="/archive" class="hero-cta">Explore the Archive</a>
+        </div>
+
+        <div class="hero-sidebar">
+          <div class="stats-grid">
+            <div class="stat-item">
+              <span class="stat-number">258</span>
+              <span class="stat-label">Works</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-number">127</span>
+              <span class="stat-label">Authors</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-number">12</span>
+              <span class="stat-label">Languages</span>
+            </div>
+          </div>
+
+          <div class="hero-links">
+            <a href="/collections" class="hero-link">View by Collection</a>
+            <a href="/authors" class="hero-link">Browse by Author</a>
+            <a href="/languages" class="hero-link">Explore Languages</a>
+            <a href="/rss.xml" class="hero-link">Subscribe via RSS</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Works -->
+  <section class="featured-section">
+    <div class="container">
+      <div class="section-header">
+        <div class="section-eyebrow">Featured</div>
+        <h2 class="section-title">Essential Works from the Archive</h2>
+        <p class="section-subtitle">
+          Foundational texts that continue to shape thought, art, and literature across generations and cultures.
+        </p>
+      </div>
+
+      <div class="featured-work">
+        <div class="work-sidebar">
+          <div class="work-number">Featured I</div>
+          <h3 class="work-title">The Upanishads</h3>
+          <div class="work-author">Multiple Authors</div>
+
+          <div class="work-metadata">
+            <div class="meta-row">
+              <span class="meta-label">Language</span>
+              <span class="meta-value">Sanskrit</span>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Period</span>
+              <span class="meta-value">800–200 BCE</span>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Genre</span>
+              <span class="meta-value">Philosophy</span>
+            </div>
+          </div>
+
+          <div class="work-links">
+            <a href="#" class="work-link">Archive.org</a>
+            <a href="#" class="work-link">Project Gutenberg</a>
+            <a href="#" class="work-link">Wikisource</a>
+          </div>
+        </div>
+
+        <div class="work-content">
+          <div class="work-description">
+            <p>
+              Ancient philosophical texts that form the theoretical foundation of Hindu thought. The Upanishads explore fundamental questions about the nature of reality, consciousness, the self, and liberation from the cycle of rebirth. Composed over several centuries by different sages, these texts represent some of humanity's earliest systematic philosophical inquiry.
+            </p>
+
+            <div class="work-pullquote">
+              The Self is one. Unmoving, it moves faster than the mind. The senses lag, but Self runs ahead.
+            </div>
+
+            <p>
+              The word "Upanishad" literally means "sitting down near"—a reference to students sitting at the feet of a teacher to receive instruction. These dialogues between sages and seekers, between teachers and disciples, continue to influence philosophical and spiritual thought worldwide. They ask: What is the nature of ultimate reality? What is the relationship between the individual self and the universal consciousness? How does one achieve liberation?
+            </p>
+            <p>
+              The Upanishads moved Indian philosophy from ritual sacrifice to internal contemplation, from external action to inner knowledge. They remain foundational texts not just for Hinduism, but for anyone interested in metaphysics, consciousness studies, and the philosophical traditions of South Asia.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="featured-work">
+        <div class="work-sidebar">
+          <div class="work-number">Featured II</div>
+          <h3 class="work-title">Gitanjali</h3>
+          <div class="work-author">Rabindranath Tagore</div>
+
+          <div class="work-metadata">
+            <div class="meta-row">
+              <span class="meta-label">Language</span>
+              <span class="meta-value">Bengali, English</span>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Year</span>
+              <span class="meta-value">1910</span>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Genre</span>
+              <span class="meta-value">Poetry</span>
+            </div>
+          </div>
+
+          <div class="work-links">
+            <a href="#" class="work-link">Archive.org</a>
+            <a href="#" class="work-link">Project Gutenberg</a>
+          </div>
+        </div>
+
+        <div class="work-content">
+          <div class="work-description">
+            <p>
+              A collection of 103 poems that won Rabindranath Tagore the Nobel Prize in Literature in 1913, making him the first non-European to receive the honor. The title <em>Gitanjali</em> means "Song Offerings" in Bengali—a fitting name for verses that read like devotional hymns.
+            </p>
+            <p>
+              Tagore translated his own Bengali verses into English prose poems, creating a bridge between Eastern spiritual poetry and Western literary traditions. W.B. Yeats wrote the introduction to the English edition, calling the poems "a world I have dreamed of all my life long." The collection explores themes of devotion, nature, mortality, and the divine with remarkable lyrical grace and philosophical depth.
+            </p>
+            <p>
+              These are not simply religious poems. They're meditations on love, loss, beauty, and the human condition—rendered in language that feels both ancient and startlingly modern. <em>Gitanjali</em> remains one of the most widely translated works of Indian literature.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Archive/Recently Added -->
+  <section class="archive-section">
+    <div class="container">
+      <div class="archive-header">
+        <div class="section-header" style="margin-bottom: 0;">
+          <div class="section-eyebrow">Recent Additions</div>
+          <h2 class="section-title">Newly Catalogued Works</h2>
+          <p class="section-subtitle">
+            Timeless classics freshly digitized and made accessible.
+          </p>
+        </div>
+        <a href="/archive" class="archive-link">View All Works →</a>
+      </div>
+
+      <div class="works-list">
+        <a href="#" class="work-item">
+          <h3 class="work-item-title">Thirukkural</h3>
+          <div class="work-item-author">Thiruvalluvar</div>
+          <p class="work-item-excerpt">
+            Ancient Tamil text on ethics, political wisdom, and love. 1,330 couplets that have guided generations across cultures and faiths—a masterpiece of concise moral philosophy.
+          </p>
+          <div class="work-item-meta">
+            <span>Tamil</span>
+            <span class="meta-separator">·</span>
+            <span>c. 200 CE</span>
+            <span class="meta-separator">·</span>
+            <span>Philosophy</span>
+          </div>
+        </a>
+
+        <a href="#" class="work-item">
+          <h3 class="work-item-title">The Ramayana</h3>
+          <div class="work-item-author">Valmiki</div>
+          <p class="work-item-excerpt">
+            One of the great Sanskrit epics. The story of Prince Rama's exile, his wife Sita's abduction, and the battle against the demon king Ravana. A foundational narrative in Indian culture.
+          </p>
+          <div class="work-item-meta">
+            <span>Sanskrit</span>
+            <span class="meta-separator">·</span>
+            <span>c. 500 BCE</span>
+            <span class="meta-separator">·</span>
+            <span>Epic</span>
+          </div>
+        </a>
+
+        <a href="#" class="work-item">
+          <h3 class="work-item-title">Shakuntala</h3>
+          <div class="work-item-author">Kalidasa</div>
+          <p class="work-item-excerpt">
+            Classical Sanskrit drama about love, memory, and destiny. A king falls in love with a hermit's daughter but forgets her due to a curse. Considered Kalidasa's masterpiece of dramatic literature.
+          </p>
+          <div class="work-item-meta">
+            <span>Sanskrit</span>
+            <span class="meta-separator">·</span>
+            <span>c. 400 CE</span>
+            <span class="meta-separator">·</span>
+            <span>Drama</span>
+          </div>
+        </a>
+
+        <a href="#" class="work-item">
+          <h3 class="work-item-title">Meghaduta</h3>
+          <div class="work-item-author">Kalidasa</div>
+          <p class="work-item-excerpt">
+            A lyric poem in which an exiled yaksha sends a message of longing to his beloved via a passing cloud. Nature and emotion beautifully intertwined in 111 Sanskrit verses.
+          </p>
+          <div class="work-item-meta">
+            <span>Sanskrit</span>
+            <span class="meta-separator">·</span>
+            <span>c. 400 CE</span>
+            <span class="meta-separator">·</span>
+            <span>Poetry</span>
+          </div>
+        </a>
+
+        <a href="#" class="work-item">
+          <h3 class="work-item-title">Hind Swaraj</h3>
+          <div class="work-item-author">Mahatma Gandhi</div>
+          <p class="work-item-excerpt">
+            Gandhi's foundational text on self-rule, civilization, and non-violent resistance. Written in 1909 aboard a ship from London to South Africa, it outlines his political philosophy.
+          </p>
+          <div class="work-item-meta">
+            <span>Gujarati</span>
+            <span class="meta-separator">·</span>
+            <span>1909</span>
+            <span class="meta-separator">·</span>
+            <span>Political Philosophy</span>
+          </div>
+        </a>
+
+        <a href="#" class="work-item">
+          <h3 class="work-item-title">Gora</h3>
+          <div class="work-item-author">Rabindranath Tagore</div>
+          <p class="work-item-excerpt">
+            A novel exploring identity, nationalism, and religious orthodoxy in colonial India. Tagore's longest work and one of his most politically engaged narratives.
+          </p>
+          <div class="work-item-meta">
+            <span>Bengali</span>
+            <span class="meta-separator">·</span>
+            <span>1910</span>
+            <span class="meta-separator">·</span>
+            <span>Novel</span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Collections -->
+  <section class="collections-section">
+    <div class="container-wide">
+      <div class="section-header">
+        <div class="section-eyebrow">Collections</div>
+        <h2 class="section-title">Curated Pathways</h2>
+        <p class="section-subtitle">
+          Explore the archive organized by era, language, and literary tradition.
+        </p>
+      </div>
+
+      <div class="collections-grid">
+        <a href="#" class="collection-card">
+          <div class="collection-number">I</div>
+          <h3 class="collection-title">Ancient Wisdom</h3>
+          <p class="collection-description">
+            Vedic hymns, Upanishads, and epics that have guided minds for millennia. The philosophical foundations of Indian thought.
+          </p>
+          <div class="collection-footer">
+            <span class="collection-count">89 Works</span>
+          </div>
+        </a>
+
+        <a href="#" class="collection-card">
+          <div class="collection-number">II</div>
+          <h3 class="collection-title">Regional Voices</h3>
+          <p class="collection-description">
+            Stories in Bengali, verses in Tamil, wisdom in Malayalam. India speaks in many tongues, each with its own literary legacy.
+          </p>
+          <div class="collection-footer">
+            <span class="collection-count">156 Works</span>
+          </div>
+        </a>
+
+        <a href="#" class="collection-card">
+          <div class="collection-number">III</div>
+          <h3 class="collection-title">Modern Literature</h3>
+          <p class="collection-description">
+            Writers who shaped the modern Indian imagination—from Tagore's poetry to Gandhi's political philosophy and beyond.
+          </p>
+          <div class="collection-footer">
+            <span class="collection-count">134 Works</span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-grid">
+        <div class="footer-about">
+          <h3>About Dhwani</h3>
+          <p>
+            A living archive of Indian literary heritage. This project aggregates works from the public domain—texts from Archive.org, Project Gutenberg, Wikisource, and other sources—making them discoverable and accessible to all.
+          </p>
+        </div>
+
+        <div class="footer-nav">
+          <div>
+            <h4>Explore</h4>
+            <ul class="footer-links">
+              <li><a href="/archive">Archive</a></li>
+              <li><a href="/collections">Collections</a></li>
+              <li><a href="/authors">Authors</a></li>
+              <li><a href="/languages">Languages</a></li>
+            </ul>
+          </div>
+
+          <div>
+            <h4>Learn</h4>
+            <ul class="footer-links">
+              <li><a href="/about">About</a></li>
+              <li><a href="/blog">Blog</a></li>
+              <li><a href="/contribute">Contribute</a></li>
+            </ul>
+          </div>
+
+          <div>
+            <h4>Connect</h4>
+            <ul class="footer-links">
+              <li><a href="/rss.xml">RSS Feed</a></li>
+              <li><a href="mailto:hello@dhwani.org">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-colophon">
+        Built with care for the public domain · 2025
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,247 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Button from '../../components/ui/Button.astro';
+import Badge from '../../components/ui/Badge.astro';
+import { getCollection } from 'astro:content';
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const allWorks = await getCollection('works');
+  const sortedWorks = allWorks.sort((a, b) => {
+    return b.data.publishDate.valueOf() - a.data.publishDate.valueOf();
+  });
+
+  const ALL_AUTHORS = [...new Set(allWorks.flatMap(work => work.data.author))].sort();
+  const ALL_LANGUAGES = [...new Set(allWorks.flatMap(work => work.data.language))].sort();
+  const ALL_GENRES = [...new Set(allWorks.flatMap(work => work.data.genre))].sort();
+
+  return paginate(sortedWorks, {
+    pageSize: 50,
+    props: {
+      allAuthors: ALL_AUTHORS,
+      allLanguages: ALL_LANGUAGES,
+      allGenres: ALL_GENRES,
+    }
+  });
+}) satisfies GetStaticPaths;
+
+const { page, allAuthors, allLanguages, allGenres} = Astro.props;
+---
+
+<BaseLayout title={`Archive - Page ${page.currentPage} - Dhwani`}>
+  <main>
+    <!-- Page Header -->
+    <section class="py-12 md:py-16 lg:py-24 px-6 md:px-8 lg:px-12 max-w-[45rem] mx-auto">
+      <h1 class="font-serif text-[clamp(2.5rem,7vw,5.5rem)] font-semibold leading-[1.1] tracking-[-0.02em] text-ink mb-6 md:mb-8">
+        Archive
+      </h1>
+
+      <p class="font-serif-body text-base md:text-[1.3rem] leading-[1.7] md:leading-[1.9] text-ink-medium font-light">
+        Browse all {page.total.toLocaleString()} works from India's literary heritage.
+      </p>
+    </section>
+
+    <!-- Filters -->
+    <section class="py-10 md:py-12 lg:py-16 px-6 md:px-8 lg:px-12 bg-ivory border-y border-line mb-16 md:mb-20 lg:mb-24">
+      <div class="max-w-[1200px] mx-auto">
+        <div class="grid grid-cols-1 gap-6 md:gap-8 lg:gap-10">
+          <div>
+            <label for="search-input" class="block text-[0.7rem] uppercase tracking-[0.2em] text-ink-lighter font-medium mb-3 md:mb-4">
+              Search
+            </label>
+            <input
+              type="text"
+              id="search-input"
+              placeholder="Search works, authors..."
+              class="w-full px-4 md:px-6 py-3 md:py-4 text-sm md:text-base text-ink bg-warm-white border border-line focus:outline-none focus:border-ink-light"
+            />
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 lg:gap-10">
+            <div>
+              <label for="language-filter" class="block text-[0.7rem] uppercase tracking-[0.2em] text-ink-lighter font-medium mb-3 md:mb-4">
+                Language
+              </label>
+              <select id="language-filter" class="w-full px-4 md:px-6 py-3 md:py-4 text-sm md:text-base text-ink bg-warm-white border border-line focus:outline-none focus:border-ink-light">
+                <option value="">All Languages</option>
+                {allLanguages.map(language => (
+                  <option value={language}>{language}</option>
+                ))}
+              </select>
+            </div>
+
+            <div>
+              <label for="genre-filter" class="block text-[0.7rem] uppercase tracking-[0.2em] text-ink-lighter font-medium mb-3 md:mb-4">
+                Genre
+              </label>
+              <select id="genre-filter" class="w-full px-4 md:px-6 py-3 md:py-4 text-sm md:text-base text-ink bg-warm-white border border-line focus:outline-none focus:border-ink-light">
+                <option value="">All Genres</option>
+                {allGenres.map(genre => (
+                  <option value={genre}>{genre}</option>
+                ))}
+              </select>
+            </div>
+
+            <div>
+              <label for="author-filter" class="block text-[0.7rem] uppercase tracking-[0.2em] text-ink-lighter font-medium mb-3 md:mb-4">
+                Author
+              </label>
+              <select id="author-filter" class="w-full px-4 md:px-6 py-3 md:py-4 text-sm md:text-base text-ink bg-warm-white border border-line focus:outline-none focus:border-ink-light">
+                <option value="">All Authors</option>
+                {allAuthors.slice(0, 100).map(author => (
+                  <option value={author}>{author}</option>
+                ))}
+              </select>
+            </div>
+          </div>
+
+          <div id="results-count" class="text-[0.75rem] md:text-[0.8rem] uppercase tracking-[0.08em] text-ink-lighter mt-4 md:mt-6 lg:mt-8">
+            Showing <span id="showing-count">{page.data.length}</span> of {page.total} works
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Works List -->
+    <section class="pb-16 md:pb-24 lg:pb-32 px-6 md:px-8 lg:px-12">
+      <div class="max-w-[1200px] mx-auto">
+        <div id="works-list" class="space-y-0">
+          {page.data.map((work) => (
+            <a
+              href={`/works/${work.slug}`}
+              class="work-item group block py-10 md:py-12 lg:py-14 border-b border-line first:pt-0 hover:bg-accent-wash transition-all duration-200 px-6 -mx-6 rounded-sm"
+              data-title={work.data.title.toLowerCase()}
+              data-author={work.data.author.join(' ').toLowerCase()}
+              data-description={work.data.description.toLowerCase()}
+              data-language={work.data.language.join(' ').toLowerCase()}
+              data-genre={work.data.genre.join(' ').toLowerCase()}
+            >
+              <div class="mb-5 md:mb-6">
+                <h2 class="font-serif text-[1.65rem] md:text-[2.25rem] lg:text-[2.5rem] font-semibold leading-[1.2] tracking-tight text-ink mb-2 md:mb-3 group-hover:text-accent transition-colors">
+                  {work.data.title}
+                </h2>
+
+                <div class="text-base md:text-lg text-ink-medium italic font-light">
+                  {work.data.author.join(', ')}
+                </div>
+              </div>
+
+              <p class="font-serif-body text-[0.95rem] md:text-[1.05rem] leading-[1.7] text-ink-light font-light mb-5 md:mb-6 max-w-[48rem] line-clamp-3">
+                {work.data.description}
+              </p>
+
+              <div class="flex flex-wrap gap-2">
+                {work.data.language.map(lang => (
+                  <Badge variant="default" size="sm">{lang}</Badge>
+                ))}
+                {work.data.year && (
+                  <Badge variant="outline" size="sm">{work.data.year}</Badge>
+                )}
+                {work.data.genre && work.data.genre.slice(0, 2).map(genre => (
+                  <Badge variant="accent" size="sm">{genre}</Badge>
+                ))}
+              </div>
+            </a>
+          ))}
+        </div>
+
+        <!-- Pagination -->
+        {page.lastPage > 1 && (
+          <nav class="flex items-center justify-center gap-3 mt-24 pt-24 border-t border-line" aria-label="Archive pagination">
+            {page.url.prev && (
+              <a
+                href={page.url.prev}
+                class="px-6 py-3 text-sm text-ink-medium border border-line rounded-sm hover:border-accent hover:text-accent transition-all"
+              >
+                ← Previous
+              </a>
+            )}
+
+            <div class="flex gap-2">
+              {Array.from({ length: Math.min(page.lastPage, 5) }, (_, i) => {
+                const pageNum = i + 1;
+                return pageNum === page.currentPage ? (
+                  <span class="px-5 py-3 text-sm text-paper bg-accent font-medium rounded-sm">
+                    {pageNum}
+                  </span>
+                ) : (
+                  <a
+                    href={pageNum === 1 ? '/archive/1' : `/archive/${pageNum}`}
+                    class="px-5 py-3 text-sm text-ink-medium border border-line rounded-sm hover:border-accent hover:text-accent transition-all"
+                  >
+                    {pageNum}
+                  </a>
+                );
+              })}
+
+              {page.lastPage > 5 && <span class="px-2 py-3 text-ink-lighter">...</span>}
+            </div>
+
+            {page.url.next && (
+              <a
+                href={page.url.next}
+                class="px-6 py-3 text-sm text-ink-medium border border-line rounded-sm hover:border-accent hover:text-accent transition-all"
+              >
+                Next →
+              </a>
+            )}
+          </nav>
+        )}
+      </div>
+    </section>
+  </main>
+
+  <script>
+    // Client-side filtering
+    const searchInput = document.getElementById('search-input') as HTMLInputElement;
+    const authorFilter = document.getElementById('author-filter') as HTMLSelectElement;
+    const languageFilter = document.getElementById('language-filter') as HTMLSelectElement;
+    const genreFilter = document.getElementById('genre-filter') as HTMLSelectElement;
+    const workItems = Array.from(document.querySelectorAll('.work-item')) as HTMLElement[];
+    const showingCount = document.getElementById('showing-count');
+
+    function filterWorks() {
+      const searchTerm = searchInput.value.toLowerCase();
+      const selectedAuthor = authorFilter.value.toLowerCase();
+      const selectedLanguage = languageFilter.value.toLowerCase();
+      const selectedGenre = genreFilter.value.toLowerCase();
+
+      let visibleCount = 0;
+
+      workItems.forEach(item => {
+        const title = item.dataset.title || '';
+        const author = item.dataset.author || '';
+        const description = item.dataset.description || '';
+        const language = item.dataset.language || '';
+        const genre = item.dataset.genre || '';
+
+        const matchesSearch = !searchTerm ||
+          title.includes(searchTerm) ||
+          author.includes(searchTerm) ||
+          description.includes(searchTerm);
+
+        const matchesAuthor = !selectedAuthor || author.includes(selectedAuthor);
+        const matchesLanguage = !selectedLanguage || language.includes(selectedLanguage);
+        const matchesGenre = !selectedGenre || genre.includes(selectedGenre);
+
+        const isVisible = matchesSearch && matchesAuthor && matchesLanguage && matchesGenre;
+
+        if (isVisible) {
+          item.style.display = 'block';
+          visibleCount++;
+        } else {
+          item.style.display = 'none';
+        }
+      });
+
+      if (showingCount) {
+        showingCount.textContent = visibleCount.toString();
+      }
+    }
+
+    searchInput?.addEventListener('input', filterWorks);
+    authorFilter?.addEventListener('change', filterWorks);
+    languageFilter?.addEventListener('change', filterWorks);
+    genreFilter?.addEventListener('change', filterWorks);
+  </script>
+</BaseLayout>

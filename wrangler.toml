@@ -1,0 +1,23 @@
+name = "dhwani"
+main = "dist/_worker.js"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+
+# Assets configuration
+[site]
+bucket = "./dist"
+
+# Build configuration
+[build]
+command = "npm run build"
+
+# Environment variables (if needed)
+# [vars]
+# API_KEY = "your-api-key"
+
+# Production optimizations
+[env.production]
+compatibility_date = "2024-09-23"
+
+# Observability
+observability = { enabled = true }

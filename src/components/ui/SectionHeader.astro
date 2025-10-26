@@ -1,0 +1,54 @@
+---
+export interface Props {
+  eyebrow?: string;
+  title: string;
+  description?: string;
+  action?: {
+    text: string;
+    href: string;
+  };
+  class?: string;
+}
+
+const {
+  eyebrow,
+  title,
+  description,
+  action,
+  class: className = ''
+} = Astro.props;
+---
+
+<div class={`mb-16 pb-8 border-b border-line relative ${className}`}>
+  <div class="flex items-end justify-between gap-8">
+    <div class="flex-1">
+      {eyebrow && (
+        <div class="text-[0.8rem] uppercase tracking-[0.15em] text-accent font-medium mb-4">
+          {eyebrow}
+        </div>
+      )}
+
+      <h2 class="font-serif text-[clamp(2.25rem,4vw,3.25rem)] font-semibold tracking-[0.005em] text-ink leading-[1.2] mb-4">
+        {title}
+      </h2>
+
+      {description && (
+        <p class="font-serif-body text-[1.05rem] leading-[1.8] text-ink-medium font-light max-w-[42em]">
+          {description}
+        </p>
+      )}
+    </div>
+
+    {action && (
+      <a
+        href={action.href}
+        class="hidden lg:inline-flex items-center gap-2 text-[0.85rem] text-accent font-medium whitespace-nowrap"
+      >
+        <span>{action.text}</span>
+        <span>→</span>
+      </a>
+    )}
+  </div>
+
+  <div class="absolute bottom-0 left-0 w-24 h-0.5 bg-accent"></div>
+</div>

@@ -1,0 +1,215 @@
+{
+  "batch": "C",
+  "works_processed": 20,
+  "certain": 8,
+  "likely": 0,
+  "probable": 8,
+  "uncertain": 4,
+  "reject": 0,
+  "summary": {
+    "proceed_to_phase2": 8,
+    "requires_human_review": 12
+  },
+  "detailed_results": [
+    {
+      "file": "kautilya-arthashastra-hindi-anubad-kautilya.md",
+      "pd_status": "CERTAIN",
+      "pd_rule": "Rule A: Published 1925, pre-1929 US cutoff",
+      "certainty_level": 100,
+      "author_death_year": -283,
+      "publication_year": 1925,
+      "proceed_to_phase2": true,
+      "notes": "Kautilya died 283 BCE (2308 years ago)"
+    },
+    {
+      "file": "laghu-siddhantakaumudi-varadarāja-varadarāja-active-17th-century.md",
+      "pd_status": "CERTAIN",
+      "pd_rule": "Rule A: Published 1928, pre-1929 US cutoff",
+      "certainty_level": 100,
+      "author_death_year": null,
+      "publication_year": 1928,
+      "proceed_to_phase2": true,
+      "notes": "Varadaraja active 17th century, died ~300+ years ago"
+    },
+    {
+      "file": "laghu-siddhantakaumudi-varadarāja-varadarāja.md",
+      "pd_status": "CERTAIN",
+      "pd_rule": "Rule A: Published 1928, pre-1929 US cutoff",
+      "certainty_level": 100,
+      "author_death_year": null,
+      "publication_year": 1928,
+      "proceed_to_phase2": true,
+      "notes": "Varadaraja active 17th century, died ~300+ years ago"
+    },
+    {
+      "file": "life-in-ancient-india-with-a-map-manning.md",
+      "pd_status": "CERTAIN",
+      "pd_rule": "Rule A: Published 1856, pre-1929 US cutoff; Rule B: Author died 154 years ago",
+      "certainty_level": 100,
+      "author_death_year": 1871,
+      "publication_year": 1856,
+      "proceed_to_phase2": true,
+      "notes": "Charlotte Speir Manning (1803-1871)"
+    },
+    {
+      "file": "linguistic-society-of-india-not-available-1.md",
+      "pd_status": "PROBABLE",
+      "pd_rule": "Rule E: Publication 92 years old, author uncertain",
+      "certainty_level": 60,
+      "author_death_year": null,
+      "publication_year": 1933,
+      "proceed_to_phase2": false,
+      "notes": "Author not available, requires human review"
+    },
+    {
+      "file": "linguistic-society-of-india-not-available-2.md",
+      "pd_status": "PROBABLE",
+      "pd_rule": "Rule E: Publication 92 years old, author uncertain",
+      "certainty_level": 60,
+      "author_death_year": null,
+      "publication_year": 1933,
+      "proceed_to_phase2": false,
+      "notes": "Author not available, requires human review"
+    },
+    {
+      "file": "marma-vijnj-aan-paathak-raamarakshh-1.md",
+      "pd_status": "UNCERTAIN",
+      "pd_rule": "Publication 76 years old, not yet 80 years, author death unknown",
+      "certainty_level": 40,
+      "author_death_year": null,
+      "publication_year": 1949,
+      "proceed_to_phase2": false,
+      "notes": "Pathak Ramaraksha, death date unknown, requires human review"
+    },
+    {
+      "file": "marma-vijnj-aan-paathak-raamarakshh-2.md",
+      "pd_status": "UNCERTAIN",
+      "pd_rule": "Publication 76 years old, not yet 80 years, author death unknown",
+      "certainty_level": 40,
+      "author_death_year": null,
+      "publication_year": 1949,
+      "proceed_to_phase2": false,
+      "notes": "Pathak Ramaraksha, death date unknown, requires human review"
+    },
+    {
+      "file": "miscellaneous-notices-relating-to-china-and-our-commercial-intercourse-with-that-country-part-the-second-staunton.md",
+      "pd_status": "CERTAIN",
+      "pd_rule": "Rule A: Published 1828, pre-1929 US cutoff; Rule B: Author died 166 years ago",
+      "certainty_level": 100,
+      "author_death_year": 1859,
+      "publication_year": 1828,
+      "proceed_to_phase2": true,
+      "notes": "George Thomas Staunton (1781-1859)"
+    },
+    {
+      "file": "mool-ramayana-ramnathlal-1.md",
+      "pd_status": "PROBABLE",
+      "pd_rule": "Rule E: Published 1929 at US cutoff, 96 years old, author uncertain",
+      "certainty_level": 60,
+      "author_death_year": null,
+      "publication_year": 1929,
+      "proceed_to_phase2": false,
+      "notes": "Ramnathlal, death date unknown, borderline 1929 publication, requires human review"
+    },
+    {
+      "file": "mool-ramayana-ramnathlal-2.md",
+      "pd_status": "PROBABLE",
+      "pd_rule": "Rule E: Published 1929 at US cutoff, 96 years old, author uncertain",
+      "certainty_level": 60,
+      "author_death_year": null,
+      "publication_year": 1929,
+      "proceed_to_phase2": false,
+      "notes": "Ramnathlal, death date unknown, borderline 1929 publication, requires human review"
+    },
+    {
+      "file": "our-educational-problem-dayal-har-1884-1939.md",
+      "pd_status": "CERTAIN",
+      "pd_rule": "Rule A: Published 1922, pre-1929 US cutoff",
+      "certainty_level": 100,
+      "author_death_year": 1939,
+      "publication_year": 1922,
+      "proceed_to_phase2": true,
+      "notes": "Har Dayal (1884-1939), died 86 years ago"
+    },
+    {
+      "file": "our-educational-problem-dayal.md",
+      "pd_status": "CERTAIN",
+      "pd_rule": "Rule A: Published 1922, pre-1929 US cutoff",
+      "certainty_level": 100,
+      "author_death_year": 1939,
+      "publication_year": 1922,
+      "proceed_to_phase2": true,
+      "notes": "Har Dayal (1884-1939), died 86 years ago"
+    },
+    {
+      "file": "purohit-darpaned25-bhattacharya.md",
+      "pd_status": "PROBABLE",
+      "pd_rule": "Rule E: Publication 92 years old, Indian work, author uncertain",
+      "certainty_level": 60,
+      "author_death_year": null,
+      "publication_year": 1933,
+      "proceed_to_phase2": false,
+      "notes": "Bhattacharya Surendramohan, Bengali work, death date unknown, requires human review"
+    },
+    {
+      "file": "purohit-darpaned25-bhattacharya-surendramohan-comp.md",
+      "pd_status": "PROBABLE",
+      "pd_rule": "Rule E: Publication 92 years old, Indian work, author uncertain",
+      "certainty_level": 60,
+      "author_death_year": null,
+      "publication_year": 1933,
+      "proceed_to_phase2": false,
+      "notes": "Bhattacharya Surendramohan, Bengali work, death date unknown, requires human review"
+    },
+    {
+      "file": "research-methodology-bm-jain-1.md",
+      "pd_status": "PROBABLE",
+      "pd_rule": "Rule E: Publication 80 years old, Indian work, author uncertain",
+      "certainty_level": 60,
+      "author_death_year": null,
+      "publication_year": 1945,
+      "proceed_to_phase2": false,
+      "notes": "B.M. Jain, Hindi work, death date unknown, requires human review"
+    },
+    {
+      "file": "research-methodology-bm-jain-2.md",
+      "pd_status": "PROBABLE",
+      "pd_rule": "Rule E: Publication 80 years old, Indian work, author uncertain",
+      "certainty_level": 60,
+      "author_death_year": null,
+      "publication_year": 1945,
+      "proceed_to_phase2": false,
+      "notes": "B.M. Jain, Hindi work, death date unknown, requires human review"
+    },
+    {
+      "file": "sushrut-sanhita-ambikadatt-1.md",
+      "pd_status": "UNCERTAIN",
+      "pd_rule": "Publication 71 years old, not yet 80 years, author death unknown",
+      "certainty_level": 40,
+      "author_death_year": null,
+      "publication_year": 1954,
+      "proceed_to_phase2": false,
+      "notes": "Ambikadatt translator/editor, likely mid-20th century, requires human review"
+    },
+    {
+      "file": "sushrut-sanhita-ambikadatt-2.md",
+      "pd_status": "UNCERTAIN",
+      "pd_rule": "Publication 71 years old, not yet 80 years, author death unknown",
+      "certainty_level": 40,
+      "author_death_year": null,
+      "publication_year": 1954,
+      "proceed_to_phase2": false,
+      "notes": "Ambikadatt translator/editor, likely mid-20th century, requires human review"
+    },
+    {
+      "file": "syntax-of-the-hebrew-language-of-the-old-testament-ewald.md",
+      "pd_status": "CERTAIN",
+      "pd_rule": "Rule A: Published 1891, pre-1929 US cutoff; Rule B: Author died 150 years ago",
+      "certainty_level": 100,
+      "author_death_year": 1875,
+      "publication_year": 1891,
+      "proceed_to_phase2": true,
+      "notes": "Heinrich Ewald (1803-1875)"
+    }
+  ]
+}

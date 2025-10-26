@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Dhwani favicon - Calligraphy pen with flowing voice -->
+  <defs>
+    <style>
+      .bg { fill: #fffcf7; }
+      .nib { fill: #1a1614; }
+      .detail { fill: #fffcf7; stroke: #fffcf7; }
+      .voice { fill: none; stroke: #e85d3e; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" width="100" height="100"/>
+
+  <g transform="translate(50, 50)">
+    <!-- Elegant calligraphy pen nib -->
+    <path d="M 0 -35 L -12 0 L 0 35 L 12 0 Z"
+          class="nib"/>
+
+    <!-- Nib split -->
+    <line x1="0" y1="0" x2="0" y2="35"
+          class="detail"
+          stroke-width="2"/>
+
+    <!-- Nib breather hole -->
+    <circle cx="0" cy="5"
+            r="4"
+            class="detail"/>
+
+    <!-- Flowing voice/sound lines emanating -->
+    <path d="M 12 0 Q 25 -5, 35 -10"
+          class="voice"
+          stroke-width="2.5"
+          opacity="0.7"
+          stroke-linecap="round"/>
+
+    <path d="M 12 8 Q 23 8, 32 8"
+          class="voice"
+          stroke-width="2.5"
+          opacity="0.5"
+          stroke-linecap="round"/>
+
+    <path d="M 12 16 Q 24 20, 32 24"
+          class="voice"
+          stroke-width="2.5"
+          opacity="0.35"
+          stroke-linecap="round"/>
+  </g>
+</svg>

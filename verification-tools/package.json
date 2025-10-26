@@ -1,0 +1,17 @@
+{
+  "name": "dhwani-verification-tools",
+  "version": "1.0.0",
+  "description": "Quality verification and validation tools for Dhwani works",
+  "type": "module",
+  "scripts": {
+    "validate:archive": "node archive-org-validator.js",
+    "validate:quality": "node quality-scorer.js",
+    "validate:duplicates": "node duplicate-detector.js",
+    "validate:pd": "node pd-verifier.js",
+    "validate:all": "npm run validate:quality && npm run validate:duplicates && npm run validate:pd",
+    "test:api": "node multi-api-aggregator.js 'Bhagavad Gita'"
+  },
+  "keywords": ["verification", "quality", "public-domain"],
+  "author": "Dhwani",
+  "license": "MIT"
+}

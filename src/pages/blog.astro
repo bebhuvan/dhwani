@@ -1,0 +1,75 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const blogPosts = await getCollection('blog');
+const sortedPosts = blogPosts.sort((a, b) => {
+  return b.data.publishDate.valueOf() - a.data.publishDate.valueOf();
+});
+---
+
+<BaseLayout title="Blog - Dhwani">
+  <main>
+    <!-- Header Section -->
+    <section class="py-16 md:py-20 lg:py-24 px-6 md:px-8 lg:px-12">
+      <div class="max-w-[680px] mx-auto">
+        <h1 class="font-serif text-[clamp(2.75rem,7vw,4.5rem)] font-normal leading-[1.12] tracking-[-0.02em] text-ink mb-6 md:mb-8">
+          Essays & Insights
+        </h1>
+        <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal">
+          Exploring India's literary heritage, from ancient texts to modern voices.
+        </p>
+      </div>
+    </section>
+
+    <!-- Blog Posts -->
+    <section class="pb-20 md:pb-24 px-6 md:px-8 lg:px-12 border-t border-line">
+      <div class="max-w-[1100px] mx-auto pt-16 md:pt-20">
+        {sortedPosts.length > 0 ? (
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-x-14 gap-y-14 md:gap-y-20">
+            {sortedPosts.map((post) => (
+              <article class="group h-full">
+                <a href={`/blog/${post.slug}`} class="flex flex-col h-full p-6 md:p-8 border border-line hover:border-accent transition-colors">
+                  <div class="flex items-start justify-between gap-6 mb-4">
+                    <h2 class="font-serif text-[1.35rem] md:text-[1.5rem] font-normal leading-[1.25] tracking-[0.005em] text-ink group-hover:text-accent transition-colors">
+                      {post.data.title}
+                    </h2>
+                    <span class="text-[0.85rem] text-accent font-medium shrink-0 mt-1">
+                      {post.data.publishDate.toLocaleDateString('en-US', {
+                        month: 'short',
+                        day: 'numeric'
+                      })}
+                    </span>
+                  </div>
+
+                  <p class="font-serif-body text-[0.9rem] leading-[1.65] text-ink-light font-normal line-clamp-3 mb-5 flex-grow">
+                    {post.data.description}
+                  </p>
+
+                  <div class="flex flex-wrap gap-x-3 gap-y-2 mt-auto text-[0.8rem] text-ink-lighter">
+                    <span>{post.data.category.replace('-', ' ')}</span>
+                    {post.data.tags && post.data.tags.length > 0 && (
+                      <>
+                        <span>·</span>
+                        <span>{post.data.tags[0]}</span>
+                      </>
+                    )}
+                  </div>
+                </a>
+              </article>
+            ))}
+          </div>
+        ) : (
+          <div class="text-center py-24 max-w-[680px] mx-auto">
+            <h2 class="font-serif text-[2rem] md:text-[2.5rem] font-normal text-ink mb-5">
+              No posts yet
+            </h2>
+            <p class="font-serif-body text-[1.05rem] leading-[1.8] text-ink-light font-normal">
+              We're preparing thoughtful essays about India's literary heritage. Check back soon.
+            </p>
+          </div>
+        )}
+      </div>
+    </section>
+  </main>
+</BaseLayout>

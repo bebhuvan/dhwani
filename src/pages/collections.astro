@@ -1,0 +1,117 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allWorks = await getCollection('works');
+
+const collections = [
+  {
+    id: 'ancient-wisdom',
+    number: 'I',
+    title: 'Ancient Wisdom',
+    description: 'Vedic hymns, Upanishads, and epics that have guided minds for millennia. The philosophical foundations of Indian thought—from ritual to metaphysics.',
+    works: allWorks.filter(work => work.data.collections?.includes('ancient-wisdom'))
+  },
+  {
+    id: 'regional-voices',
+    number: 'II',
+    title: 'Regional Voices',
+    description: 'Stories in Bengali, verses in Tamil, wisdom in Malayalam. India speaks in many tongues, each with its own literary legacy and cultural richness.',
+    works: allWorks.filter(work => work.data.collections?.includes('regional-voices'))
+  },
+  {
+    id: 'modern-literature',
+    number: 'III',
+    title: 'Modern Literature',
+    description: 'Writers who shaped the modern Indian imagination—from Tagore\'s poetry to Gandhi\'s political philosophy and beyond.',
+    works: allWorks.filter(work => work.data.collections?.includes('modern-literature'))
+  },
+  {
+    id: 'spiritual-texts',
+    number: 'IV',
+    title: 'Spiritual Texts',
+    description: 'Explorations of the divine, the soul, and the meaning of existence across traditions.',
+    works: allWorks.filter(work => work.data.collections?.includes('spiritual-texts'))
+  },
+  {
+    id: 'poetry-collection',
+    number: 'V',
+    title: 'Poetry Collection',
+    description: 'The rhythm and rhyme of Indian poetry across languages and centuries.',
+    works: allWorks.filter(work => work.data.collections?.includes('poetry-collection'))
+  },
+  {
+    id: 'classical-literature',
+    number: 'VI',
+    title: 'Classical Literature',
+    description: 'Timeless Sanskrit drama, epic poetry, and philosophical texts from the classical age.',
+    works: allWorks.filter(work => work.data.collections?.includes('classical-literature'))
+  }
+];
+---
+
+<BaseLayout title="Collections - Dhwani">
+  <main>
+    <!-- Page Header -->
+    <section class="py-16 md:py-20 lg:py-24 px-6 md:px-8 lg:px-12">
+      <div class="max-w-[680px] mx-auto">
+        <h1 class="font-serif text-[clamp(2.75rem,7vw,4.5rem)] font-normal leading-[1.12] tracking-[-0.02em] text-ink mb-6 md:mb-8">
+          Collections
+        </h1>
+
+        <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal">
+          Curated pathways through India's literary heritage, organized by era, language, and tradition.
+        </p>
+      </div>
+    </section>
+
+    <!-- Collections Grid -->
+    <section class="py-20 md:py-24 px-6 md:px-8 lg:px-12 border-t border-line">
+      <div class="max-w-[1100px] mx-auto">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-10">
+          {collections.map((collection) => (
+            <div id={collection.id} class="flex flex-col p-10 md:p-12 border border-line scroll-mt-24">
+              <div class="text-[0.75rem] font-medium tracking-[0.15em] uppercase text-accent mb-7">
+                {collection.number}
+              </div>
+
+              <h2 class="font-serif text-[1.65rem] font-medium text-ink mb-5 leading-[1.2]">
+                {collection.title}
+              </h2>
+
+              <p class="font-serif-body text-[0.95rem] leading-[1.7] text-ink-light font-normal mb-auto">
+                {collection.description}
+              </p>
+
+              <div class="pt-6 border-t border-line mt-8">
+                <span class="text-[0.7rem] uppercase tracking-[0.12em] text-ink-lighter font-medium">
+                  {collection.works.length} Works
+                </span>
+              </div>
+
+              {collection.works.length > 0 && (
+                <div class="mt-6 space-y-4">
+                  {collection.works.slice(0, 3).map((work) => (
+                    <a href={`/works/${work.slug}`} class="group block">
+                      <h3 class="font-serif text-[1rem] font-normal text-ink group-hover:text-accent transition-colors mb-1 leading-[1.3]">
+                        {work.data.title}
+                      </h3>
+                      <div class="text-[0.85rem] text-ink-light font-normal">
+                        {work.data.author.join(', ')}
+                      </div>
+                    </a>
+                  ))}
+                  {collection.works.length > 3 && (
+                    <div class="text-[0.85rem] text-accent font-medium">
+                      + {collection.works.length - 3} more
+                    </div>
+                  )}
+                </div>
+              )}
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

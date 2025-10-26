@@ -1,0 +1,210 @@
+{
+  "batch": "D",
+  "evaluation_date": "2025-10-25",
+  "grading_system": {
+    "A": "85+ score - Immediate upload, featured-worthy",
+    "B": "75-84 score - Upload ready, high quality",
+    "C": "70-74 score - Upload with notes, acceptable quality",
+    "D": "Below 70 - Needs more work, do not upload"
+  },
+  "grade_distribution": {
+    "A": 1,
+    "B": 0,
+    "C": 0,
+    "D": 18
+  },
+  "works": [
+    {
+      "file": "the-babur-nama-in-english-memoirs-of-babur-babur.md",
+      "grade": "A",
+      "score": 95,
+      "upload_priority": 1,
+      "featured": true,
+      "status": "READY FOR IMMEDIATE UPLOAD",
+      "notes": "Exceptional quality. Comprehensive enhancement complete. 143 lines, 11 sections, zero boilerplate, specific facts throughout. Featured work."
+    },
+    {
+      "file": "अषटधयय-1897-पणन.md",
+      "grade": "D",
+      "score": 35,
+      "upload_priority": 999,
+      "featured_potential": "A (96)",
+      "status": "DO NOT UPLOAD - CRITICAL ENHANCEMENT NEEDED",
+      "notes": "Currently minimal boilerplate content with 'Banasthali' genre error. HIGHEST PRIORITY for enhancement. Has potential to be highest-scoring featured work (96) due to civilization-defining importance of Panini's grammar. Requires 3-4 hours comprehensive enhancement."
+    },
+    {
+      "file": "the-raghuvamsa-of-kalidasa-with-the-commentary-the-samjivani-of-mallinatha-kalidasa.md",
+      "grade": "D",
+      "score": 38,
+      "upload_priority": 998,
+      "featured_potential": "A (94)",
+      "status": "DO NOT UPLOAD - HIGH PRIORITY ENHANCEMENT NEEDED",
+      "notes": "Classic boilerplate stub. Potential for A grade (94) as masterpiece by India's greatest poet. Requires 3 hours comprehensive enhancement including Kalidasa biography, work structure, literary significance, meter analysis."
+    },
+    {
+      "file": "yoga-sastra-the-yoga-sutras-of-patenjali-examined-with-a-notice-of-swami-vivekanandas-yoga-philosophy-patañjali-christian-literature-society-for-india-murdoch.md",
+      "grade": "D",
+      "score": 32,
+      "upload_priority": 997,
+      "featured_potential": "A (87)",
+      "status": "DO NOT UPLOAD - HIGH PRIORITY ENHANCEMENT NEEDED",
+      "notes": "Foundational yoga philosophy text. Zero references currently. Needs Patanjali biography, sutra structure, philosophical significance, Murdoch/Vivekananda context. 2-3 hours needed."
+    },
+    {
+      "file": "the-kathá-sarit-ságara-or-ocean-of-the-streams-of-story-somadeva-bhatta.md",
+      "grade": "D",
+      "score": 36,
+      "upload_priority": 996,
+      "featured_potential": "A (88)",
+      "status": "DO NOT UPLOAD - HIGH PRIORITY ENHANCEMENT NEEDED",
+      "notes": "Major story collection with 'General' genre error. Needs Somadeva biography, Tawney translator info, work structure, relationship to Brihatkatha, cultural impact. 2-3 hours needed."
+    },
+    {
+      "file": "the-cambridge-history-of-india-edward-james-rapson.md",
+      "grade": "D",
+      "score": 42,
+      "upload_priority": 995,
+      "featured_potential": "A (86)",
+      "status": "DO NOT UPLOAD - MEDIUM PRIORITY (Partial work done)",
+      "notes": "Description rewritten (82 score). Needs E.J. Rapson biography, series context, scholarly significance, colonial historiography context. 2 hours needed."
+    },
+    {
+      "file": "the-ocean-of-story-being-ch-tawneys-translation-of-somadevas-katha-sarit-sagara-somadeva-bhatta.md",
+      "grade": "D",
+      "score": 36,
+      "upload_priority": 20,
+      "featured_potential": "B (82)",
+      "status": "DO NOT UPLOAD - Duplicate work",
+      "notes": "Later Penzer edition (1924) of Kathasaritsagara. Should be enhanced but note relationship to 1880 edition. Lower priority than original."
+    },
+    {
+      "file": "the-samkhya-philosophy-containing-samkhya-pravachana-sutram-nandalal-sinha.md",
+      "grade": "D",
+      "score": 38,
+      "upload_priority": 10,
+      "featured_potential": "B (82)",
+      "status": "DO NOT UPLOAD",
+      "notes": "Important Samkhya darshana text. Needs enhancement: Nandalal Sinha bio, Samkhya system explanation, dualism concepts, philosophical significance. Grade B potential."
+    },
+    {
+      "file": "the-vaisesika-sutras-of-kanada-translated-by-nandalal-sinha-kanada.md",
+      "grade": "D",
+      "score": 38,
+      "upload_priority": 11,
+      "featured_potential": "B (81)",
+      "status": "DO NOT UPLOAD",
+      "notes": "Ancient atomistic philosophy. Needs Kanada bio, Nandalal Sinha bio, categories/padarthas explanation, proto-scientific significance. Grade B potential."
+    },
+    {
+      "file": "the-lusiad-or-the-discovery-of-india-an-epic-poem-camões.md",
+      "grade": "D",
+      "score": 35,
+      "upload_priority": 12,
+      "featured_potential": "B (80)",
+      "status": "DO NOT UPLOAD",
+      "notes": "Portuguese national epic. Zero references. Needs Camões bio, Mickle translator bio, epic structure, Age of Discovery context, literary significance. Could reach featured with full effort."
+    },
+    {
+      "file": "the-holy-bible-a-facsimile-in-a-reduced-size-of-the-authorized-version-published-in-the-year-1611-alfred-w-pollard.md",
+      "grade": "D",
+      "score": 42,
+      "upload_priority": 15,
+      "featured_potential": "C (74)",
+      "status": "DO NOT UPLOAD",
+      "notes": "Has 3 good references. Needs A.W. Pollard bio, KJV 1611 context, bibliographical significance, facsimile details. Grade C potential."
+    },
+    {
+      "file": "the-english-urdu-translators-companion-durga-prasad.md",
+      "grade": "D",
+      "score": 28,
+      "upload_priority": 30,
+      "featured_potential": "C (72)",
+      "status": "DO NOT UPLOAD",
+      "notes": "Zero references, 'IIIT' genre error, truncated description. Needs references, Durga Prasad bio, colonial linguistics context, dictionary structure."
+    },
+    {
+      "file": "the-great-epic-of-india-its-character-and-origin-hopkins.md",
+      "grade": "D",
+      "score": 32,
+      "upload_priority": 25,
+      "featured_potential": "C (73)",
+      "status": "DO NOT UPLOAD",
+      "notes": "Zero references. Needs E.W. Hopkins bio, Mahabharata analysis details, textual criticism context, scholarly significance."
+    },
+    {
+      "file": "vedic-grammar-arthur-anthony-macdonell.md",
+      "grade": "D",
+      "score": 36,
+      "upload_priority": 18,
+      "featured_potential": "C (74)",
+      "status": "DO NOT UPLOAD",
+      "notes": "Has Wikipedia reference. Needs A.A. Macdonell bio, Vedic Sanskrit specifics, linguistic significance, comparison to Classical Sanskrit."
+    },
+    {
+      "file": "the-village-gods-of-south-india-henry-whitehead.md",
+      "grade": "D",
+      "score": 30,
+      "upload_priority": 35,
+      "featured_potential": "C (71)",
+      "status": "DO NOT UPLOAD",
+      "notes": "Zero references. Needs Henry Whitehead bio (bishop/anthropologist), folk religion context, ethnographic methodology, South Indian cults."
+    },
+    {
+      "file": "తలగ-ఇగలష-నఘటవ-telugu-english-dictionary-ప-శకరనరయణ.md",
+      "grade": "D",
+      "score": 34,
+      "upload_priority": 28,
+      "featured_potential": "C (72)",
+      "status": "DO NOT UPLOAD",
+      "notes": "Has Wikipedia reference. Needs P. Sankaranarayana bio, Telugu language context, Dravidian lexicography, colonial period dictionaries."
+    },
+    {
+      "file": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte.md",
+      "grade": "D",
+      "score": 34,
+      "upload_priority": 40,
+      "featured_potential": "C (73)",
+      "status": "DO NOT UPLOAD - DUPLICATE",
+      "notes": "Duplicate of next entry. Lower priority."
+    },
+    {
+      "file": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte-vaman-shivaram-1858-1892.md",
+      "grade": "D",
+      "score": 36,
+      "upload_priority": 22,
+      "featured_potential": "C (75)",
+      "status": "DO NOT UPLOAD",
+      "notes": "Important practical Sanskrit dictionary widely used. Needs Vaman Shivaram Apte bio (1858-1892), dictionary scope, prosody appendix, geographical names, scholarly impact."
+    },
+    {
+      "file": "the-sacred-books-of-the-east-described-and-examined-hindu-series-unknown.md",
+      "grade": "D",
+      "score": 32,
+      "upload_priority": 24,
+      "featured_potential": "C (74)",
+      "status": "DO NOT UPLOAD",
+      "notes": "Zero references. Part of Max Müller's landmark series. Needs references, Max Müller context, series significance, volume contents (Vedas, Upanishads, Gita, etc.), comparative religion impact."
+    }
+  ],
+  "summary": {
+    "upload_ready": 1,
+    "needs_enhancement": 18,
+    "featured_potential_works": 6,
+    "average_current_score": 35.4,
+    "average_potential_score": 80.2,
+    "improvement_needed": "+44.8 points average",
+    "critical_priorities": [
+      "Ashtadhyayi (Panini) - score 35→96 (+61)",
+      "Raghuvamsa (Kalidasa) - score 38→94 (+56)",
+      "Yoga Sutras (Patanjali) - score 32→87 (+55)"
+    ],
+    "total_estimated_effort": "25-30 hours for complete batch enhancement",
+    "immediate_action": "Continue enhancing top 5 featured candidates. Works currently in Grade D cannot be uploaded."
+  },
+  "recommendations": {
+    "immediate": "Complete Ashtadhyayi, Raghuvamsa, Yoga Sutras, Kathasaritsagara, Cambridge History",
+    "second_priority": "Enhance Samkhya, Vaiseshika, Lusiad to Grade B",
+    "third_priority": "Bring remaining 11 works to Grade C minimum",
+    "quality_gate": "No work should be uploaded with Grade D. Minimum acceptable is Grade C (70+)."
+  }
+}

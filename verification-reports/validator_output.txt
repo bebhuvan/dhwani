@@ -1,0 +1,133 @@
+================================================================================
+Archive.org Metadata Validator & Fixer - Batch A
+================================================================================
+
+Processing: 1-bhikshu-pratimoksha-2-bhikshuna-pratimoksha-3-mahabagga-4-chullabagga-sanskrityan.md
+  Archive.org ID: in.ernet.dli.2015.292192
+  Found 1 discrepancies:
+    - language: ['Hindi'] -> ['Hindi']
+  ✓ File updated with corrections
+
+Processing: 1-bhikshu-pratimoksha-2-bhikshuna-pratimoksha-3-mahabagga-4-chullabagga-sanskrityan-rahul.md
+  Archive.org ID: in.ernet.dli.2015.292192
+  Found 1 discrepancies:
+    - language: ['Hindi'] -> ['Hindi']
+  ✓ File updated with corrections
+
+Processing: a-comparative-grammar-of-the-sanskrit-zend-greek-latin-lithuanian-gothic-german-and-slavonic-languages-bopp.md
+  Archive.org ID: comparativegramm01boppuoft
+  Found 1 discrepancies:
+    - language: ['English'] -> ['English']
+  ✓ File updated with corrections
+
+Processing: a-compendium-of-the-comparative-grammar-of-the-indo-european-sanskrit-greek-and-latin-languages-schleicher.md
+  Archive.org ID: compendiumofcomp01schluoft
+  Found 1 discrepancies:
+    - language: ['English'] -> ['English']
+  ✓ File updated with corrections
+
+Processing: a-concordance-to-the-greek-testament-according-to-the-texts-of-westcott-and-hort-tischendorf-and-the-english-revisers-moulton.md
+  Archive.org ID: aconcordanceto00mouluoft
+  Found 1 discrepancies:
+    - language: ['English', 'Greek'] -> ['English', 'Greek']
+  ✓ File updated with corrections
+
+Processing: a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale.md
+  Archive.org ID: highersanskritgr00kaleuoft
+  Found 1 discrepancies:
+    - language: ['English'] -> ['English']
+  ✓ File updated with corrections
+
+Processing: a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale-m-r.md
+  Archive.org ID: highersanskritgr00kaleuoft
+  Found 1 discrepancies:
+    - language: ['English'] -> ['English']
+  ✓ File updated with corrections
+
+Processing: a-history-of-architecture-in-all-countries-from-the-earliest-times-to-the-present-day-fergusson.md
+  Archive.org ID: historyofarchite01ferguoft
+  Found 1 discrepancies:
+    - language: ['English'] -> ['English']
+  ✓ File updated with corrections
+
+Processing: american-architect-and-architecture-unknown.md
+  Archive.org ID: americanarchite111newyuoft
+  Found 1 discrepancies:
+    - language: ['English'] -> ['English']
+  ✓ File updated with corrections
+
+Processing: an-alphabetical-list-of-jaina-mss-belonging-to-government-in-the-oriental-library-of-the-asiatic-society-of-bengal-asiatic-society-calcutta.md
+  Archive.org ID: alphabeticallist00asia
+  Found 1 discrepancies:
+    - language: ['English'] -> ['English']
+  ✓ File updated with corrections
+
+Processing: an-avesta-grammar-in-comparison-with-sanskrit-jackson.md
+  Archive.org ID: pt1avestagrammar00jackuoft
+  Found 1 discrepancies:
+    - language: ['English'] -> ['English']
+  ✓ File updated with corrections
+
+Processing: a-new-hindustani-english-dictionary-fallon-s.md
+  Archive.org ID: in.ernet.dli.2015.69123
+  Found 1 discrepancies:
+    - language: ['English'] -> ['English']
+  ✓ File updated with corrections
+
+Processing: annual-address-delivered-to-the-asiatic-society-of-bengal-caluctta-2nd-february-1898-hoernle.md
+  Archive.org ID: annualaddressdel00hoeruoft
+  Found 1 discrepancies:
+    - language: ['English'] -> ['English']
+  ✓ File updated with corrections
+
+Processing: art-manufactures-of-india-mukharji.md
+  Archive.org ID: artmanufactureso00mukhuoft
+  Found 1 discrepancies:
+    - language: ['English'] -> ['English']
+  ✓ File updated with corrections
+
+Processing: a-sanskrit-grammar-including-both-the-classical-language-and-the-older-dialects-of-veda-and-brahmana-william-dwight-whitney.md
+  Archive.org ID: sanskritgrammari00whituoft
+  Found 1 discrepancies:
+    - language: ['English'] -> ['English']
+  ✓ File updated with corrections
+
+Processing: a-sanskrit-manual-for-high-schools-antoine.md
+  Archive.org ID: sanskritmanualfo00antouoft
+  Found 1 discrepancies:
+    - language: ['English'] -> ['English']
+  ✓ File updated with corrections
+
+Processing: a-sanskrit-manual-for-high-schools-antoine-robert-1914.md
+  Archive.org ID: sanskritmanualfo00antouoft
+  Found 1 discrepancies:
+    - language: ['English'] -> ['English']
+  ✓ File updated with corrections
+
+Processing: ashtanga-sangraha-athridev-gupta-1.md
+  Archive.org ID: in.ernet.dli.2015.383455
+  Found 1 discrepancies:
+    - language: ['Sanskrit'] -> ['Sanskrit']
+  ✓ File updated with corrections
+
+Processing: ashtanga-sangraha-athridev-gupta-2.md
+  Archive.org ID: in.ernet.dli.2015.383455
+  Found 1 discrepancies:
+    - language: ['Sanskrit'] -> ['Sanskrit']
+  ✓ File updated with corrections
+
+Processing: atharvaveda-saunaka-visha-bandhu-1.md
+  Archive.org ID: in.ernet.dli.2015.379318
+  Found 1 discrepancies:
+    - language: ['Hindi'] -> ['Hindi']
+  ✓ File updated with corrections
+
+================================================================================
+SUMMARY
+================================================================================
+Total works processed: 20
+Successfully validated: 20
+Needs review: 0
+
+Report saved to: /home/bhuvanesh/new-dhwani/verification-reports/validation-batch-a.json
+================================================================================

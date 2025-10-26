@@ -1,0 +1,30 @@
+---
+// Display numbers in both Arabic and Devanagari
+interface Props {
+  value: number;
+  class?: string;
+  showDevanagari?: boolean;
+}
+
+const { value, class: className = '', showDevanagari = true } = Astro.props;
+
+// Convert to Devanagari numerals
+const toDevanagari = (num: number): string => {
+  const devanagariDigits = ['०', '१', '२', '३', '४', '५', '६', '७', '८', '९'];
+  return String(num)
+    .split('')
+    .map(digit => devanagariDigits[parseInt(digit)])
+    .join('');
+};
+
+const devanagariValue = toDevanagari(value);
+---
+
+<span class={`${className}`}>
+  <span class="font-serif">{value}</span>
+  {showDevanagari && (
+    <span class="text-ink-lighter ml-2 text-[0.85em]" title={`${value} in Devanagari`}>
+      ({devanagariValue})
+    </span>
+  )}
+</span>

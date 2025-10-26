@@ -1,0 +1,201 @@
+---
+import '../styles/global.css';
+import StructuredData from '../components/StructuredData.astro';
+
+export interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+}
+
+const { title, description = "Discover India's literary treasures - from ancient Vedic hymns to modern literary masterpieces", image } = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const currentPath = Astro.url.pathname;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Primary Meta Tags -->
+    <title>{title}</title>
+    <meta name="title" content={title} />
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={image || `${Astro.site}og-image.jpg`} />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content={canonicalURL} />
+    <meta property="twitter:title" content={title} />
+    <meta property="twitter:description" content={description} />
+    <meta property="twitter:image" content={image || `${Astro.site}og-image.jpg`} />
+
+    <!-- Additional Meta -->
+    <meta name="robots" content="index, follow" />
+    <meta name="theme-color" content="#e85d3e" />
+
+    <!-- Icons -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <!-- Feeds -->
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Dhwani RSS Feed" href="/rss.xml" />
+
+    <!-- Structured Data -->
+    <StructuredData type="WebSite" data={{ url: Astro.site }} />
+    <StructuredData type="Organization" data={{ url: Astro.site }} />
+
+    <!-- Page-specific head content -->
+    <slot name="head" />
+  </head>
+
+  <body>
+    <!-- Header -->
+    <header class="sticky top-0 z-50 py-4 md:py-5 bg-paper border-b border-line">
+      <nav class="max-w-[1100px] mx-auto px-6 md:px-8 lg:px-12">
+        <div class="flex justify-between items-center">
+          <a href="/" class="group">
+            <span class="font-serif text-[1.65rem] md:text-[1.85rem] font-medium tracking-[-0.01em] text-ink group-hover:text-accent transition-colors">
+              Dhwani
+            </span>
+          </a>
+
+          <nav class="flex items-center gap-8 md:gap-10">
+            <a
+              href="/archive"
+              class:list={[
+                "text-[0.9rem] tracking-[0.01em] transition-colors relative",
+                currentPath.startsWith('/archive') || currentPath.startsWith('/works')
+                  ? "text-ink font-medium"
+                  : "text-ink-light hover:text-ink"
+              ]}
+            >
+              Archive
+            </a>
+            <a
+              href="/collections"
+              class:list={[
+                "text-[0.9rem] tracking-[0.01em] transition-colors relative",
+                currentPath.startsWith('/collections')
+                  ? "text-ink font-medium"
+                  : "text-ink-light hover:text-ink"
+              ]}
+            >
+              Collections
+            </a>
+            <a
+              href="/blog"
+              class:list={[
+                "text-[0.9rem] tracking-[0.01em] transition-colors relative",
+                currentPath.startsWith('/blog')
+                  ? "text-ink font-medium"
+                  : "text-ink-light hover:text-ink"
+              ]}
+            >
+              Blog
+            </a>
+            <a
+              href="/about"
+              class:list={[
+                "text-[0.9rem] tracking-[0.01em] transition-colors relative",
+                currentPath.startsWith('/about')
+                  ? "text-ink font-medium"
+                  : "text-ink-light hover:text-ink"
+              ]}
+            >
+              About
+            </a>
+          </nav>
+        </div>
+      </nav>
+    </header>
+
+    <slot />
+
+    <!-- Scroll animation observer -->
+    <script>
+      // Intersection Observer for scroll-triggered animations
+      const observerOptions = {
+        threshold: 0.1,
+        rootMargin: '0px 0px -50px 0px'
+      };
+
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+          }
+        });
+      }, observerOptions);
+
+      // Observe all elements with animation classes
+      document.addEventListener('DOMContentLoaded', () => {
+        const animatedElements = document.querySelectorAll('.fade-in-up, .fade-in, .stagger-children');
+        animatedElements.forEach(el => observer.observe(el));
+      });
+    </script>
+
+    <!-- Footer -->
+    <footer class="border-t border-line py-16 md:py-20 bg-paper">
+      <div class="max-w-[1100px] mx-auto px-6 md:px-8 lg:px-12">
+        <div class="grid grid-cols-1 md:grid-cols-[2fr_1fr_1fr_1fr] gap-12 md:gap-16 mb-12 md:mb-16">
+          <div>
+            <h3 class="font-serif text-[1.35rem] font-semibold text-ink mb-4">
+              Dhwani
+            </h3>
+            <p class="font-serif-body text-[0.9rem] leading-[1.7] text-ink-light font-light max-w-[38rem]">
+              A living archive of Indian literary heritage. Aggregating public domain texts to make them discoverable and accessible to all.
+            </p>
+          </div>
+
+          <div>
+            <h4 class="text-[0.7rem] uppercase tracking-[0.15em] text-ink-lighter font-medium mb-5">
+              Explore
+            </h4>
+            <ul class="flex flex-col gap-3">
+              <li><a href="/archive" class="text-[0.875rem] text-ink-light hover:text-accent transition-colors">Archive</a></li>
+              <li><a href="/collections" class="text-[0.875rem] text-ink-light hover:text-accent transition-colors">Collections</a></li>
+              <li><a href="/authors" class="text-[0.875rem] text-ink-light hover:text-accent transition-colors">Authors</a></li>
+              <li><a href="/languages" class="text-[0.875rem] text-ink-light hover:text-accent transition-colors">Languages</a></li>
+            </ul>
+          </div>
+
+          <div>
+            <h4 class="text-[0.7rem] uppercase tracking-[0.15em] text-ink-lighter font-medium mb-5">
+              Learn
+            </h4>
+            <ul class="flex flex-col gap-3">
+              <li><a href="/about" class="text-[0.875rem] text-ink-light hover:text-accent transition-colors">About</a></li>
+              <li><a href="/blog" class="text-[0.875rem] text-ink-light hover:text-accent transition-colors">Blog</a></li>
+              <li><a href="/contribute" class="text-[0.875rem] text-ink-light hover:text-accent transition-colors">Contribute</a></li>
+            </ul>
+          </div>
+
+          <div>
+            <h4 class="text-[0.7rem] uppercase tracking-[0.15em] text-ink-lighter font-medium mb-5">
+              Connect
+            </h4>
+            <ul class="flex flex-col gap-3">
+              <li><a href="/rss.xml" class="text-[0.875rem] text-ink-light hover:text-accent transition-colors">RSS Feed</a></li>
+              <li><a href="mailto:hello@dhwani.org" class="text-[0.875rem] text-ink-light hover:text-accent transition-colors">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="pt-8 border-t border-line-light text-[0.8rem] text-ink-lighter flex flex-col sm:flex-row justify-between gap-3">
+          <span>Built with care for the public domain</span>
+          <span>© 2025 Dhwani</span>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

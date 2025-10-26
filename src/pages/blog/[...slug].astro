@@ -1,0 +1,85 @@
+---
+import { type CollectionEntry, getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const blogPosts = await getCollection('blog');
+  return blogPosts.map((post) => ({
+    params: { slug: post.slug },
+    props: post,
+  }));
+}
+
+type Props = CollectionEntry<'blog'>;
+
+const post = Astro.props;
+const { Content } = await post.render();
+---
+
+<BaseLayout title={`${post.data.title} - Dhwani`} description={post.data.description}>
+  <main>
+    <!-- Post Header -->
+    <header class="py-16 md:py-20 lg:py-24 px-6 md:px-8 lg:px-12">
+      <div class="max-w-[680px] mx-auto">
+        <!-- Breadcrumb -->
+        <nav class="mb-8 md:mb-10 text-[0.85rem] text-ink-lighter">
+          <div class="flex items-center gap-2">
+            <a href="/" class="hover:text-accent transition-colors">Home</a>
+            <span>→</span>
+            <a href="/blog" class="hover:text-accent transition-colors">Blog</a>
+            <span>→</span>
+            <span class="text-ink-light">{post.data.title}</span>
+          </div>
+        </nav>
+
+        <h1 class="font-serif text-[clamp(2.75rem,7vw,4.5rem)] font-normal leading-[1.12] tracking-[-0.02em] text-ink mb-6 md:mb-8">
+          {post.data.title}
+        </h1>
+
+        <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-10">
+          {post.data.description}
+        </p>
+
+        <!-- Metadata -->
+        <div class="flex flex-wrap gap-x-3 gap-y-2 text-[0.9rem] text-ink-lighter mb-12 md:mb-16">
+          <span>{post.data.author}</span>
+          <span>·</span>
+          <span>
+            {post.data.publishDate.toLocaleDateString('en-US', {
+              year: 'numeric',
+              month: 'long',
+              day: 'numeric'
+            })}
+          </span>
+          <span>·</span>
+          <span>{post.data.category.replace('-', ' ')}</span>
+          {post.data.tags && post.data.tags.length > 0 && (
+            <>
+              <span>·</span>
+              <span>{post.data.tags.join(', ')}</span>
+            </>
+          )}
+        </div>
+      </div>
+    </header>
+
+    <!-- Content -->
+    <article class="py-16 md:py-20 lg:py-24 px-6 md:px-8 lg:px-12">
+      <div class="prose-content mx-auto">
+        <Content />
+      </div>
+    </article>
+
+    <!-- Back to Blog -->
+    <section class="pb-20 md:pb-24 px-6 md:px-8 lg:px-12 border-t border-line">
+      <div class="max-w-[680px] mx-auto pt-8">
+        <a href="/blog" class="inline-flex items-center gap-2 text-[0.9rem] text-ink-light hover:text-accent transition-colors">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
+          </svg>
+          <span>All essays</span>
+        </a>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

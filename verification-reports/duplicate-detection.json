@@ -1,0 +1,255 @@
+{
+  "summary": {
+    "newWorksChecked": 101,
+    "existingWorksChecked": 291,
+    "totalDuplicates": 16,
+    "exactDuplicates": 12,
+    "fuzzyDuplicates": 4
+  },
+  "exact": [
+    {
+      "newWork": "akbar-the-great-mogul-1542-1605-vincent-arthur-smith.md",
+      "existingWork": "akbar-the-great-mogul-1542-1605-smith.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "hindu-superiority-an-attempt-to-determine-the-position-of-the-hindu-race-in-the-scale-of-nations-sarda.md",
+      "existingWork": "hindu-superiority-attempt-determine-position-hindu-race-scale-nations-har-bilas-sarda.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "hindu-widow-re-marriage-other-tracts-gandhi.md",
+      "existingWork": "hindu-widow-re-marriage-other-tracts-mohandas-gandhi.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "puranic-encyclopaedia-a-comprehensive-dictionary-with-special-reference-to-the-epic-and-puranic-literature-mani-vettam-1921.md",
+      "existingWork": "puranic-encyclopaedia-vettam-mani.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "puranic-encyclopaedia-a-comprehensive-dictionary-with-special-reference-to-the-epic-and-puranic-literature-mani.md",
+      "existingWork": "puranic-encyclopaedia-vettam-mani.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "si-yu-ki-buddhist-records-of-the-western-world-xuanzang.md",
+      "existingWork": "si-yu-ki-buddhist-records-of-the-western-world-xuanzang-samuel-beal.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "south-indian-images-of-gods-and-goddesses-krishna-sastri.md",
+      "existingWork": "south-indian-images-of-gods-and-goddesses-krishna-sastri.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "the-babur-nama-in-english-memoirs-of-babur-babur.md",
+      "existingWork": "baburnama-memoirs-of-babur-zahir-ud-din-muhammad-babur.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "the-cambridge-history-of-india-edward-james-rapson.md",
+      "existingWork": "cambridge-history-india-volume-1-ancient-india-ej-rapson.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "the-raghuvamsa-of-kalidasa-with-the-commentary-the-samjivani-of-mallinatha-kalidasa.md",
+      "existingWork": "the-raghuvamsa-of-kalidasa-kale.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "the-sacred-books-of-the-east-described-and-examined-hindu-series-unknown.md",
+      "existingWork": "sacred-books-of-the-east-hindu-series-volume-3.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "the-village-gods-of-south-india-henry-whitehead.md",
+      "existingWork": "village-gods-south-india-henry-whitehead.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    }
+  ],
+  "fuzzy": [
+    {
+      "newWork": "a-classical-dictionary-of-hindu-mythology-and-religion-geography-history-and-literature-john-dowson.md",
+      "existingWork": "classical-dictionary-hindu-mythology-religion-geography-history-literature-john-dowson.md",
+      "type": "fuzzy_match",
+      "confidence": 1,
+      "titleSimilarity": 1,
+      "authorSimilarity": 1,
+      "reason": "Title: 100.0%, Author: 100.0%"
+    },
+    {
+      "newWork": "hind-swaraj-or-indian-home-rule-mahatma-gandhi.md",
+      "existingWork": "hind-swaraj-indian-home-rule-gandhi.md",
+      "type": "fuzzy_match",
+      "confidence": 1,
+      "titleSimilarity": 1,
+      "authorSimilarity": 1,
+      "reason": "Title: 100.0%, Author: 100.0%"
+    },
+    {
+      "newWork": "literary-history-of-ancient-india-in-relation-to-its-racial-and-linguistic-affiliations-chandra-chakraberty.md",
+      "existingWork": "literary-history-ancient-india-chakraberty.md",
+      "type": "fuzzy_match",
+      "confidence": 1,
+      "titleSimilarity": 1,
+      "authorSimilarity": 1,
+      "reason": "Title: 100.0%, Author: 100.0%"
+    },
+    {
+      "newWork": "the-kathá-sarit-ságara-or-ocean-of-the-streams-of-story-somadeva-bhatta.md",
+      "existingWork": "kathasaritsagara-ocean-of-streams-of-story.md",
+      "type": "fuzzy_match",
+      "confidence": 0.9666666666666666,
+      "titleSimilarity": 1,
+      "authorSimilarity": 0.8888888888888888,
+      "reason": "Title: 100.0%, Author: 88.9%"
+    }
+  ],
+  "all": [
+    {
+      "newWork": "a-classical-dictionary-of-hindu-mythology-and-religion-geography-history-and-literature-john-dowson.md",
+      "existingWork": "classical-dictionary-hindu-mythology-religion-geography-history-literature-john-dowson.md",
+      "type": "fuzzy_match",
+      "confidence": 1,
+      "titleSimilarity": 1,
+      "authorSimilarity": 1,
+      "reason": "Title: 100.0%, Author: 100.0%"
+    },
+    {
+      "newWork": "akbar-the-great-mogul-1542-1605-vincent-arthur-smith.md",
+      "existingWork": "akbar-the-great-mogul-1542-1605-smith.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "hind-swaraj-or-indian-home-rule-mahatma-gandhi.md",
+      "existingWork": "hind-swaraj-indian-home-rule-gandhi.md",
+      "type": "fuzzy_match",
+      "confidence": 1,
+      "titleSimilarity": 1,
+      "authorSimilarity": 1,
+      "reason": "Title: 100.0%, Author: 100.0%"
+    },
+    {
+      "newWork": "hindu-superiority-an-attempt-to-determine-the-position-of-the-hindu-race-in-the-scale-of-nations-sarda.md",
+      "existingWork": "hindu-superiority-attempt-determine-position-hindu-race-scale-nations-har-bilas-sarda.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "hindu-widow-re-marriage-other-tracts-gandhi.md",
+      "existingWork": "hindu-widow-re-marriage-other-tracts-mohandas-gandhi.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "literary-history-of-ancient-india-in-relation-to-its-racial-and-linguistic-affiliations-chandra-chakraberty.md",
+      "existingWork": "literary-history-ancient-india-chakraberty.md",
+      "type": "fuzzy_match",
+      "confidence": 1,
+      "titleSimilarity": 1,
+      "authorSimilarity": 1,
+      "reason": "Title: 100.0%, Author: 100.0%"
+    },
+    {
+      "newWork": "puranic-encyclopaedia-a-comprehensive-dictionary-with-special-reference-to-the-epic-and-puranic-literature-mani-vettam-1921.md",
+      "existingWork": "puranic-encyclopaedia-vettam-mani.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "puranic-encyclopaedia-a-comprehensive-dictionary-with-special-reference-to-the-epic-and-puranic-literature-mani.md",
+      "existingWork": "puranic-encyclopaedia-vettam-mani.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "si-yu-ki-buddhist-records-of-the-western-world-xuanzang.md",
+      "existingWork": "si-yu-ki-buddhist-records-of-the-western-world-xuanzang-samuel-beal.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "south-indian-images-of-gods-and-goddesses-krishna-sastri.md",
+      "existingWork": "south-indian-images-of-gods-and-goddesses-krishna-sastri.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "the-babur-nama-in-english-memoirs-of-babur-babur.md",
+      "existingWork": "baburnama-memoirs-of-babur-zahir-ud-din-muhammad-babur.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "the-cambridge-history-of-india-edward-james-rapson.md",
+      "existingWork": "cambridge-history-india-volume-1-ancient-india-ej-rapson.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "the-raghuvamsa-of-kalidasa-with-the-commentary-the-samjivani-of-mallinatha-kalidasa.md",
+      "existingWork": "the-raghuvamsa-of-kalidasa-kale.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "the-sacred-books-of-the-east-described-and-examined-hindu-series-unknown.md",
+      "existingWork": "sacred-books-of-the-east-hindu-series-volume-3.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "the-village-gods-of-south-india-henry-whitehead.md",
+      "existingWork": "village-gods-south-india-henry-whitehead.md",
+      "type": "exact_source",
+      "confidence": 1,
+      "reason": "Same Archive.org URL"
+    },
+    {
+      "newWork": "the-kathá-sarit-ságara-or-ocean-of-the-streams-of-story-somadeva-bhatta.md",
+      "existingWork": "kathasaritsagara-ocean-of-streams-of-story.md",
+      "type": "fuzzy_match",
+      "confidence": 0.9666666666666666,
+      "titleSimilarity": 1,
+      "authorSimilarity": 0.8888888888888888,
+      "reason": "Title: 100.0%, Author: 88.9%"
+    }
+  ]
+}

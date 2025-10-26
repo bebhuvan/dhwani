@@ -1,0 +1,940 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dhwani - Design Mockup</title>
+  <style>
+    /* Reset & Base */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --terracotta-100: #fef4ed;
+      --terracotta-400: #f9a875;
+      --terracotta-500: #f48533;
+      --terracotta-600: #e8753e;
+      --terracotta-900: #923c1a;
+      --ink-light: #525252;
+      --ink-medium: #404040;
+      --ink-deep: #262626;
+      --ink-deeper: #171717;
+      --bg-gradient: linear-gradient(135deg, #fffcf9 0%, #fef8f4 100%);
+    }
+
+    @font-face {
+      font-family: 'Inter';
+      src: url('/fonts/inter-regular.woff2') format('woff2');
+      font-weight: 400;
+      font-display: swap;
+    }
+
+    @font-face {
+      font-family: 'Lora';
+      src: url('/fonts/lora-regular.woff2') format('woff2');
+      font-weight: 400;
+      font-display: swap;
+    }
+
+    html {
+      scroll-behavior: smooth;
+      overflow-x: hidden;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #ffffff;
+      color: var(--ink-medium);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
+    }
+
+    /* Script watermarks removed for clean background */
+
+    /* Header */
+    header {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 1000;
+      padding: 1.5rem 3rem;
+      background: rgba(255, 255, 255, 0.8);
+      backdrop-filter: blur(20px);
+      border-bottom: 1px solid transparent;
+      transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    header.scrolled {
+      background: rgba(255, 255, 255, 0.95);
+      border-bottom-color: rgba(0, 0, 0, 0.06);
+      box-shadow: 0 4px 30px rgba(0, 0, 0, 0.03);
+    }
+
+    nav {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      font-family: 'Lora', serif;
+      font-size: 1.5rem;
+      font-weight: 400;
+      color: var(--ink-deeper);
+      text-decoration: none;
+      letter-spacing: -0.02em;
+      transition: color 0.3s ease;
+    }
+
+    .logo:hover {
+      color: var(--terracotta-500);
+    }
+
+    nav ul {
+      display: flex;
+      gap: 2.5rem;
+      list-style: none;
+    }
+
+    nav a {
+      color: var(--ink-medium);
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 400;
+      position: relative;
+      transition: color 0.3s ease;
+    }
+
+    nav a::after {
+      content: '';
+      position: absolute;
+      bottom: -4px;
+      left: 50%;
+      width: 0;
+      height: 1px;
+      background: currentColor;
+      transform: translateX(-50%);
+      transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    nav a:hover {
+      color: var(--terracotta-500);
+    }
+
+    nav a:hover::after {
+      width: 100%;
+    }
+
+    /* Hero Section */
+    .hero {
+      position: relative;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 8rem 3rem 8rem;
+      overflow: hidden;
+    }
+
+    .hero-content {
+      max-width: 1100px;
+      position: relative;
+      z-index: 10;
+      text-align: left;
+    }
+
+    /* Ornamental flourish */
+    .flourish {
+      margin-bottom: 3.5rem;
+      opacity: 0;
+      animation: fadeInUp 1s ease-out 0.3s forwards;
+    }
+
+    .flourish svg {
+      opacity: 0.35;
+      filter: drop-shadow(0 2px 6px rgba(244, 133, 51, 0.08));
+    }
+
+    /* Hero title with kinetic animation */
+    .hero h1 {
+      font-family: 'Lora', serif;
+      font-size: clamp(3.5rem, 9vw, 7rem);
+      line-height: 1.08;
+      color: var(--ink-deeper);
+      font-weight: 400;
+      letter-spacing: -0.035em;
+      margin-bottom: 2.5rem;
+    }
+
+    .hero h1 .line {
+      display: block;
+      opacity: 0;
+      transform: translateY(40px);
+    }
+
+    .hero h1 .line-1 {
+      animation: slideUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.5s forwards;
+    }
+
+    .hero h1 .line-2 {
+      animation: slideUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.7s forwards;
+    }
+
+    .hero h1 .accent {
+      font-style: italic;
+      font-weight: 300;
+      color: var(--terracotta-500);
+      position: relative;
+      display: inline-block;
+    }
+
+    .hero h1 .accent::after {
+      content: '';
+      position: absolute;
+      bottom: 0.1em;
+      left: 0;
+      right: 0;
+      height: 0.08em;
+      background: linear-gradient(90deg, var(--terracotta-400), var(--terracotta-600));
+      opacity: 0.3;
+      animation: expandWidth 1s ease-out 1.2s forwards;
+      transform-origin: left;
+      transform: scaleX(0);
+    }
+
+    @keyframes slideUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes expandWidth {
+      to {
+        transform: scaleX(1);
+      }
+    }
+
+    @keyframes fadeInUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+    }
+
+    .hero-subtitle {
+      font-size: clamp(1.2rem, 2.2vw, 1.5rem);
+      line-height: 1.8;
+      color: var(--ink-medium);
+      font-weight: 300;
+      max-width: 720px;
+      margin-bottom: 3rem;
+      opacity: 0;
+      animation: fadeInUp 0.8s ease-out 1s forwards;
+    }
+
+    .hero-stats {
+      display: flex;
+      gap: 3rem;
+      margin-bottom: 4rem;
+      opacity: 0;
+      animation: fadeInUp 0.8s ease-out 1.2s forwards;
+      padding-bottom: 3rem;
+      border-bottom: 1px solid rgba(23, 23, 23, 0.1);
+    }
+
+    .stat {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .stat-number {
+      font-size: 3rem;
+      font-weight: 300;
+      font-family: 'Lora', serif;
+      color: var(--ink-deeper);
+      font-variant-numeric: tabular-nums;
+      line-height: 1;
+      animation: countUp 2s ease-out 1.5s forwards;
+    }
+
+    .stat span:last-child {
+      font-size: 0.8rem;
+      color: var(--ink-light);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      font-weight: 400;
+    }
+
+    /* CTA Buttons */
+    .hero-cta {
+      display: flex;
+      gap: 2rem;
+      flex-wrap: wrap;
+      opacity: 0;
+      animation: fadeInUp 0.8s ease-out 1.4s forwards;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 1.25rem 2.5rem;
+      font-size: 0.9rem;
+      text-decoration: none;
+      border-radius: 0px;
+      transition: all 0.3s ease;
+      position: relative;
+      font-weight: 400;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+
+    .btn-primary {
+      background: var(--ink-deeper);
+      color: white;
+      border: 2px solid var(--ink-deeper);
+    }
+
+    .btn-primary:hover {
+      background: transparent;
+      color: var(--ink-deeper);
+    }
+
+    .btn-secondary {
+      color: var(--ink-deeper);
+      border: 2px solid rgba(23, 23, 23, 0.2);
+      background: transparent;
+    }
+
+    .btn-secondary:hover {
+      border-color: var(--ink-deeper);
+      background: var(--ink-deeper);
+      color: white;
+    }
+
+    .btn svg {
+      width: 16px;
+      height: 16px;
+      transition: transform 0.3s ease;
+    }
+
+    .btn:hover svg {
+      transform: translateX(3px);
+    }
+
+    /* Divider Ornament */
+    .divider {
+      display: flex;
+      justify-content: center;
+      padding: 6rem 0;
+    }
+
+    .divider svg {
+      opacity: 0.2;
+    }
+
+    .divider svg circle {
+      animation: pulse 3s ease-in-out infinite;
+      transform-origin: center;
+    }
+
+    .divider svg circle:nth-child(1) { animation-delay: 0s; }
+    .divider svg circle:nth-child(2) { animation-delay: 0.3s; }
+    .divider svg circle:nth-child(3) { animation-delay: 0.6s; }
+    .divider svg circle:nth-child(4) { animation-delay: 0.9s; }
+    .divider svg circle:nth-child(5) { animation-delay: 1.2s; }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 0.4; transform: scale(1); }
+      50% { opacity: 0.8; transform: scale(1.2); }
+    }
+
+    /* Collections Section */
+    .collections {
+      padding: 8rem 3rem;
+      max-width: 1200px;
+      margin: 0 auto;
+      position: relative;
+      z-index: 10;
+    }
+
+    .section-header {
+      margin-bottom: 5rem;
+      text-align: center;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .section-header h2 {
+      font-family: 'Lora', serif;
+      font-size: clamp(2.5rem, 5vw, 3.5rem);
+      color: var(--ink-deeper);
+      font-weight: 400;
+      letter-spacing: -0.02em;
+      margin-bottom: 1.5rem;
+      line-height: 1.15;
+    }
+
+    .section-header p {
+      font-size: 1.15rem;
+      color: var(--ink-medium);
+      font-weight: 300;
+      max-width: 650px;
+      margin-left: auto;
+      margin-right: auto;
+      line-height: 1.8;
+    }
+
+    /* Collection Grid - Refined Minimal Cards */
+    .collection-grid {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 1px;
+      background: rgba(23, 23, 23, 0.08);
+    }
+
+    .collection-card {
+      position: relative;
+      padding: 6rem 4rem;
+      background: #ffffff;
+      cursor: pointer;
+      display: block;
+      transition: background 0.3s ease;
+    }
+
+    .collection-card:hover {
+      background: #fef4ed;
+    }
+
+    .collection-card-inner {
+      max-width: 800px;
+      display: grid;
+      grid-template-columns: 60px 1fr;
+      gap: 4rem;
+      align-items: start;
+    }
+
+    .collection-number {
+      font-size: 1rem;
+      font-family: 'Lora', serif;
+      font-weight: 400;
+      color: var(--terracotta-500);
+      opacity: 0.5;
+      line-height: 1;
+      text-align: right;
+    }
+
+    .collection-card h3 {
+      font-family: 'Lora', serif;
+      font-size: 3rem;
+      font-weight: 400;
+      color: var(--ink-deeper);
+      margin-bottom: 1.5rem;
+      letter-spacing: -0.03em;
+      line-height: 1.15;
+    }
+
+    .collection-card p {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: var(--ink-medium);
+      font-weight: 300;
+      margin-bottom: 2rem;
+      opacity: 0.8;
+      max-width: 600px;
+    }
+
+    .collection-meta {
+      display: inline-block;
+      font-size: 0.75rem;
+      color: var(--ink-light);
+      font-weight: 400;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      opacity: 0.5;
+    }
+
+    .collection-meta svg {
+      display: none;
+    }
+
+    /* Works Section - Clean Minimal List */
+    .works {
+      padding: 8rem 3rem;
+      background: #ffffff;
+      position: relative;
+      z-index: 10;
+    }
+
+    .works-grid {
+      max-width: 900px;
+      margin: 0 auto;
+      margin-top: 5rem;
+    }
+
+    .work-card {
+      position: relative;
+      padding: 5rem 0;
+      background: transparent;
+      cursor: pointer;
+      border-bottom: 1px solid rgba(23, 23, 23, 0.08);
+      transition: opacity 0.3s ease;
+    }
+
+    .work-card:hover {
+      opacity: 0.7;
+    }
+
+    .work-card:first-child {
+      padding-top: 0;
+    }
+
+    /* Work number */
+    .work-number {
+      display: none;
+    }
+
+    /* Work content */
+    .work-content {
+      display: block;
+    }
+
+    .work-card h3 {
+      font-family: 'Lora', serif;
+      font-size: 2.5rem;
+      font-weight: 400;
+      color: var(--ink-deeper);
+      letter-spacing: -0.03em;
+      line-height: 1.2;
+      margin-bottom: 1rem;
+    }
+
+    .work-author {
+      font-size: 0.95rem;
+      color: var(--ink-medium);
+      font-weight: 400;
+      margin-bottom: 1.5rem;
+      opacity: 0.7;
+    }
+
+    .work-description {
+      font-size: 1.05rem;
+      line-height: 1.8;
+      color: var(--ink-medium);
+      font-weight: 300;
+      opacity: 0.75;
+      margin-bottom: 1.5rem;
+    }
+
+    /* Work meta */
+    .work-meta {
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+    }
+
+    .work-meta span {
+      font-size: 0.8rem;
+      color: var(--ink-light);
+      font-weight: 400;
+      letter-spacing: 0.05em;
+      opacity: 0.5;
+    }
+
+    .work-meta span:last-child {
+      font-size: 0.8rem;
+      color: var(--terracotta-500);
+      font-family: 'Lora', serif;
+      font-weight: 400;
+      opacity: 0.6;
+    }
+
+    /* Scroll Progress */
+    .scroll-progress {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 0%;
+      height: 3px;
+      background: linear-gradient(90deg, var(--terracotta-400), var(--terracotta-600));
+      z-index: 9999;
+      transition: width 0.1s ease-out;
+      box-shadow: 0 0 10px rgba(244, 133, 51, 0.5);
+    }
+
+    /* No stagger animations for cleaner feel */
+
+    /* Reduced motion */
+    @media (prefers-reduced-motion: reduce) {
+      *,
+      *::before,
+      *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+      }
+    }
+
+    /* Responsive */
+    @media (max-width: 1024px) {
+      .collection-card {
+        padding: 5rem 3rem;
+      }
+
+      .collection-card-inner {
+        grid-template-columns: 50px 1fr;
+        gap: 3rem;
+      }
+
+      .collection-card h3 {
+        font-size: 2.25rem;
+      }
+
+      .work-card {
+        padding: 4rem 0;
+      }
+
+      .work-card h3 {
+        font-size: 2rem;
+      }
+    }
+
+    @media (max-width: 768px) {
+      header {
+        padding: 1rem 1.5rem;
+      }
+
+      nav ul {
+        gap: 1.5rem;
+        font-size: 0.85rem;
+      }
+
+      .hero {
+        padding: 6rem 1.5rem 3rem;
+      }
+
+      .hero-stats {
+        flex-wrap: wrap;
+        gap: 1.5rem;
+      }
+
+      .collections, .works {
+        padding: 4rem 1.5rem;
+      }
+
+      .collection-card {
+        padding: 4rem 2rem;
+      }
+
+      .collection-card-inner {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+      }
+
+      .collection-number {
+        text-align: left;
+        font-size: 0.85rem;
+      }
+
+      .collection-card h3 {
+        font-size: 1.75rem;
+      }
+
+      .work-card {
+        padding: 3rem 0;
+      }
+
+      .work-card h3 {
+        font-size: 1.75rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Scroll Progress Bar -->
+  <div class="scroll-progress"></div>
+
+  <!-- Header -->
+  <header id="header">
+    <nav>
+      <a href="#" class="logo">Dhwani</a>
+      <ul>
+        <li><a href="#archive">Archive</a></li>
+        <li><a href="#collections">Collections</a></li>
+        <li><a href="#about">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <!-- Ornamental Flourish -->
+      <div class="flourish">
+        <svg width="60" height="30" viewBox="0 0 60 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M30 15C30 15 25 10 20 15C15 20 20 25 30 25C40 25 45 20 40 15C35 10 30 15 30 15Z" stroke="currentColor" stroke-width="0.7" fill="none" class="text-terracotta-500"/>
+          <circle cx="30" cy="15" r="2" fill="currentColor" class="text-terracotta-500"/>
+          <line x1="0" y1="15" x2="17" y2="15" stroke="currentColor" stroke-width="0.7" class="text-terracotta-400"/>
+          <line x1="43" y1="15" x2="60" y2="15" stroke="currentColor" stroke-width="0.7" class="text-terracotta-400"/>
+        </svg>
+      </div>
+
+      <h1>
+        <span class="line line-1">Words that shaped</span>
+        <span class="line line-2">a <span class="accent">civilization</span></span>
+      </h1>
+
+      <p class="hero-subtitle">
+        From ancient Vedic hymns to modern literary masterpieces—explore India's rich literary heritage, preserved and accessible for all.
+      </p>
+
+      <div class="hero-stats">
+        <div class="stat">
+          <span class="stat-number">256</span>
+          <span>works</span>
+        </div>
+        <div class="stat">
+          <span class="stat-number">12</span>
+          <span>authors</span>
+        </div>
+        <div class="stat">
+          <span class="stat-number">8</span>
+          <span>languages</span>
+        </div>
+      </div>
+
+      <div class="hero-cta">
+        <a href="#archive" class="btn btn-primary">
+          <span>Browse the archive</span>
+          <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+          </svg>
+        </a>
+        <a href="#collections" class="btn btn-secondary">
+          <span>View collections</span>
+          <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Divider Ornament -->
+  <div class="divider">
+    <svg width="100" height="20" viewBox="0 0 100 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="50" cy="10" r="3" fill="currentColor" class="text-terracotta-500"/>
+      <circle cx="40" cy="10" r="1.5" fill="currentColor" class="text-terracotta-400"/>
+      <circle cx="60" cy="10" r="1.5" fill="currentColor" class="text-terracotta-400"/>
+      <circle cx="30" cy="10" r="0.8" fill="currentColor" class="text-terracotta-300"/>
+      <circle cx="70" cy="10" r="0.8" fill="currentColor" class="text-terracotta-300"/>
+    </svg>
+  </div>
+
+  <!-- Collections Section -->
+  <section class="collections" id="collections">
+    <div class="section-header">
+      <h2>Paths through the archive</h2>
+      <p>Curated collections organized by era, language, and literary tradition.</p>
+    </div>
+
+    <div class="collection-grid">
+      <div class="collection-card">
+        <div class="collection-card-inner">
+          <div class="collection-number">01</div>
+          <div>
+            <h3>Ancient Wisdom</h3>
+            <p>Vedic hymns, Upanishads, epics that have guided minds for millennia. From the Rigveda to the Mahabharata, explore texts that have shaped philosophical thought across centuries.</p>
+            <div class="collection-meta">89 Works</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="collection-card">
+        <div class="collection-card-inner">
+          <div class="collection-number">02</div>
+          <div>
+            <h3>Regional Voices</h3>
+            <p>Stories in Bengali, verses in Tamil, wisdom in Malayalam—India speaks in many tongues.</p>
+            <div class="collection-meta">156 Works</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="collection-card">
+        <div class="collection-card-inner">
+          <div class="collection-number">03</div>
+          <div>
+            <h3>Modern Literature</h3>
+            <p>Writers who shaped the modern Indian imagination through poetry, prose, and drama. Discover the voices that defined contemporary Indian literature.</p>
+            <div class="collection-meta">134 Works</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Divider Ornament -->
+  <div class="divider">
+    <svg width="100" height="20" viewBox="0 0 100 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="50" cy="10" r="3" fill="currentColor" class="text-terracotta-500"/>
+      <circle cx="40" cy="10" r="1.5" fill="currentColor" class="text-terracotta-400"/>
+      <circle cx="60" cy="10" r="1.5" fill="currentColor" class="text-terracotta-400"/>
+      <circle cx="30" cy="10" r="0.8" fill="currentColor" class="text-terracotta-300"/>
+      <circle cx="70" cy="10" r="0.8" fill="currentColor" class="text-terracotta-300"/>
+    </svg>
+  </div>
+
+  <!-- Works Section -->
+  <section class="works">
+    <div class="section-header" style="max-width: 1200px; margin: 0 auto;">
+      <h2>Recently added</h2>
+      <p>New voices, newly digitized.</p>
+    </div>
+
+    <div class="works-grid">
+      <div class="work-card">
+        <div class="work-number">01</div>
+        <div class="work-content">
+          <h3>The Bhagavad Gita</h3>
+          <div class="work-author">Unknown</div>
+          <p class="work-description">
+            A 700-verse Hindu scripture that is part of the epic Mahabharata, detailing a conversation between Prince Arjuna and Lord Krishna about dharma, duty, and the nature of reality.
+          </p>
+        </div>
+        <div class="work-meta">
+          <span>Sanskrit</span>
+          <span>400 BCE</span>
+        </div>
+      </div>
+
+      <div class="work-card">
+        <div class="work-number">02</div>
+        <div class="work-content">
+          <h3>Gitanjali</h3>
+          <div class="work-author">Rabindranath Tagore</div>
+          <p class="work-description">
+            A collection of poems for which Tagore was awarded the Nobel Prize in Literature, exploring themes of devotion, spirituality, and the relationship between the human and divine.
+          </p>
+        </div>
+        <div class="work-meta">
+          <span>Bengali</span>
+          <span>1910</span>
+        </div>
+      </div>
+
+      <div class="work-card">
+        <div class="work-number">03</div>
+        <div class="work-content">
+          <h3>The Guide</h3>
+          <div class="work-author">R.K. Narayan</div>
+          <p class="work-description">
+            A masterpiece of Indian literature following Raju, a tour guide who becomes a spiritual guide, blending humor with profound insight into human nature and transformation.
+          </p>
+        </div>
+        <div class="work-meta">
+          <span>English</span>
+          <span>1958</span>
+        </div>
+      </div>
+
+      <div class="work-card">
+        <div class="work-number">04</div>
+        <div class="work-content">
+          <h3>Thirukkural</h3>
+          <div class="work-author">Thiruvalluvar</div>
+          <p class="work-description">
+            An ancient Tamil text consisting of 1,330 couplets covering ethics, economics, and love. A cornerstone of Tamil literature and a guide to virtuous living.
+          </p>
+        </div>
+        <div class="work-meta">
+          <span>Tamil</span>
+          <span>500 CE</span>
+        </div>
+      </div>
+
+      <div class="work-card">
+        <div class="work-number">05</div>
+        <div class="work-content">
+          <h3>Malgudi Days</h3>
+          <div class="work-author">R.K. Narayan</div>
+          <p class="work-description">
+            A collection of short stories set in the fictional town of Malgudi, capturing the essence of Indian life with warmth, wit, and timeless observations about human nature.
+          </p>
+        </div>
+        <div class="work-meta">
+          <span>English</span>
+          <span>1943</span>
+        </div>
+      </div>
+
+      <div class="work-card">
+        <div class="work-number">06</div>
+        <div class="work-content">
+          <h3>Meghadūta</h3>
+          <div class="work-author">Kālidāsa</div>
+          <p class="work-description">
+            A lyric poem describing a yaksha's message to his wife through a passing cloud, exemplifying classical Sanskrit poetry at its finest with vivid imagery and deep emotion.
+          </p>
+        </div>
+        <div class="work-meta">
+          <span>Sanskrit</span>
+          <span>400 CE</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    // Header scroll effect
+    const header = document.getElementById('header');
+    const scrollProgress = document.querySelector('.scroll-progress');
+
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 50) {
+        header.classList.add('scrolled');
+      } else {
+        header.classList.remove('scrolled');
+      }
+
+      // Update scroll progress
+      const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+      const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const scrolled = (winScroll / height) * 100;
+      scrollProgress.style.width = scrolled + '%';
+    });
+
+    // Scroll animations removed for cleaner experience
+
+    // Smooth scroll for anchor links
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) {
+          target.scrollIntoView({
+            behavior: 'smooth',
+            block: 'start'
+          });
+        }
+      });
+    });
+  </script>
+</body>
+</html>

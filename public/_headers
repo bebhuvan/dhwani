@@ -1,0 +1,45 @@
+/*
+  # Security Headers
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+  # Content Security Policy
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' https://api.dhwani.in; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+
+  # Cache Control
+  Cache-Control: public, max-age=0, must-revalidate
+
+/assets/*
+  # Cache static assets for 1 year
+  Cache-Control: public, max-age=31536000, immutable
+
+/fonts/*
+  # Cache fonts for 1 year
+  Cache-Control: public, max-age=31536000, immutable
+
+/_astro/*
+  # Cache Astro assets for 1 year
+  Cache-Control: public, max-age=31536000, immutable
+
+/pagefind/*
+  # Cache Pagefind index for 1 week
+  Cache-Control: public, max-age=604800
+
+/*.css
+  # Cache CSS for 1 year
+  Cache-Control: public, max-age=31536000, immutable
+
+/*.js
+  # Cache JS for 1 year
+  Cache-Control: public, max-age=31536000, immutable
+
+/*.woff2
+  # Cache fonts for 1 year
+  Cache-Control: public, max-age=31536000, immutable
+
+/rss.xml
+  # Cache RSS for 1 hour
+  Cache-Control: public, max-age=3600
