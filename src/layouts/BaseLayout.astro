@@ -46,10 +46,6 @@ const currentPath = Astro.url.pathname;
     <!-- Icons -->
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
-    <!-- Preload critical fonts -->
-    <link rel="preload" href="/fonts/inter-400.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="preload" href="/fonts/lora-400.woff2" as="font" type="font/woff2" crossorigin />
-
     <!-- Feeds -->
     <link rel="sitemap" href="/sitemap-index.xml" />
     <link rel="alternate" type="application/rss+xml" title="Dhwani RSS Feed" href="/rss.xml" />
@@ -188,26 +184,7 @@ const currentPath = Astro.url.pathname;
     <slot />
 
     <!-- Mobile menu toggle script -->
-    <script is:inline>
-      document.addEventListener('DOMContentLoaded', () => {
-        const mobileMenuButton = document.getElementById('mobile-menu-button');
-        const mobileMenu = document.getElementById('mobile-menu');
-
-        if (mobileMenuButton && mobileMenu) {
-          mobileMenuButton.addEventListener('click', () => {
-            mobileMenu.classList.toggle('hidden');
-          });
-
-          // Close menu when clicking on a link
-          const mobileLinks = mobileMenu.querySelectorAll('a');
-          mobileLinks.forEach(link => {
-            link.addEventListener('click', () => {
-              mobileMenu.classList.add('hidden');
-            });
-          });
-        }
-      });
-    </script>
+    <script is:inline src="/mobile-menu.js"></script>
 
     <!-- Scroll animation observer -->
     <script is:inline src="/scroll-animations.js"></script>
