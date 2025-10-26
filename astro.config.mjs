@@ -9,12 +9,6 @@ import cloudflare from '@astrojs/cloudflare';
 export default defineConfig({
   site: 'https://dhwani.in',
   output: 'static',
-  adapter: cloudflare({
-    imageService: 'compile',
-    platformProxy: {
-      enabled: true
-    }
-  }),
   server: {
     port: 4321,
   },
