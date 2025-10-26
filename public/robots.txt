@@ -5,7 +5,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://dhwani.in/sitemap-index.xml
+Sitemap: https://dhwani.ink/sitemap-index.xml
 
 # Crawl delays
 Crawl-delay: 1
