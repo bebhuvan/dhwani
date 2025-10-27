@@ -1,6 +1,6 @@
 ---
 title: "Buddhist Birth-Stories (Jataka Tales)"
-author: ["T.W. Rhys Davids (Translator)", "Caroline Rhys Davids (Revising Editor)"]
+author: ["T.W. Rhys Davids", "Caroline Rhys Davids"]
 year: 1878
 language: ["English", "Pali"]
 genre: ["Buddhist Literature", "Folk Tales", "Religious Texts"]

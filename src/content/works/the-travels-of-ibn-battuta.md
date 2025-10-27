@@ -1,6 +1,6 @@
 ---
 title: "The Travels of Ibn Battuta"
-author: ["Ibn Battuta", "H.A.R. Gibb (Translator)"]
+author: ["Ibn Battuta", "H.A.R. Gibb ()"]
 year: 1354
 language: ["Arabic", "English"]
 genre: ["Travel Literature", "Historical Documentation"]

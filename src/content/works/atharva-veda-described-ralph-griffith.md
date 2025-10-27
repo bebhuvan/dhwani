@@ -1,6 +1,6 @@
 ---
 title: "The Atharva-veda Described"
-author: ["Ralph T. H. Griffith (Translator/Editor)"]
+author: ["Ralph T. H. Griffith"]
 year: 1897
 language: ["Sanskrit", "English"]
 genre: ["Religious Texts", "Classical Literature", "Anthology"]

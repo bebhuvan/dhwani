@@ -1,6 +1,6 @@
 ---
 title: "Women in Ancient India: Moral and Literary Studies"
-author: ["Clarisse Bader", "Mary E. R. Martin (Translator)"]
+author: ["Clarisse Bader", "Mary E. R. Martin ()"]
 year: 1925
 language: ["French", "English"]
 genre: ["Social History", "Literary Criticism", "Gender Studies"]

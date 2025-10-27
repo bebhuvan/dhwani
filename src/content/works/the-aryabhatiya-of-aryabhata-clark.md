@@ -1,6 +1,6 @@
 ---
 title: "The Aryabhatiya of Aryabhata"
-author: ["Aryabhata", "Walter Eugene Clark (Translator)"]
+author: ["Aryabhata", "Walter Eugene Clark"]
 year: 499
 language: ["Sanskrit", "English"]
 genre: ["Mathematics", "Astronomy", "Scientific Literature"]

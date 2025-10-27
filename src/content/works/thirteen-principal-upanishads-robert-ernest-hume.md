@@ -1,6 +1,6 @@
 ---
 title: "The Thirteen Principal Upanishads"
-author: ["Robert Ernest Hume (Translator)"]
+author: ["Robert Ernest Hume ()"]
 year: 1921
 language: ["Sanskrit", "English"]
 genre: ["Philosophy", "Religious Texts", "Classical Literature"]

@@ -1,6 +1,6 @@
 ---
 title: "The Panchasiddhantika of Varahamihira"
-author: ["Varahamihira", "G. Thibaut (Translator)", "Sudhakara Dvivedi (Editor)"]
+author: ["Varahamihira", "G. Thibaut ()", "Sudhakara Dvivedi ()"]
 year: 575
 language: ["Sanskrit", "English"]
 genre: ["Astronomy", "Mathematics", "Scientific Literature"]

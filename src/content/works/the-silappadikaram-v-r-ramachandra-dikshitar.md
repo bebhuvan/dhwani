@@ -1,6 +1,6 @@
 ---
 title: "The Silappadikaram"
-author: ["Ilango Adigal", "V.R. Ramachandra Dikshitar (Translator)"]
+author: ["Ilango Adigal", "V.R. Ramachandra Dikshitar ()"]
 year: 1939
 language: ["Tamil", "English"]
 genre: ["Epic Poetry", "Classical Literature"]

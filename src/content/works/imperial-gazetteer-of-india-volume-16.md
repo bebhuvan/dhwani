@@ -1,6 +1,6 @@
 ---
 title: "The Imperial Gazetteer of India, Volume 16"
-author: ["Sir William Wilson Hunter (Editor)", "Great Britain India Office"]
+author: ["Sir William Wilson Hunter", "Great Britain India Office"]
 year: 1908
 language: ["English"]
 genre: ["Reference", "Geography", "History"]

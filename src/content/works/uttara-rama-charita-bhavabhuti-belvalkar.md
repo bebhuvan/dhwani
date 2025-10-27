@@ -1,6 +1,6 @@
 ---
 title: "Uttara-Rāma-Charita (Rama's Later History)"
-author: ["Bhavabhuti", "Shripad Krishna Belvalkar (Editor)"]
+author: ["Bhavabhuti", "Shripad Krishna Belvalkar"]
 year: 1915
 language: ["Sanskrit", "Prakrit", "English"]
 genre: ["Drama", "Classical Literature"]

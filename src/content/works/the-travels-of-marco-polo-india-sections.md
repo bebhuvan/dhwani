@@ -1,6 +1,6 @@
 ---
 title: "The Travels of Marco Polo: India Sections"
-author: ["Marco Polo", "Henry Yule (Editor/Translator)"]
+author: ["Marco Polo", "Henry Yule (Editor/)"]
 year: 1298
 language: ["Italian", "English"]
 genre: ["Travel Literature", "Historical Documentation"]
