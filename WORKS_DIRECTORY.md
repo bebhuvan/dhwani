@@ -1,6 +1,6 @@
 # Dhwani Works Directory
 
-A comprehensive catalog of all 343 works in the Dhwani collection.
+A comprehensive catalog of all 304 works in the Dhwani collection.
 
 **Last Updated:** October 27, 2025
 
@@ -8,7 +8,7 @@ A comprehensive catalog of all 343 works in the Dhwani collection.
 
 ## Table of Contents
 
-- [Complete Alphabetical List](#complete-alphabetical-list) (343 works)
+- [Complete Alphabetical List](#complete-alphabetical-list) (304 works)
 - [By Language](#by-language)
   - [Ancient Greek](#ancient-greek) (2)
   - [Arabic](#arabic) (2)
@@ -16,7 +16,7 @@ A comprehensive catalog of all 343 works in the Dhwani collection.
   - [Chagatai Turkic](#chagatai-turkic) (1)
   - [Chinese](#chinese) (1)
   - [Dutch](#dutch) (2)
-  - [English](#english) (277)
+  - [English](#english) (279)
   - [French](#french) (4)
   - [German](#german) (3)
   - [Gujarati](#gujarati) (1)
@@ -29,7 +29,7 @@ A comprehensive catalog of all 343 works in the Dhwani collection.
   - [Marathi](#marathi) (3)
   - [Odia](#odia) (1)
   - [Pali](#pali) (2)
-  - [Persian](#persian) (3)
+  - [Persian](#persian) (4)
   - [Prakrit](#prakrit) (2)
   - [Punjabi](#punjabi) (1)
   - [Sanskrit](#sanskrit) (71)
@@ -1474,17 +1474,29 @@ Influential architectural study by E.B. Havell, Principal of Calcutta School of 
 
 ### 120. Indian Fairy Tales
 
-**Author(s):** Joseph Jacobs, illustrated by John D. Batten  
-**Year:** 1892  
-**Language(s):** English  
-**Genre(s):** Folk Tales, Children's Literature, Mythology  
-**Link:** [/works/indian-fairy-tales-joseph-jacobs](/works/indian-fairy-tales-joseph-jacobs)  
+**Author(s):** Joseph Jacobs, illustrated by John D. Batten
+**Year:** 1892
+**Language(s):** English
+**Genre(s):** Folk Tales, Children's Literature, Mythology
+**Link:** [/works/indian-fairy-tales-joseph-jacobs](/works/indian-fairy-tales-joseph-jacobs)
 
 Indian Fairy Tales by Joseph Jacobs, illustrated by John D. Batten (1892) - A masterful collection of traditional Indian folk tales and fairy stories gathered from ancient Sanskrit sources, Buddhist Jataka tales, and oral traditions. This scholarly yet accessible compilation preserves the rich st...
 
 ---
 
-### 121. Indian Myth and Legend
+### 121. Indian Currency and Finance
+
+**Author(s):** John Maynard Keynes
+**Year:** 1913
+**Language(s):** English
+**Genre(s):** Political Economy, Economic Treatise
+**Link:** [/works/indian-currency-and-finance-keynes](/works/indian-currency-and-finance-keynes)
+
+Written by Keynes during and after his tenure at the India Office (1906-1908), this treatise examines India's transition from a silver-based currency system to a gold-exchange standard, analyzing the rupee-sterling exchange rate, government reserve management, and proposing the establishment of a central bank for India.
+
+---
+
+### 122. Indian Myth and Legend
 
 **Author(s):** Donald A. Mackenzie  
 **Year:** 1913  
@@ -1496,31 +1508,31 @@ Donald A. Mackenzie's 1913 popular compendium retells Indian mythology from Vedi
 
 ---
 
-### 122. Indian Speeches (1907–1909)
+### 123. Indian Speeches (1907–1909)
 
-**Author(s):** John Morley  
-**Year:** 1910  
-**Language(s):** English  
-**Genre(s):** Political Literature  
-**Link:** [/works/indian-speeches-19071909-john-morley](/works/indian-speeches-19071909-john-morley)  
+**Author(s):** John Morley
+**Year:** 1910
+**Language(s):** English
+**Genre(s):** Political Literature
+**Link:** [/works/indian-speeches-19071909-john-morley](/works/indian-speeches-19071909-john-morley)
 
 Indian Speeches (1907–1909) by John Morley (1910) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage. This work offers valuable insights into the British Raj period, featuring independence movements, cultural renaissance, and literary awakening.
 
 ---
 
-### 123. Indian Unrest
+### 124. Indian Unrest
 
-**Author(s):** Valentine Chirol  
-**Year:** 1910  
-**Language(s):** English  
-**Genre(s):** Political Literature  
-**Link:** [/works/indian-unrest-valentine-chirol](/works/indian-unrest-valentine-chirol)  
+**Author(s):** Valentine Chirol
+**Year:** 1910
+**Language(s):** English
+**Genre(s):** Political Literature
+**Link:** [/works/indian-unrest-valentine-chirol](/works/indian-unrest-valentine-chirol)
 
 Indian Unrest by Valentine Chirol (1910) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage. This work offers valuable insights into the British Raj period, featuring independence movements, cultural renaissance, and literary awakening.
 
 ---
 
-### 124. Indian Wisdom: Religious, Philosophical and Ethical Doctrines
+### 125. Indian Wisdom: Religious, Philosophical and Ethical Doctrines
 
 **Author(s):** Monier Monier-Williams  
 **Year:** 1893  
@@ -1532,7 +1544,7 @@ Comprehensive survey of Indian religious and philosophical traditions including 
 
 ---
 
-### 125. Indigo and Its Enemies
+### 126. Indigo and Its Enemies
 
 **Author(s):** Delta (pseudonym)  
 **Year:** 1861  
@@ -1544,7 +1556,7 @@ Published in London in 1861, this pamphlet defends indigo planters in Bengal dur
 
 ---
 
-### 126. Islam in India, or The Qānūn-i Islām
+### 127. Islam in India, or The Qānūn-i Islām
 
 **Author(s):** Ja'far Sharīf, tr. G.A. Herklots  
 **Year:** 1921  
@@ -1556,7 +1568,7 @@ The *Qānūn-i Islām* ('The Customs of Islam') is a detailed ethnographic accou
 
 ---
 
-### 127. Jataka Tales: Animal Stories
+### 128. Jataka Tales: Animal Stories
 
 **Author(s):** Ellen C. Babbitt  
 **Year:** 1912  
@@ -1568,7 +1580,7 @@ Ellen C. Babbitt's 1912 adaptation of Buddhist jātaka stories for Western child
 
 ---
 
-### 128. Journael van de Reysen naar Oost-Indien
+### 129. Journael van de Reysen naar Oost-Indien
 
 **Author(s):** Sir Thomas Roe  
 **Year:** 1656  
@@ -1580,7 +1592,7 @@ This 1656 Amsterdam edition presents a Dutch translation of Sir Thomas Roe’s e
 
 ---
 
-### 129. Kāmandakīya Nītisāra (The Elements of Polity)
+### 130. Kāmandakīya Nītisāra (The Elements of Polity)
 
 **Author(s):** Kamandaki, tr. Manmatha Nath Dutt  
 **Year:** 1896  
@@ -1592,7 +1604,7 @@ Sanskrit treatise on statecraft and political science composed between 3rd-7th c
 
 ---
 
-### 130. Kautilya Arthashastra Hindi Anubad
+### 131. Kautilya Arthashastra Hindi Anubad
 
 **Author(s):** Kautilya, Vidya Bhashker, Udayabeer Shastri  
 **Year:** 1925  
@@ -1604,7 +1616,7 @@ A 1925 Hindi translation of Kautilya's Arthashastra by scholars Vidya Bhashker a
 
 ---
 
-### 131. Kauṭilya’s Arthaśāstra (Shamasastry tr.)
+### 132. Kauṭilya’s Arthaśāstra (Shamasastry tr.)
 
 **Author(s):** Kauṭilya (Cāṇakya), tr. R. Shamasastry  
 **Year:** 1915  
@@ -1616,7 +1628,7 @@ R. Shamasastry's first English translation of Kautilya's ancient treatise on sta
 
 ---
 
-### 132. Kumārasambhava
+### 133. Kumārasambhava
 
 **Author(s):** Kalidasa  
 **Year:** 500  
@@ -1628,7 +1640,7 @@ Sanskrit epic narrating the courtship and marriage of Shiva and Parvati, culmina
 
 ---
 
-### 133. Laghu-siddhantakaumudi
+### 134. Laghu-siddhantakaumudi
 
 **Author(s):** Varadarāja Varadarāja, active 17th century  
 **Year:** 1928  
@@ -1640,7 +1652,7 @@ A 1928 edition of Varadaraja's Laghusiddhantakaumudi, the 17th-century abridged 
 
 ---
 
-### 134. Lectures on the Ancient History of India (650-325 B.C.)
+### 135. Lectures on the Ancient History of India (650-325 B.C.)
 
 **Author(s):** Devadatta Ramkrishna Bhandarkar  
 **Year:** 1919  
@@ -1652,7 +1664,7 @@ Four lectures examining India's political evolution during 650-325 BCE, analyzin
 
 ---
 
-### 135. Life in Ancient India; with a map
+### 136. Life in Ancient India; with a map
 
 **Author(s):** Manning, Charlotte Speir  
 **Year:** 1856  
@@ -1664,7 +1676,7 @@ An 1856 study of ancient Indian civilization by Charlotte Speir Manning (1803-18
 
 ---
 
-### 136. Literary History of Ancient India, in Relation to its Racial and Linguistic Affiliations
+### 137. Literary History of Ancient India, in Relation to its Racial and Linguistic Affiliations
 
 **Author(s):** Chandra Chakraberty  
 **Year:** 1920  
@@ -1676,7 +1688,7 @@ Literary History of Ancient India, in Relation to its Racial and Linguistic Affi
 
 ---
 
-### 137. Literary History of Sanskrit Buddhism
+### 138. Literary History of Sanskrit Buddhism
 
 **Author(s):** Gushtaspshah Kaikhushro Nariman  
 **Year:** 1923  
@@ -1688,7 +1700,7 @@ This 430-page compilation synthesizes the scholarship of three prominent Europea
 
 ---
 
-### 138. Mālavikāgnimitra
+### 139. Mālavikāgnimitra
 
 **Author(s):** Kalidasa  
 **Year:** 1875  
@@ -1700,7 +1712,7 @@ Mālavikāgnimitram, Kalidasa's five-act Sanskrit drama, depicts the romantic re
 
 ---
 
-### 139. Markandeya Purana
+### 140. Markandeya Purana
 
 **Author(s):** F. Eden Pargiter  
 **Year:** 1904  
@@ -1712,7 +1724,7 @@ One of the eighteen major Puranas and likely among the oldest in the genre, the 
 
 ---
 
-### 140. Mauryan Polity
+### 141. Mauryan Polity
 
 **Author(s):** V. R. Ramachandra Dikshitar  
 **Year:** 1932  
@@ -1724,7 +1736,7 @@ V.R. Ramachandra Dikshitar's 1932 analysis examines political organization and g
 
 ---
 
-### 141. Memoirs on the History, Folk-Lore, and Distribution of the Races of the North-Western Provinces
+### 142. Memoirs on the History, Folk-Lore, and Distribution of the Races of the North-Western Provinces
 
 **Author(s):** Sir Henry Miers Elliot, John Beames  
 **Year:** 1869  
@@ -1736,7 +1748,7 @@ Henry Miers Elliot’s supplemental glossary, expanded by John Beames in 1869, c
 
 ---
 
-### 142. Memorial on Behalf of the King of Tanjore
+### 143. Memorial on Behalf of the King of Tanjore
 
 **Author(s):** Tulaji, Rajah of Tanjore, Frederick North  
 **Year:** 1775  
@@ -1748,7 +1760,7 @@ This 1775 printed memorial prepared for British Prime Minister Lord North record
 
 ---
 
-### 143. Men and Events of My Time in India
+### 144. Men and Events of My Time in India
 
 **Author(s):** Sir Richard Temple  
 **Year:** 1882  
@@ -1760,7 +1772,7 @@ Sir Richard Temple's 1882 memoir recounts four decades serving British India (18
 
 ---
 
-### 144. Modern Religious Movements in India
+### 145. Modern Religious Movements in India
 
 **Author(s):** J.N. Farquhar  
 **Year:** 1915  
@@ -1772,7 +1784,7 @@ Farquhar's *Modern Religious Movements in India* (1915) remains the most compreh
 
 ---
 
-### 145. More Jataka Tales
+### 146. More Jataka Tales
 
 **Author(s):** Ellen C. Babbitt  
 **Year:** 1922  
@@ -1784,7 +1796,7 @@ Babbitt's *More Jataka Tales* (1922), sequel to her 1912 collection, continues a
 
 ---
 
-### 146. Mysore: A Gazetteer
+### 147. Mysore: A Gazetteer
 
 **Author(s):** B. Lewis Rice  
 **Year:** 1897  
@@ -1796,7 +1808,7 @@ Mysore: A Gazetteer by B. Lewis Rice (1897) - A significant work from the Coloni
 
 ---
 
-### 147. Myths of the Hindus & Buddhists
+### 148. Myths of the Hindus & Buddhists
 
 **Author(s):** Sister Nivedita, Ananda Coomaraswamy  
 **Year:** 1913  
@@ -1808,7 +1820,7 @@ Sister Nivedita and Ananda Coomaraswamy's collaborative interpretation of Hindu 
 
 ---
 
-### 148. Nala and Damayanti, and Other Poems
+### 149. Nala and Damayanti, and Other Poems
 
 **Author(s):** Henry Hart Milman  
 **Year:** 1835  
@@ -1820,7 +1832,7 @@ Henry Hart Milman's pioneering 1835 English verse translation of the Nala episod
 
 ---
 
-### 149. Nalanda and Its Epigraphic Material
+### 150. Nalanda and Its Epigraphic Material
 
 **Author(s):** Hiranand Shastri  
 **Year:** 1942  
@@ -1832,7 +1844,7 @@ Hiranand Shastri's 1942 Memoirs (ASI No. 66) comprehensively catalogs inscriptio
 
 ---
 
-### 150. Nalopākhyānam: The Story of Nala from the Mahābhārata
+### 151. Nalopākhyānam: The Story of Nala from the Mahābhārata
 
 **Author(s):** Monier Monier-Williams, Henry Hart Milman  
 **Year:** 1879  
@@ -1844,7 +1856,7 @@ Scholarly Sanskrit edition of the Nala episode from the Mahābhārata by Monier 
 
 ---
 
-### 151. Narrative of a Journey through the Upper Provinces of India
+### 152. Narrative of a Journey through the Upper Provinces of India
 
 **Author(s):** Reginald Heber  
 **Year:** 1828  
@@ -1856,7 +1868,7 @@ Narrative of a Journey through the Upper Provinces of India by Reginald Heber (1
 
 ---
 
-### 152. Nationalism
+### 153. Nationalism
 
 **Author(s):** Rabindranath Tagore  
 **Year:** 1917  
@@ -1868,7 +1880,7 @@ Tagore's critique of aggressive nationalism and Western imperialism based on lec
 
 ---
 
-### 153. Natives of Northern India
+### 154. Natives of Northern India
 
 **Author(s):** William Crooke  
 **Year:** 1907  
@@ -1880,7 +1892,7 @@ Published in 1907 as part of the Native Races of the British Empire series, this
 
 ---
 
-### 154. Open Letters to Lord Curzon on Famines and Land Assessments in India
+### 155. Open Letters to Lord Curzon on Famines and Land Assessments in India
 
 **Author(s):** Romesh Chunder Dutt  
 **Year:** 1900  
@@ -1892,7 +1904,7 @@ Five open letters addressing Lord Curzon on critical issues including famine ins
 
 ---
 
-### 155. Outlines of an History of the Hindu Law of Partition, Inheritance, and Adoption
+### 156. Outlines of an History of the Hindu Law of Partition, Inheritance, and Adoption
 
 **Author(s):** Julius Jolly  
 **Year:** 1885  
@@ -1904,7 +1916,7 @@ Julius Jolly's comprehensive examination of Hindu family law based on original S
 
 ---
 
-### 156. Outlines of Indian Philosophy
+### 157. Outlines of Indian Philosophy
 
 **Author(s):** Paul Deussen  
 **Year:** 1907  
@@ -1916,7 +1928,7 @@ Originally published in Berlin in 1907, this philosophical treatise systematical
 
 ---
 
-### 157. Panini's Ashtadhyayi: The Sanskrit Grammar
+### 158. Panini's Ashtadhyayi: The Sanskrit Grammar
 
 **Author(s):** Panini, Srisa Chandra Vasu  
 **Year:** -400  
@@ -1928,7 +1940,7 @@ Panini's Ashtadhyayi, the foundational Sanskrit grammar from the 5th century BCE
 
 ---
 
-### 158. Panjab castes
+### 159. Panjab castes
 
 **Author(s):** 1847-1908  Sir  Denzil Ibbetson  
 **Year:** 1916  
@@ -1940,7 +1952,7 @@ Panjab castes by 1847-1908  Sir  Denzil Ibbetson (1916) - A work of caste ,  ind
 
 ---
 
-### 159. Papers Relating to the Collection and Preservation of Ancient Sanskrit Literature in India
+### 160. Papers Relating to the Collection and Preservation of Ancient Sanskrit Literature in India
 
 **Author(s):** Archibald Edward Gough  
 **Year:** 1878  
@@ -1952,7 +1964,7 @@ Addresses the systematic gathering and safeguarding of ancient Sanskrit manuscri
 
 ---
 
-### 160. Personal and Geographical Names in the Gupta Inscriptions
+### 161. Personal and Geographical Names in the Gupta Inscriptions
 
 **Author(s):** Tej Ram Sharma  
 **Year:** 1978  
@@ -1964,7 +1976,7 @@ Tej Ram Sharma's 1978 onomastic study systematically analyzes personal and place
 
 ---
 
-### 161. Political History of Ancient India
+### 162. Political History of Ancient India
 
 **Author(s):** Hem Chandra Raychaudhuri  
 **Year:** 1923  
@@ -1976,7 +1988,7 @@ Hem Chandra Raychaudhuri’s 1923 study synthesises literary, epigraphic, and nu
 
 ---
 
-### 162. Prabandhacintāmaṇi (The Wishing-Stone of Narratives)
+### 163. Prabandhacintāmaṇi (The Wishing-Stone of Narratives)
 
 **Author(s):** Merutuṅga Ācārya, tr. C.H. Tawney  
 **Year:** 1901  
@@ -1988,7 +2000,7 @@ Sanskrit collection of prabandhas (biographical narratives) compiled in 1304 CE 
 
 ---
 
-### 163. Punjabi Musalmans
+### 164. Punjabi Musalmans
 
 **Author(s):** J. M. Wikeley  
 **Year:** n.d.  
@@ -2000,7 +2012,7 @@ J. M. Wikeley’s study surveys the history, military service, and social organi
 
 ---
 
-### 164. Purāṇic Encyclopaedia
+### 165. Purāṇic Encyclopaedia
 
 **Author(s):** Vettam Mani  
 **Year:** 1975  
@@ -2012,7 +2024,7 @@ Vettam Mani's comprehensive 942-page alphabetical dictionary of characters, plac
 
 ---
 
-### 165. Reports of a Tour in Bundelkhand and Rewa in 1883-84; and of a Tour in Rewa, Bundelkhand, Malwa, and Gwalior, in 1884-85
+### 166. Reports of a Tour in Bundelkhand and Rewa in 1883-84; and of a Tour in Rewa, Bundelkhand, Malwa, and Gwalior, in 1884-85
 
 **Author(s):** Alexander Cunningham  
 **Year:** 1885  
@@ -2024,7 +2036,7 @@ Sir Alexander Cunningham's systematic archaeological documentation of central In
 
 ---
 
-### 166. Rig-Veda Sanhita, Volume I
+### 167. Rig-Veda Sanhita, Volume I
 
 **Author(s):** Horace Hayman Wilson  
 **Year:** 1850  
@@ -2036,7 +2048,7 @@ Horace Hayman Wilson's *Rig-Veda Sanhita, Volume I* (1850, 1946 reprint) present
 
 ---
 
-### 167. Rig-Veda-Sanhitā (English translation)
+### 168. Rig-Veda-Sanhitā (English translation)
 
 **Author(s):** H. H. Wilson  
 **Year:** 1850  
@@ -2048,7 +2060,7 @@ Rig-Veda-Sanhitā (English translation) by H. Wilson (1850s–1860s) - A signifi
 
 ---
 
-### 168. Riyaz-us-Salatin: A History of Bengal
+### 169. Riyaz-us-Salatin: A History of Bengal
 
 **Author(s):** Ghulam Husain Salim, tr. Maulavi Abdus Salam  
 **Year:** 1902  
@@ -2060,7 +2072,7 @@ Ghulam Husain Salim's Persian chronicle (1787-88) of Bengal's Muslim rulers from
 
 ---
 
-### 169. Śakuntalā; or, The Lost Ring
+### 170. Śakuntalā; or, The Lost Ring
 
 **Author(s):** Kālidāsa, tr. Monier Monier-Williams  
 **Year:** 1855  
@@ -2072,7 +2084,7 @@ Ghulam Husain Salim's Persian chronicle (1787-88) of Bengal's Muslim rulers from
 
 ---
 
-### 170. Sangita Ratnakara
+### 171. Sangita Ratnakara
 
 **Author(s):** Śārṅgadeva  
 **Year:** 1247  
@@ -2084,7 +2096,7 @@ The Sangita Ratnakara (Ocean of Music) is a comprehensive 13th-century Sanskrit 
 
 ---
 
-### 171. Sarala Mahābhārata (The Odia Mahabharata)
+### 172. Sarala Mahābhārata (The Odia Mahabharata)
 
 **Author(s):** Sarala Dasa  
 **Year:** 1435  
@@ -2096,7 +2108,7 @@ First complete rendering of Mahabharata in Odia language, composed circa 1435-14
 
 ---
 
-### 172. Sarva-darśana-saṅgraha (Review of Different Systems of Hindu Philosophy)
+### 173. Sarva-darśana-saṅgraha (Review of Different Systems of Hindu Philosophy)
 
 **Author(s):** Mādhavāchārya (Vidyāranya), tr. E.B. Cowell, tr. A.E. Gough  
 **Year:** 1882  
@@ -2108,7 +2120,7 @@ First complete rendering of Mahabharata in Odia language, composed circa 1435-14
 
 ---
 
-### 173. Satyarth Prakash (The Light of Truth): A Guide to Vedic Hermeneutics
+### 174. Satyarth Prakash (The Light of Truth): A Guide to Vedic Hermeneutics
 
 **Author(s):** Swami Dayananda Saraswati  
 **Year:** 1908  
@@ -2120,7 +2132,7 @@ Swami Dayananda Saraswati's revolutionary manifesto of Hindu reform and Vedic re
 
 ---
 
-### 174. Sesde reys van de Engelsche Maatschappy na Oost-Indien
+### 175. Sesde reys van de Engelsche Maatschappy na Oost-Indien
 
 **Author(s):** Sir Henry Middleton, Nicholas Downton  
 **Year:** 1707  
@@ -2132,7 +2144,7 @@ Pieter van der Aa’s 1707 Dutch translation of the English East India Company�
 
 ---
 
-### 175. Shivaji and His Times
+### 176. Shivaji and His Times
 
 **Author(s):** Jadunath Sarkar  
 **Year:** 1919  
@@ -2144,7 +2156,7 @@ Shivaji and His Times by Jadunath Sarkar (1919/1920) - A significant work from t
 
 ---
 
-### 176. Short Report of Hindu Mahasabha Relief Activities During 'Calcutta Killing' and 'Noakhali Carnage'
+### 177. Short Report of Hindu Mahasabha Relief Activities During 'Calcutta Killing' and 'Noakhali Carnage'
 
 **Author(s):** Hindu Mahasabha  
 **Year:** 1946  
@@ -2156,19 +2168,31 @@ This historically significant report documents the relief activities undertaken 
 
 ---
 
-### 177. Si-yu-ki: Buddhist Records of the Western World
+### 178. Si-yu-ki: Buddhist Records of the Western World
 
-**Author(s):** Xuanzang (Hsüan-tsang), tr. Samuel Beal  
-**Year:** 1884  
-**Language(s):** English, Chinese  
-**Genre(s):** Travel Literature, Buddhist Literature, Historical Geography  
-**Link:** [/works/si-yu-ki-buddhist-records-of-the-western-world-xuanzang-samuel-beal](/works/si-yu-ki-buddhist-records-of-the-western-world-xuanzang-samuel-beal)  
+**Author(s):** Xuanzang (Hsüan-tsang), tr. Samuel Beal
+**Year:** 1884
+**Language(s):** English, Chinese
+**Genre(s):** Travel Literature, Buddhist Literature, Historical Geography
+**Link:** [/works/si-yu-ki-buddhist-records-of-the-western-world-xuanzang-samuel-beal](/works/si-yu-ki-buddhist-records-of-the-western-world-xuanzang-samuel-beal)
 
 The Si-yu-ki (西域記, *Da Tang Xiyu Ji*, 'Great Tang Records on the Western Regions') is Chinese Buddhist monk Xuanzang's (玄奘, 602-664 CE) travelogue documenting his sixteen-year journey (629-645 CE) from Tang China to India. Samuel Beal's 1884 translation introduced this Chinese text to Western scholarship.
 
 ---
 
-### 178. Siddhānta Śiromaṇi (Crown of Treatises)
+### 179. Siraj-ul-Wahhaj (The Brilliant Lamp)
+
+**Author(s):** Sirajuddin Ali Khan Arzu
+**Year:** 1740
+**Language(s):** Persian
+**Genre(s):** Persian Literature, Prose
+**Link:** [/works/siraj-ul-wahhaj-sirajuddin-ali-khan-arzu](/works/siraj-ul-wahhaj-sirajuddin-ali-khan-arzu)
+
+Persian prose work by Sirajuddin Ali Khan Arzu, the most influential Indo-Persian philologist and lexicographer of the eighteenth-century Mughal Empire. Arzu, who served at the Delhi court under Nawab Qamar-ud-din Khan from 1719, was mentor to prominent poets including Mir Taqi Mir and Mirza Muhammad Rafi Sauda, and was the first scholar to propose that Sanskrit belongs to the Indo-European language family.
+
+---
+
+### 180. Siddhānta Śiromaṇi (Crown of Treatises)
 
 **Author(s):** Bhāskarācārya II, tr. Lancelot Wilkinson, ed. Bapu Deva Sastri  
 **Year:** 1861  
@@ -2180,7 +2204,7 @@ Monumental 12th-century Sanskrit treatise on mathematics and astronomy comprisin
 
 ---
 
-### 179. Siddhartha
+### 181. Siddhartha
 
 **Author(s):** Hermann Hesse  
 **Year:** 1922  
@@ -2192,7 +2216,7 @@ Siddhartha by Hermann Hesse (1922) - A profound spiritual novel exploring the jo
 
 ---
 
-### 180. South Indian Images of Gods and Goddesses
+### 182. South Indian Images of Gods and Goddesses
 
 **Author(s):** Hirananda Krishna Sastri  
 **Year:** 1916  
@@ -2204,7 +2228,7 @@ Published in 1916 by the Madras Government Museum, this study represents early s
 
 ---
 
-### 181. South Indian Inscriptions, Vol. I
+### 183. South Indian Inscriptions, Vol. I
 
 **Author(s):** Archaeological Survey of India  
 **Year:** 1890  
@@ -2216,7 +2240,7 @@ South Indian Inscriptions, Vol. I by Archaeological Survey of India (1890) - A s
 
 ---
 
-### 182. Storia do Mogor: Mogul India 1653-1708
+### 184. Storia do Mogor: Mogul India 1653-1708
 
 **Author(s):** Niccolò Manucci, ed. William Irvine  
 **Year:** 1907  
@@ -2228,7 +2252,7 @@ The *Storia do Mogor* ('Story of the Mughal Empire') is Venetian adventurer Nicc
 
 ---
 
-### 183. Sva
+### 185. Sva
 
 **Author(s):** George C. M. Birdwood  
 **Year:** 1915  
@@ -2240,7 +2264,7 @@ Birdwood (1915) - A significant work from the Colonial India - British Raj, repr
 
 ---
 
-### 184. Tales from the Indian Epics
+### 186. Tales from the Indian Epics
 
 **Author(s):** Charles Augustus Kincaid  
 **Year:** 1918  
@@ -2252,7 +2276,7 @@ Charles Kincaid's 1918 collection adapts episodic tales from Mahabharata, Ramaya
 
 ---
 
-### 185. Tateyō Indo (立てよ印度)
+### 187. Tateyō Indo (立てよ印度)
 
 **Author(s):** Yone Noguchi  
 **Year:** 1942  
@@ -2264,7 +2288,7 @@ Yone Noguchi’s wartime manifesto urges Indians to “stand up,” blending rem
 
 ---
 
-### 186. The Administration of the East India Company: A History of Indian Progress
+### 188. The Administration of the East India Company: A History of Indian Progress
 
 **Author(s):** John William Kaye  
 **Year:** 1853  
@@ -2276,7 +2300,7 @@ Published in 1853, this 740-page historical analysis examines the East India Com
 
 ---
 
-### 187. The Aryabhatiya of Aryabhata
+### 189. The Aryabhatiya of Aryabhata
 
 **Author(s):** Aryabhata, Walter Eugene Clark (Translator)  
 **Year:** 499  
@@ -2288,7 +2312,7 @@ Aryabhata's 499 CE astronomical and mathematical treatise in 121 Sanskrit verses
 
 ---
 
-### 188. The Atharva-veda Described
+### 190. The Atharva-veda Described
 
 **Author(s):** Ralph T. H. Griffith (Translator/Editor)  
 **Year:** 1897  
@@ -2300,7 +2324,7 @@ Ralph T. H. Griffith's 1897 selection from the Atharvaveda presents the fourth V
 
 ---
 
-### 189. The Āʾīn-i-Akbarī (English Translation)
+### 191. The Āʾīn-i-Akbarī (English Translation)
 
 **Author(s):** Abu’l-Fazl, tr. Henry Blochmann, tr. H. S. Jarrett  
 **Year:** n.d.  
@@ -2312,7 +2336,7 @@ The Āʾīn-i-Akbarī (English Translation) by Abu’l-Fazl, tr. II–III (Jarre
 
 ---
 
-### 190. The Bābur-nāma (Memoirs of Bābur)
+### 192. The Bābur-nāma (Memoirs of Bābur)
 
 **Author(s):** Ẓahīr-ud-Dīn Muḥammad Bābur, tr. Annette Susannah Beveridge  
 **Year:** 1922  
@@ -2324,7 +2348,7 @@ Annette Beveridge's 1922 English translation of Babur's Chagatai Turkic memoirs 
 
 ---
 
-### 191. The Babur-Nāma (Memoirs of Babur) — English Translation
+### 193. The Babur-Nāma (Memoirs of Babur) — English Translation
 
 **Author(s):** Ẓahīr-ud-Dīn Muhammad Babur, tr. Annette Susannah Beveridge  
 **Year:** n.d.  
@@ -2336,7 +2360,7 @@ The Babur-Nāma (Memoirs of Babur) — English Translation by Ẓahīr-ud-Dīn M
 
 ---
 
-### 192. The Bakhshali Manuscript: Ancient Indian Mathematics
+### 194. The Bakhshali Manuscript: Ancient Indian Mathematics
 
 **Author(s):** Unknown, Rudolf Hoernlé  
 **Year:** 900  
@@ -2348,7 +2372,7 @@ The Bakhshali Manuscript, an ancient Indian mathematical treatise from the 9th-1
 
 ---
 
-### 193. The Beginnings of Buddhist Art and Other Essays in Indian and Central-Asian Archaeology
+### 195. The Beginnings of Buddhist Art and Other Essays in Indian and Central-Asian Archaeology
 
 **Author(s):** Alfred Foucher  
 **Year:** 1917  
@@ -2360,7 +2384,7 @@ Alfred Foucher's foundational 1917 essays address Buddhist art's origins and dev
 
 ---
 
-### 194. The Bengal Tenancy Act (Annotated Edition)
+### 196. The Bengal Tenancy Act (Annotated Edition)
 
 **Author(s):** R. F. Rampini  
 **Year:** 1889  
@@ -2372,7 +2396,7 @@ R. F. Rampini’s 1889 Calcutta edition reproduces the Bengal Tenancy Act of 188
 
 ---
 
-### 195. The Bhagavad Gita
+### 197. The Bhagavad Gita
 
 **Author(s):** Vyasa (Traditional), Unknown Translator  
 **Year:** 1899  
@@ -2384,7 +2408,7 @@ This 1899 English translation of the Bhagavad Gita, published by the Christian L
 
 ---
 
-### 196. The Birds of India, Being a Natural History of the Birds Known to Inhabit Continental India
+### 198. The Birds of India, Being a Natural History of the Birds Known to Inhabit Continental India
 
 **Author(s):** Thomas C. Jerdon  
 **Year:** 1862  
@@ -2396,7 +2420,7 @@ The Birds of India, Being a Natural History of the Birds Known to Inhabit Contin
 
 ---
 
-### 197. The Bṛhad-devatā: A Summary of the Deities and Myths of the Rigveda
+### 199. The Bṛhad-devatā: A Summary of the Deities and Myths of the Rigveda
 
 **Author(s):** Shaunaka, Arthur Anthony Macdonell  
 **Year:** 1904  
@@ -2408,7 +2432,7 @@ A.A. Macdonell's edition and translation of Bṛhad-devatā, ancient text catalo
 
 ---
 
-### 198. The Buddhacharita (Life of Buddha)
+### 200. The Buddhacharita (Life of Buddha)
 
 **Author(s):** Aśvaghoṣa, Edward Byles Cowell  
 **Year:** 1894  
@@ -2420,7 +2444,7 @@ The Buddhacharita (Acts of the Buddha) is a 2nd-century CE Sanskrit epic poem in
 
 ---
 
-### 199. The Cambridge History of India, Volume 1: Ancient India
+### 201. The Cambridge History of India, Volume 1: Ancient India
 
 **Author(s):** E. J. Rapson  
 **Year:** 1922  
@@ -2432,7 +2456,7 @@ E.J. Rapson's foundational volume of The Cambridge History of India, providing c
 
 ---
 
-### 200. The Case for India
+### 202. The Case for India
 
 **Author(s):** Annie Besant  
 **Year:** 1917  
@@ -2444,7 +2468,7 @@ The Case for India by Annie Besant (1917) - A significant work from the Colonial
 
 ---
 
-### 201. The complete revenue guide for imports and exports
+### 203. The complete revenue guide for imports and exports
 
 **Author(s):** Peter J. Hodgson  
 **Year:** 1809  
@@ -2456,7 +2480,7 @@ Peter J. Hodgson’s handbook collates the customs duties, drawbacks, and legal 
 
 ---
 
-### 202. The Dabistán, or School of Manners
+### 204. The Dabistán, or School of Manners
 
 **Author(s):** Mohsin Fani (authorship contested), tr. David Shea, tr. Anthony Troyer  
 **Year:** 1843  
@@ -2468,7 +2492,7 @@ Peter J. Hodgson’s handbook collates the customs duties, drawbacks, and legal 
 
 ---
 
-### 203. The Dance of Siva: Fourteen Indian Essays
+### 205. The Dance of Siva: Fourteen Indian Essays
 
 **Author(s):** Ananda K. Coomaraswamy  
 **Year:** 1918  
@@ -2480,7 +2504,7 @@ Published in 1918, *The Dance of Siva* stands as the work that introduced Indian
 
 ---
 
-### 204. The Descent of the Sun: A Cycle of Birth
+### 206. The Descent of the Sun: A Cycle of Birth
 
 **Author(s):** F. W. Bain  
 **Year:** 1903  
@@ -2492,7 +2516,7 @@ Published in 1903 with elaborate scholarly apparatus suggesting translation from
 
 ---
 
-### 205. The Early History of India: From 600 B.C. to the Muhammadan Conquest
+### 207. The Early History of India: From 600 B.C. to the Muhammadan Conquest
 
 **Author(s):** Vincent Arthur Smith, Stephen Meredyth Edwardes  
 **Year:** 1924  
@@ -2504,7 +2528,7 @@ The Early History of India: From 600 B.C. to the Muhammadan Conquest, Including 
 
 ---
 
-### 206. The East India Gazetteer
+### 208. The East India Gazetteer
 
 **Author(s):** Walter Hamilton  
 **Year:** 1815  
@@ -2516,7 +2540,7 @@ Walter Hamilton’s 1815 gazetteer arranges alphabetical notices on British Indi
 
 ---
 
-### 207. The East India Trade in the 17th Century
+### 209. The East India Trade in the 17th Century
 
 **Author(s):** Sir Shafaat Ahmad Khan  
 **Year:** 1923  
@@ -2528,7 +2552,7 @@ Examines East India trade from political and economic perspectives, analyzing co
 
 ---
 
-### 208. The Economic History of India
+### 210. The Economic History of India
 
 **Author(s):** Romesh Chunder Dutt  
 **Year:** n.d.  
@@ -2540,7 +2564,7 @@ The Economic History of India by Romesh Chunder Dutt (Vol. I (Early British Rule
 
 ---
 
-### 209. The Embassy of Sir Thomas Roe to the Court of the Great Mogul, 1615–1619
+### 211. The Embassy of Sir Thomas Roe to the Court of the Great Mogul, 1615–1619
 
 **Author(s):** Sir Thomas Roe, ed. William Foster  
 **Year:** 1899  
@@ -2552,7 +2576,7 @@ The Embassy of Sir Thomas Roe to the Court of the Great Mogul, 1615–1619 by Si
 
 ---
 
-### 210. The Fall of the Moghul Empire of Hindustan
+### 212. The Fall of the Moghul Empire of Hindustan
 
 **Author(s):** H. G. Keene  
 **Year:** 1887  
@@ -2564,7 +2588,7 @@ The Fall of the Moghul Empire of Hindustan by H. Keene (1887) - A significant wo
 
 ---
 
-### 211. The Flora of British India
+### 213. The Flora of British India
 
 **Author(s):** Joseph Dalton Hooker (ed.), with collaborators  
 **Year:** 1872  
@@ -2576,7 +2600,7 @@ The Flora of British India by Joseph Dalton Hooker (ed.), with collaborators (18
 
 ---
 
-### 212. The Golden Book of India
+### 214. The Golden Book of India
 
 **Author(s):** Sir Roper Lethbridge  
 **Year:** 1893  
@@ -2588,7 +2612,7 @@ Roper Lethbridge’s 1893 register alphabetically catalogues Indian princes, chi
 
 ---
 
-### 213. The Golden Threshold
+### 215. The Golden Threshold
 
 **Author(s):** Sarojini Naidu  
 **Year:** 1905  
@@ -2600,7 +2624,7 @@ The Golden Threshold by Sarojini Naidu (1905) - A significant work from the Colo
 
 ---
 
-### 214. The Grihya-sûtras: Rules of Vedic Domestic Ceremonies
+### 216. The Grihya-sûtras: Rules of Vedic Domestic Ceremonies
 
 **Author(s):** Unknown, Hermann Oldenberg  
 **Year:** 1886  
@@ -2612,7 +2636,7 @@ Hermann Oldenberg's scholarly translation of the Grihya-sutras, ancient Hindu te
 
 ---
 
-### 215. The Highlands of Central India
+### 217. The Highlands of Central India
 
 **Author(s):** James Forsyth  
 **Year:** 1871  
@@ -2624,7 +2648,7 @@ The Highlands of Central India by James Forsyth (1871 (1889 ed.)) - A significan
 
 ---
 
-### 216. The Hindu Law: Being a Treatise on the Law Administered Exclusively to Hindus by the British Courts in India
+### 218. The Hindu Law: Being a Treatise on the Law Administered Exclusively to Hindus by the British Courts in India
 
 **Author(s):** Herbert Cowell  
 **Year:** 1870  
@@ -2636,7 +2660,7 @@ Herbert Cowell's comprehensive treatise documenting how British colonial courts 
 
 ---
 
-### 217. The Hindu Religious Year
+### 219. The Hindu Religious Year
 
 **Author(s):** Muriel Marion Underhill  
 **Year:** 1921  
@@ -2648,7 +2672,7 @@ Muriel Underhill's comprehensive examination of the Hindu religious calendar and
 
 ---
 
-### 218. The Hindu-Arabic Numerals
+### 220. The Hindu-Arabic Numerals
 
 **Author(s):** David Eugene Smith, Louis Charles Karpinski  
 **Year:** 1911  
@@ -2660,7 +2684,7 @@ Published in 1911 by Ginn and Company, *The Hindu-Arabic Numerals* represents a 
 
 ---
 
-### 219. The History and Management of the East-India Company (Vol. 1)
+### 221. The History and Management of the East-India Company (Vol. 1)
 
 **Author(s):** James Macpherson  
 **Year:** 1782  
@@ -2672,7 +2696,7 @@ James Macpherson’s 1782 first volume reviews the East India Company’s conduc
 
 ---
 
-### 220. The History of India, as Told by Its Own Historians
+### 222. The History of India, as Told by Its Own Historians
 
 **Author(s):** H. M. Elliot, completed by John Dowson  
 **Year:** 1867  
@@ -2684,7 +2708,7 @@ Eight-volume collection of Persian and Arabic chronicles translated into English
 
 ---
 
-### 221. The History of the Bengali Language
+### 223. The History of the Bengali Language
 
 **Author(s):** Bijay Chandra Majumdar  
 **Year:** 1920  
@@ -2696,7 +2720,7 @@ A series of lectures examining Bengali language origins and historical developme
 
 ---
 
-### 222. The History of the Indian Mutiny
+### 224. The History of the Indian Mutiny
 
 **Author(s):** Charles Ball  
 **Year:** 1859  
@@ -2708,7 +2732,7 @@ Charles Ball's two-volume work, published 1858-1859 by the London Printing and P
 
 ---
 
-### 223. The Imperial Gazetteer of India (New Edition)
+### 225. The Imperial Gazetteer of India (New Edition)
 
 **Author(s):** Government of India  
 **Year:** 1908  
@@ -2720,7 +2744,7 @@ Comprehensive 26-volume encyclopedia of British India covering geography, histor
 
 ---
 
-### 224. The Imperial Gazetteer of India, Volume 16
+### 226. The Imperial Gazetteer of India, Volume 16
 
 **Author(s):** Sir William Wilson Hunter (Editor), Great Britain India Office  
 **Year:** 1908  
@@ -2732,7 +2756,7 @@ Part of a comprehensive 26-volume geographical and administrative encyclopedia o
 
 ---
 
-### 225. The Indian Antiquary: A Journal of Oriental Research
+### 227. The Indian Antiquary: A Journal of Oriental Research
 
 **Author(s):** James Burgess (editor)  
 **Year:** 1872  
@@ -2744,7 +2768,7 @@ Pioneering journal founded in 1872 by archaeologist James Burgess facilitating s
 
 ---
 
-### 226. The Indian Calendar: With Tables for the Conversion of Hindu and Muhammadan into A.D. Dates, and Vice Versâ
+### 228. The Indian Calendar: With Tables for the Conversion of Hindu and Muhammadan into A.D. Dates, and Vice Versâ
 
 **Author(s):** Robert Sewell, Sankara Balkrishna Dikshit, Robert Gustav Schram  
 **Year:** 1896  
@@ -2756,7 +2780,7 @@ The Indian Calendar by Robert Sewell, Sankara Balkrishna Dikshit, and Robert Gus
 
 ---
 
-### 227. The Indian Craftsman
+### 229. The Indian Craftsman
 
 **Author(s):** Ananda K. Coomaraswamy  
 **Year:** 1909  
@@ -2768,7 +2792,7 @@ Coomaraswamy critiques the decline of traditional Indian craftsmanship under col
 
 ---
 
-### 228. The Indian Empire: Its Peoples, History, and Products
+### 230. The Indian Empire: Its Peoples, History, and Products
 
 **Author(s):** W. W. Hunter  
 **Year:** 1886  
@@ -2780,7 +2804,7 @@ The Indian Empire: Its Peoples, History, and Products by W. 1907) - A significan
 
 ---
 
-### 229. The Indian Musalmans: Are They Bound in Conscience to Rebel Against the Queen?
+### 231. The Indian Musalmans: Are They Bound in Conscience to Rebel Against the Queen?
 
 **Author(s):** W. W. Hunter  
 **Year:** 1871  
@@ -2792,7 +2816,7 @@ Colonial analysis examining whether Islamic law obligated Indian Muslims to rebe
 
 ---
 
-### 230. The Kalpa Sutra and Nava Tatva
+### 232. The Kalpa Sutra and Nava Tatva
 
 **Author(s):** Bhadrabahu, John Stevenson  
 **Year:** 1848  
@@ -2804,7 +2828,7 @@ This 1848 translation presents two foundational Jain texts: the Kalpa Sutra, att
 
 ---
 
-### 231. The Kathá Sarit Ságara: Or, Ocean of the Streams of Story
+### 233. The Kathá Sarit Ságara: Or, Ocean of the Streams of Story
 
 **Author(s):** Somadeva Bhaṭṭa, tr. C. H. Tawney  
 **Year:** 1880  
@@ -2816,7 +2840,7 @@ The Kathasaritsagara (Ocean of the Streams of Story) by Somadeva Bhatta, transla
 
 ---
 
-### 232. The Land Systems of British India (Vol. 1)
+### 234. The Land Systems of British India (Vol. 1)
 
 **Author(s):** Baden Henry Baden-Powell  
 **Year:** 1892  
@@ -2828,7 +2852,7 @@ Baden Henry Baden-Powell’s 1892 manual compares the principal land-tenure and 
 
 ---
 
-### 233. The Law Relating to India and the East-India Company
+### 235. The Law Relating to India and the East-India Company
 
 **Author(s):** East India Company, Great Britain  
 **Year:** 1855  
@@ -2840,7 +2864,7 @@ This 1855 folio gathers charters, parliamentary statutes, and Company regulation
 
 ---
 
-### 234. The Laws of Manu (Manusmriti)
+### 236. The Laws of Manu (Manusmriti)
 
 **Author(s):** Manu, Georg Bühler  
 **Year:** 1886  
@@ -2852,7 +2876,7 @@ Georg Bühler's scholarly translation of the Manusmriti, one of the foundational
 
 ---
 
-### 235. The Life of Shivaji Maharaj
+### 237. The Life of Shivaji Maharaj
 
 **Author(s):** K. A. Keluskar, N. S. Takakhav  
 **Year:** 1921  
@@ -2864,7 +2888,7 @@ The Life of Shivaji Maharaj by K. A. Keluskar and N. S. Takakhav (1921) - A comp
 
 ---
 
-### 236. The Little Clay Cart (Mṛcchakatika)
+### 238. The Little Clay Cart (Mṛcchakatika)
 
 **Author(s):** Śūdraka  
 **Year:** 400  
@@ -2876,7 +2900,7 @@ The Little Clay Cart (Mṛcchakatika) by Śūdraka (c. 4th-5th century CE) - One
 
 ---
 
-### 237. The Loves of Krishna in Indian Painting and Poetry
+### 239. The Loves of Krishna in Indian Painting and Poetry
 
 **Author(s):** W. G. Archer  
 **Year:** 1957  
@@ -2888,7 +2912,7 @@ Published in 1957 by George Allen and Unwin, W.G. The work emerged from Archer's
 
 ---
 
-### 238. The Mahabharata of Krishna-Dwaipayana Vyasa (Ganguli tr.)
+### 240. The Mahabharata of Krishna-Dwaipayana Vyasa (Ganguli tr.)
 
 **Author(s):** Vyasa, Kisari Mohan Ganguli  
 **Year:** 1883  
@@ -2900,7 +2924,7 @@ Kisari Mohan Ganguli's monumental complete English translation (1883-1896), firs
 
 ---
 
-### 239. The Natural History of the Mammalia of India and Ceylon
+### 241. The Natural History of the Mammalia of India and Ceylon
 
 **Author(s):** R. A. Sterndale  
 **Year:** 1884  
@@ -2912,7 +2936,7 @@ The Natural History of the Mammalia of India and Ceylon by R. Sterndale (1884) -
 
 ---
 
-### 240. The Oxford History of India: From the Earliest Times to the End of 1911
+### 242. The Oxford History of India: From the Earliest Times to the End of 1911
 
 **Author(s):** Vincent Arthur Smith, Stephen Meredyth Edwardes  
 **Year:** 1919  
@@ -2924,7 +2948,7 @@ Vincent Arthur Smith's monumental chronicle spans Indian civilization from ancie
 
 ---
 
-### 241. The Panchasiddhantika of Varahamihira
+### 243. The Panchasiddhantika of Varahamihira
 
 **Author(s):** Varahamihira, G. Thibaut (Translator), Sudhakara Dvivedi (Editor)  
 **Year:** 575  
@@ -2936,7 +2960,7 @@ Varahamihira's 6th-century compendium summarizing five earlier astronomical trea
 
 ---
 
-### 242. The Panchatantra: A Collection of Ancient Hindu Tales in the Panchakhyanaka Recension
+### 244. The Panchatantra: A Collection of Ancient Hindu Tales in the Panchakhyanaka Recension
 
 **Author(s):** Purnabhadra, Johannes Hertel  
 **Year:** 1908  
@@ -2948,7 +2972,7 @@ Johannes Hertel's scholarly edition of the Panchatantra based on the Panchakhyan
 
 ---
 
-### 243. The Path of Purity (Visuddhimagga)
+### 245. The Path of Purity (Visuddhimagga)
 
 **Author(s):** Buddhaghosa, tr. Pe Maung Tin  
 **Year:** 1922  
@@ -2960,7 +2984,7 @@ The *Visuddhimagga* ('Path of Purification') stands as Theravada Buddhism's most
 
 ---
 
-### 244. The Periplus of the Erythraean Sea
+### 246. The Periplus of the Erythraean Sea
 
 **Author(s):** Anonymous, tr. Wilfred H. Schoff  
 **Year:** 1912  
@@ -2972,7 +2996,7 @@ A compact mariner's handbook from the 1st century CE detailing the Red Sea–Ara
 
 ---
 
-### 245. The Philosophy of the Upanishads and Ancient Indian Metaphysics
+### 247. The Philosophy of the Upanishads and Ancient Indian Metaphysics
 
 **Author(s):** Archibald Edward Gough  
 **Year:** 1882  
@@ -2984,7 +3008,7 @@ Archibald Gough's comprehensive examination of Upanishadic philosophy and ancien
 
 ---
 
-### 246. The Poison Tree: A Tale of Hindu Life in Bengal
+### 248. The Poison Tree: A Tale of Hindu Life in Bengal
 
 **Author(s):** Bankim Chandra Chatterjee, Miriam S. Knight (translator)  
 **Year:** 1873  
@@ -2996,7 +3020,7 @@ Bankim Chandra Chatterjee's 1873 Bengali novel (translated 1884) examines widow 
 
 ---
 
-### 247. The Popular Religion and Folk-Lore of Northern India
+### 249. The Popular Religion and Folk-Lore of Northern India
 
 **Author(s):** William Crooke  
 **Year:** 1896  
@@ -3008,7 +3032,7 @@ First published in 1894 as *An Introduction to the Popular Religion and Folklore
 
 ---
 
-### 248. The Portuguese in India
+### 250. The Portuguese in India
 
 **Author(s):** Frederic Charles Danvers  
 **Year:** 1894  
@@ -3020,7 +3044,7 @@ The Portuguese in India by Frederic Charles Danvers (1894) - A significant work 
 
 ---
 
-### 249. The Practical Sanskrit-English Dictionary
+### 251. The Practical Sanskrit-English Dictionary
 
 **Author(s):** Vaman Shivram Apte  
 **Year:** 1890  
@@ -3032,7 +3056,7 @@ First published in 1890, Vaman Shivram Apte's *Practical Sanskrit-English Dictio
 
 ---
 
-### 250. The Private Life of Warren Hastings: First Governor-General of India
+### 252. The Private Life of Warren Hastings: First Governor-General of India
 
 **Author(s):** Sir Charles Lawson  
 **Year:** 1895  
@@ -3044,7 +3068,7 @@ Biographical work examining Warren Hastings' personal life and character beyond 
 
 ---
 
-### 251. The Racial History of India
+### 253. The Racial History of India
 
 **Author(s):** Chandra Chakraberty  
 **Year:** 1922  
@@ -3056,7 +3080,7 @@ The Racial History of India by Chandra Chakraberty (1922) - An early 20th-centur
 
 ---
 
-### 252. The Raghuvamsa of Kalidasa
+### 254. The Raghuvamsa of Kalidasa
 
 **Author(s):** Kalidasa, Mallinatha Suri, M. R. Kale  
 **Year:** 1922  
@@ -3068,7 +3092,7 @@ M.R. Kale's 1922 scholarly edition of Kalidasa's Raghuvamsa—19 cantos chronicl
 
 ---
 
-### 253. The Rāmāyan of Vālmīki (Griffith verse trans.)
+### 255. The Rāmāyan of Vālmīki (Griffith verse trans.)
 
 **Author(s):** R. T. H. Griffith (translator)  
 **Year:** 1895  
@@ -3080,7 +3104,7 @@ The Rāmāyan of Vālmīki (Griffith verse trans.) by R. Griffith (translator) (
 
 ---
 
-### 254. The Religions of India
+### 256. The Religions of India
 
 **Author(s):** Edward Washburn Hopkins  
 **Year:** 1895  
@@ -3092,7 +3116,7 @@ The Religions of India by Edward Washburn Hopkins (1895) - A significant work fr
 
 ---
 
-### 255. The Sacred Books and Early Literature of the East, Volumes I-II: Babylonia, Assyria, and Egypt
+### 257. The Sacred Books and Early Literature of the East, Volumes I-II: Babylonia, Assyria, and Egypt
 
 **Author(s):** Charles Francis Horne, Morris Jastrow Jr., James Henry Breasted  
 **Year:** 1917  
@@ -3104,7 +3128,7 @@ Fourteen-volume compilation of sacred texts and early literature from ancient ci
 
 ---
 
-### 256. The Sacred Books of the East, Hindu Series, Volume 3
+### 258. The Sacred Books of the East, Hindu Series, Volume 3
 
 **Author(s):** Various Contributors  
 **Year:** 1897  
@@ -3116,7 +3140,7 @@ This 456-page volume, published in 1897 by the Christian Literature Society for 
 
 ---
 
-### 257. The Sacred Books of the East, Volume I: The Upanishads, Part 1
+### 259. The Sacred Books of the East, Volume I: The Upanishads, Part 1
 
 **Author(s):** F. Max Müller  
 **Year:** 1879  
@@ -3128,7 +3152,7 @@ Inaugural volume of Max Müller's fifty-volume translation series (1879-1910) br
 
 ---
 
-### 258. The Sacred Laws of the Âryas: As Taught in the Schools of Âpastamba, Gautama, Vâsishtha, and Baudhâyana
+### 260. The Sacred Laws of the Âryas: As Taught in the Schools of Âpastamba, Gautama, Vâsishtha, and Baudhâyana
 
 **Author(s):** Apastamba, Gautama, Vasishtha, Baudhayana, Georg Bühler  
 **Year:** 1879  
@@ -3140,7 +3164,7 @@ Georg Bühler's scholarly translation of four foundational Hindu legal texts (Dh
 
 ---
 
-### 259. The Sankhya Aphorisms of Kapila
+### 261. The Sankhya Aphorisms of Kapila
 
 **Author(s):** Kapila, tr. James R. Ballantyne  
 **Year:** 1852  
@@ -3152,7 +3176,7 @@ Ballantyne's translation of *The Sankhya Aphorisms of Kapila* (1852, reprinted 2
 
 ---
 
-### 260. The Sanskrit Buddhist Literature of Nepal
+### 262. The Sanskrit Buddhist Literature of Nepal
 
 **Author(s):** Rajendralala Mitra  
 **Year:** 1882  
@@ -3164,7 +3188,7 @@ Pioneering survey documenting Sanskrit Buddhist manuscripts preserved in Nepal's
 
 ---
 
-### 261. The Sarva-Darsana-Samgraha: Review of the Different Systems of Hindu Philosophy
+### 263. The Sarva-Darsana-Samgraha: Review of the Different Systems of Hindu Philosophy
 
 **Author(s):** Madhavacharya, Edward Byles Cowell, Archibald Edward Gough  
 **Year:** 1882  
@@ -3176,7 +3200,7 @@ Madhavacharya's comprehensive 14th-century survey of sixteen Hindu philosophical
 
 ---
 
-### 262. The Science of Breath and the Philosophy of the Tattvas
+### 264. The Science of Breath and the Philosophy of the Tattvas
 
 **Author(s):** Rama Prasada, G. R. S. Mead  
 **Year:** 1894  
@@ -3188,7 +3212,7 @@ Rama Prasada's scholarly exploration of ancient Hindu teachings on breath contro
 
 ---
 
-### 263. The Sikh Religion: Its Gurus, Sacred Writings and Authors (Six Volumes)
+### 265. The Sikh Religion: Its Gurus, Sacred Writings and Authors (Six Volumes)
 
 **Author(s):** Max Arthur Macauliffe  
 **Year:** 1909  
@@ -3200,7 +3224,7 @@ Monumental six-volume English translation and study of Sikhism by Max Arthur Mac
 
 ---
 
-### 264. The Silappadikaram
+### 266. The Silappadikaram
 
 **Author(s):** Ilango Adigal, V.R. Ramachandra Dikshitar (Translator)  
 **Year:** 1939  
@@ -3212,7 +3236,7 @@ Early English rendering of the ancient Tamil epic Cilappatikaram, telling the tr
 
 ---
 
-### 265. The Thirteen Principal Upanishads
+### 267. The Thirteen Principal Upanishads
 
 **Author(s):** Robert Ernest Hume (Translator)  
 **Year:** 1921  
@@ -3224,7 +3248,7 @@ Presents translations of thirteen key Upanishads from Sanskrit, accompanied by p
 
 ---
 
-### 266. The Travels of Ibn Battuta
+### 268. The Travels of Ibn Battuta
 
 **Author(s):** Ibn Battuta, H.A.R. Gibb (Translator)  
 **Year:** 1354  
@@ -3236,7 +3260,7 @@ Ibn Battuta's Rihla chronicles his 29-year journey (1325-1354) through the Islam
 
 ---
 
-### 267. The Travels of Marco Polo: India Sections
+### 269. The Travels of Marco Polo: India Sections
 
 **Author(s):** Marco Polo, Henry Yule (Editor/Translator)  
 **Year:** 1298  
@@ -3248,7 +3272,7 @@ Marco Polo's travel account, dictated to Rustichello da Pisa in 1298 while impri
 
 ---
 
-### 268. The Tribes and Castes of Bengal — Anthropometric Data & Ethnographic Glossary
+### 270. The Tribes and Castes of Bengal — Anthropometric Data & Ethnographic Glossary
 
 **Author(s):** H. H. Risley  
 **Year:** 1891  
@@ -3260,7 +3284,7 @@ The Tribes and Castes of Bengal — Anthropometric Data & Ethnographic Glossary 
 
 ---
 
-### 269. The Tribes and Castes of Bengal: Ethnographic Glossary
+### 271. The Tribes and Castes of Bengal: Ethnographic Glossary
 
 **Author(s):** Herbert Hope Risley  
 **Year:** 1891  
@@ -3272,7 +3296,7 @@ Four-volume ethnographic survey resulting from 1885 Bengal Ethnographic Survey, 
 
 ---
 
-### 270. The Trident, The Crescent and The Cross: A View of the Religious History of India During the Hindu, Buddhist, Mohammedan and Christian Periods
+### 272. The Trident, The Crescent and The Cross: A View of the Religious History of India During the Hindu, Buddhist, Mohammedan and Christian Periods
 
 **Author(s):** Herbert M. Vaughan  
 **Year:** 1907  
@@ -3284,7 +3308,7 @@ Herbert M. Vaughan's comprehensive survey traces India's religious history from 
 
 ---
 
-### 271. The Tuzuk-i-Jahāngīrī: Memoirs of Jahangir
+### 273. The Tuzuk-i-Jahāngīrī: Memoirs of Jahangir
 
 **Author(s):** Jahāngīr, Emperor of Hindustan, tr. Alexander Rogers, ed. Henry Beveridge  
 **Year:** 1909  
@@ -3296,7 +3320,7 @@ The Tuzuk-i-Jahāngīrī ('Institutes of Jahangir') is Jahāngīr's (1569-1627) 
 
 ---
 
-### 272. The University of Nalanda
+### 274. The University of Nalanda
 
 **Author(s):** Hasmukh Dhirajlal Sankalia  
 **Year:** 1934  
@@ -3308,7 +3332,7 @@ Hasmukh D. Sankalia's 1934 study examines ancient Buddhist monastic university i
 
 ---
 
-### 273. The Vedānta-Sūtras with Commentaries by Śankarācārya and Rāmānuja
+### 275. The Vedānta-Sūtras with Commentaries by Śankarācārya and Rāmānuja
 
 **Author(s):** Bādarāyaṇa (Vedānta-Sūtras), Śankarācārya (commentary), Rāmānuja (commentary), George Thibaut (translator)  
 **Year:** 1890  
@@ -3320,7 +3344,7 @@ George Thibaut's translation of the *Vedānta-Sūtras* (also called *Brahma-Sūt
 
 ---
 
-### 274. The Village Gods of South India
+### 276. The Village Gods of South India
 
 **Author(s):** Henry Whitehead  
 **Year:** 1916  
@@ -3332,19 +3356,31 @@ Henry Whitehead's pioneering ethnographic study of South Indian village deities 
 
 ---
 
-### 275. The Viṣṇu Purāṇa: A System of Hindu Mythology and Tradition
+### 277. The Viṣṇu Purāṇa: A System of Hindu Mythology and Tradition
 
-**Author(s):** Horace Hayman Wilson (translator), Manmatha Nath Dutt (prose version)  
-**Year:** 1840  
-**Language(s):** English, Sanskrit  
-**Genre(s):** Mythology, Religious Literature, Translation  
-**Link:** [/works/the-vishnu-purana-wilson](/works/the-vishnu-purana-wilson)  
+**Author(s):** Horace Hayman Wilson (translator), Manmatha Nath Dutt (prose version)
+**Year:** 1840
+**Language(s):** English, Sanskrit
+**Genre(s):** Mythology, Religious Literature, Translation
+**Link:** [/works/the-vishnu-purana-wilson](/works/the-vishnu-purana-wilson)
 
 H.H. Wilson's landmark 1840 translation, the first complete Purana in English. Oxford's first Boden Professor rendered Vaishnava cosmology, mythology, and theology with extensive annotations, establishing foundational frameworks for Puranic studies while pioneering Western access to Hindu sacred literature.
 
 ---
 
-### 276. The Yoga Sutras of Patanjali: The Book of the Spiritual Man
+### 278. The Works of Sir William Jones, Volume I
+
+**Author(s):** Sir William Jones
+**Year:** 1799
+**Language(s):** English
+**Genre(s):** Collected Works, Orientalist Scholarship, Linguistics
+**Link:** [/works/works-of-sir-william-jones-volume-1](/works/works-of-sir-william-jones-volume-1)
+
+Posthumous collected works containing Jones's eleven Anniversary Discourses to the Asiatic Society (1784-1794), including the seminal Third Anniversary Discourse "On the Hindus" (1786) which established the common ancestry of Sanskrit, Greek, and Latin—the cornerstone of comparative linguistics.
+
+---
+
+### 279. The Yoga Sutras of Patanjali: The Book of the Spiritual Man
 
 **Author(s):** Patañjali, Charles Johnston (translator)  
 **Year:** 1912  
@@ -3356,7 +3392,7 @@ Charles Johnston's 1912 Theosophically-framed translation of Patanjali's Yoga Su
 
 ---
 
-### 277. The Yoga-System of Patañjali: Or, The Ancient Hindu Doctrine of Concentration of Mind
+### 280. The Yoga-System of Patañjali: Or, The Ancient Hindu Doctrine of Concentration of Mind
 
 **Author(s):** Patañjali, commentary by Vyāsa, sub-commentary by Vācaspati Miśra, tr. James Haughton Woods  
 **Year:** 1914  
@@ -3368,7 +3404,7 @@ The Yoga-System of Patañjali, translated by James Haughton Woods in 1914, repre
 
 ---
 
-### 278. Things Indian
+### 281. Things Indian
 
 **Author(s):** William Crooke  
 **Year:** 1906  
@@ -3380,7 +3416,7 @@ Things Indian by William Crooke (1906) - A significant work from the Colonial In
 
 ---
 
-### 279. Third Class in Indian Railways
+### 282. Third Class in Indian Railways
 
 **Author(s):** M. K. Gandhi  
 **Year:** 1917  
@@ -3392,7 +3428,7 @@ Gandhi's exposé of appalling conditions in third-class railway carriages experi
 
 ---
 
-### 280. Thirty Minor Upanishads
+### 283. Thirty Minor Upanishads
 
 **Author(s):** K. Narayanasvami Aiyar  
 **Year:** 1914  
@@ -3404,7 +3440,7 @@ This 280-page volume presents English translations with Sanskrit text of thirty 
 
 ---
 
-### 281. Tirukkuṟaḷ (The Sacred Kural)
+### 284. Tirukkuṟaḷ (The Sacred Kural)
 
 **Author(s):** Thiruvalluvar, tr. George Uglow Pope  
 **Year:** 1886  
@@ -3416,7 +3452,7 @@ Classical Tamil ethical text of 1,330 couplets on virtue, wealth, and love, comp
 
 ---
 
-### 282. Translation of the Surya-Siddhanta
+### 285. Translation of the Surya-Siddhanta
 
 **Author(s):** Lāṭadeva, Ebenezer Burgess  
 **Year:** 1858  
@@ -3428,7 +3464,7 @@ The Surya Siddhanta is an ancient Sanskrit astronomical treatise dated to the 4t
 
 ---
 
-### 283. Travels in India
+### 286. Travels in India
 
 **Author(s):** Jean‑Baptiste Tavernier, tr. V. Ball  
 **Year:** 1889  
@@ -3440,7 +3476,7 @@ Travels in India by Jean‑Baptiste Tavernier, tr. Ball (1889 (Ball translation;
 
 ---
 
-### 284. Travels in the Mogul Empire, A.D. 1656-1668
+### 287. Travels in the Mogul Empire, A.D. 1656-1668
 
 **Author(s):** François Bernier  
 **Year:** 1916  
@@ -3452,7 +3488,7 @@ French physician-philosopher François Bernier's twelve-year Mughal India accoun
 
 ---
 
-### 285. Tukārām Gāthā (Abhangas of Sant Tukaram)
+### 288. Tukārām Gāthā (Abhangas of Sant Tukaram)
 
 **Author(s):** Sant Tukaram  
 **Year:** 1632  
@@ -3464,7 +3500,7 @@ Canonical collection of approximately 4,500 devotional abhangas (hymns) composed
 
 ---
 
-### 286. Tulu-English and English-Tulu Dictionary
+### 289. Tulu-English and English-Tulu Dictionary
 
 **Author(s):** A. Maenner  
 **Year:** 1886  
@@ -3476,7 +3512,7 @@ Printed by the Basel Mission Press at Mangalore in 1886, A. Maenner’s two-part
 
 ---
 
-### 287. Upanishads and Sri Sankara's Commentary: Isa, Kena, and Mundaka
+### 290. Upanishads and Sri Sankara's Commentary: Isa, Kena, and Mundaka
 
 **Author(s):** Adi Shankara, S. Sitarama Sastri  
 **Year:** 1898  
@@ -3488,7 +3524,7 @@ S. Sitarama Sastri's scholarly presentation of three foundational Upanishads wit
 
 ---
 
-### 288. Uttara-Rāma-Charita (Rama's Later History)
+### 291. Uttara-Rāma-Charita (Rama's Later History)
 
 **Author(s):** Bhavabhuti, Shripad Krishna Belvalkar (Editor)  
 **Year:** 1915  
@@ -3500,7 +3536,7 @@ Critical edition of Bhavabhuti's seven-act Sanskrit drama depicting Rama's life 
 
 ---
 
-### 289. Vedânta Philosophy: Three Lectures on Spiritual Unfoldment
+### 292. Vedânta Philosophy: Three Lectures on Spiritual Unfoldment
 
 **Author(s):** Swami Abhedananda  
 **Year:** 1901  
@@ -3512,7 +3548,7 @@ Comprises three lectures addressing spiritual development, specifically covering
 
 ---
 
-### 290. Vedāntasāra of Sadānanda
+### 293. Vedāntasāra of Sadānanda
 
 **Author(s):** Sadānanda Yogīndra, commentary by Āpadeva  
 **Year:** 1911  
@@ -3524,7 +3560,7 @@ Sadānanda Yogīndra's Vedāntasāra with Āpadeva's commentary (1911) is the mo
 
 ---
 
-### 291. Vedic Mythology
+### 294. Vedic Mythology
 
 **Author(s):** Arthur Anthony Macdonell  
 **Year:** 1897  
@@ -3536,7 +3572,7 @@ Vedic Mythology by Arthur Anthony Macdonell (1897) - A comprehensive and scholar
 
 ---
 
-### 292. Vikram and the Vampire; or, Tales of Hindu Devilry
+### 295. Vikram and the Vampire; or, Tales of Hindu Devilry
 
 **Author(s):** Richard Francis Burton  
 **Year:** 1870  
@@ -3548,7 +3584,7 @@ Published in 1870 by Longmans, Green and Co., Sir Richard Francis Burton's *Vikr
 
 ---
 
-### 293. Vikramārjuna Vijaya (Pampa Bhārata)
+### 296. Vikramārjuna Vijaya (Pampa Bhārata)
 
 **Author(s):** Adikavi Pampa  
 **Year:** 941  
@@ -3560,7 +3596,7 @@ First major literary work in Kannada language, composed 941 CE by Jain poet Pamp
 
 ---
 
-### 294. Vikramōrvaśīyam (Urvaśī Won by Valour)
+### 297. Vikramōrvaśīyam (Urvaśī Won by Valour)
 
 **Author(s):** Kālidāsa, ed. Shankar Pandurang Pandit  
 **Year:** 1879  
@@ -3572,7 +3608,7 @@ Five-act Sanskrit drama by Kālidāsa (4th-5th century CE) dramatizing the Rigve
 
 ---
 
-### 295. Wahrhaftige ausfuhrliche Beschreibung der Ostindischen Kusten
+### 298. Wahrhaftige ausfuhrliche Beschreibung der Ostindischen Kusten
 
 **Author(s):** Philippus Baldaeus  
 **Year:** 1672  
@@ -3584,7 +3620,7 @@ Philippus Baldaeus’s 1672 German edition narrates Dutch East India Company cam
 
 ---
 
-### 296. Warren Hastings in Bengal, 1772-1774
+### 299. Warren Hastings in Bengal, 1772-1774
 
 **Author(s):** Mary Evelyn Monckton Jones  
 **Year:** 1918  
@@ -3596,7 +3632,7 @@ Documents Warren Hastings' governorship in Bengal during a critical three-year p
 
 ---
 
-### 297. With Clive in India; or, The Beginnings of an Empire
+### 300. With Clive in India; or, The Beginnings of an Empire
 
 **Author(s):** G. A. Henty  
 **Year:** 1884  
@@ -3608,7 +3644,7 @@ With Clive in India; or, The Beginnings of an Empire by G. Henty (1884) - A sign
 
 ---
 
-### 298. Women in Ancient India: Moral and Literary Studies
+### 301. Women in Ancient India: Moral and Literary Studies
 
 **Author(s):** Clarisse Bader, Mary E. R. Martin (Translator)  
 **Year:** 1925  
@@ -3620,7 +3656,7 @@ Bader examines representations of women in Sanskrit literature including the Ved
 
 ---
 
-### 299. Yājñavalkya Smṛti with the Commentary Mitākṣarā
+### 302. Yājñavalkya Smṛti with the Commentary Mitākṣarā
 
 **Author(s):** Yājñavalkya, commentary by Vijñāneśvara, ed. Wasudev Laxman Shastri Pansikar, tr. Srisa Chandra Vidyarnava  
 **Year:** 1900  
@@ -3632,7 +3668,7 @@ The Yājñavalkya Smṛti is one of the most important Hindu law texts (dharmaś
 
 ---
 
-### 300. Yoga Sastra : the Yoga sutras of Patenjali examined : with a notice of Swami Vivekananda's Yoga philosophy
+### 303. Yoga Sastra : the Yoga sutras of Patenjali examined : with a notice of Swami Vivekananda's Yoga philosophy
 
 **Author(s):** Patañjali, John Murdoch  
 **Year:** 1897  
@@ -3644,7 +3680,7 @@ Scottish missionary John Murdoch examines Patanjali's 196 Yoga Sutras (circa 2nd
 
 ---
 
-### 301. अष्टाध्यायी (1897)
+### 304. अष्टाध्यायी (1897)
 
 **Author(s):** पाणिनी  
 **Year:** 1897  
@@ -3699,7 +3735,7 @@ Panini's Ashtadhyayi treatise (Salatura, Gandhara 350 BCE): 3,959 grammatical su
 
 ### English
 
-277 works
+279 works
 
 - **[A Bibliography of the Sanskrit Drama](/works/a-bibliography-of-the-sanskrit-drama-montgomery-schuyler)** (1906) — Montgomery Schuyler Jr.
 - **[A Classical Dictionary of Hindu Mythology and Religion, Geography, History, and Literature](/works/classical-dictionary-hindu-mythology-religion-geography-history-literature-john-dowson)** (1879) — John Dowson
@@ -3810,6 +3846,7 @@ Panini's Ashtadhyayi treatise (Salatura, Gandhara 350 BCE): 3,959 grammatical su
 - **[India Through the Ages: A Popular and Picturesque History of Hindustan](/works/india-through-the-ages-steel)** (1908) — Flora Annie Steel
 - **[Indian Architecture: Its Psychology, Structure, and History](/works/indian-architecture-its-psychology-structure-and-history-from-the-first-muhannadan-invasion-to-the-present-day-havell)** (1913) — Ernest Binfield Havell
 - **[Indian Fairy Tales](/works/indian-fairy-tales-joseph-jacobs)** (1892) — Joseph Jacobs, illustrated by John D. Batten
+- **[Indian Currency and Finance](/works/indian-currency-and-finance-keynes)** (1913) — John Maynard Keynes
 - **[Indian Myth and Legend](/works/indian-myth-and-legend-mackenzie)** (1913) — Donald A. Mackenzie
 - **[Indian Speeches (1907–1909)](/works/indian-speeches-19071909-john-morley)** (1910) — John Morley
 - **[Indian Unrest](/works/indian-unrest-valentine-chirol)** (1910) — Valentine Chirol
@@ -3957,6 +3994,7 @@ Panini's Ashtadhyayi treatise (Salatura, Gandhara 350 BCE): 3,959 grammatical su
 - **[The Vedānta-Sūtras with Commentaries by Śankarācārya and Rāmānuja](/works/the-vedanta-sutras-thibaut)** (1890) — Bādarāyaṇa (Vedānta-Sūtras), Śankarācārya (commentary), Rāmānuja (commentary), George Thibaut (translator)
 - **[The Village Gods of South India](/works/village-gods-south-india-henry-whitehead)** (1916) — Henry Whitehead
 - **[The Viṣṇu Purāṇa: A System of Hindu Mythology and Tradition](/works/the-vishnu-purana-wilson)** (1840) — Horace Hayman Wilson (translator), Manmatha Nath Dutt (prose version)
+- **[The Works of Sir William Jones, Volume I](/works/works-of-sir-william-jones-volume-1)** (1799) — Sir William Jones
 - **[The Yoga Sutras of Patanjali: The Book of the Spiritual Man](/works/the-yoga-sutras-of-patanjali-johnston)** (1912) — Patañjali, Charles Johnston (translator)
 - **[The Yoga-System of Patañjali: Or, The Ancient Hindu Doctrine of Concentration of Mind](/works/yoga-system-of-patanjali-woods-translation)** (1914) — Patañjali, commentary by Vyāsa, sub-commentary by Vācaspati Miśra, tr. James Haughton Woods
 - **[Things Indian](/works/things-indian-william-crooke)** (1906) — William Crooke
@@ -4068,10 +4106,11 @@ Panini's Ashtadhyayi treatise (Salatura, Gandhara 350 BCE): 3,959 grammatical su
 
 ### Persian
 
-3 works
+4 works
 
 - **[A Grammar of the Persian Language](/works/grammar-of-persian-william-jones)** (1804) — Sir William Jones
 - **[Riyaz-us-Salatin: A History of Bengal](/works/riyaz-us-salatin-history-of-bengal)** (1902) — Ghulam Husain Salim, tr. Maulavi Abdus Salam
+- **[Siraj-ul-Wahhaj (The Brilliant Lamp)](/works/siraj-ul-wahhaj-sirajuddin-ali-khan-arzu)** (1740) — Sirajuddin Ali Khan Arzu
 - **[The Tuzuk-i-Jahāngīrī: Memoirs of Jahangir](/works/tuzuk-i-jahangiri-memoirs-of-jahangir-alexander-rogers-henry-beveridge)** (1909) — Jahāngīr, Emperor of Hindustan, tr. Alexander Rogers, ed. Henry Beveridge
 
 ### Prakrit
