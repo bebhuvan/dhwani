@@ -5,11 +5,11 @@ year: 1935
 language: ["Hindi"]
 genre: ["Poetry", "Chhayavad", "Free Verse"]
 description: "Hindi lyric collection employing sustained sakhi (confidante) address in free-verse Chhayavad idiom, interweaving introspection, ethical argument, and social observation within modernist experimentation that reshaped Hindi prosody during the interwar period."
-collections: ['verified-batch-5']
+collections: ['modern-literature']
 sources:
   - name: "Internet Archive (DLI Collection)"
     url: "https://archive.org/details/dli.ernet.522400"
-    type: "archive"
+    type: "other"
   - name: "Hindwi - Nirala Poetry Collection"
     url: "https://www.hindwi.org/poets/surykant-tripathi-nirala/all"
     type: "other"
@@ -22,7 +22,7 @@ references:
     type: "openlibrary"
   - name: "Project Gutenberg search"
     url: "https://www.gutenberg.org/ebooks/search/?query=Suryakant%20Tripathi%20Nirala"
-    type: "gutenberg"
+    type: "other"
 featured: false
 publishDate: 2025-11-01
 tags: ["Hindi Poetry", "Chhayavad", "Nirala", "Modernist Poetry", "Free Verse", "20th Century Literature", "Indian Poetry"]
@@ -42,6 +42,7 @@ Suryakant Tripathi 'Nirala' (1896–1961) stands as a central figure in Hindi mo
 
 **Formal Innovation:**
 The collection's organizing principle—sustained address to "sakhi"—creates a rhetorical structure enabling:
+
 - Oscillation between counsel and self-reproach
 - Intimate register combined with philosophical inquiry
 - Ethical questioning without authoritative resolution
@@ -49,12 +50,14 @@ The collection's organizing principle—sustained address to "sakhi"—creates a
 
 **Prosodic Technique:**
 Nirala's free verse breaks from syllabic regularity while retaining:
+
 - Internal rhyme and alliteration supporting tonal shifts
 - Variable line length reflecting thought movement
 - Sound patterns echoing classical Hindi/Sanskrit prosody without strict meter
 - Strategic use of caesura and enjambment
 
 **Thematic Range:**
+
 - Concrete sensuous detail transitioning into abstract statement
 - Perception and memory as ethical questions
 - Individual consciousness and social responsibility
@@ -68,6 +71,7 @@ Nirala, alongside Jayshankar Prasad, Sumitranandan Pant, and Mahadevi Varma, led
 
 **Nirala's Distinctiveness:**
 Within Chhayavad, Nirala's work stands apart through:
+
 - More radical formal experimentation with prosody
 - Stronger engagement with social critique and caste oppression
 - Philosophical rigor combined with emotional intensity
@@ -76,6 +80,7 @@ Within Chhayavad, Nirala's work stands apart through:
 ## Significance
 
 "Sakhi" demonstrates Nirala's mature technique within the Chhayavad phase:
+
 - Models lyric address as philosophical method
 - Shows free verse's capacity for both intimacy and argument
 - Documents Hindi poetry's modernist self-fashioning
@@ -86,6 +91,7 @@ The collection is frequently studied alongside Nirala's other major works to tra
 ## Reading Approaches
 
 For students and scholars:
+
 - Map the "sakhi" address across poems to understand rhetorical variations
 - Analyze line breaks and enjambment for thought patterning
 - Track sound devices (alliteration, assonance) replacing metrical structure
@@ -100,3 +106,7 @@ For students and scholars:
 ## Digital Access
 
 Available through Digital Library of India via Internet Archive, scanned from Durga Shah Municipal Public Library, Nainital. Hindi-language text with OCR processing (Tesseract 5.3.0) at 600 PPI resolution enables both reading and computational text analysis.
+
+---
+
+**Note**: This description was generated with assistance from Claude (Anthropic) to ensure scholarly accuracy and comprehensive coverage. All factual claims have been verified against authoritative sources including Wikipedia, academic publications, and primary source materials.

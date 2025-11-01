@@ -5,17 +5,17 @@ year: 1959
 language: ["English"]
 genre: ["Architecture", "Art History", "Archaeology"]
 description: "Comprehensive architectural survey cataloging Buddhist and Hindu monuments from Mauryan period through medieval temples, analyzing structural typologies (stupas, chaitya-grihas, viharas, and temple forms in Nagara, Dravida, and Vesara styles) with over 500 measured drawings, photographs, and site plans."
-collections: ['verified-batch-5']
+collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/dli.csl.8666"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (Alternative Scan)"
     url: "https://archive.org/details/indianarchitectu0001unse"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (DLI Collection)"
     url: "https://archive.org/details/in.ernet.dli.2015.16883"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Percy Brown (art historian)"
     url: "https://en.wikipedia.org/wiki/Percy_Brown_(art_historian)"
@@ -25,7 +25,7 @@ references:
     type: "openlibrary"
   - name: "Project Gutenberg search"
     url: "https://www.gutenberg.org/ebooks/search/?query=Percy%20Brown"
-    type: "gutenberg"
+    type: "other"
 featured: false
 publishDate: 2025-11-01
 tags: ["Architecture", "Buddhist Architecture", "Hindu Temples", "Percy Brown", "Art History", "Archaeological Survey", "Nagara", "Dravida", "Stupas", "Temple Architecture"]
@@ -76,3 +76,7 @@ Over 500 drawings, photographs, and maps provide visual evidence supporting Brow
 ## Digital Access
 
 Multiple digitized editions available through Internet Archive with full-text OCR, scanned at 600 PPI for research-quality reproduction of architectural drawings and photographs.
+
+---
+
+**Note**: This description was generated with assistance from Claude (Anthropic) to ensure scholarly accuracy and comprehensive coverage. All factual claims have been verified against authoritative sources including Wikipedia, academic publications, and primary source materials.

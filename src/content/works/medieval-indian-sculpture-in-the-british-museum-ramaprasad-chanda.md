@@ -5,14 +5,14 @@ year: 1936
 language: ["English"]
 genre: ["Art History", "Museum Catalogue", "Sculpture"]
 description: "Archaeological Survey of India catalogue documenting medieval stone and bronze sculptures in British Museum collections, analyzing regional stylistic schools (Pala, Chola, Chandella) from seventh through sixteenth centuries with iconographic identification, stylistic attribution, and provenance documentation."
-collections: ['verified-batch-5']
+collections: ['modern-literature']
 sources:
   - name: "Internet Archive (IGNCA)"
     url: "https://archive.org/details/in.gov.ignca.44179"
-    type: "archive"
+    type: "other"
   - name: "IGNCA Digital Library"
     url: "https://ignca.gov.in/Asi_data/44179.pdf"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikisource: Ramaprasad Chanda"
     url: "https://en.wikisource.org/wiki/Author:Ramaprasad_Chanda"
@@ -25,7 +25,7 @@ references:
     type: "openlibrary"
   - name: "Project Gutenberg search"
     url: "https://www.gutenberg.org/ebooks/search/?query=Ramaprasad%20Chanda"
-    type: "gutenberg"
+    type: "other"
 featured: false
 publishDate: 2025-11-01
 tags: ["Indian Sculpture", "Medieval Art", "British Museum", "Ramaprasad Chanda", "Pala Art", "Chola Bronze", "Archaeological Survey", "Museum Catalogue"]
@@ -89,3 +89,7 @@ Chanda's iconographic identifications and stylistic attributions provide baselin
 ## Digital Access
 
 Available through IGNCA (Indira Gandhi National Centre for the Arts) Digital Library and Internet Archive, scanned at 600 PPI with ABBYY FineReader 11.0 OCR processing for text searchability.
+
+---
+
+**Note**: This description was generated with assistance from Claude (Anthropic) to ensure scholarly accuracy and comprehensive coverage. All factual claims have been verified against authoritative sources including Wikipedia, academic publications, and primary source materials.
