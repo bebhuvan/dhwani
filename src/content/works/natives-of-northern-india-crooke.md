@@ -9,7 +9,7 @@ collections: ['regional-voices', 'modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/nativesofnorther00croo"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: William Crooke"
     url: "https://en.wikipedia.org/wiki/William_Crooke"

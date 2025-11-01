@@ -9,7 +9,7 @@ collections: ['regional-voices']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/comparativegramm00caldrich"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikisource"
     url: "https://en.wikisource.org/wiki/Index:A_comparative_grammar_of_the_Dravidian_or_South-Indian_family_of_languages_by_Caldwell,_Robert.djvu"
@@ -20,6 +20,9 @@ references:
   - name: "Wikipedia: Dravidian languages"
     url: "https://en.wikipedia.org/wiki/Dravidian_languages"
     type: "wikipedia"
+  - name: "Open Library: Comparative Grammar of Dravidian Languages"
+    url: "https://openlibrary.org/search?q=Comparative+Grammar+Dravidian+Languages+Robert+Caldwell"
+    type: "other"
 featured: false
 publishDate: 2025-09-28
 tags: ["Colonial India - British Raj", "19th century", "British Raj", "independence movement", "cultural renaissance", "nationalism", "literary revival", "Indian literature", "digital heritage", "public domain", "classical texts"]

@@ -9,13 +9,13 @@ collections: ["modern-literature", "regional-voices"]
 sources:
   - name: "Project Gutenberg (Volume 1)"
     url: "https://www.gutenberg.org/ebooks/43681"
-    type: "gutenberg"
+    type: "other"
   - name: "Project Gutenberg (Volume 2)"
     url: "https://www.gutenberg.org/ebooks/43682"
-    type: "gutenberg"
+    type: "other"
   - name: "Internet Archive"
     url: "https://archive.org/details/popularreligion00croogoog"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: William Crooke"
     url: "https://en.wikipedia.org/wiki/William_Crooke"

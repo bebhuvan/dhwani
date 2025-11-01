@@ -9,7 +9,7 @@ collections: ['archaeology', 'ancient-history']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/dli.ministry.20561"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Pataliputra"
     url: "https://en.wikipedia.org/wiki/Pataliputra"

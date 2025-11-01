@@ -9,7 +9,7 @@ collections: ["ancient-wisdom", "classical-literature"]
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/sanskritgrammarf0000macd_a5o8"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Arthur Anthony Macdonell"
     url: "https://en.wikipedia.org/wiki/Arthur_Anthony_Macdonell"

@@ -9,10 +9,14 @@ collections: ['ancient-wisdom', 'spiritual-texts', 'classical-literature']
 sources:
   - name: "Internet Archive - Volume I"
     url: "https://archive.org/details/sacredbooksearly01hornuoft"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive - Volume II"
     url: "https://archive.org/details/sacredbooksearly02hornuoft"
-    type: "archive"
+    type: "other"
+references:
+  - name: "Open Library: Sacred Books Early Literature East"
+    url: "https://openlibrary.org/search?q=Sacred+Books+Early+Literature+East+Charles+Horne"
+    type: "other"
 featured: true
 publishDate: 2025-10-02
 tags: ["Babylonia", "Assyria", "Egypt", "Mesopotamia", "Epic of Gilgamesh", "Code of Hammurabi", "Book of the Dead", "Pyramid Texts", "cuneiform", "hieroglyphics", "ancient Near East", "Charles Francis Horne", "James Breasted", "Morris Jastrow"]

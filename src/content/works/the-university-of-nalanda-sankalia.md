@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/dli.ministry.27389"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Nalanda"
     url: "https://en.wikipedia.org/wiki/Nalanda"

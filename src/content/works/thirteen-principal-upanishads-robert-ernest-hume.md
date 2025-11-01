@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/thirteenprincip00humegoog"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Upanishads"
     url: "https://en.wikipedia.org/wiki/Upanishads"

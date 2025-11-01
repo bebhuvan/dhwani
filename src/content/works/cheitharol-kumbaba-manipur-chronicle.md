@@ -9,7 +9,7 @@ collections: ['regional-history', 'court-chronicles']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.465263"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Cheitharol Kumbaba"
     url: "https://en.wikipedia.org/wiki/Cheitharol_Kumbaba"

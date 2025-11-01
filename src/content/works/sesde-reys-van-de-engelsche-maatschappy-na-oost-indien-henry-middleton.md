@@ -9,7 +9,7 @@ collections: ['ancient-wisdom']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/sesdereysvandeen00midd"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Henry Middleton (East India Company)"
     url: "https://en.wikipedia.org/wiki/Henry_Middleton_(East_India_Company)"

@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'philosophy', 'jain-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.552446"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Haribhadra"
     url: "https://en.wikipedia.org/wiki/Haribhadra"

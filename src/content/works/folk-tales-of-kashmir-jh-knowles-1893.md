@@ -9,13 +9,13 @@ collections: ['folklore-collection', 'oral-literature']
 sources:
   - name: "Internet Archive (University of Toronto)"
     url: "https://archive.org/details/folktalesofkashm00knowuoft"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (IGNCA)"
     url: "https://archive.org/details/in.gov.ignca.12748"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (DLI)"
     url: "https://archive.org/details/in.ernet.dli.2015.281410"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: James Hinton Knowles"
     url: "https://en.wikipedia.org/wiki/James_Hinton_Knowles"

@@ -9,7 +9,7 @@ collections: ['modern-literature', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/bibliographyofsa03schuuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikisource: Introduction"
     url: "https://en.wikisource.org/wiki/Bibliography_of_the_Sanskrit_Drama/Introduction"

@@ -9,7 +9,11 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/oxfordhistoryofi00smituoft"
-    type: "archive"
+    type: "other"
+references:
+  - name: "Open Library: Oxford History of India"
+    url: "https://openlibrary.org/search?q=Oxford+History+India+Vincent+Arthur+Smith"
+    type: "other"
 featured: true
 publishDate: 2025-10-02
 tags: ["British Raj", "Colonial scholarship", "Indology", "ancient India", "medieval India", "Mughal Empire", "archaeology", "historical reference", "Vincent Arthur Smith", "Oxford University Press", "comprehensive history", "20th century historiography"]

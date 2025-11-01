@@ -1,0 +1,2166 @@
+{
+  "summary": {
+    "total": 41,
+    "valid": 0,
+    "needsWork": 41,
+    "passRate": "0.0%",
+    "avgScore": 23
+  },
+  "valid": [],
+  "needsWork": [
+    {
+      "file": "a-history-of-indian-railways-gs-khosla-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "a-history-of-indian-railways-gs-khosla-3.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "caste-society-and-politics-in-india-from-the-eighteenth-century-to-the-modern-age-susan-bayly-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "caste-society-and-politics-in-india-from-the-eighteenth-century-to-the-modern-age-susan-bayly-3.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "development-of-indian-railways-nalinaksha-sanyal-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "development-of-indian-railways-nalinaksha-sanyal-3.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "encyclopaedia-of-indian-temple-architecture-volume-ii-part-1-text-north-india-foundations-of-north-indian-style-meister-michael-w-dhaky-m-a-and-deva-krishna-editors-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "gandhara-sculpture-from-pakistan-museums-rowland-benjamin-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "imperial-mughal-painting-welch-stuart-cary-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "imperial-mughal-painting-welch-stuart-cary.md",
+      "description": "Scholarly examination of illumination of books and manuscripts and miniature painting from the Mughal period. Represents a significant contribution to understanding imperial Mughal artistic traditions, focusing on the sophisticated visual culture that flourished under Mughal rule.",
+      "valid": false,
+      "score": 8,
+      "specificity": 30,
+      "conciseness": 100,
+      "violations": [
+        {
+          "type": "forbidden_phrase",
+          "phrase": "significant contribution",
+          "severity": "critical"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 1,
+        "major": 1,
+        "minor": 1,
+        "total": 3
+      }
+    },
+    {
+      "file": "indian-architecture-buddhist-and-hindu-periods-brown-percy-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "indian-epigraphy-dineschandra-sircar-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "indian-epigraphy-dineschandra-sircar-3.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "indian-folk-tales-mulk-raj-anand-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "indian-folk-tales-mulk-raj-anand-3.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "kulliyat-e-fani-collected-poems-fani-badayuni-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "kulliyat-e-fani-collected-poems-fani-badayuni-3.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "medieval-indian-sculpture-in-the-british-museum-chanda-ramaprasad-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "pralay-sachindranath-sengupta-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "pralay-sachindranath-sengupta-3.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "report-of-the-silk-panel-chairman-1947-navaratna-rama-rao-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "report-of-the-silk-panel-chairman-1947-navaratna-rama-rao-3.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "sakhi-suryakant-tripathi-nirala-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "sakhi-suryakant-tripathi-nirala-3.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "taxila-an-illustrated-account-of-archaeological-excavations-carried-out-at-taxila-vol-i-structural-remains-marshall-john-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "the-imperial-image-paintings-for-the-mughal-court-beach-milo-cleveland-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "caste-society-and-politics-in-india-from-the-eighteenth-century-to-the-modern-age-susan-bayly.md",
+      "description": "Examines emergence of caste society over 350 years from pre-colonial period to late 20th century. Combines historical and anthropological approaches, treating caste as contingent response to political changes rather than cultural essence.",
+      "valid": false,
+      "score": 20,
+      "specificity": 9,
+      "conciseness": 100,
+      "violations": [
+        {
+          "type": "filler_word",
+          "word": "rather",
+          "count": 1,
+          "severity": "minor"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 2,
+        "total": 3
+      }
+    },
+    {
+      "file": "a-history-of-indian-railways-gs-khosla.md",
+      "description": "Comprehensive historical account commissioned by Railway Board covering development of Indian railway system including early purchases in England, indigenous development, railway stores, and infrastructure evolution.",
+      "valid": false,
+      "score": 27,
+      "specificity": 12,
+      "conciseness": 100,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "gandhara-sculpture-from-pakistan-museums-rowland-benjamin.md",
+      "description": "41-page illustrated survey examining Gandhara sculptural artifacts housed in Pakistani museum collections. Documents Buddhist sculptural traditions that emerged in the Gandhara region, reflecting the Greco-Buddhist artistic synthesis characteristic of that historical period (c. 1st-5th centuries CE). Published by The Asia Society.",
+      "valid": false,
+      "score": 28,
+      "specificity": 27,
+      "conciseness": 80,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "encyclopaedia-of-indian-temple-architecture-volume-ii-part-1-text-north-india-foundations-of-north-indian-style-meister-michael-w-dhaky-m-a-and-deva-krishna-editors.md",
+      "description": "Comprehensive reference work surveying North Indian temple monuments constructed between c. AD 400 and 18th century. Covers Gupta experiments in brick and stone, Vakataka temple-remains, evidence from Western Ghat caves, early Hindu and Buddhist brick structures from eastern India, Mandapika pandals in central India, and pent-roof stone structures of Kashmir. Published by American Institute of Indian Studies.",
+      "valid": false,
+      "score": 33,
+      "specificity": 48,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "medieval-indian-sculpture-in-the-british-museum-chanda-ramaprasad.md",
+      "description": "146-page scholarly work examining medieval Indian sculptural pieces housed in the British Museum collection. Published by Archaeological Survey of India, provides comprehensive catalog and analysis of Indian sculptural art from the medieval period (c. 7th-16th centuries), documenting significant artifacts in stone and bronze.",
+      "valid": false,
+      "score": 34,
+      "specificity": 36,
+      "conciseness": 80,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "the-imperial-image-paintings-for-the-mughal-court-beach-milo-cleveland.md",
+      "description": "Scholarly examination of artistic production created for the Mughal imperial court. Explores painting traditions within the Mughal Empire, analyzing how visual arts functioned in that historical context. Focuses on court-commissioned artistic works and their cultural significance within Islamic painting traditions in India.",
+      "valid": false,
+      "score": 34,
+      "specificity": 36,
+      "conciseness": 80,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "indian-folk-tales-mulk-raj-anand.md",
+      "description": "Illustrated collection of traditional Indian narratives showcasing folk traditions. Published by Government of India with illustrations by P.S. Goray to support educational access to cultural resources.",
+      "valid": false,
+      "score": 40,
+      "specificity": 33,
+      "conciseness": 100,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "indian-architecture-buddhist-and-hindu-periods-brown-percy.md",
+      "description": "Survey treatise on South Asian sacred architecture: stupas and rock‑cut complexes (chaitya‑gṛhas, vihāras) and structural temples (Nāgara, Drāviḍa, Vesara), illustrated with plans and plates and arranged chronologically from early Buddhist sites through medieval Hindu temple traditions (1959 reprint).",
+      "valid": false,
+      "score": 57,
+      "specificity": 41,
+      "conciseness": 80,
+      "violations": [],
+      "summary": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "total": 0
+      }
+    },
+    {
+      "file": "pralay-sachindranath-sengupta.md",
+      "description": "A 1932 Bengali play whose title (“Deluge”, “Upheaval”) signals crisis at the level of family and society. The dramaturgy aligns with interwar theatre’s sharper social focus, where ethical impasses and institutional failures are explored through compressed dialogue and morally ambiguous choices.",
+      "valid": false,
+      "score": 59,
+      "specificity": 40,
+      "conciseness": 100,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 0,
+        "minor": 1,
+        "total": 1
+      }
+    },
+    {
+      "file": "report-of-the-silk-panel-chairman-1947-navaratna-rama-rao.md",
+      "description": "The Chairman’s report of the Silk Panel (1947), addressing production, trade, technology, and policy recommendations for India’s silk sector on the eve of Independence. A key historical document for economic and industrial studies.",
+      "valid": false,
+      "score": 59,
+      "specificity": 40,
+      "conciseness": 100,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 0,
+        "minor": 1,
+        "total": 1
+      }
+    },
+    {
+      "file": "development-of-indian-railways-nalinaksha-sanyal.md",
+      "description": "Academic study based on Ph.D. research conducted at London School of Economics 1927-1929. Analyzes historical development, economic impact, and infrastructure growth of Indian railway system.",
+      "valid": false,
+      "score": 61,
+      "specificity": 44,
+      "conciseness": 100,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 0,
+        "minor": 1,
+        "total": 1
+      }
+    },
+    {
+      "file": "sakhi-suryakant-tripathi-nirala.md",
+      "description": "Hindi lyric kavya (1935) by Suryakant Tripathi ‘Nirālā’ built on the vocative ‘sakhī’ (address to a confidante); free‑verse cadence, introspective argument, and ethical self‑questioning mark its interwar Chāyāvād modernism.",
+      "valid": false,
+      "score": 70,
+      "specificity": 50,
+      "conciseness": 100,
+      "violations": [],
+      "summary": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "total": 0
+      }
+    },
+    {
+      "file": "kulliyat-e-fani-collected-poems-fani-badayuni.md",
+      "description": "Collected Urdu poetry of Fani Badāyunī (1879–1961), composed chiefly as ghazal (with nazm), exhibiting classical radīf/qāfiyā discipline, matlaʿ/maqṭaʿ signatures, and a reflective idiom shaped in early–mid 20th‑century North India (publication year to verify).",
+      "valid": false,
+      "score": 76,
+      "specificity": 60,
+      "conciseness": 100,
+      "violations": [],
+      "summary": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "total": 0
+      }
+    },
+    {
+      "file": "indian-epigraphy-dineschandra-sircar.md",
+      "description": "Treatise (1965) on methods and materials for reading Indian inscriptions: scripts (Brāhmī, Kharoṣṭhī, Gupta), languages (Prakrit, Sanskrit, Dravidian), document types (stone, copper‑plate), and dating formulae, with guidance on palaeography, transcription, and historical use.",
+      "valid": false,
+      "score": 77,
+      "specificity": 62,
+      "conciseness": 100,
+      "violations": [],
+      "summary": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "total": 0
+      }
+    },
+    {
+      "file": "taxila-an-illustrated-account-of-archaeological-excavations-carried-out-at-taxila-vol-i-structural-remains-marshall-john.md",
+      "description": "Authored excavation report (3 vols) on Taxila, directed 1913–1934; Volume I (1951) documents structural remains at Bhir Mound, Sirkap, Sirsukh, and Buddhist monastic/stupa complexes (e.g., Dharmarājikā) with plans, sections, and phased site histories.",
+      "valid": false,
+      "score": 80,
+      "specificity": 66,
+      "conciseness": 100,
+      "violations": [],
+      "summary": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "total": 0
+      }
+    }
+  ],
+  "all": [
+    {
+      "file": "taxila-an-illustrated-account-of-archaeological-excavations-carried-out-at-taxila-vol-i-structural-remains-marshall-john.md",
+      "description": "Authored excavation report (3 vols) on Taxila, directed 1913–1934; Volume I (1951) documents structural remains at Bhir Mound, Sirkap, Sirsukh, and Buddhist monastic/stupa complexes (e.g., Dharmarājikā) with plans, sections, and phased site histories.",
+      "valid": false,
+      "score": 80,
+      "specificity": 66,
+      "conciseness": 100,
+      "violations": [],
+      "summary": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "total": 0
+      }
+    },
+    {
+      "file": "indian-epigraphy-dineschandra-sircar.md",
+      "description": "Treatise (1965) on methods and materials for reading Indian inscriptions: scripts (Brāhmī, Kharoṣṭhī, Gupta), languages (Prakrit, Sanskrit, Dravidian), document types (stone, copper‑plate), and dating formulae, with guidance on palaeography, transcription, and historical use.",
+      "valid": false,
+      "score": 77,
+      "specificity": 62,
+      "conciseness": 100,
+      "violations": [],
+      "summary": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "total": 0
+      }
+    },
+    {
+      "file": "kulliyat-e-fani-collected-poems-fani-badayuni.md",
+      "description": "Collected Urdu poetry of Fani Badāyunī (1879–1961), composed chiefly as ghazal (with nazm), exhibiting classical radīf/qāfiyā discipline, matlaʿ/maqṭaʿ signatures, and a reflective idiom shaped in early–mid 20th‑century North India (publication year to verify).",
+      "valid": false,
+      "score": 76,
+      "specificity": 60,
+      "conciseness": 100,
+      "violations": [],
+      "summary": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "total": 0
+      }
+    },
+    {
+      "file": "sakhi-suryakant-tripathi-nirala.md",
+      "description": "Hindi lyric kavya (1935) by Suryakant Tripathi ‘Nirālā’ built on the vocative ‘sakhī’ (address to a confidante); free‑verse cadence, introspective argument, and ethical self‑questioning mark its interwar Chāyāvād modernism.",
+      "valid": false,
+      "score": 70,
+      "specificity": 50,
+      "conciseness": 100,
+      "violations": [],
+      "summary": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "total": 0
+      }
+    },
+    {
+      "file": "development-of-indian-railways-nalinaksha-sanyal.md",
+      "description": "Academic study based on Ph.D. research conducted at London School of Economics 1927-1929. Analyzes historical development, economic impact, and infrastructure growth of Indian railway system.",
+      "valid": false,
+      "score": 61,
+      "specificity": 44,
+      "conciseness": 100,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 0,
+        "minor": 1,
+        "total": 1
+      }
+    },
+    {
+      "file": "pralay-sachindranath-sengupta.md",
+      "description": "A 1932 Bengali play whose title (“Deluge”, “Upheaval”) signals crisis at the level of family and society. The dramaturgy aligns with interwar theatre’s sharper social focus, where ethical impasses and institutional failures are explored through compressed dialogue and morally ambiguous choices.",
+      "valid": false,
+      "score": 59,
+      "specificity": 40,
+      "conciseness": 100,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 0,
+        "minor": 1,
+        "total": 1
+      }
+    },
+    {
+      "file": "report-of-the-silk-panel-chairman-1947-navaratna-rama-rao.md",
+      "description": "The Chairman’s report of the Silk Panel (1947), addressing production, trade, technology, and policy recommendations for India’s silk sector on the eve of Independence. A key historical document for economic and industrial studies.",
+      "valid": false,
+      "score": 59,
+      "specificity": 40,
+      "conciseness": 100,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 0,
+        "minor": 1,
+        "total": 1
+      }
+    },
+    {
+      "file": "indian-architecture-buddhist-and-hindu-periods-brown-percy.md",
+      "description": "Survey treatise on South Asian sacred architecture: stupas and rock‑cut complexes (chaitya‑gṛhas, vihāras) and structural temples (Nāgara, Drāviḍa, Vesara), illustrated with plans and plates and arranged chronologically from early Buddhist sites through medieval Hindu temple traditions (1959 reprint).",
+      "valid": false,
+      "score": 57,
+      "specificity": 41,
+      "conciseness": 80,
+      "violations": [],
+      "summary": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "total": 0
+      }
+    },
+    {
+      "file": "indian-folk-tales-mulk-raj-anand.md",
+      "description": "Illustrated collection of traditional Indian narratives showcasing folk traditions. Published by Government of India with illustrations by P.S. Goray to support educational access to cultural resources.",
+      "valid": false,
+      "score": 40,
+      "specificity": 33,
+      "conciseness": 100,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "medieval-indian-sculpture-in-the-british-museum-chanda-ramaprasad.md",
+      "description": "146-page scholarly work examining medieval Indian sculptural pieces housed in the British Museum collection. Published by Archaeological Survey of India, provides comprehensive catalog and analysis of Indian sculptural art from the medieval period (c. 7th-16th centuries), documenting significant artifacts in stone and bronze.",
+      "valid": false,
+      "score": 34,
+      "specificity": 36,
+      "conciseness": 80,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "the-imperial-image-paintings-for-the-mughal-court-beach-milo-cleveland.md",
+      "description": "Scholarly examination of artistic production created for the Mughal imperial court. Explores painting traditions within the Mughal Empire, analyzing how visual arts functioned in that historical context. Focuses on court-commissioned artistic works and their cultural significance within Islamic painting traditions in India.",
+      "valid": false,
+      "score": 34,
+      "specificity": 36,
+      "conciseness": 80,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "encyclopaedia-of-indian-temple-architecture-volume-ii-part-1-text-north-india-foundations-of-north-indian-style-meister-michael-w-dhaky-m-a-and-deva-krishna-editors.md",
+      "description": "Comprehensive reference work surveying North Indian temple monuments constructed between c. AD 400 and 18th century. Covers Gupta experiments in brick and stone, Vakataka temple-remains, evidence from Western Ghat caves, early Hindu and Buddhist brick structures from eastern India, Mandapika pandals in central India, and pent-roof stone structures of Kashmir. Published by American Institute of Indian Studies.",
+      "valid": false,
+      "score": 33,
+      "specificity": 48,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "gandhara-sculpture-from-pakistan-museums-rowland-benjamin.md",
+      "description": "41-page illustrated survey examining Gandhara sculptural artifacts housed in Pakistani museum collections. Documents Buddhist sculptural traditions that emerged in the Gandhara region, reflecting the Greco-Buddhist artistic synthesis characteristic of that historical period (c. 1st-5th centuries CE). Published by The Asia Society.",
+      "valid": false,
+      "score": 28,
+      "specificity": 27,
+      "conciseness": 80,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "a-history-of-indian-railways-gs-khosla.md",
+      "description": "Comprehensive historical account commissioned by Railway Board covering development of Indian railway system including early purchases in England, indigenous development, railway stores, and infrastructure evolution.",
+      "valid": false,
+      "score": 27,
+      "specificity": 12,
+      "conciseness": 100,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "caste-society-and-politics-in-india-from-the-eighteenth-century-to-the-modern-age-susan-bayly.md",
+      "description": "Examines emergence of caste society over 350 years from pre-colonial period to late 20th century. Combines historical and anthropological approaches, treating caste as contingent response to political changes rather than cultural essence.",
+      "valid": false,
+      "score": 20,
+      "specificity": 9,
+      "conciseness": 100,
+      "violations": [
+        {
+          "type": "filler_word",
+          "word": "rather",
+          "count": 1,
+          "severity": "minor"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 2,
+        "total": 3
+      }
+    },
+    {
+      "file": "a-history-of-indian-railways-gs-khosla-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "a-history-of-indian-railways-gs-khosla-3.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "caste-society-and-politics-in-india-from-the-eighteenth-century-to-the-modern-age-susan-bayly-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "caste-society-and-politics-in-india-from-the-eighteenth-century-to-the-modern-age-susan-bayly-3.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "development-of-indian-railways-nalinaksha-sanyal-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "development-of-indian-railways-nalinaksha-sanyal-3.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "encyclopaedia-of-indian-temple-architecture-volume-ii-part-1-text-north-india-foundations-of-north-indian-style-meister-michael-w-dhaky-m-a-and-deva-krishna-editors-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "gandhara-sculpture-from-pakistan-museums-rowland-benjamin-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "imperial-mughal-painting-welch-stuart-cary-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "imperial-mughal-painting-welch-stuart-cary.md",
+      "description": "Scholarly examination of illumination of books and manuscripts and miniature painting from the Mughal period. Represents a significant contribution to understanding imperial Mughal artistic traditions, focusing on the sophisticated visual culture that flourished under Mughal rule.",
+      "valid": false,
+      "score": 8,
+      "specificity": 30,
+      "conciseness": 100,
+      "violations": [
+        {
+          "type": "forbidden_phrase",
+          "phrase": "significant contribution",
+          "severity": "critical"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 1,
+        "major": 1,
+        "minor": 1,
+        "total": 3
+      }
+    },
+    {
+      "file": "indian-architecture-buddhist-and-hindu-periods-brown-percy-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "indian-epigraphy-dineschandra-sircar-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "indian-epigraphy-dineschandra-sircar-3.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "indian-folk-tales-mulk-raj-anand-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "indian-folk-tales-mulk-raj-anand-3.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "kulliyat-e-fani-collected-poems-fani-badayuni-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "kulliyat-e-fani-collected-poems-fani-badayuni-3.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "medieval-indian-sculpture-in-the-british-museum-chanda-ramaprasad-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "pralay-sachindranath-sengupta-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "pralay-sachindranath-sengupta-3.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "report-of-the-silk-panel-chairman-1947-navaratna-rama-rao-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "report-of-the-silk-panel-chairman-1947-navaratna-rama-rao-3.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "sakhi-suryakant-tripathi-nirala-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "sakhi-suryakant-tripathi-nirala-3.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "taxila-an-illustrated-account-of-archaeological-excavations-carried-out-at-taxila-vol-i-structural-remains-marshall-john-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    },
+    {
+      "file": "the-imperial-image-paintings-for-the-mughal-court-beach-milo-cleveland-2.md",
+      "description": "Edition present at the listed source. Entry drafted from tracker data; edition details to be verified from imprint pages.",
+      "valid": false,
+      "score": 8,
+      "specificity": 6,
+      "conciseness": 60,
+      "violations": [
+        {
+          "type": "missing_element",
+          "element": "specific_date",
+          "severity": "major",
+          "reason": "No specific year mentioned"
+        },
+        {
+          "type": "missing_element",
+          "element": "specific_terminology",
+          "severity": "minor",
+          "reason": "No specific literary/scholarly terms"
+        }
+      ],
+      "summary": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "total": 2
+      }
+    }
+  ]
+}

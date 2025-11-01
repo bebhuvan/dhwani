@@ -9,7 +9,7 @@ collections: ["modern-literature"]
 sources:
   - name: "Internet Archive (University of Toronto)"
     url: "https://archive.org/details/politicalhistory00raycuoft"
-    type: "archive"
+    type: "other"
 featured: false
 publishDate: 2025-10-22
 references:

@@ -9,7 +9,7 @@ collections: ['ethnography', 'tribal-studies']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/lusheikukiclans00shak"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Kuki people"
     url: "https://en.wikipedia.org/wiki/Kuki_people"

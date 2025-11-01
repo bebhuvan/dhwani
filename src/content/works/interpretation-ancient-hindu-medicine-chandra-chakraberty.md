@@ -9,10 +9,14 @@ collections: ['modern-literature', 'spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/interpretationof00chakuoft"
-    type: "archive"
+    type: "other"
   - name: "Digital Library of India"
     url: "https://archive.org/details/in.ernet.dli.2015.96766"
-    type: "archive"
+    type: "other"
+references:
+  - name: "Open Library: Interpretation Ancient Hindu Medicine"
+    url: "https://openlibrary.org/search?q=Interpretation+Ancient+Hindu+Medicine+Chandra+Chakraberty"
+    type: "other"
 featured: false
 publishDate: 2025-09-28
 tags: ["Ayurvedic Medicine", "Traditional Medicine", "Hindu Medicine", "Medical History", "Chandra Chakraberty", "Ancient Healthcare", "Medical Practices", "Indian Medicine", "Traditional Healing", "Medical Literature", "Health Sciences"]

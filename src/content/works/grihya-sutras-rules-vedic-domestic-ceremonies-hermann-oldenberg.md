@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'spiritual-texts', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/grihyastrasrul01oldeuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Hermann Oldenberg"
     url: "https://en.wikipedia.org/wiki/Hermann_Oldenberg"

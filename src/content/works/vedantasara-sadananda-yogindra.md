@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/vedantasaraofsad00sada"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Vedantasara"
     url: "https://en.wikipedia.org/wiki/Vedantasara"

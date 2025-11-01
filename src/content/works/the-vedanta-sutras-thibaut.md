@@ -9,13 +9,13 @@ collections: ["spiritual-texts", "classical-literature", "ancient-wisdom"]
 sources:
   - name: "Project Gutenberg (Śankarācārya commentary)"
     url: "https://www.gutenberg.org/ebooks/16295"
-    type: "gutenberg"
+    type: "other"
   - name: "Project Gutenberg (Rāmānuja commentary)"
     url: "https://www.gutenberg.org/ebooks/7297"
-    type: "gutenberg"
+    type: "other"
   - name: "Internet Archive"
     url: "https://archive.org/details/vedntasutrastr03badauoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: George Thibaut"
     url: "https://en.wikipedia.org/wiki/George_Thibaut"

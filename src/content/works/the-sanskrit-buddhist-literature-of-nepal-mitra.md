@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/sanskritbuddhist00mitr"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Rajendralala Mitra"
     url: "https://en.wikipedia.org/wiki/Rajendralala_Mitra"

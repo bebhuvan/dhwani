@@ -9,7 +9,7 @@ collections: ['regional-voices', 'modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/historyofhindili00keayrich"
-    type: "archive"
+    type: "other"
 references:
   - name: "Open Library"
     url: "https://openlibrary.org/search?q=history+of+hindi+literature+keay&mode=everything"

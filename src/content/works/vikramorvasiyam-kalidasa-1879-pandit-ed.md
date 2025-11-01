@@ -9,13 +9,13 @@ collections: ['classical-literature', 'sanskrit-drama', 'poetry-collection']
 sources:
   - name: "Internet Archive (1879 Edition)"
     url: "https://archive.org/details/VikramorvasiyamByKalidasa1879"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (Rich)"
     url: "https://archive.org/details/vikramorvasyam00kalirich"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (DLI)"
     url: "https://archive.org/details/in.ernet.dli.2015.326673"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Vikramōrvaśīyam"
     url: "https://en.wikipedia.org/wiki/Vikramōrvaśīyam"

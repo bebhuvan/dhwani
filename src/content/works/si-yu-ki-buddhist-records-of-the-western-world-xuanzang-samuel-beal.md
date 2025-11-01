@@ -9,7 +9,7 @@ collections: ['spiritual-texts', 'ancient-wisdom']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/siyukibuddhistre01hsuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Xuanzang"
     url: "https://en.wikipedia.org/wiki/Xuanzang"

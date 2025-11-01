@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/historyofindianm01ball"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Indian Rebellion of 1857"
     url: "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857"

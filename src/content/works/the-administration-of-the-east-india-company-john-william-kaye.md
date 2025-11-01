@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/administrationof00kayeuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: John William Kaye"
     url: "https://en.wikipedia.org/wiki/John_William_Kaye"

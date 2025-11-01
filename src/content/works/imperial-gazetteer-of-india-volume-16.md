@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/imperialgazettee16greauoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: The Imperial Gazetteer of India"
     url: "https://en.wikipedia.org/wiki/The_Imperial_Gazetteer_of_India"

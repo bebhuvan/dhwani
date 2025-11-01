@@ -9,7 +9,7 @@ collections: ['modern-literature', 'regional-voices']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/historyofbengali00vijauoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikisource"
     url: "https://en.wikisource.org/wiki/The_History_of_the_Bengali_Language"

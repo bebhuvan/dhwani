@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.70480"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Taxila"
     url: "https://en.wikipedia.org/wiki/Taxila"

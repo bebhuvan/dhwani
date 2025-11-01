@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'spiritual-texts', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/pt2sacredlawsof14bhuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Apastamba Dharmasutra"
     url: "https://en.wikipedia.org/wiki/Apastamba_Dharmasutra"

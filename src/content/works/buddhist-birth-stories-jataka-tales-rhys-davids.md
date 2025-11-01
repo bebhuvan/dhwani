@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/buddhistbirth00daviuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Jataka Tales"
     url: "https://en.wikipedia.org/wiki/Jataka_tales"

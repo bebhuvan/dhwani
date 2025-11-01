@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/travelsinmogulem00bernuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: François Bernier"
     url: "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Bernier"

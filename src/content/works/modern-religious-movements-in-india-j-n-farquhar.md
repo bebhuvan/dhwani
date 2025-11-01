@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/modernreligiousm00farquoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: J. N. Farquhar"
     url: "https://en.wikipedia.org/wiki/J._N._Farquhar"

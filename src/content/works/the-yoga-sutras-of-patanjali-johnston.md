@@ -9,10 +9,10 @@ collections: ["spiritual-texts", "classical-literature", "modern-literature"]
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/2526"
-    type: "gutenberg"
+    type: "other"
   - name: "Internet Archive"
     url: "https://archive.org/details/yogasutrasofpata00pata"
-    type: "archive"
+    type: "other"
   - name: "Open Library"
     url: "https://openlibrary.org/search?q=The+Yoga+Sutras+of+Patanjali%3A+The+Book+of+the+Spiritual+Man+by+Pata%C3%B1jali&mode=everything"
     type: "other"

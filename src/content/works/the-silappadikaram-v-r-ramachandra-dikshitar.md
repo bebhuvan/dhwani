@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'classical-literature', 'regional-voices']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.201802"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Cilappatikaram"
     url: "https://en.wikipedia.org/wiki/Cilappatikaram"

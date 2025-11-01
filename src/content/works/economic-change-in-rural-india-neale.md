@@ -9,7 +9,7 @@ collections: ['modern-literature', 'regional-voices']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/economicchangein0000neal"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Land Reform in India"
     url: "https://en.wikipedia.org/wiki/Land_reforms_in_India"

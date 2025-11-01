@@ -9,10 +9,10 @@ collections: ["classical-literature", "regional-voices", "spiritual-texts"]
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/11924"
-    type: "gutenberg"
+    type: "other"
   - name: "Internet Archive"
     url: "https://archive.org/details/in.gov.ignca.6039"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: W. G. Archer"
     url: "https://en.wikipedia.org/wiki/W._G._Archer"

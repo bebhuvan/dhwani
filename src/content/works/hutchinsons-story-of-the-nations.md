@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive (University of Toronto)"
     url: "https://archive.org/details/hutchinsonsstory00londuoft"
-    type: "archive"
+    type: "other"
   - name: "Open Library"
     url: "https://openlibrary.org/books/OL7149013M/Hutchinson%27s_story_of_the_nations"
     type: "other"

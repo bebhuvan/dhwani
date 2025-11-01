@@ -9,7 +9,7 @@ collections: ['ancient-wisdom']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/catalogueofcoin00smitgoog"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Vincent Arthur Smith"
     url: "https://en.wikipedia.org/wiki/Vincent_Arthur_Smith"

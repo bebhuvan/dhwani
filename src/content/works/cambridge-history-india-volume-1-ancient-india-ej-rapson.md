@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/cambridgehistory01rapsuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: E. J. Rapson"
     url: "https://en.wikipedia.org/wiki/E._J._Rapson"

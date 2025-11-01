@@ -9,7 +9,7 @@ collections: ["ancient-wisdom", "classical-literature"]
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.190373"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Vaman Shivram Apte"
     url: "https://en.wikipedia.org/wiki/Vaman_Shivram_Apte"

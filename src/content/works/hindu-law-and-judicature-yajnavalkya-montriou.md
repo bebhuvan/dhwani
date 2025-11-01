@@ -9,10 +9,10 @@ collections: ["classical-literature", "ancient-wisdom"]
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/21918"
-    type: "gutenberg"
+    type: "other"
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.292556"
-    type: "archive"
+    type: "other"
 references:
   - name: "Open Library: Hindu Law and Judicature"
     url: "https://openlibrary.org/search?q=Hindu+Law+and+Judicature&mode=everything"

@@ -9,7 +9,7 @@ collections: ['folklore', 'ethnography']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/folkloreofsantal00bomp"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Paul Olaf Bodding"
     url: "https://en.wikipedia.org/wiki/Paul_Olaf_Bodding"

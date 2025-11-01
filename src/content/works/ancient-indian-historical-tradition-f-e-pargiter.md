@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/ancientindianhis00parguoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: F. E. Pargiter"
     url: "https://en.wikipedia.org/wiki/F._E._Pargiter"

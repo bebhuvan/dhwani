@@ -9,10 +9,10 @@ collections: ['spiritual-texts']
 sources:
   - name: "Internet Archive (University of Toronto)"
     url: "https://archive.org/details/vedicmythology00macduoft"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (Second Copy)"
     url: "https://archive.org/details/vedicmythology00macd_0/page/n5/mode/2up"
-    type: "archive"
+    type: "other"
   - name: "Open Library"
     url: "https://openlibrary.org/works/OL11577W/Vedic_mythology?edition=key%3A/books/OL7021549M"
     type: "other"

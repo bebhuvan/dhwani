@@ -9,7 +9,7 @@ collections: ['spiritual-texts', 'ancient-wisdom', 'classical-literature', 'poet
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.22115"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Buddhacharita"
     url: "https://en.wikipedia.org/wiki/Buddhacharita"

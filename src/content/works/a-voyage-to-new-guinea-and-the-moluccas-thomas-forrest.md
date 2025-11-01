@@ -9,7 +9,7 @@ collections: ['ancient-wisdom']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/voyagetonewguine00forr"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Thomas Forrest (navigator)"
     url: "https://en.wikipedia.org/wiki/Thomas_Forrest_(navigator)"

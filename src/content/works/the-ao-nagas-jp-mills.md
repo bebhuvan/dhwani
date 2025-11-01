@@ -9,7 +9,7 @@ collections: ['ethnography', 'tribal-studies']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.143112"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Ao Naga"
     url: "https://en.wikipedia.org/wiki/Ao_Naga"

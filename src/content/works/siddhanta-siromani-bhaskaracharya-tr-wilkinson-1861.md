@@ -9,10 +9,10 @@ collections: ['classical-literature', 'mathematics', 'astronomy', 'science']
 sources:
   - name: "Internet Archive (DLI)"
     url: "https://archive.org/details/in.ernet.dli.2015.405727"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (Bibliotheca Indica PDF)"
     url: "https://archive.org/download/Bibliotheca_Indica_Series/SiddhantaSiromaniEnglishTranslationFasc1-LancelotWilkinsonBapudevaSastri1861bis.pdf"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Siddhānta Shiromani"
     url: "https://en.wikipedia.org/wiki/Siddhānta_Shiromani"

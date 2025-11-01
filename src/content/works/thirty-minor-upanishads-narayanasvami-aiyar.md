@@ -9,7 +9,7 @@ collections: ['spiritual-texts', 'ancient-wisdom', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/thirtyminorupani00xxxxuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Upanishads"
     url: "https://en.wikipedia.org/wiki/Upanishads"

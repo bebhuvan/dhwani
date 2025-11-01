@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'buddhist-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/dli.ernet.313027"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Laṅkāvatāra Sūtra"
     url: "https://en.wikipedia.org/wiki/Laṅkāvatāra_Sūtra"

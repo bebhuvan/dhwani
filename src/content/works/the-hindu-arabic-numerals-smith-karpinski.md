@@ -9,10 +9,10 @@ collections: ["modern-literature", "classical-literature"]
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/22599"
-    type: "gutenberg"
+    type: "other"
   - name: "Internet Archive"
     url: "https://archive.org/details/hinduarabicnumer00smitrich"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: David Eugene Smith"
     url: "https://en.wikipedia.org/wiki/David_Eugene_Smith"

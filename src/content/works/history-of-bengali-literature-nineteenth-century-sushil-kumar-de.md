@@ -9,7 +9,7 @@ collections: ['regional-voices', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/historyofbengali00desurich"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Sushil Kumar De"
     url: "https://en.wikipedia.org/wiki/Sushil_Kumar_De"

@@ -9,7 +9,11 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/satyarthprakashl00dayauoft"
-    type: "archive"
+    type: "other"
+references:
+  - name: "Open Library: Satyarth Prakash"
+    url: "https://openlibrary.org/search?q=Satyarth+Prakash+Dayananda+Saraswati"
+    type: "other"
 featured: true
 publishDate: 2025-10-02
 tags: ["Arya Samaj", "Hindu reform", "Vedic revival", "social reform", "religious philosophy", "Dayananda Saraswati", "women's education", "caste abolition", "idol worship critique", "19th century India", "religious controversy", "rational theology", "Indian Renaissance"]

@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/epigraphiacarnat04mysouoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Epigraphia Carnatica"
     url: "https://en.wikipedia.org/wiki/Epigraphia_Carnatica"

@@ -9,7 +9,7 @@ collections: ["classical-literature", "spiritual-texts", "religious-texts"]
 sources:
 - name: "Internet Archive"
   url: "https://archive.org/details/in.ernet.dli.2015.379318"
-  type: "archive"
+  type: "other"
 references:
 - name: 'Wikipedia: Atharvaveda'
   url: https://en.wikipedia.org/wiki/Atharvaveda

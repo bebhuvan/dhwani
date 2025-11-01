@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/dli.csl.6555"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Surya Siddhanta"
     url: "https://en.wikipedia.org/wiki/Surya_Siddhanta"

@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/encyclopaediaofh07achauoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Open Library"
     url: "https://openlibrary.org/search?q=Encyclopaedia+Hindu+Architecture+Acharya&mode=everything"

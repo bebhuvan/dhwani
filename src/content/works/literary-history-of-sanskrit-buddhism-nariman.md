@@ -9,7 +9,7 @@ collections: ['spiritual-texts', 'ancient-wisdom', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/literaryhistoryo00nariuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Moriz Winternitz"
     url: "https://en.wikipedia.org/wiki/Moriz_Winternitz"

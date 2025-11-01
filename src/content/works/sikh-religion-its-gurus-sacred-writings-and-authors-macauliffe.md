@@ -9,7 +9,11 @@ collections: ['regional-voices', 'modern-literature', 'spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/thesikhreligion01macauoft"
-    type: "archive"
+    type: "other"
+references:
+  - name: "Open Library: Sikh Religion Gurus Sacred Writings"
+    url: "https://openlibrary.org/search?q=Sikh+Religion+Gurus+Sacred+Writings+Max+Macauliffe"
+    type: "other"
 featured: true
 publishDate: 2025-10-02
 tags: ["Sikhism", "Guru Granth Sahib", "Max Arthur Macauliffe", "Sikh Gurus", "Punjab", "religious conversion", "Guru Nanak", "Kahn Singh Nabha", "sacred texts translation", "colonial India", "religious studies"]

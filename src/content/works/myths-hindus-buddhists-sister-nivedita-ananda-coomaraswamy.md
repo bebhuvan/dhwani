@@ -9,7 +9,7 @@ collections: ['spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/mythsofthehindus00niveuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Ananda Coomaraswamy"
     url: "https://en.wikipedia.org/wiki/Ananda_Coomaraswamy"

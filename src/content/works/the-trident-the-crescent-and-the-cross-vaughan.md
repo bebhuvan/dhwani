@@ -9,7 +9,7 @@ collections: ['spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/tridentcrescentc00vaug"
-    type: "archive"
+    type: "other"
 references:
   - name: "Open Library"
     url: "https://openlibrary.org/search?q=The+Trident%2C+The+Crescent+and+The+Cross&mode=everything"

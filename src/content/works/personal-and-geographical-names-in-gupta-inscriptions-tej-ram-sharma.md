@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/personalgeograph00sharuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Gupta Empire"
     url: "https://en.wikipedia.org/wiki/Gupta_Empire"

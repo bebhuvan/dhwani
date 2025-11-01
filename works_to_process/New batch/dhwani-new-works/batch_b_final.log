@@ -1,0 +1,572 @@
+
+############################################################
+# BATCH B MULTI-API REFERENCE HUNTER
+# Processing 20 works (Works 21-40)
+############################################################
+
+
+[1/20] Processing: atharvaveda-saunaka-visha-bandhu-2.md
+
+============================================================
+Fetching references for: Atharvaveda (saunaka)
+Authors: Visha Bandhu
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✓ Found: https://en.wikipedia.org/wiki/Atharvaveda
+  [2/7] Searching Wikipedia for author: Visha Bandhu...
+    ✗ Not found
+  [3/7] Searching Wikidata for work...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Visha Bandhu...
+    ✗ Not found
+  [5/7] Searching OpenLibrary for work...
+    ✓ Found: https://openlibrary.org/works/OL23652408W
+  [6/7] Searching OpenLibrary for author: Visha Bandhu...
+    ✗ Not found
+  [7/7] Searching Wikisource for work...
+    ✓ Found: https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Sanskrit
+
+  Total references found: 3
+  ✅ Updated: atharvaveda-saunaka-visha-bandhu-2.md (3 references)
+
+[2/20] Processing: bhartiya-jyotish-vigyan-ravindra-kumar-dubey.md
+
+============================================================
+Fetching references for: Bhartiya Jyotish Vigyan
+Authors: Ravindra Kumar Dubey
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✗ Not found
+  [2/7] Searching Wikipedia for author: Ravindra Kumar Dubey...
+    ✓ Found: https://en.wikipedia.org/wiki/Hindi_blogosphere
+  [3/7] Searching Wikidata for work...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Ravindra Kumar Dubey...
+    ✗ Not found
+  [5/7] Searching OpenLibrary for work...
+    ✗ Not found
+  [6/7] Searching OpenLibrary for author: Ravindra Kumar Dubey...
+    ✓ Found: https://openlibrary.org/authors/OL9548456A
+  [7/7] Searching Wikisource for work...
+    ✗ Not found
+
+  Total references found: 2
+  ⚠️  WARNING: Only 2 references found (minimum 3 required)
+  ✅ Updated: bhartiya-jyotish-vigyan-ravindra-kumar-dubey.md (2 references)
+
+[3/20] Processing: bhartiya-shasan-and-rajniti-jain-pukhraj.md
+
+============================================================
+Fetching references for: Bhartiya Shasan And Rajniti
+Authors: Jain Pukhraj
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✗ Not found
+  [2/7] Searching Wikipedia for author: Jain Pukhraj...
+    ✓ Found: https://en.wikipedia.org/wiki/Hinduism_and_Jainism
+  [3/7] Searching Wikidata for work...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Jain Pukhraj...
+    ✗ Not found
+  [5/7] Searching OpenLibrary for work...
+    ✗ Not found
+  [6/7] Searching OpenLibrary for author: Jain Pukhraj...
+    ✗ Not found
+  [7/7] Searching Wikisource for work...
+    ✗ Not found
+
+  Total references found: 1
+  ⚠️  WARNING: Only 1 references found (minimum 3 required)
+  ✅ Updated: bhartiya-shasan-and-rajniti-jain-pukhraj.md (1 references)
+
+[4/20] Processing: buddhist-art-in-india-grünwedel.md
+
+============================================================
+Fetching references for: Buddhist art in India
+Authors: Grünwedel, Albert, 1856-1935 Burgess
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✓ Found: https://en.wikipedia.org/wiki/Buddhist_art
+  [2/7] Searching Wikipedia for author: Grünwedel...
+    ✓ Found: https://en.wikipedia.org/wiki/Albert_Grünwedel
+  [3/7] Searching Wikipedia for author: Albert...
+    ✓ Found: https://en.wikipedia.org/wiki/Albert
+  [3/7] Searching Wikidata for work...
+    ✓ Found: https://www.wikidata.org/wiki/Q57685413
+  [4/7] Searching Wikidata for author: Grünwedel...
+    ✓ Found: https://www.wikidata.org/wiki/Q25710844
+  📝 Saved author bio: Grünwedel
+  [4/7] Searching Wikidata for author: Albert...
+    ✓ Found: https://www.wikidata.org/wiki/Q577011
+  📝 Saved author bio: Albert
+  [5/7] Searching OpenLibrary for work...
+    ✓ Found: https://openlibrary.org/works/OL11393833W
+  [6/7] Searching OpenLibrary for author: Grünwedel...
+    ✓ Found: https://openlibrary.org/authors/OL102359A
+  [7/7] Searching Wikisource for work...
+    ✓ Found: https://en.wikisource.org/wiki/Asoka_-_the_Buddhist_Emperor_of_India/Chapter_1
+
+  Total references found: 9
+  ✅ Updated: buddhist-art-in-india-grünwedel.md (9 references)
+
+[5/20] Processing: contributions-of-sanskrit-inscriptions-to-lexicography-tewari.md
+
+============================================================
+Fetching references for: Contributions of Sanskrit inscriptions to lexicography
+Authors: Tewari, S. P., 1944-
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✓ Found: https://en.wikipedia.org/wiki/Sanskrit_literature
+  [2/7] Searching Wikipedia for author: Tewari...
+    ✓ Found: https://en.wikipedia.org/wiki/Tiwari
+  [3/7] Searching Wikipedia for author: S. P....
+    ✓ Found: https://en.wikipedia.org/wiki/S&P_500
+  [3/7] Searching Wikidata for work...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Tewari...
+    ✓ Found: https://www.wikidata.org/wiki/Q37518551
+  📝 Saved author bio: Tewari
+  [4/7] Searching Wikidata for author: S. P....
+    ✓ Found: https://www.wikidata.org/wiki/Q63183273
+  📝 Saved author bio: S. P.
+  [5/7] Searching OpenLibrary for work...
+    ✓ Found: https://openlibrary.org/works/OL5081993W
+  [6/7] Searching OpenLibrary for author: Tewari...
+    ✓ Found: https://openlibrary.org/authors/OL6764646A
+  [7/7] Searching Wikisource for work...
+    ✓ Found: https://en.wikisource.org/wiki/Fifty_years_of_"The_Indian_Antiquary"
+
+  Total references found: 8
+  ✅ Updated: contributions-of-sanskrit-inscriptions-to-lexicography-tewari.md (8 references)
+
+[6/20] Processing: contributions-of-sanskrit-inscriptions-to-lexicography-tewari-s-p-1944.md
+
+============================================================
+Fetching references for: Contributions of Sanskrit inscriptions to lexicography
+Authors: Tewari, S. P., 1944-
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✓ Found: https://en.wikipedia.org/wiki/Sanskrit_literature
+  [2/7] Searching Wikipedia for author: Tewari, S. P., 1944-...
+    ✓ Found: https://en.wikipedia.org/wiki/List_of_Indian_women_artists
+  [3/7] Searching Wikidata for work...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Tewari, S. P., 1944-...
+    ✗ Not found
+  [5/7] Searching OpenLibrary for work...
+    ✓ Found: https://openlibrary.org/works/OL5081993W
+  [6/7] Searching OpenLibrary for author: Tewari, S. P., 1944-...
+    ✗ Not found
+  [7/7] Searching Wikisource for work...
+    ✓ Found: https://en.wikisource.org/wiki/Fifty_years_of_"The_Indian_Antiquary"
+
+  Total references found: 4
+  ✅ Updated: contributions-of-sanskrit-inscriptions-to-lexicography-tewari-s-p-1944.md (4 references)
+
+[7/20] Processing: critical-word-index-of-the-bhagavadgita-divanji.md
+
+============================================================
+Fetching references for: Critical word index of the Bhagavadgita
+Authors: Divanji, Prahlad C.
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✓ Found: https://en.wikipedia.org/wiki/Bhagavad_Gita
+  [2/7] Searching Wikipedia for author: Divanji...
+    ✓ Found: https://en.wikipedia.org/wiki/Yoga_Yajnavalkya
+  [3/7] Searching Wikipedia for author: Prahlad C....
+    ✓ Found: https://en.wikipedia.org/wiki/Manohar_Prahlad_Awati
+  [3/7] Searching Wikidata for work...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Divanji...
+    ✓ Found: https://www.wikidata.org/wiki/Q102347222
+  📝 Saved author bio: Divanji
+  [4/7] Searching Wikidata for author: Prahlad C....
+    ✓ Found: https://www.wikidata.org/wiki/Q113724311
+  📝 Saved author bio: Prahlad C.
+  [5/7] Searching OpenLibrary for work...
+    ✗ Not found
+  [6/7] Searching OpenLibrary for author: Divanji...
+    ✓ Found: https://openlibrary.org/authors/OL5731609A
+  [7/7] Searching Wikisource for work...
+    ✓ Found: https://en.wikisource.org/wiki/The_Glories_of_the_Bhagavad_Gita_(Telang_translation)/Introduction
+
+  Total references found: 7
+  ✅ Updated: critical-word-index-of-the-bhagavadgita-divanji.md (7 references)
+
+[8/20] Processing: critical-word-index-of-the-bhagavadgita-divanji-prahlad-c.md
+
+============================================================
+Fetching references for: Critical word index of the Bhagavadgita
+Authors: Divanji, Prahlad C.
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✓ Found: https://en.wikipedia.org/wiki/Bhagavad_Gita
+  [2/7] Searching Wikipedia for author: Divanji, Prahlad C....
+    ✓ Found: https://en.wikipedia.org/wiki/Yoga_Yajnavalkya
+  [3/7] Searching Wikidata for work...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Divanji, Prahlad C....
+    ✗ Not found
+  [5/7] Searching OpenLibrary for work...
+    ✗ Not found
+  [6/7] Searching OpenLibrary for author: Divanji, Prahlad C....
+    ✓ Found: https://openlibrary.org/authors/OL309897A
+  [7/7] Searching Wikisource for work...
+    ✓ Found: https://en.wikisource.org/wiki/The_Glories_of_the_Bhagavad_Gita_(Telang_translation)/Introduction
+
+  Total references found: 4
+  ✅ Updated: critical-word-index-of-the-bhagavadgita-divanji-prahlad-c.md (4 references)
+
+[9/20] Processing: epic-mythology-hopkins.md
+
+============================================================
+Fetching references for: Epic mythology
+Authors: Hopkins, Edward Washburn, 1857-1932
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✓ Found: https://en.wikipedia.org/wiki/Greek_mythology
+  [2/7] Searching Wikipedia for author: Hopkins...
+    ✓ Found: https://en.wikipedia.org/wiki/Anthony_Hopkins
+  [3/7] Searching Wikipedia for author: Edward Washburn...
+    ✓ Found: https://en.wikipedia.org/wiki/Edward_Washburn
+  [3/7] Searching Wikidata for work...
+    ✓ Found: https://www.wikidata.org/wiki/Q127269009
+  [4/7] Searching Wikidata for author: Hopkins...
+    ✓ Found: https://www.wikidata.org/wiki/Q193727
+  📝 Saved author bio: Hopkins
+  [4/7] Searching Wikidata for author: Edward Washburn...
+    ✓ Found: https://www.wikidata.org/wiki/Q5345813
+  📝 Saved author bio: Edward Washburn
+  [5/7] Searching OpenLibrary for work...
+    ✓ Found: https://openlibrary.org/works/OL67930W
+  [6/7] Searching OpenLibrary for author: Hopkins...
+    ✓ Found: https://openlibrary.org/authors/OL131793A
+  [7/7] Searching Wikisource for work...
+    ✓ Found: https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_6/Indian/Introduction
+
+  Total references found: 9
+  ✅ Updated: epic-mythology-hopkins.md (9 references)
+
+[10/20] Processing: gandhi-azad-and-nationalism-shakir.md
+
+============================================================
+Fetching references for: Gandhi, Azad and nationalism
+Authors: Shakir, Moin, 1941-
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✓ Found: https://en.wikipedia.org/wiki/Maulana_Azad
+  [2/7] Searching Wikipedia for author: Shakir...
+    ✓ Found: https://en.wikipedia.org/wiki/Shakir
+  [3/7] Searching Wikipedia for author: Moin...
+    ✓ Found: https://en.wikipedia.org/wiki/Moin
+  [3/7] Searching Wikidata for work...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Shakir...
+    ✓ Found: https://www.wikidata.org/wiki/Q26816832
+  📝 Saved author bio: Shakir
+  [4/7] Searching Wikidata for author: Moin...
+    ✓ Found: https://www.wikidata.org/wiki/Q109128137
+  📝 Saved author bio: Moin
+  [5/7] Searching OpenLibrary for work...
+    ✓ Found: https://openlibrary.org/works/OL12137883W
+  [6/7] Searching OpenLibrary for author: Shakir...
+    ✓ Found: https://openlibrary.org/authors/OL2961688A
+  [7/7] Searching Wikisource for work...
+    ✓ Found: https://en.wikisource.org/wiki/A_Week_with_Gandhi/June_4,_1942
+
+  Total references found: 8
+  ✅ Updated: gandhi-azad-and-nationalism-shakir.md (8 references)
+
+[11/20] Processing: history-of-aurangzib-based-on-original-sources-jadunath-sarkar.md
+
+============================================================
+Fetching references for: History of Aurangzib based on original sources
+Authors: Jadunath Sarkar
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✓ Found: https://en.wikipedia.org/wiki/Muhammad_Sultan_(Mughal_prince)
+  [2/7] Searching Wikipedia for author: Jadunath Sarkar...
+    ✓ Found: https://en.wikipedia.org/wiki/Jadunath_Sarkar
+  [3/7] Searching Wikidata for work...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Jadunath Sarkar...
+    ✓ Found: https://www.wikidata.org/wiki/Q2035098
+  📝 Saved author bio: Jadunath Sarkar
+  [5/7] Searching OpenLibrary for work...
+    ✓ Found: https://openlibrary.org/works/OL10940148W
+  [6/7] Searching OpenLibrary for author: Jadunath Sarkar...
+    ✓ Found: https://openlibrary.org/authors/OL4543208A
+  [7/7] Searching Wikisource for work...
+    ✓ Found: https://en.wikisource.org/wiki/Shivaji_and_His_Times
+
+  Total references found: 6
+  ✅ Updated: history-of-aurangzib-based-on-original-sources-jadunath-sarkar.md (6 references)
+
+[12/20] Processing: indian-home-rule-reprinted-with-a-new-foreword-by-the-author-gandhi.md
+
+============================================================
+Fetching references for: Indian home rule. Reprinted with a new foreword by the author
+Authors: Gandhi, Mahatma, 1869-1948
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✓ Found: https://en.wikipedia.org/wiki/The_Story_of_My_Experiments_with_Truth
+  [2/7] Searching Wikipedia for author: Gandhi...
+    ✓ Found: https://en.wikipedia.org/wiki/Mahatma_Gandhi
+  [3/7] Searching Wikipedia for author: Mahatma...
+    ✓ Found: https://en.wikipedia.org/wiki/Mahatma
+  [3/7] Searching Wikidata for work...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Gandhi...
+    ✓ Found: https://www.wikidata.org/wiki/Q302736
+  📝 Saved author bio: Gandhi
+  [4/7] Searching Wikidata for author: Mahatma...
+    ✓ Found: https://www.wikidata.org/wiki/Q9441
+  📝 Saved author bio: Mahatma
+  [5/7] Searching OpenLibrary for work...
+    ✓ Found: https://openlibrary.org/works/OL298453W
+  [6/7] Searching OpenLibrary for author: Gandhi...
+    ✓ Found: https://openlibrary.org/authors/OL891A
+  [7/7] Searching Wikisource for work...
+    ✓ Found: https://en.wikisource.org/wiki/Indian_Home_Rule_(5th_edition)
+
+  Total references found: 8
+  ✅ Updated: indian-home-rule-reprinted-with-a-new-foreword-by-the-author-gandhi.md (8 references)
+
+[13/20] Processing: kabir-granthavali-gupta-mataprasad.md
+
+============================================================
+Fetching references for: Kabir Granthavali
+Authors: Gupta, Mataprasad
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✓ Found: https://en.wikipedia.org/wiki/Kabir
+  [2/7] Searching Wikipedia for author: Gupta, Mataprasad...
+    ✓ Found: https://en.wikipedia.org/wiki/Kahe_Diya_Pardes
+  [3/7] Searching Wikidata for work...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Gupta, Mataprasad...
+    ✗ Not found
+  [5/7] Searching OpenLibrary for work...
+    ✓ Found: https://openlibrary.org/works/OL316165W
+  [6/7] Searching OpenLibrary for author: Gupta, Mataprasad...
+    ✗ Not found
+  [7/7] Searching Wikisource for work...
+    ✗ Not found
+
+  Total references found: 3
+  ✅ Updated: kabir-granthavali-gupta-mataprasad.md (3 references)
+
+[14/20] Processing: kabir-granthavali-gupta.md
+
+============================================================
+Fetching references for: Kabir Granthavali
+Authors: Gupta, Mataprasad
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✓ Found: https://en.wikipedia.org/wiki/Kabir
+  [2/7] Searching Wikipedia for author: Gupta...
+    ✓ Found: https://en.wikipedia.org/wiki/Gupta
+  [3/7] Searching Wikipedia for author: Mataprasad...
+    ✓ Found: https://en.wikipedia.org/wiki/Kahe_Diya_Pardes
+  [3/7] Searching Wikidata for work...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Gupta...
+    ✓ Found: https://www.wikidata.org/wiki/Q3632770
+  📝 Saved author bio: Gupta
+  [4/7] Searching Wikidata for author: Mataprasad...
+    ✓ Found: https://www.wikidata.org/wiki/Q61362266
+  📝 Saved author bio: Mataprasad
+  [5/7] Searching OpenLibrary for work...
+    ✓ Found: https://openlibrary.org/works/OL316165W
+  [6/7] Searching OpenLibrary for author: Gupta...
+    ✓ Found: https://openlibrary.org/authors/OL12880485A
+  [7/7] Searching Wikisource for work...
+    ✗ Not found
+
+  Total references found: 7
+  ✅ Updated: kabir-granthavali-gupta.md (7 references)
+
+[15/20] Processing: kabir-granthawali-kabir.md
+
+============================================================
+Fetching references for: Kabir-granthawali
+Authors: Kabir, Shyamsundar Das
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✓ Found: https://en.wikipedia.org/wiki/Kabir
+  [2/7] Searching Wikipedia for author: Kabir...
+    ✓ Found: https://en.wikipedia.org/wiki/Kabir
+  [3/7] Searching Wikipedia for author: Shyamsundar Das...
+    ✓ Found: https://en.wikipedia.org/wiki/Kabir
+  [3/7] Searching Wikidata for work...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Kabir...
+    ✓ Found: https://www.wikidata.org/wiki/Q28812631
+  📝 Saved author bio: Kabir
+  [4/7] Searching Wikidata for author: Shyamsundar Das...
+    ✓ Found: https://www.wikidata.org/wiki/Q12454546
+  📝 Saved author bio: Shyamsundar Das
+  [5/7] Searching OpenLibrary for work...
+    ✗ Not found
+  [6/7] Searching OpenLibrary for author: Kabir...
+    ✓ Found: https://openlibrary.org/authors/OL2659024A
+  [7/7] Searching Wikisource for work...
+    ✗ Not found
+
+  Total references found: 6
+  ✅ Updated: kabir-granthawali-kabir.md (6 references)
+
+[16/20] Processing: kāñcippurāṇam-civañāṇa-muṉivar-active-18th-century.md
+
+============================================================
+Fetching references for: Kāñcippurāṇam
+Authors: Civañāṇa Muṉivar, active 18th century
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✗ Not found
+  [2/7] Searching Wikipedia for author: Civañāṇa Muṉivar, active 18th century...
+    ✗ Not found
+  [3/7] Searching Wikidata for work...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Civañāṇa Muṉivar, active 18th century...
+    ✗ Not found
+  [5/7] Searching OpenLibrary for work...
+    ✓ Found: https://openlibrary.org/works/OL20648371W
+  [6/7] Searching OpenLibrary for author: Civañāṇa Muṉivar, active 18th century...
+    ✗ Not found
+  [7/7] Searching Wikisource for work...
+    ✗ Not found
+
+  Total references found: 1
+  ⚠️  WARNING: Only 1 references found (minimum 3 required)
+  ✅ Updated: kāñcippurāṇam-civañāṇa-muṉivar-active-18th-century.md (1 references)
+
+[17/20] Processing: kāñcippurāṇam-civañāna-munivar.md
+
+============================================================
+Fetching references for: Kāñcippurāṇam
+Authors: Civañān̲a Mun̲ivar, active 18th century
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✗ Not found
+  [2/7] Searching Wikipedia for author: Civañān̲a Mun̲ivar...
+    ✓ Found: https://en.wikipedia.org/wiki/Meykandar
+  [3/7] Searching Wikipedia for author: active 18th century...
+    ✓ Found: https://en.wikipedia.org/wiki/List_of_18th-century_women_artists
+  [3/7] Searching Wikidata for work...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Civañān̲a Mun̲ivar...
+    ✓ Found: https://www.wikidata.org/wiki/Q113795867
+  📝 Saved author bio: Civañān̲a Mun̲ivar
+  [4/7] Searching Wikidata for author: active 18th century...
+    ✗ Not found
+  [5/7] Searching OpenLibrary for work...
+    ✓ Found: https://openlibrary.org/works/OL20648371W
+  [6/7] Searching OpenLibrary for author: Civañān̲a Mun̲ivar...
+    ✓ Found: https://openlibrary.org/authors/OL15281A
+  [7/7] Searching Wikisource for work...
+    ✗ Not found
+
+  Total references found: 5
+  ✅ Updated: kāñcippurāṇam-civañāna-munivar.md (5 references)
+
+[18/20] Processing: kashidasi-mahabharat-কশদস-মহভরত-kashiram-das.md
+
+============================================================
+Fetching references for: Kashidasi Mahabharat কাশীদাসী মহাভারত
+Authors: Kashiram Das, Sudeb Chandra Chattopadhyaya
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✗ Not found
+  [2/7] Searching Wikipedia for author: Kashiram Das...
+    ✓ Found: https://en.wikipedia.org/wiki/Kashiram_Das
+  [3/7] Searching Wikipedia for author: Sudeb Chandra Chattopadhyaya...
+    ✗ Not found
+  [3/7] Searching Wikidata for work...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Kashiram Das...
+    ✓ Found: https://www.wikidata.org/wiki/Q6374348
+  📝 Saved author bio: Kashiram Das
+  [4/7] Searching Wikidata for author: Sudeb Chandra Chattopadhyaya...
+    ✗ Not found
+  [5/7] Searching OpenLibrary for work...
+    ✗ Not found
+  [6/7] Searching OpenLibrary for author: Kashiram Das...
+    ✗ Not found
+  [7/7] Searching Wikisource for work...
+    ✗ Not found
+
+  Total references found: 2
+  ⚠️  WARNING: Only 2 references found (minimum 3 required)
+  ✅ Updated: kashidasi-mahabharat-কশদস-মহভরত-kashiram-das.md (2 references)
+
+[19/20] Processing: kautilya-arthasastra-vidhyalankara.md
+
+============================================================
+Fetching references for: Kautilya Arthasastra
+Authors: Vidhyalankara, Pranath
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✓ Found: https://en.wikipedia.org/wiki/Arthashastra
+  [2/7] Searching Wikipedia for author: Vidhyalankara...
+    ✓ Found: https://en.wikipedia.org/wiki/Sujatha_Aththanayaka
+  [3/7] Searching Wikipedia for author: Pranath...
+    ✗ Not found
+  [3/7] Searching Wikidata for work...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Vidhyalankara...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Pranath...
+    ✓ Found: https://www.wikidata.org/wiki/Q114512412
+  📝 Saved author bio: Pranath
+  [5/7] Searching OpenLibrary for work...
+    ✓ Found: https://openlibrary.org/works/OL18303208W
+  [6/7] Searching OpenLibrary for author: Vidhyalankara...
+    ✗ Not found
+  [7/7] Searching Wikisource for work...
+    ✓ Found: https://en.wikisource.org/wiki/Arthashastra
+
+  Total references found: 5
+  ✅ Updated: kautilya-arthasastra-vidhyalankara.md (5 references)
+
+[20/20] Processing: kautilya-arthasastra-vidhyalankara-pranath.md
+
+============================================================
+Fetching references for: Kautilya Arthasastra
+Authors: Vidhyalankara, Pranath
+============================================================
+  [1/7] Searching Wikipedia for work...
+    ✓ Found: https://en.wikipedia.org/wiki/Arthashastra
+  [2/7] Searching Wikipedia for author: Vidhyalankara, Pranath...
+    ✗ Not found
+  [3/7] Searching Wikidata for work...
+    ✗ Not found
+  [4/7] Searching Wikidata for author: Vidhyalankara, Pranath...
+    ✗ Not found
+  [5/7] Searching OpenLibrary for work...
+    ✓ Found: https://openlibrary.org/works/OL18303208W
+  [6/7] Searching OpenLibrary for author: Vidhyalankara, Pranath...
+    ✗ Not found
+  [7/7] Searching Wikisource for work...
+    ✓ Found: https://en.wikisource.org/wiki/Arthashastra
+
+  Total references found: 3
+  ✅ Updated: kautilya-arthasastra-vidhyalankara-pranath.md (3 references)
+
+✅ Author bios saved: /home/bhuvanesh/new-dhwani/verification-reports/author-bios-batch-b.json
+✅ References report saved: /home/bhuvanesh/new-dhwani/verification-reports/references-batch-b.json
+
+============================================================
+SUMMARY:
+  Works processed: 20
+  Total references: 101
+  Average per work: 5.05
+  Works with 3+ refs: 16/20
+  Unique authors: 20
+============================================================
+
+
+############################################################
+# BATCH B PROCESSING COMPLETE
+############################################################
+

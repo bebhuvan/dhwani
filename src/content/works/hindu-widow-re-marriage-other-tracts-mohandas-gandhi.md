@@ -9,7 +9,7 @@ collections: ['modern-literature', 'spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/hinduwidowremarr00ganduoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikisource"
     url: "https://en.wikisource.org/wiki/Index:Hindu_widow_re-marriage_and_other_tracts.djvu"

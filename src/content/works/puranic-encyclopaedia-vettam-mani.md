@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/puranicencyclopa00maniuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Vettam Mani"
     url: "https://en.wikipedia.org/wiki/Vettam_Mani"

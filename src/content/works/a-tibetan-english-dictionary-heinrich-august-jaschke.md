@@ -9,7 +9,7 @@ collections: ["ancient-wisdom", "regional-voices"]
 sources:
   - name: "Internet Archive (University of Toronto)"
     url: "https://archive.org/details/tibetanenglishdi00jsuoft"
-    type: "archive"
+    type: "other"
 featured: false
 publishDate: 2025-10-22
 references:

@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive (University of Toronto)"
     url: "https://archive.org/details/literaryhistoryo00chakuoft/page/n3/mode/2up"
-    type: "archive"
+    type: "other"
   - name: "Open Library"
     url: "https://openlibrary.org/works/OL44339W/Literary_history_of_ancient_India_in_relation_to_its_racial_and_linguistic_affiliations?edition=key%3A/books/OL23315396M"
     type: "other"

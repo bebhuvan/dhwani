@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/grammarofpersian00joneiala"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: William Jones (philologist)"
     url: "https://en.wikipedia.org/wiki/William_Jones_(philologist)"

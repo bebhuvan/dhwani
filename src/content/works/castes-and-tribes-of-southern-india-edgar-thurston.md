@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/castestribesofso02thuruoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Edgar Thurston"
     url: "https://en.wikipedia.org/wiki/Edgar_Thurston"

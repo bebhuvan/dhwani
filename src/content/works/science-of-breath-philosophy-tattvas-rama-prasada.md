@@ -9,7 +9,7 @@ collections: ['spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/thescienceofbrea00raamuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Open Library"
     url: "https://openlibrary.org/search?q=The+science+of+breath+and+the+philosophy+of+the+tattvas%3B&mode=everything"

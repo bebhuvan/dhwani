@@ -9,7 +9,7 @@ collections: ['ancient-wisdom']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/anticherelazioni00sraf"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Abu Zayd al-Sirafi"
     url: "https://en.wikipedia.org/wiki/Abu_Zayd_al-Sirafi"

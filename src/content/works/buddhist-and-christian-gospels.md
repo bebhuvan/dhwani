@@ -9,7 +9,7 @@ collections: ['buddhist-texts', 'scholarly-translations']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/buddhistandchris02edmuuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Buddhism"
     url: "https://en.wikipedia.org/wiki/Buddhism"

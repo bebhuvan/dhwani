@@ -9,7 +9,11 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/historyofindia06jack"
-    type: "archive"
+    type: "other"
+references:
+  - name: "Open Library: History of India"
+    url: "https://openlibrary.org/search?q=History+of+India+Williams+Jackson"
+    type: "other"
 featured: true
 publishDate: 2025-10-02
 tags: ["Mughal Empire", "Akbar", "colonial India", "European colonialism", "Indian historiography", "Islamic India", "East India Company", "A. V. Williams Jackson", "Stanley Lane-Poole"]

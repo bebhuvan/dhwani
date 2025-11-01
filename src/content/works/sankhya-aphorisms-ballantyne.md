@@ -9,7 +9,7 @@ collections: ['ancient-wisdom']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/sankhya-aphorisms-ed-1"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Samkhya"
     url: "https://en.wikipedia.org/wiki/Samkhya"

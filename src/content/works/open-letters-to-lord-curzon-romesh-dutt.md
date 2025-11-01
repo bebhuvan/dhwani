@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/openletterstolor00duttrich"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Romesh Chunder Dutt"
     url: "https://en.wikipedia.org/wiki/Romesh_Chunder_Dutt"

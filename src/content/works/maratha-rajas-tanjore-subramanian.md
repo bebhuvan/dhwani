@@ -9,7 +9,7 @@ collections: ['regional-history', 'court-chronicles']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.74638"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Thanjavur Maratha kingdom"
     url: "https://en.wikipedia.org/wiki/Thanjavur_Maratha_kingdom"

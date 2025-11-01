@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/indianwisdomorre00moniuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Monier Monier-Williams"
     url: "https://en.wikipedia.org/wiki/Monier_Monier-Williams"

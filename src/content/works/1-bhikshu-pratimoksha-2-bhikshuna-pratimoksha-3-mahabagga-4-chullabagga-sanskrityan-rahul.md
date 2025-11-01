@@ -13,7 +13,10 @@ sources:
 - name: Internet Archive
   url: https://archive.org/details/in.ernet.dli.2015.292192
   type: archive
-references: []
+references:
+  - name: "Open Library: Bhikshu-pratimoksha"
+    url: "https://openlibrary.org/search?q=Bhikshu-pratimoksha+Rahul+Sanskrityan"
+    type: "other"
 featured: false
 publishDate: 2025-01-22
 tags:

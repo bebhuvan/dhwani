@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/privatelifeofwar00laws"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Warren Hastings"
     url: "https://en.wikipedia.org/wiki/Warren_Hastings"

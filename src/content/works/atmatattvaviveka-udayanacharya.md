@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'philosophy']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.485457"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Udayana"
     url: "https://en.wikipedia.org/wiki/Udayana"

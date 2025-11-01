@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/commemorativeess00bhanuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Indian Culture Portal"
     url: "https://indianculture.gov.in/rarebooks/commemorative-essays-presented-sir-ramkrishna-gopal-bhandarkar"

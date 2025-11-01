@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/eastindiatradein00khanuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: East India Company"
     url: "https://en.wikipedia.org/wiki/East_India_Company"

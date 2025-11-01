@@ -9,7 +9,7 @@ collections: ['ethnography', 'tribal-studies']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/lhotanagas00mill"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Naga people"
     url: "https://en.wikipedia.org/wiki/Naga_people"

@@ -9,7 +9,7 @@ collections: ['reference-works', 'epigraphy']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.512854"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Rakhaldas Bandyopadhyay"
     url: "https://en.wikipedia.org/wiki/Rakhaldas_Bandyopadhyay"

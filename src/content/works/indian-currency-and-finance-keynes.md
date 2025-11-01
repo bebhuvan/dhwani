@@ -9,13 +9,13 @@ collections: ['colonial-india', 'political-philosophy', 'reference-texts']
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/49166"
-    type: "gutenberg"
+    type: "other"
   - name: "Internet Archive (University of Toronto)"
     url: "https://archive.org/details/indiancurrencyfi00keynuoft"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (Additional Copy)"
     url: "https://archive.org/details/indiancurrencyan014875mbp"
-    type: "archive"
+    type: "other"
 references:
   - name: "Open Library"
     url: "https://openlibrary.org/books/OL176684M/Indian_currency_and_finance"
@@ -28,7 +28,7 @@ references:
     type: "wikipedia"
 featured: false
 publishDate: 2025-10-27
-tags: ["gold-exchange-standard", "monetary-policy", "British-India", "colonial-economics", "rupee", "currency-reform", "central-banking", "international-finance", "reserve-management", "India-Office", "Royal-Commission", "silver-standard", "economic-history", "20th-century", "macmillan"]
+tags: ["gold-exchange-standard", "monetary-policy", "British-India", "colonial-economics", "rupee", "currency-reform", "central-banking", "international-finance", "reserve-management", "India-Office", "Royal-Commission", "silver-standard", "historical-texts", "20th-century", "macmillan"]
 ---
 
 # Indian Currency and Finance

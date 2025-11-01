@@ -9,10 +9,10 @@ collections: ["modern-literature", "poetry-collection"]
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/26000"
-    type: "gutenberg"
+    type: "other"
   - name: "Internet Archive"
     url: "https://archive.org/details/descentofsuncycl00bainrich"
-    type: "archive"
+    type: "other"
   - name: "Sacred Texts Archive"
     url: "https://sacred-texts.com/hin/bain/02dos/index.htm"
     type: "other"

@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/completerevenueg00hodg"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Customs duties in the United Kingdom"
     url: "https://en.wikipedia.org/wiki/Customs_duties_in_the_United_Kingdom"

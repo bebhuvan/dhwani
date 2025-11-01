@@ -9,10 +9,10 @@ collections: ["classical-literature", "poetry-collection", "ancient-wisdom"]
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/13268"
-    type: "gutenberg"
+    type: "other"
   - name: "Internet Archive"
     url: "https://archive.org/details/hinduliteraturec00wils"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikisource: Epiphanius Wilson"
     url: "https://en.wikisource.org/wiki/Author:Epiphanius_Wilson"

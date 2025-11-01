@@ -8,7 +8,7 @@ collections: ["modern-literature", "regional-voices"]
 sources:
   - name: "Internet Archive (University of Toronto)"
     url: "https://archive.org/details/punjabimusalmans00wikeuoft"
-    type: "archive"
+    type: "other"
 featured: false
 publishDate: 2025-10-22
 references:

@@ -9,10 +9,10 @@ collections: ["spiritual-texts", "classical-literature"]
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/33186"
-    type: "gutenberg"
+    type: "other"
   - name: "Internet Archive (1912 edition)"
     url: "https://archive.org/details/bub_gb_mGdFAQAAIAAJ"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Leopold von Schroeder"
     url: "https://en.wikipedia.org/wiki/Leopold_von_Schroeder"

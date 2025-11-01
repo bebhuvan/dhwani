@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/brhaddevataattri01saunuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Arthur Anthony Macdonell"
     url: "https://en.wikipedia.org/wiki/Arthur_Anthony_Macdonell"

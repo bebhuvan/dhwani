@@ -9,7 +9,7 @@ collections: ['modern-literature', 'regional-voices']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.24343"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Dinesh Chandra Sen"
     url: "https://en.wikipedia.org/wiki/Dinesh_Chandra_Sen"

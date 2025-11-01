@@ -9,7 +9,7 @@ collections: ['ancient-wisdom']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/rig-veda-sanhita-volume-i-h-h-wilson"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Rigveda"
     url: "https://en.wikipedia.org/wiki/Rigveda"

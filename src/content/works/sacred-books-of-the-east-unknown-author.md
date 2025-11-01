@@ -9,7 +9,11 @@ collections: ['ancient-wisdom', 'spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/sacredbooksofeas01unse"
-    type: "archive"
+    type: "other"
+references:
+  - name: "Open Library: Sacred Books of the East"
+    url: "https://openlibrary.org/search?q=Sacred+Books+East+Max+Muller"
+    type: "other"
 featured: true
 publishDate: 2025-10-02
 tags: ["Max Müller", "Upanishads", "Vedic philosophy", "comparative religion", "Sanskrit literature", "Hindu philosophy", "Vedanta", "Oxford University Press", "Victorian scholarship", "Indology", "sacred texts", "religious studies", "19th century"]

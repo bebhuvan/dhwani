@@ -9,7 +9,7 @@ collections: ['scientific-texts', 'ancient-wisdom']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.326830"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Varahamihira"
     url: "https://en.wikipedia.org/wiki/Varahamihira"

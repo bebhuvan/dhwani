@@ -7,9 +7,15 @@ genre: ["Buddhism—Sacred books", "Pali literature", "Buddhist canonical texts"
 description: "F. Max Müller's pioneering 1881 English translation of the Dhammapada—first complete rendering of this beloved Buddhist scripture comprising 423 verses on ethics, mindfulness, and wisdom. Published as part of the prestigious Sacred Books of the East series, this work introduced Western audiences to one of Buddhism's most accessible and influential texts, establishing translation conventions for Buddhist literature. Müller's prose translation made the Buddha's teachings on impermanence, suffering, and the path to enlightenment available to English-speaking scholars and spiritual seekers."
 collections: ['buddhist-texts', 'scholarly-translations']
 sources:
-  - name: "Internet Archive"
+  - name: "Internet Archive (Original Edition)"
     url: "https://archive.org/details/thedhammapada00unknuoft"
-    type: "archive"
+    type: "other"
+  - name: "Internet Archive (Sacred Books of the East - Volume 1)"
+    url: "https://archive.org/details/dhammapadacollection01ml"
+    type: "other"
+  - name: "Internet Archive (Sacred Books of the East - Volume 2)"
+    url: "https://archive.org/details/dhammapadacollec02ml"
+    type: "other"
 references:
   - name: "Wikipedia: Dhammapada"
     url: "https://en.wikipedia.org/wiki/Dhammapada"

@@ -9,7 +9,7 @@ collections: ["modern-literature"]
 sources:
   - name: "Internet Archive (University of California Libraries)"
     url: "https://archive.org/details/epigraphiaindica02bhan"
-    type: "archive"
+    type: "other"
 featured: false
 publishDate: 2025-10-22
 references:

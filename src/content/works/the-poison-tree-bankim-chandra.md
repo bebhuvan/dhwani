@@ -9,10 +9,10 @@ collections: ["modern-literature", "regional-voices"]
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/17455"
-    type: "gutenberg"
+    type: "other"
   - name: "Internet Archive"
     url: "https://archive.org/details/poisontreetaleof00chatrich/page/n7/mode/2up"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Bankim Chandra Chatterjee"
     url: "https://en.wikipedia.org/wiki/Bankim_Chandra_Chatterjee"

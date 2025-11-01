@@ -9,7 +9,7 @@ collections: ['regional-voices', 'modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/reportsoftourinb21cunn"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Alexander Cunningham"
     url: "https://en.wikipedia.org/wiki/Alexander_Cunningham"

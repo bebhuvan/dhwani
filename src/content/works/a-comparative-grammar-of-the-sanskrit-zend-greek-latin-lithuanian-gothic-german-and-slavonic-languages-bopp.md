@@ -15,7 +15,10 @@ sources:
 - name: Internet Archive
   url: https://archive.org/details/comparativegramm01boppuoft
   type: archive
-references: []
+references:
+  - name: "Open Library: Comparative Grammar Sanskrit Languages"
+    url: "https://openlibrary.org/search?q=Comparative+Grammar+Sanskrit+Languages+Franz+Bopp"
+    type: "other"
 featured: false
 publishDate: 2025-01-22
 tags:

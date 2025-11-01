@@ -9,7 +9,7 @@ collections: ['classical-literature', 'poetry-collection', 'ancient-wisdom']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/raghuvamsaofkali00kliduoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Raghuvaṃśa"
     url: "https://en.wikipedia.org/wiki/Raghuvaṃśa"

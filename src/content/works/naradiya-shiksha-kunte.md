@@ -9,7 +9,7 @@ collections: ['arts-texts', 'ancient-wisdom']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/naradiya-shiksha-1909"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Shiksha"
     url: "https://en.wikipedia.org/wiki/Shiksha"

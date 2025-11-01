@@ -9,7 +9,7 @@ collections: ['ancient-wisdom']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/aryabhatiya00ryabh"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Aryabhatiya"
     url: "https://en.wikipedia.org/wiki/Aryabhatiya"

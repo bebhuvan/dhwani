@@ -9,10 +9,10 @@ collections: ['spiritual-texts']
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/34125"
-    type: "gutenberg"
+    type: "other"
   - name: "Internet Archive"
     url: "https://archive.org/details/thesarvadarsanas00madhuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Madhvacharya"
     url: "https://en.wikipedia.org/wiki/Madhvacharya"

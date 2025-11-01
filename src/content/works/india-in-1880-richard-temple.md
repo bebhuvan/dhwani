@@ -9,7 +9,7 @@ collections: ["modern-literature", "classical-literature"]
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.45597"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Sir Richard Temple, 1st Baronet"
     url: "https://en.wikipedia.org/wiki/Sir_Richard_Temple,_1st_Baronet"

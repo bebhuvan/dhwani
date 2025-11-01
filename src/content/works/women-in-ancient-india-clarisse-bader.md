@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/womeninancientindia032334mbp"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Women in Hinduism"
     url: "https://en.wikipedia.org/wiki/Women_in_Hinduism"

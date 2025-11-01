@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/conferenceoforie00confuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "OpenLibrary Search"
     url: "https://openlibrary.org/search?q=Conference+of+Orientalists+Simla+1911"

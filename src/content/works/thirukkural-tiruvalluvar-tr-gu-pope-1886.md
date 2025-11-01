@@ -9,13 +9,13 @@ collections: ['classical-literature', 'poetry-collection', 'ancient-wisdom']
 sources:
   - name: "Internet Archive (University of Toronto)"
     url: "https://archive.org/details/tiruvalluvanayan00tiruuoft"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (Complete Edition)"
     url: "https://archive.org/details/tirukkural-tiruvalluvar"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (Pope Translation)"
     url: "https://archive.org/details/tirukkuralenglishtranslationgupope_655_j"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Kural"
     url: "https://en.wikipedia.org/wiki/Kural"

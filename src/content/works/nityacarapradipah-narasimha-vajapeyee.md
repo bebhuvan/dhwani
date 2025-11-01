@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'ritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.gov.ignca.14287"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Nitya karma"
     url: "https://en.wikipedia.org/wiki/Nitya_karma"

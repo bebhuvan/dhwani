@@ -9,7 +9,11 @@ collections: ['modern-literature', 'spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/akbargreatmogul100smituoft"
-    type: "archive"
+    type: "other"
+references:
+  - name: "Open Library: Akbar the Great Mogul"
+    url: "https://openlibrary.org/search?q=Akbar+Great+Mogul+Vincent+Arthur+Smith"
+    type: "other"
 featured: true
 publishDate: 2025-10-02
 tags: ["Akbar", "Mughal Empire", "Vincent Arthur Smith", "religious tolerance", "Din-i-Ilahi", "Fatehpur Sikri", "Mughal administration", "Indo-Persian culture", "16th century India", "imperial biography"]

@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'spiritual-texts', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/bhagavadgitawith00lond"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Bhagavad Gita"
     url: "https://en.wikipedia.org/wiki/Bhagavad_Gita"

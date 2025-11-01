@@ -9,7 +9,7 @@ collections: ['spiritual-texts', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.279340"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Max Müller"
     url: "https://en.wikipedia.org/wiki/Max_M%C3%BCller"

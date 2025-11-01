@@ -9,13 +9,13 @@ collections: ['classical-literature', 'political-philosophy']
 sources:
   - name: "Internet Archive (Rich transcript)"
     url: "https://archive.org/details/kamandakiyanitis00kamarich"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (University of Toronto)"
     url: "https://archive.org/details/kamandakiyanitis00kamauoft"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (DLI)"
     url: "https://archive.org/details/in.ernet.dli.2015.217516"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Nitisara"
     url: "https://en.wikipedia.org/wiki/Nitisara"

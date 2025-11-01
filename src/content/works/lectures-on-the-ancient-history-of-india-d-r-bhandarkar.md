@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/lecturesonancien00bhanrich"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: D.R. Bhandarkar"
     url: "https://en.wikipedia.org/wiki/D.R._Bhandarkar"

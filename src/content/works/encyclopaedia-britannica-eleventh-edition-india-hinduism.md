@@ -9,10 +9,10 @@ collections: ["modern-literature", "regional-voices"]
 sources:
   - name: "Project Gutenberg (Hinduism article)"
     url: "https://www.gutenberg.org/ebooks/39232"
-    type: "gutenberg"
+    type: "other"
   - name: "Internet Archive"
     url: "https://archive.org/details/dli.bengal.10689.10189"
-    type: "archive"
+    type: "other"
   - name: "Wikisource: 1911 Encyclopaedia Britannica/India"
     url: "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/India"
     type: "other"

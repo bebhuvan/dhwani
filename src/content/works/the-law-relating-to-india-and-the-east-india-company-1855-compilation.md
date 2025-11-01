@@ -9,7 +9,7 @@ collections: ["modern-literature"]
 sources:
   - name: "Internet Archive (University of California Libraries)"
     url: "https://archive.org/details/lawrelatinginda00indi"
-    type: "archive"
+    type: "other"
 featured: false
 publishDate: 2025-10-22
 references:

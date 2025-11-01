@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'regional-voices']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/IbnBattutaTravelsInAsiaAndAfricaTranslatedByHARGibb"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Ibn Battuta"
     url: "https://en.wikipedia.org/wiki/Ibn_Battuta"

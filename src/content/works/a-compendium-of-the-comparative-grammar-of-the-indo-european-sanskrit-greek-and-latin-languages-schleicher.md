@@ -15,7 +15,10 @@ sources:
 - name: Internet Archive
   url: https://archive.org/details/compendiumofcomp01schluoft
   type: archive
-references: []
+references:
+  - name: "Open Library: Compendium Comparative Grammar Indo-European"
+    url: "https://openlibrary.org/search?q=Compendium+Comparative+Grammar+Indo-European+August+Schleicher"
+    type: "other"
 featured: false
 publishDate: 2025-01-22
 tags:

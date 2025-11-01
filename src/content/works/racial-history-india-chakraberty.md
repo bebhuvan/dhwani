@@ -9,10 +9,10 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/RacialHistoryIndia"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (IGNCA)"
     url: "https://archive.org/details/in.gov.ignca.34698"
-    type: "archive"
+    type: "other"
   - name: "Google Books"
     url: "https://books.google.co.in/books?id=w-g9AAAAIAAJ&source=gbs_book_other_versions_r&cad=4"
     type: "other"

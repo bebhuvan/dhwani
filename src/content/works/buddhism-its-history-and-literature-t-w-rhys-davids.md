@@ -9,7 +9,7 @@ collections: ['spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/buddhismitshisto00davi"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Thomas William Rhys Davids"
     url: "https://en.wikipedia.org/wiki/Thomas_William_Rhys_Davids"

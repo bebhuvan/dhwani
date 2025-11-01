@@ -9,10 +9,10 @@ collections: ['modern-literature', 'spiritual-texts']
 sources:
   - name: "Internet Archive (University of Toronto)"
     url: "https://archive.org/details/hindusuperiority00sarduoft"
-    type: "archive"
+    type: "other"
   - name: "Digital Library of India"
     url: "https://archive.org/details/dli.ministry.13942"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Har Bilas Sarda"
     url: "https://en.wikipedia.org/wiki/Har_Bilas_Sarda"

@@ -9,7 +9,7 @@ collections: ['buddhist-texts', 'scholarly-translations']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/buddhistmahy01asvauoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Aśvaghoṣa"
     url: "https://en.wikipedia.org/wiki/Aśvaghoṣa"

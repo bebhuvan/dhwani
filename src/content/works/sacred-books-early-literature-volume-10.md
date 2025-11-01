@@ -9,7 +9,7 @@ collections: ['buddhist-texts', 'scholarly-translations']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/sacredbooksearly10hornuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Charles Francis Horne"
     url: "https://en.wikipedia.org/wiki/Charles_Francis_Horne"

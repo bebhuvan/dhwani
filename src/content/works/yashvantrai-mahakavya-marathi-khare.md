@@ -9,7 +9,7 @@ collections: ['regional-literature', 'poetry-collection']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.494938"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Marathi literature"
     url: "https://en.wikipedia.org/wiki/Marathi_literature"

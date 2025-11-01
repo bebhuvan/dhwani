@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'legal-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.gov.ignca.14452"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Chandesvara Thakkura"
     url: "https://en.wikipedia.org/wiki/Caṇḍeśvara_Ṭhakkura"

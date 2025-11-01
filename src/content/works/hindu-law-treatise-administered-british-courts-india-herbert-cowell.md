@@ -9,7 +9,7 @@ collections: ['modern-literature', 'spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/hindulawbeingtre00coweuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Open Library"
     url: "https://openlibrary.org/search?q=The+Hindu+law%3B+being+a+treatise+on+the+law+administered+exclusively+to+Hindus+by+the+British+courts+in+India&mode=everything"

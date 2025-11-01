@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'spiritual-texts', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/lawsofman00manu"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Manusmriti"
     url: "https://en.wikipedia.org/wiki/Manusmriti"

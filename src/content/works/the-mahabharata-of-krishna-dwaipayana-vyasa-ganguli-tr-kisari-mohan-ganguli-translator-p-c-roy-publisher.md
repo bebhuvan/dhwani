@@ -9,13 +9,13 @@ collections: ['ancient-wisdom', 'spiritual-texts', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/mahabharataofkri01roypuoft"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive"
     url: "https://archive.org/details/mahabharataofkri04calcuoft"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (Volume 6)"
     url: "https://archive.org/details/mahabharata06ramauoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikisource"
     url: "https://en.wikisource.org/wiki/The_Mahabharat"

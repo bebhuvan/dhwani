@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/tateyoindo00nogu"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Yone Noguchi"
     url: "https://en.wikipedia.org/wiki/Yone_Noguchi"

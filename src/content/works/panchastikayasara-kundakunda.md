@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'jain-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.322296"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Kundakunda"
     url: "https://en.wikipedia.org/wiki/Kundakunda"

@@ -9,7 +9,11 @@ collections: ['spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/danceofsivafourt00coomiala"
-    type: "archive"
+    type: "other"
+references:
+  - name: "Open Library: Dance of Siva"
+    url: "https://openlibrary.org/search?q=Dance+of+Siva+Ananda+Coomaraswamy"
+    type: "other"
 featured: true
 publishDate: 2025-10-02
 tags: ["Ananda Coomaraswamy", "Indian art", "Hindu aesthetics", "Nataraja", "Shiva", "art theory", "perennial philosophy", "symbolism", "Indian music", "Buddhist art", "cultural interpretation"]

@@ -1,0 +1,1180 @@
+{
+  "summary": {
+    "total_files_analyzed": 64,
+    "total_urls_found": 295,
+    "unique_urls": 295,
+    "valid_urls": 295,
+    "malformed_urls": 0,
+    "accessible_urls": 206,
+    "broken_urls": 89,
+    "redirected_urls": 3
+  },
+  "malformed_urls": [],
+  "broken_urls": [
+    {
+      "url": "https://archive.org/details/compendiumofcomp01schluoft",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "a-compendium-of-the-comparative-grammar-of-the-indo-european-sanskrit-greek-and-latin-languages-schleicher.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.267495",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "abhijnana-shakuntalam-kalidasa.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/alberunisindiaac01biru",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "alberunis-india.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indica_(Al-Biruni",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "alberunis-india.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/wg1038",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "ashtadhyayi-panini-grammar.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.22683",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "ashtadhyayi-panini-grammar.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/AshtavakraGita",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "ashtavakra-gita.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.379318",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "atharvaveda-saunaka-visha-bandhu-2.md"
+      ]
+    },
+    {
+      "url": "https://en.wikisource.org/wiki/1911_Encyclop\u00e6dia_Britannica/Sanskrit",
+      "accessible": false,
+      "status_code": null,
+      "error": "Exception: 'ascii' codec can't encode character '\\xe6' in position 23: ordinal not in range(128)",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikisource.org",
+      "files": [
+        "atharvaveda-saunaka-visha-bandhu-2.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.232200",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "bhagavata-purana-vyasa.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.378893",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "bhartiya-jyotish-vigyan-ravindra-kumar-dubey.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/satakasofbhartri00bharuoft",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "bhartrhari-shatakas.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/vedantasutrassh00shagoog",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "brahma-sutras-badarayana.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/brihadaranyaka-upanishad-shankara-bhashya",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "brihadaranyaka-upanishad.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "brihadaranyaka-upanishad.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/buddhacarita00asuoft",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "buddhacharita-ashvaghosa.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/upanishads01ml",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "chandogya-upanishad.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/CharakaSamhitaVol.IToIV",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "charaka-samhita-ayurveda.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/DeviMahatmyamGloryOfTheDivineMotherSanskritTextWith",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "devi-mahatmya-markandeya.md"
+      ]
+    },
+    {
+      "url": "https://www.sacred-texts.com/hin/duv/index.htm",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "www.sacred-texts.com",
+      "files": [
+        "devi-mahatmya-markandeya.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/gherandasamhita00ghergoog",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "gheranda-samhita-yoga.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/TheGitaGovindaOfJayadeva",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "gita-govinda-jayadeva.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.281235",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "harshacharita-banabhatta.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/harshacharita00banuoft",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "harshacharita-banabhatta.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/firstbookofhitop00ml",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "hitopadesha-narayana.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/hitopadesa00nargoog",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "hitopadesha-narayana.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Narayana_(Pandit",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "hitopadesha-narayana.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.408296",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "kadambari-banabhatta.md",
+        "kumarasambhava-kalidasa.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/kadambariobanao00riddgoog",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "kadambari-banabhatta.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sanskrit_prose",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "kadambari-banabhatta.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/kathasaritsagara-1889",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "kathasaritsagara-somadeva.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.429814",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "kautilya-arthasastra-vidhyalankara-pranath.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.481978",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "kautilya-arthashastra-hindi-anubad-kautilya.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/KularnavaTantraWithEnglishTranslation",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "kularnava-tantra.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kularnava_Tantra",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "kularnava-tantra.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kaula_(Tantra",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "kularnava-tantra.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/VijnanaBhairavaTantraJaidevaSingh",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "kumarasambhavam-kalidasa.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/laghusiddhantaka00vara",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "laghu-siddhantakaumudi-varadar\u0101ja-varadar\u0101ja.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Varadar\u0101ja",
+      "accessible": false,
+      "status_code": null,
+      "error": "Exception: 'ascii' codec can't encode character '\\u0101' in position 17: ordinal not in range(128)",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "laghu-siddhantakaumudi-varadar\u0101ja-varadar\u0101ja.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/lifeinancientind00mann",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "life-in-ancient-india-with-a-map-manning.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/littleclaycartmr00shuduoft",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "little-clay-cart-sudraka.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prakarana",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "little-clay-cart-sudraka.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/manimekalai00chit",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "manimekalai-sittalai-sattanar.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/manusmriti",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "manusmriti-laws-of-manu.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Varna_(Hinduism",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "manusmriti-laws-of-manu.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/markandeyapurana00pargoog",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "markandeya-purana-devi-mahatmya.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/dli.ernet.529291",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "meghaduta-kalidasa.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mandakranta",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "meghaduta-kalidasa.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.274358",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "mimamsa-sutras-jaimini.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/wg397",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "mimamsa-sutras-jaimini.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/NatyaShastra",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "natyashastra-bharata-muni.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rasa_(aesthetics",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "natyashastra-bharata-muni.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/nyayasutrasofgau00gauta",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "nyaya-sutras-gautama.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/panchadasi00vidyuoft",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "panchadasi-vidyaranya.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/RaghuvamsaOfKalidasa1886",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "raghuvamsa-kalidasa.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/raghuvamsaofkali00kliduoft",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "raghuvamsa-kalidasa.md",
+        "the-raghuvamsa-of-kalidasa-with-the-commentary-the-samjivani-of-mallinatha-kalidasa.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.55354",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "rajatarangini-kalhana.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/hinphilsamkhyak00daviuoft",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "samkhya-karika-ishvarakrishna.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/I%C5%9Bvarak%E1%B9%9B%E1%B9%A3%E1%B9%87a",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "samkhya-karika-ishvarakrishna.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/sangitaratnakara00sharuoft",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "sangita-ratnakara-sharangadeva.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sharangadeva",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "sangita-ratnakara-sharangadeva.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/ShivaSutras_201405",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "shiva-sutras-vasugupta.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.459912",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "silappatikaram-ilango-adigal.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/cu31924022986115",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "sukasaptati-seventy-tales-parrot.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/SushrutaSamhitaVolume1",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "sushruta-samhita-ayurveda.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.548689",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "tattvartha-sutra-umasvati.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/baburnamainengli01babuuoft",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "the-babur-nama-in-english-memoirs-of-babur-babur.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Raghuva\u1e43\u015ba",
+      "accessible": false,
+      "status_code": null,
+      "error": "Exception: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "the-raghuvamsa-of-kalidasa-with-the-commentary-the-samjivani-of-mallinatha-kalidasa.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mallin\u0101tha_S\u016bri",
+      "accessible": false,
+      "status_code": null,
+      "error": "Exception: 'ascii' codec can't encode character '\\u0101' in position 16: ordinal not in range(128)",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "the-raghuvamsa-of-kalidasa-with-the-commentary-the-samjivani-of-mallinatha-kalidasa.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/thirukkural_201808",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "thirukkural-thiruvalluvar.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/Thirumandiram",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "tirumantiram-tirumular.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/Tolkappiyam",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "tolkappiyam-tamil-grammar.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/ramaslaterhistor00bhavuoft",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "uttara-rama-charita-bhavabhuti.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/vaisesikasutraso00kana",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "vaisheshika-sutras-kanada.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vaisheshika_Sutras",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "vaisheshika-sutras-kanada.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kanada_(philosopher",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "vaisheshika-sutras-kanada.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/vishnu-purana-wilson",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "vishnu-purana-wilson.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/vivekachudamanio00sankrich",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "vivekachudamani-shankaracharya.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Atman_(Hinduism",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "vivekachudamani-shankaracharya.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maya_(religion",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "vivekachudamani-shankaracharya.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.312582",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "yasastilaka-somadeva-suri.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.446071",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "yasastilaka-somadeva-suri.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yasastilaka",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "yasastilaka-somadeva-suri.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Somadeva_(Jain_author",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "yasastilaka-somadeva-suri.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Murdoch_(literary_evangelist",
+      "accessible": false,
+      "status_code": 404,
+      "error": "HTTP 404: Not Found",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "yoga-sastra-the-yoga-sutras-of-patenjali-examined-with-a-notice-of-swami-vivekanandas-yoga-philosophy-pata\u00f1jali-christian-literature-society-for-india-murdoch.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/YogaVasisthaOfValmiki",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "yoga-vasistha-valmiki.md"
+      ]
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.322486",
+      "accessible": false,
+      "status_code": null,
+      "error": "URL Error: timed out",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "archive.org",
+      "files": [
+        "\u0905\u0937\u091f\u0927\u092f\u092f-1897-\u092a\u0923\u0928.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/P\u0101\u1e47ini",
+      "accessible": false,
+      "status_code": null,
+      "error": "Exception: 'ascii' codec can't encode characters in position 11-12: ordinal not in range(128)",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "\u0905\u0937\u091f\u0927\u092f\u092f-1897-\u092a\u0923\u0928.md"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/A\u1e63\u1e6d\u0101dhy\u0101y\u012b",
+      "accessible": false,
+      "status_code": null,
+      "error": "Exception: 'ascii' codec can't encode characters in position 11-13: ordinal not in range(128)",
+      "redirect_url": null,
+      "redirect_domain": null,
+      "original_domain": "en.wikipedia.org",
+      "files": [
+        "\u0905\u0937\u091f\u0927\u092f\u092f-1897-\u092a\u0923\u0928.md"
+      ]
+    }
+  ],
+  "redirected_urls": [
+    {
+      "url": "https://openlibrary.org/works/OL23652408W",
+      "accessible": true,
+      "status_code": 200,
+      "error": null,
+      "redirect_url": "https://openlibrary.org/works/OL23652408W/Gli_inni_dell%27_Atharvaveda_%28%C5%9Aaunaka%29",
+      "redirect_domain": "openlibrary.org",
+      "original_domain": "openlibrary.org"
+    },
+    {
+      "url": "https://openlibrary.org/authors/OL9548456A",
+      "accessible": true,
+      "status_code": 200,
+      "error": null,
+      "redirect_url": "https://openlibrary.org/authors/OL9548456A/Geeta_Rana",
+      "redirect_domain": "openlibrary.org",
+      "original_domain": "openlibrary.org"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL18303208W",
+      "accessible": true,
+      "status_code": 200,
+      "error": null,
+      "redirect_url": "https://openlibrary.org/works/OL18303208W/Kau%E1%B9%ADilya%27s_Artha%C5%9B%C4%81stra",
+      "redirect_domain": "openlibrary.org",
+      "original_domain": "openlibrary.org"
+    }
+  ],
+  "file_url_counts": {
+    "a-compendium-of-the-comparative-grammar-of-the-indo-european-sanskrit-greek-and-latin-languages-schleicher.md": 1,
+    "abhijnana-shakuntalam-kalidasa.md": 6,
+    "alberunis-india.md": 6,
+    "ashtadhyayi-panini-grammar.md": 6,
+    "ashtavakra-gita.md": 5,
+    "atharvaveda-saunaka-visha-bandhu-2.md": 4,
+    "bhagavata-purana-vyasa.md": 5,
+    "bhartiya-jyotish-vigyan-ravindra-kumar-dubey.md": 4,
+    "bhartrhari-shatakas.md": 4,
+    "brahma-sutras-badarayana.md": 6,
+    "brihadaranyaka-upanishad.md": 6,
+    "buddhacharita-ashvaghosa.md": 6,
+    "chandogya-upanishad.md": 5,
+    "charaka-samhita-ayurveda.md": 5,
+    "devi-mahatmya-markandeya.md": 6,
+    "dhammapada-buddha.md": 6,
+    "gheranda-samhita-yoga.md": 5,
+    "gita-govinda-jayadeva.md": 7,
+    "harshacharita-banabhatta.md": 6,
+    "hitopadesha-narayana.md": 6,
+    "kadambari-banabhatta.md": 6,
+    "kama-sutra-vatsyayana.md": 5,
+    "kathasaritsagara-somadeva.md": 6,
+    "kautilya-arthasastra-vidhyalankara-pranath.md": 4,
+    "kautilya-arthashastra-hindi-anubad-kautilya.md": 4,
+    "kularnava-tantra.md": 5,
+    "kumarasambhava-kalidasa.md": 8,
+    "kumarasambhavam-kalidasa.md": 5,
+    "laghu-siddhantakaumudi-varadar\u0101ja-varadar\u0101ja.md": 2,
+    "life-in-ancient-india-with-a-map-manning.md": 1,
+    "linguistic-society-of-india-not-available-1.md": 1,
+    "linguistic-society-of-india-not-available-2.md": 1,
+    "little-clay-cart-sudraka.md": 6,
+    "manimekalai-sittalai-sattanar.md": 5,
+    "manusmriti-laws-of-manu.md": 6,
+    "markandeya-purana-devi-mahatmya.md": 6,
+    "meghaduta-kalidasa.md": 6,
+    "mimamsa-sutras-jaimini.md": 7,
+    "natyashastra-bharata-muni.md": 6,
+    "nyaya-sutras-gautama.md": 5,
+    "panchadasi-vidyaranya.md": 4,
+    "raghuvamsa-kalidasa.md": 8,
+    "rajatarangini-kalhana.md": 5,
+    "samkhya-karika-ishvarakrishna.md": 5,
+    "sangita-ratnakara-sharangadeva.md": 5,
+    "shiva-sutras-vasugupta.md": 5,
+    "silappatikaram-ilango-adigal.md": 5,
+    "sukasaptati-seventy-tales-parrot.md": 4,
+    "sushruta-samhita-ayurveda.md": 5,
+    "tattvartha-sutra-umasvati.md": 5,
+    "the-babur-nama-in-english-memoirs-of-babur-babur.md": 6,
+    "the-raghuvamsa-of-kalidasa-with-the-commentary-the-samjivani-of-mallinatha-kalidasa.md": 7,
+    "thirukkural-thiruvalluvar.md": 5,
+    "tirumantiram-tirumular.md": 5,
+    "tolkappiyam-tamil-grammar.md": 5,
+    "uttara-rama-charita-bhavabhuti.md": 5,
+    "vaisheshika-sutras-kanada.md": 5,
+    "vidyapati-songs-maithili.md": 5,
+    "vishnu-purana-wilson.md": 7,
+    "vivekachudamani-shankaracharya.md": 6,
+    "yasastilaka-somadeva-suri.md": 6,
+    "yoga-sastra-the-yoga-sutras-of-patenjali-examined-with-a-notice-of-swami-vivekanandas-yoga-philosophy-pata\u00f1jali-christian-literature-society-for-india-murdoch.md": 6,
+    "yoga-vasistha-valmiki.md": 5,
+    "\u0905\u0937\u091f\u0927\u092f\u092f-1897-\u092a\u0923\u0928.md": 7
+  }
+}

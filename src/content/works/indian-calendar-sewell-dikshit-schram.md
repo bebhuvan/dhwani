@@ -9,10 +9,10 @@ collections: ['modern-literature', 'spiritual-texts']
 sources:
   - name: "Internet Archive (University of Toronto)"
     url: "https://archive.org/details/indiancalendarwi00seweuoft"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (Rich Scan)"
     url: "https://archive.org/details/indiancalendarwi00sewerich"
-    type: "archive"
+    type: "other"
 references:
   - name: "Open Library: Sankara Balkrishna Dikshit"
     url: "https://openlibrary.org/authors/OL6172226A/Sankara_Balkrishna_Dikshit"

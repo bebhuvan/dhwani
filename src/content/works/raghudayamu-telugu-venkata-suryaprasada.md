@@ -9,7 +9,7 @@ collections: ['regional-literature', 'historical-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.497505"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Pallava dynasty"
     url: "https://en.wikipedia.org/wiki/Pallava_dynasty"

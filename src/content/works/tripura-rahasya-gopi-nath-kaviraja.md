@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'philosophy']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.gov.ignca.24072"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Tripura Rahasya"
     url: "https://en.wikipedia.org/wiki/Tripura_Rahasya"

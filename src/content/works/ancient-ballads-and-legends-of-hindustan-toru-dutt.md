@@ -9,7 +9,7 @@ collections: ["classical-literature", "poetry-collection", "regional-voices"]
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/23245"
-    type: "gutenberg"
+    type: "other"
   - name: "Wikisource"
     url: "https://en.wikisource.org/wiki/Ancient_Ballads_and_Legends_of_Hindustan"
     type: "other"

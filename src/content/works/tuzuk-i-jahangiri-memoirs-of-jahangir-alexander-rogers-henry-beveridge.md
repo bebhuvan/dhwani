@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/tuzukijahangirio00jahauoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Jahangir"
     url: "https://en.wikipedia.org/wiki/Jahangir"

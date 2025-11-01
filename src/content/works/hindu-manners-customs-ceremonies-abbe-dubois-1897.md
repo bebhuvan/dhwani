@@ -9,13 +9,13 @@ collections: ['ethnographic-studies', 'religious-texts']
 sources:
   - name: "Internet Archive (1906 edition)"
     url: "https://archive.org/details/hindumannerscust1906dubo"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (DLI 1905 edition)"
     url: "https://archive.org/details/in.ernet.dli.2015.280505"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (DLI alternate)"
     url: "https://archive.org/details/in.ernet.dli.2015.49729"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Jean-Antoine Dubois"
     url: "https://en.wikipedia.org/wiki/Jean-Antoine_Dubois"

@@ -9,10 +9,10 @@ collections: ['ancient-wisdom', 'spiritual-texts', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/upanishadssrisan00sita"
-    type: "archive"
+    type: "other"
   - name: "Digital Library of India"
     url: "https://archive.org/details/in.ernet.dli.2015.283832"
-    type: "archive"
+    type: "other"
 references:
   - name: "Open Library"
     url: "https://openlibrary.org/search?q=Upanishads&mode=everything"

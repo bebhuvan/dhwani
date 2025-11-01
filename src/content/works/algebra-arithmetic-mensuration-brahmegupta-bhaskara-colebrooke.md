@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/algebrawitharith00brahuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Brahmagupta"
     url: "https://en.wikipedia.org/wiki/Brahmagupta"

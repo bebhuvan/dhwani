@@ -9,7 +9,11 @@ collections: ['classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/nalopkhyanamst00moniuoft"
-    type: "archive"
+    type: "other"
+references:
+  - name: "Open Library: Nalopakhyanam Story of Nala"
+    url: "https://openlibrary.org/search?q=Nalopakhyanam+Nala+Monier+Williams"
+    type: "other"
 featured: true
 publishDate: 2025-10-02
 tags: ["Monier Monier-Williams", "Sanskrit", "Mahābhārata", "Nala and Damayanti", "epic poetry", "Oxford", "Sanskrit pedagogy", "Victorian Orientalism", "textual scholarship"]

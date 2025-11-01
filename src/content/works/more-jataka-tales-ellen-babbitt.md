@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/morejatakatales00babb"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Jataka tales"
     url: "https://en.wikipedia.org/wiki/Jataka_tales"

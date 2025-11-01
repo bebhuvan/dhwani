@@ -9,10 +9,10 @@ collections: ["classical-literature", "spiritual-texts"]
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/47228"
-    type: "gutenberg"
+    type: "other"
   - name: "Internet Archive"
     url: "https://archive.org/details/indianmythlegend01mack/page/n5/mode/2up"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Donald Alexander Mackenzie"
     url: "https://en.wikipedia.org/wiki/Donald_Alexander_Mackenzie"

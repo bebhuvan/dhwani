@@ -9,7 +9,7 @@ collections: ['regional-voices', 'modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/historyofbengali00sendrich"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Dinesh Chandra Sen"
     url: "https://en.wikipedia.org/wiki/Dinesh_Chandra_Sen"

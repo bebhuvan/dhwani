@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'philosophy']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.345182"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Navya-Nyaya"
     url: "https://en.wikipedia.org/wiki/Navya-Nyāya"

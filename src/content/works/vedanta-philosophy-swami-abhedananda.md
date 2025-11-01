@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'spiritual-texts', 'modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/vedntaphilosop00abherich"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Swami Abhedananda"
     url: "https://en.wikipedia.org/wiki/Swami_Abhedananda"

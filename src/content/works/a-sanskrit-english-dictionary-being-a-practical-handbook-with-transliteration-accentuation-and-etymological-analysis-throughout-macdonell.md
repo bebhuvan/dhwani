@@ -9,7 +9,7 @@ collections: ["ancient-wisdom", "classical-literature"]
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/afr4858.0001.001.umich.edu"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Arthur Anthony Macdonell"
     url: "https://en.wikipedia.org/wiki/Arthur_Anthony_Macdonell"

@@ -9,10 +9,10 @@ collections: ['ancient-wisdom', 'spiritual-texts']
 sources:
   - name: "Internet Archive (DLI)"
     url: "https://archive.org/details/in.ernet.dli.2015.95948"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive"
     url: "https://archive.org/details/philosophyofupan00goug"
-    type: "archive"
+    type: "other"
 references:
   - name: "Open Library"
     url: "https://openlibrary.org/search?q=The+Philosophy+Of+The+Upanishads+And+Ancient+Indian+Metaphysics&mode=everything"

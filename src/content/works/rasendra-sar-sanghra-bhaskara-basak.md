@@ -9,7 +9,7 @@ collections: ['scientific-texts', 'ancient-wisdom']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/dli.bengal.10689.452"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Rasa shastra"
     url: "https://en.wikipedia.org/wiki/Rasa_shastra"

@@ -9,7 +9,7 @@ collections: ['regional-voices', 'spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/thevillagegodsof00whituoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Village deities of South India"
     url: "https://en.wikipedia.org/wiki/Village_deities_of_South_India"

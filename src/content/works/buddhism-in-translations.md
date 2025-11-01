@@ -9,7 +9,7 @@ collections: ['buddhist-texts', 'scholarly-translations', 'pali-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/buddhismintransl00warruoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Henry Clarke Warren"
     url: "https://en.wikipedia.org/wiki/Henry_Clarke_Warren"

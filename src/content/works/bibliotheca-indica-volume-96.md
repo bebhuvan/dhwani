@@ -9,7 +9,7 @@ collections: ['ancient-wisdom']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/bibliothecaindi01indigoog"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Bibliotheca Indica"
     url: "https://en.wikipedia.org/wiki/Bibliotheca_Indica"

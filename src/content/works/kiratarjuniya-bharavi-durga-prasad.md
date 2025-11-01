@@ -9,7 +9,7 @@ collections: ['classical-literature', 'poetry-collection']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.485479"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Kirātārjunīya"
     url: "https://en.wikipedia.org/wiki/Kirātārjunīya"

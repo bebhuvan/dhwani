@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'philosophy']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.21929"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Vacaspatimisra"
     url: "https://en.wikipedia.org/wiki/Vācaspati_Miśra"

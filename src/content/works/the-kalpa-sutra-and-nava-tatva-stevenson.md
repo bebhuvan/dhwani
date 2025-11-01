@@ -9,7 +9,7 @@ collections: ['spiritual-texts', 'ancient-wisdom']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/kalpasutranavata00stevrich"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Kalpa Sūtra"
     url: "https://en.wikipedia.org/wiki/Kalpa_S%C5%ABtra"

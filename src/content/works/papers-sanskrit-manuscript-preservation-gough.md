@@ -9,7 +9,7 @@ collections: ['ancient-wisdom']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/papersrelatingto00gougrich"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikisource: Author Page"
     url: "https://en.wikisource.org/wiki/Author:Archibald_Edward_Gough"

@@ -9,7 +9,7 @@ collections: ["astronomy", "scientific-works"]
 sources:
 - name: "Internet Archive"
   url: "https://archive.org/details/in.ernet.dli.2015.378893"
-  type: "archive"
+  type: "other"
 references:
 - name: 'Wikipedia: Hindu astrology'
   url: https://en.wikipedia.org/wiki/Hindu_astrology

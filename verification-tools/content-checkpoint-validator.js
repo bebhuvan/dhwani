@@ -374,10 +374,30 @@ function runAllCheckpoints(filePath) {
   const match = content.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
 
   if (!match) {
+    const issue = {
+      checkpoint: 1,
+      severity: 'critical',
+      field: 'frontmatter',
+      issue: 'Invalid file format (no frontmatter)'
+    };
     return {
       file: path.basename(filePath),
       passed: false,
-      error: 'Invalid file format (no frontmatter)'
+      issues: [issue],
+      summary: {
+        critical: 1,
+        major: 0,
+        minor: 0,
+        total: 1
+      },
+      checkpoints: {
+        1: [issue],
+        2: [],
+        3: [],
+        4: [],
+        5: [],
+        6: []
+      }
     };
   }
 

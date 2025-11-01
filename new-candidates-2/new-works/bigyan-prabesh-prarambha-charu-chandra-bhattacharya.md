@@ -1,0 +1,143 @@
+---
+title: "Bigyan Prabesh Prarambha"
+author: ["Charu Chandra Bhattacharya"]
+year: 1949
+language: ["Bengali"]
+genre: ["Popular science", "Science education"]
+description: "A Bengali primer in popular science that introduces basic physical and biological concepts for school‑age readers and the general public. Written with the pedagogical clarity associated with mid‑century Bengali science writing, it aligns with the outreach goals of learned societies in Bengal."
+collections: ['new-candidates']
+sources:
+  - name: "Source"
+    url: "https://archive.org/details/in.ernet.dli.2015.300065"
+    type: "archive"
+references: []
+publishDate: 2025-10-29
+tags: []
+---
+
+# Bigyan Prabesh Prarambha
+
+## Overview
+
+The primer explains foundational scientific ideas with everyday examples and simple diagrams (where present), guiding readers from observation to concept. It belongs to a stream of Bengali science communication that sought to form scientifically literate citizens without over‑technical language.
+
+## Edition Notes
+
+- Reported year: 1949
+- Source: https://archive.org/details/in.ernet.dli.2015.300065
+- Tracker notes: Bengali popular science primer; DLI scan (Bangiya Bigyan Parisad). PD OK (d.1961); duplicates not found.
+- Tasks: verify title page and verso for publication facts; note translator/editor if applicable.
+
+## About the Author
+
+Charu Chandra Bhattacharya (1891–1972) wrote accessible science in Bengali, contributing to a civic project of science education through essays, primers, and translations.
+
+## Rights Checklist
+
+- India PD: 60 years after author’s death (literary/dramatic/musical/artistic works).
+- If translation: translator’s death year governs translation rights.
+- Record evidence links for death year(s) and apply rule explicitly in the final entry.
+
+## Duplicate Screening
+
+- Run duplicate check against current catalog using title/author normalization.
+- Distinguish new translations/editions from duplicates of the same edition.
+
+## Source Integrity
+
+- Capture the Archive identifier or stable catalog link.
+- Prefer scans with complete, legible imprint pages.
+- Add a direct file link (PDF/EPUB) if available for accessibility.
+ 
+## Historical Context
+ 
+In the 1940s, Bengali institutions and journals cultivated a public for science through talks, magazines, and primers. Works like this one linked curricular science to everyday reasoning.
+ 
+## The Work
+ 
+- Topics: matter and measurement, motion and force, heat and light, living systems (exact contents to verify from ToC).
+- Method: inductive exposition from common observations; minimal algebraic formalism.
+- Features: short chapters; illustrative figures where available; end‑notes summarizing key points.
+ 
+## Significance
+ 
+- Documents the pedagogy of Bengali popular science at mid‑century.
+- Useful to historians of science education and to teachers seeking models of concept‑first exposition.
+ 
+## Editions & Sources
+ 
+- Confirm publisher, city, and year; note any association with Bangiya Bigyan Parishad or similar.
+- Record Archive identifier and file links; if multiple scans exist, select a clean copy for adoption.
+ 
+## Reading Guide
+ 
+- List three concepts explained via concrete examples; trace how examples are abstracted into definitions.
+
+## Problem Set Starters
+
+- Observation log: write a one‑page observation and extract two measurable variables.
+- Concept map: connect heat, temperature, and phase change using examples from the text.
+- Everyday physics: identify three household phenomena and classify the underlying principles.
+
+## Notes for Curators
+
+- Extract the Table of Contents (chapter titles only) to support quick topical indexing.
+
+## Analytical Questions
+
+- What problem of interpretation does the text ask the reader to solve?
+- How does diction (plain, elevated, technical) serve the argument or mood?
+- Where does form (meter, prose cadence, scene structure) direct attention?
+- What transitions mark shifts in time, perspective, or method?
+- Which images or examples bear the argumentative or emotional load?
+- How does the work balance tradition and innovation in its genre?
+- What ethical claims are explicit, and which are implied by selection or framing?
+- How are audience and purpose signaled in openings, prefaces, or asides?
+- Where does the text resist paraphrase; what is gained or lost by summary?
+- How do closing gestures (moral, question, silence) shape the after‑sense?
+
+## Comparative Pairings
+
+- Pair with one earlier and one later work in the same genre; track continuity and change.
+- Compare with a vernacular/English translation to study choices of equivalence.
+- Read alongside one critical essay; test its method against this text.
+- Contrast with a work from a different region treating a similar theme.
+- Examine how editorial apparatus (preface, notes) mediates reading across editions.
+- Compare prose and verse treatments (if applicable) of a shared motif.
+- Place beside a visual or performance representation; map gains/losses across media.
+- Pair with one contemporary review (if findable) to recover reception context.
+- Cross‑read with a policy or pedagogical document to see institutional echoes.
+- Align with a dictionary/lexicon entry for key terms to fix technical nuance.
+
+## Key Terms for Notes
+
+- Define 8–12 terms that recur (technical, stylistic, thematic) using the edition’s spelling.
+- Track aliases and transliteration variants to aid search across catalogs.
+- Distinguish authorial coinages from inherited technical vocabulary.
+- Record names and places with brief identifiers (person, movement, institution).
+- Note recurring metaphors and their literal domains (nature, craft, law, devotion).
+- Map one concept’s semantic field as used here vs. elsewhere in the tradition.
+
+## Study Assignments
+
+- Produce a 300‑word close reading of one paragraph/stanza/scene.
+- Outline the table of contents and propose a two‑lecture plan.
+- Prepare a glossary with 15 entries and two usage examples each.
+- Compile a timeline linking text events to historical dates where relevant.
+- Draft three examination questions targeting (a) recall, (b) analysis, (c) synthesis.
+- Prepare a 5‑slide teaching deck with images/tables cited from the edition.
+- Annotate one page facsimile with seals, marginalia, or typographic features.
+- Propose an excerpt (1–3 pages) suitable for undergraduate syllabi with rationale.
+
+## Appendix: Curatorial TODOs
+
+- Verify imprint (publisher, city, year) from title and verso pages.
+- Extract table of contents and add to the tracker with page spans.
+- List proper names (people/places) with brief identifiers for searchability.
+- Capture one page image to assess scan quality (contrast, margins, diacritics).
+- Note any missing or repeated pages; flag need for alternate scans.
+- Record edition‑specific features (preface, appendix, index) for citation.
+- Prepare a 5–7 sentence abstract anchored in edition facts (no speculation).
+- Identify two candidate excerpts (1–3 pages) suitable for teaching.
+- Confirm PD status for all contributors/components (if anthology/translation).
+- Add Archive identifier and direct file links to the tracker.

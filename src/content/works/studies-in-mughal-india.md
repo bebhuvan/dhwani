@@ -9,7 +9,7 @@ collections: ['mughal-history', 'scholarly-translations']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/studiesinmughali00sarkuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Jadunath Sarkar"
     url: "https://en.wikipedia.org/wiki/Jadunath_Sarkar"

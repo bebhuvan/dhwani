@@ -7,9 +7,18 @@ genre: ["Buddhist Philosophy", "Religious Literature", "Meditation Manual"]
 description: "The *Visuddhimagga* ('Path of Purification') stands as Theravada Buddhism's most comprehensive and authoritative exposition of Buddhist doctrine and meditation practice. Pe Maung Tin's 1922 English translation, published by the Pali Text Society, made this essential text accessible to Western scholarship and practitioners."
 collections: ['spiritual-texts', 'ancient-wisdom']
 sources:
-  - name: "Internet Archive"
+  - name: "Internet Archive (Pe Maung Tin translation, Vol 1)"
     url: "https://archive.org/details/pathofpuritybein01budduoft"
-    type: "archive"
+    type: "other"
+  - name: "Internet Archive (Buddhaghosa's Parables)"
+    url: "https://archive.org/details/buddhaghoshaspar00budd"
+    type: "other"
+  - name: "Internet Archive (Cornell University Edition)"
+    url: "https://archive.org/details/cu31924077744054"
+    type: "other"
+  - name: "Sacred Texts"
+    url: "https://sacred-texts.com/bud/index.htm"
+    type: "other"
 references:
   - name: "Wikipedia: Visuddhimagga"
     url: "https://en.wikipedia.org/wiki/Visuddhimagga"

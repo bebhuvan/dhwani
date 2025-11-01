@@ -9,17 +9,17 @@ collections: ["spiritual-texts", "modern-literature", "classical-literature"]
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/39442"
-    type: "gutenberg"
+    type: "other"
   - name: "Internet Archive"
     url: "https://archive.org/details/astudyofthebhaga00sinhuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Open Library: A Study of the Bhagavata Purana"
     url: "https://openlibrary.org/search?q=A+study+of+the+Bhagavata+Purana&mode=everything"
     type: "other"
 featured: false
 publishDate: 2025-10-04
-tags: ["Bhagavata Purana", "Purnendu Narayana Sinha", "Vaishnavism", "Krishna", "Hindu philosophy", "devotional literature", "Theosophy", "esoteric Hinduism", "Indian scholarship", "Puranic literature", "bhakti", "19th century India"]
+tags: ["Bhagavata Purana", "Purnendu Narayana Sinha", "Vaishnavism", "Krishna", "Hindu philosophy", "devotional literature", "Theosophy", "esoteric Hinduism", "Indian scholarship", "Puranic literature", "devotional-poetry", "19th century India"]
 ---
 
 # A Study of the Bhagavata Purana; or, Esoteric Hinduism

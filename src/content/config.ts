@@ -111,13 +111,26 @@ const blog = defineCollection({
   }),
 });
 
+const collectionsCollection = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    works: z.array(z.string()).default([]),
+    featured: z.boolean().default(false),
+    image: z.string().optional(),
+  }),
+});
+
 export const collections = {
   works,
   authors,
   blog,
+  collections: collectionsCollection,
 };
 
 // Export types for use in utilities
 export type WorkSchema = z.infer<typeof works.schema>;
 export type AuthorSchema = z.infer<typeof authors.schema>;
 export type BlogSchema = z.infer<typeof blog.schema>;
+export type CollectionSchema = z.infer<typeof collectionsCollection.schema>;

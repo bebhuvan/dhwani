@@ -9,10 +9,10 @@ collections: ["regional-voices", "ancient-wisdom"]
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/60590"
-    type: "gutenberg"
+    type: "other"
   - name: "Internet Archive"
     url: "https://archive.org/details/dardistanin1866100gwle"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Gottlieb Wilhelm Leitner"
     url: "https://en.wikipedia.org/wiki/Gottlieb_Wilhelm_Leitner"

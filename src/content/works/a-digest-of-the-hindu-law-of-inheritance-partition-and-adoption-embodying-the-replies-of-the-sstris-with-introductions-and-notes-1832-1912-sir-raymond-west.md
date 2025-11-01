@@ -9,7 +9,7 @@ collections: ['spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/digestofhindulaw00westuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Georg Bühler"
     url: "https://en.wikipedia.org/wiki/Georg_B%C3%BChler"

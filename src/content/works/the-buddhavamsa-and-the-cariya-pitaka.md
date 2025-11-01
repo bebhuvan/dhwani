@@ -9,7 +9,7 @@ collections: ['buddhist-texts', 'pali-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/buddhavasaandca00morrgoog"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Buddhavaṃsa"
     url: "https://en.wikipedia.org/wiki/Buddhavaṃsa"

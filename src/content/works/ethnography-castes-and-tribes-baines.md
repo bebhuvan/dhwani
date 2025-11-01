@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/ethnographycaste00bainrich"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Jervoise Athelstane Baines"
     url: "https://en.wikipedia.org/wiki/Jervoise_Athelstane_Baines"

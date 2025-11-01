@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'regional-voices']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/bookofsermarc01polo"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: The Travels of Marco Polo"
     url: "https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo"

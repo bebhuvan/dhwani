@@ -9,10 +9,10 @@ collections: ['historical-literature', 'jain-texts', 'medieval-india']
 sources:
   - name: "Internet Archive (DLI)"
     url: "https://archive.org/details/in.ernet.dli.2015.228845"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (DLI alternate)"
     url: "https://archive.org/details/in.ernet.dli.2015.22425"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Prabandha-Chintamani"
     url: "https://en.wikipedia.org/wiki/Prabandha-Chintamani"

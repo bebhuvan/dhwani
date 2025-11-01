@@ -9,7 +9,7 @@ collections: ['arts-texts', 'musicology']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.553648"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Raga"
     url: "https://en.wikipedia.org/wiki/Raga"

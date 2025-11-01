@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/theatharva-vedad00unkwuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Atharvaveda"
     url: "https://en.wikipedia.org/wiki/Atharvaveda"

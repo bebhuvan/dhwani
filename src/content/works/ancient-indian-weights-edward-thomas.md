@@ -9,7 +9,7 @@ collections: ['ancient-wisdom']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/ancientindianwei00thomrich"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Edward Thomas (antiquarian)"
     url: "https://en.wikipedia.org/wiki/Edward_Thomas_(antiquarian)"

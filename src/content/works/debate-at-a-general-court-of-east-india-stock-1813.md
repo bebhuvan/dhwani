@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/debateatgeneralc00east"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Charter Act of 1813"
     url: "https://en.wikipedia.org/wiki/Charter_Act_of_1813"

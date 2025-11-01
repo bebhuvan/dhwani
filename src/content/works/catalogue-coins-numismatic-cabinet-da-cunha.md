@@ -9,7 +9,7 @@ collections: ['reference-works', 'numismatics']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.279797"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: José Gerson da Cunha"
     url: "https://en.wikipedia.org/wiki/Jos%C3%A9_Gerson_da_Cunha"

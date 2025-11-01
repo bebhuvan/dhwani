@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'spiritual-texts', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/panchatantracoll00purnuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Panchatantra"
     url: "https://en.wikipedia.org/wiki/Panchatantra"

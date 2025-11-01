@@ -9,10 +9,10 @@ collections: ["modern-literature", "spiritual-texts"]
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/23136"
-    type: "gutenberg"
+    type: "other"
   - name: "Internet Archive"
     url: "https://archive.org/details/creativeunity00tagoiala"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Rabindranath Tagore"
     url: "https://en.wikipedia.org/wiki/Rabindranath_Tagore"

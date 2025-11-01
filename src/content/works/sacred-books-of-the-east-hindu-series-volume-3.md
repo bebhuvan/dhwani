@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'spiritual-texts', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/thesacredbooksof03xxxxuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Sacred Books of the East"
     url: "https://en.wikipedia.org/wiki/Sacred_Books_of_the_East"

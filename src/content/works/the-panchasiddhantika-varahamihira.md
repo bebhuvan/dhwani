@@ -9,7 +9,7 @@ collections: ['ancient-wisdom']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/panchsiddhantika00varauoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Panchasiddhantika"
     url: "https://en.wikipedia.org/wiki/Panchasiddhantika"

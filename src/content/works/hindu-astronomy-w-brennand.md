@@ -9,7 +9,7 @@ collections: ['modern-literature', 'spiritual-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/hinduastronomy00brenuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Open Library"
     url: "https://openlibrary.org/search?q=Hindu+astronomy&mode=everything"

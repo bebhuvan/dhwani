@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/storiadomogororm01manuuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Niccolò Manucci"
     url: "https://en.wikipedia.org/wiki/Niccol%C3%B2_Manucci"

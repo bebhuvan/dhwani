@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/islaminindiaorqa00sharuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Qanun-e-Islam"
     url: "https://en.wikipedia.org/wiki/Qanun-e-Islam"

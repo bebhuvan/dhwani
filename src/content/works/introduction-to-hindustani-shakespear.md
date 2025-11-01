@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/introductiontohi00shakrich"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: John Shakespear"
     url: "https://en.wikipedia.org/wiki/John_Shakespear"

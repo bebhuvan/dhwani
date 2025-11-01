@@ -157,7 +157,9 @@
             author.includes(searchTerm) ||
             description.includes(searchTerm);
 
-          const matchesAuthor = !selectedAuthor || author.includes(selectedAuthor);
+          // Check if selected author matches any individual author (case-insensitive exact match)
+          const matchesAuthor = !selectedAuthor ||
+            work.authorNormalized.some(a => a.toLowerCase() === selectedAuthor);
           const matchesLanguage = !selectedLanguage || language.includes(selectedLanguage);
           const matchesGenre = !selectedGenre || genre.includes(selectedGenre);
 

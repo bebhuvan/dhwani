@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/ramaslaterhistor00bhavuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Uttararamacarita"
     url: "https://en.wikipedia.org/wiki/Uttararamacarita"

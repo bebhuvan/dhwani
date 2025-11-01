@@ -9,7 +9,7 @@ collections: ['modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/warrenhastingsin00jone"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Warren Hastings"
     url: "https://en.wikipedia.org/wiki/Warren_Hastings"

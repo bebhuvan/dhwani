@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/SangitaRatnakara"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Sangita Ratnakara"
     url: "https://en.wikipedia.org/wiki/Sangita_Ratnakara"

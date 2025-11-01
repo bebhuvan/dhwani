@@ -9,7 +9,7 @@ collections: ['modern-literature', 'regional-voices']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/indiancraftsman00coomuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Ananda Coomaraswamy"
     url: "https://en.wikipedia.org/wiki/Ananda_Coomaraswamy"

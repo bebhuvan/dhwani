@@ -9,7 +9,7 @@ collections: ['spiritual-texts', 'ancient-wisdom', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.188841"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Markandeya Purana"
     url: "https://en.wikipedia.org/wiki/Markandeya_Purana"

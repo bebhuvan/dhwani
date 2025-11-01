@@ -9,13 +9,13 @@ collections: ['academic-journals', 'indology', 'archaeology']
 sources:
   - name: "Internet Archive (DLI Vol. 1)"
     url: "https://archive.org/details/dli.ernet.277428"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (DLI alternate)"
     url: "https://archive.org/details/in.ernet.dli.2015.44339"
-    type: "archive"
+    type: "other"
   - name: "Internet Archive (Royal Asiatic)"
     url: "https://archive.org/details/indianantiquaryj266roya"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: The Indian Antiquary"
     url: "https://en.wikipedia.org/wiki/The_Indian_Antiquary"

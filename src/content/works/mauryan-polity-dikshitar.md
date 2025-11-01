@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'modern-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.530078"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Maurya Empire"
     url: "https://en.wikipedia.org/wiki/Maurya_Empire"

@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'scientific-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/dli.ministry.23635"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Ayurveda"
     url: "https://en.wikipedia.org/wiki/Ayurveda"

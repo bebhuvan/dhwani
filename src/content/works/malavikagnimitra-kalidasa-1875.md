@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'classical-literature']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/malavikagnimitra00kaliiala"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Mālavikāgnimitram"
     url: "https://en.wikipedia.org/wiki/Mālavikāgnimitram"

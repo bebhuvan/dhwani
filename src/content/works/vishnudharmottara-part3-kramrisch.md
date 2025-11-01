@@ -9,7 +9,7 @@ collections: ['arts-texts', 'technical-manuals']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/dli.calcutta.10295"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Stella Kramrisch"
     url: "https://en.wikipedia.org/wiki/Stella_Kramrisch"

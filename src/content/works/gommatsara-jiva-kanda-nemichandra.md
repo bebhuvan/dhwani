@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'jain-texts']
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/in.ernet.dli.2015.24370"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Nemichandra"
     url: "https://en.wikipedia.org/wiki/Nemichandra"

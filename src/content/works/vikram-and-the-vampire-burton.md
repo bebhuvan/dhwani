@@ -9,10 +9,10 @@ collections: ["classical-literature", "regional-voices"]
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/48511"
-    type: "gutenberg"
+    type: "other"
   - name: "Internet Archive"
     url: "https://archive.org/details/vikramvampireort00burtrich"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Richard Francis Burton"
     url: "https://en.wikipedia.org/wiki/Richard_Francis_Burton"

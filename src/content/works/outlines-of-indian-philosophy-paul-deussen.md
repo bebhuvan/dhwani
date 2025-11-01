@@ -9,7 +9,7 @@ collections: ['ancient-wisdom', 'modern-literature', 'spiritual-texts']
 sources:
   - name: "Internet Archive (1976 reprint)"
     url: "https://archive.org/details/outlinesofindian00deusuoft"
-    type: "archive"
+    type: "other"
 references:
   - name: "Wikipedia: Paul Deussen"
     url: "https://en.wikipedia.org/wiki/Paul_Deussen"
