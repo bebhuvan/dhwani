@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-11-05T10:12:26.086Z",
+  "statistics": {
+    "total": 180,
+    "processed": 180,
+    "verified": 163,
+    "rejected": 1,
+    "errors": 16
+  },
+  "batches": 9,
+  "rejections": [
+    {
+      "file": "a-comparative-grammar-of-the-sanskrit-zend-greek-latin-lithuanian-gothic-german-and-slavonic-languages-bopp.md",
+      "reason": "Not Indian-related",
+      "score": 4,
+      "keywords": [
+        "sanskrit",
+        "chola"
+      ]
+    }
+  ],
+  "summary": {
+    "acceptanceRate": "90.56%",
+    "rejectionRate": "0.56%",
+    "errorRate": "8.89%"
+  }
+}

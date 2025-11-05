@@ -1,0 +1,2040 @@
+{
+  "timestamp": "2025-11-02T10:35:57.772Z",
+  "summary": {
+    "total": 170,
+    "byPriority": {
+      "HIGH": 41,
+      "MEDIUM": 32,
+      "LOW": 97
+    }
+  },
+  "categories": [
+    {
+      "name": "ancient-classical",
+      "priority": "HIGH",
+      "count": 29,
+      "works": [
+        {
+          "filename": "taittiriya-upanishad.md",
+          "title": "Taittiriya Upanishad",
+          "author": "Various Sages",
+          "year": -600,
+          "genre": "Philosophy",
+          "collections": [
+            "philosophy",
+            "religious-texts",
+            "ancient-wisdom",
+            "spiritual-texts",
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "ashtadhyayi-panini-grammar.md",
+          "title": "Ashtadhyayi (Eight Chapters)",
+          "author": "Panini",
+          "year": -400,
+          "genre": "Linguistics",
+          "collections": [
+            "linguistic-works",
+            "scientific-texts",
+            "classical-literature",
+            "ancient-wisdom",
+            "technical-manuals"
+          ]
+        },
+        {
+          "filename": "ashtadhyayi-translated-into-english-by-srisa-chandra-vasu-panini.md",
+          "title": "Panini's Ashtadhyayi: The Sanskrit Grammar",
+          "author": "Panini",
+          "year": -400,
+          "genre": "Grammar",
+          "collections": [
+            "ancient-wisdom",
+            "spiritual-texts",
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "shvetashvatara-upanishad.md",
+          "title": "Shvetashvatara Upanishad",
+          "author": "Various Sages",
+          "year": -400,
+          "genre": "Philosophy",
+          "collections": [
+            "philosophy",
+            "religious-texts",
+            "ancient-wisdom",
+            "spiritual-texts",
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "vaisheshika-sutras-kanada.md",
+          "title": "Vaisheshika Sutras (Categories and Atomic Theory)",
+          "author": "Kanada",
+          "year": -300,
+          "genre": "Philosophy",
+          "collections": [
+            "philosophy",
+            "scientific-texts",
+            "classical-literature",
+            "ancient-wisdom",
+            "scholarly-translations"
+          ]
+        },
+        {
+          "filename": "jaimini-sutras-purva-mimamsa.md",
+          "title": "Jaimini Sutras: Purva Mimamsa (Vedic Ritual Interpretation)",
+          "author": "Jaimini",
+          "year": -250,
+          "genre": "Philosophy",
+          "collections": [
+            "philosophy",
+            "religious-texts",
+            "classical-literature",
+            "ancient-wisdom",
+            "scholarly-translations"
+          ]
+        },
+        {
+          "filename": "mimamsa-sutras-jaimini.md",
+          "title": "Mimamsa Sutras (Purva Mimamsa Sutras)",
+          "author": "Jaimini",
+          "year": -200,
+          "genre": "Philosophy",
+          "collections": [
+            "philosophy",
+            "religious-texts",
+            "ancient-wisdom",
+            "classical-literature",
+            "philosophical-works"
+          ]
+        },
+        {
+          "filename": "nyaya-sutras-gautama.md",
+          "title": "Nyaya Sutras (Foundations of Logic and Epistemology)",
+          "author": "Gautama (Akshapada)",
+          "year": -200,
+          "genre": "Philosophy",
+          "collections": [
+            "philosophy",
+            "philosophy",
+            "classical-literature",
+            "ancient-wisdom",
+            "scholarly-translations"
+          ]
+        },
+        {
+          "filename": "nyaya-sutras-of-gotama.md",
+          "title": "Nyaya Sutras of Gotama (Foundations of Indian Logic)",
+          "author": "Akshapada Gautama (Gotama)",
+          "year": -200,
+          "genre": "Philosophy",
+          "collections": [
+            "philosophy",
+            "classical-literature",
+            "ancient-wisdom",
+            "scholarly-translations"
+          ]
+        },
+        {
+          "filename": "mahabhashya-patanjali.md",
+          "title": "Mahabhashya (The Great Commentary)",
+          "author": "Patanjali",
+          "year": -150,
+          "genre": "Linguistics",
+          "collections": [
+            "linguistic-works",
+            "philosophy",
+            "classical-literature",
+            "ancient-wisdom",
+            "reference-works"
+          ]
+        },
+        {
+          "filename": "nyaya-sutras-akshapada-gautama.md",
+          "title": "Nyaya Sutras (Sutras on Logic)",
+          "author": "Akshapada Gautama",
+          "year": -150,
+          "genre": "Philosophy",
+          "collections": [
+            "philosophy",
+            "classical-literature",
+            "ancient-wisdom",
+            "reference-works",
+            "philosophy"
+          ]
+        },
+        {
+          "filename": "samkhya-karika-ishvarakrishna.md",
+          "title": "Samkhya Karika (Verses on Enumeration Philosophy)",
+          "author": "Ishvarakrishna",
+          "year": 350,
+          "genre": "Philosophy",
+          "collections": [
+            "philosophy",
+            "religious-texts",
+            "classical-literature",
+            "ancient-wisdom",
+            "scholarly-translations"
+          ]
+        },
+        {
+          "filename": "patanjali-yoga-sutras.md",
+          "title": "Yoga Sutras of Patanjali (Classical Foundation of Yoga Philosophy)",
+          "author": "Patanjali",
+          "year": 400,
+          "genre": "Philosophy",
+          "collections": [
+            "philosophy",
+            "spiritual-texts",
+            "classical-literature",
+            "ancient-wisdom",
+            "scholarly-translations"
+          ]
+        },
+        {
+          "filename": "vishnu-purana-wilson.md",
+          "title": "Vishnu Purana",
+          "author": "Vyasa (attributed)",
+          "year": 400,
+          "genre": "Religious Texts",
+          "collections": [
+            "religious-texts",
+            "classical-literature",
+            "devotional-literature",
+            "ancient-wisdom"
+          ]
+        },
+        {
+          "filename": "vijnana-bhairava-tantra.md",
+          "title": "Vijnana Bhairava Tantra (Divine Consciousness)",
+          "author": "Unknown",
+          "year": 800,
+          "genre": "Tantric Texts",
+          "collections": [
+            "religious-texts",
+            "spiritual-texts",
+            "philosophy",
+            "philosophy",
+            "spiritual-texts"
+          ]
+        },
+        {
+          "filename": "shiva-sutras-vasugupta.md",
+          "title": "Shiva Sutras (Aphorisms of Shiva)",
+          "author": "Vasugupta",
+          "year": 850,
+          "genre": "Philosophy",
+          "collections": [
+            "philosophy",
+            "religious-texts",
+            "religious-texts",
+            "classical-literature",
+            "philosophy"
+          ]
+        },
+        {
+          "filename": "kularnava-tantra.md",
+          "title": "Kularnava Tantra (Ocean of Kula Tradition)",
+          "author": "Unknown",
+          "year": 1000,
+          "genre": "Religious Texts",
+          "collections": [
+            "religious-texts",
+            "religious-texts",
+            "philosophy",
+            "classical-literature",
+            "medieval-india"
+          ]
+        },
+        {
+          "filename": "shiva-purana.md",
+          "title": "Shiva Purana",
+          "author": "Vyasa (attributed)",
+          "year": 1000,
+          "genre": "Religious Texts",
+          "collections": [
+            "religious-texts",
+            "classical-literature",
+            "devotional-literature",
+            "ancient-wisdom"
+          ]
+        },
+        {
+          "filename": "periya-puranam-sekkizhar.md",
+          "title": "Periya Puranam",
+          "author": "Sekkizhar",
+          "year": 1140,
+          "genre": "Hagiography",
+          "collections": [
+            "classical-literature",
+            "devotional-literature",
+            "historical-literature"
+          ]
+        },
+        {
+          "filename": "kamba-ramayanam.md",
+          "title": "Kamba Ramayanam",
+          "author": "Kambar",
+          "year": 1180,
+          "genre": "Epic Poetry",
+          "collections": [
+            "classical-literature",
+            "epic-poetry",
+            "devotional-literature"
+          ]
+        },
+        {
+          "filename": "gheranda-samhita-yoga.md",
+          "title": "Gheranda Samhita (Gheranda's Collection)",
+          "author": "Gheranda",
+          "year": 1650,
+          "genre": "Yoga Texts",
+          "collections": [
+            "spiritual-texts",
+            "spiritual-texts",
+            "technical-manuals",
+            "classical-literature",
+            "medical-texts"
+          ]
+        },
+        {
+          "filename": "the-vishnu-purana-wilson.md",
+          "title": "The Viṣṇu Purāṇa: A System of Hindu Mythology and Tradition",
+          "author": "Horace Hayman Wilson (translator)",
+          "year": 1840,
+          "genre": "Mythology",
+          "collections": [
+            "spiritual-texts",
+            "classical-literature",
+            "ancient-wisdom"
+          ]
+        },
+        {
+          "filename": "rig-veda-sanhit-english-translation-h-h-wilson.md",
+          "title": "Rig-Veda-Sanhitā (English translation)",
+          "author": "H. H. Wilson",
+          "year": 1850,
+          "genre": "Literature",
+          "collections": [
+            "ancient-wisdom",
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "yoga-sastra-the-yoga-sutras-of-patenjali-examined-with-a-notice-of-swami-vivekanandas-yoga-philosophy-patañjali-christian-literature-society-for-india-murdoch.md",
+          "title": "Yoga Sastra : the Yoga sutras of Patenjali examined : with a notice of Swami Vivekananda's Yoga philosophy",
+          "author": "Patañjali",
+          "year": 1897,
+          "genre": "Yoga Philosophy",
+          "collections": [
+            "spiritual-texts",
+            "philosophical-works",
+            "religious-texts"
+          ]
+        },
+        {
+          "filename": "sushruta-samhita-english-translation.md",
+          "title": "An English Translation of the Sushruta Samhita",
+          "author": "Sushruta",
+          "year": 1907,
+          "genre": "Medical Literature",
+          "collections": [
+            "ancient-wisdom",
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "yoga-system-of-patanjali-woods-translation.md",
+          "title": "The Yoga-System of Patañjali: Or, The Ancient Hindu Doctrine of Concentration of Mind",
+          "author": "Patañjali",
+          "year": 1914,
+          "genre": "Philosophy",
+          "collections": [
+            "ancient-wisdom",
+            "spiritual-texts",
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "hymns-from-the-rigveda-macdonell.md",
+          "title": "Hymns from the Rigveda: Selected and Metrically Translated",
+          "author": "Arthur Anthony Macdonell",
+          "year": 1922,
+          "genre": "Sacred Texts",
+          "collections": [
+            "ancient-wisdom"
+          ]
+        },
+        {
+          "filename": "kautilya-arthashastra-hindi-anubad-kautilya.md",
+          "title": "Kautilya Arthashastra Hindi Anubad",
+          "author": "Kautilya",
+          "year": 1925,
+          "genre": "Philosophy",
+          "collections": [
+            "philosophy",
+            "political-philosophy"
+          ]
+        },
+        {
+          "filename": "mool-ramayana-ramnathlal-1.md",
+          "title": "Mool Ramayana",
+          "author": "Ramnathlal",
+          "year": 1929,
+          "genre": "Banasthali",
+          "collections": [
+            "classical-literature"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "religious-philosophical",
+      "priority": "HIGH",
+      "count": 12,
+      "works": [
+        {
+          "filename": "kalpa-sutra.md",
+          "title": "Kalpa Sutra (Scripture on Monastic Discipline and Sacred Biography)",
+          "author": "Bhadrabahu",
+          "year": -300,
+          "genre": "Jain Scripture",
+          "collections": [
+            "jain-texts",
+            "religious-texts",
+            "spiritual-texts",
+            "historical-literature"
+          ]
+        },
+        {
+          "filename": "milinda-panha.md",
+          "title": "Milinda Panha (Questions of King Milinda)",
+          "author": "Nagasena",
+          "year": -100,
+          "genre": "Buddhist Philosophy",
+          "collections": [
+            "buddhist-texts",
+            "pali-literature",
+            "ancient-wisdom"
+          ]
+        },
+        {
+          "filename": "ashtavakra-gita.md",
+          "title": "Ashtavakra Gita (Song of Ashtavakra)",
+          "author": "Unknown",
+          "year": 500,
+          "genre": "Philosophy",
+          "collections": [
+            "philosophy",
+            "spiritual-texts",
+            "philosophy",
+            "ancient-wisdom",
+            "poetry-collection"
+          ]
+        },
+        {
+          "filename": "vivekachudamani-shankaracharya.md",
+          "title": "Vivekachudamani (Crest-Jewel of Discrimination)",
+          "author": "Adi Shankaracharya",
+          "year": 800,
+          "genre": "Philosophy",
+          "collections": [
+            "philosophy",
+            "spiritual-texts",
+            "devotional-literature",
+            "ancient-wisdom",
+            "religious-texts"
+          ]
+        },
+        {
+          "filename": "gita-govinda-jayadeva.md",
+          "title": "Gita Govinda",
+          "author": "Jayadeva",
+          "year": 1200,
+          "genre": "Devotional Poetry",
+          "collections": [
+            "devotional-literature",
+            "classical-literature",
+            "devotional-poetry",
+            "religious-texts",
+            "poetry-collection"
+          ]
+        },
+        {
+          "filename": "sangita-ratnakara-sharangadeva.md",
+          "title": "Sangita Ratnakara (Ocean of Music)",
+          "author": "Sharangadeva",
+          "year": 1240,
+          "genre": "Musicology",
+          "collections": [
+            "musicology",
+            "arts-texts",
+            "technical-manuals",
+            "classical-literature",
+            "medieval-india"
+          ]
+        },
+        {
+          "filename": "the-milindapanha.md",
+          "title": "The Milindapañho",
+          "author": "Vilhelm Trenckner",
+          "year": 1880,
+          "genre": "Buddhist philosophy",
+          "collections": [
+            "buddhist-texts",
+            "pali-literature"
+          ]
+        },
+        {
+          "filename": "sangita-raga-kalpadruma-vol1.md",
+          "title": "Saṅgīta Rāga-kalpadruma Vol. 1",
+          "author": "Krishnananda Vyasadeva Ragasagara",
+          "year": 1914,
+          "genre": "Musicology",
+          "collections": [
+            "arts-texts",
+            "musicology"
+          ]
+        },
+        {
+          "filename": "beginnings-of-buddhist-art-and-other-essays-in-indian-and-central-asian-archaeology-foucher.md",
+          "title": "The Beginnings of Buddhist Art and Other Essays in Indian and Central-Asian Archaeology",
+          "author": "Alfred Foucher",
+          "year": 1917,
+          "genre": "Art History",
+          "collections": [
+            "spiritual-texts"
+          ]
+        },
+        {
+          "filename": "sangita-makaranda-telang.md",
+          "title": "Saṅgīta-makaranda (Essence of Music)",
+          "author": "Edited/Translated by Mangesh Ramakrishna Telang",
+          "year": 1920,
+          "genre": "Musicology",
+          "collections": [
+            "arts-texts",
+            "musicology"
+          ]
+        },
+        {
+          "filename": "research-methodology-bm-jain-1.md",
+          "title": "Research Methodology",
+          "author": "B.m. Jain",
+          "year": 1945,
+          "genre": "Banasthali",
+          "collections": [
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "bhartiya-shasan-and-rajniti-jain-pukhraj.md",
+          "title": "Bhartiya Shasan And Rajniti",
+          "author": "Jain Pukhraj",
+          "year": 1990,
+          "genre": "Banasthali",
+          "collections": [
+            "classical-literature"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "colonial-scholarship",
+      "priority": "MEDIUM",
+      "count": 23,
+      "works": [
+        {
+          "filename": "the-economic-history-of-india-romesh-chunder-dutt.md",
+          "title": "The Economic History of India",
+          "author": "Romesh Chunder Dutt",
+          "genre": "Historical Literature",
+          "collections": [
+            "regional-voices"
+          ]
+        },
+        {
+          "filename": "narrative-of-a-journey-through-the-upper-provinces-of-india-reginald-heber.md",
+          "title": "Narrative of a Journey through the Upper Provinces of India",
+          "author": "Reginald Heber",
+          "year": 1828,
+          "genre": "Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "annals-and-antiquities-of-rajasthan-james-tod.md",
+          "title": "Annals and Antiquities of Rajasthan",
+          "author": "James Tod",
+          "year": 1829,
+          "genre": "Historical Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "history-of-the-rise-of-the-mahomedan-power-in-india-muammad-qsim-firishta-tr-john-briggs.md",
+          "title": "History of the Rise of the Mahomedan Power in India",
+          "author": "Muḥammad Qāsim Firishta",
+          "year": 1829,
+          "genre": "Historical Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "the-birds-of-india-being-a-natural-history-of-the-birds-known-to-inhabit-continental-india-thomas-c-jerdon.md",
+          "title": "The Birds of India, Being a Natural History of the Birds Known to Inhabit Continental India",
+          "author": "Thomas C. Jerdon",
+          "year": 1862,
+          "genre": "Historical Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "the-history-of-india-as-told-by-its-own-historians-h-m-elliot-completed-by-john-dowson.md",
+          "title": "The History of India, as Told by Its Own Historians",
+          "author": "H. M. Elliot",
+          "year": 1867,
+          "genre": "Historical Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "the-indian-musalmans-are-they-bound-in-conscience-to-rebel-against-the-queen-w-w-hunter.md",
+          "title": "The Indian Musalmans: Are They Bound in Conscience to Rebel Against the Queen?",
+          "author": "W. W. Hunter",
+          "year": 1871,
+          "genre": "Political Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "the-flora-of-british-india-joseph-dalton-hooker-ed-with-collaborators.md",
+          "title": "The Flora of British India",
+          "author": "Joseph Dalton Hooker (ed.)",
+          "year": 1872,
+          "genre": "Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "a-comparative-grammar-of-the-dravidian-or-south-indian-family-of-languages-robert-caldwell.md",
+          "title": "A Comparative Grammar of the Dravidian or South-Indian Family of Languages",
+          "author": "Robert Caldwell",
+          "year": 1875,
+          "genre": "Reference Work",
+          "collections": [
+            "regional-voices"
+          ]
+        },
+        {
+          "filename": "the-natural-history-of-the-mammalia-of-india-and-ceylon-r-a-sterndale.md",
+          "title": "The Natural History of the Mammalia of India and Ceylon",
+          "author": "R. A. Sterndale",
+          "year": 1884,
+          "genre": "Historical Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "the-indian-empire-its-peoples-history-and-products-w-w-hunter.md",
+          "title": "The Indian Empire: Its Peoples, History, and Products",
+          "author": "W. W. Hunter",
+          "year": 1886,
+          "genre": "Historical Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "travels-in-india-jeanbaptiste-tavernier-tr-v-ball.md",
+          "title": "Travels in India",
+          "author": "Jean‑Baptiste Tavernier",
+          "year": 1889,
+          "genre": "Travel Literature",
+          "collections": [
+            "regional-voices"
+          ]
+        },
+        {
+          "filename": "the-tribes-and-castes-of-bengal-anthropometric-data-ethnographic-glossary-h-h-risley.md",
+          "title": "The Tribes and Castes of Bengal — Anthropometric Data & Ethnographic Glossary",
+          "author": "H. H. Risley",
+          "year": 1891,
+          "genre": "Reference Work",
+          "collections": [
+            "regional-voices"
+          ]
+        },
+        {
+          "filename": "mysore-a-gazetteer-b-lewis-rice.md",
+          "title": "Mysore: A Gazetteer",
+          "author": "B. Lewis Rice",
+          "year": 1897,
+          "genre": "Travel Literature",
+          "collections": [
+            "regional-voices"
+          ]
+        },
+        {
+          "filename": "the-embassy-of-sir-thomas-roe-to-the-court-of-the-great-mogul-16151619-sir-thomas-roe-ed-william-foster.md",
+          "title": "The Embassy of Sir Thomas Roe to the Court of the Great Mogul, 1615–1619",
+          "author": "Sir Thomas Roe",
+          "year": 1899,
+          "genre": "Political Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "a-forgotten-empire-vijayanagar-a-contribution-to-the-history-of-india-1845-1925-robert-sewell.md",
+          "title": "A Forgotten Empire (Vijayanagar): A Contribution to the History of India",
+          "author": "Robert Sewell",
+          "year": 1900,
+          "genre": "Historical Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "riyaz-us-salatin-history-of-bengal.md",
+          "title": "Riyaz-us-Salatin: A History of Bengal",
+          "author": "Ghulam Husain Salim",
+          "year": 1902,
+          "genre": "Historical Literature",
+          "collections": [
+            "regional-voices",
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "the-imperial-gazetteer-of-india-new-edition-government-of-india.md",
+          "title": "The Imperial Gazetteer of India (New Edition)",
+          "author": "Government of India",
+          "year": 1908,
+          "genre": "Travel Literature",
+          "collections": [
+            "regional-voices"
+          ]
+        },
+        {
+          "filename": "history-of-indian-and-eastern-architecture-1808-1886-james-fergusson.md",
+          "title": "History of Indian and Eastern Architecture",
+          "author": "James Fergusson",
+          "year": 1910,
+          "genre": "Architecture",
+          "collections": [
+            "classical-literature",
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "indian-architecture-its-psychology-structure-and-history-from-the-first-muhannadan-invasion-to-the-present-day-havell.md",
+          "title": "Indian Architecture: Its Psychology, Structure, and History",
+          "author": "Ernest Binfield Havell",
+          "year": 1913,
+          "genre": "Architecture",
+          "collections": [
+            "spiritual-texts"
+          ]
+        },
+        {
+          "filename": "panjab-castes-1847-1908-sir-denzil-ibbetson.md",
+          "title": "Panjab castes",
+          "author": "1847-1908  Sir  Denzil Ibbetson",
+          "year": 1916,
+          "genre": "Literature",
+          "collections": [
+            "regional-voices",
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "history-of-aurangzib-vol-i-j-n-sarkar.md",
+          "title": "History of Aurangzib (Five Volumes)",
+          "author": "Jadunath Sarkar",
+          "year": 1920,
+          "genre": "History",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "history-of-indian-philosophy-dasgupta.md",
+          "title": "A History of Indian Philosophy",
+          "author": "Surendranath Dasgupta",
+          "year": 1922,
+          "genre": "Philosophy",
+          "collections": [
+            "modern-literature",
+            "spiritual-texts"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "modern-literature",
+      "priority": "MEDIUM",
+      "count": 9,
+      "works": [
+        {
+          "filename": "confessions-of-a-thug-meadows-taylor.md",
+          "title": "Confessions of a Thug",
+          "author": "Meadows Taylor",
+          "year": 1839,
+          "genre": "Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "with-clive-in-india-or-the-beginnings-of-an-empire-g-a-henty.md",
+          "title": "With Clive in India; or, The Beginnings of an Empire",
+          "author": "G. A. Henty",
+          "year": 1884,
+          "genre": "Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "the-golden-threshold-sarojini-naidu.md",
+          "title": "The Golden Threshold",
+          "author": "Sarojini Naidu",
+          "year": 1905,
+          "genre": "Literature",
+          "collections": [
+            "modern-literature",
+            "poetry-collection"
+          ]
+        },
+        {
+          "filename": "hind-swaraj-indian-home-rule-gandhi.md",
+          "title": "Hind Swaraj or Indian Home Rule",
+          "author": "Mahatma Gandhi",
+          "year": 1909,
+          "genre": "Political Literature",
+          "collections": [
+            "regional-voices",
+            "modern-literature",
+            "spiritual-texts"
+          ]
+        },
+        {
+          "filename": "indian-speeches-19071909-john-morley.md",
+          "title": "Indian Speeches (1907–1909)",
+          "author": "John Morley",
+          "year": 1910,
+          "genre": "Political Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "indian-unrest-valentine-chirol.md",
+          "title": "Indian Unrest",
+          "author": "Valentine Chirol",
+          "year": 1910,
+          "genre": "Political Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "nationalism-rabindranath-tagore.md",
+          "title": "Nationalism",
+          "author": "Rabindranath Tagore",
+          "year": 1917,
+          "genre": "Political Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "the-case-for-india-annie-besant.md",
+          "title": "The Case for India",
+          "author": "Annie Besant",
+          "year": 1917,
+          "genre": "Political Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "third-class-in-indian-railways-m-k-gandhi.md",
+          "title": "Third Class in Indian Railways",
+          "author": "M. K. Gandhi",
+          "year": 1917,
+          "genre": "Political Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dictionaries-reference",
+      "priority": "LOW",
+      "count": 5,
+      "works": [
+        {
+          "filename": "hobson-jobson-a-glossary-of-colloquial-anglo-indian-words-and-phrases-henry-yule-a-c-burnell-rev-william-crooke.md",
+          "title": "Hobson-Jobson: A Glossary of Colloquial Anglo-Indian Words and Phrases",
+          "author": "Henry Yule",
+          "year": 1886,
+          "genre": "Reference Work",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "the-english-urdu-translators-companion-durga-prasad.md",
+          "title": "The English Urdu Translators Companion",
+          "author": "Durga Prasad",
+          "year": 1890,
+          "genre": "Reference Literature",
+          "collections": [
+            "reference-texts",
+            "linguistic-works",
+            "colonial-india"
+          ]
+        },
+        {
+          "filename": "తలగ-ఇగలష-నఘటవ-telugu-english-dictionary-ప-శకరనరయణ.md",
+          "title": "తెలుగు-ఇంగ్లీషు నిఘంటువు (Telugu-English Dictionary)",
+          "author": "పి శంకరనారాయణ",
+          "year": 1900,
+          "genre": "Telugu Lexicography",
+          "collections": [
+            "reference-texts",
+            "linguistic-works",
+            "regional-literature"
+          ]
+        },
+        {
+          "filename": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte-vaman-shivaram-1858-1892.md",
+          "title": "The Practical Sanskrit-English dictionary containing appendices on Sanskrit prosody and important literary and geogrpahical names of ancient India",
+          "author": "Apte, Vaman Shivaram, 1858-1892",
+          "year": 1965,
+          "genre": "Sanskrit Lexicography",
+          "collections": [
+            "reference-texts",
+            "linguistic-works",
+            "indology"
+          ]
+        },
+        {
+          "filename": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte.md",
+          "title": "The Practical Sanskrit-English dictionary containing appendices on Sanskrit prosody and important literary and geogrpahical names of ancient India",
+          "author": "Apte",
+          "year": 1965,
+          "genre": "Sanskrit Lexicography",
+          "collections": [
+            "reference-texts",
+            "linguistic-works",
+            "indology"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "natural-history",
+      "priority": "LOW",
+      "count": 1,
+      "works": [
+        {
+          "filename": "a-handbook-of-some-south-indian-grasses-k-rangachari-c-tadulinga-mudaliyar.md",
+          "title": "A Handbook of Some South Indian Grasses",
+          "author": "K. Rangachari",
+          "year": 1921,
+          "genre": "Reference Work",
+          "collections": [
+            "modern-literature"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "other",
+      "priority": "LOW",
+      "count": 91,
+      "works": [
+        {
+          "filename": "kenopanishad.md",
+          "title": "Kena Upanishad",
+          "author": "Various Sages",
+          "year": -700,
+          "genre": "Philosophy",
+          "collections": [
+            "philosophy",
+            "religious-texts",
+            "ancient-wisdom",
+            "spiritual-texts",
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "tolkappiyam-tamil-grammar.md",
+          "title": "Tolkappiyam (Ancient Tamil Grammar and Poetics)",
+          "author": "Tolkappiyar",
+          "year": -500,
+          "genre": "Linguistics",
+          "collections": [
+            "regional-literature",
+            "linguistic-works",
+            "reference-works",
+            "classical-literature",
+            "ancient-wisdom"
+          ]
+        },
+        {
+          "filename": "sutrakritanga.md",
+          "title": "Sutrakritanga (The Second Jain Agama)",
+          "author": "Mahavira",
+          "year": -300,
+          "genre": "Jain Scripture",
+          "collections": [
+            "jain-texts",
+            "religious-texts",
+            "philosophy"
+          ]
+        },
+        {
+          "filename": "the-babur-nma-memoirs-of-babur-english-translation-ahr-ud-dn-muhammad-babur-tr-annette-susannah-beveridge.md",
+          "title": "The Babur-Nāma (Memoirs of Babur) — English Translation",
+          "author": "Ẓahīr-ud-Dīn Muhammad Babur",
+          "genre": "Biography",
+          "collections": []
+        },
+        {
+          "filename": "the-n-i-akbar-english-translation-abul-fazl-tr-henry-blochmann-tr-h-s-jarrett.md",
+          "title": "The Āʾīn-i-Akbarī (English Translation)",
+          "author": "Abu’l-Fazl",
+          "genre": "Literature",
+          "collections": []
+        },
+        {
+          "filename": "tattvartha-sutra-umasvati.md",
+          "title": "Tattvartha Sutra (Aphorisms on the Meaning of Principles)",
+          "author": "Acharya Umasvati",
+          "year": 150,
+          "genre": "Jain Literature",
+          "collections": [
+            "jain-texts",
+            "jain-literature",
+            "philosophy",
+            "religious-texts",
+            "ancient-wisdom",
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "natyashastra-bharata-muni.md",
+          "title": "Natyashastra (Treatise on Dramaturgy)",
+          "author": "Bharata Muni",
+          "year": 200,
+          "genre": "Arts Texts",
+          "collections": [
+            "arts-texts",
+            "classical-literature",
+            "technical-manuals",
+            "ancient-wisdom",
+            "musicology"
+          ]
+        },
+        {
+          "filename": "thirteen-plays-bhasa.md",
+          "title": "Thirteen Plays of Bhasa",
+          "author": "Bhasa",
+          "year": 300,
+          "genre": "Drama",
+          "collections": [
+            "sanskrit-drama",
+            "classical-literature",
+            "ancient-wisdom"
+          ]
+        },
+        {
+          "filename": "thirukkural-thiruvalluvar.md",
+          "title": "Thirukkural",
+          "author": "Thiruvalluvar",
+          "year": 300,
+          "genre": "Poetry",
+          "collections": [
+            "regional-literature",
+            "poetry-collection",
+            "philosophy",
+            "ancient-wisdom",
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "devi-mahatmya-markandeya.md",
+          "title": "Devi Mahatmya (Glory of the Goddess)",
+          "author": "Unknown",
+          "year": 400,
+          "genre": "Religious Texts",
+          "collections": [
+            "religious-texts",
+            "devotional-poetry",
+            "epic-poetry",
+            "religious-texts",
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "little-clay-cart-mricchakatika-shudraka.md",
+          "title": "The Little Clay Cart (Mṛcchakatika)",
+          "author": "Śūdraka",
+          "year": 400,
+          "genre": "Classical Literature",
+          "collections": [
+            "ancient-wisdom",
+            "poetry-collection",
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "little-clay-cart-sudraka.md",
+          "title": "The Little Clay Cart (Mrichchhakatika)",
+          "author": "Shudraka",
+          "year": 400,
+          "genre": "Drama",
+          "collections": [
+            "classical-literature",
+            "sanskrit-drama",
+            "ancient-history",
+            "historical-literature"
+          ]
+        },
+        {
+          "filename": "silappatikaram-ilango-adigal.md",
+          "title": "Silappatikaram (The Ankle Bracelet)",
+          "author": "Ilango Adigal",
+          "year": 400,
+          "genre": "Epic Poetry",
+          "collections": [
+            "regional-literature",
+            "epic-poetry",
+            "classical-literature",
+            "historical-texts",
+            "poetry-collection"
+          ]
+        },
+        {
+          "filename": "aryabhatiya-aryabhata.md",
+          "title": "Aryabhatiya",
+          "author": "Aryabhata",
+          "year": 499,
+          "genre": "Scientific Texts",
+          "collections": [
+            "scientific-texts",
+            "classical-literature",
+            "ancient-wisdom",
+            "mathematics",
+            "astronomy"
+          ]
+        },
+        {
+          "filename": "bhartrhari-shatakas.md",
+          "title": "Shatakas of Bhartrhari (Three Centuries)",
+          "author": "Bhartrhari",
+          "year": 500,
+          "genre": "Poetry",
+          "collections": [
+            "poetry-collection",
+            "philosophy",
+            "classical-literature",
+            "ancient-wisdom",
+            "devotional-poetry"
+          ]
+        },
+        {
+          "filename": "tirumantiram-tirumular.md",
+          "title": "Tirumantiram (Sacred Incantations)",
+          "author": "Tirumular",
+          "year": 500,
+          "genre": "Religious Texts",
+          "collections": [
+            "regional-literature",
+            "religious-texts",
+            "devotional-poetry",
+            "philosophy",
+            "poetry-collection"
+          ]
+        },
+        {
+          "filename": "manimekalai-sittalai-sattanar.md",
+          "title": "Manimekalai (The Jeweled Anklet)",
+          "author": "Sittalai Sattanar",
+          "year": 550,
+          "genre": "Epic Poetry",
+          "collections": [
+            "regional-literature",
+            "buddhist-texts",
+            "epic-poetry",
+            "religious-texts",
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "malatimadhava-bhavabhuti.md",
+          "title": "Malatimadhava (Malati and Madhava)",
+          "author": "Bhavabhuti",
+          "year": 700,
+          "genre": "Drama",
+          "collections": [
+            "sanskrit-drama",
+            "classical-literature",
+            "sanskrit-drama"
+          ]
+        },
+        {
+          "filename": "uttara-rama-charita-bhavabhuti.md",
+          "title": "Uttara Rama Charita (Rama's Later History)",
+          "author": "Bhavabhuti",
+          "year": 700,
+          "genre": "Drama",
+          "collections": [
+            "sanskrit-drama",
+            "classical-literature",
+            "devotional-literature",
+            "epic-poetry"
+          ]
+        },
+        {
+          "filename": "tiruppavai-nachiyar-tirumozhi-andal.md",
+          "title": "Tiruppavai and Nachiyar Tirumozhi",
+          "author": "Andal",
+          "year": 750,
+          "genre": "Devotional Poetry",
+          "collections": [
+            "devotional-poetry",
+            "regional-literature",
+            "devotional-literature",
+            "regional-literature"
+          ]
+        },
+        {
+          "filename": "venisamhara-bhatta-narayana.md",
+          "title": "Venisamhara (The Braiding of the Hair)",
+          "author": "Bhatta Narayana",
+          "year": 800,
+          "genre": "Drama",
+          "collections": [
+            "sanskrit-drama",
+            "classical-literature",
+            "epic-poetry",
+            "sanskrit-drama",
+            "epic-poetry"
+          ]
+        },
+        {
+          "filename": "tiruvaimozhi-nammalvar.md",
+          "title": "Tiruvaimozhi (Tamil Veda)",
+          "author": "Nammalvar",
+          "year": 850,
+          "genre": "Devotional Poetry",
+          "collections": [
+            "devotional-poetry",
+            "regional-literature",
+            "religious-texts",
+            "regional-literature"
+          ]
+        },
+        {
+          "filename": "bakhshali-manuscript-ancient-mathematics-rudolf-hoernle.md",
+          "title": "The Bakhshali Manuscript: Ancient Indian Mathematics",
+          "author": "Unknown",
+          "year": 900,
+          "genre": "Mathematics",
+          "collections": [
+            "ancient-wisdom",
+            "spiritual-texts",
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "yasastilaka-somadeva-suri.md",
+          "title": "Yasastilaka (Ornament of Fame)",
+          "author": "Somadeva Suri",
+          "year": 959,
+          "genre": "Jain Literature",
+          "collections": [
+            "jain-literature",
+            "jain-texts",
+            "classical-literature",
+            "philosophical-works",
+            "religious-texts",
+            "medieval-india"
+          ]
+        },
+        {
+          "filename": "yoga-vasistha-valmiki.md",
+          "title": "Yoga Vasistha (The Supreme Yoga)",
+          "author": "Valmiki (attributed)",
+          "year": 1000,
+          "genre": "Philosophy",
+          "collections": [
+            "philosophy",
+            "spiritual-texts",
+            "philosophy",
+            "classical-literature",
+            "devotional-poetry"
+          ]
+        },
+        {
+          "filename": "sukasaptati-seventy-tales-parrot.md",
+          "title": "Sukasaptati (The Seventy Tales of the Parrot)",
+          "author": "Unknown",
+          "year": 1100,
+          "genre": "Folk Literature",
+          "collections": [
+            "folklore",
+            "classical-literature",
+            "folklore-collection",
+            "medieval-india",
+            "oral-literature"
+          ]
+        },
+        {
+          "filename": "siddhanta-shiromani-bhaskara.md",
+          "title": "Siddhanta Shiromani (Crown of Treatises)",
+          "author": "Bhaskara II (Bhaskaracharya)",
+          "year": 1150,
+          "genre": "Scientific Texts",
+          "collections": [
+            "scientific-texts",
+            "classical-literature",
+            "mathematics",
+            "astronomy",
+            "medieval-india"
+          ]
+        },
+        {
+          "filename": "hitopadesha-narayana.md",
+          "title": "Hitopadesha (Beneficial Instruction)",
+          "author": "Narayana Pandita",
+          "year": 1200,
+          "genre": "Fables",
+          "collections": [
+            "folklore",
+            "folklore-collection",
+            "philosophical-works",
+            "medieval-india",
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "panchadasi-vidyaranya.md",
+          "title": "Panchadasi (Fifteen Chapters on Advaita)",
+          "author": "Vidyaranya",
+          "year": 1350,
+          "genre": "Philosophy",
+          "collections": [
+            "philosophy",
+            "spiritual-texts",
+            "philosophy",
+            "classical-literature",
+            "medieval-india"
+          ]
+        },
+        {
+          "filename": "vidyapati-songs-maithili.md",
+          "title": "Songs of Vidyapati (Bangiya Padabali)",
+          "author": "Vidyapati",
+          "year": 1400,
+          "genre": "Devotional Poetry",
+          "collections": [
+            "devotional-poetry",
+            "regional-literature",
+            "medieval-india",
+            "poetry-collection",
+            "devotional-literature"
+          ]
+        },
+        {
+          "filename": "sankirtan-annamayya.md",
+          "title": "Sankirtan of Annamayya (Selected Compositions)",
+          "author": "Annamayya",
+          "year": 1450,
+          "genre": "Devotional Poetry",
+          "collections": [
+            "devotional-poetry",
+            "regional-literature",
+            "regional-literature",
+            "medieval-india",
+            "musicology"
+          ]
+        },
+        {
+          "filename": "sursagar-surdas.md",
+          "title": "Sursagar (Ocean of Sur) - Selected Compositions",
+          "author": "Surdas",
+          "year": 1530,
+          "genre": "Devotional Poetry",
+          "collections": [
+            "devotional-poetry",
+            "devotional-literature",
+            "regional-literature",
+            "medieval-india"
+          ]
+        },
+        {
+          "filename": "ramacharitamanasa-tulsidas.md",
+          "title": "Ramcharitmanas",
+          "author": "Tulsidas",
+          "year": 1574,
+          "genre": "Epic Poetry",
+          "collections": [
+            "classical-literature",
+            "epic-poetry",
+            "devotional-literature"
+          ]
+        },
+        {
+          "filename": "kavitavali-tulsidas.md",
+          "title": "Kavitavali",
+          "author": "Tulsidas",
+          "year": 1600,
+          "genre": "Devotional Poetry",
+          "collections": [
+            "classical-literature",
+            "devotional-literature",
+            "regional-literature"
+          ]
+        },
+        {
+          "filename": "siraj-ul-wahhaj-sirajuddin-ali-khan-arzu.md",
+          "title": "Siraj-ul-Wahhaj (The Brilliant Lamp)",
+          "author": "Sirajuddin Ali Khan Arzu",
+          "year": 1740,
+          "genre": "Persian Literature",
+          "collections": [
+            "mughal-india",
+            "linguistic-works",
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "the-lusiad-or-the-discovery-of-india-an-epic-poem-camões.md",
+          "title": "The Lusiad : or, The discovery of India : an epic poem",
+          "author": "Camões",
+          "year": 1791,
+          "genre": "Epic Poetry",
+          "collections": [
+            "poetry-collection",
+            "historical-literature"
+          ]
+        },
+        {
+          "filename": "works-of-sir-william-jones-volume-1.md",
+          "title": "The Works of Sir William Jones, Volume I",
+          "author": "Sir William Jones",
+          "year": 1799,
+          "genre": "Collected Works",
+          "collections": [
+            "colonial-india",
+            "indology",
+            "linguistic-works"
+          ]
+        },
+        {
+          "filename": "miscellaneous-notices-relating-to-china-and-our-commercial-intercourse-with-that-country-part-the-second-staunton.md",
+          "title": "Miscellaneous notices relating to China, and our commercial intercourse with that country. Part the second",
+          "author": "Staunton",
+          "year": 1828,
+          "genre": "History & Culture",
+          "collections": [
+            "historical-texts"
+          ]
+        },
+        {
+          "filename": "nala-and-damayanti-and-other-poems-henry-hart-milman.md",
+          "title": "Nala and Damayanti, and Other Poems",
+          "author": "Henry Hart Milman",
+          "year": 1835,
+          "genre": "Poetry",
+          "collections": [
+            "modern-literature",
+            "poetry-collection"
+          ]
+        },
+        {
+          "filename": "akuntal-or-the-lost-ring-klidsa-tr-monier-monier-williams.md",
+          "title": "Śakuntalā; or, The Lost Ring",
+          "author": "Kālidāsa",
+          "year": 1855,
+          "genre": "Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "life-in-ancient-india-with-a-map-manning.md",
+          "title": "Life in Ancient India; with a map",
+          "author": "Manning",
+          "year": 1856,
+          "genre": "History & Culture",
+          "collections": [
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "meghnadbadh-kavya-michael-madhusudan-dutt.md",
+          "title": "Meghnadbadh Kavya (The Slaying of Meghnad)",
+          "author": "Michael Madhusudan Dutt",
+          "year": 1861,
+          "genre": "Epic Poetry",
+          "collections": [
+            "epic-poetry",
+            "regional-literature",
+            "classical-literature",
+            "regional-literature",
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "the-highlands-of-central-india-james-forsyth.md",
+          "title": "The Highlands of Central India",
+          "author": "James Forsyth",
+          "year": 1871,
+          "genre": "Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "an-historical-sketch-of-the-native-states-of-india-g-b-malleson.md",
+          "title": "An Historical Sketch of the Native States of India",
+          "author": "G. B. Malleson",
+          "year": 1875,
+          "genre": "Historical Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "kathasaritsagara-ocean-of-streams-of-story.md",
+          "title": "The Kathá Sarit Ságara: Or, Ocean of the Streams of Story",
+          "author": "Somadeva Bhaṭṭa",
+          "year": 1880,
+          "genre": "Classical Literature",
+          "collections": [
+            "ancient-wisdom",
+            "spiritual-texts",
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "the-lotus-of-the-true-law.md",
+          "title": "The Saddharma-pundarîka; or, The Lotus of the True Law",
+          "author": "Hendrik Kern",
+          "year": 1884,
+          "genre": "Buddhist religious texts",
+          "collections": [
+            "buddhist-texts",
+            "scholarly-translations"
+          ]
+        },
+        {
+          "filename": "outlines-history-hindu-law-partition-inheritance-adoption-julius-jolly.md",
+          "title": "Outlines of an History of the Hindu Law of Partition, Inheritance, and Adoption",
+          "author": "Julius Jolly",
+          "year": 1885,
+          "genre": "Legal Literature",
+          "collections": [
+            "spiritual-texts"
+          ]
+        },
+        {
+          "filename": "across-india-or-live-boys-in-the-far-east-william-taylor-adams-oliver-optic.md",
+          "title": "Across India; or, Live Boys in the Far East",
+          "author": "William Taylor Adams (Oliver Optic)",
+          "year": 1887,
+          "genre": "Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "the-fall-of-the-moghul-empire-of-hindustan-h-g-keene.md",
+          "title": "The Fall of the Moghul Empire of Hindustan",
+          "author": "H. G. Keene",
+          "year": 1887,
+          "genre": "Literature",
+          "collections": [
+            "modern-literature",
+            "spiritual-texts"
+          ]
+        },
+        {
+          "filename": "south-indian-inscriptions-vol-i-archaeological-survey-of-india.md",
+          "title": "South Indian Inscriptions, Vol. I",
+          "author": "Archaeological Survey of India",
+          "year": 1890,
+          "genre": "Historical Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "syntax-of-the-hebrew-language-of-the-old-testament-ewald.md",
+          "title": "Syntax of the Hebrew language of the Old Testament;",
+          "author": "Ewald",
+          "year": 1891,
+          "genre": "Linguistics",
+          "collections": [
+            "linguistic-works"
+          ]
+        },
+        {
+          "filename": "indian-fairy-tales-joseph-jacobs.md",
+          "title": "Indian Fairy Tales",
+          "author": "Joseph Jacobs",
+          "year": 1892,
+          "genre": "Folk Tales",
+          "collections": [
+            "spiritual-texts"
+          ]
+        },
+        {
+          "filename": "the-portuguese-in-india-frederic-charles-danvers.md",
+          "title": "The Portuguese in India",
+          "author": "Frederic Charles Danvers",
+          "year": 1894,
+          "genre": "Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "the-religions-of-india-edward-washburn-hopkins.md",
+          "title": "The Religions of India",
+          "author": "Edward Washburn Hopkins",
+          "year": 1895,
+          "genre": "Spiritual Literature",
+          "collections": [
+            "spiritual-texts"
+          ]
+        },
+        {
+          "filename": "the-rmyan-of-vlmki-griffith-verse-trans-r-t-h-griffith-translator.md",
+          "title": "The Rāmāyan of Vālmīki (Griffith verse trans.)",
+          "author": "R. T. H. Griffith (translator)",
+          "year": 1895,
+          "genre": "Poetry",
+          "collections": [
+            "modern-literature",
+            "poetry-collection"
+          ]
+        },
+        {
+          "filename": "the-sacred-books-of-the-east-described-and-examined-hindu-series-unknown.md",
+          "title": "The sacred books of the East, described and examined ; Hindu series",
+          "author": "Unknown",
+          "year": 1897,
+          "genre": "Religious Anthology",
+          "collections": [
+            "religious-texts",
+            "comparative-religion",
+            "indology",
+            "reference-texts"
+          ]
+        },
+        {
+          "filename": "अषटधयय-1897-पणन.md",
+          "title": "अष्टाध्यायी (1897)",
+          "author": "पाणिनी",
+          "year": 1897,
+          "genre": "Sanskrit Grammar",
+          "collections": [
+            "linguistic-works",
+            "ancient-wisdom",
+            "reference-texts",
+            "indology"
+          ]
+        },
+        {
+          "filename": "yajnavalkya-smriti-with-mitaksara-commentary.md",
+          "title": "Yājñavalkya Smṛti with the Commentary Mitākṣarā",
+          "author": "Yājñavalkya",
+          "year": 1900,
+          "genre": "Legal Literature",
+          "collections": [
+            "ancient-wisdom",
+            "spiritual-texts",
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "the-great-epic-of-india-its-character-and-origin-hopkins.md",
+          "title": "The great epic of India; its character and origin",
+          "author": "Hopkins",
+          "year": 1901,
+          "genre": "Literary Criticism",
+          "collections": [
+            "indology",
+            "classical-literature",
+            "academic-journals"
+          ]
+        },
+        {
+          "filename": "ramakrishna-kathamrita.md",
+          "title": "Sri Ramakrishna Kathamrita",
+          "author": "Mahendranath Gupta (M)",
+          "year": 1902,
+          "genre": "Religious Literature",
+          "collections": [
+            "modern-literature",
+            "devotional-literature",
+            "spiritual-texts"
+          ]
+        },
+        {
+          "filename": "things-indian-william-crooke.md",
+          "title": "Things Indian",
+          "author": "William Crooke",
+          "year": 1906,
+          "genre": "Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "historical-atlas-of-india-charles-joppen.md",
+          "title": "Historical Atlas of India",
+          "author": "Charles Joppen",
+          "year": 1907,
+          "genre": "Historical Literature",
+          "collections": [
+            "regional-voices",
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "naradiya-shiksha-kunte.md",
+          "title": "Nāradīya Śikṣā (Narada's Treatise on Phonetics and Musical Sound)",
+          "author": "Attributed to Sage Narada",
+          "year": 1909,
+          "genre": "Musicology",
+          "collections": [
+            "arts-texts",
+            "ancient-wisdom"
+          ]
+        },
+        {
+          "filename": "vedic-grammar-arthur-anthony-macdonell.md",
+          "title": "Vedic grammar",
+          "author": "Arthur Anthony Macdonell",
+          "year": 1910,
+          "genre": "Vedic Linguistics",
+          "collections": [
+            "linguistic-works",
+            "reference-texts",
+            "indology",
+            "ancient-wisdom"
+          ]
+        },
+        {
+          "filename": "the-holy-bible-a-facsimile-in-a-reduced-size-of-the-authorized-version-published-in-the-year-1611-alfred-w-pollard.md",
+          "title": "The Holy Bible : a facsimile in a reduced size of the Authorized version published in the year 1611",
+          "author": "Alfred W. Pollard",
+          "year": 1911,
+          "genre": "Biblical Studies",
+          "collections": [
+            "religious-texts",
+            "reference-texts"
+          ]
+        },
+        {
+          "filename": "campaigns-on-the-north-west-frontier-h-l-nevill.md",
+          "title": "Campaigns on the North-West Frontier",
+          "author": "H. L. Nevill",
+          "year": 1912,
+          "genre": "Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "hindustani-lyrics-inayat-khan-jessie-d-westbrook.md",
+          "title": "Hindustani Lyrics",
+          "author": "Inayat Khan",
+          "year": 1913,
+          "genre": "Poetry",
+          "collections": [
+            "modern-literature",
+            "spiritual-texts",
+            "poetry-collection"
+          ]
+        },
+        {
+          "filename": "kauilyas-arthastra-shamasastry-tr-kauilya-cakya-tr-r-shamasastry.md",
+          "title": "Kauṭilya’s Arthaśāstra (Shamasastry tr.)",
+          "author": "Kauṭilya (Cāṇakya)",
+          "year": 1915,
+          "genre": "Political Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "sva-george-c-m-birdwood.md",
+          "title": "Sva",
+          "author": "George C. M. Birdwood",
+          "year": 1915,
+          "genre": "Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "south-indian-images-of-gods-and-goddesses-krishna-sastri.md",
+          "title": "South Indian Images of Gods and Goddesses",
+          "author": "Hirananda Krishna Sastri",
+          "year": 1916,
+          "genre": "Art History",
+          "collections": [
+            "spiritual-texts"
+          ]
+        },
+        {
+          "filename": "tales-from-the-indian-epics-kincaid.md",
+          "title": "Tales from the Indian Epics",
+          "author": "Charles Augustus Kincaid",
+          "year": 1918,
+          "genre": "Epic Literature",
+          "collections": [
+            "ancient-wisdom",
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "shivaji-and-his-times-jadunath-sarkar.md",
+          "title": "Shivaji and His Times",
+          "author": "Jadunath Sarkar",
+          "year": 1919,
+          "genre": "Literature",
+          "collections": [
+            "modern-literature"
+          ]
+        },
+        {
+          "filename": "the-life-of-shivaji-maharaj-k-a-keluskar-n-s-takakhav.md",
+          "title": "The Life of Shivaji Maharaj",
+          "author": "K. A. Keluskar",
+          "year": 1921,
+          "genre": "Historical Biography",
+          "collections": [
+            "modern-literature",
+            "regional-voices"
+          ]
+        },
+        {
+          "filename": "tikapatthana-abhidhamma-pitaka.md",
+          "title": "Tikapatthana of the Abhidhamma Pitaka",
+          "author": "Buddhaghosa",
+          "year": 1921,
+          "genre": "Buddhist philosophy",
+          "collections": [
+            "buddhist-texts",
+            "pali-literature"
+          ]
+        },
+        {
+          "filename": "siddhartha-hermann-hesse.md",
+          "title": "Siddhartha",
+          "author": "Hermann Hesse",
+          "year": 1922,
+          "genre": "Philosophical Literature",
+          "collections": [
+            "spiritual-texts"
+          ]
+        },
+        {
+          "filename": "the-babur-nama-in-english-memoirs-of-babur-babur.md",
+          "title": "The Babur-nama in English (Memoirs of Babur)",
+          "author": "Babur",
+          "year": 1922,
+          "genre": "Historical Biography",
+          "collections": [
+            "historical-literature",
+            "mughal-india",
+            "indology"
+          ]
+        },
+        {
+          "filename": "the-raghuvamsa-of-kalidasa-with-the-commentary-the-samjivani-of-mallinatha-kalidasa.md",
+          "title": "The Raghuvamsa of Kalidasa : with the commentary (the Samjivani) of Mallinatha",
+          "author": "Kalidasa",
+          "year": 1922,
+          "genre": "Sanskrit Kavya",
+          "collections": [
+            "classical-literature",
+            "poetry-collection",
+            "indology"
+          ]
+        },
+        {
+          "filename": "the-ocean-of-story-being-ch-tawneys-translation-of-somadevas-katha-sarit-sagara-somadeva-bhatta.md",
+          "title": "The ocean of story, being C.H. Tawney's translation of Somadeva's Katha sarit sagara",
+          "author": "Somadeva Bhatta",
+          "year": 1924,
+          "genre": "Sanskrit Narrative Literature",
+          "collections": [
+            "classical-literature",
+            "folklore-collection",
+            "medieval-india"
+          ]
+        },
+        {
+          "filename": "kashidasi-mahabharat-কশদস-মহভরত-kashiram-das.md",
+          "title": "Kashidasi Mahabharat কাশীদাসী মহাভারত",
+          "author": "Kashiram Das",
+          "year": 1925,
+          "genre": "Epic Literature",
+          "collections": [
+            "epic-poetry",
+            "regional-literature"
+          ]
+        },
+        {
+          "filename": "laghu-siddhantakaumudi-varadarāja-varadarāja.md",
+          "title": "Laghu-siddhantakaumudi",
+          "author": "Varadarāja Varadarāja",
+          "year": 1928,
+          "genre": "Linguistics",
+          "collections": [
+            "linguistic-works"
+          ]
+        },
+        {
+          "filename": "maratha-rajas-tanjore-subramanian.md",
+          "title": "Maratha Rajas of Tanjore",
+          "author": "K. R. Subramanian",
+          "year": 1928,
+          "genre": "Court History",
+          "collections": [
+            "regional-history",
+            "court-chronicles"
+          ]
+        },
+        {
+          "filename": "vishnudharmottara-part3-kramrisch.md",
+          "title": "The Viṣṇudharmottara Purāṇa (Part III): Painting and Image-Making",
+          "author": "Ancient text",
+          "year": 1928,
+          "genre": "Art Theory",
+          "collections": [
+            "arts-texts",
+            "technical-manuals"
+          ]
+        },
+        {
+          "filename": "linguistic-society-of-india-not-available.md",
+          "title": "Linguistic Society Of India",
+          "author": "Not Available",
+          "year": 1933,
+          "genre": "Linguistics",
+          "collections": [
+            "linguistic-works"
+          ]
+        },
+        {
+          "filename": "purohit-darpaned25-bhattacharya-surendramohan-comp.md",
+          "title": "Purohit-darpan,ed.25",
+          "author": "Bhattacharya, surendramohan Comp.",
+          "year": 1933,
+          "genre": "C-DAK",
+          "collections": [
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "gaikwads-baroda-vol1-pilaji-damaji.md",
+          "title": "The Gaikwads of Baroda: English Documents Vol. I (Pilaji & Damaji Gaikwads 1720-1768)",
+          "author": "Edited by J. H. Gense",
+          "year": 1936,
+          "genre": "Documentary History",
+          "collections": [
+            "regional-history",
+            "archival-sources"
+          ]
+        },
+        {
+          "filename": "velugoti-vari-vamsavali-telugu.md",
+          "title": "వెలుగోటివారివంశావళి (Velugoti Vari Vamsavali)",
+          "author": "N. Venkata Ramanaiah",
+          "year": 1939,
+          "genre": "Dynastic Genealogy",
+          "collections": [
+            "regional-history",
+            "genealogy"
+          ]
+        },
+        {
+          "filename": "short-report-hindu-mahasabha-relief-activities-calcutta-noakhali.md",
+          "title": "Short Report of Hindu Mahasabha Relief Activities During 'Calcutta Killing' and 'Noakhali Carnage'",
+          "author": "Hindu Mahasabha",
+          "year": 1946,
+          "genre": "Historical Literature",
+          "collections": [
+            "modern-literature",
+            "spiritual-texts"
+          ]
+        },
+        {
+          "filename": "marma-vijnj-aan-paathak-raamarakshh-1.md",
+          "title": "Marma Vijnj-aan",
+          "author": "Paat'hak Raamarakshh",
+          "year": 1949,
+          "genre": "C-DAC",
+          "collections": [
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "ashtanga-sangraha-athridev-gupta.md",
+          "title": "Ashtanga Sangraha",
+          "author": "Athridev_gupta",
+          "year": 1951,
+          "genre": "SV",
+          "collections": [
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "sushrut-sanhita-ambikadatt-1.md",
+          "title": "Sushrut Sanhita",
+          "author": "Ambikadatt",
+          "year": 1954,
+          "genre": "Banasthali",
+          "collections": [
+            "classical-literature"
+          ]
+        },
+        {
+          "filename": "cheitharol-kumbaba-manipur-chronicle.md",
+          "title": "Cheitharol Kumbaba (Royal Chronicle of Manipur)",
+          "author": "Lairenmayum Ibungohal Singh",
+          "year": 1969,
+          "genre": "Royal Chronicle",
+          "collections": [
+            "regional-history",
+            "court-chronicles"
+          ]
+        }
+      ]
+    }
+  ]
+}

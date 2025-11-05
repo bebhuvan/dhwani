@@ -1,0 +1,98 @@
+[
+  {
+    "file": "commemorative-essays-presented-sir-ramkrishna-gopal-bhandarkar.md",
+    "title": "Commemorative Essays Presented to Sir Ramkrishna Gopal Bhandarkar",
+    "problemLinks": [
+      {
+        "name": "Indian Culture Portal",
+        "url": "https://indianculture.gov.in/rarebooks/commemorative-essays-presented-sir-ramkrishna-gopal-bhandarkar",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 403,
+        "message": "HTTP 403"
+      }
+    ]
+  },
+  {
+    "file": "devotional-poems-mirabai.md",
+    "title": "Devotional Poems of Mirabai",
+    "problemLinks": [
+      {
+        "name": "Poetry Foundation: Mirabai",
+        "url": "https://www.poetryfoundation.org/poets/mirabai",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 403,
+        "message": "HTTP 403"
+      }
+    ]
+  },
+  {
+    "file": "medieval-indian-sculpture-in-the-british-museum-ramaprasad-chanda.md",
+    "title": "Medieval Indian Sculpture in the British Museum",
+    "problemLinks": [
+      {
+        "name": "IGNCA Digital Library",
+        "url": "https://ignca.gov.in/Asi_data/44179.pdf",
+        "type": "source",
+        "status": "error",
+        "statusCode": 400,
+        "message": "HTTP 400"
+      }
+    ]
+  },
+  {
+    "file": "outlines-of-indian-philosophy-paul-deussen.md",
+    "title": "Outlines of Indian Philosophy",
+    "problemLinks": [
+      {
+        "name": "PhilPapers Entry",
+        "url": "https://philpapers.org/rec/DEUOOI",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 403,
+        "message": "HTTP 403"
+      }
+    ]
+  },
+  {
+    "file": "sushruta-samhita-english-translation.md",
+    "title": "An English Translation of the Sushruta Samhita",
+    "problemLinks": [
+      {
+        "name": "National Institute of Indian Medical Heritage (NIIMH)",
+        "url": "https://niimh.nic.in/ebooks/esushruta/?mod=home&con=pro",
+        "type": "source",
+        "status": "error",
+        "statusCode": 500,
+        "message": "HTTP 500"
+      }
+    ]
+  },
+  {
+    "file": "the-hindu-arabic-numerals-smith-karpinski.md",
+    "title": "The Hindu-Arabic Numerals",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/22599",
+        "type": "source",
+        "status": "error",
+        "message": ""
+      }
+    ]
+  },
+  {
+    "file": "अषटधयय-1897-पणन.md",
+    "title": "अष्टाध्यायी (1897)",
+    "problemLinks": [
+      {
+        "name": "MacTutor History of Mathematics: Panini",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Panini/",
+        "type": "reference",
+        "status": "error",
+        "message": "unable to verify the first certificate"
+      }
+    ]
+  }
+]

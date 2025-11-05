@@ -1,0 +1,33 @@
+---
+title: "How To Win Friends And Influence People"
+author: "Sant Ram"
+original_language: "hin"
+pd_status_india: true
+pd_basis: "life+60 (author death ≤ 1964)"
+author_death_year: 1955
+publication_year: "1959"
+work_wikidata: Q960077
+author_wikidata: Q230762
+links:
+  internet_archive: "https://archive.org/details/in.ernet.dli.2015.400605"
+  ia_pdf: "https://archive.org/download/in.ernet.dli.2015.400605/2015.400605.How-To.pdf"
+  ia_text: "https://archive.org/download/in.ernet.dli.2015.400605/2015.400605.How-To_djvu.txt"
+  wikipedia: "https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People"
+  hathitrust: "https://catalog.hathitrust.org/Search/Home?lookfor=How To Win Friends And Influence People+Sant Ram"
+  google_books: "https://www.google.com/search?tbm=bks&q=How To Win Friends And Influence People+Sant Ram+"Full view""
+---
+
+How To Win Friends And Influence People (1959), hin. By Sant Ram. How to Win Friends and Influence People is a 1936 self-help book written by Dale Carnegie. Over 30 million copies have been sold worldwide, making it one of the best-selling books of all time.
+
+Access
+------
+- Internet Archive: https://archive.org/details/in.ernet.dli.2015.400605
+- Ia Pdf: https://archive.org/download/in.ernet.dli.2015.400605/2015.400605.How-To.pdf
+- Ia Text: https://archive.org/download/in.ernet.dli.2015.400605/2015.400605.How-To_djvu.txt
+- Wikipedia: https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People
+- Hathitrust: https://catalog.hathitrust.org/Search/Home?lookfor=How To Win Friends And Influence People+Sant Ram
+- Google Books: https://www.google.com/search?tbm=bks&q=How To Win Friends And Influence People+Sant Ram+"Full view"
+
+---
+
+**Note**: This description was generated with assistance from Claude (Anthropic) to ensure scholarly accuracy and comprehensive coverage. To the best of our knowledge, this work is in the public domain. If you believe there are any copyright concerns, please contact me.
