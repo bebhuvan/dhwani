@@ -1,0 +1,14 @@
+{
+  "totalWorks": 127,
+  "totalLinks": 0,
+  "nowWorking": [],
+  "stillBroken": [],
+  "soft404s": [],
+  "errors": [],
+  "summary": {
+    "falsePositives": 0,
+    "genuineBroken": 0,
+    "soft404": 0,
+    "networkErrors": 0
+  }
+}
