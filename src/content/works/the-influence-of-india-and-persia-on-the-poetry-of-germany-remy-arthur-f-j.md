@@ -1,32 +1,39 @@
 ---
-title: 'The Influence of India and Persia on the Poetry of Germany'
+title: The Influence of India and Persia on the Poetry of Germany
 author:
-- Remy, Arthur F. J.
+  - Remy, Arthur F. J.
 year: 1939
 language:
-- English
-- Sanskrit
+  - English
+  - Sanskrit
 genre:
-- Poetry
-- Historical Literature
-- Comparative Literature
+  - Poetry
+  - Historical Literature
+  - Comparative Literature
 description: |
   A comprehensive scholarly exploration of the intricate cultural and literary transmission between Indo-Iranian literary traditions and 19th-century German poetry, this seminal work by Arthur F. J. Remy examines the profound intellectual exchanges during the height of European Orientalism. Situated within the broader context of comparative literature and cultural studies, the text meticulously traces how German poets and intellectuals engaged with Sanskrit, Persian, and Indian philosophical texts, transforming their poetic aesthetics and conceptual frameworks. Remy's analysis reveals the nuanced ways Germanic poets like Goethe, Rückert, and Herder incorporated Eastern mythological narratives, philosophical concepts, and prosodic techniques into their literary compositions, demonstrating a complex cross-cultural intellectual dialogue. The work illuminates the significant role of translations, scholarly networks, and emerging Indological studies in facilitating these cultural translations, particularly through academic institutions and scholarly societies dedicated to Oriental studies. By examining specific textual influences—such as the reception of the Bhagavad Gita, Persian Sufi poetry, and Sanskrit epic traditions—Remy provides a sophisticated understanding of how Indian and Persian literary heritage profoundly shaped European Romantic and post-Romantic poetic sensibilities. The study is particularly significant for Indian cultural studies, as it repositions Indian literary traditions not as passive subjects of colonial scholarly interest, but as active, generative sources of intellectual and aesthetic transformation. By documenting these intricate literary exchanges, Remy's work challenges simplistic narratives of cultural unidirectionality and reveals the complex, reciprocal nature of cross-cultural intellectual engagement during a pivotal period of global cultural interaction.
 collections:
-- classical-literature
-- poetry-collection
+  - classical-literature
+  - poetry-collection
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/17928
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/17928.html.images
-  type: other
-- name: 'Internet Archive (The Influence of India and Persia on the Poetry of Germany)'
-  url: https://archive.org/details/theinfluenceofin17928gut
-  type: other
+  - name: Project Gutenberg
+    url: https://www.gutenberg.org/ebooks/17928
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: https://www.gutenberg.org/ebooks/17928.html.images
+    type: other
+  - name: Internet Archive (The Influence of India and Persia on the Poetry of Germany)
+    url: https://archive.org/details/theinfluenceofin17928gut
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+references:
+  - name: "Wikipedia: The Influence of India and Persia on the Poetry..."
+    url: https://en.wikipedia.org/wiki/The_Influence_of_India_and_Persia_on_the_Poetry_of_Germany
+    type: other
+  - name: "Open Library: The Influence of India and Persia on ..."
+    url: https://openlibrary.org/search?q=The%20Influence%20of%20India%20and%20Persia%20on%20the%20Poetry%20of%20Germany
+    type: other
 ---
 
 # The Influence of India and Persia on the Poetry of Germany

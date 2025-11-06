@@ -1,27 +1,34 @@
 ---
-title: "Hutchinson's Story of the Nations"
+title: Hutchinson's Story of the Nations
 author:
-- Hutchinson & Co.
+  - Hutchinson & Co.
 year: 1900
 language:
-- English
+  - English
 genre:
-- Historical Literature
-- Educational Literature
-- Reference Work
+  - Historical Literature
+  - Educational Literature
+  - Reference Work
 description: |
   Hutchinson's Story of the Nations (c. 1900) - Published during the late Victorian era of British imperial scholarship, this work emerged at a critical moment when European intellectuals were systematically documenting and categorizing global civilizations through a colonial academic lens. At the turn of the 20th century, when British imperial knowledge production was at its zenith, this comprehensive popular history covering ancient civilizations including the Egyptians, Chinese, India, Babylonians, Hittites, Assyrians, Phoenicians, Carthaginians, and other Asian nations represented a significant attempt to construct a global historical narrative from a predominantly European perspective. This educational work presents accessible accounts of world civilizations for general readers.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Internet Archive (University of Toronto)'
-  url: https://archive.org/details/hutchinsonsstory00londuoft
-  type: other
-- name: 'Open Library'
-  url: https://openlibrary.org/books/OL7149013M/Hutchinson%27s_story_of_the_nations
-  type: other
+  - name: Internet Archive (University of Toronto)
+    url: https://archive.org/details/hutchinsonsstory00londuoft
+    type: other
+  - name: Open Library
+    url: https://openlibrary.org/books/OL7149013M/Hutchinson%27s_story_of_the_nations
+    type: other
 featured: false
-publishDate: 2025-09-28
+publishDate: 2025-09-28T00:00:00.000Z
+references:
+  - name: "Wikipedia: Hutchinson's Story of the Nations"
+    url: https://en.wikipedia.org/wiki/Hutchinson's_Story_of_the_Nations
+    type: other
+  - name: "Open Library: Hutchinson's Story of the Nations"
+    url: https://openlibrary.org/search?q=Hutchinson's%20Story%20of%20the%20Nations
+    type: other
 ---
 
 # Hutchinson's Story of the Nations

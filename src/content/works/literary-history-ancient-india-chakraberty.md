@@ -1,30 +1,37 @@
 ---
-title: 'Literary History of Ancient India, in Relation to its Racial and Linguistic Affiliations'
+title: Literary History of Ancient India, in Relation to its Racial and Linguistic Affiliations
 author:
-- Chandra Chakraberty
+  - Chandra Chakraberty
 year: 1920
 language:
-- English
+  - English
 genre:
-- Academic Literature
-- Historical Literature
-- Literary Criticism
+  - Academic Literature
+  - Historical Literature
+  - Literary Criticism
 description: |
   Literary History of Ancient India, in Relation to its Racial and Linguistic Affiliations represents a critical scholarly intervention in early 20th-century Indian intellectual discourse, examining the complex interconnections between literary production, racial dynamics, and linguistic evolution in the subcontinent. Published during the late colonial period, Chakraberty's work emerges at a pivotal moment when Indian scholars were systematically reconstructing indigenous intellectual histories and challenging Eurocentric interpretations of cultural development. The text meticulously traces the intricate relationships between linguistic communities, literary traditions, and racial migrations, providing a nuanced archaeological approach to understanding ancient Indian textual landscapes. Chakraberty explores how literary forms emerged from and simultaneously shaped social configurations, examining language families, migration patterns, and cultural exchanges across the Indian subcontinent from the Vedic period through classical Sanskrit traditions. His methodology integrates comparative linguistics, archaeological evidence, and textual analysis to demonstrate how literary expressions reflect deeper anthropological and sociological transformations. Particularly noteworthy is the work's sophisticated examination of how racial and linguistic diversities contributed to the rich, multifaceted literary heritage of ancient India, challenging simplistic narratives of cultural homogeneity. By interrogating the complex genealogies of literary production, Chakraberty offers scholars a sophisticated framework for understanding the dynamic, interconnected nature of Indian cultural formations. The text remains a significant scholarly contribution, bridging early 20th-century nationalist intellectual movements with rigorous academic research in linguistics, literature, and cultural history, and providing critical insights into the intellectual genealogies of the Indian subcontinent.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Internet Archive (University of Toronto)'
-  url: https://archive.org/details/literaryhistoryo00chakuoft/page/n3/mode/2up
-  type: other
-- name: 'Open Library'
-  url: https://openlibrary.org/works/OL44339W/Literary_history_of_ancient_India_in_relation_to_its_racial_and_linguistic_affiliations?edition=key%3A/books/OL23315396M
-  type: other
-- name: 'WorldCat'
-  url: https://search.worldcat.org/title/697986606
-  type: other
+  - name: Internet Archive (University of Toronto)
+    url: https://archive.org/details/literaryhistoryo00chakuoft/page/n3/mode/2up
+    type: other
+  - name: Open Library
+    url: https://openlibrary.org/works/OL44339W/Literary_history_of_ancient_India_in_relation_to_its_racial_and_linguistic_affiliations?edition=key%3A/books/OL23315396M
+    type: other
+  - name: WorldCat
+    url: https://search.worldcat.org/title/697986606
+    type: other
 featured: false
-publishDate: 2025-09-28
+publishDate: 2025-09-28T00:00:00.000Z
+references:
+  - name: "Wikipedia: Literary History of Ancient India, in Relation ..."
+    url: https://en.wikipedia.org/wiki/Literary_History_of_Ancient_India_in_Relation_to_its_Racial_and_Linguistic_Affiliations
+    type: other
+  - name: "Open Library: Literary History of Ancient India, in..."
+    url: https://openlibrary.org/search?q=Literary%20History%20of%20Ancient%20India%20in%20Relation%20to%20its%20Racial%20and%20Linguistic%20Affiliations
+    type: other
 ---
 
 # Literary History of Ancient India, in Relation to its Racial and Linguistic Affiliations

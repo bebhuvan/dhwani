@@ -1,29 +1,36 @@
 ---
-title: 'The Pirates of Malabar, and an Englishwoman in India Two Hundred Years Ago'
+title: The Pirates of Malabar, and an Englishwoman in India Two Hundred Years Ago
 author:
-- Biddulph, J. (John)
+  - Biddulph, J. (John)
 year: 1906
 language:
-- English
+  - English
 genre:
-- Historical Literature
-- Maritime History
+  - Historical Literature
+  - Maritime History
 description: |
   J. Biddulph's "The Pirates of Malabar, and an Englishwoman in India Two Hundred Years Ago" offers a comprehensive historical examination of maritime interactions along the western Indian coast during the late 17th and early 18th centuries, a critical period of colonial expansion and maritime commerce. The work meticulously documents the complex geopolitical landscape of the Malabar Coast, exploring the intricate relationships between European maritime powers, local rulers, and maritime raiders who significantly influenced trade and territorial control. By focusing on the East India Company's maritime challenges, Biddulph provides deep insights into the strategic vulnerabilities and adaptive mechanisms of early colonial trading networks. The narrative illuminates the sophisticated maritime cultures of coastal Indian communities, particularly the navigational expertise and political agency of groups like the Mapilla Muslims and Maratha naval contingents who contested European maritime supremacy. Drawing on extensive archival research, the text reconstructs the dangerous maritime environment where pirates, traders, and colonial agents intersected, revealing nuanced dynamics of power, negotiation, and survival. Beyond mere maritime history, the work serves as a critical document for understanding the socio-economic transformations occurring in coastal Indian societies during a period of intense global commercial reconfiguration. Biddulph's scholarly approach offers contemporary researchers a valuable lens into the complex interactions between indigenous maritime communities and emerging colonial economic structures, making it a significant contribution to understanding India's maritime heritage and the multilayered processes of colonial encounter and resistance.
 collections:
-- classical-literature
+  - classical-literature
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/11399
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/11399.html.images
-  type: other
-- name: 'Internet Archive (The pirates of Malabar : and An Englishwoman in India two hundred years ago)'
-  url: https://archive.org/details/piratesmalabara00biddgoog
-  type: other
+  - name: Project Gutenberg
+    url: https://www.gutenberg.org/ebooks/11399
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: https://www.gutenberg.org/ebooks/11399.html.images
+    type: other
+  - name: "Internet Archive (The pirates of Malabar : and An Englishwoman in India two hundred years ago)"
+    url: https://archive.org/details/piratesmalabara00biddgoog
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+references:
+  - name: "Wikipedia: The Pirates of Malabar, and an Englishwoman in ..."
+    url: https://en.wikipedia.org/wiki/The_Pirates_of_Malabar_and_an_Englishwoman_in_India_Two_Hundred_Years_Ago
+    type: other
+  - name: "Open Library: The Pirates of Malabar, and an Englis..."
+    url: https://openlibrary.org/search?q=The%20Pirates%20of%20Malabar%20and%20an%20Englishwoman%20in%20India%20Two%20Hundred%20Years%20Ago
+    type: other
 ---
 
 # The Pirates of Malabar, and an Englishwoman in India Two Hundred Years Ago
