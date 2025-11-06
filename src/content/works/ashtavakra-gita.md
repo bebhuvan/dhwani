@@ -12,13 +12,18 @@ genre:
   - Poetry
   - Wisdom Literature
 description: >-
-  The Ashtavakra Gita represents one of the most radical and uncompromising
-  expressions of Advaita Vedanta philosophy, presenting the doctrine of
-  non-duality through a profound dialogue between the sage Ashtavakra and King
-  Janaka of Mithila. Composed in classical Sanskrit, this ancient text comprises
-  20 chapters with 298 verses that systematically dismantle conventional
-  spiritual approaches and assert the immediate reality of liberation through
-  self-knowledge.
+  The Ashtavakra Gita (also known as Ashtavakra Samhita), a Sanskrit philosophical
+  text comprising 20 chapters and 298 verses, presents one of the most radical
+  expositions of Advaita Vedanta non-dualism through a dialogue between the sage
+  Ashtavakra and King Janaka of Mithila. Dating remains highly contested among
+  scholars—ranging from c. 500 BCE (immediately post-Bhagavad Gita, per Radhakamal
+  Mukerjee) to the 8th-14th centuries CE (post-Shankara period, per J.L. Brockington)—
+  reflecting a remarkable 1,700-year scholarly disagreement. The text's authorship is
+  unknown, though traditionally attributed to the sage Ashtavakra. Distinguished by its
+  uncompromising assertion of absolute non-duality, the Gita insists on the complete
+  unreality of the external world and the immediate availability of liberation through
+  direct self-knowledge, eschewing gradual spiritual practices for radical recognition
+  of one's true nature as pure consciousness.
 collections:
   - philosophy
   - spiritual-texts
@@ -42,6 +47,15 @@ references:
   - name: 'Wikipedia: Advaita Vedanta'
     url: 'https://en.wikipedia.org/wiki/Advaita_Vedanta'
     type: wikipedia
+  - name: 'Realization.org: Complete Text and Analysis'
+    url: 'https://realization.org/p/ashtavakra-gita/ashtavakra-gita.html'
+    type: other
+  - name: 'Hinduwebsite.com: Ashtavakra Samhita Translation and Commentary'
+    url: 'https://www.hinduwebsite.com/hinduism/ashtavakra/index.asp'
+    type: other
+  - name: 'Wisdom Library: Scholarly Definitions'
+    url: 'https://www.wisdomlib.org/definition/ashtavakra-gita'
+    type: other
   - name: 'Wikisource: Ashtavakra Gita (John Richards translation)'
     url: 'https://en.wikisource.org/wiki/Ashtavakra_Gita'
     type: wikisource

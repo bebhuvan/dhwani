@@ -11,13 +11,17 @@ genre:
   - Religious Literature
   - Classical Literature
 description: >-
-  Valmiki's Ramayana represents the seminal Sanskrit epic that fundamentally
-  shaped classical Indian literary, philosophical, and cultural discourse,
-  emerging during the transitional period between the Vedic and Classical
-  Sanskrit eras (circa 7th-5th centuries BCE). Traditionally attributed to the
-  sage Valmiki, considered the "first poet" (adi-kavi), the text comprises
-  approximately 24,000 verses across seven narrative sections (kandas),
-  chronicling the life, exile, and heroic journey of Prince Rama of Ayodhya.
+  Valmiki's Ramayana, attributed to the sage-poet Valmiki ("first poet" or adi-kavi),
+  stands as one of Sanskrit literature's foundational epics, comprising seven narrative
+  books (kandas) that chronicle Prince Rama's life, fourteen-year exile, and heroic
+  quest to rescue his wife Sita from the demon-king Ravana. Composed in the anushtubh
+  meter, the earliest portions date to c. 500 BCE, though later books (Uttara Kanda,
+  parts of Bala Kanda) were added by c. 500 CE. The definitive Baroda Critical Edition
+  (1951-1975), collated from approximately 2,000 manuscripts across Northern and Southern
+  recensions, established the text at roughly 18,600 verses. This epic profoundly shaped
+  Hindu dharma concepts, devotional traditions, and literary aesthetics across South and
+  Southeast Asia, generating countless regional versions, performances, and artistic
+  traditions that continue to this day.
 collections:
   - classical-literature
   - epic-poetry
@@ -49,6 +53,18 @@ references:
   - name: 'Wikipedia: Versions of the Ramayana'
     url: 'https://en.wikipedia.org/wiki/Versions_of_the_Ramayana'
     type: wikipedia
+  - name: 'UC Berkeley: Goldman Translation Project (1984-2017)'
+    url: 'https://news.berkeley.edu/2016/11/17/ramayana-translation-project-turns-its-last-page-after-four-decades-of-research/'
+    type: other
+  - name: 'Project MUSE: The Rāmāyaṇa of Vālmīki (Critical Edition)'
+    url: 'https://muse.jhu.edu/book/48783'
+    type: other
+  - name: 'Academia.edu: Baroda Critical Edition Documentation'
+    url: 'https://www.academia.edu/26398012/'
+    type: other
+  - name: 'Sanskrit Documents: Valmiki Ramayana e-texts'
+    url: 'https://sanskritdocuments.org/mirrors/ramayana/valmiki.htm'
+    type: other
   - name: 'Wikipedia: Sanskrit prosody'
     url: 'https://en.wikipedia.org/wiki/Sanskrit_meter'
     type: wikipedia

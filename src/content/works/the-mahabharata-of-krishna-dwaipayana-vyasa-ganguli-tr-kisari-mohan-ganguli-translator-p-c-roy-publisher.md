@@ -13,12 +13,17 @@ genre:
   - Philosophy
   - Religious Studies
 description: >-
-  The Mahabharata, an extraordinary Sanskrit epic composed between 500 BCE and
-  400 CE, represents a foundational text of classical Indian civilization,
-  embodying complex philosophical, social, and religious discourses of its era.
-  Traditionally attributed to the sage Vyasa (Krishna-Dwaipayana), this
-  monumental work comprises approximately 100,000 ślokas (verses), making it the
-  world's longest known epic poem.
+  The Mahabharata, traditionally attributed to Vyasa (Krishna-Dwaipayana), stands
+  as the world's longest epic poem, chronicling the dynastic struggle between the
+  Pandava and Kaurava cousins that culminates in the catastrophic Kurukshetra war.
+  Composed over centuries (c. 500 BCE-400 CE) through three traditional redactions—
+  Jaya (8,800 verses), Bharata (24,000 verses), and Mahabharata (over 100,000 verses)—
+  the epic encompasses philosophy, law, theology, and statecraft. The definitive BORI
+  Critical Edition (1919-1966), collated from 1,259 manuscripts, established the text
+  at 89,000 verses across 18 parvas (books). Kisari Mohan Ganguli's English translation
+  (1883-1896), based on Nilakantha's 17th-century commentary, provided the first complete
+  rendering in English. The epic's embedded Bhagavad Gita and encyclopedic scope make it
+  foundational to Indian civilization, philosophy, and religious thought.
 collections:
   - ancient-wisdom
   - spiritual-texts
@@ -43,6 +48,18 @@ references:
   - name: 'Wikipedia: Kisari Mohan Ganguli'
     url: 'https://en.wikipedia.org/wiki/Kisari_Mohan_Ganguli'
     type: wikipedia
+  - name: 'BORI: Mahabharata Critical Edition Project'
+    url: 'https://bori.ac.in/department/mahabharata/'
+    type: other
+  - name: 'Sanskrit Documents: BORI Critical Edition'
+    url: 'https://sanskritdocuments.org/mirrors/mahabharata/mahabharata-bori.html'
+    type: other
+  - name: 'Mahabharata Resources (Scholarly Portal)'
+    url: 'https://www.mahabharata-resources.org/'
+    type: other
+  - name: 'Encyclopedia.com: Mahabharata'
+    url: 'https://www.encyclopedia.com/literature-and-arts/literature-other-modern-languages/asian-literature/mahabharata'
+    type: other
   - name: Open Library
     url: 'https://openlibrary.org/search?q=Mahabharata&mode=everything'
     type: other
