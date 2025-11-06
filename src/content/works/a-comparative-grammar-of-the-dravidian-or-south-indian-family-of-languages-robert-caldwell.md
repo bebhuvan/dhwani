@@ -1,31 +1,35 @@
 ---
-title: "A Comparative Grammar of the Dravidian or South-Indian Family of Languages"
-author: ["Robert Caldwell"]
+title: 'A Comparative Grammar of the Dravidian or South-Indian Family of Languages'
+author:
+- Robert Caldwell
 year: 1875
-language: ["English"]
-genre: ["Reference Work"]
-description: "Pioneering comparative linguistic study establishing Dravidian as an independent language family distinct from Sanskrit. Caldwell's systematic analysis of Tamil, Telugu, Kannada, and Malayalam grammar laid the foundation for modern Dravidian linguistics."
-collections: ['regional-voices']
+language:
+- English
+genre:
+- Reference Work
+description: |
+  Robert Caldwell's seminal work "A Comparative Grammar of the Dravidian or South-Indian Family of Languages" represents a transformative scholarly intervention in 19th-century linguistic scholarship, fundamentally reframing understanding of indigenous language systems in southern India. Published during the complex period of British colonial academic engagement, the work emerged from Caldwell's extensive linguistic research and missionary experience in the Madras Presidency. As a Presbyterian missionary-linguist, Caldwell brought both scholarly rigor and cross-cultural perspective to his systematic documentation of Dravidian languages, challenging prevailing colonial linguistic paradigms that typically positioned Sanskrit as the foundational linguistic framework for Indian languages. His meticulous comparative analysis of Tamil, Telugu, Kannada, and Malayalam demonstrated that these languages constituted a distinct, autonomous linguistic family fundamentally different from Indo-Aryan language structures. By establishing Dravidian as an independent language family, Caldwell provided crucial scholarly legitimacy to linguistic traditions often marginalized within colonial academic discourse. The work's methodological innovations included comprehensive grammatical analysis, etymological investigations, and sophisticated comparative linguistic techniques that anticipated modern linguistic methodologies. Beyond its linguistic significance, the text represented an important intellectual challenge to colonial epistemological assumptions, offering sophisticated indigenous linguistic scholarship that respected the complex structural integrity of southern Indian languages. Caldwell's groundbreaking research not only transformed linguistic understanding but also contributed significantly to emerging postcolonial intellectual frameworks, preserving and elevating the scholarly status of Dravidian linguistic heritage during a period of intense colonial cultural intervention.
+collections:
+- regional-voices
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/comparativegramm00caldrich"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/comparativegramm00caldrich
+  type: other
 references:
-  - name: "Wikisource"
-    url: "https://en.wikisource.org/wiki/Index:A_comparative_grammar_of_the_Dravidian_or_South-Indian_family_of_languages_by_Caldwell,_Robert.djvu"
-    type: "wikisource"
-  - name: "Wikipedia: Robert Caldwell"
-    url: "https://en.wikipedia.org/wiki/Robert_Caldwell"
-    type: "wikipedia"
-  - name: "Wikipedia: Dravidian languages"
-    url: "https://en.wikipedia.org/wiki/Dravidian_languages"
-    type: "wikipedia"
-  - name: "Open Library: Comparative Grammar of Dravidian Languages"
-    url: "https://openlibrary.org/search?q=Comparative+Grammar+Dravidian+Languages+Robert+Caldwell"
-    type: "other"
+- name: 'Wikisource'
+  url: https://en.wikisource.org/wiki/Index:A_comparative_grammar_of_the_Dravidian_or_South-Indian_family_of_languages_by_Caldwell,_Robert.djvu
+  type: wikisource
+- name: 'Wikipedia: Robert Caldwell'
+  url: https://en.wikipedia.org/wiki/Robert_Caldwell
+  type: wikipedia
+- name: 'Wikipedia: Dravidian languages'
+  url: https://en.wikipedia.org/wiki/Dravidian_languages
+  type: wikipedia
+- name: 'Open Library: Comparative Grammar of Dravidian Languages'
+  url: https://openlibrary.org/search?q=Comparative+Grammar+Dravidian+Languages+Robert+Caldwell
+  type: other
 featured: false
 publishDate: 2025-09-28
-tags: ["Colonial India - British Raj", "19th century", "British Raj", "independence movement", "cultural renaissance", "nationalism", "literary revival", "Indian literature", "digital heritage", "public domain", "classical texts"]
 ---
 
 ## Author and Context
@@ -91,4 +95,3 @@ Caldwell's comparative grammar remains essential reading for Dravidian linguists
 ---
 
 *Content generated with assistance from Claude (Anthropic). Research compiled from scholarly sources including Wikipedia, academic journals, and historical linguistic publications.*
-

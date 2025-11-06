@@ -1,15 +1,22 @@
 ---
-title: "Kautilya Arthasastra"
-author: ["Vidhyalankara, Pranath"]
+title: 'Kautilya Arthasastra'
+author:
+- Vidhyalankara, Pranath
 year: 1959
-language: ["Hindi"]
-genre: ["IGNCA"]
-description: "A 1959 Hindi edition of Kautilya's Arthashastra, the ancient Sanskrit treatise on statecraft comprising 15 books and 5,300 sentences. Edited by Pranath Vidhyalankara, this edition makes accessible the classical text originally composed in layers between 150 BCE and 300 CE, covering politics, economics, military strategy, and governance principles that influenced Indian political thought until the 12th century."
-collections: ["classical-literature"]
+language:
+- Hindi
+genre:
+- IGNCA
+description: |
+  Here is the expanded description:
+  
+  The Arthashastra, attributed to the renowned political strategist and economist Kautilya (also known as Chanakya), represents a foundational text in classical Indian political philosophy and administrative science. Composed during the Mauryan period between 150 BCE and 300 CE, this comprehensive treatise systematically explores governance, statecraft, economic policy, and military strategy across fifteen intricate books. Spanning approximately 5,300 Sanskrit sentences, the text provides unprecedented insight into the sophisticated administrative and political structures of ancient India, particularly during the emergence of the first large-scale subcontinental empire under Chandragupta Maurya. Kautilya's work meticulously details governmental administration, diplomatic protocols, economic regulations, legal frameworks, and military organizational principles, demonstrating an extraordinarily pragmatic approach to statecraft that transcended contemporary philosophical abstractions. The text addresses complex topics including state revenue systems, agricultural management, trade regulations, espionage networks, and diplomatic negotiations, revealing a nuanced understanding of political economy rarely encountered in contemporary historical writings. This 1959 Hindi edition by Pranath Vidhyalankara makes this critical scholarly text accessible to modern researchers and students, facilitating deeper understanding of classical Indian political thought. The Arthashastra's enduring significance lies in its comprehensive approach to governance, its sophisticated analytical framework, and its profound influence on subsequent Indian political and administrative traditions, serving as a crucial archaeological and intellectual artifact that illuminates the intellectual complexity of ancient Indian civilization's governmental and societal structures.
+collections:
+- classical-literature
 sources:
-- name: "Internet Archive"
-  url: "https://archive.org/details/in.ernet.dli.2015.429814"
-  type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.429814
+  type: other
 references:
 - name: 'Wikipedia: Kautilya Arthasastra...'
   url: https://en.wikipedia.org/wiki/Arthashastra
@@ -22,8 +29,8 @@ references:
   type: wikisource
 featured: false
 publishDate: 2025-01-22
-tags: ["ignca", "hindi", "classical-literature"]
 ---
+
 # Kautilya Arthasastra
 
 ## Overview

@@ -1,5 +1,5 @@
 ---
-title: A Letter to a Hindu
+title: 'A Letter to a Hindu'
 author:
 - Tolstoy, Leo, graf
 year: 1895
@@ -7,28 +7,21 @@ language:
 - English
 genre:
 - Historical Literature
-description: 1908 open letter from Leo Tolstoy to Tarak Nath Das addressing Indian
-  resistance to British colonial rule, advocating nonviolent resistance grounded in
-  Tolstoy's Christian anarchist philosophy and reinterpretation of Hindu spiritual
-  texts. Argues that colonial subjugation results from moral-spiritual degradation
-  rather than military weakness, proposing that Indians liberate themselves through
-  adherence to the law of love and refusal to cooperate with oppressive institutions.
-  The letter profoundly influenced Gandhi's development of satyagraha, initiating
-  correspondence between Tolstoy and Gandhi that shaped the philosophical foundations
-  of Indian independence movement.
+description: |
+  "A Letter to a Hindu" represents a pivotal transnational intellectual exchange addressing colonial dynamics and spiritual resistance at the turn of the 20th century. Written in 1895 by Leo Tolstoy, the renowned Russian novelist and philosopher, the open letter emerged as a profound critique of British imperial governance in India, challenging prevailing colonial narratives through a nuanced philosophical lens. Addressed to Tarak Nath Das, an Indian independence activist, the text explores the intersections between spiritual ethics, political resistance, and moral regeneration. Tolstoy synthesizes Christian anarchist principles with interpretive readings of Hindu philosophical traditions, arguing that colonial subjugation fundamentally stems from moral and spiritual capitulation rather than military insufficiency. By advocating nonviolent resistance rooted in universal love and ethical self-transformation, Tolstoy provides a sophisticated intellectual framework that transcends traditional anticolonial discourse. The letter's most significant contribution lies in its profound influence on Mahatma Gandhi's conceptualization of satyagraha, a philosophy of nonviolent civil resistance that would become instrumental in India's independence movement. Tolstoy's text represents a critical moment of transnational intellectual solidarity, demonstrating how philosophical ideas could traverse geographical and cultural boundaries to challenge imperial structures. By reinterpreting spiritual principles as active political resistance, the work offers a radical reimagining of colonial power dynamics, emphasizing individual moral agency and collective spiritual resilience as potent tools of liberation.
 collections:
 - classical-literature
 sources:
-- name: Project Gutenberg
+- name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/7176
   type: other
-- name: Project Gutenberg (HTML)
+- name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/7176.html.images
   type: other
-- name: Internet Archive (A Letter to a Hindu)
+- name: 'Internet Archive (A Letter to a Hindu)'
   url: https://archive.org/details/synapseml_gutenberg_a_letter_to_a_hindu_by_graf_leo_tolstoy
   type: other
-- name: Internet Archive (Notes on the Paranormal)
+- name: 'Internet Archive (Notes on the Paranormal)'
   url: https://archive.org/details/ExtrasensoryPerceptionResearchFinding
   type: other
 references:
@@ -46,10 +39,6 @@ references:
   type: other
 featured: false
 publishDate: 2025-11-01
-tags:
-- public domain
-- National characteristics, East Indian
-- Tolstoy, Leo, graf
 ---
 
 # A Letter to a Hindu

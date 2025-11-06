@@ -1,31 +1,39 @@
 ---
-title: "Bhagavadgītā – Des Erhabenen Sang"
-author: ["Leopold von Schroeder (translator)"]
+title: 'Bhagavadgītā – Des Erhabenen Sang'
+author:
+- Leopold von Schroeder (translator)
 year: 1912
-language: ["German", "Sanskrit"]
-genre: ["Religious Literature", "Philosophy", "Translation"]
-description: "Leopold von Schroeder's 1912 German translation of the Bhagavad Gita brings rigorous Vedic scholarship to this Hindu classic. The Vienna professor's poetic rendering balances literary beauty with doctrinal precision, presenting the Gita as world literature for German audiences seeking spiritual alternatives to Western materialism."
-collections: ["spiritual-texts", "classical-literature"]
+language:
+- German
+- Sanskrit
+genre:
+- Religious Literature
+- Philosophy
+- Translation
+description: |
+  Leopold von Schroeder's 1912 translation "Bhagavadgītā – Des Erhabenen Sang" represents a pivotal moment in European scholarly engagement with Hindu philosophical literature during the early twentieth-century Indological renaissance. As a distinguished professor at the University of Vienna, von Schroeder produced a meticulously researched German rendition of this seminal Sanskrit text, situated within the broader intellectual context of European academic orientalism. His translation emerged during a period of increasing European intellectual curiosity about Eastern philosophical traditions, particularly those originating in the Indian subcontinent. Von Schroeder's scholarly approach combined rigorous philological analysis with a nuanced understanding of Vedantic philosophical complexities, offering German-speaking audiences a sophisticated interpretation of the Bhagavad Gita's profound metaphysical discourse. The work carefully preserves the text's intricate philosophical arguments concerning dharma, karma, and spiritual liberation, while providing extensive scholarly annotations that contextualize the dialogue between Krishna and Arjuna within broader Hindu theological frameworks. Beyond its linguistic achievement, the translation represented an important scholarly bridge between Western academic discourse and classical Indian philosophical thought, demonstrating profound respect for the text's intellectual sophistication. Von Schroeder's rendering was particularly significant in presenting the Gita not merely as an exotic religious document, but as a complex philosophical treatise with universal philosophical implications, challenging contemporary European intellectual assumptions about non-Western philosophical traditions and contributing substantially to comparative religious and philosophical studies.
+collections:
+- spiritual-texts
+- classical-literature
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/33186"
-    type: "other"
-  - name: "Internet Archive (1912 edition)"
-    url: "https://archive.org/details/bub_gb_mGdFAQAAIAAJ"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/33186
+  type: other
+- name: 'Internet Archive (1912 edition)'
+  url: https://archive.org/details/bub_gb_mGdFAQAAIAAJ
+  type: other
 references:
-  - name: "Wikipedia: Leopold von Schroeder"
-    url: "https://en.wikipedia.org/wiki/Leopold_von_Schroeder"
-    type: "wikipedia"
-  - name: "Wikipedia: Bhagavad Gita"
-    url: "https://en.wikipedia.org/wiki/Bhagavad_Gita"
-    type: "wikipedia"
-  - name: "Open Library: Bhagavadgita des Erhabenen Sang"
-    url: "https://openlibrary.org/search?q=Bhagavadgita+des+Erhabenen+Sang&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Leopold von Schroeder'
+  url: https://en.wikipedia.org/wiki/Leopold_von_Schroeder
+  type: wikipedia
+- name: 'Wikipedia: Bhagavad Gita'
+  url: https://en.wikipedia.org/wiki/Bhagavad_Gita
+  type: wikipedia
+- name: 'Open Library: Bhagavadgita des Erhabenen Sang'
+  url: https://openlibrary.org/search?q=Bhagavadgita+des+Erhabenen+Sang&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-04
-tags: ["Leopold von Schroeder", "Bhagavad Gita", "German translation", "Vedic studies", "Hindu philosophy", "German Indology", "religious literature", "Eugen Diederichs", "Vienna University", "comparative religion", "20th century"]
 ---
 
 # Bhagavadgītā – Des Erhabenen Sang

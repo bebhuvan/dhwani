@@ -1,5 +1,5 @@
 ---
-title: The Old East Indiamen
+title: 'The Old East Indiamen'
 author:
 - Chatterton, E. Keble (Edward Keble)
 year: 1929
@@ -8,31 +8,22 @@ language:
 genre:
 - Historical Literature
 - Maritime History
-description: A historical account exploring the role of East Indiamen sailing ships
-  in establishing British trade routes and expanding the British Empire in India.
-  The work chronicles the adventures, voyages, and the experiences of the brave seamen
-  who navigated the challenges of maritime commerce during this transformative period.
+description: |
+  Chatterton's comprehensive scholarly examination of the East Indiamen maritime vessels offers a nuanced exploration of British imperial expansion and commercial maritime infrastructure during the late 17th through early 19th centuries. The work meticulously chronicles the technological, economic, and cultural dimensions of maritime trade routes connecting Britain and the Indian subcontinent, examining these specialized sailing vessels as critical instruments of colonial commerce and geopolitical transformation. Drawing from extensive archival research, the text provides detailed accounts of naval architectural innovations, maritime navigation challenges, and the complex socioeconomic interactions between British traders and Indian coastal communities. Chatterton illuminates the crucial role of these ships in establishing communication networks, facilitating transoceanic trade, and fundamentally reshaping economic relationships between metropolitan Britain and its colonial territories in India. The narrative goes beyond mere technical description, investigating the lived experiences of sailors, merchants, and administrators who navigated these challenging maritime routes, revealing the human dimensions of imperial expansion. By contextualizing the East Indiamen within broader historical processes of globalization, technological development, and imperial strategy, the work provides crucial insights into the mechanisms of British colonial power projection. Significantly, the text also captures the technological and commercial adaptations required for sustained long-distance maritime commerce, demonstrating how these ships represented more than mere transportation vehicles—they were mobile sites of cultural exchange, economic negotiation, and imperial ambition that profoundly influenced India's economic and social landscapes during a transformative historical period.
 collections:
 - classical-literature
 sources:
-- name: Project Gutenberg
+- name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/54561
   type: other
-- name: Project Gutenberg (HTML)
+- name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/54561.html.images
   type: other
-- name: Internet Archive (The old East Indiamen)
+- name: 'Internet Archive (The old East Indiamen)'
   url: https://archive.org/details/oldeastindiamen00chatrich
   type: other
-references: []
 featured: false
 publishDate: 2025-11-01
-tags:
-- public domain
-- East India Company
-- Great Britain -- Commerce -- India
-- Maritime history
-- 'Open Library: The Old East Indiamen'
 ---
 
 # The Old East Indiamen

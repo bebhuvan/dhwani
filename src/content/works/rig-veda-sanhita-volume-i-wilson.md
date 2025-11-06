@@ -1,28 +1,35 @@
 ---
-title: "Rig-Veda Sanhita, Volume I"
-author: ["Horace Hayman Wilson"]
+title: 'Rig-Veda Sanhita, Volume I'
+author:
+- Horace Hayman Wilson
 year: 1850
-language: ["English", "Sanskrit"]
-genre: ["Religious Texts", "Vedic Literature", "Translation"]
-description: "Horace Hayman Wilson's *Rig-Veda Sanhita, Volume I* (1850, 1946 reprint) presents pioneering English translation of Rigveda's opening mandala. Drawing on Sayana's 14th-century Sanskrit commentary, Wilson made foundational Vedic texts accessible to Western scholarship during formative period of comparative philology and religious studies."
-collections: ['ancient-wisdom']
+language:
+- English
+- Sanskrit
+genre:
+- Religious Texts
+- Vedic Literature
+- Translation
+description: |
+  Horace Hayman Wilson's *Rig-Veda Sanhita, Volume I* represents a landmark scholarly intervention in 19th-century Indological studies, offering the first comprehensive English translation of the Rigveda's initial mandala during a transformative period of colonial-era linguistic and religious scholarship. Wilson, a prominent Orientalist and professor at the East India Company's College in Haileybury, produced this meticulous translation by drawing extensively on Sayana's authoritative 14th-century Sanskrit commentary, thus bridging medieval Indian hermeneutical traditions with emerging Western academic methodologies. The work emerged during a critical intellectual moment when European scholars were systematically exploring and interpreting ancient Indian textual traditions, seeking to understand the linguistic, philosophical, and religious foundations of Vedic civilization. Wilson's translation was particularly significant in making the complex liturgical and ritualistic texts of the Rigveda accessible to Western academic audiences, providing unprecedented insights into the sophisticated theological and cosmological conceptualizations of early Indo-Aryan religious thought. Beyond its philological importance, the translation illuminated intricate hymnal structures, divine invocations, and mythological narratives that form the cornerstone of Vedic philosophical and spiritual discourse. By rendering these profound Sanskrit texts into English, Wilson facilitated cross-cultural scholarly dialogue and contributed substantially to comparative religious studies, helping establish the Rigveda as a foundational text in understanding the intellectual and spiritual heritage of the Indian subcontinent. His scholarly approach demonstrated remarkable linguistic precision and cultural sensitivity, setting methodological standards for subsequent Vedic scholarship and deepening international comprehension of India's rich textual traditions.
+collections:
+- ancient-wisdom
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/rig-veda-sanhita-volume-i-h-h-wilson"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/rig-veda-sanhita-volume-i-h-h-wilson
+  type: other
 references:
-  - name: "Wikipedia: Rigveda"
-    url: "https://en.wikipedia.org/wiki/Rigveda"
-    type: "wikipedia"
-  - name: "Wikipedia: Horace Hayman Wilson"
-    url: "https://en.wikipedia.org/wiki/Horace_Hayman_Wilson"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Rig+Veda+Sanhita+Wilson&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Rigveda'
+  url: https://en.wikipedia.org/wiki/Rigveda
+  type: wikipedia
+- name: 'Wikipedia: Horace Hayman Wilson'
+  url: https://en.wikipedia.org/wiki/Horace_Hayman_Wilson
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Rig+Veda+Sanhita+Wilson&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-22
-tags: ["Rigveda", "H.H. Wilson", "Vedic literature", "Sanskrit", "Hindu scriptures", "Translation", "Vedic religion", "Sayana", "Indology", "Ancient India", "Hymns", "Indo-European", "Boden Professor", "19th century scholarship", "Comparative religion"]
 ---
 
 # Rig-Veda Sanhita, Volume I
@@ -54,4 +61,3 @@ Superseded by later translations (Griffith, Jamison-Brereton) incorporating impr
 ## How to Access
 
 Available through Internet Archive, public domain, freely accessible. Volume I covers first mandala; complete translation spans multiple volumes.
-

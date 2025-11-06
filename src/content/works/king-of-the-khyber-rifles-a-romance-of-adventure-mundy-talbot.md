@@ -8,17 +8,15 @@ language:
 genre:
 - Fiction
 - Historical Literature
-description: An adventure novel featuring Captain Athelstan King navigating military
-  duty and espionage in colonial India during World War I. The narrative presents
-  a complex portrayal of frontier warfare, political intrigue, and encounters with
-  the enigmatic Yasmini.
+description: |
+  King--of the Khyber Rifles represents a significant early 20th-century Anglo-Indian adventure novel that explores the complex geopolitical dynamics of British colonial frontier territories during World War I. Written by Talbot Mundy, an English journalist and novelist with extensive travel experience in India, the work examines the intricate cultural and military tensions along the North-West Frontier Province through the perspective of Captain Athelstan King, a British intelligence officer. The narrative skillfully interweaves espionage, military strategy, and cross-cultural encounters, set against the backdrop of British imperial expansion and emerging anti-colonial sentiments. Mundy's novel critically engages with the colonial imagination, presenting nuanced representations of Indian characters like the mysterious Yasmini, who navigates multiple cultural and political landscapes. The work contributes significantly to understanding colonial literature's representation of frontier spaces, indigenous agency, and imperial power dynamics. Through its intricate plot involving military intelligence, political intrigue, and cultural negotiations, the novel illuminates the complex social and strategic realities of British India during a pivotal historical moment. Mundy's text is particularly notable for its relatively sophisticated portrayal of Indian characters compared to contemporaneous colonial literature, offering insights into cross-cultural interactions, power structures, and the psychological complexities of imperial encounters. The novel serves as an important historical and literary document, reflecting the intellectual and cultural negotiations occurring at the intersection of British imperial ambitions and emerging Indian nationalist consciousness during the early 20th century.
 collections:
 - modern-literature
 sources:
-- name: Project Gutenberg
+- name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/6066
   type: other
-- name: Project Gutenberg (HTML)
+- name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/6066.html.images
   type: other
 - name: 'Internet Archive (King--of the Khyber Rifles: A Romance of Adventure)'
@@ -33,11 +31,6 @@ references:
   type: other
 featured: false
 publishDate: 2025-11-01
-tags:
-- public domain
-- British -- India -- Fiction
-- India -- History -- Sepoy Rebellion, 1857-1858 -- Fiction
-- Mundy, Talbot
 ---
 
 # King--of the Khyber Rifles: A Romance of Adventure

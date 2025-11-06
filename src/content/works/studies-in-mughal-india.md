@@ -1,40 +1,46 @@
 ---
-title: "Studies in Mughal India"
-author: ["Jadunath Sarkar"]
+title: 'Studies in Mughal India'
+author:
+- Jadunath Sarkar
 year: 1919
-language: ["English"]
-genre: ["Historical analysis", "Scholarly essays"]
-description: "Jadunath Sarkar's pioneering 1919 collection of historical essays analyzing Mughal Empire governance, society, and politics during Aurangzeb's reign, drawing extensively from Persian primary sources including official chronicles, administrative documents, and contemporary accounts. Revolutionary for employing rigorous archival research and critical source analysis to Mughal history, establishing modern historiographical standards for the period. Illuminates Mughal administrative machinery, revenue systems, provincial governance, and social structures through evidence-based analysis rather than sectarian narratives."
-collections: ['mughal-history', 'scholarly-translations']
+language:
+- English
+genre:
+- Historical analysis
+- Scholarly essays
+description: |
+  Studies in Mughal India represents Jadunath Sarkar's groundbreaking scholarly contribution to understanding the complex administrative and sociopolitical dynamics of the late 17th-century Mughal Empire during Aurangzeb's contentious reign. Published in 1919, this collection of historical essays marks a pivotal moment in Indian historiography by employing systematic archival research and critical source analysis of Persian primary documents, including imperial chronicles, administrative records, and contemporary accounts. Sarkar, a prominent historian trained in the British colonial academic tradition, meticulously deconstructs prevailing narratives about Mughal governance by presenting evidence-based scholarly examinations of provincial administration, revenue systems, bureaucratic structures, and social hierarchies. The work is particularly significant in its nuanced exploration of Mughal imperial mechanisms, challenging simplistic interpretations and offering profound insights into the complex interactions between state institutions, regional authorities, and diverse social groups. By rigorously examining official documents and cross-referencing multiple sources, Sarkar demonstrates the sophisticated administrative machinery of the Mughal state, revealing intricate networks of power, cultural negotiation, and institutional adaptation. His methodology established new standards for historical research in India, moving beyond colonial and nationalist interpretations to provide a more analytically grounded understanding of Mughal imperial processes. The essays not only illuminate the structural complexities of one of the subcontinent's most significant historical empires but also contribute critically to understanding India's rich, multifaceted historical and cultural heritage, making it an essential scholarly reference for understanding the intricate socio-political landscape of pre-colonial India.
+collections:
+- mughal-history
+- scholarly-translations
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/studiesinmughali00sarkuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/studiesinmughali00sarkuoft
+  type: other
 references:
-  - name: "Wikipedia: Jadunath Sarkar"
-    url: "https://en.wikipedia.org/wiki/Jadunath_Sarkar"
-    type: "wikipedia"
-  - name: "Wikipedia: Mughal Empire"
-    url: "https://en.wikipedia.org/wiki/Mughal_Empire"
-    type: "wikipedia"
-  - name: "Wikipedia: Aurangzeb"
-    url: "https://en.wikipedia.org/wiki/Aurangzeb"
-    type: "wikipedia"
-  - name: "Wikipedia: Mughal administration"
-    url: "https://en.wikipedia.org/wiki/Mughal_administration"
-    type: "wikipedia"
-  - name: "Wikipedia: Persian language in the Indian subcontinent"
-    url: "https://en.wikipedia.org/wiki/Persian_language_in_the_Indian_subcontinent"
-    type: "wikipedia"
-  - name: "Wikipedia: Historiography of India"
-    url: "https://en.wikipedia.org/wiki/Historiography_of_India"
-    type: "wikipedia"
-  - name: "Open Library: Studies in Mughal India"
-    url: "https://openlibrary.org/books/OL25408974M/Studies_in_Mughal_India"
-    type: "openlibrary"
+- name: 'Wikipedia: Jadunath Sarkar'
+  url: https://en.wikipedia.org/wiki/Jadunath_Sarkar
+  type: wikipedia
+- name: 'Wikipedia: Mughal Empire'
+  url: https://en.wikipedia.org/wiki/Mughal_Empire
+  type: wikipedia
+- name: 'Wikipedia: Aurangzeb'
+  url: https://en.wikipedia.org/wiki/Aurangzeb
+  type: wikipedia
+- name: 'Wikipedia: Mughal administration'
+  url: https://en.wikipedia.org/wiki/Mughal_administration
+  type: wikipedia
+- name: 'Wikipedia: Persian language in the Indian subcontinent'
+  url: https://en.wikipedia.org/wiki/Persian_language_in_the_Indian_subcontinent
+  type: wikipedia
+- name: 'Wikipedia: Historiography of India'
+  url: https://en.wikipedia.org/wiki/Historiography_of_India
+  type: wikipedia
+- name: 'Open Library: Studies in Mughal India'
+  url: https://openlibrary.org/books/OL25408974M/Studies_in_Mughal_India
+  type: openlibrary
 featured: false
 publishDate: 2025-10-26
-tags: ["Mughal Empire", "Indian history", "Aurangzeb", "17th century India", "Persian sources", "historical scholarship", "South Asian history", "digital heritage", "public domain"]
 ---
 
 # Studies in Mughal India

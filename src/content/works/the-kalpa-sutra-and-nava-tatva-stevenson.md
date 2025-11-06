@@ -1,28 +1,36 @@
 ---
-title: "The Kalpa Sutra and Nava Tatva"
-author: ["Bhadrabahu", "John Stevenson"]
+title: 'The Kalpa Sutra and Nava Tatva'
+author:
+- Bhadrabahu
+- John Stevenson
 year: 1848
-language: ["English", "Sanskrit"]
-genre: ["Religious Texts", "Jain Philosophy"]
-description: "This 1848 translation presents two foundational Jain texts: the Kalpa Sutra, attributed to Acharya Bhadrabahu and containing biographies of the Tirthankaras Parshvanatha and Mahavira, and the Nava Tatva (Nine Truths), outlining core Jain philosophical principles. The Kalpa Sutra is divided into three sections covering the lives of the Jinas, a succession of early teachers, and monastic conduct rules for the rainy season."
-collections: ['spiritual-texts', 'ancient-wisdom']
+language:
+- English
+- Sanskrit
+genre:
+- Religious Texts
+- Jain Philosophy
+description: |
+  This seminal 1848 translation by John Stevenson presents two foundational Jain texts that illuminate the philosophical and biographical traditions of one of India's oldest religious traditions. The Kalpa Sutra, attributed to the revered scholar Acharya Bhadrabahu, provides comprehensive biographical accounts of the Tirthankaras Parshvanatha and Mahavira, while the Nava Tatva elucidates the nine fundamental philosophical principles of Jainism. Composed during a critical period of religious systematization between the 3rd century BCE and 5th century CE, these texts represent a pivotal moment in the intellectual and spiritual development of Jain thought. The Kalpa Sutra's three-part structure meticulously documents the lives of the Jinas (spiritual conquerors), details the lineage of early teachers, and prescribes monastic conduct regulations for the annual rainy season retreat. Bhadrabahu, a prominent Jain scholar, played a crucial role in codifying and preserving Jain canonical knowledge during a complex period of religious discourse in the Indian subcontinent. The work is particularly significant for its insights into Jain cosmology, ethical principles, and the lives of key spiritual figures who shaped the religion's philosophical and social framework. By providing a detailed record of Jain spiritual practices, biographical traditions, and core philosophical concepts, this translation offers scholars and researchers a critical window into the intellectual and spiritual landscape of ancient Indian religious thought, highlighting Jainism's sophisticated approach to understanding existence, moral conduct, and spiritual liberation.
+collections:
+- spiritual-texts
+- ancient-wisdom
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/kalpasutranavata00stevrich"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/kalpasutranavata00stevrich
+  type: other
 references:
-  - name: "Wikipedia: Kalpa Sūtra"
-    url: "https://en.wikipedia.org/wiki/Kalpa_S%C5%ABtra"
-    type: "wikipedia"
-  - name: "Wikipedia: Bhadrabahu"
-    url: "https://en.wikipedia.org/wiki/Bhadrabahu"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Kalpa+sutra+Nava+tatva+Stevenson&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Kalpa Sūtra'
+  url: https://en.wikipedia.org/wiki/Kalpa_S%C5%ABtra
+  type: wikipedia
+- name: 'Wikipedia: Bhadrabahu'
+  url: https://en.wikipedia.org/wiki/Bhadrabahu
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Kalpa+sutra+Nava+tatva+Stevenson&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-23
-tags: ["Jainism", "Kalpa Sutra", "Bhadrabahu", "Tirthankaras", "Mahavira", "Parshvanatha", "Jain philosophy", "Nava Tatva", "monastic rules", "Svetambara", "Paryushana", "John Stevenson", "Oriental Translation Fund"]
 ---
 
 # The Kalpa Sutra and Nava Tatva

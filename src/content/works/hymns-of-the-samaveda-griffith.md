@@ -1,31 +1,40 @@
 ---
-title: "Hymns of the Samaveda"
-author: ["Ralph T. H. Griffith"]
+title: 'Hymns of the Samaveda'
+author:
+- Ralph T. H. Griffith
 year: 1893
-language: ["English", "Sanskrit"]
-genre: ["Religious Texts", "Vedic Literature", "Translation", "Music", "Liturgy"]
-description: "Ralph T. H. Griffith's 1893 English translation of the Samaveda, the Veda of melodies and chants. This liturgical text contains 1,875 verses primarily drawn from the Rigveda but set to ritual melodies for the Soma sacrifice, preserving the world's oldest surviving notated music."
-collections: ['ancient-wisdom']
+language:
+- English
+- Sanskrit
+genre:
+- Religious Texts
+- Vedic Literature
+- Translation
+- Music
+- Liturgy
+description: |
+  Ralph T. H. Griffith's 1893 English translation of the Samaveda represents a pivotal scholarly intervention in understanding the complex liturgical and musical traditions of ancient Indian Brahmanic culture. Compiled between 1200-1000 BCE during the late Vedic period, the Samaveda—literally "Veda of Melodies"—is a profound musical and ritual manuscript containing 1,875 verses predominantly sourced from the Rigveda, meticulously arranged for specific ritual performances, particularly the intricate Soma sacrifice. As the world's oldest surviving notated musical text, it provides unprecedented insight into the sophisticated sonic and spiritual practices of early Indian civilization. Griffith, a distinguished British Orientalist scholar, produced this landmark translation during the colonial era's intellectual project of documenting and interpreting classical Indian religious manuscripts, contributing significantly to cross-cultural academic understanding. The text's musical verses, designed to be chanted with precise melodic configurations, were not merely aesthetic expressions but integral components of complex Vedic religious ceremonies, reflecting a nuanced understanding of sound as a transformative spiritual medium. Each carefully structured chant served multiple functions: invoking divine entities, facilitating ritual processes, and maintaining cosmic harmony through precisely modulated sonic vibrations. Griffith's scholarly translation made these esoteric musical-religious practices accessible to Western academic audiences, bridging epistemological gaps between European scholarly traditions and Indian philosophical-musical heritage. By rendering these ancient Sanskrit texts into English, he enabled broader comprehension of the Samaveda's profound cultural significance, illuminating the intricate relationship between music, spirituality, and ritual in classical Indian intellectual traditions.
+collections:
+- ancient-wisdom
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.47949"
-    type: "archive"
-  - name: "Sacred Texts Archive"
-    url: "https://sacred-texts.com/hin/sv.htm"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.47949
+  type: archive
+- name: 'Sacred Texts Archive'
+  url: https://sacred-texts.com/hin/sv.htm
+  type: other
 references:
-  - name: "Wikipedia: Samaveda"
-    url: "https://en.wikipedia.org/wiki/Samaveda"
-    type: "wikipedia"
-  - name: "Wikipedia: Ralph T. H. Griffith"
-    url: "https://en.wikipedia.org/wiki/Ralph_T._H._Griffith"
-    type: "wikipedia"
-  - name: "Wikipedia: Vedic Chant"
-    url: "https://en.wikipedia.org/wiki/Vedic_chant"
-    type: "wikipedia"
+- name: 'Wikipedia: Samaveda'
+  url: https://en.wikipedia.org/wiki/Samaveda
+  type: wikipedia
+- name: 'Wikipedia: Ralph T. H. Griffith'
+  url: https://en.wikipedia.org/wiki/Ralph_T._H._Griffith
+  type: wikipedia
+- name: 'Wikipedia: Vedic Chant'
+  url: https://en.wikipedia.org/wiki/Vedic_chant
+  type: wikipedia
 featured: true
 publishDate: 2025-11-02
-tags: ["Samaveda", "Ralph Griffith", "Vedic literature", "Sanskrit", "Hindu scriptures", "Translation", "Music", "Chanting", "Liturgy", "Soma sacrifice", "Udgata priest", "Ancient India", "Ritual music", "Musical notation", "19th century scholarship", "Indology", "Sacred music", "Vedic chant"]
 ---
 
 # Hymns of the Samaveda

@@ -1,5 +1,5 @@
 ---
-title: Das Heim und die Welt
+title: 'Das Heim und die Welt'
 author:
 - Tagore, Rabindranath
 year: 1926
@@ -8,16 +8,15 @@ language:
 genre:
 - Fiction
 - Historical Literature
-description: A novel exploring love, duty, and identity through Bimala's perspective
-  as she navigates domestic life and emerging national consciousness in colonial India,
-  examining tradition versus modernity.
+description: |
+  Published during the critical period of India's anti-colonial struggle and Bengal's remarkable cultural renaissance, Rabindranath Tagore's "Das Heim und die Welt" (originally "Ghare Baire" in Bengali) represents a profound literary exploration of individual consciousness and nationalist awakening in early 20th-century colonial India. Written during a transformative era marked by social upheaval, nationalist movements, and complex cultural negotiations, the novel offers a nuanced examination of personal and political identity through the perspective of its protagonist, Bimala. Set against the backdrop of the Swadeshi movement—a significant anti-colonial nationalist campaign promoting indigenous economic and cultural resistance—the work critically interrogates the intersections of domestic intimacy, political ideology, and emergent national consciousness. Tagore, a polymathic intellectual and the first non-European Nobel laureate in literature, skillfully deconstructs binary narratives of tradition and modernity, challenging simplistic representations of colonial resistance and gender dynamics. The novel's sophisticated narrative structure allows a multilayered exploration of individual subjectivity within broader sociopolitical transformations, revealing the intricate psychological landscapes of characters navigating complex ethical and emotional terrains. By presenting divergent perspectives on nationalism, personal freedom, and social reform, Tagore advances a sophisticated critique of both colonial domination and narrow nationalist rhetoric. The work remains a seminal text in Indian literary studies, exemplifying the intellectual complexity of Bengal's renaissance and providing crucial insights into the psychological dimensions of anti-colonial struggle, making it an essential contribution to understanding the nuanced intellectual and cultural negotiations of early 20th-century Indian society.
 collections:
 - modern-literature
 sources:
-- name: Project Gutenberg
+- name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/52643
   type: other
-- name: Project Gutenberg (HTML)
+- name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/52643.html.images
   type: other
 references:
@@ -32,10 +31,6 @@ references:
   type: other
 featured: false
 publishDate: 2025-11-01
-tags:
-- public domain
-- Tagore, Rabindranath
-- colonial India
 ---
 
 # Das Heim und die Welt

@@ -1,22 +1,21 @@
 ---
-title: Early History of India
+title: 'Early History of India'
 author:
 - Vincent A. Smith, revised by S. M. Edwardes
 year: 1904
-category: Colonial History
 language:
 - English
 genre:
 - Literature
-description: Early History of India
+description: |
+  Early History of India represents a seminal scholarly investigation into India's complex civilizational development, authored during a pivotal moment in imperial historiography by Vincent A. Smith, a distinguished British civil servant and historian who served in the Indian Imperial Service from 1869 to 1900. The work emerged during a critical period of colonial scholarship when British administrators sought to systematically document and interpret the historical trajectories of colonized territories through rigorous archival and archaeological research. Smith's comprehensive narrative traces Indian civilization's evolution from ancient Indus Valley settlements through classical Sanskrit periods and medieval Islamic interactions, employing a methodical approach that synthesized archaeological evidence, numismatic records, epigraphical sources, and contemporary textual scholarship. By meticulously examining political formations, cultural transformations, and socio-economic structures across multiple historical epochs, Smith provided European and Indian readers with an unprecedented scholarly framework for understanding India's complex historical continuities and discontinuities. Despite its colonial perspective, the work represents a significant intellectual endeavor that bridged indigenous historical knowledge with emerging Western academic methodologies. Smith's systematic documentation challenged prevailing Eurocentric narratives by acknowledging the sophisticated administrative, artistic, and philosophical achievements of Indian civilizations across different historical periods. The text's enduring scholarly value lies in its comprehensive documentation of archaeological findings, dynastic successions, and cultural interactions, making it an important reference for subsequent generations of historians studying the Indian subcontinent's rich and multifaceted historical landscape.
 sources:
-- name: Internet Archive (1914 Third Edition)
+- name: 'Internet Archive (1914 Third Edition)'
   url: https://archive.org/details/earlyhistoryofin00smit
   type: other
-- name: Internet Archive (1924 Fourth Edition)
+- name: 'Internet Archive (1924 Fourth Edition)'
   url: https://archive.org/details/in.ernet.dli.2015.283155
   type: other
-publishDate: 2025-11-03 00:00:00+00:00
 references:
 - name: 'Wikipedia: History of India'
   url: https://en.wikipedia.org/wiki/History_of_India
@@ -27,6 +26,8 @@ references:
 - name: 'Open Library: Early History of India'
   url: https://openlibrary.org/search?q=Early+History+India+Vincent+Smith
   type: other
+featured: false
+publishDate: 2025-11-03 00:00:00+00:00
 ---
 
 # Early History of India

@@ -1,34 +1,45 @@
 ---
-title: "Panini's Ashtadhyayi: The Sanskrit Grammar"
-author: ["Panini", "Srisa Chandra Vasu"]
+title: 'Panini's Ashtadhyayi: The Sanskrit Grammar'
+author:
+- Panini
+- Srisa Chandra Vasu
 year: -400
-language: ["Sanskrit", "English"]
-genre: ["Grammar", "Linguistics", "Philosophy", "Ancient Literature"]
-description: "Panini's Ashtadhyayi, the foundational Sanskrit grammar from the 5th century BCE that revolutionized linguistic analysis. This ancient masterwork established systematic principles for Sanskrit grammar with unprecedented precision, influencing linguistic theory for over two millennia and earning Panini recognition as the father of linguistics."
-collections: ['ancient-wisdom', 'spiritual-texts', 'classical-literature']
+language:
+- Sanskrit
+- English
+genre:
+- Grammar
+- Linguistics
+- Philosophy
+- Ancient Literature
+description: |
+  Emerging during the vibrant intellectual climate of the Late Vedic Period (c. 500-200 BCE), Panini's Ashtadhyayi was composed in the northwestern region of ancient India, likely in Gandhara, during a time of significant scholarly and philosophical advancement. As a scholar-grammarian working within the rich intellectual traditions of classical Indian civilization, Panini synthesized generations of linguistic knowledge into a groundbreaking systematic approach that reflected the sophisticated analytical methods of his era. Panini's Ashtadhyayi, the foundational Sanskrit grammar from the 5th century BCE that revolutionized linguistic analysis, established systematic principles for Sanskrit grammar with unprecedented precision, influencing linguistic theory for over two millennia and earning Panini recognition as the father of linguistics.
+collections:
+- ancient-wisdom
+- spiritual-texts
+- classical-literature
 sources:
-  - name: "Internet Archive (Vasu Translation)"
-    url: "https://archive.org/details/ashtadhyayitrans06paniuoft"
-    type: "other"
-  - name: "Internet Archive (Sanskrit Text)"
-    url: "https://archive.org/details/in.ernet.dli.2015.22683"
-    type: "other"
+- name: 'Internet Archive (Vasu Translation)'
+  url: https://archive.org/details/ashtadhyayitrans06paniuoft
+  type: other
+- name: 'Internet Archive (Sanskrit Text)'
+  url: https://archive.org/details/in.ernet.dli.2015.22683
+  type: other
 references:
-  - name: "Wikipedia: Ashtadhyayi"
-    url: "https://en.wikipedia.org/wiki/Ashtadhyayi"
-    type: "wikipedia"
-  - name: "Wikipedia: Panini"
-    url: "https://en.wikipedia.org/wiki/Panini"
-    type: "wikipedia"
-  - name: "Wikipedia: Srisa Chandra Vasu"
-    url: "https://en.wikipedia.org/wiki/Sris_Chandra_Basu"
-    type: "wikipedia"
-  - name: "Open Library: Panini's Ashtadhyayi"
-    url: "https://openlibrary.org/search?q=Paninis+Ashtadhyayi+The+Sanskrit+Grammar+year+Panini"
-    type: "other"
+- name: 'Wikipedia: Ashtadhyayi'
+  url: https://en.wikipedia.org/wiki/Ashtadhyayi
+  type: wikipedia
+- name: 'Wikipedia: Panini'
+  url: https://en.wikipedia.org/wiki/Panini
+  type: wikipedia
+- name: 'Wikipedia: Srisa Chandra Vasu'
+  url: https://en.wikipedia.org/wiki/Sris_Chandra_Basu
+  type: wikipedia
+- name: 'Open Library: Panini's Ashtadhyayi'
+  url: https://openlibrary.org/search?q=Paninis+Ashtadhyayi+The+Sanskrit+Grammar+year+Panini
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical-literature', 'grammar', 'philosophy']
 ---
 
 # Panini's Ashtadhyayi: The Sanskrit Grammar

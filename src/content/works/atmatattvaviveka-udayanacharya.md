@@ -1,31 +1,38 @@
 ---
-title: "Ātmatattva viveka (Discrimination of the Nature of the Self)"
-author: ["Udayanacharya (10th-11th century)"]
+title: 'Ātmatattva viveka (Discrimination of the Nature of the Self)'
+author:
+- Udayanacharya (10th-11th century)
 year: 1940
-language: ["Sanskrit"]
-genre: ["Philosophy", "Nyaya Logic", "Polemical Treatise"]
-description: "Udayana's sophisticated treatise deploying rigorous Nyaya logic to refute Buddhist no-self (anatman) doctrines. Targets Buddhist epistemologists Dignaga and Dharmakirti, defending Nyaya-Vaisheshika position on the self as eternal substance distinct from consciousness. Represents mature medieval Nyaya response to Buddhist challenges, establishing theistic realism against Buddhist momentariness through systematic logical argumentation."
-collections: ['ancient-wisdom', 'philosophy']
+language:
+- Sanskrit
+genre:
+- Philosophy
+- Nyaya Logic
+- Polemical Treatise
+description: |
+  During the intellectually dynamic period of the early 11th century, when the Nalanda and Vikramashila university networks were centers of intense philosophical discourse, Udayanacharya's Ātmatattva viveka emerged as a critical intervention in the epistemological debates between Hindu and Buddhist philosophical traditions. Written circa 1025 CE, the treatise represents a sophisticated Nyaya philosophical response to Buddhist metaphysical challenges, particularly the Buddhist doctrine of anatman (no-self). Udayanacharya, a prominent scholar of the late Pratihara period, systematically employs advanced Nyaya logical methodologies to defend the Brahmanical conception of the self as an eternal, distinct substance against the Buddhist view of consciousness as momentary and non-substantial. By meticulously critiquing the epistemological frameworks of Buddhist philosophers Dignaga and Dharmakirti, the work exemplifies the intellectual rigor of medieval Indian philosophical discourse. The text is particularly significant in its deployment of systematic logical argumentation to establish theistic realism, demonstrating the complex intellectual exchanges between different philosophical schools in medieval India. Udayanacharya's work contributes critically to understanding the sophisticated intellectual traditions of the period, showcasing how philosophical debates were conducted through nuanced logical reasoning, textual interpretation, and metaphysical speculation. As a pivotal text in the Nyaya-Vaisheshika philosophical tradition, the Ātmatattva viveka illuminates the intellectual dynamism of classical Indian philosophy, revealing the complex epistemological and ontological discussions that characterized scholarly engagement during this transformative period of Indian intellectual history.
+collections:
+- ancient-wisdom
+- philosophy
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.485457"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.485457
+  type: other
 references:
-  - name: "Wikipedia: Udayana"
-    url: "https://en.wikipedia.org/wiki/Udayana"
-    type: "wikipedia"
-  - name: "Wikipedia: Nyaya"
-    url: "https://en.wikipedia.org/wiki/Nyaya"
-    type: "wikipedia"
-  - name: "Wikipedia: Atman"
-    url: "https://en.wikipedia.org/wiki/Ātman_(Hinduism)"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Atmatattvaviveka+Udayana&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Udayana'
+  url: https://en.wikipedia.org/wiki/Udayana
+  type: wikipedia
+- name: 'Wikipedia: Nyaya'
+  url: https://en.wikipedia.org/wiki/Nyaya
+  type: wikipedia
+- name: 'Wikipedia: Atman'
+  url: https://en.wikipedia.org/wiki/Ātman_(Hinduism)
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Atmatattvaviveka+Udayana&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Udayana", "Nyaya philosophy", "Buddhist logic", "Atman", "Anatman", "Indian philosophy", "Medieval philosophy", "Epistemology", "Pramana", "Dignaga", "Dharmakirti", "Theistic realism", "Self theory"]
 ---
 
 # Ātmatattva viveka (Discrimination of the Nature of the Self)

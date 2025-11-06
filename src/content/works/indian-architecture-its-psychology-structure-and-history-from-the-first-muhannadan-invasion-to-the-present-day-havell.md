@@ -1,25 +1,30 @@
 ---
-title: "Indian Architecture: Its Psychology, Structure, and History"
-author: ["Ernest Binfield Havell"]
+title: 'Indian Architecture: Its Psychology, Structure, and History'
+author:
+- Ernest Binfield Havell
 year: 1913
-language: ["English"]
-genre: ["Architecture", "Art History"]
-description: "Influential architectural study by E.B. Havell, Principal of Calcutta School of Art and passionate advocate for Indian artistic traditions. Published in 1913, this work challenged Victorian dismissal of Indian architecture, arguing for its spiritual depth, structural sophistication, and psycholog..."
-collections: ['spiritual-texts']
+language:
+- English
+genre:
+- Architecture
+- Art History
+description: |
+  Ernest Binfield Havell's "Indian Architecture: Its Psychology, Structure, and History" represents a seminal scholarly intervention in early 20th-century architectural historiography during a complex period of colonial intellectual discourse. Published in 1913, the work emerged at a critical juncture of cultural reassessment when British colonial scholarship was gradually transitioning from dismissive orientalist perspectives to more nuanced engagements with Indian artistic traditions. As Principal of the Calcutta School of Art, Havell brought both administrative experience and deep scholarly insight to his analysis, challenging prevailing European assumptions about Indian architectural aesthetics and philosophical foundations. The work systematically deconstructs Victorian-era misconceptions by demonstrating the profound philosophical and spiritual underpinnings of Indian architectural design, arguing that architectural forms were not merely structural constructs but embodied complex metaphysical and psychological principles intrinsic to Indian cultural cosmology. Havell meticulously explored how architectural elements reflected deeper philosophical concepts, revealing architectural design as a sophisticated language of cultural expression rather than simply a technical discipline. His scholarly approach was particularly significant within the emerging nationalist intellectual landscape, where indigenous scholars were actively reclaiming and reinterpreting cultural narratives. By presenting Indian architectural traditions as intellectually sophisticated and philosophically profound, Havell's work contributed substantially to challenging colonial epistemological frameworks and provided crucial scholarly ammunition for Indian intellectuals seeking to reassert the complexity and depth of their cultural heritage. The text remains an important historical document illuminating the intellectual negotiations of colonial-era cultural understanding.
+collections:
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/indianarchitectu00haveuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/indianarchitectu00haveuoft
+  type: other
 references:
-  - name: "Wikipedia: E. B. Havell"
-    url: "https://en.wikipedia.org/wiki/E._B._Havell"
-    type: "wikipedia"
-  - name: "Open Library: Indian Architecture"
-    url: "https://openlibrary.org/search?q=Indian+Architecture+Its+Psychology+Structure+and+Ernest+Binfield+Havell"
-    type: "other"
+- name: 'Wikipedia: E. B. Havell'
+  url: https://en.wikipedia.org/wiki/E._B._Havell
+  type: wikipedia
+- name: 'Open Library: Indian Architecture'
+  url: https://openlibrary.org/search?q=Indian+Architecture+Its+Psychology+Structure+and+Ernest+Binfield+Havell
+  type: other
 featured: true
 publishDate: 2025-10-30
-tags: ['historical-texts']
 ---
 
 # Indian Architecture: Its Psychology, Structure, and History from the First Muhammadan Invasion to the Present Day

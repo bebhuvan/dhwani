@@ -1,22 +1,29 @@
 ---
-title: "The Hindu Religious Year"
-author: ["Muriel Marion Underhill"]
+title: 'The Hindu Religious Year'
+author:
+- Muriel Marion Underhill
 year: 1921
-language: ["English"]
-genre: ["Religious Studies", "Cultural Studies", "Anthropology"]
-description: "Muriel Underhill's comprehensive examination of the Hindu religious calendar and annual cycle of festivals, fasts, and spiritual observances. This scholarly work provides systematic documentation of Hindu temporal religious practices, making the complex structure of Hindu religious time and seasonal worship accessible to academic study and cultural understanding."
-collections: ['regional-voices', 'spiritual-texts']
+language:
+- English
+genre:
+- Religious Studies
+- Cultural Studies
+- Anthropology
+description: |
+  Published in 1921 during the twilight of British colonial academic scholarship, Muriel Marion Underhill's "The Hindu Religious Year" represents a pivotal scholarly examination of Hindu temporal religious practices during a critical period of cross-cultural anthropological research. Set against the backdrop of expanding European academic engagement with Indian cultural systems, Underhill's work systematically documents the intricate structure of Hindu religious calendrical practices, festivals, fasts, and spiritual observances. The text emerges from a scholarly context characterized by rigorous ethnographic documentation and comparative religious studies, reflecting the emerging interdisciplinary approaches of early 20th-century colonial academic discourse. Underhill, a British scholar working during a transformative period of imperial academic research, produced a meticulous analysis that transcends mere documentation, offering nuanced insights into the complex temporal rhythms of Hindu religious life. Her work comprehensively maps the annual cycle of religious observances, illuminating the sophisticated cultural and spiritual frameworks that structure Hindu temporal experience. By systematically cataloging festivals, ritual cycles, and seasonal spiritual practices, Underhill provided Western academic audiences with an unprecedented scholarly lens into the intricate religious infrastructure of Indian cultural systems. The text is particularly significant for its methodical approach to understanding Hindu religious temporality, bridging indigenous cultural knowledge with emerging anthropological methodologies of the early 20th century. Underhill's scholarly contribution remains an important historical document, representing a critical moment in cross-cultural religious studies and providing contemporary researchers with a valuable historical perspective on Indian religious scholarship during the late colonial period.
+collections:
+- regional-voices
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/thehindureligiou00undeuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/thehindureligiou00undeuoft
+  type: other
 references:
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=The+Hindu+religious+year&mode=everything"
-    type: "other"
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=The+Hindu+religious+year&mode=everything
+  type: other
 featured: false
 publishDate: 2025-09-28
-tags: ["Hindu Calendar", "Religious Festivals", "Hindu Observances", "Muriel Underhill", "Religious Studies", "Cultural Documentation", "Seasonal Rituals", "Hindu Traditions", "Religious Practices", "Festival Studies", "Temporal Religion"]
 ---
 
 # The Hindu Religious Year

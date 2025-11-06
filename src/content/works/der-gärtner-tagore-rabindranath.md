@@ -1,5 +1,5 @@
 ---
-title: Der Gärtner
+title: 'Der Gärtner'
 author:
 - Tagore, Rabindranath
 year: 1926
@@ -7,16 +7,15 @@ language:
 - German
 genre:
 - Poetry
-description: A collection of poems exploring love, longing, and nature through characters
-  such as a servant yearning to tend a queen's garden, blending devotion with existential
-  contemplation.
+description: |
+  During the transformative early decades of the 20th century, Rabindranath Tagore's "Der Gärtner" emerges as a profound multilingual exploration of human connectivity, embodying the complex cultural dialogues of the Bengal Renaissance. Composed and published in German in 1926, the work represents a critical intersection of Eastern philosophical sensibilities and European literary modernism, reflecting Tagore's sophisticated intellectual project of transcultural understanding. The collection interweaves intricate poetic narratives exploring love, spiritual longing, and human relationships through allegorical figures such as servants, queens, and gardeners, which serve as metaphorical vessels for deeper existential and philosophical contemplation. Rooted in the syncretic traditions of Bengali literature and Tagorean humanism, the poems challenge colonial-era binary distinctions between colonizer and colonized, instead proposing a universalist vision of human experience. Tagore's multilingual composition – simultaneously engaging Bengali, English, and German intellectual traditions – exemplifies his pioneering role in creating transnational literary discourse during a period of intense political and cultural reconfiguration in colonial India. The work's subtle metaphorical landscapes and nuanced explorations of devotion, separation, and spiritual yearning reflect both classical Indian poetic traditions and modernist experimental approaches. As a Nobel laureate who significantly influenced global perceptions of Indian intellectual and artistic capabilities, Tagore used "Der Gärtner" to demonstrate the profound philosophical and aesthetic complexity of Indian cultural expression, challenging prevailing Orientalist representations and asserting a sophisticated, cosmopolitan understanding of human experience that transcended narrow nationalist or colonial frameworks.
 collections:
 - poetry-collection
 sources:
-- name: Project Gutenberg
+- name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/44424
   type: other
-- name: Project Gutenberg (HTML)
+- name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/44424.html.images
   type: other
 references:
@@ -28,10 +27,6 @@ references:
   type: other
 featured: false
 publishDate: 2025-11-01
-tags:
-- public domain
-- Tagore, Rabindranath
-- German poetry translation
 ---
 
 # Der Gärtner

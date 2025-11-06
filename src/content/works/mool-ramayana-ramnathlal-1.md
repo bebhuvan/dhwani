@@ -1,34 +1,40 @@
 ---
-title: "Mool Ramayana"
-author: ["Ramnathlal"]
+title: 'Mool Ramayana'
+author:
+- Ramnathlal
 year: 1929
-language: ["Sanskrit", "Hindi"]
-genre: ["Epic", "Religious Literature"]
-description: "Ramnathlal's 1929 edition of the Mool Ramayana represents a significant publication in the early twentieth-century tradition of making Sanskrit sacred texts accessible to Hindi-speaking audiences. This compact 46-page work, published by Bhargav Bhushan Press and preserved from the Sanmati Library in Jaipur, presents the foundational 100 verses that constitute the essence of Valmiki's epic."
-collections: ["classical-literature"]
+language:
+- Sanskrit
+- Hindi
+genre:
+- Epic
+- Religious Literature
+description: |
+  Ramnathlal's 1929 edition of the Mool Ramayana represents a critical scholarly intervention in the early twentieth-century movement to democratize access to classical Sanskrit sacred texts for Hindi-speaking populations. Published by Bhargav Bhushan Press and preserved in the Sanmati Library of Jaipur, this concise 46-page work distills the foundational 100 verses of Valmiki's seminal epic, offering a pivotal textual bridge between traditional Sanskrit scholarship and emerging vernacular literary traditions. The publication emerges during a transformative period of Indian intellectual history, characterized by nationalist cultural renaissance and renewed engagement with classical literary heritage. By presenting a carefully curated selection of verses, Ramnathlal's edition facilitates a nuanced interpretation of the Ramayana's complex narrative structures, mythological symbolism, and philosophical underpinnings. The work's significance extends beyond mere textual transmission, representing a sophisticated scholarly effort to make esoteric religious literature accessible to broader audiences while preserving the intricate linguistic and philosophical depth of the original Sanskrit composition. This edition contributes to the broader scholarly discourse on epic literature, demonstrating how textual adaptation and selective translation can serve as crucial mechanisms for cultural preservation and intellectual transmission. Within the context of early twentieth-century Indian literary scholarship, Ramnathlal's Mool Ramayana exemplifies the intellectual methodologies employed by scholars to negotiate between traditional textual practices and emerging modern interpretative frameworks, ultimately serving as a vital document in understanding the dynamic evolution of Indian literary and cultural hermeneutics.
+collections:
+- classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.345549"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.345549
+  type: other
 references:
-  - name: "Wikipedia: Ramayana"
-    url: "https://en.wikipedia.org/wiki/Ramayana"
-    type: "wikipedia"
-  - name: "Wikipedia: Versions of the Ramayana"
-    url: "https://en.wikipedia.org/wiki/Versions_of_the_Ramayana"
-    type: "wikipedia"
-  - name: "Wikidata: Ramayana"
-    url: "https://www.wikidata.org/wiki/Q8276"
-    type: "other"
-  - name: "Wikisource: The Ramayana"
-    url: "https://en.wikisource.org/wiki/The_Ramayana"
-    type: "other"
-  - name: "Project Gutenberg: Valmiki Ramayana"
-    url: "https://www.gutenberg.org/ebooks/24869"
-    type: "other"
+- name: 'Wikipedia: Ramayana'
+  url: https://en.wikipedia.org/wiki/Ramayana
+  type: wikipedia
+- name: 'Wikipedia: Versions of the Ramayana'
+  url: https://en.wikipedia.org/wiki/Versions_of_the_Ramayana
+  type: wikipedia
+- name: 'Wikidata: Ramayana'
+  url: https://www.wikidata.org/wiki/Q8276
+  type: other
+- name: 'Wikisource: The Ramayana'
+  url: https://en.wikisource.org/wiki/The_Ramayana
+  type: other
+- name: 'Project Gutenberg: Valmiki Ramayana'
+  url: https://www.gutenberg.org/ebooks/24869
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical-literature', 'sanskrit', 'hindi', 'religious-texts', 'epic-literature']
 ---
 
 ## Relationship to Valmiki's Original Ramayana

@@ -1,28 +1,35 @@
 ---
-title: "Yashvantrai Mahakavya (यशवंतराय महाकाव्य)"
-author: ["Vasudeo Vaman Khare"]
+title: 'Yashvantrai Mahakavya (यशवंतराय महाकाव्य)'
+author:
+- Vasudeo Vaman Khare
 year: 1888
-language: ["Marathi"]
-genre: ["Epic Poetry", "Historical Mahakavya", "Regional Literature"]
-description: "Marathi mahakavya (grand epic) celebrating Yashwant Rao II, significant figure in Maharashtra's political and cultural history. This 244-page poem represents critical transitional period in Marathi literature, blending classical Sanskrit poetic forms with regional Marathi vernacular. Serves as both historical commemoration and sophisticated example of 19th-century regional Indian literary creativity, offering insights into how regional courts patronized literary arts."
-collections: ['regional-literature', 'poetry-collection']
+language:
+- Marathi
+genre:
+- Epic Poetry
+- Historical Mahakavya
+- Regional Literature
+description: |
+  Vasudeo Vaman Khare's Yashvantrai Mahakavya represents a sophisticated literary intervention in late 19th-century Maharashtrian cultural discourse, examining the life and political significance of Yashwant Rao II through the sophisticated lens of classical Sanskrit epic poetry traditions. Composed during a critical period of colonial transformation, this 244-page Marathi mahakavya epitomizes the intellectual renaissance emerging in Maharashtra, where regional intellectuals strategically used literary forms to reconstruct historical narratives and assert cultural sovereignty. The work meticulously chronicles the political biography of Yashwant Rao II, a significant regional ruler, while simultaneously demonstrating the complex literary hybridization occurring in Indian vernacular literature during the late colonial period. By synthesizing classical Sanskrit poetic conventions with Marathi linguistic sensibilities, Khare creates a nuanced textual artifact that serves multiple scholarly and cultural functions: historical documentation, political commemoration, and aesthetic innovation. The mahakavya illuminates the intricate processes of cultural memory-making, revealing how regional elites negotiated colonial power structures through sophisticated literary representation. Its compositional strategy reflects broader intellectual movements within Maharashtra, where writers like Khare were reconstructing regional histories and challenging colonial narratives through strategic cultural production. The work provides crucial insights into the intellectual genealogies of Maharashtrian nationalism, the evolution of Marathi literary forms, and the complex interactions between traditional Sanskrit literary aesthetic principles and emerging vernacular sensibilities in late 19th-century India.
+collections:
+- regional-literature
+- poetry-collection
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.494938"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.494938
+  type: other
 references:
-  - name: "Wikipedia: Marathi literature"
-    url: "https://en.wikipedia.org/wiki/Marathi_literature"
-    type: "wikipedia"
-  - name: "Wikipedia: Mahakavya"
-    url: "https://en.wikipedia.org/wiki/Mahakavya"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Yashvantrai+Mahakavya+Marathi&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Marathi literature'
+  url: https://en.wikipedia.org/wiki/Marathi_literature
+  type: wikipedia
+- name: 'Wikipedia: Mahakavya'
+  url: https://en.wikipedia.org/wiki/Mahakavya
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Yashvantrai+Mahakavya+Marathi&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Yashvantrai", "Marathi literature", "Mahakavya", "19th century", "Historical poetry", "Maharashtra", "Regional literature", "Court poetry", "Vasudeo Khare", "Indian epic", "Marathi poetry", "Literary history"]
 ---
 
 # Yashvantrai Mahakavya (यशवंतराय महाकाव्य)

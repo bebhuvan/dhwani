@@ -1,25 +1,30 @@
 ---
-title: "The Golden Book of India"
-author: ["Sir Roper Lethbridge"]
+title: 'The Golden Book of India'
+author:
+- Sir Roper Lethbridge
 year: 1893
-language: ["English"]
-genre: ["Reference", "Biography"]
-description: "Roper Lethbridge’s 1893 register alphabetically catalogues Indian princes, chiefs, and decorated officials of the British Raj, summarising genealogy, territorial jurisdiction, and imperial honours from contemporary civil lists."
-collections: ["modern-literature"]
+language:
+- English
+genre:
+- Reference
+- Biography
+description: |
+  In the late nineteenth century, amid the complex administrative machinery of the British Raj, Sir Roper Lethbridge produced "The Golden Book of India" as a comprehensive archival document that captured the intricate socio-political landscape of Indian princely states. Published in 1893, this reference work emerged during a critical period of colonial documentation when British imperial administrators were systematically cataloguing the hierarchical structures and genealogical records of indigenous ruling elites. Lethbridge, a British colonial administrator and scholar with extensive experience in Indian administrative systems, meticulously compiled an alphabetical register that documented the lineages, territorial jurisdictions, and imperial honours of Indian princes, chiefs, and distinguished officials. The work represents a significant scholarly contribution to understanding the complex administrative and aristocratic networks that characterized the late nineteenth-century Indian subcontinent. Beyond its immediate colonial administrative utility, the register provides contemporary scholars with invaluable prosopographical data about regional political structures, hereditary governance systems, and the intricate interactions between British imperial authority and indigenous ruling classes. By preserving detailed biographical and genealogical information, Lethbridge's work serves as a critical historical resource for understanding the transition periods of Indian governance, the mechanisms of colonial documentation, and the nuanced power dynamics between British administrators and Indian aristocratic networks. The register not only reflects the colonial bureaucratic impulse to categorize and systematize but also inadvertently captures a complex moment of cultural and political transformation in the Indian subcontinent.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive (University of Toronto)"
-    url: "https://archive.org/details/goldenbookofindi00lethuoft"
-    type: "other"
+- name: 'Internet Archive (University of Toronto)'
+  url: https://archive.org/details/goldenbookofindi00lethuoft
+  type: other
+references:
+- name: 'Wikipedia: Roper Lethbridge'
+  url: https://en.wikipedia.org/wiki/Roper_Lethbridge
+  type: wikipedia
+- name: 'Open Library Search'
+  url: https://openlibrary.org/search?q=The+Golden+Book+of+India
+  type: other
 featured: false
 publishDate: 2025-10-22
-references:
-  - name: "Wikipedia: Roper Lethbridge"
-    url: "https://en.wikipedia.org/wiki/Roper_Lethbridge"
-    type: "wikipedia"
-  - name: "Open Library Search"
-    url: "https://openlibrary.org/search?q=The+Golden+Book+of+India"
-    type: "other"
-tags: ["Indian nobility", "Biographical dictionary", "Princely states", "British Raj", "Genealogy", "Public domain"]
 ---
 
 # The Golden Book of India

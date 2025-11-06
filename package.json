@@ -33,6 +33,7 @@
     "import:json": "node scripts/import-from-json.js ../indian_works_uc_libraries.json ../women_social_reform_india_works.json ../indian_art_archaeology_works.json"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.68.0",
     "@astrojs/cloudflare": "^12.6.10",
     "@astrojs/mdx": "^4.3.6",
     "@astrojs/rss": "^4.0.12",

@@ -1,25 +1,31 @@
 ---
-title: "Natives of Northern India"
-author: ["William Crooke"]
+title: 'Natives of Northern India'
+author:
+- William Crooke
 year: 1907
-language: ["English"]
-genre: ["Ethnography", "Anthropology"]
-description: "Published in 1907 as part of the Native Races of the British Empire series, this ethnographic work examines the physical characteristics, social structures, and cultural practices of indigenous populations of northern India from Afghanistan to the Chinese frontier. Drawing on Crooke's twenty-five years of administrative experience, the volume provides systematic documentation of race types, habitats, religious beliefs, social organization, occupations, and customs of the diverse peoples inhabiting the region."
-collections: ['regional-voices', 'modern-literature']
+language:
+- English
+genre:
+- Ethnography
+- Anthropology
+description: |
+  Published in 1907 during the late British colonial period, William Crooke's "Natives of Northern India" represents a significant ethnographic documentation of indigenous populations in the United Provinces (modern-day Uttar Pradesh and Uttarakhand), emerging from the complex imperial knowledge-gathering paradigms of the early 20th century. As a seasoned colonial civil servant with twenty-five years of administrative experience in the region, Crooke approached his scholarly work with a systematic methodology that combined bureaucratic observation with nascent anthropological practices. The volume provides a comprehensive ethnographic survey of diverse regional populations, meticulously documenting social structures, religious practices, occupational patterns, and cultural configurations of communities spanning rural and urban landscapes of northern India. Crooke's work is particularly valuable for its granular documentation of social hierarchies, caste dynamics, tribal configurations, and localized cultural practices during a transformative period of Indian social history. Unlike many contemporary colonial ethnographies that employed reductive categorizations, Crooke demonstrated a relatively nuanced approach, recording intricate details of community life, economic organization, and cultural adaptation. His research contributes significantly to understanding the complex social fabric of early 20th-century North Indian societies, offering anthropological insights that transcend the immediate colonial administrative context. For contemporary scholars of Indian social history, cultural anthropology, and colonial studies, the work remains an important primary source that captures a critical moment of cultural documentation and transformation, providing a detailed ethnographic snapshot of regional diversity during a pivotal historical transition.
+collections:
+- regional-voices
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/nativesofnorther00croo"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/nativesofnorther00croo
+  type: other
 references:
-  - name: "Wikipedia: William Crooke"
-    url: "https://en.wikipedia.org/wiki/William_Crooke"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Natives+of+Northern+India+Crooke&mode=everything"
-    type: "other"
+- name: 'Wikipedia: William Crooke'
+  url: https://en.wikipedia.org/wiki/William_Crooke
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Natives+of+Northern+India+Crooke&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-23
-tags: ["ethnography", "William Crooke", "northern India", "anthropology", "colonial ethnography", "Native Races series", "tribal studies", "social customs", "British India", "North-Western Provinces", "Oudh", "physical anthropology", "20th century"]
 ---
 
 # Natives of Northern India

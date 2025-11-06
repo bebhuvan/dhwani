@@ -1,31 +1,40 @@
 ---
-title: "Hind Swaraj or Indian Home Rule"
-author: ["Mahatma Gandhi"]
+title: 'Hind Swaraj or Indian Home Rule'
+author:
+- Mahatma Gandhi
 year: 1909
-language: ["English", "Gujarati"]
-genre: ["Political Literature", "Philosophy", "Social Reform"]
-description: "Hind Swaraj or Indian Home Rule by Mahatma Gandhi (1909) - A foundational text of Indian nationalism and Gandhi's philosophy of non-violent resistance (satyagraha). Written during his voyage from London to South Africa, this seminal work outlines Gandhi's vision for Indian independence and his critique of modern Western civilization."
-collections: ['regional-voices', 'modern-literature', 'spiritual-texts']
+language:
+- English
+- Gujarati
+genre:
+- Political Literature
+- Philosophy
+- Social Reform
+description: |
+  Hind Swaraj or Indian Home Rule represents a pivotal intellectual manifesto articulating Mahatma Gandhi's radical critique of colonialism and modern Western civilization, written during a transformative period of Indian anti-colonial thought. Composed in 1909 while traveling from London to South Africa, the text emerged from Gandhi's deepening political consciousness and his comprehensive philosophical vision of cultural and political liberation. Through a dialogical format between a reader and editor, Gandhi systematically deconstructs prevalent colonial narratives, challenging not just political subjugation but the fundamental epistemological foundations of European modernity. The work critiques modern technological civilization, industrial capitalism, and Western parliamentary systems as inherently exploitative structures that alienate humans from authentic social relations and spiritual values. Gandhi argues that true swaraj (self-rule) transcends mere political independence, demanding a profound moral and cultural regeneration of Indian society. He advocates for indigenous economic models, traditional crafts like spinning (khadi), non-violent resistance (satyagraha), and a holistic reimagining of social organization rooted in spiritual and communal principles. Significantly, Hind Swaraj became a foundational text for the Indian independence movement, influencing generations of anti-colonial intellectuals and providing a sophisticated philosophical framework for resistance that went beyond nationalist militancy. Its enduring relevance lies in its radical questioning of progress, technology, and modernization, offering a nuanced critique that continues to challenge contemporary global political and economic paradigms while preserving a distinctly Indian philosophical perspective on social transformation.
+collections:
+- regional-voices
+- modern-literature
+- spiritual-texts
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/40461"
-    type: "other"
-  - name: "Internet Archive (DLI Edition)"
-    url: "https://archive.org/details/in.ernet.dli.2015.204695"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/40461
+  type: other
+- name: 'Internet Archive (DLI Edition)'
+  url: https://archive.org/details/in.ernet.dli.2015.204695
+  type: other
 references:
-  - name: "Wikipedia: Hind Swaraj or Indian Home Rule"
-    url: "https://en.wikipedia.org/wiki/Hind_Swaraj_or_Indian_Home_Rule"
-    type: "wikipedia"
-  - name: "Wikipedia: Mahatma Gandhi"
-    url: "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
-    type: "wikipedia"
-  - name: "Open Library: Hind Swaraj or Indian"
-    url: "https://openlibrary.org/search?q=Hind+Swaraj+or+Indian+Home+Rule+Mahatma+Gandhi"
-    type: "other"
+- name: 'Wikipedia: Hind Swaraj or Indian Home Rule'
+  url: https://en.wikipedia.org/wiki/Hind_Swaraj_or_Indian_Home_Rule
+  type: wikipedia
+- name: 'Wikipedia: Mahatma Gandhi'
+  url: https://en.wikipedia.org/wiki/Mahatma_Gandhi
+  type: wikipedia
+- name: 'Open Library: Hind Swaraj or Indian'
+  url: https://openlibrary.org/search?q=Hind+Swaraj+or+Indian+Home+Rule+Mahatma+Gandhi
+  type: other
 featured: true
 publishDate: 2025-10-30
-tags: ['philosophy']
 ---
 
 ## Composition and Publication

@@ -1,28 +1,36 @@
 ---
-title: "Tantra-yukti of Neelmegh Bhishagacharya"
-author: ["Neelmegh (Nila Megh) Bhishagacharya"]
+title: 'Tantra-yukti of Neelmegh Bhishagacharya'
+author:
+- Neelmegh (Nila Megh) Bhishagacharya
 year: 1979
-language: ["Sanskrit", "Hindi"]
-genre: ["Scientific Methodology", "Ayurveda", "Philosophy of Science"]
-description: "Foundational work on tantra-yukti (scientific methodology and rationalism in Indian medicine). Presents systematic methodologies for pharmaceutical preparation and clinical application in Ayurveda, employing logical reasoning and experimental validation. Represents ancient scientific epistemology treatise predating modern scientific methodology, documenting rigorous approach to medical knowledge and practice."
-collections: ['ancient-wisdom', 'scientific-texts']
+language:
+- Sanskrit
+- Hindi
+genre:
+- Scientific Methodology
+- Ayurveda
+- Philosophy of Science
+description: |
+  The Tantra-yukti, authored by Neelmegh Bhishagacharya, emerges as a pivotal scholarly work in the intellectual landscape of late medieval Indian medical scholarship, situated within the robust scientific and philosophical traditions of 15th-16th century Western India. Representing a sophisticated intersection of medical epistemology, scientific methodology, and philosophical reasoning, the text provides a comprehensive systematic approach to Ayurvedic medical knowledge and practice. Set against the backdrop of significant intellectual renaissance in traditional Indian medical sciences, the work articulates a rigorous methodological framework for pharmaceutical preparation, clinical diagnosis, and therapeutic interventions. Bhishagacharya's treatise critically examines the tantra-yukti—a complex hermeneutical approach integrating logical reasoning, empirical observation, and theoretical analysis—which predates and parallels emerging Western scientific methodologies. The text meticulously delineates principles of medical research, emphasizing systematic documentation, experimental validation, and rational interpretation of clinical phenomena. By synthesizing classical Sanskrit medical knowledge with emerging analytical frameworks, the work represents an important intellectual bridge between traditional wisdom and nascent scientific approaches. Its significance extends beyond medical scholarship, offering profound insights into Indian intellectual traditions that demonstrate sophisticated rational thinking, methodological precision, and epistemological complexity. The Tantra-yukti illuminates the advanced conceptual infrastructure of Indian scientific thought, challenging colonial-era narratives that marginalized indigenous knowledge systems. Through its systematic exposition of medical reasoning, the text underscores the nuanced philosophical and empirical foundations of Ayurvedic practice, positioning it as a sophisticated intellectual tradition with robust methodological foundations.
+collections:
+- ancient-wisdom
+- scientific-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/dli.ministry.23635"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/dli.ministry.23635
+  type: other
 references:
-  - name: "Wikipedia: Ayurveda"
-    url: "https://en.wikipedia.org/wiki/Ayurveda"
-    type: "wikipedia"
-  - name: "Wikipedia: Yukti"
-    url: "https://en.wikipedia.org/wiki/Yukti"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Tantra+yukti+Ayurveda&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Ayurveda'
+  url: https://en.wikipedia.org/wiki/Ayurveda
+  type: wikipedia
+- name: 'Wikipedia: Yukti'
+  url: https://en.wikipedia.org/wiki/Yukti
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Tantra+yukti+Ayurveda&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Tantra-yukti", "Scientific methodology", "Ayurveda", "Neelmegh", "Rationalism", "Medical epistemology", "Pharmaceutical science", "Clinical reasoning", "Traditional medicine", "Indian science", "Logic", "Experimental method"]
 ---
 
 # Tantra-yukti of Neelmegh Bhishagacharya

@@ -1,31 +1,39 @@
 ---
-title: "Hymns from the Rigveda, Selected and Metrically Translated"
-author: ["Ralph T. H. Griffith"]
+title: 'Hymns from the Rigveda, Selected and Metrically Translated'
+author:
+- Ralph T. H. Griffith
 year: 1896
-language: ["English", "Sanskrit"]
-genre: ["Religious Texts", "Vedic Literature", "Translation", "Poetry"]
-description: "Ralph T. H. Griffith's complete metrical translation of the Rigveda (1889-1896), offering a poetic rendering distinct from H.H. Wilson's prose translation. Griffith's work emphasizes literary elegance and metrical correspondence while following Sayana's commentary, making the ancient Vedic hymns accessible through English verse."
-collections: ['ancient-wisdom']
+language:
+- English
+- Sanskrit
+genre:
+- Religious Texts
+- Vedic Literature
+- Translation
+- Poetry
+description: |
+  Ralph T. H. Griffith's metrical translation of the Rigveda represents a seminal scholarly intervention in late 19th-century Indological studies during the complex intellectual landscape of British colonial scholarship. Published between 1889-1896, this comprehensive translation emerged during a period of intense academic engagement with classical Indian texts, reflecting the British Raj's systematic documentation of indigenous cultural archives. Griffith, who served as a colonial administrator in Varanasi from 1853 to 1870, approached the Rigveda—the oldest extant Vedic Sanskrit text and foundational scripture of Hinduism—with linguistic precision and poetic sensitivity. His translation distinguished itself from earlier prose renditions by H.H. Wilson through its commitment to metrical correspondence and literary elegance, drawing significantly from Sayana's authoritative medieval commentary. The work encompasses the Rigveda's 1,028 hymns, primarily dedicated to various Vedic deities and exploring cosmological, philosophical, and ritualistic themes central to ancient Indian spiritual thought. Griffith's translation was pivotal in making these intricate Vedic compositions accessible to English-speaking scholars and audiences, bridging complex linguistic and cultural boundaries. By rendering these ancient mantras into English verse, he facilitated a deeper cross-cultural understanding of Vedic philosophical and religious conceptualizations. Beyond its immediate scholarly value, the translation represented a critical moment in comparative religious studies, providing Western academics unprecedented insight into the sophisticated philosophical and poetic traditions of ancient Indian civilization. Griffith's work remains an important historical document, capturing not only the linguistic nuances of the original text but also the intellectual sensibilities of late 19th-century colonial scholarly engagement with Indian intellectual heritage.
+collections:
+- ancient-wisdom
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.237767"
-    type: "archive"
-  - name: "Sacred Texts Archive"
-    url: "https://sacred-texts.com/hin/rigveda/index.htm"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.237767
+  type: archive
+- name: 'Sacred Texts Archive'
+  url: https://sacred-texts.com/hin/rigveda/index.htm
+  type: other
 references:
-  - name: "Wikipedia: Rigveda"
-    url: "https://en.wikipedia.org/wiki/Rigveda"
-    type: "wikipedia"
-  - name: "Wikipedia: Ralph T. H. Griffith"
-    url: "https://en.wikipedia.org/wiki/Ralph_T._H._Griffith"
-    type: "wikipedia"
-  - name: "Wikipedia: Sayana"
-    url: "https://en.wikipedia.org/wiki/Sayana"
-    type: "wikipedia"
+- name: 'Wikipedia: Rigveda'
+  url: https://en.wikipedia.org/wiki/Rigveda
+  type: wikipedia
+- name: 'Wikipedia: Ralph T. H. Griffith'
+  url: https://en.wikipedia.org/wiki/Ralph_T._H._Griffith
+  type: wikipedia
+- name: 'Wikipedia: Sayana'
+  url: https://en.wikipedia.org/wiki/Sayana
+  type: wikipedia
 featured: true
 publishDate: 2025-11-02
-tags: ["Rigveda", "Ralph Griffith", "Vedic literature", "Sanskrit", "Hindu scriptures", "Translation", "Vedic religion", "Sayana", "Indology", "Ancient India", "Hymns", "Indo-European", "19th century scholarship", "Metrical translation", "Poetry", "Agni", "Indra", "Soma", "Varuna", "Yajna"]
 ---
 
 # Hymns from the Rigveda, Selected and Metrically Translated

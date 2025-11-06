@@ -1,25 +1,31 @@
 ---
-title: "Men and Events of My Time in India"
-author: ["Sir Richard Temple"]
+title: 'Men and Events of My Time in India'
+author:
+- Sir Richard Temple
 year: 1882
-language: ["English"]
-genre: ["Memoir", "Colonial History"]
-description: "Sir Richard Temple's 1882 memoir recounts four decades serving British India (1847-1880), witnessing transformative events. This personal account provides administrative insider perspective on colonial governance."
-collections: ["modern-literature", "classical-literature"]
+language:
+- English
+genre:
+- Memoir
+- Colonial History
+description: |
+  Sir Richard Temple's 1882 memoir "Men and Events of My Time in India" represents a seminal firsthand account of British colonial administration during a transformative period of South Asian imperial governance (1847-1880). Temple, a distinguished civil servant who navigated the complex bureaucratic landscape of British India, provides a nuanced administrative perspective on the transition from East India Company rule to direct British Crown governance following the pivotal 1857 Indian Rebellion. As a senior colonial official who rose through administrative ranks in Bengal and later served as Lieutenant Governor, Temple offers critical insights into the intricate mechanisms of imperial policy-making, cultural interactions, and administrative restructuring during a watershed moment in colonial history. His narrative illuminates the administrative, political, and social dynamics of British imperial presence, documenting critical institutional changes, governance strategies, and the evolving relationship between British administrators and Indian populations. Temple's memoir is particularly significant for its detailed examination of colonial administrative practices, capturing the institutional transitions and cultural negotiations that characterized British imperial governance in the mid-19th century. By presenting a comprehensive insider perspective, the work provides scholars and historians with valuable documentary evidence of colonial administrative structures, policy implementation, and the complex interpersonal dynamics within the imperial bureaucratic system. As a primary source document, the memoir offers unprecedented access to the administrative mindset and operational strategies of British colonial officials during a period of profound political and social transformation in the Indian subcontinent, making it an essential text for understanding the mechanisms of imperial governance and cultural interaction.
+collections:
+- modern-literature
+- classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/meneventsofmytim00tempuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/meneventsofmytim00tempuoft
+  type: other
 references:
-  - name: "Wikipedia: Sir Richard Temple, 1st Baronet"
-    url: "https://en.wikipedia.org/wiki/Sir_Richard_Temple,_1st_Baronet"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Men+and+events+of+my+time+in+India&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Sir Richard Temple, 1st Baronet'
+  url: https://en.wikipedia.org/wiki/Sir_Richard_Temple,_1st_Baronet
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Men+and+events+of+my+time+in+India&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-02
-tags: ["Richard Temple", "colonial memoir", "1857 Rebellion", "British India", "Victorian imperialism", "ICS memoirs", "famine policy", "Viceroys", "Sikh Wars", "imperial administration"]
 ---
 
 # Men and Events of My Time in India

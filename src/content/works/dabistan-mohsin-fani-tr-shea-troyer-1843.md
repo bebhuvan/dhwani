@@ -1,37 +1,47 @@
 ---
-title: "The Dabistán, or School of Manners"
-author: ["Mohsin Fani (authorship contested)", "tr. David Shea", "tr. Anthony Troyer"]
+title: 'The Dabistán, or School of Manners'
+author:
+- Mohsin Fani (authorship contested)
+- tr. David Shea
+- tr. Anthony Troyer
 year: 1843
-language: ["English"]
-genre: ["Religious Studies", "Comparative Religion", "Philosophy"]
-description: "17th-century Persian comparative survey of twelve religious traditions in Mughal India and Middle East, including Islam, Christianity, Judaism, Hinduism, Zoroastrianism, and early Sikhism, composed 1645-1658. Invaluable historical source on Sikhism and Akbar's Din-i Ilahi syncretic religion, reflecting cosmopolitan religious pluralism of Mughal intellectual culture. Shea and Troyer's 1843 Oriental Translation Fund edition made this unique document of religious tolerance accessible to European orientalist scholarship."
-collections: ['religious-texts', 'mughal-india', 'comparative-religion']
+language:
+- English
+genre:
+- Religious Studies
+- Comparative Religion
+- Philosophy
+description: |
+  The Dabistán, or School of Manners represents a pivotal 17th-century Persian comparative religious treatise documenting the complex religious landscape of Mughal India during a period of profound intellectual and spiritual negotiation. Composed between 1645-1658, the work provides a comprehensive survey of twelve distinct religious traditions prevalent in the Mughal Empire and Middle Eastern regions, including nuanced examinations of Islam, Christianity, Judaism, Hinduism, Zoroastrianism, and emerging traditions like early Sikhism. While scholarly debates continue regarding its precise authorship—traditionally attributed to Mohsin Fani—the text is recognized as a critical anthropological and philosophical document that illuminates the sophisticated religious pluralism characterizing Mughal intellectual culture. The work's significance extends beyond mere descriptive documentation, offering critical insights into theological interactions, syncretistic religious movements like Emperor Akbar's Din-i Ilahi, and the intellectual exchanges occurring at the intersection of diverse spiritual traditions. Its methodological approach, which emphasizes comparative understanding and scholarly neutrality, was remarkably progressive for its historical context, presenting each religious tradition with analytical depth and comparative respect. The 1843 English translation by David Shea and Anthony Troyer through the Oriental Translation Fund made this invaluable manuscript accessible to European orientalist scholarship, subsequently establishing its importance in cross-cultural religious studies. As a historical artifact, the Dabistán provides scholars with an unprecedented window into the theological complexities, philosophical negotiations, and religious dynamism of seventeenth-century South Asian intellectual environments, demonstrating the remarkable cosmopolitan ethos of Mughal scholarly discourse.
+collections:
+- religious-texts
+- mughal-india
+- comparative-religion
 sources:
-  - name: "Internet Archive (Vol. 1)"
-    url: "https://archive.org/details/dabistnorschoo01shea"
-    type: "other"
-  - name: "Internet Archive (Complete)"
-    url: "https://archive.org/details/dabistanorschool015600mbp"
-    type: "other"
-  - name: "Internet Archive (DLI Vol. 2)"
-    url: "https://archive.org/details/in.ernet.dli.2015.24733"
-    type: "other"
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/63275"
-    type: "other"
+- name: 'Internet Archive (Vol. 1)'
+  url: https://archive.org/details/dabistnorschoo01shea
+  type: other
+- name: 'Internet Archive (Complete)'
+  url: https://archive.org/details/dabistanorschool015600mbp
+  type: other
+- name: 'Internet Archive (DLI Vol. 2)'
+  url: https://archive.org/details/in.ernet.dli.2015.24733
+  type: other
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/63275
+  type: other
 references:
-  - name: "Wikipedia: Dabistan-i Mazahib"
-    url: "https://en.wikipedia.org/wiki/Dabistan"
-    type: "wikipedia"
-  - name: "Wikipedia: Mohsin Fani"
-    url: "https://en.wikipedia.org/wiki/Mohsin_Fani"
-    type: "wikipedia"
-  - name: "OpenLibrary"
-    url: "https://openlibrary.org/search?q=Dabistan+Mohsin+Fani+Shea+Troyer"
-    type: "other"
+- name: 'Wikipedia: Dabistan-i Mazahib'
+  url: https://en.wikipedia.org/wiki/Dabistan
+  type: wikipedia
+- name: 'Wikipedia: Mohsin Fani'
+  url: https://en.wikipedia.org/wiki/Mohsin_Fani
+  type: wikipedia
+- name: 'OpenLibrary'
+  url: https://openlibrary.org/search?q=Dabistan+Mohsin+Fani+Shea+Troyer
+  type: other
 featured: false
 publishDate: 2025-01-24
-tags: ["Comparative religion", "Mughal India", "Persian literature", "Religious pluralism", "17th century", "Sikhism", "Zoroastrianism", "Akbar", "Din-i Ilahi", "Orientalism", "Public domain"]
 ---
 
 # The Dabistán, or School of Manners

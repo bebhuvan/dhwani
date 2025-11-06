@@ -1,43 +1,50 @@
 ---
-title: "Amarakośa (The Immortal Treasury)"
-author: ["Amarasimha", "ed. Henry Thomas Colebrooke"]
+title: 'Amarakośa (The Immortal Treasury)'
+author:
+- Amarasimha
+- ed. Henry Thomas Colebrooke
 year: 1808
-language: ["Sanskrit", "English"]
-genre: ["Lexicography", "Sanskrit Literature", "Reference"]
-description: "Ancient Sanskrit thesaurus composed circa 400-500 CE, organizing vocabulary into three kandas covering celestial beings, earthly phenomena, and grammatical categories. First systematic Sanskrit lexicon arranging synonyms by semantic fields rather than alphabetically. Colebrooke's 1808 Serampore edition represents first printed Sanskrit text using movable type in India, establishing modern Sanskrit lexicography standards."
-collections: ['classical-literature', 'linguistic-works', 'reference-texts']
+language:
+- Sanskrit
+- English
+genre:
+- Lexicography
+- Sanskrit Literature
+- Reference
+description: |
+  The Amarakośa, compiled by the renowned Sanskrit scholar Amarasimha during the Gupta period (circa 400-500 CE), represents a pivotal milestone in Sanskrit lexicography and linguistic systematization. This comprehensive thesaurus meticulously organizes Sanskrit vocabulary into three primary sections (kandas): divine beings, earthly phenomena, and grammatical constructions, establishing a groundbreaking semantic approach to lexical classification. Unlike previous linguistic compilations that relied on alphabetical ordering, Amarasimha's work innovatively arranged synonyms by conceptual domains, reflecting sophisticated linguistic and epistemological understanding of Sanskrit. The text's significance extends beyond linguistic documentation, providing profound insights into classical Indian social structures, religious cosmology, and intellectual taxonomies of the period. Its systematic organization illuminates the complex semantic networks within Sanskrit, serving as a critical resource for understanding cultural conceptualizations and linguistic nuances of classical Indian civilization. The 1808 Serampore edition by Henry Thomas Colebrooke marked a transformative moment in Indological scholarship, representing the first printed Sanskrit text using movable type in India and establishing rigorous standards for modern Sanskrit lexicography. Scholars and linguists have since recognized the Amarakośa as an invaluable archaeological document of Sanskrit intellectual traditions, offering unprecedented detailed semantic mapping of vocabulary across domains of celestial, terrestrial, and grammatical knowledge. Its enduring scholarly relevance stems from its meticulous organization, comprehensive scope, and profound representation of classical Indian linguistic and conceptual frameworks.
+collections:
+- classical-literature
+- linguistic-works
+- reference-texts
 sources:
-  - name: "Internet Archive (1808 Serampore Edition)"
-    url: "https://archive.org/details/amarakosawithco00colegoog"
-    type: "other"
-  - name: "Internet Archive (1891 Anandashrama Edition)"
-    url: "https://archive.org/details/in.ernet.dli.2015.408775"
-    type: "other"
-  - name: "Internet Archive (Complete Edition)"
-    url: "https://archive.org/details/amarakosha-amarasimha"
-    type: "other"
-  - name: "Internet Archive (DLI Collection)"
-    url: "https://archive.org/details/dli.ernet.503161"
-    type: "other"
+- name: 'Internet Archive (English Meanings Edition 2023)'
+  url: https://archive.org/details/amarkosh_english_202311
+  type: other
+- name: 'Internet Archive (Prof. A.A. Ramanathan Edition)'
+  url: https://archive.org/details/in.ernet.dli.2015.495275
+  type: other
+- name: 'Internet Archive (Sardesai & Padhye Edition)'
+  url: https://archive.org/details/AmaraKosha
+  type: other
 references:
-  - name: "Wikipedia: Amarakosha"
-    url: "https://en.wikipedia.org/wiki/Amarakosha"
-    type: "wikipedia"
-  - name: "Wikipedia: Amarasimha"
-    url: "https://en.wikipedia.org/wiki/Amarasimha"
-    type: "wikipedia"
-  - name: "Wikipedia: Henry Thomas Colebrooke"
-    url: "https://en.wikipedia.org/wiki/Henry_Thomas_Colebrooke"
-    type: "wikipedia"
-  - name: "Sanskrit Wikisource"
-    url: "https://sa.wikisource.org/wiki/अमरकोशः"
-    type: "wikisource"
-  - name: "OpenLibrary"
-    url: "https://openlibrary.org/search?q=Amarakosha+Colebrooke"
-    type: "other"
+- name: 'Wikipedia: Amarakosha'
+  url: https://en.wikipedia.org/wiki/Amarakosha
+  type: wikipedia
+- name: 'Wikipedia: Amarasimha'
+  url: https://en.wikipedia.org/wiki/Amarasimha
+  type: wikipedia
+- name: 'Wikipedia: Henry Thomas Colebrooke'
+  url: https://en.wikipedia.org/wiki/Henry_Thomas_Colebrooke
+  type: wikipedia
+- name: 'Sanskrit Wikisource'
+  url: https://sa.wikisource.org/wiki/अमरकोशः
+  type: wikisource
+- name: 'OpenLibrary'
+  url: https://openlibrary.org/search?q=Amarakosha+Colebrooke
+  type: other
 featured: false
 publishDate: 2025-01-25
-tags: ["Sanskrit lexicography", "Thesaurus", "Classical Sanskrit", "Amarasimha", "Linguistics", "Henry Colebrooke", "Reference works", "Ancient India", "Gupta period", "Sanskrit scholarship", "Public domain"]
 ---
 
 # Amarakośa (The Immortal Treasury)

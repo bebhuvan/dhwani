@@ -1,34 +1,40 @@
 ---
-title: "The Administration of the East India Company: A History of Indian Progress"
-author: ["John William Kaye"]
+title: 'The Administration of the East India Company: A History of Indian Progress'
+author:
+- John William Kaye
 year: 1853
-language: ["English"]
-genre: ["History", "Colonial History", "Administrative History"]
-description: "Published in 1853, this 740-page historical analysis examines the East India Company's administrative structures, governance policies, and territorial expansion, written by a military officer who would later serve under Crown administration and become the official historian of the Indian Rebellion of 1857."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- History
+- Colonial History
+- Administrative History
+description: |
+  John William Kaye's seminal work "The Administration of the East India Company: A History of Indian Progress" represents a critical scholarly examination of British colonial governance in mid-19th century India during the twilight years of the Company's direct administrative control. Published in 1853, the comprehensive 740-page historical analysis provides a meticulously researched account of the East India Company's administrative structures, territorial expansion, and governance policies from its early commercial origins to its transformative role as a quasi-governmental imperial apparatus. Kaye, a British military officer with extensive firsthand experience in the Indian subcontinent, offers an insider's perspective on the complex bureaucratic mechanisms that enabled British colonial control, drawing from official records, administrative documents, and personal observations. The text critically explores the Company's evolving administrative strategies, diplomatic negotiations, military interventions, and systematic territorial acquisitions that fundamentally reshaped the political landscape of the Indian subcontinent. By systematically documenting the administrative apparatus of colonial governance, Kaye provides scholars and historians with an unprecedented detailed account of institutional mechanisms that would subsequently influence imperial administration across British colonial territories. Particularly significant is Kaye's nuanced examination of interactions between British administrative systems and existing Indian political structures, offering insights into the intricate processes of cultural and administrative transformation. As an authoritative historical document, the work remains a crucial reference for understanding the mechanisms of colonial governance, institutional power dynamics, and the complex historical trajectories that defined British-Indian relations during the mid-19th century. Kaye would later become the official historian of the Indian Rebellion of 1857, further cementing his scholarly contributions to colonial Indian historiography.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/administrationof00kayeuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/administrationof00kayeuoft
+  type: other
 references:
-  - name: "Wikipedia: John William Kaye"
-    url: "https://en.wikipedia.org/wiki/John_William_Kaye"
-    type: "wikipedia"
-  - name: "Wikisource: Author Page"
-    url: "https://en.wikisource.org/wiki/Author:John_William_Kaye"
-    type: "wikisource"
-  - name: "Wikisource: Dictionary of National Biography Entry"
-    url: "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Kaye,_John_William"
-    type: "wikisource"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=The+Administration+of+the+East+India+Company"
-    type: "other"
-  - name: "Wikidata: John William Kaye"
-    url: "https://www.wikidata.org/wiki/Q15527348"
-    type: "other"
+- name: 'Wikipedia: John William Kaye'
+  url: https://en.wikipedia.org/wiki/John_William_Kaye
+  type: wikipedia
+- name: 'Wikisource: Author Page'
+  url: https://en.wikisource.org/wiki/Author:John_William_Kaye
+  type: wikisource
+- name: 'Wikisource: Dictionary of National Biography Entry'
+  url: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Kaye,_John_William
+  type: wikisource
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=The+Administration+of+the+East+India+Company
+  type: other
+- name: 'Wikidata: John William Kaye'
+  url: https://www.wikidata.org/wiki/Q15527348
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["East India Company", "Colonial India", "British Raj", "Administrative History", "19th Century India", "Company Rule", "Colonial Governance", "Indian History", "Victorian Era", "John William Kaye"]
 ---
 
 # The Administration of the East India Company: A History of Indian Progress

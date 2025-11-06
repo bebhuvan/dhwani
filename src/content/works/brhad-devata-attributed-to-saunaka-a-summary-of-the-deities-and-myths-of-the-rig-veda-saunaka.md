@@ -1,25 +1,33 @@
 ---
-title: "The Bṛhad-devatā: A Summary of the Deities and Myths of the Rigveda"
-author: ["Shaunaka", "Arthur Anthony Macdonell"]
+title: 'The Bṛhad-devatā: A Summary of the Deities and Myths of the Rigveda'
+author:
+- Shaunaka
+- Arthur Anthony Macdonell
 year: 1904
-language: ["English", "Sanskrit"]
-genre: ["Vedic Studies", "Mythology"]
-description: "A.A. Macdonell's edition and translation of Bṛhad-devatā, ancient text cataloging Rigvedic deities. This work systematically identifies gods invoked in each hymn, essential for Vedic study. 1904 Harvard Oriental Series publication provided first comprehensive English translation with extensive commentary, correlating Bṛhad-devatā's mythological material with Rigvedic passages, later Puranic developments, and comparative Indo-European mythology. Essential for understanding Vedic pantheon and how ancient commentators interpreted archaic hymns."
-collections: ['ancient-wisdom', 'spiritual-texts']
+language:
+- English
+- Sanskrit
+genre:
+- Vedic Studies
+- Mythology
+description: |
+  The Bṛhad-devatā represents a pivotal scholarly text from the late Vedic period (circa 600-300 BCE), embodying the sophisticated intellectual tradition of ancient Indian mythological scholarship. Attributed to the sage Shaunaka, this critical work systematically catalogues and interprets the divine entities invoked in the Rigveda's hymns, providing unprecedented insight into the complex theological and mythological landscape of early Vedic religious thought. The text meticulously traces the genealogies, attributes, and narrative associations of Vedic deities, serving as a crucial hermeneutical bridge between oral traditions and emerging systematic textual commentary. Arthur Anthony Macdonell's seminal 1904 translation in the Harvard Oriental Series marked a transformative moment in Indological studies, rendering this intricate Sanskrit text accessible to Western scholarly discourse while preserving its nuanced philosophical and mythological subtleties. By correlating individual deity references across Rigvedic hymns and connecting them to later Puranic mythology, the Bṛhad-devatā illuminates the evolutionary dynamics of Hindu theological conceptualization. Its methodological approach reveals how ancient Indian intellectuals constructed complex interpretive frameworks for understanding religious texts, demonstrating remarkable analytical sophistication in mythological exegesis. The work's significance extends beyond mere cataloguing, offering profound insights into the intellectual genealogy of Hindu religious thought, the symbolic structures of Vedic cosmology, and the intricate mechanisms of mythological interpretation that would profoundly influence subsequent Sanskrit literary and philosophical traditions.
+collections:
+- ancient-wisdom
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/brhaddevataattri01saunuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/brhaddevataattri01saunuoft
+  type: other
 references:
-  - name: "Wikipedia: Arthur Anthony Macdonell"
-    url: "https://en.wikipedia.org/wiki/Arthur_Anthony_Macdonell"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/works/OL10224918W/The_Brhad-Devata"
-    type: "other"
+- name: 'Wikipedia: Arthur Anthony Macdonell'
+  url: https://en.wikipedia.org/wiki/Arthur_Anthony_Macdonell
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/works/OL10224918W/The_Brhad-Devata
+  type: other
 featured: true
 publishDate: 2025-10-02
-tags: ["Bṛhad-devatā", "Rigveda", "Vedic mythology", "Arthur Macdonell", "Shaunaka", "Hindu gods", "Vedic deities", "Indra", "Agni", "Sanskrit scholarship", "Vedāṅga"]
 ---
 
 # The Bṛhad-devatā: A Summary of the Deities and Myths of the Rigveda
@@ -91,4 +99,3 @@ Contemporary Vedic scholars recognize both the text's importance for understandi
 ## This Digital Edition
 
 This Internet Archive preservation provides free access to foundational Vedic scholarship. For students of Hindu mythology, Vedic ritual, comparative Indo-European religion, or history of Vedic interpretation, Macdonell's edition offers detailed introduction to Rigvedic pantheon and systematic presentation of Vedic mythology that supplements direct study of Rigvedic hymns themselves.
-

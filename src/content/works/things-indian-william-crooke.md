@@ -1,25 +1,29 @@
 ---
-title: "Things Indian"
-author: ["William Crooke"]
+title: 'Things Indian'
+author:
+- William Crooke
 year: 1906
-language: ["English"]
-genre: ["Literature"]
-description: "Things Indian by William Crooke (1906) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage. This work offers valuable insights into the British Raj period, featuring independence movements, cultural renaissance, and literary awakening."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Literature
+description: |
+  William Crooke's "Things Indian" (1906) represents a pivotal anthropological and ethnographic exploration of Indian cultural landscape during the late British Colonial period. Published at the height of the British Raj, the work provides a comprehensive scholarly examination of Indian social structures, cultural practices, religious traditions, and indigenous knowledge systems through a colonial scholarly lens. Crooke, a distinguished British administrator and ethnographer serving in the United Provinces of Agra and Oudh, brought meticulous scholarly observation and extensive archival research to documenting the nuanced complexities of Indian society. The text is particularly significant for its detailed ethnographic documentation of regional customs, folklore, social hierarchies, and cultural practices across multiple Indian provinces, offering contemporary scholars a critical primary source for understanding late 19th and early 20th-century Indian sociocultural dynamics. Drawing from extensive fieldwork, administrative interactions, and local informants, Crooke's work transcends mere colonial documentation by providing granular insights into indigenous social systems, religious practices, linguistic diversity, and community structures. His methodology, while inherently influenced by colonial perspectives, nonetheless represents an early systematic attempt at comprehensive cultural documentation. The work becomes especially valuable in understanding the intricate social fabric of Indian communities during a transformative historical period marked by colonial administrative interventions, emerging nationalist sentiments, and significant cultural transitions. For contemporary scholars of Indian studies, colonial historiography, and anthropological research, "Things Indian" remains a crucial text that bridges metropolitan scholarly perspectives with localized cultural understanding, offering nuanced glimpses into complex Indian social realities of the early 20th century.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/thingsindianbeing00croo"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/thingsindianbeing00croo
+  type: other
 references:
-  - name: "Wikipedia: William Crooke"
-    url: "https://en.wikipedia.org/wiki/William_Crooke"
-    type: "wikipedia"
-  - name: "Open Library: Things Indian year"
-    url: "https://openlibrary.org/search?q=Things+Indian+year+1906+language+English+William+Crooke"
-    type: "other"
+- name: 'Wikipedia: William Crooke'
+  url: https://en.wikipedia.org/wiki/William_Crooke
+  type: wikipedia
+- name: 'Open Library: Things Indian year'
+  url: https://openlibrary.org/search?q=Things+Indian+year+1906+language+English+William+Crooke
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 # Things Indian

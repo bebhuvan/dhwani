@@ -1,0 +1,533 @@
+{
+  "timestamp": "2025-11-05T14:58:51.298Z",
+  "summary": {
+    "total": 665,
+    "clean": 578,
+    "hasIssues": 87,
+    "percentClean": "86.9"
+  },
+  "issueBreakdown": {
+    "catalogingMetadata": 0,
+    "clumsyTitles": 28,
+    "missingContent": 0,
+    "longDescriptions": 9,
+    "shortDescriptions": 0,
+    "genericDescriptions": 0,
+    "noIndianRelevance": 0,
+    "noHistoricalContext": 0,
+    "marketingLanguage": 55,
+    "vagueBrief": 0
+  },
+  "issues": {
+    "clumsyTitles": [
+      {
+        "filename": "a-comparative-grammar-of-the-sanskrit-zend-greek-latin-lithuanian-gothic-german-and-slavonic-languages-bopp.md",
+        "title": "A comparative grammar of the Sanskrit, Zend, Greek, Latin, Lithuanian, Gothic, German, and Slavonic languages",
+        "length": 109,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "a-concordance-to-the-greek-testament-according-to-the-texts-of-westcott-and-hort-tischendorf-and-the-english-revisers-moulton.md",
+        "title": "A concordance to the Greek Testament : according to the texts of Westcott and Hort, Tischendorf, and the English revisers",
+        "length": 121,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "a-sanskrit-grammar-including-both-the-classical-language-and-the-older-dialects-of-veda-and-brahmana-william-dwight-whitney.md",
+        "title": "A Sanskrit grammar; including both the classical language, and the older dialects, of Veda and Brahmana",
+        "length": 103,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "an-alphabetical-list-of-jaina-mss-belonging-to-government-in-the-oriental-library-of-the-asiatic-society-of-bengal-asiatic-society-calcutta.md",
+        "title": "An alphabetical list of Jaina MSS, belonging to government in the Oriental Library of the Asiatic Society of Bengal",
+        "length": 115,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "ancient-india-as-described-by-ptolemy-being-a-translation-of-the-chapters-which-describe-india-and-central-and-eastern-asia-in-the-treatise-on-geography-written-by-klaudios-ptolemaios-the-celebrated-astronomer-jw-mccrindle.md",
+        "title": "Ancient India: as described by Ptolemy; being a translation of the chapters which describe India and Central and Eastern Asia in the treatise on geography written by Klaudios Ptolemaios, the celebrated astronomer",
+        "length": 212,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "diary-of-richard-cocks-volume-1-cape-merchant-in-the-english-factory-in-japan-1615-1622-with.md",
+        "title": "Diary of Richard Cocks, Volume 1: Cape-Merchant in the English Factory in Japan, 1615-1622, with Correspondence",
+        "length": 111,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "flowers-and-flower-gardens-with-an-appendix-of-practical-instructions-and-useful-information.md",
+        "title": "Flowers and Flower-Gardens: With an Appendix of Practical Instructions and Useful Information Respecting the Anglo-Indian Flower-Garden",
+        "length": 135,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "hindu-law-treatise-administered-british-courts-india-herbert-cowell.md",
+        "title": "The Hindu Law: Being a Treatise on the Law Administered Exclusively to Hindus by the British Courts in India",
+        "length": 108,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "hindu-literature-wilson.md",
+        "title": "Hindu Literature: Comprising The Book of Good Counsels, Nala and Damayanti, The Ramayana, and Sakoontala",
+        "length": 104,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "history-of-ancient-sanskrit-literature-max-muller.md",
+        "title": "A History of Ancient Sanskrit Literature So Far As It Illustrates the Primitive Religion of the Brahmans",
+        "length": 104,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "hobson-jobson-a-glossary-of-colloquial-anglo-indian-words-and-phrases-and-of-kindred-terms.md",
+        "title": "Hobson-Jobson: A Glossary of Colloquial Anglo-Indian Words and Phrases, and of Kindred Terms, Etymological, Historical, Geographical and Discursive",
+        "length": 147,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "india-and-tibet-a-history-of-the-relations-which-have-subsisted-between-the-two-countries-from-the.md",
+        "title": "India and Tibet: A history of the relations which have subsisted between the two countries from the time of Warren Hastings to 1910; with a particular account of the mission to Lhasa of 1904",
+        "length": 190,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "indian-calendar-sewell-dikshit-schram.md",
+        "title": "The Indian Calendar: With Tables for the Conversion of Hindu and Muhammadan into A.D. Dates, and Vice Versâ",
+        "length": 107,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "memoir-of-the-services-of-the-bengal-artillery-from-the-formation-of-the-corps-to-the-present-time.md",
+        "title": "Memoir of the Services of the Bengal Artillery: From the Formation of the Corps to the Present Time, with Some Account of Its Internal Organization",
+        "length": 147,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "miscellaneous-notices-relating-to-china-and-our-commercial-intercourse-with-that-country-part-the-second-staunton.md",
+        "title": "Miscellaneous notices relating to China, and our commercial intercourse with that country. Part the second",
+        "length": 106,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "oriental-religions-and-christianity-a-course-of-lectures-delivered-on-the-ely-foundation-before-the.md",
+        "title": "Oriental Religions and Christianity: A Course of Lectures Delivered on the Ely Foundation Before the; Students of Union Theological Seminary, New York, 1891",
+        "length": 156,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "phallic-miscellanies-facts-and-phases-of-ancient-and-modern-sex-worship-as-illustrated-chiefly-in.md",
+        "title": "Phallic Miscellanies: Facts and Phases of Ancient and Modern Sex Worship, as Illustrated Chiefly in the Religions of India",
+        "length": 122,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "recollections-of-thirty-nine-years-in-the-army-gwalior-and-the-battle-of-maharajpore-1843-the-gold.md",
+        "title": "Recollections of Thirty-nine Years in the Army: Gwalior and the Battle of Maharajpore, 1843; the Gold Coast of Africa, 1847-48; the Indian Mutiny, 1857-58; the expedition to China, 1860-61; the Siege of Paris, 1870-71; etc.",
+        "length": 223,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "reminiscences-of-the-great-mutiny-1857-59-including-the-relief-siege-and-capture-of-lucknow-and-the.md",
+        "title": "Reminiscences of the Great Mutiny 1857-59: Including the relief, siege, and capture of Lucknow, and the campaigns in Rohilcund and Oude",
+        "length": 135,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "reports-tour-bundelkhand-rewa-malwa-gwalior-alexander-cunningham.md",
+        "title": "Reports of a Tour in Bundelkhand and Rewa in 1883-84; and of a Tour in Rewa, Bundelkhand, Malwa, and Gwalior, in 1884-85",
+        "length": 120,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "sacred-laws-aryas-apastamba-gautama-vasishtha-baudhayana-georg-buhler.md",
+        "title": "The Sacred Laws of the Âryas: As Taught in the Schools of Âpastamba, Gautama, Vâsishtha, and Baudhâyana",
+        "length": 103,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "the-commerce-and-navigation-of-the-erythræan-sea-being-a-translation-of-the-periplus-maris-erythræi.md",
+        "title": "The Commerce and Navigation of the Erythræan Sea: Being a Translation of the Periplus Maris Erythræi, by an Anonymous Writer, and of Arrian's Account of the Voyage of Nearkhos, from the Mouth of the Indus to the Head of the Persian Gulf",
+        "length": 236,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "the-defence-of-lucknow-a-diary-recording-the-daily-events-during-the-siege-of-the-european.md",
+        "title": "The Defence of Lucknow: A Diary Recording the Daily Events during the Siege of the European Residency, from 31st May to 25th September, 1857",
+        "length": 140,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "the-east-india-vade-mecum-volume-1-of-2-or-complete-guide-to-gentlemen-intended-for-the-civil.md",
+        "title": "The East India Vade-Mecum, Volume 1 (of 2): or, complete guide to gentlemen intended for the civil, military, or naval service of the East India Company.",
+        "length": 153,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte-vaman-shivaram-1858-1892.md",
+        "title": "The Practical Sanskrit-English dictionary containing appendices on Sanskrit prosody and important literary and geogrpahical names of ancient India",
+        "length": 146,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte.md",
+        "title": "The Practical Sanskrit-English dictionary containing appendices on Sanskrit prosody and important literary and geogrpahical names of ancient India",
+        "length": 146,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "the-song-celestial-or-bhagavad-gîtâ-from-the-mahâbhârata-being-a-discourse-between-arjuna-prince-of.md",
+        "title": "The Song Celestial; Or, Bhagavad-Gîtâ (from the Mahâbhârata): Being a discourse between Arjuna, Prince of India, and the Supreme Being under the form of Krishna",
+        "length": 160,
+        "issue": "Title over 100 characters"
+      },
+      {
+        "filename": "the-trident-the-crescent-and-the-cross-vaughan.md",
+        "title": "The Trident, The Crescent and The Cross: A View of the Religious History of India During the Hindu, Buddhist, Mohammedan and Christian Periods",
+        "length": 142,
+        "issue": "Title over 100 characters"
+      }
+    ],
+    "missingContent": [],
+    "longDescriptions": [
+      {
+        "filename": "ashtavakra-gita.md",
+        "title": "Ashtavakra Gita (Song of Ashtavakra)",
+        "wordCount": 815,
+        "issue": "815 words (should be < 350)"
+      },
+      {
+        "filename": "bhartrhari-shatakas.md",
+        "title": "Shatakas of Bhartrhari (Three Centuries)",
+        "wordCount": 975,
+        "issue": "975 words (should be < 350)"
+      },
+      {
+        "filename": "castes-and-tribes-of-southern-india-vol-1-of-7-thurston-edgar.md",
+        "title": "Castes and Tribes of Southern India, Volume 1 of 7",
+        "wordCount": 430,
+        "issue": "430 words (should be < 350)"
+      },
+      {
+        "filename": "folk-tales-of-bengal-day-lal-behari.md",
+        "title": "Folk-Tales of Bengal",
+        "wordCount": 864,
+        "issue": "864 words (should be < 350)"
+      },
+      {
+        "filename": "on-the-face-of-the-waters-a-tale-of-the-mutiny-steel-flora-annie-webster.md",
+        "title": "On the Face of the Waters: A Tale of the Mutiny",
+        "wordCount": 648,
+        "issue": "648 words (should be < 350)"
+      },
+      {
+        "filename": "samkhya-karika-ishvarakrishna.md",
+        "title": "Samkhya Karika (Verses on Enumeration Philosophy)",
+        "wordCount": 970,
+        "issue": "970 words (should be < 350)"
+      },
+      {
+        "filename": "tales-of-the-punjab-folklore-of-india-steel-flora-annie-webster.md",
+        "title": "Tales of the Punjab: Folklore of India",
+        "wordCount": 940,
+        "issue": "940 words (should be < 350)"
+      },
+      {
+        "filename": "the-post-office-tagore-rabindranath.md",
+        "title": "The Post Office",
+        "wordCount": 362,
+        "issue": "362 words (should be < 350)"
+      },
+      {
+        "filename": "the-tale-of-the-great-mutiny-fitchett-w-h-william-henry.md",
+        "title": "The Tale of the Great Mutiny",
+        "wordCount": 674,
+        "issue": "674 words (should be < 350)"
+      }
+    ],
+    "shortDescriptions": [],
+    "catalogingMetadata": [],
+    "genericDescriptions": [],
+    "noIndianRelevance": [],
+    "noHistoricalContext": [],
+    "marketingLanguage": [
+      {
+        "filename": "a-bibliography-of-the-sanskrit-drama-montgomery-schuyler.md",
+        "title": "A Bibliography of the Sanskrit Drama",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "a-guide-to-nalanda-ghosh.md",
+        "title": "A Guide to Nalanda",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "a-history-of-the-maratha-people-voli-c-a-kincaid.md",
+        "title": "A History of the Maratha People (Volume I)",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "a-letter-to-a-hindu-tolstoy-leo-graf.md",
+        "title": "A Letter to a Hindu",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "a-sanskritenglish-dictionary-enlarged-ed-monier-monier-williams.md",
+        "title": "A Sanskrit–English Dictionary (enlarged ed.)",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "a-short-guide-to-buddhist-remains-at-nalanda-kuraishi.md",
+        "title": "A Short Guide to the Buddhist Remains Excavated at Nalanda",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "an-encyclopaedia-of-hindu-architecture-prasanna-kumar-acharya.md",
+        "title": "An Encyclopaedia of Hindu Architecture",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "ancient-india-as-described-by-megasthenes-and-arrian-j-w-mccrindle.md",
+        "title": "Ancient India As Described By Megasthenes And Arrian",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "ancient-indian-weights-edward-thomas.md",
+        "title": "Ancient Indian Weights",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "annals-and-antiquities-of-rajasthan-james-tod.md",
+        "title": "Annals and Antiquities of Rajasthan",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "bhagavad-gita-herrens-sång-unknown.md",
+        "title": "Bhagavad-Gita: Herrens Sång",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "bhartiya-jyotish-vigyan-ravindra-kumar-dubey.md",
+        "title": "Bhartiya Jyotish Vigyan (Indian Astronomical Science)",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "bibliotheca-indica-volume-96.md",
+        "title": "Bibliotheca Indica, Volume 96",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "buddhist-birth-stories-jataka-tales-rhys-davids.md",
+        "title": "Buddhist Birth-Stories (Jataka Tales)",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "buddhist-india-rhys-davids.md",
+        "title": "Buddhist India",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "cambridge-history-india-volume-1-ancient-india-ej-rapson.md",
+        "title": "The Cambridge History of India, Volume 1: Ancient India",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "catalogue-of-coins-indian-museum-calcutta.md",
+        "title": "Catalogue of the Coins in the Indian Museum, Calcutta",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "cheitharol-kumbaba-manipur-chronicle.md",
+        "title": "Cheitharol Kumbaba (Royal Chronicle of Manipur)",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "critical-word-index-of-the-bhagavadgita-divanji-prahlad-c.md",
+        "title": "Critical word index of the Bhagavadgita",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "dardistan-leitner.md",
+        "title": "Dardistan in 1866, 1886, and 1893",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "dasbodh-samarth-ramdas-marathi-1654.md",
+        "title": "Dasbodh (Spiritual Instruction to a Disciple)",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "ethnography-castes-and-tribes-baines.md",
+        "title": "Ethnography: Castes and Tribes",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "folk-literature-of-bengal-dinesh-chandra-sen.md",
+        "title": "Folk Literature of Bengal",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "godan-premchand.md",
+        "title": "Godan (The Gift of a Cow)",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "grihya-sutras-rules-vedic-domestic-ceremonies-hermann-oldenberg.md",
+        "title": "The Grihya-sûtras: Rules of Vedic Domestic Ceremonies",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "guide-to-taxila-john-marshall.md",
+        "title": "Guide to Taxila",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "hindu-astronomy-w-brennand.md",
+        "title": "Hindu Astronomy",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "history-of-bengali-language-and-literature-dinesh-chandra-sen.md",
+        "title": "History of Bengali Language and Literature",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "india-and-tibet-a-history-of-the-relations-which-have-subsisted-between-the-two-countries-from-the.md",
+        "title": "India and Tibet: A history of the relations which have subsi",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "indian-calendar-sewell-dikshit-schram.md",
+        "title": "The Indian Calendar: With Tables for the Conversion of Hindu",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "kautilya-arthasastra-vidhyalankara.md",
+        "title": "Kautilya Arthasastra",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "lectures-on-the-ancient-history-of-india-d-r-bhandarkar.md",
+        "title": "Lectures on the Ancient History of India (650-325 B.C.)",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "markandeya-purana-devi-mahatmya.md",
+        "title": "Markandeya Purana (with Devi Mahatmya)",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "marma-vijnj-aan-paathak-raamarakshh-1.md",
+        "title": "Marma Vijnj-aan",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "memoir-of-the-services-of-the-bengal-artillery-from-the-formation-of-the-corps-to-the-present-time.md",
+        "title": "Memoir of the Services of the Bengal Artillery: From the For",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "nalanda-and-its-epigraphic-material-shastri.md",
+        "title": "Nalanda and Its Epigraphic Material",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "papers-sanskrit-manuscript-preservation-gough.md",
+        "title": "Papers Relating to the Collection and Preservation of Ancien",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "puranic-encyclopaedia-vettam-mani.md",
+        "title": "Purāṇic Encyclopaedia",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "purohit-darpaned25-bhattacharya-surendramohan-comp.md",
+        "title": "Purohit-darpan,ed.25",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "report-excavations-pataliputra-waddell.md",
+        "title": "Report on the Excavations at Pātaliputra (Patna): The Palibo",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "riyaz-us-salatin-history-of-bengal.md",
+        "title": "Riyaz-us-Salatin: A History of Bengal",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "sangita-raga-kalpadruma-vol1.md",
+        "title": "Saṅgīta Rāga-kalpadruma Vol. 1",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "sarva-darsana-samgraha-madhava-tr-cowell-gough-1882.md",
+        "title": "Sarva-darśana-saṅgraha (Review of Different Systems of Hindu",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "si-yu-ki-buddhist-records-of-the-western-world-xuanzang-samuel-beal.md",
+        "title": "Si-yu-ki: Buddhist Records of the Western World",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "skanda-purana.md",
+        "title": "Skanda Purana",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "south-indian-images-of-gods-and-goddesses-krishna-sastri.md",
+        "title": "South Indian Images of Gods and Goddesses",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "studies-in-mughal-india.md",
+        "title": "Studies in Mughal India",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "the-babur-nma-memoirs-of-babur-english-translation-ahr-ud-dn-muhammad-babur-tr-annette-susannah-beveridge.md",
+        "title": "The Babur-Nāma (Memoirs of Babur) — English Translation",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "the-kipling-reader-selections-from-the-books-of-rudyard-kipling-kipling-rudyard.md",
+        "title": "The Kipling Reader: Selections from the Books of Rudyard Kip",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "the-natural-history-of-the-mammalia-of-india-and-ceylon-r-a-sterndale.md",
+        "title": "The Natural History of the Mammalia of India and Ceylon",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte-vaman-shivaram-1858-1892.md",
+        "title": "The Practical Sanskrit-English dictionary containing appendi",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte.md",
+        "title": "The Practical Sanskrit-English dictionary containing appendi",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "travels-in-india-jeanbaptiste-tavernier-tr-v-ball.md",
+        "title": "Travels in India",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "vedic-mythology-macdonell.md",
+        "title": "Vedic Mythology",
+        "issue": "Contains marketing/superlative language"
+      },
+      {
+        "filename": "vishnu-purana-wilson.md",
+        "title": "Vishnu Purana",
+        "issue": "Contains marketing/superlative language"
+      }
+    ],
+    "vagueBrief": []
+  }
+}

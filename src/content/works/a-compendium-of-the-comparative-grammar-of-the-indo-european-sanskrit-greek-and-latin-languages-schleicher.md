@@ -1,6 +1,5 @@
 ---
-title: A compendium of the comparative grammar of the Indo-European, Sanskrit, Greek,
-  and Latin languages;
+title: 'A compendium of the comparative grammar of the Indo-European, Sanskrit, Greek, and Latin languages;'
 author:
 - Schleicher, August, 1821-1868
 - Bendall, Herbert
@@ -9,21 +8,22 @@ language:
 - English
 genre:
 - Linguistics
-description: 'August Schleicher''s 1874 compendium presents systematic Proto-Indo-European reconstruction through Sanskrit, Greek, and Latin comparison, introducing the Stammbaum (family tree) model and composing the first reconstructed PIE text, Schleicher''s Fable.'
-collections: ["linguistic-works"]
+description: |
+  August Schleicher's landmark 1874 compendium represents a pivotal scholarly contribution to comparative linguistics during the late 19th-century colonial period, strategically positioning Sanskrit as a critical analytical lens for understanding Proto-Indo-European language structures. Situated within the broader European intellectual tradition of comparative philology, this work emerged during a transformative era of academic exchange between European researchers and Indian linguistic scholarship. Schleicher, a prominent German linguist and comparative philologist, developed a systematic methodology for linguistic reconstruction that fundamentally challenged contemporary understanding of language evolution, utilizing Sanskrit as a primary comparative reference point alongside Greek and Latin. His innovative Stammbaum (family tree) model provided a groundbreaking theoretical framework for tracing linguistic genealogies, demonstrating how comparative analysis could reveal complex historical relationships between language systems. By meticulously examining grammatical structures, phonetic transformations, and lexical patterns, Schleicher's work not only advanced European linguistic scholarship but also significantly contributed to the scholarly documentation and intellectual appreciation of Indian linguistic heritage. The compendium's rigorous approach represented a critical moment in cross-cultural academic dialogue, where European scholarly methodologies engaged substantively with Indian textual traditions. Notably, Schleicher's reconstruction of a hypothetical Proto-Indo-European text—Schleicher's Fable—exemplified the theoretical possibilities of linguistic archaeology, bridging historical linguistic research with speculative reconstruction. This work remains a foundational text in understanding the intricate connections between Indo-European language families and the profound linguistic complexity of Sanskrit as a historical and comparative linguistic resource.
+collections:
+- linguistic-works
 sources:
-- name: Internet Archive
+- name: 'Internet Archive'
   url: https://archive.org/details/compendiumofcomp01schluoft
   type: archive
 references:
-  - name: "Open Library: Compendium Comparative Grammar Indo-European"
-    url: "https://openlibrary.org/search?q=Compendium+Comparative+Grammar+Indo-European+August+Schleicher"
-    type: "other"
+- name: 'Open Library: Compendium Comparative Grammar Indo-European'
+  url: https://openlibrary.org/search?q=Compendium+Comparative+Grammar+Indo-European+August+Schleicher
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags:
-- 19th-century
 ---
+
 # A compendium of the comparative grammar of the Indo-European, Sanskrit, Greek, and Latin languages;
 
 ## Overview

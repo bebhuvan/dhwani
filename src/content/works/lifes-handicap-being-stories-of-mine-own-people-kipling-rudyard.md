@@ -1,5 +1,5 @@
 ---
-title: 'Life''s Handicap: Being Stories of Mine Own People'
+title: 'Life's Handicap: Being Stories of Mine Own People'
 author:
 - Kipling, Rudyard
 year: 1921
@@ -8,31 +8,26 @@ language:
 genre:
 - Fiction
 - Historical Literature
-description: A collection of stories exploring themes of life, death, love, and human
-  fate as experienced by diverse inhabitants of British India, focusing on their complex
-  interactions and cultural richness.
+description: |
+  Published in 1921 during the late British colonial period, "Life's Handicap" emerges from Rudyard Kipling's extensive experience in India as a journalist and writer who lived in the subcontinent during the late 19th century. Written by an author deeply immersed in the complexities of British imperial society, the collection reflects the intricate social dynamics of British India at a time of growing nationalist sentiment and cultural transformation. A collection of stories exploring themes of life, death, love, and human fate as experienced by diverse inhabitants of British India, focusing on their complex interactions and cultural richness.
 collections:
 - modern-literature
 sources:
-- name: Project Gutenberg
+- name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/5777
   type: other
-- name: Project Gutenberg (HTML)
+- name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/5777.html.images
   type: other
 references:
 - name: 'Wikipedia: Rudyard Kipling'
   url: https://en.wikipedia.org/wiki/Rudyard_Kipling
   type: other
-- name: 'Open Library: Life''s Handicap'
+- name: 'Open Library: Life's Handicap'
   url: https://openlibrary.org/search?q=Life%27s%20Handicap%20Kipling
   type: other
 featured: false
 publishDate: 2025-11-01
-tags:
-- public domain
-- Kipling, Rudyard
-- Indian stories
 ---
 
 # Life's Handicap: Being Stories of Mine Own People

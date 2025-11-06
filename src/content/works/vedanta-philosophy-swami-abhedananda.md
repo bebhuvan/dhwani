@@ -1,34 +1,42 @@
 ---
-title: "Vedânta Philosophy: Three Lectures on Spiritual Unfoldment"
-author: ["Swami Abhedananda"]
+title: 'Vedânta Philosophy: Three Lectures on Spiritual Unfoldment'
+author:
+- Swami Abhedananda
 year: 1901
-language: ["English"]
-genre: ["Philosophy", "Religious Texts", "Lectures"]
-description: "Comprises three lectures addressing spiritual development, specifically covering self-control, concentration and meditation, and God-consciousness. Represents early 20th-century Hindu philosophical teachings brought to Western audiences by a direct disciple of Ramakrishna."
-collections: ['ancient-wisdom', 'spiritual-texts', 'modern-literature']
+language:
+- English
+genre:
+- Philosophy
+- Religious Texts
+- Lectures
+description: |
+  In the late 19th and early 20th centuries, when colonial encounters catalyzed complex intellectual exchanges between India and the West, Swami Abhedananda's "Vedânta Philosophy: Three Lectures on Spiritual Unfoldment" emerged as a critically important philosophical text bridging traditional Indian spiritual epistemology with emergent transnational discourse. A direct disciple of Sri Ramakrishna and prominent member of the Ramakrishna Order, Abhedananda represented a generation of Hindu intellectuals strategically reinterpreting ancient philosophical traditions to demonstrate their universal relevance and sophisticated metaphysical frameworks. Published in 1901, these lectures transcended mere academic exposition, functioning as a nuanced intervention in cross-cultural philosophical dialogue during a period of intense colonial and intellectual negotiation. The work systematically explores fundamental Vedantic concepts of spiritual development through three interconnected lectures examining self-control, meditative concentration, and transcendental consciousness, presenting these not as exotic spiritual practices but as rigorous philosophical methodologies for understanding human potential. Abhedananda's approach was distinctively scholarly, drawing upon classical Sanskrit philosophical texts while making their profound insights accessible to Western audiences increasingly curious about Indian thought. By articulating Vedantic principles with philosophical precision and intellectual sophistication, the text challenged prevailing colonial representations of Indian spirituality as mystical or irrational, instead positioning it as a complex, systematic approach to understanding consciousness, self-discipline, and human transformation. Within the broader context of early 20th-century Indian intellectual history, this work represents a pivotal moment in the global transmission of Hindu philosophical knowledge, embodying the Ramakrishna movement's commitment to intellectual openness, cross-cultural understanding, and spiritual universalism.
+collections:
+- ancient-wisdom
+- spiritual-texts
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/vedntaphilosop00abherich"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/vedntaphilosop00abherich
+  type: other
 references:
-  - name: "Wikipedia: Swami Abhedananda"
-    url: "https://en.wikipedia.org/wiki/Swami_Abhedananda"
-    type: "wikipedia"
-  - name: "Wikipedia: Vedanta"
-    url: "https://en.wikipedia.org/wiki/Vedanta"
-    type: "wikipedia"
-  - name: "Wikisource: Author Page"
-    url: "https://en.wikisource.org/wiki/Author:Swami_Abhedananda"
-    type: "wikisource"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=Vedanta+Philosophy+Swami+Abhedananda"
-    type: "other"
-  - name: "Wikidata: Swami Abhedananda"
-    url: "https://www.wikidata.org/wiki/Q578792"
-    type: "other"
+- name: 'Wikipedia: Swami Abhedananda'
+  url: https://en.wikipedia.org/wiki/Swami_Abhedananda
+  type: wikipedia
+- name: 'Wikipedia: Vedanta'
+  url: https://en.wikipedia.org/wiki/Vedanta
+  type: wikipedia
+- name: 'Wikisource: Author Page'
+  url: https://en.wikisource.org/wiki/Author:Swami_Abhedananda
+  type: wikisource
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=Vedanta+Philosophy+Swami+Abhedananda
+  type: other
+- name: 'Wikidata: Swami Abhedananda'
+  url: https://www.wikidata.org/wiki/Q578792
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Vedanta Philosophy", "Swami Abhedananda", "Ramakrishna", "Hindu Philosophy", "Meditation", "Spiritual Practice", "Early 20th Century", "Vedanta Society", "Indian Philosophy in West", "Self-Realization"]
 ---
 
 # Vedânta Philosophy: Three Lectures on Spiritual Unfoldment

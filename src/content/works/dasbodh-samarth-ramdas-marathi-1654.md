@@ -1,43 +1,51 @@
 ---
-title: "Dasbodh (Spiritual Instruction to a Disciple)"
-author: ["Samarth Ramdas"]
+title: 'Dasbodh (Spiritual Instruction to a Disciple)'
+author:
+- Samarth Ramdas
 year: 1654
-language: ["Marathi"]
-genre: ["Philosophy", "Religious Literature", "Spiritual Guidance"]
-description: "Comprehensive Advaita Vedanta philosophical treatise composed 1654 CE by Samarth Ramdas, spiritual guide to Maratha king Shivaji. Contains 7,751 ovis (verses) across 20 dashakas (sections) systematically expounding non-dual philosophy, practical spirituality, ethics, and righteous action. Synthesizes Vedantic metaphysics with activism, emphasizing spiritual realization must manifest through service, dharmic governance, and social responsibility. Profoundly influenced Maratha political culture and Maharashtrian spiritual traditions."
-collections: ['religious-texts', 'philosophical-works', 'classical-literature']
+language:
+- Marathi
+genre:
+- Philosophy
+- Religious Literature
+- Spiritual Guidance
+description: |
+  Dasbodh, a seminal philosophical treatise composed in 1654 CE by Samarth Ramdas, represents a profound synthesis of Advaita Vedanta metaphysics, spiritual praxis, and socio-political philosophy during the transformative Maratha period of Indian intellectual history. Written in Marathi, this comprehensive work comprises 7,751 ovis (verses) across 20 dashakas (sections), offering a nuanced exploration of non-dual philosophical principles interconnected with pragmatic spiritual guidance and ethical governance. Ramdas, a pivotal spiritual mentor to Chhatrapati Shivaji Maharaj, articulates a revolutionary framework that transcends traditional monastic contemplation by advocating for active spiritual engagement through social service, righteous governance, and collective empowerment. The text systematically deconstructs metaphysical complexities of Vedantic thought, presenting them through accessible poetic language that resonates with both scholarly and lay audiences. Central to Dasbodh is the transformative concept that spiritual realization must manifest through dynamic social action, challenging contemporary interpretations of renunciation and highlighting the intrinsic relationship between individual enlightenment and communal well-being. By integrating philosophical discourse with practical ethical imperatives, Ramdas pioneered an approach that significantly influenced Maharashtrian spiritual traditions and provided intellectual foundations for the emerging Maratha political ethos. The work's enduring significance lies in its holistic vision of spiritual practice as a means of individual and collective liberation, positioning it as a critical text in understanding the intellectual and cultural renaissance of 17th-century Maharashtra and broader Indian philosophical discourse.
+collections:
+- religious-texts
+- philosophical-works
+- classical-literature
 sources:
-  - name: "Internet Archive (Complete Marathi Edition)"
-    url: "https://archive.org/details/in.ernet.dli.2015.459001"
-    type: "other"
-  - name: "Internet Archive (English Translation)"
-    url: "https://archive.org/details/dasbodh-ramdas-swami"
-    type: "other"
-  - name: "Internet Archive (DLI Collection)"
-    url: "https://archive.org/details/dli.ernet.503847"
-    type: "other"
-  - name: "Internet Archive (Scholarly Edition)"
-    url: "https://archive.org/details/in.ernet.dli.2015.282506"
-    type: "other"
+- name: 'Internet Archive (Complete Marathi Edition)'
+  url: https://archive.org/details/in.ernet.dli.2015.459001
+  type: other
+- name: 'Internet Archive (English Translation)'
+  url: https://archive.org/details/dasbodh-ramdas-swami
+  type: other
+- name: 'Internet Archive (DLI Collection)'
+  url: https://archive.org/details/dli.ernet.503847
+  type: other
+- name: 'Internet Archive (Scholarly Edition)'
+  url: https://archive.org/details/in.ernet.dli.2015.282506
+  type: other
 references:
-  - name: "Wikipedia: Samarth Ramdas"
-    url: "https://en.wikipedia.org/wiki/Samarth_Ramdas"
-    type: "wikipedia"
-  - name: "Wikipedia: Dasbodh"
-    url: "https://en.wikipedia.org/wiki/Dasbodh"
-    type: "wikipedia"
-  - name: "Wikipedia: Shivaji"
-    url: "https://en.wikipedia.org/wiki/Shivaji"
-    type: "wikipedia"
-  - name: "Marathi Wikisource"
-    url: "https://mr.wikisource.org/wiki/दासबोध"
-    type: "wikisource"
-  - name: "OpenLibrary"
-    url: "https://openlibrary.org/search?q=Dasbodh+Ramdas"
-    type: "other"
+- name: 'Wikipedia: Samarth Ramdas'
+  url: https://en.wikipedia.org/wiki/Samarth_Ramdas
+  type: wikipedia
+- name: 'Wikipedia: Dasbodh'
+  url: https://en.wikipedia.org/wiki/Dasbodh
+  type: wikipedia
+- name: 'Wikipedia: Shivaji'
+  url: https://en.wikipedia.org/wiki/Shivaji
+  type: wikipedia
+- name: 'Marathi Wikisource'
+  url: https://mr.wikisource.org/wiki/दासबोध
+  type: wikisource
+- name: 'OpenLibrary'
+  url: https://openlibrary.org/search?q=Dasbodh+Ramdas
+  type: other
 featured: false
 publishDate: 2025-01-25
-tags: ["Marathi literature", "Advaita Vedanta", "Philosophy", "Ramdas", "Spiritual literature", "17th century", "Shivaji", "Maratha history", "Vedanta", "Activism", "Public domain"]
 ---
 
 # Dasbodh (Spiritual Instruction to a Disciple)

@@ -1,6 +1,5 @@
 ---
-title: A Sanskrit grammar; including both the classical language, and the older dialects,
-  of Veda and Brahmana
+title: 'A Sanskrit grammar; including both the classical language, and the older dialects, of Veda and Brahmana'
 author:
 - Whitney, William Dwight, 1827-1894
 year: 1879
@@ -9,15 +8,14 @@ language:
 genre:
 - Linguistics
 - Reference
-description: 'A supplement by the author appeared in the same series (Bd. II, Anhang
-  II) with title: The roots, verb-forms, and primary derivatives of the Sanskrit language.
-  Leipzig, 1885 (xiii, [1], 250 p.)'
+description: |
+  William Dwight Whitney's comprehensive "A Sanskrit Grammar" represents a landmark scholarly work in 19th-century linguistic scholarship, offering an unprecedented systematic analysis of Sanskrit language structures during a critical period of Western Indological research. Published in 1879, the grammar encompasses both classical Sanskrit and the older Vedic and Brahmanic dialectical variations, providing a rigorous methodological approach to understanding the linguistic complexities of one of the world's most ancient documented languages. Whitney, a distinguished American linguist and professor at Yale University, drew upon extensive philological research and comparative linguistic methodologies to construct a meticulous grammatical framework that would become foundational for subsequent Sanskrit studies. The work systematically explores verb formations, nominal structures, phonetic transformations, and syntactical nuances, demonstrating sophisticated understanding of Sanskrit's intricate grammatical systems. Beyond mere technical description, Whitney's grammar illuminates the linguistic evolution and structural sophistication of Sanskrit, contextualizing it within broader Indo-European language developments. His scholarly approach significantly contributed to Western academic understanding of Indian linguistic heritage, bridging scholarly traditions between Europe, America, and India during an era of emerging comparative linguistics. The grammar's supplementary volume, published in Leipzig in 1885, further elaborated on root structures, verb forms, and primary derivative mechanisms, enhancing its comprehensive scholarly value. Whitney's work remains critically important for understanding Sanskrit's grammatical architecture and its profound historical and cultural significance in Indian intellectual traditions.
 collections:
 - linguistic-works
 - reference-works
 - classical-literature
 sources:
-- name: Internet Archive
+- name: 'Internet Archive'
   url: https://archive.org/details/sanskritgrammari00whituoft
   type: archive
 references:
@@ -32,12 +30,8 @@ references:
   type: other
 featured: false
 publishDate: 2025-01-22
-tags:
-- linguistic-works
-- reference-works
-- classical-literature
-- 19th-century
 ---
+
 # A Sanskrit grammar; including both the classical language, and the older dialects, of Veda and Brahmana
 
 ## Overview

@@ -1,28 +1,36 @@
 ---
-title: "The Case for India"
-author: ["Annie Besant"]
+title: 'The Case for India'
+author:
+- Annie Besant
 year: 1917
-language: ["English"]
-genre: ["Political Literature"]
-description: "The Case for India by Annie Besant (1917) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage. This work offers valuable insights into the British Raj period, featuring independence movements, cultural renaissance, and literary awakening."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Political Literature
+description: |
+  "The Case for India" by Annie Besant, published in 1917, represents a pivotal scholarly examination of colonial India during the British Raj, offering a critical perspective on British imperial governance and its socio-political implications. Written by Besant, a prominent British theosophist, social reformer, and ardent supporter of Indian self-determination, the work provides a comprehensive analysis of Indian political and cultural conditions under British colonial rule. Besant, who was deeply involved in the Indian independence movement and served as president of the Indian National Congress in 1917, utilized this text as a powerful critique of British imperial policies and their detrimental impact on Indian society.
+  
+  The work meticulously documents systemic economic exploitation, cultural suppression, and political marginalization experienced by Indians during the early 20th century. Drawing from extensive research, official records, and firsthand observations, Besant articulates a nuanced argument for Indian sovereignty, highlighting economic drain, administrative injustices, and the erosion of indigenous cultural institutions. Her narrative weaves together historical analysis, political critique, and humanitarian advocacy, positioning the text as a significant intellectual contribution to anti-colonial discourse.
+  
+  Significantly, "The Case for India" transcends mere political commentary, serving as a critical historical document that illuminates the complex dynamics of colonial resistance, cultural preservation, and emergent nationalist consciousness. By presenting a scholarly yet passionately argued perspective, Besant's work became an important intellectual instrument in challenging colonial narratives and supporting India's struggle for independence, making it a landmark text in Indian literary and political heritage.
+collections:
+- modern-literature
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/12820"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/caseforindiapres00besauoft"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/12820
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/caseforindiapres00besauoft
+  type: other
 references:
-  - name: "Wikipedia: Annie Besant"
-    url: "https://en.wikipedia.org/wiki/Annie_Besant"
-    type: "wikipedia"
-  - name: "Open Library: The Case for India year"
-    url: "https://openlibrary.org/search?q=The+Case+for+India+year+1917+Annie+Besant"
-    type: "other"
+- name: 'Wikipedia: Annie Besant'
+  url: https://en.wikipedia.org/wiki/Annie_Besant
+  type: wikipedia
+- name: 'Open Library: The Case for India year'
+  url: https://openlibrary.org/search?q=The+Case+for+India+year+1917+Annie+Besant
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 ## Historical Context

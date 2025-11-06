@@ -1,28 +1,32 @@
 ---
-title: "The Portuguese in India"
-author: ["Frederic Charles Danvers"]
+title: 'The Portuguese in India'
+author:
+- Frederic Charles Danvers
 year: 1894
-language: ["English"]
-genre: ["Literature"]
-description: "The Portuguese in India by Frederic Charles Danvers (1894) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage. This work offers valuable insights into the British Raj period, featuring independence movements, cultural renaissance, and literary awakening."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Literature
+description: |
+  Frederic Charles Danvers' comprehensive historical work "The Portuguese in India" represents a critical scholarly examination of Portuguese colonial interactions and maritime expansionism in the Indian subcontinent during the 15th and 16th centuries. Published in 1894 during the late British colonial period, the text meticulously documents the Portuguese maritime expeditions, diplomatic engagements, and territorial interventions that fundamentally transformed India's coastal regions and international trade networks. Drawing from extensive archival research and historical records, Danvers provides a nuanced analysis of Portuguese exploration under navigators like Vasco da Gama, detailing their initial maritime encounters, establishment of trading posts, and complex interactions with local kingdoms in Kerala, Goa, and other coastal territories. The work offers significant scholarly insights into the early phases of European colonial penetration, examining the intricate cultural, economic, and political dynamics that emerged from Portuguese maritime imperialism. Danvers' methodical approach reconstructs the trajectories of Portuguese diplomatic missions, commercial strategies, and cross-cultural encounters, revealing the sophisticated networks of trade, diplomacy, and cultural exchange that preceded British colonial dominance. For contemporary Indian historical studies, the text serves as a critical primary source documenting pre-British colonial interactions, illuminating the multicultural foundations of India's global maritime history. By meticulously chronicling Portuguese administrative structures, trade practices, and intercultural negotiations, Danvers provides historians with a foundational text for understanding the complex genealogies of European colonial engagement in the Indian Ocean world, making an invaluable contribution to postcolonial historical scholarship.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/pli.kerala.rare.7029; https://archive.org/details/in.ernet.dli.2015.189344"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/pli.kerala.rare.7029; https://archive.org/details/in.ernet.dli.2015.189344
+  type: other
 references:
-  - name: "Wikipedia: Portuguese India"
-    url: "https://en.wikipedia.org/wiki/Portuguese_India"
-    type: "wikipedia"
-  - name: "Wikipedia: Frederic Charles Danvers"
-    url: "https://en.wikipedia.org/wiki/Frederic_Charles_Danvers"
-    type: "wikipedia"
-  - name: "Open Library: The Portuguese in India year"
-    url: "https://openlibrary.org/search?q=The+Portuguese+in+India+year+1894+Frederic+Charles+Danvers"
-    type: "other"
+- name: 'Wikipedia: Portuguese India'
+  url: https://en.wikipedia.org/wiki/Portuguese_India
+  type: wikipedia
+- name: 'Wikipedia: Frederic Charles Danvers'
+  url: https://en.wikipedia.org/wiki/Frederic_Charles_Danvers
+  type: wikipedia
+- name: 'Open Library: The Portuguese in India year'
+  url: https://openlibrary.org/search?q=The+Portuguese+in+India+year+1894+Frederic+Charles+Danvers
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 # The Portuguese in India

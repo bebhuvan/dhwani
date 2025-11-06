@@ -1,28 +1,36 @@
 ---
-title: "Atharvaveda (Saunaka Recension)"
-author: ["Visha Bandhu"]
+title: 'Atharvaveda (Saunaka Recension)'
+author:
+- Visha Bandhu
 year: 1962
-language: ["Hindi"]
-genre: ["Vedic Literature", "Religious Texts", "Sanskrit Literature"]
-description: "Hindi edition of the Atharvaveda's Saunaka recension prepared by Vishva Bandhu in 1962, presenting one of two surviving textual traditions of the fourth Veda. This 730-hymn collection contains healing formulas, protective charms, life-cycle rituals, and philosophical speculations compiled between 1200-900 BCE."
-collections: ["classical-literature", "spiritual-texts", "religious-texts"]
+language:
+- Hindi
+genre:
+- Vedic Literature
+- Religious Texts
+- Sanskrit Literature
+description: |
+  The Atharvaveda's Saunaka recension, as edited by Vishva Bandhu in 1962, represents a critical scholarly rendering of one of the most complex and intellectually rich textual traditions of the late Vedic period (c. 1200-900 BCE). Unlike the ritualistic Rigveda or philosophical Upanishadic texts, this collection uniquely captures the intricate social and metaphysical dimensions of early Indic civilization through its 730 hymns, which encompass healing practices, protective incantations, philosophical meditations, and socio-cultural prescriptions. The text reveals a sophisticated understanding of human experience, integrating magical practices with nascent medical knowledge, genealogical rituals, and metaphysical speculations about existence, consciousness, and cosmic order. Emerging during a period of significant intellectual transformation, the Atharvaveda reflects the epistemological complexity of Brahmanical scholarship, demonstrating how ritual knowledge was systematized and conceptualized beyond mere performative frameworks. Its contents provide critical insights into indigenous knowledge systems, exploring themes of health, fertility, social harmony, spiritual protection, and metaphysical understanding. Scholars consider this text particularly valuable for understanding the transition from early Vedic ritualism to more abstract philosophical inquiry, serving as a crucial intellectual bridge between sacrificial traditions and later philosophical developments. Vishva Bandhu's Hindi edition further democratizes access to this profound scholarly work, making its sophisticated contents accessible to contemporary scholars and cultural researchers interested in understanding the intellectual genealogy of Indian philosophical and cultural thought.
+collections:
+- classical-literature
+- spiritual-texts
+- religious-texts
 sources:
-- name: "Internet Archive"
-  url: "https://archive.org/details/in.ernet.dli.2015.379318"
-  type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.379318
+  type: other
 references:
 - name: 'Wikipedia: Atharvaveda'
   url: https://en.wikipedia.org/wiki/Atharvaveda
   type: wikipedia
 - name: 'OpenLibrary: Atharvaveda'
   url: https://openlibrary.org/works/OL23652408W
-  type: "other"
+  type: other
 - name: 'Wikisource: Sanskrit'
   url: https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Sanskrit
   type: wikisource
 featured: false
 publishDate: 2025-01-22
-tags: ["Atharvaveda", "Vedic literature", "Saunaka recension", "Vishva Bandhu", "Sanskrit texts", "Hindu scriptures", "ritual texts", "Vedic hymns", "ancient medicine", "magical formulas", "religious literature", "Hindi translation"]
 ---
 
 # Atharvaveda (Saunaka Recension)

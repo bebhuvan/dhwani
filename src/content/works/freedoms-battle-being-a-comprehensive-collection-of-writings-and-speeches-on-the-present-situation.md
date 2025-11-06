@@ -1,6 +1,5 @@
 ---
-title: 'Freedom''s Battle: Being a Comprehensive Collection of Writings and Speeches
-  on the Present Situation'
+title: 'Freedom's Battle: Being a Comprehensive Collection of Writings and Speeches on the Present Situation'
 author:
 - Mohandas K. Gandhi
 year: 1922
@@ -9,30 +8,26 @@ language:
 genre:
 - Political Literature
 - Historical Literature
-description: A comprehensive collection of Gandhi's writings and speeches from 1920-1922
-  documenting the crucial period of the Non-Cooperation Movement and Khilafat agitation
-  that transformed Indian resistance from elite constitutional petitioning to mass
-  civil disobedience. Published by Ganesh & Co. in Madras in 1922, this anthology
-  captures Gandhi's political thought and strategic vision during the most intense
-  phase of his early leadership of the Indian independence movement.
+description: |
+  Freedom's Battle: Being a Comprehensive Collection of Writings and Speeches on the Present Situation represents a pivotal documentary record of Mahatma Gandhi's emerging political philosophy during the transformative early 1920s, a critical period in India's nationalist struggle against British colonial rule. Published in 1922 by Ganesh & Co. in Madras, this anthology comprehensively captures Gandhi's strategic writings and speeches from 1920-1922, documenting the crucial transition of Indian resistance from elite constitutional negotiation to mass civil disobedience through the Non-Cooperation Movement and Khilafat agitation. The work encapsulates Gandhi's nuanced political thought during a watershed moment when traditional modes of anti-colonial protest were fundamentally reimagined, presenting a methodical articulation of non-violent resistance as a sophisticated political instrument. By integrating religious ethics, anti-colonial critique, and grassroots mobilization strategies, Gandhi elaborated a revolutionary approach to political transformation that challenged both imperial governance and traditional nationalist paradigms. The collection illuminates the intellectual foundations of the Indian independence movement, demonstrating how Gandhi synthesized indigenous cultural principles with transnational anti-colonial discourse to construct a uniquely Indian strategy of resistance. Critically, the anthology reveals Gandhi's evolving conception of satyagraha (truth-force) as a pragmatic political methodology, documenting the theoretical and practical developments that would subsequently influence global anti-colonial and civil rights movements. As a scholarly resource, Freedom's Battle provides unprecedented insight into the ideological architecture of India's independence struggle, offering contemporary researchers and historians an unmediated window into the strategic deliberations that would ultimately reshape the subcontinent's political landscape.
 collections:
 - classical-literature
 - political-philosophy
 - political-philosophy
 sources:
-- name: Internet Archive - 1922 Ganesh & Co. Madras Edition
+- name: 'Internet Archive - 1922 Ganesh & Co. Madras Edition'
   url: https://archive.org/details/freedomsbattlebe00gandiala
   type: other
-- name: Internet Archive - Freedom's Battle (Digital Library of India)
+- name: 'Internet Archive - Freedom's Battle (Digital Library of India)'
   url: https://archive.org/details/dli.bengal.10689.19073
   type: other
-- name: Internet Archive - Freedom's Battle (Project Gutenberg Collection)
+- name: 'Internet Archive - Freedom's Battle (Project Gutenberg Collection)'
   url: https://archive.org/details/freedomsbattle10366gut
   type: other
-- name: Project Gutenberg
+- name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/10366
   type: other
-- name: Project Gutenberg (HTML)
+- name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/10366.html.images
   type: other
 references:
@@ -45,24 +40,11 @@ references:
 - name: 'Wikipedia: Mahatma Gandhi'
   url: https://en.wikipedia.org/wiki/Mahatma_Gandhi
   type: other
-- name: 'Open Library: Freedom''s Battle'
+- name: 'Open Library: Freedom's Battle'
   url: https://openlibrary.org/search?q=Freedom%27s%20Battle%20Gandhi
   type: other
 featured: true
 publishDate: 2025-11-01
-tags:
-- Mahatma Gandhi
-- Non-Cooperation Movement
-- Khilafat Movement
-- Indian Independence
-- Satyagraha
-- Civil Disobedience
-- Rowlatt Act
-- Jallianwala Bagh
-- Hindu-Muslim Unity
-- 1920-1922
-- British India
-- Political Speeches
 ---
 
 # Freedom's Battle: Being a Comprehensive Collection of Writings and Speeches on the Present Situation

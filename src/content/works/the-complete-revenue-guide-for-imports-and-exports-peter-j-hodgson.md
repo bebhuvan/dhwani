@@ -1,28 +1,33 @@
 ---
-title: "The complete revenue guide for imports and exports"
-author: ["Peter J. Hodgson"]
+title: 'The complete revenue guide for imports and exports'
+author:
+- Peter J. Hodgson
 year: 1809
-language: ["English"]
-genre: ["Commercial Law", "Reference"]
-description: "Peter J. Hodgson’s handbook collates the customs duties, drawbacks, and legal procedures that governed British and Irish ports in 1809, including schedules for East India Company cargoes." 
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Commercial Law
+- Reference
+description: |
+  Peter J. Hodgson's comprehensive handbook represents a pivotal archival document chronicling the intricate commercial and administrative mechanisms of the British East India Company during the early 19th century, a transformative period characterized by imperial economic expansion and systematic colonial trade regulation. Published in 1809, the work offers an unprecedented detailed compendium of maritime trade protocols, customs duties, and legal frameworks governing British and Irish port interactions with colonial trading networks, with particular emphasis on East India Company commercial operations. The handbook emerges during a critical historical moment when Britain was consolidating its global economic infrastructure, meticulously documenting complex trade procedures that underpinned imperial commercial strategies. Reflecting the administrative precision characteristic of British colonial governance, Hodgson's work provides scholars and historians with granular insights into the economic architectures that facilitated metropolitan-colonial economic exchanges. While primarily a technical administrative text, the handbook illuminates the sophisticated bureaucratic apparatus that enabled Britain's commercial dominance, capturing the intricate legal and economic mechanisms that shaped global trade relationships during the early 19th century. For Indian economic and cultural historians, the document serves as a crucial primary source revealing the administrative logics of colonial economic governance, offering nuanced perspectives on how imperial trading systems were conceptualized, regulated, and implemented. The work's meticulous cataloging of import-export regulations, customs schedules, and maritime legal procedures provides researchers with a rare, contemporaneous window into the complex transactional infrastructures that defined Britain's global commercial empire during a period of significant imperial transformation.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/completerevenueg00hodg"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/completerevenueg00hodg
+  type: other
 references:
-  - name: "Wikipedia: Customs duties in the United Kingdom"
-    url: "https://en.wikipedia.org/wiki/Customs_duties_in_the_United_Kingdom"
-    type: "wikipedia"
-  - name: "Wikipedia: East India Company"
-    url: "https://en.wikipedia.org/wiki/East_India_Company"
-    type: "wikipedia"
-  - name: "Open Library search: The complete revenue guide for imports and exports"
-    url: "https://openlibrary.org/search?q=The+complete+revenue+guide+for+imports+and+exports&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Customs duties in the United Kingdom'
+  url: https://en.wikipedia.org/wiki/Customs_duties_in_the_United_Kingdom
+  type: wikipedia
+- name: 'Wikipedia: East India Company'
+  url: https://en.wikipedia.org/wiki/East_India_Company
+  type: wikipedia
+- name: 'Open Library search: The complete revenue guide for imports and exports'
+  url: https://openlibrary.org/search?q=The+complete+revenue+guide+for+imports+and+exports&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-22
-tags: ["Customs law", "Tariffs", "Irish trade", "East India goods", "Napoleonic era", "Maritime commerce"]
 ---
 
 # The complete revenue guide for imports and exports

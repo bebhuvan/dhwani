@@ -1,34 +1,46 @@
 ---
-title: "The Vedānta-Sūtras with Commentaries by Śankarācārya and Rāmānuja"
-author: ["Bādarāyaṇa (Vedānta-Sūtras)", "Śankarācārya (commentary)", "Rāmānuja (commentary)", "George Thibaut (translator)"]
+title: 'The Vedānta-Sūtras with Commentaries by Śankarācārya and Rāmānuja'
+author:
+- Bādarāyaṇa (Vedānta-Sūtras)
+- Śankarācārya (commentary)
+- Rāmānuja (commentary)
+- George Thibaut (translator)
 year: 1890
-language: ["English", "Sanskrit"]
-genre: ["Philosophy", "Religious Literature", "Translation"]
-description: "George Thibaut's translation of the *Vedānta-Sūtras* (also called *Brahma-Sūtras*) with the competing commentaries of Śankarācārya and Rāmānuja represents one of the most significant scholarly achievements in bringing Indian philosophy to Western academic audiences."
-collections: ["spiritual-texts", "classical-literature", "ancient-wisdom"]
+language:
+- English
+- Sanskrit
+genre:
+- Philosophy
+- Religious Literature
+- Translation
+description: |
+  The *Vedānta-Sūtras* are a philosophical text from the classical period of Indian intellectual discourse, synthesizing the metaphysical insights of the Upaniṣads into a systematic philosophical framework during the 3rd-4th century CE. Attributed to the sage Bādarāyaṇa, the text articulates the philosophical foundations of Vedānta, one of the six orthodox schools of Hindu philosophical thought. By organizing and interpreting the mystical teachings of earlier Vedic texts, the *Vedānta-Sūtras* provide a philosophical investigation into the nature of ultimate reality, divine consciousness, and the relationship between individual and cosmic existence. The subsequent commentaries by Śankarācārya and Rāmānuja illustrate the intellectual diversity within Hinduism, presenting distinct interpretations of the original aphorisms. Śankarācārya's non-dualist (Advaita) perspective argues for the unity of individual consciousness with the universal Brahman, while Rāmānuja's qualified non-dualist (Viśiṣṭādvaita) approach offers a more complex understanding of divine-human interconnectedness. George Thibaut's English translation, completed in 1890, represents a significant moment in cross-cultural philosophical transmission, introducing these metaphysical debates to Western academic audiences. The text is important for its rigorous philosophical methodology, exploration of consciousness and ultimate reality, and its influence on subsequent Hindu philosophical and theological discourse, demonstrating the complex intellectual traditions of classical Indian philosophy.
+collections:
+- spiritual-texts
+- classical-literature
+- ancient-wisdom
 sources:
-  - name: "Project Gutenberg (Śankarācārya commentary)"
-    url: "https://www.gutenberg.org/ebooks/16295"
-    type: "other"
-  - name: "Project Gutenberg (Rāmānuja commentary)"
-    url: "https://www.gutenberg.org/ebooks/7297"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/vedntasutrastr03badauoft"
-    type: "other"
+- name: 'Project Gutenberg (Śankarācārya commentary)'
+  url: https://www.gutenberg.org/ebooks/16295
+  type: other
+- name: 'Project Gutenberg (Rāmānuja commentary)'
+  url: https://www.gutenberg.org/ebooks/7297
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/vedntasutrastr03badauoft
+  type: other
 references:
-  - name: "Wikipedia: George Thibaut"
-    url: "https://en.wikipedia.org/wiki/George_Thibaut"
-    type: "wikipedia"
-  - name: "Wikipedia: Adi Shankara"
-    url: "https://en.wikipedia.org/wiki/Adi_Shankara"
-    type: "wikipedia"
-  - name: "Open Library: The Vedanta Sutras"
-    url: "https://openlibrary.org/search?q=The+Vedanta+Sutras&mode=everything"
-    type: "other"
+- name: 'Wikipedia: George Thibaut'
+  url: https://en.wikipedia.org/wiki/George_Thibaut
+  type: wikipedia
+- name: 'Wikipedia: Adi Shankara'
+  url: https://en.wikipedia.org/wiki/Adi_Shankara
+  type: wikipedia
+- name: 'Open Library: The Vedanta Sutras'
+  url: https://openlibrary.org/search?q=The+Vedanta+Sutras&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-04
-tags: ["Vedanta", "Brahma Sutras", "Shankaracharya", "Ramanuja", "George Thibaut", "Advaita Vedanta", "Vishishtadvaita", "Hindu philosophy", "Upanishads", "Sacred Books of the East", "Indian philosophy", "non-dualism", "Max Müller"]
 ---
 
 # The Vedānta-Sūtras with Commentaries by Śankarācārya and Rāmānuja

@@ -1,25 +1,30 @@
 ---
-title: "South Indian Images of Gods and Goddesses"
-author: ["Hirananda Krishna Sastri"]
+title: 'South Indian Images of Gods and Goddesses'
+author:
+- Hirananda Krishna Sastri
 year: 1916
-language: ["English"]
-genre: ["Art History", "Archaeology"]
-description: "Published in 1916 by the Madras Government Museum, this study represents early systematic documentation of South Indian Hindu iconography by H. Krishna Sastri, one of the Archaeological Survey of India's most accomplished epigraphists and archaeologists."
-collections: ['spiritual-texts']
+language:
+- English
+genre:
+- Art History
+- Archaeology
+description: |
+  Published in 1916 by the Madras Government Museum during the late British colonial period, H. Krishna Sastri's seminal work "South Indian Images of Gods and Goddesses" represents a groundbreaking scholarly examination of Hindu iconographic traditions in South India. As a distinguished epigraphist and archaeologist with the Archaeological Survey of India, Sastri systematically documented and analyzed the complex visual representations of divine figures within the region's rich temple traditions. The work emerges at a critical historical moment when indigenous scholars were actively reinterpreting cultural heritage amid colonial scholarly frameworks, offering a nuanced scholarly perspective that synthesized traditional knowledge with emerging archaeological methodologies. Sastri's comprehensive study meticulously catalogues sculptural representations of Hindu deities, exploring their symbolic significance, stylistic variations, and cultural contextual meanings across different South Indian temple complexes. By detailing iconographic conventions, sculptural techniques, and philosophical underpinnings of divine imagery, the text provides crucial insights into the theological and artistic sophistication of South Indian Hindu religious visual culture. The work's scholarly approach was particularly significant in challenging simplistic colonial interpretations of Indian religious art, presenting a deeply informed indigenous analysis that emphasized the intellectual and aesthetic complexity of temple sculpture. Beyond its immediate archaeological value, the text serves as a critical documentation of cultural memory, preserving intricate details of religious iconography during a period of significant social and political transformation in early 20th-century India. Sastri's methodological rigor and comprehensive documentation established foundational frameworks for subsequent scholarly research in Indian art history, religious studies, and archaeological interpretation.
+collections:
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/southindianimage00krisuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/southindianimage00krisuoft
+  type: other
 references:
-  - name: "Wikipedia: H. Krishna Sastri"
-    url: "https://en.wikipedia.org/wiki/H._Krishna_Sastri"
-    type: "wikipedia"
-  - name: "Open Library: South Indian Images of"
-    url: "https://openlibrary.org/search?q=South+Indian+Images+of+Gods+and+Hirananda+Krishna+Sastri"
-    type: "other"
+- name: 'Wikipedia: H. Krishna Sastri'
+  url: https://en.wikipedia.org/wiki/H._Krishna_Sastri
+  type: wikipedia
+- name: 'Open Library: South Indian Images of'
+  url: https://openlibrary.org/search?q=South+Indian+Images+of+Gods+and+Hirananda+Krishna+Sastri
+  type: other
 featured: true
 publishDate: 2025-10-30
-tags: ['historical-texts']
 ---
 
 # South Indian Images of Gods and Goddesses

@@ -1,28 +1,33 @@
 ---
-title: "The Natural History of the Mammalia of India and Ceylon"
-author: ["R. A. Sterndale"]
+title: 'The Natural History of the Mammalia of India and Ceylon'
+author:
+- R. A. Sterndale
 year: 1884
-language: ["English"]
-genre: ["Historical Literature", "Scientific Literature"]
-description: "The Natural History of the Mammalia of India and Ceylon by R. Sterndale (1884) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage. Digitally preserved and freely available for research, education, and cultural appreciation."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Historical Literature
+- Scientific Literature
+description: |
+  R. A. Sterndale's "The Natural History of the Mammalia of India and Ceylon" represents a pivotal scholarly documentation of zoological knowledge during the British colonial period in India, capturing a critical moment of scientific observation and imperial natural history research. Published in 1884 during the height of the British Raj, this comprehensive work synthesizes systematic zoological documentation of mammalian species across the Indian subcontinent, reflecting both scientific inquiry and colonial taxonomic practices. Sterndale, likely a British naturalist and colonial administrator, meticulously catalogued and described indigenous mammalian species, providing detailed observations of their physical characteristics, habitats, behavioral patterns, and ecological interactions. The work is significant not merely as a scientific text, but as a critical anthropological and environmental document that reveals the intellectual frameworks and scientific methodologies of late 19th-century colonial scholarship. By systematically documenting India's diverse mammalian fauna, Sterndale contributed to emerging disciplines of zoology, ecology, and comparative biology, while simultaneously producing a nuanced record of the subcontinent's rich biodiversity. The text serves as an important historical resource for understanding both scientific classification methods of the era and the complex interactions between European scientific knowledge production and indigenous natural environments. For contemporary researchers in environmental history, colonial studies, and biological sciences, Sterndale's work provides invaluable insights into the intellectual landscapes of late 19th-century India, offering a detailed ethnographic and zoological snapshot of a transformative historical period. This digitally preserved document remains a crucial reference for understanding the intersections of colonial scholarship, scientific documentation, and natural history research.
+collections:
+- modern-literature
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/19550"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/naturalhistoryof00ster"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/19550
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/naturalhistoryof00ster
+  type: other
 references:
-  - name: "Wikipedia: Robert Armitage Sterndale"
-    url: "https://en.wikipedia.org/wiki/Robert_Armitage_Sterndale"
-    type: "wikipedia"
-  - name: "Open Library: The Natural History of"
-    url: "https://openlibrary.org/search?q=The+Natural+History+of+the+Mammalia+R+A+Sterndale"
-    type: "other"
+- name: 'Wikipedia: Robert Armitage Sterndale'
+  url: https://en.wikipedia.org/wiki/Robert_Armitage_Sterndale
+  type: wikipedia
+- name: 'Open Library: The Natural History of'
+  url: https://openlibrary.org/search?q=The+Natural+History+of+the+Mammalia+R+A+Sterndale
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 # The Natural History of the Mammalia of India and Ceylon

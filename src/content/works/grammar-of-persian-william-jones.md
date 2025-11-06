@@ -1,31 +1,39 @@
 ---
-title: "A Grammar of the Persian Language"
-author: ["Sir William Jones"]
+title: 'A Grammar of the Persian Language'
+author:
+- Sir William Jones
 year: 1804
-language: ["English", "Persian"]
-genre: ["Grammar", "Language Learning", "Linguistics"]
-description: "Sir William Jones' grammar of Persian, published posthumously in 1804 (first edition 1771), represents one of the foundational works of modern Oriental philology. The 236-page work systematically describes Persian grammatical structure for English-speaking learners, demonstrating the scholarly rigor Jones brought to language study."
-collections: ['ancient-wisdom', 'modern-literature']
+language:
+- English
+- Persian
+genre:
+- Grammar
+- Language Learning
+- Linguistics
+description: |
+  Sir William Jones' seminal work, "A Grammar of the Persian Language," published posthumously in 1804, represents a critical scholarly intervention in Oriental linguistics during the early British colonial period in India. As a pioneering philologist and judge of the Calcutta Supreme Court, Jones developed this comprehensive grammatical treatise through extensive research conducted during his tenure with the Bengal Asiatic Society. The 236-page volume systematically deconstructs Persian grammatical structure, providing English-speaking scholars and administrators a rigorous methodological approach to understanding a language central to diplomatic, literary, and administrative communications across the Indian subcontinent. Jones' work emerged from his profound linguistic expertise and deep engagement with Indo-Persian cultural traditions, reflecting the intellectual cross-pollination characteristic of late 18th-century colonial scholarly exchanges. By meticulously documenting Persian grammatical principles, conjugations, and syntactical nuances, Jones not only facilitated linguistic comprehension but also contributed to broader scholarly understanding of cultural interconnections between Persian, Sanskrit, and Indo-Islamic textual traditions. His grammatical analysis served multiple purposes: enabling colonial administrative communication, supporting scholarly research, and providing a foundational text for comparative linguistic studies. The grammar's significance extends beyond mere linguistic documentation, representing an early example of systematic linguistic scholarship that would profoundly influence subsequent Oriental studies. Jones' methodological approach demonstrated rigorous academic discipline, helping establish comparative philology as a serious scholarly discipline and providing critical insights into the rich linguistic heritage of the Indian subcontinent.
+collections:
+- ancient-wisdom
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/grammarofpersian00joneiala"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/grammarofpersian00joneiala
+  type: other
 references:
-  - name: "Wikipedia: William Jones (philologist)"
-    url: "https://en.wikipedia.org/wiki/William_Jones_(philologist)"
-    type: "wikipedia"
-  - name: "Wikisource: Author Page"
-    url: "https://en.wikisource.org/wiki/Author:William_Jones_(1746-1794)"
-    type: "wikisource"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=Grammar+of+the+Persian+Language+William+Jones"
-    type: "other"
-  - name: "Wikidata: William Jones"
-    url: "https://www.wikidata.org/wiki/Q273969"
-    type: "other"
+- name: 'Wikipedia: William Jones (philologist)'
+  url: https://en.wikipedia.org/wiki/William_Jones_(philologist)
+  type: wikipedia
+- name: 'Wikisource: Author Page'
+  url: https://en.wikisource.org/wiki/Author:William_Jones_(1746-1794)
+  type: wikisource
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=Grammar+of+the+Persian+Language+William+Jones
+  type: other
+- name: 'Wikidata: William Jones'
+  url: https://www.wikidata.org/wiki/Q273969
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["William Jones", "Persian Language", "Grammar", "Linguistics", "Asiatic Society", "18th Century", "Oriental Studies", "Philology", "Indo-Persian", "Language Studies"]
 ---
 
 # A Grammar of the Persian Language

@@ -1,25 +1,30 @@
 ---
-title: "Literary History of Ancient India, in Relation to its Racial and Linguistic Affiliations"
-author: ["Chandra Chakraberty"]
+title: 'Literary History of Ancient India, in Relation to its Racial and Linguistic Affiliations'
+author:
+- Chandra Chakraberty
 year: 1920
-language: ["English"]
-genre: ["Academic Literature", "Historical Literature", "Literary Criticism"]
-description: "Literary History of Ancient India, in Relation to its Racial and Linguistic Affiliations by Chandra Chakraberty (c. 1920) - A comprehensive scholarly examination of ancient Indian literature within the broader context of racial and linguistic development. This important early 20th-century work at..."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Academic Literature
+- Historical Literature
+- Literary Criticism
+description: |
+  Literary History of Ancient India, in Relation to its Racial and Linguistic Affiliations represents a critical scholarly intervention in early 20th-century Indian intellectual discourse, examining the complex interconnections between literary production, racial dynamics, and linguistic evolution in the subcontinent. Published during the late colonial period, Chakraberty's work emerges at a pivotal moment when Indian scholars were systematically reconstructing indigenous intellectual histories and challenging Eurocentric interpretations of cultural development. The text meticulously traces the intricate relationships between linguistic communities, literary traditions, and racial migrations, providing a nuanced archaeological approach to understanding ancient Indian textual landscapes. Chakraberty explores how literary forms emerged from and simultaneously shaped social configurations, examining language families, migration patterns, and cultural exchanges across the Indian subcontinent from the Vedic period through classical Sanskrit traditions. His methodology integrates comparative linguistics, archaeological evidence, and textual analysis to demonstrate how literary expressions reflect deeper anthropological and sociological transformations. Particularly noteworthy is the work's sophisticated examination of how racial and linguistic diversities contributed to the rich, multifaceted literary heritage of ancient India, challenging simplistic narratives of cultural homogeneity. By interrogating the complex genealogies of literary production, Chakraberty offers scholars a sophisticated framework for understanding the dynamic, interconnected nature of Indian cultural formations. The text remains a significant scholarly contribution, bridging early 20th-century nationalist intellectual movements with rigorous academic research in linguistics, literature, and cultural history, and providing critical insights into the intellectual genealogies of the Indian subcontinent.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive (University of Toronto)"
-    url: "https://archive.org/details/literaryhistoryo00chakuoft/page/n3/mode/2up"
-    type: "other"
-  - name: "Open Library"
-    url: "https://openlibrary.org/works/OL44339W/Literary_history_of_ancient_India_in_relation_to_its_racial_and_linguistic_affiliations?edition=key%3A/books/OL23315396M"
-    type: "other"
-  - name: "WorldCat"
-    url: "https://search.worldcat.org/title/697986606"
-    type: "other"
-references: []
+- name: 'Internet Archive (University of Toronto)'
+  url: https://archive.org/details/literaryhistoryo00chakuoft/page/n3/mode/2up
+  type: other
+- name: 'Open Library'
+  url: https://openlibrary.org/works/OL44339W/Literary_history_of_ancient_India_in_relation_to_its_racial_and_linguistic_affiliations?edition=key%3A/books/OL23315396M
+  type: other
+- name: 'WorldCat'
+  url: https://search.worldcat.org/title/697986606
+  type: other
 featured: false
 publishDate: 2025-09-28
-tags: ["Chandra Chakraberty", "Literary history", "Ancient India", "Indian literature", "Linguistics", "Historical linguistics", "Ethnography", "Sanskrit literature", "Racial studies", "Cultural synthesis", "Academic scholarship", "Early 20th century", "Colonial scholarship"]
 ---
 
 # Literary History of Ancient India, in Relation to its Racial and Linguistic Affiliations

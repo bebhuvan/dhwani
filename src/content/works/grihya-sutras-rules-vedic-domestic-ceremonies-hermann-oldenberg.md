@@ -1,25 +1,35 @@
 ---
-title: "The Grihya-sûtras: Rules of Vedic Domestic Ceremonies"
-author: ["Unknown", "Hermann Oldenberg"]
+title: 'The Grihya-sûtras: Rules of Vedic Domestic Ceremonies'
+author:
+- Unknown
+- Hermann Oldenberg
 year: 1886
-language: ["Sanskrit", "English"]
-genre: ["Religious Studies", "Ancient Literature", "Philosophy"]
-description: "Hermann Oldenberg's scholarly translation of the Grihya-sutras, ancient Hindu texts detailing domestic and ritual practices. This comprehensive work makes Vedic ceremonial guidelines accessible to modern readers, providing insights into the traditional practices that shaped Hindu household religious life for millennia."
-collections: ['ancient-wisdom', 'spiritual-texts', 'classical-literature']
+language:
+- Sanskrit
+- English
+genre:
+- Religious Studies
+- Ancient Literature
+- Philosophy
+description: |
+  Hermann Oldenberg's scholarly translation of the Grihya-sutras provides a detailed analysis of Vedic domestic religious practices during the late Vedic Brahmanic period (600-300 BCE). These texts represent a critical phase in the systematization of household religious ceremonies, documenting the transition of oral traditions into structured textual frameworks that significantly influenced subsequent Hindu ritual practices. Composed during a period of increasing ritualistic codification, the Grihya-sutras outline comprehensive guidelines for domestic religious protocols, including marriage rites, birth ceremonies, educational initiations, and seasonal sacrificial observances that structured social and spiritual life in early Indian societies. As a prominent German Indologist associated with the Berlin School of Indological Studies, Oldenberg applied rigorous philological methodology to translate and annotate Sanskrit manuscripts, making these complex ritual prescriptions accessible to Western academic audiences. His work provides substantive documentation of the philosophical and ceremonial infrastructures underlying Vedic social organization, offering scholars critical insights into the intricate relationship between domestic practices and broader cultural systems. By translating these sutras into German and subsequently English, Oldenberg facilitated cross-cultural academic dialogue about Indian ritual epistemologies and bridged significant hermeneutical gaps between European academic traditions and indigenous Indian knowledge systems. The translation serves as an important scholarly resource for understanding the philosophical, social, and spiritual structures that characterized classical Indian civilization, particularly the complex interactions between ritual practices and social configurations in Vedic society.
+collections:
+- ancient-wisdom
+- spiritual-texts
+- classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/grihyastrasrul01oldeuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/grihyastrasrul01oldeuoft
+  type: other
 references:
-  - name: "Wikipedia: Hermann Oldenberg"
-    url: "https://en.wikipedia.org/wiki/Hermann_Oldenberg"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=The+Grihya-s%C3%BBtras&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Hermann Oldenberg'
+  url: https://en.wikipedia.org/wiki/Hermann_Oldenberg
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=The+Grihya-s%C3%BBtras&mode=everything
+  type: other
 featured: false
 publishDate: 2025-09-28
-tags: ["Grihya-sutras", "Vedic Rituals", "Hermann Oldenberg", "Domestic Ceremonies", "Hindu Traditions", "Sanskrit Literature", "Sacred Books of the East", "Religious Practices", "Vedic Studies", "Ancient Texts", "Household Rituals"]
 ---
 
 # The Grihya-sûtras: Rules of Vedic Domestic Ceremonies

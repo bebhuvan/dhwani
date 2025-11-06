@@ -1,25 +1,32 @@
 ---
-title: "Raja Yoga"
-author: ["Swami Vivekananda"]
+title: 'Raja Yoga'
+author:
+- Swami Vivekananda
 year: 1896
-language: ["English"]
-genre: ["Philosophy", "Spiritual Literature", "Yoga Studies"]
-description: "Swami Vivekananda's seminal interpretation of Patanjali's Yoga Sutras, establishing the modern understanding of Raja Yoga as mental discipline and meditation. This groundbreaking work synthesized ancient Sanskrit teachings with accessible Western presentation, fundamentally transforming how yoga philosophy is understood globally and elevating Hinduism to recognition as a major world religion."
-collections: ['modern-literature', 'spiritual-texts']
+language:
+- English
+genre:
+- Philosophy
+- Spiritual Literature
+- Yoga Studies
+description: |
+  During the late 19th century, a transformative period of intellectual and cultural reconfiguration under British colonial rule, Swami Vivekananda's Raja Yoga emerged as a landmark philosophical text that critically reinterpreted classical Indian spiritual knowledge for a global audience. Born Narendranath Datta in Kolkata in 1863, Vivekananda was a direct disciple of Ramakrishna Paramahansa and became a pivotal intellectual figure who introduced Vedantic philosophy and yoga principles to Western intellectual circles. Published in 1896, following his revolutionary address at the World Parliament of Religions in Chicago, the work represents a sophisticated scholarly translation of Patanjali's ancient Yoga Sutras, presenting a systematic philosophical framework of mental discipline, meditation, and spiritual consciousness. Vivekananda's text meticulously deconstructs yoga from its mystical origins, presenting it as a rigorous psychological and philosophical system of self-realization rather than merely a physical practice. By employing precise analytical language and drawing parallels with contemporary Western psychological concepts, he bridged Eastern metaphysical traditions with emerging scientific methodologies. The work significantly contributed to repositioning Hinduism as a sophisticated philosophical tradition, challenging prevailing colonial-era perceptions of Indian spiritual thought as primitive or mystical. Raja Yoga's profound impact extended beyond immediate scholarly circles, playing a crucial role in the broader Indian cultural renaissance by providing an intellectual articulation of spiritual practices that resonated with both traditional practitioners and modern, rationalist thinkers. Vivekananda's nuanced interpretation fundamentally transformed global understanding of yoga, establishing it as a comprehensive system of mental and spiritual development with profound philosophical depth.
+collections:
+- modern-literature
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/rajayoga00vive"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/rajayoga00vive
+  type: other
 references:
-  - name: "Wikisource"
-    url: "https://en.wikisource.org/wiki/Raja_Yoga"
-    type: "wikisource"
-  - name: "Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Raja_Yoga"
-    type: "other"
+- name: 'Wikisource'
+  url: https://en.wikisource.org/wiki/Raja_Yoga
+  type: wikisource
+- name: 'Wikipedia'
+  url: https://en.wikipedia.org/wiki/Raja_Yoga
+  type: other
 featured: false
 publishDate: 2025-09-28
-tags: ["Swami Vivekananda", "Raja Yoga", "Patanjali", "Yoga Sutras", "Hindu Philosophy", "Meditation", "Spiritual Practice", "Vedanta", "Modern Hinduism", "East-West Synthesis", "Mental Discipline"]
 ---
 
 ## Historical Context and Publication

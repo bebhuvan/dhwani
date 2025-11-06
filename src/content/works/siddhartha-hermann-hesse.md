@@ -1,31 +1,40 @@
 ---
-title: "Siddhartha"
-author: ["Hermann Hesse"]
+title: 'Siddhartha'
+author:
+- Hermann Hesse
 year: 1922
-language: ["English", "German"]
-genre: ["Philosophical Literature", "Spiritual Literature", "Modern Literature"]
-description: "Siddhartha by Hermann Hesse (1922) - A profound spiritual novel exploring the journey of self-discovery and enlightenment. Set in ancient India during the time of the Buddha, this timeless work follows a young Brahmin's quest for spiritual fulfillment, blending Eastern philosophy with Western literary sensibility to create one of the most influential spiritual novels of the 20th century."
-collections: ['spiritual-texts']
+language:
+- English
+- German
+genre:
+- Philosophical Literature
+- Spiritual Literature
+- Modern Literature
+description: |
+  Here's the cleaned scholarly description:
+  
+  Hermann Hesse's "Siddhartha" is a philosophical novel composed in 1922, situated within the historical context of Gautama Buddha's emergence. The text explores spiritual transformation through a narrative following Siddhartha, a young Brahmin who abandons traditional societal trajectories to undertake a comprehensive existential investigation. Hesse synthesizes Eastern philosophical traditions—particularly Buddhism and Hinduism—with Western modernist literary techniques, examining fundamental philosophical concepts like dharma, karma, and moksha through lived experiential perspectives. The novel critically engages with spiritual quest narratives prevalent in Sanskrit literature, tracing the protagonist's progression through episodic encounters with ascetics, merchants, lovers, and spiritual instructors. By documenting Siddhartha's individualistic path to understanding, Hesse presents a nuanced critique of institutional religious practices and emphasizes personal experience as a mechanism of philosophical and spiritual comprehension. The work's scholarly significance emerges from its sophisticated cross-cultural dialogue, introducing Western readers to complex Indian philosophical constructs while simultaneously interrogating both Eastern and Western approaches to spiritual understanding. Through careful narrative construction, Hesse demonstrates how spiritual seeking represents a non-linear, deeply personal process of internal evolution, challenging contemporary conceptualizations of religious and philosophical development.
+collections:
+- spiritual-texts
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/2500"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/hermann-hesse_siddhartha_gunther-olesch_anke-dreher_amy-coulter_stefan-langer_semyon-chaichenets"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/2500
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/hermann-hesse_siddhartha_gunther-olesch_anke-dreher_amy-coulter_stefan-langer_semyon-chaichenets
+  type: other
 references:
-  - name: "Wikipedia: Siddhartha (novel)"
-    url: "https://en.wikipedia.org/wiki/Siddhartha_(novel)"
-    type: "wikipedia"
-  - name: "Wikipedia: Hermann Hesse"
-    url: "https://en.wikipedia.org/wiki/Hermann_Hesse"
-    type: "wikipedia"
-  - name: "Open Library: Siddhartha year"
-    url: "https://openlibrary.org/search?q=Siddhartha+year+1922+language+English+German+Hermann+Hesse"
-    type: "other"
+- name: 'Wikipedia: Siddhartha (novel)'
+  url: https://en.wikipedia.org/wiki/Siddhartha_(novel)
+  type: wikipedia
+- name: 'Wikipedia: Hermann Hesse'
+  url: https://en.wikipedia.org/wiki/Hermann_Hesse
+  type: wikipedia
+- name: 'Open Library: Siddhartha year'
+  url: https://openlibrary.org/search?q=Siddhartha+year+1922+language+English+German+Hermann+Hesse
+  type: other
 featured: true
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 # Siddhartha

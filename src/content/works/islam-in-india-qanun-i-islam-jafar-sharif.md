@@ -1,25 +1,30 @@
 ---
-title: "Islam in India, or The Qānūn-i Islām"
-author: ["Ja'far Sharīf", "tr. G.A. Herklots"]
+title: 'Islam in India, or The Qānūn-i Islām'
+author:
+- Ja'far Sharīf
+- tr. G.A. Herklots
 year: 1921
-language: ["English", "Urdu"]
-genre: ["Ethnography", "Religious Studies", "Cultural Studies"]
-description: "The *Qānūn-i Islām* ('The Customs of Islam') is a detailed ethnographic account of Islamic life in 19th-century India. Written by Ja'far Sharīf, an Indian Muslim scholar, and translated by G.A. Herklots, the work documents Muslim religious practices, social customs, and daily life across the Indian subcontinent. It captures the syncretic blend of Islamic and indigenous Indian traditions from birth rituals to death ceremonies."
-collections: ['modern-literature']
+language:
+- English
+- Urdu
+genre:
+- Ethnography
+- Religious Studies
+- Cultural Studies
+description: |
+  The *Qānūn-i Islām* ('The Customs of Islam') is a seminal ethnographic text produced during the late Mughal and early colonial period of India, offering a comprehensive and nuanced exploration of Muslim religious and social practices in the Indian subcontinent during the early 19th century. Authored by Ja'far Sharīf, a Muslim scholar from the Deccan region, and translated by British physician G.A. Herklots, the work represents a remarkable insider's perspective on Islamic cultural life, bridging indigenous knowledge and colonial-era scholarly documentation. The text meticulously details diverse aspects of Muslim social and religious experience, from intricate birth and marriage rituals to complex funeral practices, while simultaneously revealing the syncretic nature of Indian Islamic traditions that had developed through centuries of cultural interaction. Sharīf's work provides critical insights into the lived religious experiences of Muslims across different social strata, documenting practices that blended Islamic prescriptions with local cultural traditions, thus challenging monolithic representations of Islamic practice. The text is particularly valuable for its detailed descriptions of regional variations in religious observance, ceremonial practices, and social customs, offering scholars of Indian cultural history a rare, contemporaneous account of religious life during a period of significant social transformation. By presenting an intimate, nuanced view of Muslim community life, the *Qānūn-i Islām* serves as an essential anthropological and historical resource, illuminating the complex cultural dynamics of pre-colonial and early colonial Indian society and demonstrating the rich, adaptive nature of religious practice in a multicultural context.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/islaminindiaorqa00sharuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/islaminindiaorqa00sharuoft
+  type: other
 references:
-  - name: "Wikipedia: Qanun-e-Islam"
-    url: "https://en.wikipedia.org/wiki/Qanun-e-Islam"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Qanun-i-Islam+Jafar+Sharif&mode=everything"
-    type: "other"
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Qanun-i-Islam+Jafar+Sharif&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-21
-tags: ["Islam in India", "Ja'far Sharif", "Islamic customs", "Indo-Islamic culture", "19th century", "Ethnography", "Muharram", "Sufi traditions", "Religious practices", "Social customs", "Cultural syncretism", "Muslim life", "G.A. Herklots"]
 ---
 
 # Islam in India, or The Qānūn-i Islām

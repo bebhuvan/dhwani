@@ -1,43 +1,51 @@
 ---
-title: "Tukārām Gāthā (Abhangas of Sant Tukaram)"
-author: ["Sant Tukaram"]
+title: 'Tukārām Gāthā (Abhangas of Sant Tukaram)'
+author:
+- Sant Tukaram
 year: 1632
-language: ["Marathi"]
-genre: ["Devotional Poetry", "Religious Literature", "Bhakti Literature"]
-description: "Canonical collection of approximately 4,500 devotional abhangas (hymns) composed 1632-1650 CE by Marathi sant-poet Tukaram Maharaj. Revolutionary vernacular bhakti poetry expressing intimate devotion to Vithoba (Panduranga) through accessible Marathi verse addressing spiritual longing, social critique, and everyday struggles. Epitome of Varkari devotional tradition combining philosophical depth with emotional intensity. Profoundly influenced Marathi culture, social reform movements, and vernacular devotional literature across India."
-collections: ['devotional-poetry', 'religious-texts', 'classical-literature']
+language:
+- Marathi
+genre:
+- Devotional Poetry
+- Religious Literature
+- Bhakti Literature
+description: |
+  The Tukārām Gāthā represents a seminal corpus of approximately 4,500 abhangas (devotional hymns) composed during the vibrant cultural milieu of 17th-century Maharashtra, a period marked by significant social and religious transformation under the Maratha Shahji Bhonsle rule. Sant Tukaram (c. 1608-1649), a low-caste Shudra farmer from Dehu village near Pune, emerged as a pivotal figure in the Varkari bhakti tradition, challenging Brahminical orthodoxies through his radical vernacular poetry. Grounded in the egalitarian spiritual philosophy of Dnyaneshwar and Namdev, Tukaram's abhangas articulate a profound spiritual discourse that transcends caste, class, and social hierarchies, advocating direct, personal devotion to Vithoba (Panduranga) as a path to spiritual liberation. The Gāthā critically examines contemporary social inequities, religious hypocrisy, and existential human struggles through a lyrical, introspective poetic form that renders complex philosophical concepts accessible to ordinary people. Linguistically revolutionary, the work employs colloquial Marathi, transforming literary expression and democratizing spiritual discourse. Tukaram's poetry represents a critical intersection of religious experience, social critique, and linguistic innovation, significantly influencing subsequent Marathi literary and devotional traditions. His work profoundly impacted social reform movements, particularly those challenging caste discrimination, and became a foundational text in Maharashtra's cultural and spiritual landscape, embodying the transformative potential of bhakti philosophy in articulating spiritual and social consciousness.
+collections:
+- devotional-poetry
+- religious-texts
+- classical-literature
 sources:
-  - name: "Internet Archive (Complete Gatha)"
-    url: "https://archive.org/details/in.ernet.dli.2015.331824"
-    type: "other"
-  - name: "Internet Archive (English Translation)"
-    url: "https://archive.org/details/tukaramgatha00tuka"
-    type: "other"
-  - name: "Internet Archive (DLI Collection)"
-    url: "https://archive.org/details/dli.ernet.503119"
-    type: "other"
-  - name: "Internet Archive (Scholarly Edition)"
-    url: "https://archive.org/details/in.ernet.dli.2015.77711"
-    type: "other"
+- name: 'Internet Archive (Complete Gatha)'
+  url: https://archive.org/details/in.ernet.dli.2015.331824
+  type: other
+- name: 'Internet Archive (English Translation)'
+  url: https://archive.org/details/tukaramgatha00tuka
+  type: other
+- name: 'Internet Archive (DLI Collection)'
+  url: https://archive.org/details/dli.ernet.503119
+  type: other
+- name: 'Internet Archive (Scholarly Edition)'
+  url: https://archive.org/details/in.ernet.dli.2015.77711
+  type: other
 references:
-  - name: "Wikipedia: Tukaram"
-    url: "https://en.wikipedia.org/wiki/Tukaram"
-    type: "wikipedia"
-  - name: "Wikipedia: Abhanga"
-    url: "https://en.wikipedia.org/wiki/Abhanga"
-    type: "wikipedia"
-  - name: "Wikipedia: Varkari"
-    url: "https://en.wikipedia.org/wiki/Varkari"
-    type: "wikipedia"
-  - name: "Marathi Wikisource"
-    url: "https://mr.wikisource.org/wiki/तुकाराम_गाथा"
-    type: "wikisource"
-  - name: "OpenLibrary"
-    url: "https://openlibrary.org/search?q=Tukaram+Gatha+Abhanga"
-    type: "other"
+- name: 'Wikipedia: Tukaram'
+  url: https://en.wikipedia.org/wiki/Tukaram
+  type: wikipedia
+- name: 'Wikipedia: Abhanga'
+  url: https://en.wikipedia.org/wiki/Abhanga
+  type: wikipedia
+- name: 'Wikipedia: Varkari'
+  url: https://en.wikipedia.org/wiki/Varkari
+  type: wikipedia
+- name: 'Marathi Wikisource'
+  url: https://mr.wikisource.org/wiki/तुकाराम_गाथा
+  type: wikisource
+- name: 'OpenLibrary'
+  url: https://openlibrary.org/search?q=Tukaram+Gatha+Abhanga
+  type: other
 featured: false
 publishDate: 2025-01-25
-tags: ["Marathi literature", "Sant poetry", "Tukaram", "Bhakti movement", "Abhanga", "Varkari tradition", "Devotional poetry", "17th century", "Social reform", "Vithoba", "Public domain"]
 ---
 
 # Tukārām Gāthā (Abhangas of Sant Tukaram)

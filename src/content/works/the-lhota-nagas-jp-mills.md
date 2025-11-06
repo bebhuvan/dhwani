@@ -1,28 +1,35 @@
 ---
-title: "The Lhota Nagas"
-author: ["J. P. Mills (James Philip Mills)"]
+title: 'The Lhota Nagas'
+author:
+- J. P. Mills (James Philip Mills)
 year: 1922
-language: ["English"]
-genre: ["Ethnography", "Anthropology", "Tribal Studies"]
-description: "Comprehensive ethnographic monograph on the Lhota Naga tribe of Assam, documenting their clan-based exogamous social structure, morung (men's dormitory) system, marriage prohibitions, and village organization. Details religious ceremonies (gennas), head-hunting practices, property inheritance, belief systems regarding deities and spirits, and comprehensive documentation of birth, marriage, divorce, and death rituals."
-collections: ['ethnography', 'tribal-studies']
+language:
+- English
+genre:
+- Ethnography
+- Anthropology
+- Tribal Studies
+description: |
+  Published in 1922 during the late British colonial period, Mills' ethnographic monograph represents a significant scholarly documentation of the Lhota Naga tribe during a transformative moment in Northeast Indian cultural history. As a colonial administrative officer and trained ethnographer stationed in the Naga Hills of Assam, James Philip Mills produced a meticulously detailed scholarly record that provides unprecedented insights into the complex social structures and cultural practices of an Indigenous Naga community at a critical juncture of potential cultural disruption. The work emerges from the broader colonial-era anthropological project of systematically documenting Indigenous societies before rapid socio-cultural transformations, yet distinguishes itself through Mills' remarkably comprehensive and nuanced approach to understanding Lhota Naga life. The monograph offers extensive documentation of the tribe's intricate clan-based exogamous social organization, including the distinctive morung (communal male dormitory) system, marriage prohibitions, village governance structures, and elaborate ritual practices. Of particular scholarly significance are Mills' detailed accounts of religious ceremonies (gennas), traditional head-hunting practices, property inheritance systems, and comprehensive documentation of life-cycle rituals encompassing birth, marriage, divorce, and death. Beyond mere descriptive ethnography, the work provides crucial anthropological insights into Indigenous belief systems, spiritual cosmologies, and social mechanisms of cultural reproduction during a period of intense external colonial pressures. Mills' scholarship represents an important contribution to understanding the complex cultural dynamics of Northeast Indian tribal societies, preserving invaluable ethnographic knowledge that might otherwise have been lost to historical transformation.
+collections:
+- ethnography
+- tribal-studies
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/lhotanagas00mill"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/lhotanagas00mill
+  type: other
 references:
-  - name: "Wikipedia: Naga people"
-    url: "https://en.wikipedia.org/wiki/Naga_people"
-    type: "wikipedia"
-  - name: "Wikipedia: J. P. Mills"
-    url: "https://en.wikipedia.org/wiki/J._P._Mills"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Lhota+Nagas+Mills&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Naga people'
+  url: https://en.wikipedia.org/wiki/Naga_people
+  type: wikipedia
+- name: 'Wikipedia: J. P. Mills'
+  url: https://en.wikipedia.org/wiki/J._P._Mills
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Lhota+Nagas+Mills&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Lhota Nagas", "J. P. Mills", "Assam ethnography", "Tribal studies", "Northeast India", "Anthropology", "1920s", "Naga tribes", "Morung system", "Head-hunting", "Clan structure", "Colonial ethnography"]
 ---
 
 # The Lhota Nagas

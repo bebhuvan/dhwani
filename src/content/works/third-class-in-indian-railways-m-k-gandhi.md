@@ -1,31 +1,35 @@
 ---
-title: "Third Class in Indian Railways"
-author: ["M. K. Gandhi"]
+title: 'Third Class in Indian Railways'
+author:
+- M. K. Gandhi
 year: 1917
-language: ["English"]
-genre: ["Political Literature"]
-description: "Gandhi's exposé of appalling conditions in third-class railway carriages experienced by ordinary Indians. This social critique highlighted discrimination and discomfort faced by common travelers, advocating for improved facilities and dignified treatment."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Political Literature
+description: |
+  During the late colonial period of British India, when systemic social and infrastructural inequalities profoundly shaped everyday experiences of marginalized populations, Mahatma Gandhi's seminal 1917 treatise "Third Class in Indian Railways" emerged as a critical sociopolitical analysis of transportation infrastructure and colonial discrimination. Written during the intensifying Indian independence movement, this work meticulously documented the lived experiences of ordinary Indians traveling in third-class railway compartments, revealing the structural violence and dehumanizing conditions embedded within colonial administrative systems. Gandhi's text transcended mere descriptive criticism, functioning as a sophisticated strategy of exposing institutional discrimination through nuanced empirical observation and ethical documentation. By systematically detailing the appalling physical conditions—overcrowding, unsanitary environments, inadequate ventilation, and systematic marginalization—Gandhi constructed a powerful narrative challenging colonial governance's fundamental assumptions about human dignity and civic rights. The work represented more than a transportation critique; it symbolized broader anticolonial resistance, demonstrating how seemingly mundane infrastructural experiences could illuminate profound systemic inequalities. Gandhi's methodical documentation connected individual suffering with collective political consciousness, making this text a crucial artifact in understanding early 20th-century Indian social movements. Moreover, the work exemplified Gandhi's emerging methodological approach of using granular, lived experiences as instruments of political critique and social transformation, prefiguring his later strategies of nonviolent resistance and institutional challenge. As a literary and sociopolitical document, "Third Class in Indian Railways" remains a significant scholarly resource for understanding colonial power dynamics, infrastructural marginalization, and the intellectual genealogy of Indian independence movements.
+collections:
+- modern-literature
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/24461"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/thirdclassinindi00gandrich"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/24461
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/thirdclassinindi00gandrich
+  type: other
 references:
-  - name: "Wikisource"
-    url: "https://en.wikisource.org/wiki/Third_Class_in_Indian_Railways/Third_Class_in_Indian_Railways"
-    type: "wikisource"
-  - name: "Wikipedia: Mahatma Gandhi"
-    url: "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
-    type: "wikipedia"
-  - name: "Open Library: Third Class in Indian"
-    url: "https://openlibrary.org/search?q=Third+Class+in+Indian+Railways+year+M+K+Gandhi"
-    type: "other"
+- name: 'Wikisource'
+  url: https://en.wikisource.org/wiki/Third_Class_in_Indian_Railways/Third_Class_in_Indian_Railways
+  type: wikisource
+- name: 'Wikipedia: Mahatma Gandhi'
+  url: https://en.wikipedia.org/wiki/Mahatma_Gandhi
+  type: wikipedia
+- name: 'Open Library: Third Class in Indian'
+  url: https://openlibrary.org/search?q=Third+Class+in+Indian+Railways+year+M+K+Gandhi
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 ## Historical Context and Composition

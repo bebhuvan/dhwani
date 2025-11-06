@@ -1,43 +1,53 @@
 ---
-title: "Āndhra Mahābhāratamu (The Telugu Mahabharata)"
-author: ["Nannaya Bhattaraka"]
+title: 'Āndhra Mahābhāratamu (The Telugu Mahabharata)'
+author:
+- Nannaya Bhattaraka
 year: 1025
-language: ["Telugu", "Sanskrit"]
-genre: ["Epic Poetry", "Classical Literature", "Religious Literature"]
-description: "First literary work in Telugu language, composed circa 1025-1061 CE by court poet Nannaya Bhattaraka under Rajaraja Narendra's patronage. Renders first two-and-half parvas of Sanskrit Mahabharata into classical Telugu poetry using champu style mixing verse and prose. Established literary Telugu (grandhika) distinct from spoken dialects, founding Telugu literary tradition that flourished for millennium. Nannaya known as Adi Kavi (First Poet) of Telugu literature."
-collections: ['classical-literature', 'epic-poetry', 'regional-literature']
+language:
+- Telugu
+- Sanskrit
+genre:
+- Epic Poetry
+- Classical Literature
+- Religious Literature
+description: |
+  Āndhra Mahābhāratamu represents a seminal watershed in Telugu literary history, composed during the early 11th century under the Eastern Chalukya dynasty's cultural patronage. Authored by Nannaya Bhattaraka, court poet to King Rajaraja Narendra, this pioneering text represents the first sustained literary translation and interpretation of the Sanskrit Mahabharata into the Telugu language. Employing the sophisticated champu style—which ingeniously interweaves metrical verse (padya) and rhythmic prose (gadya)—Nannaya transformed the epic's classical Sanskrit narrative into an accessible, aesthetically refined Telugu linguistic framework.
+  
+  Beyond its literal translation, the work fundamentally established the grammatical and stylistic foundations of classical Telugu literature, distinguishing the written (grandhika) form from contemporary spoken dialects. Nannaya's meticulous linguistic engineering simultaneously standardized Telugu as a sophisticated literary language and created a template for subsequent generations of poets and scholars. His translation was not merely linguistic transposition but a nuanced cultural interpretation, embedding philosophical, ethical, and social perspectives from the original Sanskrit text into the Telugu sociocultural context.
+  
+  The text's significance extends beyond literary innovation, serving as a critical bridge between Sanskrit brahmanical textual traditions and emerging regional vernacular expressions. By rendering the Mahabharata's complex philosophical and narrative dimensions into Telugu, Nannaya facilitated broader cultural transmission and democratized access to this foundational Hindu epic. Consequently, he earned the honorific "Adi Kavi" (First Poet), marking a transformative moment in South Indian literary and intellectual history that would influence regional linguistic and cultural developments for centuries.
+collections:
+- classical-literature
+- epic-poetry
+- regional-literature
 sources:
-  - name: "Internet Archive (Nannaya Bhagavatam)"
-    url: "https://archive.org/details/in.ernet.dli.2015.458907"
-    type: "other"
-  - name: "Internet Archive (Complete Telugu Edition)"
-    url: "https://archive.org/details/Nannayya.Andhra.Mahabharatam"
-    type: "other"
-  - name: "Internet Archive (DLI Collection)"
-    url: "https://archive.org/details/in.ernet.dli.2015.35265"
-    type: "other"
-  - name: "Internet Archive (Scholarly Edition)"
-    url: "https://archive.org/details/dli.ministry.19231"
-    type: "other"
+- name: 'Internet Archive (Nannaya Bhagavatam)'
+  url: https://archive.org/details/in.ernet.dli.2015.458907
+  type: other
+- name: 'Internet Archive (Adi Parvamu Edition)'
+  url: https://archive.org/details/andhramahabarath025871mbp
+  type: other
+- name: 'Internet Archive (DLI Collection)'
+  url: https://archive.org/details/in.ernet.dli.2015.35265
+  type: other
+- name: 'Internet Archive (Scholarly Edition)'
+  url: https://archive.org/details/dli.ministry.19231
+  type: other
 references:
-  - name: "Wikipedia: Nannaya"
-    url: "https://en.wikipedia.org/wiki/Nannaya"
-    type: "wikipedia"
-  - name: "Wikipedia: Telugu Mahabharatam"
-    url: "https://en.wikipedia.org/wiki/Telugu_Mahabharatam"
-    type: "wikipedia"
-  - name: "Wikipedia: Telugu literature"
-    url: "https://en.wikipedia.org/wiki/Telugu_literature"
-    type: "wikipedia"
-  - name: "Telugu Wikisource"
-    url: "https://te.wikisource.org/wiki/ఆంధ్ర_మహాభారతము"
-    type: "wikisource"
-  - name: "OpenLibrary"
-    url: "https://openlibrary.org/search?q=Nannaya+Mahabharatam+Telugu"
-    type: "other"
+- name: 'Wikipedia: Nannaya'
+  url: https://en.wikipedia.org/wiki/Nannaya
+  type: wikipedia
+- name: 'Wikipedia: Andhra Mahabharatam'
+  url: https://en.wikipedia.org/wiki/Andhra_Mahabharatam
+  type: wikipedia
+- name: 'Wikipedia: Telugu literature'
+  url: https://en.wikipedia.org/wiki/Telugu_literature
+  type: wikipedia
+- name: 'OpenLibrary'
+  url: https://openlibrary.org/search?q=Nannaya+Mahabharatam+Telugu
+  type: other
 featured: false
 publishDate: 2025-01-25
-tags: ["Telugu literature", "Mahabharata", "Epic poetry", "Nannaya", "Classical Telugu", "Adi Kavi", "Eastern Chalukyas", "Regional literature", "Medieval India", "Kavya poetry", "Public domain"]
 ---
 
 # Āndhra Mahābhāratamu (The Telugu Mahabharata)

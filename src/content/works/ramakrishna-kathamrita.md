@@ -1,34 +1,27 @@
 ---
-title: Sri Ramakrishna Kathamrita
+title: 'Sri Ramakrishna Kathamrita'
 author:
-  - Mahendranath Gupta (M)
+- Mahendranath Gupta (M)
 year: 1902
 language:
-  - Bengali
-  - English
+- Bengali
+- English
 genre:
-  - Religious Literature
-  - Biography
-  - Spiritual Teachings
-  - Philosophy
-description: >-
-  Bengali spiritual classic recording conversations and teachings of Sri
-  Ramakrishna Paramahamsa, documented by disciple Mahendranath Gupta (pen name
-  M) between 1882-1886. Published in five volumes 1902-1932, provides intimate
-  portrait of 19th-century Bengali mystic whose teachings emphasized harmony of
-  religions, direct mystical experience, and devotion transcending sectarian
-  boundaries. Foundational text of Ramakrishna-Vivekananda movement, profoundly
-  influencing modern Hindu spirituality, interfaith dialogue, and Indian
-  spiritual renaissance. Comparable to Gospels in providing detailed record of
-  master's life and teachings.
+- Religious Literature
+- Biography
+- Spiritual Teachings
+- Philosophy
+description: |
+  Sri Ramakrishna Kathamrita represents a seminal documentary account of the spiritual teachings of Sri Ramakrishna Paramahamsa, meticulously recorded by his disciple Mahendranath Gupta (pseudonym M) during the critical period of 1882-1886. Situated within the transformative landscape of the Bengal Renaissance, this work emerges as a profound intellectual and spiritual testament to a society negotiating complex dynamics of colonial modernity and indigenous philosophical regeneration. Mahendranath Gupta, a respected schoolmaster and intimate disciple, captured verbatim conversations that illuminated Ramakrishna's revolutionary spiritual philosophy, which transcended conventional religious boundaries and emphasized universal spiritual experience. The text documents Ramakrishna's radical approach to religious pluralism, mystical consciousness, and devotional practices, presenting a nuanced narrative that challenged both colonial epistemological frameworks and orthodox Hindu sectarian interpretations. Published incrementally between 1902 and 1932 in five volumes, the Kathamrita provides an unprecedented phenomenological account of a 19th-century mystic whose teachings would profoundly influence subsequent generations of Indian spiritual thought. Its significance extends beyond hagiographic documentation, serving as a critical intellectual bridge between traditional Indian spirituality and emergent modernist sensibilities. The work not only preserves Ramakrishna's direct teachings but also captures the intellectual and spiritual ferment of late-colonial Bengal, representing a pivotal moment in India's philosophical and cultural self-understanding. As a foundational text of the Ramakrishna-Vivekananda spiritual movement, it remains a crucial scholarly resource for understanding religious syncretism, mystical experience, and the intellectual dynamics of colonial-era spiritual renaissance in India.
 collections:
-  - modern-literature
-  - devotional-literature
-  - spiritual-texts
+- modern-literature
+- devotional-literature
+- spiritual-texts
 sources:
-  - name: Internet Archive
-    url: 'https://archive.org'
-    type: other
+- name: 'Internet Archive'
+  url: https://archive.org
+  type: other
+featured: false
 publishDate: 2025-11-03T00:00:00.000Z
 ---
 

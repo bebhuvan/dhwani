@@ -1,25 +1,32 @@
 ---
-title: "Hindu Widow Re-marriage and Other Tracts"
-author: ["Mohandas K. Gandhi"]
+title: 'Hindu Widow Re-marriage and Other Tracts'
+author:
+- Mohandas K. Gandhi
 year: 1920
-language: ["English"]
-genre: ["Social Reform", "Political Literature", "Religious Studies"]
-description: "Mahatma Gandhi's comprehensive examination of Hindu widow remarriage rights, combining scriptural analysis with legal advocacy for social reform. This influential work challenges traditional restrictions through religious authority and colonial legislation, representing Gandhi's broader commitment to women's rights and social justice in early 20th-century India."
-collections: ['modern-literature', 'spiritual-texts']
+language:
+- English
+genre:
+- Social Reform
+- Political Literature
+- Religious Studies
+description: |
+  In the tumultuous early decades of 20th-century colonial India, Mohandas K. Gandhi's "Hindu Widow Re-marriage and Other Tracts" emerged as a critical scholarly intervention addressing deeply entrenched social practices surrounding women's rights and religious orthodoxy. Published in 1920, during the intensifying period of nationalist reform and anti-colonial struggle, the work meticulously examines the complex legal and scriptural dimensions of Hindu widow remarriage. Gandhi's analysis transcends mere academic discourse, presenting a sophisticated deconstruction of traditional restrictions that had systematically marginalized widowed women within Hindu social structures. By carefully interpreting religious texts and challenging prevailing interpretations, Gandhi demonstrates how patriarchal customs were neither divinely ordained nor culturally immutable. The tract critically engages with colonial legislative frameworks while simultaneously critiquing indigenous social norms, positioning widow remarriage as a fundamental human rights issue intrinsically linked to broader social justice movements. Drawing from his extensive understanding of Hindu philosophical traditions and contemporary legal discourses, Gandhi provides a nuanced argument that integrates scriptural hermeneutics, social reform principles, and emerging nationalist ethical frameworks. This work represents a significant intellectual contribution to the reformist literature of early 20th-century India, embodying the complex intersections between religious tradition, social transformation, and anti-colonial thought. By advocating for widows' social rehabilitation and challenging regressive matrimonial practices, Gandhi's tract became a pivotal text in the broader movement challenging oppressive social hierarchies and reimagining women's status within Indian society.
+collections:
+- modern-literature
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/hinduwidowremarr00ganduoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/hinduwidowremarr00ganduoft
+  type: other
 references:
-  - name: "Wikisource"
-    url: "https://en.wikisource.org/wiki/Index:Hindu_widow_re-marriage_and_other_tracts.djvu"
-    type: "wikisource"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Hindu+widow+re-marriage+%26+other+tracts&mode=everything"
-    type: "other"
+- name: 'Wikisource'
+  url: https://en.wikisource.org/wiki/Index:Hindu_widow_re-marriage_and_other_tracts.djvu
+  type: wikisource
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Hindu+widow+re-marriage+%26+other+tracts&mode=everything
+  type: other
 featured: false
 publishDate: 2025-09-28
-tags: ["Mahatma Gandhi", "Social Reform", "Women's Rights", "Hindu Widow Remarriage", "Social Justice", "Religious Reform", "Colonial Period", "Scriptural Analysis", "Marriage Laws", "Gender Equality", "Social Change"]
 ---
 
 # Hindu Widow Re-marriage and Other Tracts

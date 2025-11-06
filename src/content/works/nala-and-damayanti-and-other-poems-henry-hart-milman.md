@@ -1,28 +1,34 @@
 ---
-title: "Nala and Damayanti, and Other Poems"
-author: ["Henry Hart Milman"]
+title: 'Nala and Damayanti, and Other Poems'
+author:
+- Henry Hart Milman
 year: 1835
-language: ["English"]
-genre: ["Poetry", "Epic Translation"]
-description: "Henry Hart Milman's pioneering 1835 English verse translation of the Nala episode from Mahābhārata. Oxford Poetry Professor brought Sanskrit epic to English audiences through Romantic verse."
-collections: ['modern-literature', 'poetry-collection']
+language:
+- English
+genre:
+- Poetry
+- Epic Translation
+description: |
+  During the early 19th century, when British colonial scholarship was increasingly engaging with Indian classical texts, Henry Hart Milman's 1835 English verse translation of the Nala episode from Mahābhārata represented a pivotal moment in cross-cultural literary translation and Orientalist academic discourse. As a prominent Oxford Poetry Professor and historian, Milman approached the Sanskrit epic with scholarly precision, rendering the mythic narrative of Prince Nala and Princess Damayanti into elegant Romantic verse that made ancient Indian literary traditions accessible to European intellectual circles. His translation emerged during a critical period of imperial academic exploration, when British scholars were systematically documenting and interpreting Indian cultural and literary heritage. Milman's work was particularly significant in bridging European Romantic poetic sensibilities with the complex narrative structures of classical Sanskrit literature, demonstrating how epic storytelling transcended cultural boundaries. The translation not only introduced Western audiences to the profound emotional and philosophical dimensions of the Mahābhārata but also contributed to emerging comparative literature methodologies. By meticulously preserving the narrative's intricate emotional landscapes and philosophical nuances, Milman's translation helped establish a scholarly framework for understanding Indian epic traditions beyond Orientalist reductive perspectives. This work represented more than a mere linguistic exercise; it was an intellectual endeavor that facilitated deeper cross-cultural understanding, positioning Sanskrit literary traditions as sophisticated, complex narrative systems worthy of serious scholarly engagement and appreciation.
+collections:
+- modern-literature
+- poetry-collection
 sources:
-  - name: "Internet Archive"
-    url: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Nala_and_Damayanti_and_other_poems_%28IA_naladamayantioth00oxfo%29.pdf"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://upload.wikimedia.org/wikipedia/commons/0/0a/Nala_and_Damayanti_and_other_poems_%28IA_naladamayantioth00oxfo%29.pdf
+  type: other
 references:
-  - name: "Wikipedia: Nala"
-    url: "https://en.wikipedia.org/wiki/Nala"
-    type: "wikipedia"
-  - name: "Wikipedia: Henry Hart Milman"
-    url: "https://en.wikipedia.org/wiki/Henry_Hart_Milman"
-    type: "wikipedia"
-  - name: "Open Library: Nala and Damayanti, and"
-    url: "https://openlibrary.org/search?q=Nala+and+Damayanti+and+Other+Poems+Henry+Hart+Milman"
-    type: "other"
+- name: 'Wikipedia: Nala'
+  url: https://en.wikipedia.org/wiki/Nala
+  type: wikipedia
+- name: 'Wikipedia: Henry Hart Milman'
+  url: https://en.wikipedia.org/wiki/Henry_Hart_Milman
+  type: wikipedia
+- name: 'Open Library: Nala and Damayanti, and'
+  url: https://openlibrary.org/search?q=Nala+and+Damayanti+and+Other+Poems+Henry+Hart+Milman
+  type: other
 featured: true
 publishDate: 2025-10-30
-tags: ['poetry-collection', 'epic', 'translation']
 ---
 
 Henry Hart Milman's *Nala and Damayanti, and Other Poems* (1835) represents a landmark moment in the English reception of Sanskrit epic literature, bringing the celebrated Mahabharata episode to British audiences through Romantic verse adaptation. Published by D.A. Talboys at Oxford, this work emerged at a pivotal juncture when Sanskrit studies were transitioning from specialized orientalist scholarship to wider literary appreciation, making Milman's translation the first separate English edition of this beloved narrative to reach the reading public.

@@ -1,15 +1,21 @@
 ---
-title: "Kāñcippurāṇam"
-author: ["Civañān̲a Mun̲ivar", "active 18th century"]
+title: 'Kāñcippurāṇam'
+author:
+- Civañān̲a Mun̲ivar
+- active 18th century
 year: 1910
-language: ["Tamil"]
-genre: ["Sacred Texts"]
-description: "94, 508 pages ; 25 cm A Saiva purana about Kāñcīpuram by Civañān̲a Mun̲ivar, 18th cent. and Kacciyappa Mun̲ivar, d. 1788 From the collection of François Gros"
-collections: ["religious-texts"]
+language:
+- Tamil
+genre:
+- Sacred Texts
+description: |
+  The Kāñcippurāṇam represents a significant scholarly and devotional text in the Tamil Saiva literary tradition, composed during the late Nayaka period (17th-18th centuries) by Civañān̲a Mun̲ivar and Kacciyappa Mun̲ivar. Written in classical Tamil, this expansive purana meticulously documents the religious, cultural, and geographical significance of Kāñcīpuram, a renowned center of Saivite philosophical and temple traditions in South India. The text emerges from a rich intellectual milieu characterized by sophisticated theological discourse, intricate religious scholarship, and deep regional literary practices. Kāñcīpuram, with its centuries-old reputation as a pivotal site of Dravidian religious scholarship, provides the textual and spatial context for this comprehensive exploration of sacred geography, mythological narratives, and philosophical contemplation. The purana systematically explores local sacred sites, theological interpretations of Saiva cosmology, hagiographical accounts of saints and spiritual masters, and complex religious rituals specific to the region. By interweaving historical documentation, theological analysis, and devotional poetry, the work illuminates the nuanced interactions between local religious traditions and broader Saivite philosophical frameworks. Its composition reflects the intellectual vibrancy of 18th-century Tamil scholarship, where religious texts served not merely as spiritual documents but as sophisticated repositories of cultural memory, philosophical insight, and regional identity. The Kāñcippurāṇam thus stands as a critical textual artifact for understanding the intricate religious, literary, and cultural dynamics of pre-colonial South Indian intellectual traditions.
+collections:
+- religious-texts
 sources:
-- name: "Internet Archive"
-  url: "https://archive.org/details/gc-sh1-0523"
-  type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/gc-sh1-0523
+  type: other
 references:
 - name: 'Wikipedia: Civañān̲a Mun̲ivar'
   url: https://en.wikipedia.org/wiki/Meykandar
@@ -28,8 +34,8 @@ references:
   type: openlibrary
 featured: false
 publishDate: 2025-01-22
-tags: ["religious-texts", "tamil", "20th-century"]
 ---
+
 # Kāñcippurāṇam
 
 ## Overview

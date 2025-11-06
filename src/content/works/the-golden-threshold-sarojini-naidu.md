@@ -1,34 +1,39 @@
 ---
-title: "The Golden Threshold"
-author: ["Sarojini Naidu"]
+title: 'The Golden Threshold'
+author:
+- Sarojini Naidu
 year: 1905
-language: ["English"]
-genre: ["Literature"]
-description: "The Golden Threshold by Sarojini Naidu (1905) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage. This work offers valuable insights into the British Raj period, featuring independence movements, cultural renaissance, and literary awakening."
-collections: ['modern-literature', 'poetry-collection']
+language:
+- English
+genre:
+- Literature
+description: |
+  The Golden Threshold, published in 1905, represents a seminal poetic collection by Sarojini Naidu, a pivotal figure in the Indian independence movement and literary renaissance during the late British colonial period. Composed during a critical moment of cultural and political transformation, the work embodies the intellectual and aesthetic sensibilities of educated Indian intellectuals challenging colonial narratives through sophisticated literary expression. Naidu, known as the "Nightingale of India," strategically employed English-language poetry to articulate complex cultural experiences, bridging indigenous sensibilities with colonial linguistic frameworks. The collection explores themes of national identity, cultural resilience, philosophical introspection, and the nuanced emotional landscape of Indian society during a period of significant social and political upheaval. Her poetry demonstrates remarkable linguistic sophistication, weaving together traditional Indian imagery, philosophical contemplations, and nationalist sentiments with intricate metrical structures and evocative symbolism. The work is particularly significant for its representation of female intellectual agency within the colonial context, challenging prevailing orientalist narratives by presenting authentic, multidimensional perspectives of Indian experiences. Naidu's poems in The Golden Threshold reflect profound engagement with both indigenous cultural traditions and contemporary political movements, offering scholarly insights into the complex negotiations of identity, resistance, and cultural expression during the early 20th-century Indian nationalist period. By articulating sophisticated emotional and intellectual landscapes, the collection transcends mere literary artifact to become a critical historical document illuminating the intellectual currents of colonial-era India, making it an essential text for understanding the intersections of literature, politics, and cultural transformation.
+collections:
+- modern-literature
+- poetry-collection
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/680"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/the-golden-threshold"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/680
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/the-golden-threshold
+  type: other
 references:
-  - name: "Wikisource"
-    url: "https://en.wikisource.org/wiki/The_Golden_Threshold"
-    type: "wikisource"
-  - name: "Wikipedia: Sarojini Naidu"
-    url: "https://en.wikipedia.org/wiki/Sarojini_Naidu"
-    type: "wikipedia"
-  - name: "Wikipedia: The Golden Threshold"
-    url: "https://en.wikipedia.org/wiki/The_Golden_Threshold"
-    type: "wikipedia"
-  - name: "Open Library: The Golden Threshold year"
-    url: "https://openlibrary.org/search?q=The+Golden+Threshold+year+1905+language+Sarojini+Naidu"
-    type: "other"
+- name: 'Wikisource'
+  url: https://en.wikisource.org/wiki/The_Golden_Threshold
+  type: wikisource
+- name: 'Wikipedia: Sarojini Naidu'
+  url: https://en.wikipedia.org/wiki/Sarojini_Naidu
+  type: wikipedia
+- name: 'Wikipedia: The Golden Threshold'
+  url: https://en.wikipedia.org/wiki/The_Golden_Threshold
+  type: wikipedia
+- name: 'Open Library: The Golden Threshold year'
+  url: https://openlibrary.org/search?q=The+Golden+Threshold+year+1905+language+Sarojini+Naidu
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 **The Golden Threshold** (1905) represents Sarojini Naidu's debut poetry collection, published when she was 26 years old. The work established her as a pioneering voice in Indian English poetry during the British Raj period.

@@ -1,25 +1,29 @@
 ---
-title: "Political History of Ancient India"
-author: ["Hem Chandra Raychaudhuri"]
+title: 'Political History of Ancient India'
+author:
+- Hem Chandra Raychaudhuri
 year: 1923
-language: ["English"]
-genre: ["History"]
-description: "Hem Chandra Raychaudhuri’s 1923 study synthesises literary, epigraphic, and numismatic evidence to chart political developments in the Indian subcontinent from late Vedic chiefdoms through the Gupta empire."
-collections: ["modern-literature"]
+language:
+- English
+genre:
+- History
+description: |
+  Hem Chandra Raychaudhuri's seminal "Political History of Ancient India" represents a foundational scholarly examination of the Indian subcontinent's political evolution from the late Vedic period (circa 1500-500 BCE) through the classical Gupta era (320-550 CE). Integrating multiple historical methodologies, Raychaudhuri synthesizes literary sources from Sanskrit texts, archaeological epigraphic evidence, and numismatic records to reconstruct a comprehensive political narrative of ancient Indian state formations. The work critically analyzes the transformation from tribal chiefdoms to sophisticated monarchical systems, tracing complex political structures across regional kingdoms and imperial formations. Raychaudhuri's meticulous research provides unprecedented insights into administrative systems, succession patterns, and inter-state diplomatic relationships during this pivotal historical epoch. By systematically examining textual and material evidence, he illuminates the sophisticated political consciousness of ancient Indian societies, challenging contemporary colonial historiographical perspectives. The study offers nuanced analyses of key political entities, including the Mauryan, Shunga, Satavahana, and Gupta dynasties, demonstrating the intricate governance mechanisms and cultural exchanges that characterized these periods. Raychaudhuri's methodology, which rigorously cross-references diverse sources, established new scholarly standards for historical research in Indian studies. His work remains fundamental for understanding the political anthropology of the subcontinent, revealing complex social hierarchies, diplomatic practices, and state-building processes that shaped India's classical civilizational trajectory. Beyond its immediate historical narrative, the text provides critical insights into the intellectual and administrative sophistication of ancient Indian political thought and practice.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive (University of Toronto)"
-    url: "https://archive.org/details/politicalhistory00raycuoft"
-    type: "other"
+- name: 'Internet Archive (University of Toronto)'
+  url: https://archive.org/details/politicalhistory00raycuoft
+  type: other
+references:
+- name: 'Wikipedia: Hem Chandra Raychaudhuri'
+  url: https://en.wikipedia.org/wiki/Hem_Chandra_Raychaudhuri
+  type: wikipedia
+- name: 'Open Library Search'
+  url: https://openlibrary.org/search?q=Political+History+of+Ancient+India
+  type: other
 featured: false
 publishDate: 2025-10-22
-references:
-  - name: "Wikipedia: Hem Chandra Raychaudhuri"
-    url: "https://en.wikipedia.org/wiki/Hem_Chandra_Raychaudhuri"
-    type: "wikipedia"
-  - name: "Open Library Search"
-    url: "https://openlibrary.org/search?q=Political+History+of+Ancient+India"
-    type: "other"
-tags: ["Ancient India", "Historiography", "Maurya Empire", "Gupta Empire", "Primary synthesis", "Public domain"]
 ---
 
 # Political History of Ancient India

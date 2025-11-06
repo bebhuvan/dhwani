@@ -1,28 +1,35 @@
 ---
-title: "Hindustani Lyrics"
-author: ["Inayat Khan", "Jessie D. Westbrook"]
+title: 'Hindustani Lyrics'
+author:
+- Inayat Khan
+- Jessie D. Westbrook
 year: 1913
-language: ["English"]
-genre: ["Poetry"]
-description: "Hindustani Lyrics by Inayat Khan; Jessie D. Westbrook (1913) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage. This work offers valuable insights into the British Raj period, featuring independence movements, cultural renaissance, and literary awakening."
-collections: ['modern-literature', 'spiritual-texts', 'poetry-collection']
+language:
+- English
+genre:
+- Poetry
+description: |
+  "Hindustani Lyrics" represents a critical textual intersection of cross-cultural literary exchange during the late British colonial period, exploring the linguistic and poetic landscape of early 20th-century India through a collaborative scholarly translation project. Published in 1913, this compilation emerges during a significant transitional moment in Indian intellectual and cultural history, when indigenous literary traditions were being reinterpreted and documented through British academic perspectives. The work, co-authored by Inayat Khan and Jessie D. Westbrook, reflects the nuanced intellectual dialogues occurring between Indian traditional knowledge systems and Western scholarly methodologies. Khan, a notable Sufi mystic and musician, brings authentic cultural insight, while Westbrook contributes scholarly translation expertise, creating a unique textual representation of Hindustani lyrical traditions. The compilation encompasses poetic works that illuminate the complex linguistic and emotional terrains of North Indian literary expression, featuring compositions that range from devotional poetry to secular romantic verse. Methodologically, the work is significant for its careful translation approach, which attempts to preserve the intricate rhythmic and semantic subtleties of the original Hindustani texts. By presenting these lyrics in English, the volume serves as an important bridge for cross-cultural literary comprehension, making sophisticated poetic traditions accessible to international readers while simultaneously documenting a critical moment in India's linguistic and cultural renaissance. The text provides contemporary scholars valuable insights into the literary, musical, and emotional landscapes of early 20th-century North Indian cultural production, representing an important scholarly artifact of colonial-era intellectual exchange.
+collections:
+- modern-literature
+- spiritual-texts
+- poetry-collection
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/17711"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://commons.wikimedia.org/wiki/File:Hindustani_Lyrics.djvu"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/17711
+  type: other
+- name: 'Internet Archive'
+  url: https://commons.wikimedia.org/wiki/File:Hindustani_Lyrics.djvu
+  type: other
 references:
-  - name: "Wikipedia: Inayat Khan"
-    url: "https://en.wikipedia.org/wiki/Inayat_Khan"
-    type: "wikipedia"
-  - name: "Open Library: Hindustani Lyrics year"
-    url: "https://openlibrary.org/search?q=Hindustani+Lyrics+year+1913+language+English+Inayat+Khan"
-    type: "other"
+- name: 'Wikipedia: Inayat Khan'
+  url: https://en.wikipedia.org/wiki/Inayat_Khan
+  type: wikipedia
+- name: 'Open Library: Hindustani Lyrics year'
+  url: https://openlibrary.org/search?q=Hindustani+Lyrics+year+1913+language+English+Inayat+Khan
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['poetry-collection']
 ---
 
 ## Hazrat Inayat Khan: Musician, Mystic, and Pioneer of Universal Sufism

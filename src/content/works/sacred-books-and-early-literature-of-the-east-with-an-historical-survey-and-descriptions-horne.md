@@ -1,25 +1,35 @@
 ---
-title: "The Sacred Books and Early Literature of the East, Volumes I-II: Babylonia, Assyria, and Egypt"
-author: ["Charles Francis Horne", "Morris Jastrow Jr.", "James Henry Breasted"]
+title: 'The Sacred Books and Early Literature of the East, Volumes I-II: Babylonia, Assyria, and Egypt'
+author:
+- Charles Francis Horne
+- Morris Jastrow Jr.
+- James Henry Breasted
 year: 1917
-language: ["English"]
-genre: ["Religious Literature", "Ancient Literature", "Reference"]
-description: "Fourteen-volume compilation of sacred texts and early literature from ancient civilizations. Volume I covers Mesopotamia—Epic of Gilgamesh, Code of Hammurabi, Sumerian hymns, Babylonian creation myths. Volume II presents Egypt—Pyramid Texts, Book of the Dead, Precepts of Ptah-Hotep, hymns to Aten..."
-collections: ['ancient-wisdom', 'spiritual-texts', 'classical-literature']
+language:
+- English
+genre:
+- Religious Literature
+- Ancient Literature
+- Reference
+description: |
+  The Sacred Books and Early Literature of the East, a fourteen-volume compendium published in 1917, represents a landmark scholarly endeavor in comparative religious and textual studies during the early 20th-century Orientalist intellectual movement. Compiled by Charles Francis Horne, Morris Jastrow Jr., and James Henry Breasted—prominent scholars in Near Eastern studies—the work emerged during a transformative period of Western academic engagement with ancient cultural archives. While initially focused on Mesopotamian and Egyptian texts, the compilation significantly contributed to the broader scholarly understanding of ancient civilizations, including indirect methodological implications for Indian textual scholarship. The first two volumes systematically translate and contextualize foundational texts such as the Epic of Gilgamesh, Code of Hammurabi, Egyptian Pyramid Texts, and critical historical documents, providing unprecedented access to complex linguistic and cultural narratives. For Indian studies, the work's comparative approach and rigorous translation methodology prefigured later comprehensive approaches to understanding ancient textual traditions, particularly in how complex cultural and religious narratives could be interpreted across linguistic and geographical boundaries. The compilation's scholarly apparatus—including contextual annotations, linguistic translations, and comprehensive historical introductions—established critical methodological precedents for subsequent comparative religious and literary studies. By presenting these ancient texts with scholarly rigor and intellectual nuance, Horne and his colleagues facilitated a more profound cross-cultural understanding, bridging Western academic perspectives with ancient Near Eastern intellectual traditions and indirectly influencing methodological approaches to Indian textual scholarship and comparative religious studies.
+collections:
+- ancient-wisdom
+- spiritual-texts
+- classical-literature
 sources:
-  - name: "Internet Archive - Volume I"
-    url: "https://archive.org/details/sacredbooksearly01hornuoft"
-    type: "other"
-  - name: "Internet Archive - Volume II"
-    url: "https://archive.org/details/sacredbooksearly02hornuoft"
-    type: "other"
+- name: 'Internet Archive - Volume I'
+  url: https://archive.org/details/sacredbooksearly01hornuoft
+  type: other
+- name: 'Internet Archive - Volume II'
+  url: https://archive.org/details/sacredbooksearly02hornuoft
+  type: other
 references:
-  - name: "Open Library: Sacred Books Early Literature East"
-    url: "https://openlibrary.org/search?q=Sacred+Books+Early+Literature+East+Charles+Horne"
-    type: "other"
+- name: 'Open Library: Sacred Books Early Literature East'
+  url: https://openlibrary.org/search?q=Sacred+Books+Early+Literature+East+Charles+Horne
+  type: other
 featured: true
 publishDate: 2025-10-02
-tags: ["Babylonia", "Assyria", "Egypt", "Mesopotamia", "Epic of Gilgamesh", "Code of Hammurabi", "Book of the Dead", "Pyramid Texts", "cuneiform", "hieroglyphics", "ancient Near East", "Charles Francis Horne", "James Breasted", "Morris Jastrow"]
 ---
 
 # The Sacred Books and Early Literature of the East
@@ -218,4 +228,3 @@ This digitized edition from the Internet Archive preserves the 1917 publication,
 For students of ancient Near Eastern literature, comparative religion, or the history of scholarship, this volume provides valuable material. For general readers interested in humanity's earliest literary achievements, it offers an entry point to Mesopotamian civilization's intellectual legacy.
 
 The Epic of Gilgamesh, the Code of Hammurabi, Babylonian creation myths, and Assyrian royal inscriptions remain relevant not as relics but as living texts that continue to speak to fundamental human concerns—justice and law, mortality and meaning, power and responsibility, chaos and order. Through Horne's collection, these voices from humanity's distant past remain audible in the present.
-

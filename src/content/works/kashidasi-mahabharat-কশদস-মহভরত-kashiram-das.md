@@ -1,15 +1,23 @@
 ---
-title: "Kashidasi Mahabharat কাশীদাসী মহাভারত"
-author: ["Kashiram Das", "Sudeb Chandra Chattopadhyaya"]
+title: 'Kashidasi Mahabharat কাশীদাসী মহাভারত'
+author:
+- Kashiram Das
+- Sudeb Chandra Chattopadhyaya
 year: 1925
-language: ["Bengali"]
-genre: ["Epic Literature", "Classical Literature"]
-description: "Kashidasi Mahabharat কাশীদাসী মহাভারত first issued in 1925 authored by Chattopadhyaya, Sudeb Chandra ed presents a significant contribution to Indian letters."
-collections: ["epic-poetry", "regional-literature"]
+language:
+- Bengali
+genre:
+- Epic Literature
+- Classical Literature
+description: |
+  The Kashidasi Mahabharat কাশীদাসী মহাভারত represents a seminal translation of the classical Sanskrit epic into Bengali, emerging during a critical period of linguistic and cultural transformation in late 17th-century Bengal. Authored by Kashiram Das, a prominent vernacular poet, this translation was pivotal in democratizing access to the complex philosophical and narrative traditions of the Mahabharata for Bengali-speaking populations. Situated within the broader context of pre-colonial intellectual discourse, the work bridges classical Sanskrit scholarly traditions with emerging vernacular literary expressions, making sophisticated philosophical and narrative content accessible to broader social strata. The 1925 edition by Sudeb Chandra Chattopadhyaya further consolidated the text's scholarly significance, presenting a meticulously curated version that preserved the linguistic nuances and cultural authenticity of Das's original translation. The translation is particularly noteworthy for its sophisticated rendering of complex Sanskrit narrative structures into colloquial Bengali, simultaneously maintaining the epic's philosophical depth and narrative complexity. Beyond its literary merit, the Kashidasi Mahabharat played a crucial role in cultural preservation during a period of significant colonial transformation, serving as a critical medium for maintaining indigenous intellectual and narrative traditions. Its significance extends beyond mere translation, functioning as a critical text in the formation of Bengali cultural identity, national consciousness, and literary self-understanding. The work exemplifies the broader Renaissance-era intellectual project of reinterpreting classical knowledge systems through vernacular frameworks, making profound philosophical and mythological narratives accessible to wider audiences and contributing significantly to the intellectual and cultural landscape of pre-independence India.
+collections:
+- epic-poetry
+- regional-literature
 sources:
-- name: "Internet Archive"
-  url: "https://archive.org/details/dli.bengal.10689.753"
-  type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/dli.bengal.10689.753
+  type: other
 references:
 - name: 'Wikipedia: Kashiram Das'
   url: https://en.wikipedia.org/wiki/Kashiram_Das
@@ -17,12 +25,11 @@ references:
 - name: 'Wikidata: Kashiram Das'
   url: https://www.wikidata.org/wiki/Q6374348
   type: other
-- name: "Open Library: Kashidasi Mahabharat কাশীদাসী মহাভারত year"
-  url: "https://openlibrary.org/search?q=Kashidasi+Mahabharat+কশদস+মহভরত+year+1925+Kashiram+Das"
-  type: "other"
+- name: 'Open Library: Kashidasi Mahabharat কাশীদাসী মহাভারত year'
+  url: https://openlibrary.org/search?q=Kashidasi+Mahabharat+কশদস+মহভরত+year+1925+Kashiram+Das
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['bengali', 'epic']
 ---
 
 ## Historical Context and Literary Significance

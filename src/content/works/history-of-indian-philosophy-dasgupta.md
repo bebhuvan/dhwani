@@ -1,31 +1,39 @@
 ---
-title: "A History of Indian Philosophy"
-author: ["Surendranath Dasgupta", "assisted by Surama Dasgupta"]
+title: 'A History of Indian Philosophy'
+author:
+- Surendranath Dasgupta
+- assisted by Surama Dasgupta
 year: 1922
-language: ["English"]
-genre: ["Philosophy", "Historical Literature", "Academic Literature"]
-description: "A History of Indian Philosophy by Surendranath Dasgupta (1922-1955) - The most comprehensive and authoritative survey of Indian philosophical systems ever written. This monumental five-volume work traces the development of Indian thought from the Vedic period through medieval times, covering all ..."
-collections: ['modern-literature', 'spiritual-texts']
+language:
+- English
+genre:
+- Philosophy
+- Historical Literature
+- Academic Literature
+description: |
+  Surendranath Dasgupta's "A History of Indian Philosophy" is a comprehensive scholarly examination of Indian philosophical traditions from the Vedic period through medieval times, published across five volumes between 1922 and 1955. The work systematically documents the intellectual evolution of philosophical thought across multiple schools of Indian metaphysical and epistemological discourse. Drawing from extensive textual research and linguistic analysis, Dasgupta provides a detailed documentation of major philosophical systems including Vedanta, Samkhya, Yoga, Buddhist, Jain, and heterodox traditions. By contextualizing philosophical concepts within their historical and cultural frameworks, the text offers critical insights into the development of Indian philosophical thought. Dasgupta's methodology is particularly significant for its rigorous academic approach to documenting intellectual traditions that were often marginalized or inadequately studied in colonial-era scholarship. The work provides a structured analysis of how philosophical concepts evolved, interacted, and influenced each other through careful examination of primary Sanskrit and Pali textual sources. Dasgupta's research contributes to a more comprehensive understanding of Indian philosophical systems, presenting them with academic precision while maintaining their intellectual and cultural context. The text remains an important scholarly reference for researchers and academics studying the historical development of philosophical thought in the Indian subcontinent, offering a detailed and systematic exploration of complex philosophical traditions.
+collections:
+- modern-literature
+- spiritual-texts
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/12956"
-    type: "other"
-  - name: "Internet Archive (Volume 2)"
-    url: "https://archive.org/details/indianphilosophy02dasguoft"
-    type: "other"
-  - name: "Internet Archive (DLI Edition)"
-    url: "https://archive.org/details/in.ernet.dli.2015.49851"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/12956
+  type: other
+- name: 'Internet Archive (Volume 2)'
+  url: https://archive.org/details/indianphilosophy02dasguoft
+  type: other
+- name: 'Internet Archive (DLI Edition)'
+  url: https://archive.org/details/in.ernet.dli.2015.49851
+  type: other
 references:
-  - name: "Wikipedia: Surendranath Dasgupta"
-    url: "https://en.wikipedia.org/wiki/Surendranath_Dasgupta"
-    type: "wikipedia"
-  - name: "Open Library: A History of Indian"
-    url: "https://openlibrary.org/search?q=A+History+of+Indian+Philosophy+year+Surendranath+Dasgupta"
-    type: "other"
+- name: 'Wikipedia: Surendranath Dasgupta'
+  url: https://en.wikipedia.org/wiki/Surendranath_Dasgupta
+  type: wikipedia
+- name: 'Open Library: A History of Indian'
+  url: https://openlibrary.org/search?q=A+History+of+Indian+Philosophy+year+Surendranath+Dasgupta
+  type: other
 featured: true
 publishDate: 2025-10-30
-tags: ['philosophy']
 ---
 
 # A History of Indian Philosophy

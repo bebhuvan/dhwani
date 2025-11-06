@@ -1,28 +1,35 @@
 ---
-title: "Outlines of an History of the Hindu Law of Partition, Inheritance, and Adoption"
-author: ["Julius Jolly"]
+title: 'Outlines of an History of the Hindu Law of Partition, Inheritance, and Adoption'
+author:
+- Julius Jolly
 year: 1885
-language: ["English", "Sanskrit"]
-genre: ["Legal Literature", "Indian History", "Philosophy"]
-description: "Julius Jolly's comprehensive examination of Hindu family law based on original Sanskrit treatises. Delivered as the Tagore Professor of Law in Calcutta (1882-1883), this scholarly work systematically analyzes partition, inheritance, and adoption laws that governed Hindu society for centuries."
-collections: ['spiritual-texts']
+language:
+- English
+- Sanskrit
+genre:
+- Legal Literature
+- Indian History
+- Philosophy
+description: |
+  During the late 19th century, a transformative period of colonial scholarship and systematic documentation of Indian intellectual traditions, Julius Jolly's comprehensive treatise on Hindu family law emerged as a pivotal scholarly exploration of indigenous legal systems. Published in 1885, this groundbreaking work meticulously analyzed the complex legal frameworks governing Hindu social structures through an in-depth examination of original Sanskrit legal texts. As a German Indologist and professor at the University of Würzburg, Jolly brought a rigorous comparative legal methodology to his examination of partition, inheritance, and adoption practices that had structured Hindu familial and social relationships for centuries. The work represents a critical intersection of Western academic scholarship and traditional Indian legal epistemologies, providing unprecedented scholarly insight into the nuanced normative frameworks that underpinned Hindu social organization. By systematically documenting and interpreting legal traditions that had been primarily transmitted through oral and textual scholarly traditions, Jolly contributed significantly to the emerging field of comparative legal anthropology and postcolonial knowledge production. His analysis illuminated the sophisticated juridical principles embedded in classical Sanskrit texts, demonstrating the intellectual complexity of traditional Hindu legal thought and challenging contemporary colonial narratives that often diminished indigenous legal reasoning. The text's meticulous scholarship not only preserved critical insights into Hindu social structures but also provided a foundational scholarly resource for understanding the intricate legal and philosophical principles that governed familial relationships, property transmission, and social continuity in pre-colonial Indian societies, making it an essential contribution to the intellectual heritage of Indian legal and cultural studies.
+collections:
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/outlinesofhistor00jolluoft"
-    type: "other"
-  - name: "Heidelberg Digital Library"
-    url: "https://digi.ub.uni-heidelberg.de/diglit/jolly1885"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/outlinesofhistor00jolluoft
+  type: other
+- name: 'Heidelberg Digital Library'
+  url: https://digi.ub.uni-heidelberg.de/diglit/jolly1885
+  type: other
 references:
-  - name: "Wikipedia: Julius Jolly (Indologist)"
-    url: "https://en.wikipedia.org/wiki/Julius_Jolly_(Indologist)"
-    type: "wikipedia"
-  - name: "Open Library: Outlines of an History"
-    url: "https://openlibrary.org/search?q=Outlines+of+an+History+of+the+Julius+Jolly"
-    type: "other"
+- name: 'Wikipedia: Julius Jolly (Indologist)'
+  url: https://en.wikipedia.org/wiki/Julius_Jolly_(Indologist)
+  type: wikipedia
+- name: 'Open Library: Outlines of an History'
+  url: https://openlibrary.org/search?q=Outlines+of+an+History+of+the+Julius+Jolly
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical-literature', 'historical-texts', 'philosophy']
 ---
 
 ## Julius Jolly and the Study of Hindu Law

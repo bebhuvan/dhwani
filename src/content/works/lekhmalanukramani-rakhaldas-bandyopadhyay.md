@@ -1,28 +1,36 @@
 ---
-title: "Lekhmalanukramani Vol. 1, Part 1"
-author: ["Edited by Sri Rakhaldas Bandyopadhyay"]
+title: 'Lekhmalanukramani Vol. 1, Part 1'
+author:
+- Edited by Sri Rakhaldas Bandyopadhyay
 year: 1923
-language: ["Sanskrit", "English"]
-genre: ["Epigraphy", "Reference Work", "Paleography"]
-description: "Epigraphic concordance and index cataloguing Sanskrit inscriptions from ancient and medieval India, organized by subject classification for paleographical and historical linguistic study. Provides systematic reference to inscription sources essential for chronological and dynastic reconstruction in ancient Indian studies. Compiled by pioneering archaeologist Rakhaldas Bandyopadhyay, making epigraphic materials accessible for scholarly research."
-collections: ['reference-works', 'epigraphy']
+language:
+- Sanskrit
+- English
+genre:
+- Epigraphy
+- Reference Work
+- Paleography
+description: |
+  Lekhmalanukramani Vol. 1, Part 1 represents a seminal scholarly contribution to Indian epigraphic studies during the transformative early 20th-century period of archaeological and historical research. Published in 1923, this comprehensive Sanskrit inscription concordance emerged during a critical moment of indigenous scholarly engagement with India's material cultural heritage, coinciding with nascent archaeological methodologies developed under and against British colonial scholarship. Rakhaldas Bandyopadhyay, a pioneering Bengali archaeologist and historian, meticulously compiled this reference work to systematically catalog and classify Sanskrit inscriptions from ancient and medieval India, providing researchers with an unprecedented analytical framework for understanding dynastic, linguistic, and sociocultural developments. The work's sophisticated subject classification system enables paleographical analysis, allowing scholars to trace linguistic evolution, political transformations, and cultural practices across diverse regional contexts. By methodically organizing epigraphic sources—ranging from royal edicts and temple records to administrative documents—Bandyopadhyay constructed a nuanced methodological approach that transcended colonial-era interpretive limitations. His rigorous documentation techniques significantly advanced scholarly understanding of India's complex historical landscape, offering insights into administrative structures, religious practices, economic systems, and linguistic transitions across multiple dynasties and geographical regions. Beyond its immediate scholarly utility, the Lekhmalanukramani represents a critical intervention in reclaiming and systematizing indigenous historical knowledge, challenging prevailing colonial narratives by centering Indian scholarly perspectives and methodological approaches. As a foundational text in Indian epigraphy, this work continues to serve as an essential reference for researchers in archaeology, linguistics, history, and cultural studies, embodying the intellectual sophistication of early 20th-century Indian scholarship.
+collections:
+- reference-works
+- epigraphy
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.512854"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.512854
+  type: other
 references:
-  - name: "Wikipedia: Rakhaldas Bandyopadhyay"
-    url: "https://en.wikipedia.org/wiki/Rakhaldas_Bandyopadhyay"
-    type: "wikipedia"
-  - name: "Wikipedia: Indian epigraphy"
-    url: "https://en.wikipedia.org/wiki/Indian_epigraphy"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Lekhmalanukramani+inscriptions&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Rakhaldas Bandyopadhyay'
+  url: https://en.wikipedia.org/wiki/Rakhaldas_Bandyopadhyay
+  type: wikipedia
+- name: 'Wikipedia: Indian epigraphy'
+  url: https://en.wikipedia.org/wiki/Indian_epigraphy
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Lekhmalanukramani+inscriptions&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Lekhmalanukramani", "Epigraphy", "Sanskrit inscriptions", "Rakhaldas Bandyopadhyay", "Paleography", "Reference work", "Ancient India", "Historical linguistics", "Chronology", "Dynasty", "Archaeological Survey", "Index"]
 ---
 
 # Lekhmalanukramani Vol. 1, Part 1

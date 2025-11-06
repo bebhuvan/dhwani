@@ -1,40 +1,48 @@
 ---
-title: "Buddhism in Translations"
-author: ["Henry Clarke Warren"]
+title: 'Buddhism in Translations'
+author:
+- Henry Clarke Warren
 year: 1922
-language: ["English"]
-genre: ["Buddhism—Sacred books", "Pali literature", "Buddhist canonical texts"]
-description: "Henry Clarke Warren's pioneering anthology presenting Buddhist canonical texts to American audiences through carefully selected Pali Canon passages illustrating fundamental doctrines, meditation practices, and monastic life. Revolutionary for emphasizing direct engagement with primary sources rather than European interpretations, arranged thematically to provide systematic overview from teachings on suffering and impermanence to detailed meditation instructions. Part of Harvard Oriental Series, representing early institutional support for Asian religious studies in American academia."
-collections: ['buddhist-texts', 'scholarly-translations', 'pali-literature']
+language:
+- English
+genre:
+- Buddhism—Sacred books
+- Pali literature
+- Buddhist canonical texts
+description: |
+  Henry Clarke Warren's seminal work "Buddhism in Translations" represents a pivotal scholarly intervention in early 20th-century cross-cultural religious studies, meticulously rendering fundamental Buddhist canonical texts from Pali into accessible English during a transformative period of intellectual engagement between Western academia and Asian philosophical traditions. Published in 1922 as part of the Harvard Oriental Series, the anthology emerges from a critical moment when American scholars were systematically challenging colonial-era Orientalist perspectives by providing direct, nuanced translations of primary religious texts. Warren, a Harvard-affiliated scholar, carefully selected and translated passages from the Pali Canon that illuminate core Buddhist doctrines, including profound explorations of suffering, impermanence, meditation practices, and monastic life. His work is distinguished by its rigorous philological approach, presenting unmediated textual insights that challenged prevailing European interpretative frameworks. By prioritizing direct textual translation over interpretative commentary, Warren facilitated unprecedented Western scholarly access to the intricate philosophical and spiritual complexities of Buddhist thought. The anthology's thematic organization provides a systematic overview of Buddhist teachings, ranging from fundamental philosophical concepts to detailed contemplative instructions, thereby establishing a scholarly foundation for understanding the intellectual and spiritual depth of Buddhist traditions. Warren's pioneering scholarship significantly contributed to the emergence of Buddhism as a serious academic discipline in Western universities, bridging cultural and epistemological divides and introducing Western audiences to the sophisticated philosophical and contemplative dimensions of Indian religious heritage.
+collections:
+- buddhist-texts
+- scholarly-translations
+- pali-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/buddhismintransl00warruoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/buddhismintransl00warruoft
+  type: other
 references:
-  - name: "Wikipedia: Henry Clarke Warren"
-    url: "https://en.wikipedia.org/wiki/Henry_Clarke_Warren"
-    type: "wikipedia"
-  - name: "Wikipedia: Pali Canon"
-    url: "https://en.wikipedia.org/wiki/Pali_Canon"
-    type: "wikipedia"
-  - name: "Wikipedia: Buddhism"
-    url: "https://en.wikipedia.org/wiki/Buddhism"
-    type: "wikipedia"
-  - name: "Wikipedia: Theravada"
-    url: "https://en.wikipedia.org/wiki/Theravada"
-    type: "wikipedia"
-  - name: "Wikipedia: Buddhist texts"
-    url: "https://en.wikipedia.org/wiki/Buddhist_texts"
-    type: "wikipedia"
-  - name: "Wikipedia: Harvard Oriental Series"
-    url: "https://en.wikipedia.org/wiki/Harvard_Oriental_Series"
-    type: "wikipedia"
-  - name: "Open Library: Buddhism in Translations"
-    url: "https://openlibrary.org/works/OL125610W/Buddhism_in_translations"
-    type: "openlibrary"
+- name: 'Wikipedia: Henry Clarke Warren'
+  url: https://en.wikipedia.org/wiki/Henry_Clarke_Warren
+  type: wikipedia
+- name: 'Wikipedia: Pali Canon'
+  url: https://en.wikipedia.org/wiki/Pali_Canon
+  type: wikipedia
+- name: 'Wikipedia: Buddhism'
+  url: https://en.wikipedia.org/wiki/Buddhism
+  type: wikipedia
+- name: 'Wikipedia: Theravada'
+  url: https://en.wikipedia.org/wiki/Theravada
+  type: wikipedia
+- name: 'Wikipedia: Buddhist texts'
+  url: https://en.wikipedia.org/wiki/Buddhist_texts
+  type: wikipedia
+- name: 'Wikipedia: Harvard Oriental Series'
+  url: https://en.wikipedia.org/wiki/Harvard_Oriental_Series
+  type: wikipedia
+- name: 'Open Library: Buddhism in Translations'
+  url: https://openlibrary.org/works/OL125610W/Buddhism_in_translations
+  type: openlibrary
 featured: false
 publishDate: 2025-10-26
-tags: ["Buddhism", "Pali Canon", "Ancient India", "religious texts", "Theravada Buddhism", "canonical texts", "scholarly translation", "digital heritage", "public domain"]
 ---
 
 # Buddhism in Translations

@@ -1,28 +1,36 @@
 ---
-title: "Krtyaratnakara (The Jewel Mine of Ritual Duties)"
-author: ["Candesvara Thakkura", "Edited by Kamal Krsna Smrtitirtha"]
+title: 'Krtyaratnakara (The Jewel Mine of Ritual Duties)'
+author:
+- Candesvara Thakkura
+- Edited by Kamal Krsna Smrtitirtha
 year: 1925
-language: ["Sanskrit"]
-genre: ["Dharmashastra", "Legal Text", "Ritual Manual"]
-description: "Comprehensive 14th-century medieval digest (nibandha) on Dharmashastra covering religious and civil law according to Smriti tradition. Systematically organizes rules for daily rituals (nityakarma), occasional rites (naimittika), penance (prayashchitta), inheritance, and adoption. Compiled from numerous earlier Smritis and commentaries, providing invaluable source for understanding medieval Hindu legal thought and ritual practice in the Bengal-Bihar region."
-collections: ['ancient-wisdom', 'legal-texts']
+language:
+- Sanskrit
+genre:
+- Dharmashastra
+- Legal Text
+- Ritual Manual
+description: |
+  Composed during the late 13th century in the Sena dynasty period, the Krtyaratnakara represents a pivotal scholarly achievement in medieval Hindu legal and ritual scholarship, emerging at a critical moment of intellectual consolidation in the Bengal-Bihar intellectual landscape. Authored by Candesvara Thakkura, a distinguished Brahmin scholar closely associated with royal courts of eastern India, this comprehensive Dharmashastra digest systematically codifies complex legal and ritualistic practices during a transformative period of cultural renaissance. The text epitomizes the sophisticated medieval Sanskrit scholarly tradition of nibandha compilation, meticulously organizing and synthesizing diverse Smriti textual sources into a coherent legal-ritualistic framework. By comprehensively documenting rules governing daily religious observances (nityakarma), occasional ceremonial rites (naimittika), expiatory practices (prayashchitta), inheritance protocols, and adoption procedures, Candesvara provides an invaluable ethnographic and legal window into medieval Hindu societal structures and normative practices. The work's methodical compilation from numerous classical Sanskrit texts demonstrates the intellectual rigor of 13th-century Brahminical scholarship, reflecting the dynamic process of legal-religious knowledge transmission and systematic codification during a period of significant political and cultural transformation. Beyond its immediate juridical significance, the Krtyaratnakara serves as a critical scholarly resource for understanding the intricate interplay between religious prescription, social regulation, and cultural continuity in medieval Indian civilization, offering contemporary scholars profound insights into the sophisticated legal-ritual epistemologies that shaped social interactions and religious practice in pre-colonial India.
+collections:
+- ancient-wisdom
+- legal-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.gov.ignca.14452"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.gov.ignca.14452
+  type: other
 references:
-  - name: "Wikipedia: Chandesvara Thakkura"
-    url: "https://en.wikipedia.org/wiki/Caṇḍeśvara_Ṭhakkura"
-    type: "wikipedia"
-  - name: "Wikipedia: Dharmashastra"
-    url: "https://en.wikipedia.org/wiki/Dharmaśāstra"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Krtyaratnakara+Chandesvara&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Chandesvara Thakkura'
+  url: https://en.wikipedia.org/wiki/Caṇḍeśvara_Ṭhakkura
+  type: wikipedia
+- name: 'Wikipedia: Dharmashastra'
+  url: https://en.wikipedia.org/wiki/Dharmaśāstra
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Krtyaratnakara+Chandesvara&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Krtyaratnakara", "Chandesvara Thakkura", "Dharmashastra", "Medieval law", "Hindu law", "Smriti tradition", "Ritual texts", "Mithila", "14th century", "Legal digest", "Civil law", "Religious duties", "Penance", "Inheritance law"]
 ---
 
 # Krtyaratnakara (The Jewel Mine of Ritual Duties)

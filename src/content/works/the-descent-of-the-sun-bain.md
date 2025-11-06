@@ -1,31 +1,38 @@
 ---
-title: "The Descent of the Sun: A Cycle of Birth"
-author: ["F. W. Bain"]
+title: 'The Descent of the Sun: A Cycle of Birth'
+author:
+- F. W. Bain
 year: 1903
-language: ["English"]
-genre: ["Fiction", "Fantasy", "Romance"]
-description: "Published in 1903 with elaborate scholarly apparatus suggesting translation from Sanskrit original, Francis William Bain's *The Descent of the Sun: A Cycle of Birth* exemplified a distinctive Edwardian literary phenomenon: Orientalist fantasy masquerading as authentic Oriental text."
-collections: ["modern-literature", "poetry-collection"]
+language:
+- English
+genre:
+- Fiction
+- Fantasy
+- Romance
+description: |
+  Published in 1903, Francis William Bain's *The Descent of the Sun: A Cycle of Birth* represents a complex textual artifact of late Victorian and Edwardian Orientalist literary production, strategically positioned at the intersection of colonial scholarly imagination and romanticized Indian cultural representation. Bain, an English civil servant with extensive experience in colonial India, crafted the work as a sophisticated literary experiment that mimicked Sanskrit narrative structures while simultaneously revealing the epistemological tensions inherent in cross-cultural translation and interpretation. The text employs an intricate framing device suggesting authenticity through an elaborate scholarly apparatus, presenting itself as a translated manuscript with meticulous philological annotations—a common scholarly technique of the period designed to lend academic credibility to fictional constructions. Thematically, the work explores metaphysical concepts of cyclical birth, divine incarnation, and spiritual transformation drawn from Hindu philosophical traditions, particularly Vedantic and Upanishadic cosmological frameworks. By reimagining Indian philosophical and mythological narratives through a distinctly Orientalist lens, Bain participated in a broader late-nineteenth-century intellectual discourse that simultaneously romanticized and mystified Indian cultural knowledge. While the text cannot be considered an authentic representation of Indian literary heritage, it serves as a significant historical document illuminating European intellectual engagements with Indian philosophical and narrative traditions during the high colonial period. Its complex narrative strategy and pseudo-scholarly presentation offer sophisticated insights into colonial intellectual methodologies, cross-cultural textual production, and the sophisticated performative dimensions of Orientalist scholarly imagination.
+collections:
+- modern-literature
+- poetry-collection
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/26000"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/descentofsuncycl00bainrich"
-    type: "other"
-  - name: "Sacred Texts Archive"
-    url: "https://sacred-texts.com/hin/bain/02dos/index.htm"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/26000
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/descentofsuncycl00bainrich
+  type: other
+- name: 'Sacred Texts Archive'
+  url: https://sacred-texts.com/hin/bain/02dos/index.htm
+  type: other
 references:
-  - name: "Wikipedia: F. W. Bain"
-    url: "https://en.wikipedia.org/wiki/F._W._Bain"
-    type: "wikipedia"
-  - name: "Open Library: The Descent of the Sun"
-    url: "https://openlibrary.org/search?q=Descent+of+the+Sun+Bain&mode=everything"
-    type: "other"
+- name: 'Wikipedia: F. W. Bain'
+  url: https://en.wikipedia.org/wiki/F._W._Bain
+  type: wikipedia
+- name: 'Open Library: The Descent of the Sun'
+  url: https://openlibrary.org/search?q=Descent+of+the+Sun+Bain&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-04
-tags: ["F.W. Bain", "pseudo-translation", "Orientalist fantasy", "Hindu romance", "reincarnation", "Edwardian literature", "cultural appropriation", "Deccan College", "mystical fiction", "Victorian India", "karma", "literary hoax"]
 ---
 
 # The Descent of the Sun: A Cycle of Birth

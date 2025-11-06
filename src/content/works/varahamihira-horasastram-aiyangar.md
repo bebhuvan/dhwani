@@ -1,31 +1,39 @@
 ---
-title: "Varahamihira Horasastram"
-author: ["Varahamihira (6th century CE)", "Edited by A. N. Srinivasaraghava Aiyangar"]
+title: 'Varahamihira Horasastram'
+author:
+- Varahamihira (6th century CE)
+- Edited by A. N. Srinivasaraghava Aiyangar
 year: 1951
-language: ["Sanskrit"]
-genre: ["Jyotisha", "Astronomy", "Astrology"]
-description: "Classical work on hora shastra (horary astronomy) by legendary 6th-century polymath Varahamihira. Contains sophisticated astronomical calculations, predictive methodologies based on celestial mechanics, and mathematical principles underlying time measurement and astrological prediction. Demonstrates advanced knowledge of planetary motion and mathematical modeling of cosmic phenomena, representing peak of classical Indian astronomical science."
-collections: ['scientific-texts', 'ancient-wisdom']
+language:
+- Sanskrit
+genre:
+- Jyotisha
+- Astronomy
+- Astrology
+description: |
+  The Varahamihira Horasastram represents a seminal treatise in classical Indian astronomical and astrological scholarship, composed during the intellectually vibrant Gupta period (approximately 320-550 CE), a time of unprecedented scientific and cultural advancement in the Indian subcontinent. Authored by Varahamihira, a renowned polymath and court scholar at the royal academy of King Yashodharman in Malwa, the work epitomizes the sophisticated mathematical and astronomical knowledge of its era. Drawing from diverse intellectual traditions—including Vedic astronomical principles, Hellenistic scientific methodologies, and indigenous mathematical frameworks—Varahamihira synthesized complex computational techniques for celestial observation and predictive modeling. The text comprehensively explores hora shastra (horary astronomy), integrating precise mathematical calculations with astrological interpretations of planetary movements, time measurement, and cosmic phenomena. By systematically documenting astronomical calculations, planetary trajectories, and predictive methodologies, the Horasastram provides critical insights into the advanced scientific epistemologies of classical Indian civilization. Its significance extends beyond pure astronomical scholarship, representing a critical junction in the development of Indian mathematical and scientific reasoning, where empirical observation, mathematical precision, and philosophical contemplation converged. The work demonstrates remarkable computational sophistication, utilizing trigonometric principles, advanced numerical algorithms, and nuanced understanding of celestial mechanics that anticipated later developments in astronomical science. As a cornerstone text in the Jyotisha tradition, it illuminates the intellectual depth of Indian scholarly practices, showcasing how cosmological understanding was deeply intertwined with mathematical, philosophical, and cultural knowledge systems of the period.
+collections:
+- scientific-texts
+- ancient-wisdom
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.326830"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.326830
+  type: other
 references:
-  - name: "Wikipedia: Varahamihira"
-    url: "https://en.wikipedia.org/wiki/Varahamihira"
-    type: "wikipedia"
-  - name: "Wikipedia: Indian astronomy"
-    url: "https://en.wikipedia.org/wiki/Indian_astronomy"
-    type: "wikipedia"
-  - name: "Wikipedia: Jyotisha"
-    url: "https://en.wikipedia.org/wiki/Jyotisha"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Varahamihira+Horasastram&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Varahamihira'
+  url: https://en.wikipedia.org/wiki/Varahamihira
+  type: wikipedia
+- name: 'Wikipedia: Indian astronomy'
+  url: https://en.wikipedia.org/wiki/Indian_astronomy
+  type: wikipedia
+- name: 'Wikipedia: Jyotisha'
+  url: https://en.wikipedia.org/wiki/Jyotisha
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Varahamihira+Horasastram&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Varahamihira", "Jyotisha", "Hora shastra", "Astronomy", "6th century", "Mathematical astronomy", "Planetary motion", "Time measurement", "Classical science", "Indian astronomy", "Astrology", "Celestial mechanics"]
 ---
 
 # Varahamihira Horasastram

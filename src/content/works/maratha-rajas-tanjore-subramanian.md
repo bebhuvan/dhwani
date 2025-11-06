@@ -1,28 +1,34 @@
 ---
-title: "Maratha Rajas of Tanjore"
-author: ["K. R. Subramanian"]
+title: 'Maratha Rajas of Tanjore'
+author:
+- K. R. Subramanian
 year: 1928
-language: ["English"]
-genre: ["Court History", "Regional Chronicle"]
-description: "119-page work documenting Bhonsle Maratha dynasty of Tanjore (Thanjavur), cadet branch of Shivaji's family ruling Tamil-speaking territories 1676-1855. Chronicles reign from Venkoji (Ekoji), Shivaji's half-brother who founded kingdom, through culturally significant Serfoji II. Details how Maratha rulers adopted Tamil culture while maintaining Marathi traditions, conflicts with Nayak remnants, relationships with Nawab of Arcot, British subsidiary alliances, and patronage of Carnatic music and art."
-collections: ['regional-history', 'court-chronicles']
+language:
+- English
+genre:
+- Court History
+- Regional Chronicle
+description: |
+  K. R. Subramanian's "Maratha Rajas of Tanjore" represents a pivotal scholarly intervention in understanding the complex cultural and political dynamics of South Indian regional history during the transitional period between Maratha and British colonial governance. Published in 1928 during the intensifying nationalist historical scholarship, the work meticulously reconstructs the trajectory of the Bhonsle Maratha dynasty's rule in Tanjore (Thanjavur) from 1676 to 1855, offering a nuanced examination of cultural hybridization and administrative adaptation. By comprehensively documenting the reign from Venkoji (Ekoji), Shivaji's half-brother who established the kingdom, through the culturally significant ruler Serfoji II, Subramanian illuminates the sophisticated mechanisms of cross-cultural governance in a multilingual region. The text critically analyzes how Maratha rulers strategically negotiated political survival by simultaneously maintaining Marathi familial traditions and embracing Tamil regional cultural practices. Notably, the work provides detailed insights into the dynasty's complex relationships with Nayak remnants, the Nawab of Arcot, and emerging British subsidiary alliances, demonstrating the intricate diplomatic strategies employed by regional powers during a period of extensive political transformation. Beyond political narrative, the chronicle significantly highlights the Maratha rulers' substantial cultural patronage, particularly in Carnatic music and artistic traditions, thereby revealing how dynastic power extended beyond territorial control into refined cultural production. As a scholarly contribution, the text challenges prevailing colonial historiographical narratives by centering indigenous agency and presenting a sophisticated, multidimensional understanding of regional political and cultural dynamics in late 17th to mid-19th century South India.
+collections:
+- regional-history
+- court-chronicles
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.74638"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.74638
+  type: other
 references:
-  - name: "Wikipedia: Thanjavur Maratha kingdom"
-    url: "https://en.wikipedia.org/wiki/Thanjavur_Maratha_kingdom"
-    type: "wikipedia"
-  - name: "Wikipedia: Serfoji II"
-    url: "https://en.wikipedia.org/wiki/Serfoji_II"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Maratha+Rajas+Tanjore+Subramanian&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Thanjavur Maratha kingdom'
+  url: https://en.wikipedia.org/wiki/Thanjavur_Maratha_kingdom
+  type: wikipedia
+- name: 'Wikipedia: Serfoji II'
+  url: https://en.wikipedia.org/wiki/Serfoji_II
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Maratha+Rajas+Tanjore+Subramanian&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Thanjavur", "Maratha", "Bhonsle", "Tamil Nadu", "Serfoji II", "Venkoji", "Carnatic music", "Cultural synthesis", "Regional history", "Nayak"]
 ---
 
 # Maratha Rajas of Tanjore

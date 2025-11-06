@@ -1,40 +1,51 @@
 ---
-title: "Kalpa Sutra (Scripture on Monastic Discipline and Sacred Biography)"
-author: ["Bhadrabahu"]
+title: 'Kalpa Sutra (Scripture on Monastic Discipline and Sacred Biography)'
+author:
+- Bhadrabahu
 year: -300
-language: ["Prakrit", "Ardhamagadhi"]
-genre: ["Jain Scripture", "Biography", "Monastic Rules", "Religious Literature"]
-description: "The Kalpa Sutra is one of the most important texts in Svetambara Jainism, traditionally attributed to Acharya Bhadrabahu (4th century BCE). This sacred text comprises three distinct sections: biographies of the twenty-four Tirthankaras (especially Mahavira and Parshvanatha), the lineage of early Jain teachers, and detailed monastic regulations for the rainy season retreat. Recited annually during the Paryushana festival, it holds both scriptural authority and liturgical centrality in Jain religious life."
-collections: ['jain-texts', 'religious-texts', 'spiritual-texts', 'historical-literature']
+language:
+- Prakrit
+- Ardhamagadhi
+genre:
+- Jain Scripture
+- Biography
+- Monastic Rules
+- Religious Literature
+description: |
+  The Kalpa Sutra is a canonical text of Svetambara Jainism, composed during the late Mauryan period (circa 300 BCE), which provides comprehensive documentation of early Jain philosophical and monastic traditions. Traditionally attributed to Acharya Bhadrabahu, a prominent Jain scholar, the text comprises three primary sections that systematically document the lives of the twenty-four Tirthankaras, with detailed biographical accounts of Mahavira and Parshvanatha. Its textual structure includes biographical narratives, spiritual genealogies, and extensive monastic regulatory codes. Historically significant, the manuscript illuminates the socio-religious dynamics of ancient Indian religious practices, particularly through its detailed exposition of Jain ascetic principles and ethical frameworks. The text serves a critical liturgical function, being ceremonially recited during the annual Paryushana festival, a period of religious introspection and spiritual practice for Jain practitioners. Of particular scholarly interest are its precise documentation of monastic regulations, especially those governing the chaturmasa (four-month rainy season retreat), which offer nuanced insights into the organizational structure and disciplinary practices of early Jain monastic communities. Textual analysis reveals the Kalpa Sutra's importance as a primary source for understanding the intellectual, spiritual, and organizational complexities of Jain religious development during a transformative period in the Indian subcontinent's philosophical landscape, providing scholars with a rigorous primary document for studying religious evolution and monastic institutional practices.
+collections:
+- jain-texts
+- religious-texts
+- spiritual-texts
+- historical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/kalpasutranavata00stevrich"
-    type: "other"
-  - name: "Sacred Texts"
-    url: "https://sacred-texts.com/jai/index.htm"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/kalpasutranavata00stevrich
+  type: other
+- name: 'Sacred Texts'
+  url: https://sacred-texts.com/jai/index.htm
+  type: other
 references:
-  - name: "Wikipedia: Kalpa Sutra"
-    url: "https://en.wikipedia.org/wiki/Kalpa_S%C5%ABtra"
-    type: "wikipedia"
-  - name: "Wikipedia: Bhadrabahu"
-    url: "https://en.wikipedia.org/wiki/Bhadrabahu"
-    type: "wikipedia"
-  - name: "Wikipedia: Mahavira"
-    url: "https://en.wikipedia.org/wiki/Mahavira"
-    type: "wikipedia"
-  - name: "Wikipedia: Tirthankara"
-    url: "https://en.wikipedia.org/wiki/Tirthankara"
-    type: "wikipedia"
-  - name: "Wikipedia: Paryushana"
-    url: "https://en.wikipedia.org/wiki/Paryushana"
-    type: "wikipedia"
-  - name: "Open Library: Kalpa Sutra (Scripture on"
-    url: "https://openlibrary.org/search?q=Kalpa+Sutra+Scripture+on+Monastic+Discipline+Bhadrabahu"
-    type: "other"
+- name: 'Wikipedia: Kalpa Sutra'
+  url: https://en.wikipedia.org/wiki/Kalpa_S%C5%ABtra
+  type: wikipedia
+- name: 'Wikipedia: Bhadrabahu'
+  url: https://en.wikipedia.org/wiki/Bhadrabahu
+  type: wikipedia
+- name: 'Wikipedia: Mahavira'
+  url: https://en.wikipedia.org/wiki/Mahavira
+  type: wikipedia
+- name: 'Wikipedia: Tirthankara'
+  url: https://en.wikipedia.org/wiki/Tirthankara
+  type: wikipedia
+- name: 'Wikipedia: Paryushana'
+  url: https://en.wikipedia.org/wiki/Paryushana
+  type: wikipedia
+- name: 'Open Library: Kalpa Sutra (Scripture on'
+  url: https://openlibrary.org/search?q=Kalpa+Sutra+Scripture+on+Monastic+Discipline+Bhadrabahu
+  type: other
 featured: true
 publishDate: 2025-10-30
-tags: ['religious']
 ---
 
 ## Authorship and Historical Context

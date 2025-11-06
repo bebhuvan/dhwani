@@ -1,28 +1,35 @@
 ---
-title: "Rig-Veda Samhita, Books 1-4"
-author: ["Horace Hayman Wilson"]
+title: 'Rig-Veda Samhita, Books 1-4'
+author:
+- Horace Hayman Wilson
 year: 1850
-language: ["English", "Sanskrit"]
-genre: ["Religious Texts", "Vedic Literature", "Translation"]
-description: "H.H. Wilson's translation of the first four mandalas of the Rigveda (1850-1888), the oldest Vedic text composed c. 1500-1200 BCE. This pioneering work made the foundational hymns of Indo-European religious tradition accessible to Western scholarship through Sayana's medieval commentary."
-collections: ['ancient-wisdom']
+language:
+- English
+- Sanskrit
+genre:
+- Religious Texts
+- Vedic Literature
+- Translation
+description: |
+  H.H. Wilson's seminal translation of the first four mandalas of the Rigveda represents a landmark scholarly endeavor in understanding the foundational textual corpus of Vedic Sanskrit literature during the early phase of British Orientalist scholarship. Composed between approximately 1500-1200 BCE during the late Bronze Age of the Indo-Aryan migration period, the Rigveda comprises a collection of 1,028 hymns organized into ten books (mandalas), representing the oldest extant textual repository of Indo-European religious and cultural traditions. Wilson's meticulous translation, developed between 1850-1888, drew critically upon Sayana's authoritative 14th-century medieval commentary, which provided crucial interpretative context for deciphering the complex linguistic and theological nuances of these ancient ritualistic and philosophical compositions. The translated texts offer profound insights into early Vedic cosmology, theological conceptualizations, social structures, and mythological narratives, revealing intricate connections between religious practice, philosophical speculation, and socio-cultural organization of early Indo-Aryan societies. Wilson's scholarly intervention was pivotal in making these esoteric spiritual texts accessible to Western academic discourse, facilitating cross-cultural understanding and comparative religious studies. By preserving and interpreting these sacred hymns dedicated to various Vedic deities like Indra, Agni, and Varuna, the translation illuminates the sophisticated intellectual and spiritual worldview of ancient Indian civilization, serving as a critical bridge between textual preservation and scholarly interpretation of one of humanity's oldest continuously transmitted religious traditions.
+collections:
+- ancient-wisdom
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/rigvedasanhita"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/rigvedasanhita
+  type: other
 references:
-  - name: "Wikipedia: Rigveda"
-    url: "https://en.wikipedia.org/wiki/Rigveda"
-    type: "wikipedia"
-  - name: "Wikipedia: Horace Hayman Wilson"
-    url: "https://en.wikipedia.org/wiki/Horace_Hayman_Wilson"
-    type: "wikipedia"
-  - name: "Wikipedia: Sayana"
-    url: "https://en.wikipedia.org/wiki/Sayana"
-    type: "wikipedia"
+- name: 'Wikipedia: Rigveda'
+  url: https://en.wikipedia.org/wiki/Rigveda
+  type: wikipedia
+- name: 'Wikipedia: Horace Hayman Wilson'
+  url: https://en.wikipedia.org/wiki/Horace_Hayman_Wilson
+  type: wikipedia
+- name: 'Wikipedia: Sayana'
+  url: https://en.wikipedia.org/wiki/Sayana
+  type: wikipedia
 featured: true
 publishDate: 2025-11-02
-tags: ["Rigveda", "H.H. Wilson", "Vedic literature", "Sanskrit", "Hindu scriptures", "Translation", "Vedic religion", "Sayana", "Indology", "Ancient India", "Hymns", "Indo-European", "Boden Professor", "19th century scholarship", "Comparative religion", "Indra", "Agni", "Soma", "Varuna", "Yajna", "Oral tradition"]
 ---
 
 # Rig-Veda Samhita, Books 1-4

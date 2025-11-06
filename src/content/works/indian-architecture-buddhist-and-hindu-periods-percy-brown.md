@@ -1,34 +1,40 @@
 ---
-title: "Indian Architecture: Buddhist and Hindu Periods"
-author: ["Percy Brown"]
+title: 'Indian Architecture: Buddhist and Hindu Periods'
+author:
+- Percy Brown
 year: 1959
-language: ["English"]
-genre: ["Architecture", "Art History", "Archaeology"]
-description: "Comprehensive architectural survey cataloging Buddhist and Hindu monuments from Mauryan period through medieval temples, analyzing structural typologies (stupas, chaitya-grihas, viharas, and temple forms in Nagara, Dravida, and Vesara styles) with over 500 measured drawings, photographs, and site plans."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Architecture
+- Art History
+- Archaeology
+description: |
+  Percy Brown's seminal work "Indian Architecture: Buddhist and Hindu Periods" represents a critical scholarly intervention in understanding India's architectural heritage during the transitional post-colonial period of the late 1950s. Published at a moment of intense academic reclamation of indigenous cultural narratives, the text systematically documents architectural evolution from the Mauryan period (c. 322-185 BCE) through medieval temple constructions, offering a comprehensive archaeological analysis of Buddhist and Hindu architectural traditions. Brown, a British architectural historian who dedicated significant professional research to the Indian subcontinent, synthesizes decades of archaeological research, colonial-era documentation, and measured site studies to present a rigorous architectural typology. The work meticulously catalogs structural forms including stupas, chaitya-grihas, viharas, and temple architectures representing Nagara, Dravida, and Vesara stylistic traditions, substantiated by over 500 precise architectural drawings, photographs, and site plans. Beyond its documentary value, the text critically examines architectural morphology as a lens for understanding cultural, religious, and technological transformations across different historical epochs. By systematically analyzing spatial configurations, decorative elements, and structural innovations, Brown illuminates the intricate relationships between architectural practice and broader socio-religious contexts in pre-modern Indian civilizations. The work remains a foundational reference for scholars of Indian architectural history, archaeology, and cultural studies, providing an empirically grounded narrative of architectural development that transcends colonial epistemological frameworks and centers indigenous architectural knowledge and practices.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/dli.csl.8666"
-    type: "other"
-  - name: "Internet Archive (Alternative Scan)"
-    url: "https://archive.org/details/indianarchitectu0001unse"
-    type: "other"
-  - name: "Internet Archive (DLI Collection)"
-    url: "https://archive.org/details/in.ernet.dli.2015.16883"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/dli.csl.8666
+  type: other
+- name: 'Internet Archive (Alternative Scan)'
+  url: https://archive.org/details/indianarchitectu0001unse
+  type: other
+- name: 'Internet Archive (DLI Collection)'
+  url: https://archive.org/details/in.ernet.dli.2015.16883
+  type: other
 references:
-  - name: "Wikipedia: Percy Brown (art historian)"
-    url: "https://en.wikipedia.org/wiki/Percy_Brown_(art_historian)"
-    type: "wikipedia"
-  - name: "Open Library search"
-    url: "https://openlibrary.org/search?q=Indian%20Architecture%20Buddhist%20Hindu%20Periods%20Percy%20Brown"
-    type: "openlibrary"
-  - name: "Project Gutenberg search"
-    url: "https://www.gutenberg.org/ebooks/search/?query=Percy%20Brown"
-    type: "other"
+- name: 'Wikipedia: Percy Brown (art historian)'
+  url: https://en.wikipedia.org/wiki/Percy_Brown_(art_historian)
+  type: wikipedia
+- name: 'Open Library search'
+  url: https://openlibrary.org/search?q=Indian%20Architecture%20Buddhist%20Hindu%20Periods%20Percy%20Brown
+  type: openlibrary
+- name: 'Project Gutenberg search'
+  url: https://www.gutenberg.org/ebooks/search/?query=Percy%20Brown
+  type: other
 featured: false
 publishDate: 2025-11-01
-tags: ["Architecture", "Buddhist Architecture", "Hindu Temples", "Percy Brown", "Art History", "Archaeological Survey", "Nagara", "Dravida", "Stupas", "Temple Architecture"]
 ---
 
 # Indian Architecture: Buddhist and Hindu Periods

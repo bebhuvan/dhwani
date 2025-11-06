@@ -16,9 +16,6 @@ sources:
   - name: "Project Gutenberg (English translation)"
     url: "https://www.gutenberg.org/ebooks/41421"
     type: "other"
-  - name: "Sanskrit Documents (Devanagari text)"
-    url: "https://sanskritdocuments.org/doc_drama/naagaananda.html"
-    type: "other"
 references:
   - name: "Wikipedia: Nagananda"
     url: "https://en.wikipedia.org/wiki/Nagananda"

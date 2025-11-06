@@ -1,5 +1,5 @@
 ---
-title: The Panjab, North-West Frontier Province, and Kashmir
+title: 'The Panjab, North-West Frontier Province, and Kashmir'
 author:
 - Douie, James McCrone, Sir
 year: 1920
@@ -9,31 +9,22 @@ genre:
 - Historical Literature
 - Travel Literature
 - Geography
-description: A comprehensive geographical and historical account of the Panjab region,
-  North-West Frontier Province, and Kashmir based on three decades of administrative
-  service. The work explores the physical landscape, administrative details, and cultural
-  aspects of these strategically important territories within British India.
+description: |
+  Published during the twilight of British colonial administration in India, this comprehensive geographical and historical treatise represents a seminal scholarly work capturing the intricate administrative, cultural, and geographical landscape of North-Western British India. Sir James McCrone Douie, a distinguished British Imperial Civil Service administrator with extensive regional experience, synthesizes three decades of administrative and scholarly observation to provide an authoritative account of the Panjab, North-West Frontier Province, and Kashmir during a transformative period of imperial cartography and territorial consolidation. The work emerges at a critical historical juncture, reflecting the complex administrative mechanisms of British colonial governance while simultaneously documenting the region's profound cultural and geographical diversity. Douie's meticulous approach combines administrative expertise with ethnographic detail, offering nuanced insights into the region's physical terrain, administrative structures, demographic compositions, and socio-cultural dynamics. Beyond its immediate colonial administrative purpose, the text provides contemporary scholars with a critical historical lens through which to understand the geopolitical configurations, territorial representations, and administrative interventions characteristic of late British imperial period in the Indian subcontinent. The work's significance lies not merely in its empirical documentation but in its inadvertent preservation of complex regional identities during a period of profound political transformation. For Indian cultural and historical studies, Douie's comprehensive account serves as an important archival resource, revealing the intricate interactions between imperial administrative frameworks and local societal structures, thus offering contemporary researchers a sophisticated understanding of regional complexities during a pivotal moment of colonial governance and emerging nationalist consciousness.
 collections:
 - classical-literature
 sources:
-- name: Project Gutenberg
+- name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/24562
   type: other
-- name: Project Gutenberg (HTML)
+- name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/24562.html.images
   type: other
-- name: Internet Archive (The Panjab, North-West Frontier Province, and Kashmir)
+- name: 'Internet Archive (The Panjab, North-West Frontier Province, and Kashmir)'
   url: https://archive.org/details/thepanjabnorthwe24562gut
   type: other
-references: []
 featured: false
 publishDate: 2025-11-01
-tags:
-- public domain
-- India -- Description and travel
-- Jammu and Kashmir
-- Punjab
-- 'Open Library: The Panjab, North-West Frontier Province, and Kashmir'
 ---
 
 # The Panjab, North-West Frontier Province, and Kashmir

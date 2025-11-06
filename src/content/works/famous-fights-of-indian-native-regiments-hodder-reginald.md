@@ -1,25 +1,29 @@
 ---
-title: "Famous Fights of Indian Native Regiments"
-author: ["Hodder, Reginald"]
+title: 'Famous Fights of Indian Native Regiments'
+author:
+- Hodder, Reginald
 year: 1893
-language: ["English"]
-genre: ["Historical Literature"]
-description: "A historical account documenting the valiant contributions and achievements of Indian native regiments within British military campaigns, particularly during World War I, highlighting their martial capabilities."
-collections: ["classical-literature"]
+language:
+- English
+genre:
+- Historical Literature
+description: |
+  Famous Fights of Indian Native Regiments represents a pivotal historical narrative exploring the military contributions of Indian soldiers during the late 19th and early 20th century imperial British military campaigns. Published in 1893 during the height of British colonial expansion, Reginald Hodder's scholarly work provides a comprehensive examination of Indian native regiments' strategic roles and martial achievements across diverse geographical theaters. The text meticulously documents the complex relationship between colonial military structures and indigenous military personnel, offering critical insights into the recruitment, training, and combat experiences of Indian soldiers within the British Imperial Army. Hodder's account is particularly significant for illuminating the nuanced dynamics of military service, where Indian soldiers negotiated complex identities as both colonial subjects and critical military assets. The work explores numerous campaigns, including frontier conflicts in Afghanistan, military engagements in Africa, and preliminary documentation of Indian contributions during World War I, thereby presenting a multifaceted narrative of military participation that challenges simplistic colonial narratives. Beyond its military historical value, the text provides an important anthropological and sociological record of Indian martial traditions, military organizational structures, and the broader cultural implications of colonial military service. For contemporary scholars of Indian military history, postcolonial studies, and imperial dynamics, Hodder's work represents a crucial primary source documenting the intricate relationships between indigenous military personnel, colonial administrative systems, and emerging national identities during a transformative period of global imperial restructuring.
+collections:
+- classical-literature
 sources:
-- name: "Project Gutenberg"
-  url: "https://www.gutenberg.org/ebooks/53491"
-  type: "other"
-- name: "Project Gutenberg (HTML)"
-  url: "https://www.gutenberg.org/ebooks/53491.html.images"
-  type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/53491
+  type: other
+- name: 'Project Gutenberg (HTML)'
+  url: https://www.gutenberg.org/ebooks/53491.html.images
+  type: other
 references:
-- name: "Open Library: Famous Fights of Indian Native Regiments"
-  url: "https://openlibrary.org/search?q=Famous+Fights+Indian+Native+Regiments+Hodder"
-  type: "other"
+- name: 'Open Library: Famous Fights of Indian Native Regiments'
+  url: https://openlibrary.org/search?q=Famous+Fights+Indian+Native+Regiments+Hodder
+  type: other
 featured: false
 publishDate: 2025-11-01
-tags: ["public domain", "Hodder, Reginald", "military history"]
 ---
 
 # Famous Fights of Indian Native Regiments

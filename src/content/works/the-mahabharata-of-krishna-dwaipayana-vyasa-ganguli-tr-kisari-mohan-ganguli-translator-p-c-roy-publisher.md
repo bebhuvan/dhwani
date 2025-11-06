@@ -1,37 +1,48 @@
 ---
-title: "The Mahabharata of Krishna-Dwaipayana Vyasa (Ganguli tr.)"
-author: ["Vyasa", "Kisari Mohan Ganguli"]
+title: 'The Mahabharata of Krishna-Dwaipayana Vyasa (Ganguli tr.)'
+author:
+- Vyasa
+- Kisari Mohan Ganguli
 year: 1883
-language: ["Sanskrit", "English"]
-genre: ["Epic Literature", "Ancient Literature", "Philosophy", "Religious Studies"]
-description: "Kisari Mohan Ganguli's monumental complete English translation (1883-1896), first rendering of entire epic. Published by P.C. Roy, this pioneering work made India's greatest epic accessible."
-collections: ['ancient-wisdom', 'spiritual-texts', 'classical-literature']
+language:
+- Sanskrit
+- English
+genre:
+- Epic Literature
+- Ancient Literature
+- Philosophy
+- Religious Studies
+description: |
+  The Mahabharata, an extraordinary Sanskrit epic composed between 500 BCE and 400 CE, represents a foundational text of classical Indian civilization, embodying complex philosophical, social, and religious discourses of its era. Traditionally attributed to the sage Vyasa (Krishna-Dwaipayana), this monumental work comprises approximately 100,000 ślokas (verses), making it the world's longest known epic poem. Emerging during the transitional period between Vedic and classical Hindu intellectual traditions, the text reflects the sophisticated socio-political transformations of late Mauryan and early Gupta periods, capturing the intricate dynamics of regional kingdoms, emerging social hierarchies, and evolving philosophical conceptualizations. The epic centers on the genealogical and political conflicts of the Kuru dynasty, particularly the fratricidal war between the Pandava and Kaurava royal lineages, serving as an allegorical exploration of dharma (ethical and cosmic order), human morality, and metaphysical principles. Within its narrative framework, the Bhagavad Gita—perhaps the most renowned philosophical segment—emerges as a profound philosophical dialogue between Prince Arjuna and Lord Krishna, addressing fundamental questions of duty, action, and spiritual liberation. Kisari Mohan Ganguli's comprehensive English translation (1883-1896) represented a watershed moment in making this complex text accessible to global scholarly discourse, providing unprecedented insight into classical Indian intellectual and cultural systems. Beyond its literary significance, the Mahabharata functions as a crucial repository of Indic knowledge systems, encompassing mythology, social norms, legal principles, and philosophical contemplations that continue to shape contemporary understanding of Indian cultural heritage.
+collections:
+- ancient-wisdom
+- spiritual-texts
+- classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/mahabharataofkri01roypuoft"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/mahabharataofkri04calcuoft"
-    type: "other"
-  - name: "Internet Archive (Volume 6)"
-    url: "https://archive.org/details/mahabharata06ramauoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/mahabharataofkri01roypuoft
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/mahabharataofkri04calcuoft
+  type: other
+- name: 'Internet Archive (Volume 6)'
+  url: https://archive.org/details/mahabharata06ramauoft
+  type: other
 references:
-  - name: "Wikisource"
-    url: "https://en.wikisource.org/wiki/The_Mahabharat"
-    type: "wikisource"
-  - name: "Wikipedia: Mahabharata"
-    url: "https://en.wikipedia.org/wiki/Mahabharata"
-    type: "wikipedia"
-  - name: "Wikipedia: Kisari Mohan Ganguli"
-    url: "https://en.wikipedia.org/wiki/Kisari_Mohan_Ganguli"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Mahabharata&mode=everything"
-    type: "other"
+- name: 'Wikisource'
+  url: https://en.wikisource.org/wiki/The_Mahabharat
+  type: wikisource
+- name: 'Wikipedia: Mahabharata'
+  url: https://en.wikipedia.org/wiki/Mahabharata
+  type: wikipedia
+- name: 'Wikipedia: Kisari Mohan Ganguli'
+  url: https://en.wikipedia.org/wiki/Kisari_Mohan_Ganguli
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Mahabharata&mode=everything
+  type: other
 featured: false
 publishDate: 2025-09-28
-tags: ["Mahabharata", "Vyasa", "Kisari Mohan Ganguli", "Sanskrit Epic", "Kurukshetra War", "Bhagavad Gita", "Ancient Literature", "Hindu Philosophy", "Epic Poetry", "Sanskrit Translation", "Indian Classics", "Religious Literature"]
 ---
 
 # The Mahabharata of Krishna-Dwaipayana Vyasa (Ganguli tr.)
@@ -247,4 +258,3 @@ Modern critical editions, scholarly commentaries, and contemporary translations 
 ---
 
 *This content was researched and written by Claude (Anthropic), an AI assistant, in 2025.*
-

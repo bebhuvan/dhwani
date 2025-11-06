@@ -1,25 +1,29 @@
 ---
-title: "The Highlands of Central India"
-author: ["James Forsyth"]
+title: 'The Highlands of Central India'
+author:
+- James Forsyth
 year: 1871
-language: ["English"]
-genre: ["Literature"]
-description: "The Highlands of Central India by James Forsyth (1871 (1889 ed.)) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage. This work offers valuable insights into the British Raj period, featuring independence movements, cultural renaissance, and literary awakening."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Literature
+description: |
+  James Forsyth's "The Highlands of Central India" represents a critical ethnographic and geographical documentation of the central Indian landscape during the late 19th-century British Colonial period, offering a comprehensive scholarly exploration of the region's physical, cultural, and anthropological characteristics. Published in 1871 during the mature phase of the British Raj, the work provides intricate observations of the highland regions encompassing modern-day Madhya Pradesh, Chhattisgarh, and parts of Maharashtra, presenting a detailed cartographic and cultural analysis from a British imperial perspective. Forsyth, who served as a colonial administrator and naturalist, combined official documentation with scientific observation, creating a nuanced record of indigenous communities, ecological systems, tribal interactions, and regional geographical features. The text is particularly significant for its meticulous documentation of indigenous tribal societies, including detailed accounts of Gond, Baiga, and other local communities, their social structures, economic practices, and cultural traditions during a period of significant colonial transformation. Beyond its ethnographic value, the work provides critical insights into the colonial administrative approach, environmental understanding, and the complex interactions between British imperial knowledge systems and indigenous cultural landscapes. Forsyth's methodology exemplifies the late 19th-century scholarly approach of combining empirical observation with administrative documentation, making the text a valuable resource for contemporary historians, anthropologists, and scholars of colonial studies interested in understanding the intricate dynamics of cultural representation, imperial knowledge production, and regional transformations during the British colonial era in central India.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/highlandsofcentr00fors"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/highlandsofcentr00fors
+  type: other
 references:
-  - name: "Wikipedia: Central Highlands"
-    url: "https://en.wikipedia.org/wiki/Central_Highlands_(India)"
-    type: "wikipedia"
-  - name: "Open Library: The Highlands of Central"
-    url: "https://openlibrary.org/search?q=The+Highlands+of+Central+India+year+James+Forsyth"
-    type: "other"
+- name: 'Wikipedia: Central Highlands'
+  url: https://en.wikipedia.org/wiki/Central_Highlands_(India)
+  type: wikipedia
+- name: 'Open Library: The Highlands of Central'
+  url: https://openlibrary.org/search?q=The+Highlands+of+Central+India+year+James+Forsyth
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 # The Highlands of Central India

@@ -1,25 +1,34 @@
 ---
-title: "The Cambridge history of India"
-author: ["Edward James Rapson"]
+title: 'The Cambridge history of India'
+author:
+- Edward James Rapson
 year: 1922
-language: ["English"]
-genre: ["Historical Reference", "Indian History", "Academic History"]
-description: "The Cambridge History of India, Volume I: Ancient India (1922), edited by numismatist E.J. Rapson, represents the first volume of Cambridge University Press's ambitious multi-volume history project (1922-1937), providing comprehensive scholarly coverage of Indian history from ancient times through British imperial rule."
-collections: ["historical-literature", "reference-texts", "indology", "colonial-india"]
+language:
+- English
+genre:
+- Historical Reference
+- Indian History
+- Academic History
+description: |
+  The Cambridge History of India, Volume I: Ancient India (1922), edited by renowned numismatist and Indologist Edward James Rapson, represents a foundational scholarly work in early 20th-century historiography of the Indian subcontinent. Comprising the first volume of Cambridge University Press's comprehensive multi-volume series (1922-1937), the text meticulously chronicles Indian civilization from prehistoric periods through early medieval transitions, drawing on contemporary archaeological, epigraphical, and textual evidence. Rapson, a distinguished scholar of Oriental studies at Cambridge University, assembled a cohort of leading Indologists and historians to provide rigorous, systematic analysis of India's complex social, political, and cultural formations. The volume critically examines prehistoric settlements, Indus Valley civilizations, Vedic and post-Vedic societal structures, imperial dynasties like the Mauryas and Guptas, and the intricate religious and philosophical developments that characterized ancient Indian intellectual traditions. By integrating archaeological discoveries, numismatic evidence, and textual interpretations, the work offered unprecedented scholarly depth, challenging prevailing colonial narratives and providing a more nuanced understanding of Indian historical continuities. Its comprehensive approach significantly influenced subsequent generations of historians, establishing methodological standards for academic research on South Asian civilizations. The text remains a crucial reference for understanding India's rich cultural heritage, demonstrating how scholarly documentation can reconstruct complex historical narratives while respecting the intellectual sophistication of ancient Indian societies. Its meticulous scholarship continues to inform contemporary research in archaeology, anthropology, and historical studies.
+collections:
+- historical-literature
+- reference-texts
+- indology
+- colonial-india
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/cambridgehistory01rapsuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/cambridgehistory01rapsuoft
+  type: other
 references:
-  - name: "Wikipedia: Cambridge History of India"
-    url: "https://en.wikipedia.org/wiki/The_Cambridge_History_of_India"
-    type: "wikipedia"
-  - name: "OpenLibrary: Cambridge History of India"
-    url: "https://openlibrary.org/books/OL6644576M/The_Cambridge_history_of_India."
-    type: "other"
+- name: 'Wikipedia: Cambridge History of India'
+  url: https://en.wikipedia.org/wiki/The_Cambridge_History_of_India
+  type: wikipedia
+- name: 'OpenLibrary: Cambridge History of India'
+  url: https://openlibrary.org/books/OL6644576M/The_Cambridge_history_of_India.
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Edward James Rapson", "Cambridge history", "ancient India", "medieval India", "comprehensive history", "scholarly reference", "British scholarship", "Indology", "Indian civilization", "20th century"]
 ---
 
 # The Cambridge history of India

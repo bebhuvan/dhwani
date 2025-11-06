@@ -1,25 +1,29 @@
 ---
-title: "Indian Speeches (1907–1909)"
-author: ["John Morley"]
+title: 'Indian Speeches (1907–1909)'
+author:
+- John Morley
 year: 1910
-language: ["English"]
-genre: ["Political Literature"]
-description: "Indian Speeches (1907–1909) by John Morley (1910) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage. This work offers valuable insights into the British Raj period, featuring independence movements, cultural renaissance, and literary awakening."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Political Literature
+description: |
+  Indian Speeches (1907–1909) represents a critical textual compilation documenting the political discourse and intellectual transformations during the late British colonial period in India. Authored by John Morley, a prominent British Liberal statesman and Secretary of State for India (1905-1910), the work captures a pivotal transitional moment in Indo-British political relations, characterized by emerging nationalist sentiments and complex colonial administrative perspectives. Morley, known for his progressive intellectual stance, compiled these speeches during a period of significant constitutional reforms and increasing Indian political mobilization, including the landmark Morley-Minto Reforms of 1909 that expanded Indian representation in legislative councils. The compilation provides nuanced scholarly insight into the evolving political dialogue between British administrators and Indian intellectuals, reflecting the intricate dynamics of colonial governance, nationalist aspirations, and emerging indigenous political consciousness. These speeches illuminate critical discussions surrounding constitutional reforms, indigenous political participation, and the gradual reconfiguration of colonial power structures. Contextualizing the work within the broader intellectual landscape of early 20th-century India, the text captures the sophisticated political rhetoric and emerging nationalist discourse that would subsequently shape India's independence movement. For contemporary scholars of colonial studies, Indian political history, and postcolonial literature, Morley's compilation offers a significant archival resource documenting the intellectual and political negotiations that characterized this transformative historical period, providing granular understanding of the complex interactions between colonial administrative perspectives and emerging Indian political agency.
+collections:
+- modern-literature
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/10956"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/10956
+  type: other
 references:
-  - name: "Wikipedia: John Morley"
-    url: "https://en.wikipedia.org/wiki/John_Morley"
-    type: "wikipedia"
-  - name: "Open Library: Indian Speeches (1907–1909) year"
-    url: "https://openlibrary.org/search?q=Indian+Speeches+19071909+year+1910+language+John+Morley"
-    type: "other"
+- name: 'Wikipedia: John Morley'
+  url: https://en.wikipedia.org/wiki/John_Morley
+  type: wikipedia
+- name: 'Open Library: Indian Speeches (1907–1909) year'
+  url: https://openlibrary.org/search?q=Indian+Speeches+19071909+year+1910+language+John+Morley
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 # Indian Speeches (1907–1909)

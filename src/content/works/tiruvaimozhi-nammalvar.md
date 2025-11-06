@@ -10,9 +10,6 @@ sources:
   - name: "Internet Archive (Malayalam-English translation by Dr. T.D. Muralidharan)"
     url: "https://archive.org/details/koyilthiruvaymozhitamilvedaofnammalvarmalayalamenglishtranslationdrtdmuralidharan2002ocr"
     type: "other"
-  - name: "Wikisource Tamil: Tiruvaimozhi"
-    url: "https://ta.wikisource.org/wiki/திருவாய்மொழி"
-    type: "other"
 references:
   - name: "Wikipedia: Nammalvar"
     url: "https://en.wikipedia.org/wiki/Nammalvar"

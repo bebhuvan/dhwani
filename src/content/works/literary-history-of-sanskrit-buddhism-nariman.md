@@ -1,28 +1,35 @@
 ---
-title: "Literary History of Sanskrit Buddhism"
-author: ["Gushtaspshah Kaikhushro Nariman"]
+title: 'Literary History of Sanskrit Buddhism'
+author:
+- Gushtaspshah Kaikhushro Nariman
 year: 1923
-language: ["English"]
-genre: ["Literary History", "Religious Studies"]
-description: "This 430-page compilation synthesizes the scholarship of three prominent European Buddhologists—Moriz Winternitz, Sylvain Lévi, and Eduard Huber—into a comprehensive overview of Sanskrit Buddhist literature. Nariman, a Parsi scholar who also wrote on Zoroastrianism, drew from their research to create an accessible introduction to surviving works from the Sanskrit Buddhist tradition."
-collections: ['spiritual-texts', 'ancient-wisdom', 'classical-literature']
+language:
+- English
+genre:
+- Literary History
+- Religious Studies
+description: |
+  Gushtaspshah Kaikhushro Nariman's Literary History of Sanskrit Buddhism, published in 1923, represents a pivotal scholarly intervention during the early decades of 20th-century Indological research, synthesizing critical European Buddhist scholarship with emerging indigenous academic perspectives. Comprehensively examining the textual traditions of Buddhist literature in Sanskrit, the work draws extensively from the meticulous research of European Buddhologists like Moriz Winternitz, Sylvain Lévi, and Eduard Huber, while offering Nariman's distinctive Parsi scholarly lens to interpret these complex textual traditions. As a 430-page comprehensive compilation, the work methodically traces the evolution of Sanskrit Buddhist literary productions, exploring canonical texts, philosophical treatises, narrative compositions, and scholarly commentaries that emerged across different historical periods. Nariman's scholarly approach is particularly significant in contextualizing Buddhist textual traditions within broader Indian intellectual and cultural landscapes, demonstrating how religious literary productions reflect complex philosophical, social, and historical dynamics. The work is especially valuable for its rigorous documentation of surviving Sanskrit Buddhist manuscripts, providing detailed insights into textual transmission, philosophical developments, and the intellectual genealogies of Buddhist thought. By bridging European scholarly methodologies with nuanced indigenous understanding, Nariman's text serves as a critical resource for understanding the intricate relationships between religious textuality, intellectual history, and cultural production in pre-modern Indian contexts, making substantive contributions to emerging fields of comparative religious studies, literary history, and scholarly interpretations of Buddhist intellectual heritage.
+collections:
+- spiritual-texts
+- ancient-wisdom
+- classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/literaryhistoryo00nariuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/literaryhistoryo00nariuoft
+  type: other
 references:
-  - name: "Wikipedia: Moriz Winternitz"
-    url: "https://en.wikipedia.org/wiki/Moriz_Winternitz"
-    type: "wikipedia"
-  - name: "Wikipedia: Sylvain Lévi"
-    url: "https://en.wikipedia.org/wiki/Sylvain_Lévi"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=literary+history+sanskrit+buddhism+nariman&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Moriz Winternitz'
+  url: https://en.wikipedia.org/wiki/Moriz_Winternitz
+  type: wikipedia
+- name: 'Wikipedia: Sylvain Lévi'
+  url: https://en.wikipedia.org/wiki/Sylvain_Lévi
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=literary+history+sanskrit+buddhism+nariman&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-23
-tags: ["Sanskrit Buddhism", "Buddhist literature", "literary history", "Moriz Winternitz", "Sylvain Lévi", "Eduard Huber", "Buddhist texts", "religious studies", "Parsi scholarship", "Indian Book Depot", "Bombay", "comparative religion"]
 ---
 
 # Literary History of Sanskrit Buddhism

@@ -1,31 +1,39 @@
 ---
-title: "Folklore of the Santal Parganas"
-author: ["Rev. P. O. Bodding", "Cecil Henry Bompas"]
+title: 'Folklore of the Santal Parganas'
+author:
+- Rev. P. O. Bodding
+- Cecil Henry Bompas
 year: 1909
-language: ["English"]
-genre: ["Folklore", "Ethnography", "Oral Literature"]
-description: "483-page collection of Santal (Munda tribe) oral traditions from Chutia Nagpore plateau, organized into six parts: general stories, animal tales, anecdotes of Santal life, bonga-human interactions, legends/traditions, and extensive witchcraft narratives. Documents origin myths including 'the husk myth,' initiation rituals into witchcraft, belief systems regarding supernatural beings, and provides critical ethnographic insight into Santal cosmology and worldview."
-collections: ['folklore', 'ethnography']
+language:
+- English
+genre:
+- Folklore
+- Ethnography
+- Oral Literature
+description: |
+  During the late colonial period of British India, when European scholars were systematically documenting indigenous knowledge systems, Rev. P. O. Bodding's seminal work "Folklore of the Santal Parganas" represented a crucial scholarly intervention in preserving the rich oral traditions of the Santal people of the Chutia Nagpore plateau. A Norwegian Lutheran missionary and meticulous ethnographer, Bodding spent decades immersed in Santal culture, collecting narratives between the late 1890s and early 1900s during a critical period of cultural transformation under colonial administrative and missionary influences. The 483-page compilation provides an unprecedented comprehensive documentation of Santal cosmology, presenting six thematic sections that explore origin myths, animal tales, social anecdotes, supernatural interactions, legends, and intricate witchcraft narratives. Beyond mere documentation, the work offers profound insights into Santal epistemological frameworks, belief systems, and complex social structures, including detailed accounts of 'the husk myth,' initiation rituals, and intricate relationships between human and supernatural realms. For Indian cultural studies, this text represents a vital anthropological resource that captures an indigenous knowledge system at a moment of significant cultural transition, preserving linguistic, mythological, and social practices that might otherwise have been lost. Bodding's scholarly rigor and deep cultural immersion enabled him to transcribe these oral traditions with remarkable fidelity, making the work an essential reference for understanding the rich intellectual and spiritual heritage of the Munda tribal communities in eastern India.
+collections:
+- folklore
+- ethnography
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/folkloreofsantal00bomp"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/folkloreofsantal00bomp
+  type: other
 references:
-  - name: "Wikipedia: Paul Olaf Bodding"
-    url: "https://en.wikipedia.org/wiki/Paul_Olaf_Bodding"
-    type: "wikipedia"
-  - name: "Wikipedia: Santal people"
-    url: "https://en.wikipedia.org/wiki/Santal_people"
-    type: "wikipedia"
-  - name: "Wikipedia: Folklore"
-    url: "https://en.wikipedia.org/wiki/Folklore"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Folklore+Santal+Parganas+Bompas&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Paul Olaf Bodding'
+  url: https://en.wikipedia.org/wiki/Paul_Olaf_Bodding
+  type: wikipedia
+- name: 'Wikipedia: Santal people'
+  url: https://en.wikipedia.org/wiki/Santal_people
+  type: wikipedia
+- name: 'Wikipedia: Folklore'
+  url: https://en.wikipedia.org/wiki/Folklore
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Folklore+Santal+Parganas+Bompas&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Santal folklore", "Munda tribes", "Jharkhand", "Oral traditions", "Witchcraft beliefs", "Tribal cosmology", "P. O. Bodding", "Cecil Bompas", "Chota Nagpur", "Indigenous narratives", "1900s ethnography"]
 ---
 
 # Folklore of the Santal Parganas

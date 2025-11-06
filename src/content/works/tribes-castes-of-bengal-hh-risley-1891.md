@@ -1,37 +1,44 @@
 ---
-title: "The Tribes and Castes of Bengal: Ethnographic Glossary"
-author: ["Herbert Hope Risley"]
+title: 'The Tribes and Castes of Bengal: Ethnographic Glossary'
+author:
+- Herbert Hope Risley
 year: 1891
-language: ["English"]
-genre: ["Ethnography", "Anthropology", "Social History"]
-description: "Four-volume ethnographic survey resulting from 1885 Bengal Ethnographic Survey, documenting caste system, tribal communities, and social organization through ethnographic glossaries and anthropometric measurements. Pioneered systematic racial classification theories applied to Indian populations, profoundly influencing 1901 Census and colonial caste enumeration policies. Despite discredited methodological foundations in scientific racism, remains significant historical document of late 19th-century Bengali society and colonial ethnographic practices."
-collections: ['ethnographic-studies', 'colonial-india']
+language:
+- English
+genre:
+- Ethnography
+- Anthropology
+- Social History
+description: |
+  The Tribes and Castes of Bengal: Ethnographic Glossary represents a pivotal anthropological work emerging from the late 19th-century British colonial ethnographic project, produced during a critical period of systematic social categorization in India. Herbert Hope Risley, a prominent colonial administrator and ethnographer with the Bengal Secretariat, conducted extensive field research and documentation that significantly shaped colonial understanding of Indian social structures. Comprising four comprehensive volumes, the work meticulously catalogs the complex social architectures of Bengal's diverse communities through detailed ethnographic observations, linguistic analysis, and anthropometric measurements. Risley's methodology, grounded in contemporary racial classification theories, attempted to systematize Indian populations through physical and cultural characteristics, reflecting the prevailing scientific paradigms of racial taxonomy prevalent in late 19th-century colonial scholarship. The work provides an intricate taxonomy of caste groups, tribal communities, and social hierarchies, documenting linguistic variations, occupational practices, religious traditions, and kinship structures across Bengal's diverse social landscape. While deeply problematic in its underlying colonial epistemological frameworks and racialist assumptions, the text remains a crucial historical document offering unprecedented detailed ethnographic insights into Bengali society during a transformative period of colonial encounter and social reconfiguration. Risley's work profoundly influenced subsequent census methodologies, administrative classifications, and scholarly approaches to understanding India's complex social formations, serving as a critical lens for analyzing the intersections of colonial knowledge production, social classification, and indigenous cultural complexity.
+collections:
+- ethnographic-studies
+- colonial-india
 sources:
-  - name: "Internet Archive (Vol. 1)"
-    url: "https://archive.org/details/TheTribesAndCastesOfBengal"
-    type: "other"
-  - name: "Internet Archive (Vol. 2)"
-    url: "https://archive.org/details/TheTribesAndCastesOfBengal_201509"
-    type: "other"
-  - name: "Internet Archive (Google Books)"
-    url: "https://archive.org/details/tribesandcastes00rislgoog"
-    type: "other"
-  - name: "Internet Archive (Anthropometric Data Vol. 2)"
-    url: "https://archive.org/details/in.gov.ignca.13934"
-    type: "other"
+- name: 'Internet Archive (Vol. 1)'
+  url: https://archive.org/details/TheTribesAndCastesOfBengal
+  type: other
+- name: 'Internet Archive (Vol. 2)'
+  url: https://archive.org/details/TheTribesAndCastesOfBengal_201509
+  type: other
+- name: 'Internet Archive (Google Books)'
+  url: https://archive.org/details/tribesandcastes00rislgoog
+  type: other
+- name: 'Internet Archive (Anthropometric Data Vol. 2)'
+  url: https://archive.org/details/in.gov.ignca.13934
+  type: other
 references:
-  - name: "Wikipedia: The Tribes and Castes of Bengal"
-    url: "https://en.wikipedia.org/wiki/The_Tribes_and_Castes_of_Bengal"
-    type: "wikipedia"
-  - name: "Wikipedia: Herbert Hope Risley"
-    url: "https://en.wikipedia.org/wiki/Herbert_Hope_Risley"
-    type: "wikipedia"
-  - name: "OpenLibrary"
-    url: "https://openlibrary.org/search?q=Tribes+Castes+Bengal+Risley"
-    type: "other"
+- name: 'Wikipedia: The Tribes and Castes of Bengal'
+  url: https://en.wikipedia.org/wiki/The_Tribes_and_Castes_of_Bengal
+  type: wikipedia
+- name: 'Wikipedia: Herbert Hope Risley'
+  url: https://en.wikipedia.org/wiki/Herbert_Hope_Risley
+  type: wikipedia
+- name: 'OpenLibrary'
+  url: https://openlibrary.org/search?q=Tribes+Castes+Bengal+Risley
+  type: other
 featured: false
 publishDate: 2025-01-24
-tags: ["Ethnography", "Bengal", "Caste system", "Colonial anthropology", "H.H. Risley", "Social structure", "19th century", "Tribal communities", "Census", "Scientific racism", "Historical document", "Public domain"]
 ---
 
 # The Tribes and Castes of Bengal

@@ -11,34 +11,26 @@ genre:
 - Poetry
 - Religious Literature
 - Sanskrit Literature
-description: Valmiki's Râmâyana, one of the world's greatest epics and a foundational
-  text of Indian literature and Hindu religious tradition, translated into French
-  from the original Sanskrit. This complete work encompasses both volumes (tomes)
-  of the French translation, tracing the entire epic from Rama's divine birth and
-  royal lineage through his exile, Sita's abduction by the demon king Ravana, the
-  formation of alliances with Sugriva and the monkey army, and the climactic battle
-  for Sita's rescue. The epic interweaves mythology, religious instruction, and profound
-  literature, exploring dharma (righteous duty), virtue, and the proper conduct of
-  life while combining lyrical beauty with philosophical depth.
+description: |
+  Compiled around 500-400 BCE during the post-Vedic period in ancient India, Valmiki's Râmâyana emerged as a seminal work during a transformative era of Sanskrit literary and philosophical development, reflecting the socio-cultural transitions of the early classical Indian civilization. Valmiki, traditionally considered the first Sanskrit poet and often referred to as the "Adi Kavi" (first poet), composed this epic during a time of significant religious and social restructuring, when Brahmanical traditions were being codified and complex philosophical and ethical frameworks were taking shape. Valmiki's Râmâyana, one of the world's greatest epics and a foundational text of Indian literature and Hindu religious tradition, translated into French from the original Sanskrit. This complete work encompasses both volumes (tomes) of the French translation, tracing the entire epic from Rama's divine birth and royal lineage through his exile, Sita's abduction by the demon king Ravana, the formation of alliances with Sugriva and the monkey army, and the climactic battle for Sita's rescue. The epic interweaves mythology, religious instruction, and profound literature, exploring dharma (righteous duty), virtue, and the proper conduct of life while combining lyrical beauty with philosophical depth.
 collections:
 - classical-literature
 - poetry-collection
 - devotional-literature
 sources:
-- name: Project Gutenberg - Tome premier
+- name: 'Project Gutenberg - Tome premier'
   url: https://www.gutenberg.org/ebooks/20479
   type: other
-- name: Project Gutenberg (HTML) - Tome premier
+- name: 'Project Gutenberg (HTML) - Tome premier'
   url: https://www.gutenberg.org/ebooks/20479.html.images
   type: other
-- name: Project Gutenberg - Tome second
+- name: 'Project Gutenberg - Tome second'
   url: https://www.gutenberg.org/ebooks/20640
   type: other
-- name: Project Gutenberg (HTML) - Tome second
+- name: 'Project Gutenberg (HTML) - Tome second'
   url: https://www.gutenberg.org/ebooks/20640.html.images
   type: other
-- name: Internet Archive (Le Râmâyana - tome second Poème sanscrit de Valmiky) - Tome
-    second
+- name: 'Internet Archive (Le Râmâyana - tome second Poème sanscrit de Valmiky) - Tome second'
   url: https://archive.org/details/lermyanatomeseco20640gut
   type: other
 references:
@@ -53,12 +45,6 @@ references:
   type: other
 featured: false
 publishDate: 2025-11-01
-tags:
-- public domain
-- Epic poetry, Sanskrit -- Translations into French
-- Folklore -- India
-- Rama (Hindu deity) -- Fiction
-- Valmiki
 ---
 
 # Le Râmâyana: Poème sanscrit de Valmiky

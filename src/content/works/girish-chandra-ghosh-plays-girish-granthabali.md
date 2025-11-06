@@ -1,25 +1,30 @@
 ---
-title: "Girish Granthabali (Collected Plays)"
-author: ["Girish Chandra Ghosh"]
+title: 'Girish Granthabali (Collected Plays)'
+author:
+- Girish Chandra Ghosh
 year: 1906
-language: ["Bengali"]
-genre: ["Drama", "Theatre"]
-description: "Collected plays by the 'Father of Bengali Theatre' who revolutionized Bengali stage by introducing professional theatre, writing nearly 40 plays combining mythological themes with nationalist sentiment, and establishing dramatic conventions that shaped modern Bengali drama from 1872 onwards."
-collections: ['modern-literature']
+language:
+- Bengali
+genre:
+- Drama
+- Theatre
+description: |
+  During the late 19th and early 20th centuries, Bengal emerged as a crucible of cultural transformation under British colonial rule, and Girish Chandra Ghosh (1844-1912) stood at the epicenter of this profound literary and theatrical renaissance. The Girish Granthabali, published in 1906, represents a comprehensive compilation of plays that not only revolutionized Bengali theatre but also articulated complex nationalist sentiments during a critical period of Indian cultural reconfiguration. Ghosh, often referred to as the 'Father of Bengali Theatre,' fundamentally reimagined dramatic performance by introducing professional theatrical practices and establishing a nuanced dramatic vocabulary that bridged traditional Sanskrit dramatic conventions with emerging nationalist narratives. His approximately 40 plays strategically wove mythological themes, historical narratives, and contemporary social critique, creating a powerful artistic medium for cultural resistance and self-representation. The collection encompasses works that explore diverse socio-cultural dimensions, ranging from mythological adaptations drawn from Hindu epics to contemporary social dramas addressing colonial-era social reformations. Ghosh's dramatic innovations included sophisticated character development, psychological realism, and a deliberate use of language that resonated with both elite and popular audiences. By integrating elements of traditional Jatra folk theatre with modern dramatic structures, he created a unique performative language that became instrumental in articulating Bengali cultural identity during a period of intense political and social transformation. The Girish Granthabali thus represents more than a theatrical collection; it is a critical cultural document that captures the intellectual and emotional landscape of Bengal during a pivotal moment of national awakening, demonstrating how artistic expression became a powerful tool for cultural assertion and philosophical reimagination.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive (DLI)"
-    url: "https://archive.org/details/in.ernet.dli.2015.289772"
-    type: "other"
+- name: 'Internet Archive (DLI)'
+  url: https://archive.org/details/in.ernet.dli.2015.289772
+  type: other
 references:
-  - name: "Wikipedia: Girish Chandra Ghosh"
-    url: "https://en.wikipedia.org/wiki/Girish_Chandra_Ghosh"
-    type: "wikipedia"
-  - name: "Open Library search"
-    url: "https://openlibrary.org/search?q=Girish%20Chandra%20Ghosh%20plays"
-    type: "openlibrary"
+- name: 'Wikipedia: Girish Chandra Ghosh'
+  url: https://en.wikipedia.org/wiki/Girish_Chandra_Ghosh
+  type: wikipedia
+- name: 'Open Library search'
+  url: https://openlibrary.org/search?q=Girish%20Chandra%20Ghosh%20plays
+  type: openlibrary
 featured: true
 publishDate: 2025-11-01
-tags: ["Bengali Theatre", "Girish Chandra Ghosh", "Drama", "19th Century", "Bengal Renaissance", "Professional Theatre"]
 ---
 
 # Girish Granthabali (Collected Plays)

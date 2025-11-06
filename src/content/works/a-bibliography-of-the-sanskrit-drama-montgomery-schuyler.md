@@ -1,37 +1,44 @@
 ---
-title: "A Bibliography of the Sanskrit Drama"
-author: ["Montgomery Schuyler Jr."]
+title: 'A Bibliography of the Sanskrit Drama'
+author:
+- Montgomery Schuyler Jr.
 year: 1906
-language: ["English"]
-genre: ["Bibliography", "Reference", "Literary Criticism"]
-description: "Published as Volume 3 of Columbia's Indo-Iranian Series, this bibliography catalogs over 500 Sanskrit dramatic works, expanding significantly beyond earlier compilations while providing an introductory survey of dramatic literature including works by Kalidasa and Bhavabhuti."
-collections: ['modern-literature', 'classical-literature']
+language:
+- English
+genre:
+- Bibliography
+- Reference
+- Literary Criticism
+description: |
+  Montgomery Schuyler Jr.'s "A Bibliography of the Sanskrit Drama" represents a landmark scholarly compilation produced during the early 20th-century orientalist scholarship period, meticulously documenting the expansive landscape of classical Indian dramatic literature. Published in 1906 as the third volume of Columbia University's prestigious Indo-Iranian Series, this comprehensive reference work catalogs over 500 Sanskrit dramatic texts, significantly expanding the scholarly understanding of a rich theatrical tradition spanning multiple centuries. The bibliography systematically encompasses works from diverse historical periods, ranging from the classical Sanskrit drama of the Gupta era (approximately 320-550 CE) through later medieval compilations, with particular emphasis on seminal playwrights like Kalidasa and Bhavabhuti. Schuyler's work was groundbreaking in its methodical approach, providing detailed bibliographic entries that not only list dramatic works but also offer contextual insights into their cultural and literary significance. The compilation illuminates the sophisticated dramatic traditions of classical India, demonstrating the remarkable complexity of Sanskrit theatrical conventions, narrative structures, and performative aesthetics. By meticulously documenting these texts, Schuyler contributed substantially to Western academic comprehension of Indian literary heritage, bridging critical scholarly gaps in understanding the nuanced dramatic traditions that flourished across the subcontinent. His bibliography serves as an invaluable resource for scholars of Sanskrit literature, comparative drama, and cultural studies, offering unprecedented access to a corpus of dramatic works that reflect the intellectual and artistic sophistication of classical Indian civilization.
+collections:
+- modern-literature
+- classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/bibliographyofsa03schuuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/bibliographyofsa03schuuoft
+  type: other
 references:
-  - name: "Wikisource: Introduction"
-    url: "https://en.wikisource.org/wiki/Bibliography_of_the_Sanskrit_Drama/Introduction"
-    type: "wikisource"
-  - name: "Wikisource: Author Page"
-    url: "https://en.wikisource.org/wiki/Author:Montgomery_Schuyler"
-    type: "wikisource"
-  - name: "Wikipedia: Montgomery Schuyler Jr."
-    url: "https://en.wikipedia.org/wiki/Montgomery_Schuyler_Jr."
-    type: "wikipedia"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=A+Bibliography+of+the+Sanskrit+Drama"
-    type: "other"
-  - name: "Wikidata: Montgomery Schuyler Jr."
-    url: "https://www.wikidata.org/wiki/Q47167272"
-    type: "other"
-  - name: "Wikidata: The Work"
-    url: "https://www.wikidata.org/wiki/Q51011854"
-    type: "other"
+- name: 'Wikisource: Introduction'
+  url: https://en.wikisource.org/wiki/Bibliography_of_the_Sanskrit_Drama/Introduction
+  type: wikisource
+- name: 'Wikisource: Author Page'
+  url: https://en.wikisource.org/wiki/Author:Montgomery_Schuyler
+  type: wikisource
+- name: 'Wikipedia: Montgomery Schuyler Jr.'
+  url: https://en.wikipedia.org/wiki/Montgomery_Schuyler_Jr.
+  type: wikipedia
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=A+Bibliography+of+the+Sanskrit+Drama
+  type: other
+- name: 'Wikidata: Montgomery Schuyler Jr.'
+  url: https://www.wikidata.org/wiki/Q47167272
+  type: other
+- name: 'Wikidata: The Work'
+  url: https://www.wikidata.org/wiki/Q51011854
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Sanskrit Drama", "Bibliography", "Columbia University", "Indo-Iranian Series", "Kalidasa", "Bhavabhuti", "Sanskrit Literature", "Literary Reference", "Shakuntala", "Mricchakatika", "20th Century Scholarship"]
 ---
 
 # A Bibliography of the Sanskrit Drama

@@ -1,28 +1,35 @@
 ---
-title: "The Gaikwads of Baroda: English Documents Vol. I (Pilaji & Damaji Gaikwads 1720-1768)"
-author: ["Edited by J. H. Gense"]
+title: 'The Gaikwads of Baroda: English Documents Vol. I (Pilaji & Damaji Gaikwads 1720-1768)'
+author:
+- Edited by J. H. Gense
 year: 1936
-language: ["English"]
-genre: ["Documentary History", "Archival Collection", "Court Chronicles"]
-description: "202-page documentary collection chronicling early Gaekwad dynasty of Baroda during foundational period. Covers Pilaji Rao Gaekwad (conquered Baroda from Mughals 1721) and Damaji Rao Gaekwad (reigned 1732-1768). Includes diplomatic correspondence, revenue settlements, conflicts with English factors, naval operations, and internal Maratha politics. Captures transformation from Maratha military commanders to sovereign rulers during critical mid-18th century."
-collections: ['regional-history', 'archival-sources']
+language:
+- English
+genre:
+- Documentary History
+- Archival Collection
+- Court Chronicles
+description: |
+  This definitive documentary collection provides a comprehensive archival record of the early Gaekwad dynasty's emergence and political transformation during a critical transitional period of Maratha imperial history (1720-1768). Meticulously compiled by historian J. H. Gense, the volume offers unprecedented insights into the complex political landscape of western India during the gradual decline of Mughal imperial authority and the ascendancy of Maratha power structures. The collection chronicles the strategic maneuvers of Pilaji Rao Gaekwad, who successfully conquered Baroda from Mughal control in 1721, and his successor Damaji Rao Gaekwad, who consolidated territorial and administrative foundations between 1732-1768. Encompassing diverse primary documents including diplomatic correspondence, revenue settlement records, naval operation reports, and intricate accounts of inter-regional political negotiations, the work illuminates the sophisticated administrative and military strategies employed by Maratha commanders transitioning from military leadership to sovereign territorial governance. These documents reveal nuanced interactions between emerging regional powers, European trading companies, and traditional imperial hierarchies, providing scholars critical evidence of political adaptation during a pivotal phase of Indian state formation. The collection's meticulous transcriptions and annotations offer researchers unprecedented access to first-hand administrative documentation, presenting a granular understanding of institutional development, diplomatic protocols, and sociopolitical dynamics in western Indian territories during the mid-18th century. As a scholarly resource, the volume represents an essential contribution to understanding the complex processes of state emergence and political transformation in pre-colonial India.
+collections:
+- regional-history
+- archival-sources
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.143301"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.143301
+  type: other
 references:
-  - name: "Wikipedia: Gaekwad"
-    url: "https://en.wikipedia.org/wiki/Gaekwad"
-    type: "wikipedia"
-  - name: "Wikipedia: Baroda State"
-    url: "https://en.wikipedia.org/wiki/Baroda_State"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Gaikwads+Baroda+Pilaji+Damaji&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Gaekwad'
+  url: https://en.wikipedia.org/wiki/Gaekwad
+  type: wikipedia
+- name: 'Wikipedia: Baroda State'
+  url: https://en.wikipedia.org/wiki/Baroda_State
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Gaikwads+Baroda+Pilaji+Damaji&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Gaekwad", "Baroda", "Pilaji Rao", "Damaji Rao", "Gujarat", "Maratha Empire", "18th century", "Documentary history", "Revenue administration", "British relations"]
 ---
 
 # The Gaikwads of Baroda: English Documents Vol. I

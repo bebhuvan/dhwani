@@ -1,31 +1,37 @@
 ---
-title: "Open Letters to Lord Curzon on Famines and Land Assessments in India"
-author: ["Romesh Chunder Dutt"]
+title: 'Open Letters to Lord Curzon on Famines and Land Assessments in India'
+author:
+- Romesh Chunder Dutt
 year: 1900
-language: ["English"]
-genre: ["Political Literature", "Economic History", "Letters"]
-description: "Five open letters addressing Lord Curzon on critical issues including famine insurance, railways, irrigation, and fallacies concerning Indian land tax. Written by an Indian civil servant and historian, includes extensive appendices with official data, providing Indian perspective on British econo..."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Political Literature
+- Economic History
+- Letters
+description: |
+  Romesh Chunder Dutt's "Open Letters to Lord Curzon on Famines and Land Assessments in India" represents a seminal scholarly critique of British colonial economic policies during the late Victorian imperial period, specifically targeting the systemic economic exploitation of the Indian subcontinent. Published in 1900 during the zenith of British colonial administration, these five meticulously researched letters provide a comprehensive analytical examination of critical economic infrastructures and administrative policies affecting Indian society. Dutt, a distinguished Bengali intellectual, civil servant, and economic historian, strategically employed a scholarly yet pointed approach to dissect British imperial economic mechanisms, focusing on critical domains including famine management, railway infrastructure, irrigation systems, and land taxation policies. The work's significance extends beyond mere academic discourse, representing an early nationalist intellectual intervention that systematically documented and challenged colonial economic structures through rigorous empirical evidence and sophisticated economic analysis. By presenting detailed official data and nuanced economic arguments, Dutt exposed the structural inequities inherent in British imperial administration, demonstrating how colonial economic policies systematically undermined India's agricultural and economic potential. As a pioneering work of economic history and political critique, the text illuminates the complex interactions between colonial governance, economic policy, and indigenous economic development. Dutt's scholarly approach transformed these open letters into a foundational text for understanding Indian economic history, nationalist intellectual discourse, and the intricate mechanisms of colonial economic exploitation, thereby contributing substantially to emerging anti-colonial intellectual traditions and providing crucial historical documentation of late 19th-century Indian economic experiences.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/openletterstolor00duttrich"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/openletterstolor00duttrich
+  type: other
 references:
-  - name: "Wikipedia: Romesh Chunder Dutt"
-    url: "https://en.wikipedia.org/wiki/Romesh_Chunder_Dutt"
-    type: "wikipedia"
-  - name: "Wikisource: Author Page"
-    url: "https://en.wikisource.org/wiki/Author:Romesh_Chunder_Dutt"
-    type: "wikisource"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=Open+Letters+to+Lord+Curzon+Romesh+Chunder+Dutt"
-    type: "other"
-  - name: "Wikidata: Romesh Chunder Dutt"
-    url: "https://www.wikidata.org/wiki/Q3348870"
-    type: "other"
+- name: 'Wikipedia: Romesh Chunder Dutt'
+  url: https://en.wikipedia.org/wiki/Romesh_Chunder_Dutt
+  type: wikipedia
+- name: 'Wikisource: Author Page'
+  url: https://en.wikisource.org/wiki/Author:Romesh_Chunder_Dutt
+  type: wikisource
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=Open+Letters+to+Lord+Curzon+Romesh+Chunder+Dutt
+  type: other
+- name: 'Wikidata: Romesh Chunder Dutt'
+  url: https://www.wikidata.org/wiki/Q3348870
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Romesh Chunder Dutt", "Lord Curzon", "Famine", "Land Revenue", "Colonial Economics", "Indian Nationalism", "Economic Policy", "19th Century", "British Raj", "Agricultural Policy"]
 ---
 
 # Open Letters to Lord Curzon on Famines and Land Assessments in India

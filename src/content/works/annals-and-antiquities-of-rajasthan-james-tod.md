@@ -1,25 +1,29 @@
 ---
-title: "Annals and Antiquities of Rajasthan"
-author: ["James Tod"]
+title: 'Annals and Antiquities of Rajasthan'
+author:
+- James Tod
 year: 1829
-language: ["English"]
-genre: ["Historical Literature"]
-description: "Monumental chronicle of Rajput kingdoms, clans, and martial traditions compiled from local chronicles and bard accounts. Tod's romantic portrayal of Rajput chivalry and history remains foundational despite scholarly debates about his interpretations."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Historical Literature
+description: |
+  James Tod's "Annals and Antiquities of Rajasthan" represents a pivotal scholarly work emerging from the British colonial encounter with Rajput historical and cultural traditions during the early 19th century. Composed during a critical period of imperial expansion and cultural documentation, the text synthesizes multiple indigenous sources including local chronicles, genealogical records, bardic poetry, and oral narratives collected during Tod's tenure as a political agent in Rajputana between 1818 and 1822. Tod's comprehensive study meticulously documented the complex socio-political structures of Rajput kingdoms, clan genealogies, martial traditions, and cultural practices at a moment when these intricate historical networks were undergoing significant transformations under colonial administrative reorganization. While Tod's romantic interpretation reflects the orientalist scholarly paradigms of his era, the work remains an invaluable ethnographic and historical resource, providing unprecedented detailed accounts of Rajput lineages, architectural heritage, religious practices, and social configurations. The text critically examines Rajput warrior culture, royal succession patterns, inter-clan relationships, and the sophisticated diplomatic strategies that characterized Rajputana's political landscape. Tod's methodology of cross-referencing multiple vernacular sources and personally conducted interviews with local scholars and aristocratic families established a pioneering approach to indigenous historical documentation. Despite subsequent scholarly critiques regarding interpretative biases, the work continues to serve as a foundational text in understanding medieval Rajasthani society, offering contemporary researchers an intricate window into the complex cultural and political dynamics of western Indian kingdoms during a transformative historical period.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/annalsantiquitie01todj"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/annalsantiquitie01todj
+  type: other
 references:
-  - name: "Wikipedia: James Tod"
-    url: "https://en.wikipedia.org/wiki/James_Tod"
-    type: "wikipedia"
-  - name: "Open Library: Annals and Antiquities of"
-    url: "https://openlibrary.org/search?q=Annals+and+Antiquities+of+Rajasthan+year+James+Tod"
-    type: "other"
+- name: 'Wikipedia: James Tod'
+  url: https://en.wikipedia.org/wiki/James_Tod
+  type: wikipedia
+- name: 'Open Library: Annals and Antiquities of'
+  url: https://openlibrary.org/search?q=Annals+and+Antiquities+of+Rajasthan+year+James+Tod
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 ## Historical Context and Author

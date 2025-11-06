@@ -1,28 +1,32 @@
 ---
-title: "A Grammar of the Hindustani Language"
-author: ["John Shakespear"]
+title: 'A Grammar of the Hindustani Language'
+author:
+- John Shakespear
 year: 1813
-language: ["English"]
-genre: ["Reference Work"]
-description: "A Grammar of the Hindustani Language by John Shakespear (1813 (and later editions)) - A significant work from the Colonial India - Company Rule, representing an important contribution to Indian literary and cultural heritage. Digitally preserved and freely available for research, education, and cultural appreciation."
-collections: ['spiritual-texts']
+language:
+- English
+genre:
+- Reference Work
+description: |
+  A Grammar of the Hindustani Language by John Shakespear represents a critical linguistic documentation of the language during the early 19th century British colonial period in India. Published in 1813, the work emerges during a pivotal moment of linguistic documentation and cultural encounter between British colonial administrators and Indian linguistic traditions. Shakespear, a British East India Company official with extensive administrative experience in North India, produced a comprehensive grammatical study that systematically analyzed Hindustani (an early term encompassing Hindi and Urdu language varieties) at a time when formal linguistic scholarship about Indian languages was still developing. The grammar provides detailed examination of phonetic structures, grammatical rules, syntactical patterns, and lexical nuances of Hindustani, serving both scholarly and practical administrative purposes for British colonial officials and linguistic researchers. By meticulously documenting linguistic features, Shakespear contributed significantly to understanding the complex linguistic landscape of North Indian linguistic practices, bridging European scholarly methodologies with indigenous language structures. The work is particularly valuable for its detailed observations of vernacular language usage, grammatical transformations, and semantic complexities, offering insights into early 19th-century linguistic practices that would become foundational for subsequent comparative and historical linguistic studies of South Asian languages. As a scholarly artifact, it represents an important textual record of linguistic interaction during the colonial era, demonstrating how systematic language documentation became a crucial instrument of cultural understanding and administrative control. For contemporary researchers in linguistics, colonial studies, and Indian cultural history, Shakespear's grammar remains a significant primary source illuminating language dynamics in a transformative historical period.
+collections:
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/bub_gb_3dRYAAAAcAAJ"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/dli.ministry.13576"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/bub_gb_3dRYAAAAcAAJ
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/dli.ministry.13576
+  type: other
 references:
-  - name: "Wikipedia: John Shakespear"
-    url: "https://en.wikipedia.org/wiki/John_Shakespear"
-    type: "wikipedia"
-  - name: "Open Library: A Grammar of the"
-    url: "https://openlibrary.org/search?q=A+Grammar+of+the+Hindustani+Language+John+Shakespear"
-    type: "other"
+- name: 'Wikipedia: John Shakespear'
+  url: https://en.wikipedia.org/wiki/John_Shakespear
+  type: wikipedia
+- name: 'Open Library: A Grammar of the'
+  url: https://openlibrary.org/search?q=A+Grammar+of+the+Hindustani+Language+John+Shakespear
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 # A Grammar of the Hindustani Language

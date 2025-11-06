@@ -1,28 +1,35 @@
 ---
-title: "The Lushei Kuki Clans"
-author: ["John Shakespear"]
+title: 'The Lushei Kuki Clans'
+author:
+- John Shakespear
 year: 1912
-language: ["English"]
-genre: ["Ethnography", "Tribal Studies", "Genealogy"]
-description: "Comprehensive documentation of Kuki race clans including Lushei, Thado, Biate, Hrangchul and numerous others. Provides detailed genealogies highly valued by these tribes, clan classifications including 'Old Kukis' and 'Khawtlang' groups, inter-clan relationships, and political organization. Documents marriage customs, religious beliefs, economic activities, habitat patterns, and tribal traditions from North-East frontier districts of Cachar and Sylhet."
-collections: ['ethnography', 'tribal-studies']
+language:
+- English
+genre:
+- Ethnography
+- Tribal Studies
+- Genealogy
+description: |
+  John Shakespear's "The Lushei Kuki Clans" represents a pivotal ethnographic documentation of Northeast India's tribal societies during the late British colonial administrative period, specifically examining the complex sociocultural landscape of the Kuki-Chin linguistic groups in the early 20th century. Published in 1912, the work emerges from a critical moment of imperial documentation when colonial administrators systematically recorded indigenous social structures to facilitate governance and anthropological understanding. Shakespear, serving in the Assam Frontier service, meticulously compiled an unprecedented comprehensive analysis of tribal communities including Lushei, Thado, Biate, Hrangchul, and associated clans, providing deep insights into their intricate social organization, genealogical structures, and cultural practices. The text distinguishes between 'Old Kukis' and 'Khawtlang' groups, offering nuanced documentation of inter-clan relationships, political organization, marriage customs, religious beliefs, economic activities, and territorial habitation patterns primarily across the North-East frontier districts of Cachar and Sylhet. Beyond its colonial administrative origins, the work represents a significant scholarly contribution to understanding the complex ethnic mosaic of Northeast India, preserving detailed ethnographic information about societies that were rapidly transforming under colonial administrative pressures. Shakespear's methodology, combining administrative observation with systematic anthropological recording, provides contemporary scholars with a critical historical lens into indigenous social structures, kinship systems, and cultural practices that might otherwise have been undocumented during a period of significant cultural transition and external political intervention.
+collections:
+- ethnography
+- tribal-studies
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/lusheikukiclans00shak"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/lusheikukiclans00shak
+  type: other
 references:
-  - name: "Wikipedia: Kuki people"
-    url: "https://en.wikipedia.org/wiki/Kuki_people"
-    type: "wikipedia"
-  - name: "Wikipedia: Mizo people"
-    url: "https://en.wikipedia.org/wiki/Mizo_people"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Lushei+Kuki+Clans+Shakespear&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Kuki people'
+  url: https://en.wikipedia.org/wiki/Kuki_people
+  type: wikipedia
+- name: 'Wikipedia: Mizo people'
+  url: https://en.wikipedia.org/wiki/Mizo_people
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Lushei+Kuki+Clans+Shakespear&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Kuki tribes", "Lushei", "Mizoram", "John Shakespear", "Tribal genealogy", "Northeast India", "Ethnography", "1910s", "Clan structure", "Colonial documentation", "Cachar", "Lushai Hills"]
 ---
 
 # The Lushei Kuki Clans

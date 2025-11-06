@@ -1,37 +1,44 @@
 ---
-title: "Nyaya Sutras of Gotama (Foundations of Indian Logic)"
-author: ["Akshapada Gautama (Gotama)"]
+title: 'Nyaya Sutras of Gotama (Foundations of Indian Logic)'
+author:
+- Akshapada Gautama (Gotama)
 year: -200
-language: ["Sanskrit", "English"]
-genre: ["Philosophy", "Logic", "Classical Literature"]
-description: "Ancient India's seminal text on logic, epistemology, and systematic philosophical inquiry, composed by Akshapada Gautama between the 6th century BCE and 2nd century CE. Comprising 528 aphoristic sutras organized across five books, this foundational work establishes the comprehensive Nyaya school framework emphasizing valid knowledge, logical reasoning, and rigorous philosophical debate."
-collections: ['philosophy', 'classical-literature', 'ancient-wisdom', 'scholarly-translations']
+language:
+- Sanskrit
+- English
+genre:
+- Philosophy
+- Logic
+- Classical Literature
+description: |
+  The Nyaya Sutras represent a pivotal intellectual achievement in classical Indian philosophical tradition, emerging during a transformative period of intellectual fermentation in the Śramaṇa philosophical movement. Composed by the scholar Akshapada Gautama between the 6th century BCE and 2nd century CE, this seminal text systematically codified Indian logical and epistemological frameworks, establishing rigorous methodological principles for rational inquiry and philosophical investigation. Structured across five books containing 528 concise aphoristic sutras, the work comprehensively articulates the Nyaya school's sophisticated approach to understanding knowledge acquisition, logical reasoning, and systematic philosophical debate. The text's significance extends beyond mere logical analysis, representing a critical milestone in Indian intellectual development during the Mauryan and post-Mauryan periods when complex philosophical discourse was rapidly evolving. Gautama's work introduced revolutionary conceptual innovations, including detailed examinations of perception, inference, comparative reasoning, and testimonial knowledge, which profoundly influenced subsequent philosophical schools like Vedanta and Buddhist logic. By establishing precise definitions of valid knowledge (pramana) and developing nuanced methodologies for philosophical argumentation, the Nyaya Sutras provided an intellectual infrastructure that shaped centuries of Indian scholarly discourse. Its systematic approach to epistemology and logic became foundational for understanding how knowledge is constructed, validated, and critically examined, making it a cornerstone of Indian philosophical heritage that transcended regional and temporal boundaries. The text exemplifies the sophisticated intellectual traditions of classical India, demonstrating a remarkable commitment to rational inquiry and methodical philosophical exploration.
+collections:
+- philosophy
+- classical-literature
+- ancient-wisdom
+- scholarly-translations
 sources:
-  - name: "Internet Archive (Ganganatha Jha translation)"
-    url: "https://archive.org/details/nyayasutrasofgau00gauta"
-    type: "other"
-  - name: "Sacred Texts: Nyaya Sutras"
-    url: "https://www.sacred-texts.com/hin/sbe/index.htm"
-    type: "other"
+- name: 'Internet Archive (Ganganatha Jha translation)'
+  url: https://archive.org/details/nyayasutrasofgau00gauta
+  type: other
 references:
-  - name: "Wikipedia: Nyaya Sutras"
-    url: "https://en.wikipedia.org/wiki/Nyāya_Sūtras"
-    type: "wikipedia"
-  - name: "Wikipedia: Akshapada Gautama"
-    url: "https://en.wikipedia.org/wiki/Akṣapāda_Gautama"
-    type: "wikipedia"
-  - name: "Wikipedia: Nyaya"
-    url: "https://en.wikipedia.org/wiki/Nyaya"
-    type: "wikipedia"
-  - name: "Wikipedia: Indian logic"
-    url: "https://en.wikipedia.org/wiki/Indian_logic"
-    type: "wikipedia"
-  - name: "Internet Encyclopedia of Philosophy: Nyaya"
-    url: "https://iep.utm.edu/nyaya/"
-    type: "other"
+- name: 'Wikipedia: Nyaya Sutras'
+  url: https://en.wikipedia.org/wiki/Nyāya_Sūtras
+  type: wikipedia
+- name: 'Wikipedia: Akshapada Gautama'
+  url: https://en.wikipedia.org/wiki/Akṣapāda_Gautama
+  type: wikipedia
+- name: 'Wikipedia: Nyaya'
+  url: https://en.wikipedia.org/wiki/Nyaya
+  type: wikipedia
+- name: 'Wikipedia: Indian logic'
+  url: https://en.wikipedia.org/wiki/Indian_logic
+  type: wikipedia
+- name: 'Internet Encyclopedia of Philosophy: Nyaya'
+  url: https://iep.utm.edu/nyaya/
+  type: other
 featured: false
 publishDate: 2025-11-02
-tags: ['classical-literature', 'philosophy']
 ---
 
 # Nyaya Sutras of Gotama (Foundations of Indian Logic)
@@ -85,7 +92,6 @@ The Nyaya Sutras, composed approximately 2,000-2,300 years ago, exists entirely 
 **Available sources:**
 
 - [Internet Archive (Ganganatha Jha translation)](https://archive.org/details/nyayasutrasofgau00gauta)
-- [Sacred Texts: Nyaya Sutras](https://www.sacred-texts.com/hin/sbe/index.htm)
 
 ---
 

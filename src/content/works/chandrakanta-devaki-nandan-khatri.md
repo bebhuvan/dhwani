@@ -1,31 +1,37 @@
 ---
-title: "Chandrakanta"
-author: ["Devaki Nandan Khatri"]
+title: 'Chandrakanta'
+author:
+- Devaki Nandan Khatri
 year: 1888
-language: ["Hindi"]
-genre: ["Novel", "Fantasy", "Romance"]
-description: "First major Hindi fantasy novel combining romance, magic, and adventure. Revolutionary work that popularized Hindi prose fiction nationwide, reportedly inspiring people to learn Hindi specifically to read this novel. Established the tilism (fantasy/magic) genre in Hindi literature and became Hindi's first true bestseller."
-collections: ['modern-literature']
+language:
+- Hindi
+genre:
+- Novel
+- Fantasy
+- Romance
+description: |
+  In the late 19th century, when colonial India was experiencing profound cultural and linguistic transformations, Devaki Nandan Khatri's "Chandrakanta" emerged as a seminal work that fundamentally reshaped Hindi literary traditions. Published in 1888 during a critical period of nationalist cultural renaissance, the novel played a pivotal role in establishing vernacular prose fiction as a significant literary form. Drawing from rich Indian narrative traditions of tilism (magical fantasy) and romantic storytelling, Khatri crafted a complex narrative that interweaves elements of court intrigue, supernatural phenomena, and romantic adventure. The novel's innovative narrative structure and linguistic sophistication challenged prevailing literary conventions, simultaneously reflecting and contributing to the emerging nationalist cultural discourse. Set in a quasi-historical royal landscape, the work explores themes of love, power, magical resistance, and cultural identity that resonated deeply with a readership seeking cultural affirmation during colonial subjugation. Linguistically, "Chandrakanta" was instrumental in standardizing and popularizing Hindi prose, demonstrating the language's literary potential beyond existing poetic forms. Its widespread popularity transcended regional and class boundaries, reportedly motivating many readers to learn Hindi specifically to engage with the text. By popularizing the tilism genre and presenting a richly imagined indigenous narrative world, Khatri's novel became a critical instrument of cultural self-representation, helping to construct a modern Indian literary imagination that was simultaneously rooted in traditional storytelling and responsive to contemporary social dynamics. The work's enduring significance lies in its role as a transformative text that bridged pre-colonial narrative traditions with emerging modern literary sensibilities.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive (DLI Collection)"
-    url: "https://archive.org/details/in.ernet.dli.2015.379071"
-    type: "other"
-  - name: "Internet Archive (Multiple Parts)"
-    url: "https://archive.org/details/in.ernet.dli.2015.379083"
-    type: "other"
+- name: 'Internet Archive (DLI Collection)'
+  url: https://archive.org/details/in.ernet.dli.2015.379071
+  type: other
+- name: 'Internet Archive (Multiple Parts)'
+  url: https://archive.org/details/in.ernet.dli.2015.379083
+  type: other
 references:
-  - name: "Wikipedia: Chandrakanta (novel)"
-    url: "https://en.wikipedia.org/wiki/Chandrakanta_(novel)"
-    type: "wikipedia"
-  - name: "Wikipedia: Devaki Nandan Khatri"
-    url: "https://en.wikipedia.org/wiki/Devaki_Nandan_Khatri"
-    type: "wikipedia"
-  - name: "Open Library search"
-    url: "https://openlibrary.org/search?q=Chandrakanta%20Devaki%20Nandan%20Khatri"
-    type: "openlibrary"
+- name: 'Wikipedia: Chandrakanta (novel)'
+  url: https://en.wikipedia.org/wiki/Chandrakanta_(novel)
+  type: wikipedia
+- name: 'Wikipedia: Devaki Nandan Khatri'
+  url: https://en.wikipedia.org/wiki/Devaki_Nandan_Khatri
+  type: wikipedia
+- name: 'Open Library search'
+  url: https://openlibrary.org/search?q=Chandrakanta%20Devaki%20Nandan%20Khatri
+  type: openlibrary
 featured: true
 publishDate: 2025-11-01
-tags: ["Hindi Literature", "Fantasy Novel", "Devaki Nandan Khatri", "19th Century", "Tilism", "Hindi Prose", "Popular Fiction"]
 ---
 
 # Chandrakanta

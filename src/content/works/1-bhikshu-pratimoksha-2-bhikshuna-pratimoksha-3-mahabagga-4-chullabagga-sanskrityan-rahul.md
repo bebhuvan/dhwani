@@ -1,5 +1,5 @@
 ---
-title: 1. Bhikshu-pratimoksha, 2. Bhikshuna Pratimoksha, 3. Mahabagga, 4. Chullabagga
+title: '1. Bhikshu-pratimoksha, 2. Bhikshuna Pratimoksha, 3. Mahabagga, 4. Chullabagga'
 author:
 - Sanskrityan, Rahul
 year: 1934
@@ -7,23 +7,23 @@ language:
 - Hindi
 genre:
 - C-DAK
-description: 'Pratimoksha sutras and Vinaya texts published in 1934 by Rahul Sankrityayan containing monastic codes for Buddhist bhikshus and bhikshunis with Mahabagga and Chullabagga sections from Pali canon in Hindi translation.'
-collections: ["classical-literature", "religious-texts"]
+description: |
+  Rahul Sankrityayan's 1934 translation of the Pratimoksha sutras and Vinaya texts represents a pivotal scholarly intervention in early 20th-century Indian Buddhist textual scholarship, situated within the broader intellectual movement of national cultural reclamation during the interwar period. These translations—encompassing the Mahabagga and Chullabagga sections from the Pali canonical texts—were critically important in recovering and reinterpreting monastic disciplinary codes (vinaya) that had been marginalized during colonial scholarly discourse. As a polymath who transitioned from Hindu asceticism to committed Buddhist scholarship, Sankrityayan embodied the intellectual renaissance challenging colonial epistemological frameworks by meticulously recovering and translating ancient manuscripts. His work was not merely a linguistic exercise but a profound scholarly project of cultural restoration, reconnecting contemporary Indian intellectual traditions with their profound Buddhist philosophical heritage. The texts, which detail intricate monastic regulations for Buddhist bhikshus and bhikshunis, provide nuanced insights into early Buddhist communal structures, ethical frameworks, and disciplinary practices. By translating these complex Sanskrit and Pali texts into Hindi, Sankrityayan made sophisticated religious scholarship accessible to a broader national audience, simultaneously advancing scholarly understanding and contributing to the emerging anti-colonial intellectual discourse. This translation project was emblematic of the early 20th-century Indian scholarly movement that sought to reclaim indigenous knowledge systems, challenge colonial narratives, and reconstruct a comprehensive understanding of India's rich intellectual and spiritual traditions, positioning Buddhist scholarship as a critical component of national cultural memory and identity.
+collections:
+- classical-literature
+- religious-texts
 sources:
-- name: Internet Archive
+- name: 'Internet Archive'
   url: https://archive.org/details/in.ernet.dli.2015.292192
   type: archive
 references:
-  - name: "Open Library: Bhikshu-pratimoksha"
-    url: "https://openlibrary.org/search?q=Bhikshu-pratimoksha+Rahul+Sanskrityan"
-    type: "other"
+- name: 'Open Library: Bhikshu-pratimoksha'
+  url: https://openlibrary.org/search?q=Bhikshu-pratimoksha+Rahul+Sanskrityan
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags:
-- c-dak
-- hindi
-- 20th-century
 ---
+
 # 1. Bhikshu-pratimoksha, 2. Bhikshuna Pratimoksha, 3. Mahabagga, 4. Chullabagga
 
 ## Overview

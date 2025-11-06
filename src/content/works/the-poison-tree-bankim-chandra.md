@@ -1,28 +1,37 @@
 ---
-title: "The Poison Tree: A Tale of Hindu Life in Bengal"
-author: ["Bankim Chandra Chatterjee", "Miriam S. Knight (translator)"]
+title: 'The Poison Tree: A Tale of Hindu Life in Bengal'
+author:
+- Bankim Chandra Chatterjee
+- Miriam S. Knight (translator)
 year: 1873
-language: ["Bengali", "English"]
-genre: ["Novel", "Social Commentary", "Fiction"]
-description: "Bankim Chandra Chatterjee's 1873 Bengali novel (translated 1884) examines widow remarriage and women's oppression in Hindu Bengali society. This tragic domestic narrative critiques patriarchal codes through psychologically complex characters, exemplifying the author's social realism and engagement with Bengal Renaissance reform debates."
-collections: ["modern-literature", "regional-voices"]
+language:
+- Bengali
+- English
+genre:
+- Novel
+- Social Commentary
+- Fiction
+description: |
+  Bankim Chandra Chatterjee's groundbreaking novel "The Poison Tree," originally composed in Bengali in 1873 and translated into English in 1884, represents a pivotal work in the literary landscape of late 19th-century colonial Bengal during the Bengal Renaissance. The narrative explores the intricate social dynamics of Hindu Bengali society, focusing critically on the oppressive patriarchal structures that marginalized women, particularly widows. Through a nuanced psychological exploration of its characters, the novel dissects the complex intersections of social reform, gender expectations, and individual agency within a rapidly transforming cultural context. Chatterjee, a pioneering novelist and intellectual, employs sophisticated narrative techniques to expose the systemic constraints imposed on women, challenging contemporary social norms through a deeply empathetic yet unflinching portrayal of domestic life. The work particularly interrogates the institution of widow remarriage, a controversial social issue that was central to reformist debates of the time, reflecting the broader intellectual movements challenging traditional social hierarchies. By presenting psychologically complex characters who struggle against rigid societal expectations, Chatterjee contributes significantly to the emerging tradition of social realist fiction in Indian literature. The novel is not merely a narrative but a critical intervention in contemporary social discourse, embodying the intellectual spirit of the Bengal Renaissance that sought to reform social institutions through literary critique. Its enduring significance lies in its nuanced representation of gender, power, and social transformation, making it a crucial text for understanding the intellectual and cultural negotiations of colonial-era Bengal.
+collections:
+- modern-literature
+- regional-voices
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/17455"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/poisontreetaleof00chatrich/page/n7/mode/2up"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/17455
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/poisontreetaleof00chatrich/page/n7/mode/2up
+  type: other
 references:
-  - name: "Wikipedia: Bankim Chandra Chatterjee"
-    url: "https://en.wikipedia.org/wiki/Bankim_Chandra_Chatterjee"
-    type: "wikipedia"
-  - name: "Open Library: The Poison Tree"
-    url: "https://openlibrary.org/search?q=The+Poison+Tree%3A+A+Tale+of+Hindu+Life+in+Bengal&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Bankim Chandra Chatterjee'
+  url: https://en.wikipedia.org/wiki/Bankim_Chandra_Chatterjee
+  type: wikipedia
+- name: 'Open Library: The Poison Tree'
+  url: https://openlibrary.org/search?q=The+Poison+Tree%3A+A+Tale+of+Hindu+Life+in+Bengal&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-04
-tags: ["Bankim Chandra Chatterjee", "Bengali literature", "widow remarriage", "social reform", "Bengal Renaissance", "19th century India", "Hindu society", "women's rights", "colonial India", "Indian novel", "Bishabriksha"]
 ---
 
 # The Poison Tree: A Tale of Hindu Life in Bengal

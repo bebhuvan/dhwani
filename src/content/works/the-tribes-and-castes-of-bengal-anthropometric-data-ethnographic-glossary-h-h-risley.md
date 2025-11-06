@@ -1,34 +1,39 @@
 ---
-title: "The Tribes and Castes of Bengal — Anthropometric Data & Ethnographic Glossary"
-author: ["H. H. Risley"]
+title: 'The Tribes and Castes of Bengal — Anthropometric Data & Ethnographic Glossary'
+author:
+- H. H. Risley
 year: 1891
-language: ["English"]
-genre: ["Reference Work", "Scientific Literature"]
-description: "The Tribes and Castes of Bengal — Anthropometric Data & Ethnographic Glossary by H. Risley (1891–1892) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage. Digitally preserved and freely available for research, education, and cultural appreciation."
-collections: ['regional-voices']
+language:
+- English
+genre:
+- Reference Work
+- Scientific Literature
+description: |
+  H. H. Risley's "The Tribes and Castes of Bengal — Anthropometric Data & Ethnographic Glossary" represents a pivotal anthropological documentation of late 19th-century colonial India, offering a comprehensive systematic study of Bengal's diverse ethnic and social configurations. Published during the British Raj between 1891-1892, the work exemplifies the emerging scientific ethnographic methodologies of the period, combining anthropometric measurements, linguistic analysis, and detailed social categorizations. Risley, a prominent British colonial administrator and ethnographer with the Indian Civil Service, meticulously documented the complex social stratifications, tribal structures, and demographic characteristics of Bengal's populations, providing unprecedented insights into the region's intricate cultural landscape. The work systematically catalogues numerous ethnic groups, their genealogical histories, social practices, occupational patterns, and linguistic variations, serving as a critical archival resource for understanding the nuanced social anthropology of late 19th-century Bengal. Beyond its colonial scientific framework, the text offers scholars and researchers a detailed ethnographic record that captures the intricate social dynamics of pre-independence Indian society. Risley's methodology, while reflective of colonial epistemological approaches, nonetheless provides granular documentation of social structures that might have otherwise been marginalized or undocumented. The work's significance extends beyond its historical moment, functioning as a crucial reference for contemporary scholars of Indian social history, anthropology, and cultural studies, offering a complex, multilayered understanding of Bengal's diverse ethnic compositions and social configurations during a transformative period of colonial interaction and cultural documentation.
+collections:
+- regional-voices
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.gov.ignca.13909"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.gov.ignca.13934"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.126752"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.42709"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.gov.ignca.13909
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.gov.ignca.13934
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.126752
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.42709
+  type: other
 references:
-  - name: "Wikipedia: Herbert Hope Risley"
-    url: "https://en.wikipedia.org/wiki/Herbert_Hope_Risley"
-    type: "wikipedia"
-  - name: "Open Library: The Tribes and Castes"
-    url: "https://openlibrary.org/search?q=The+Tribes+and+Castes+of+Bengal+H+H+Risley"
-    type: "other"
+- name: 'Wikipedia: Herbert Hope Risley'
+  url: https://en.wikipedia.org/wiki/Herbert_Hope_Risley
+  type: wikipedia
+- name: 'Open Library: The Tribes and Castes'
+  url: https://openlibrary.org/search?q=The+Tribes+and+Castes+of+Bengal+H+H+Risley
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 # The Tribes and Castes of Bengal — Anthropometric Data & Ethnographic Glossary

@@ -1,28 +1,35 @@
 ---
-title: "Saṅgīta Rāga-kalpadruma Vol. 1"
-author: ["Krishnananda Vyasadeva Ragasagara"]
+title: 'Saṅgīta Rāga-kalpadruma Vol. 1'
+author:
+- Krishnananda Vyasadeva Ragasagara
 year: 1914
-language: ["Sanskrit"]
-genre: ["Musicology", "Raga Encyclopedia", "Technical Manual"]
-description: "Comprehensive 736-page technical encyclopedia of ragas organized as 'kalpadruma' (wish-fulfilling tree). Systematically catalogs specific ragas including Shrirag, Titala, Dhinal, Gouri, and Dhamar, providing detailed lakshanas (technical characteristics): swaras (notes), aroha-avaroha (ascending-descending patterns), aesthetic qualities. Invaluable practitioner's reference manual for understanding precise technical structure of numerous classical ragas."
-collections: ['arts-texts', 'musicology']
+language:
+- Sanskrit
+genre:
+- Musicology
+- Raga Encyclopedia
+- Technical Manual
+description: |
+  Saṅgīta Rāga-kalpadruma represents a pivotal scholarly intervention in early 20th-century Indian musicological documentation, emerging during a critical period of cultural preservation and intellectual renaissance in late colonial India. Published in 1914 by Krishnananda Vyasadeva Ragasagara, this comprehensive 736-page Sanskrit treatise systematically catalogs and analyzes classical Hindustani musical ragas with unprecedented scholarly rigor. The work reflects a broader intellectual movement among Indian scholars to codify traditional knowledge systems that had previously been transmitted through generational oral traditions, responding to colonial-era cultural pressures and an emerging national cultural consciousness. By meticulously documenting the intricate technical characteristics (lakshanas) of numerous ragas including Shrirag, Titala, Dhinal, Gouri, and Dhamar, the text provides an authoritative reference for understanding the complex musical structure, melodic patterns, aesthetic qualities, swaras (notes), and ascending-descending musical progressions (aroha-avaroha). Beyond its technical precision, the work embodies a profound scholarly effort to preserve and legitimize Indian classical musical knowledge during a transformative historical moment, when traditional arts were simultaneously threatened by colonial marginalization and energized by nationalist cultural reclamation. As a musicological encyclopedia organized like a 'kalpadruma' (mythical wish-fulfilling tree), the text not only serves as a technical manual for practitioners but also represents an intellectual bridge between centuries-old musical traditions and modern scholarly methodologies, making it an invaluable resource for understanding the sophisticated theoretical foundations of Indian classical music.
+collections:
+- arts-texts
+- musicology
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.553648"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.553648
+  type: other
 references:
-  - name: "Wikipedia: Raga"
-    url: "https://en.wikipedia.org/wiki/Raga"
-    type: "wikipedia"
-  - name: "Wikipedia: Hindustani classical music"
-    url: "https://en.wikipedia.org/wiki/Hindustani_classical_music"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Sangita+Raga+kalpadruma&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Raga'
+  url: https://en.wikipedia.org/wiki/Raga
+  type: wikipedia
+- name: 'Wikipedia: Hindustani classical music'
+  url: https://en.wikipedia.org/wiki/Hindustani_classical_music
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Sangita+Raga+kalpadruma&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Raga encyclopedia", "Indian classical music", "Musicology", "Technical manual", "Lakshanas", "Hindustani music", "Sanskrit", "1914", "Music theory"]
 ---
 
 # Saṅgīta Rāga-kalpadruma Vol. 1

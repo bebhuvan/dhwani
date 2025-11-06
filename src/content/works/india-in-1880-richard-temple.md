@@ -1,25 +1,31 @@
 ---
-title: "India in 1880"
-author: ["Sir Richard Temple"]
+title: 'India in 1880'
+author:
+- Sir Richard Temple
 year: 1880
-language: ["English"]
-genre: ["Political Analysis", "Colonial Administration"]
-description: "Sir Richard Temple's 1882 comprehensive survey of British India's political, economic, and social conditions based on four decades as veteran ICS officer and Lieutenant-Governor provides detailed administrative analysis."
-collections: ["modern-literature", "classical-literature"]
+language:
+- English
+genre:
+- Political Analysis
+- Colonial Administration
+description: |
+  Sir Richard Temple's comprehensive monograph "India in 1880" represents a meticulously documented administrative analysis of British colonial governance during a critical transitional period in the Indian subcontinent. Drawing from his extensive four-decade career in the Indian Civil Service, Temple provides an authoritative insider's perspective on the intricate political, economic, and social infrastructures of British India at the apex of imperial administrative systematization. The work emerges during a pivotal historical moment when colonial bureaucratic mechanisms were increasingly sophisticated, offering granular insights into the administrative apparatus that underpinned British imperial control. Temple's professional trajectory—which included significant administrative roles in the North-Western Provinces and his tenure as Lieutenant-Governor of Bengal—positioned him uniquely to articulate the complex dynamics of colonial governance. The text critically examines institutional structures, provincial administrative strategies, revenue systems, and socio-political interactions between British administrators and indigenous populations. Beyond its immediate administrative documentation, the work serves as a crucial scholarly resource for understanding late 19th-century imperial epistemologies, power configurations, and the nuanced mechanisms of colonial knowledge production. Temple's analysis provides contemporary scholars invaluable ethnographic and administrative documentation, illuminating the intricate processes through which colonial authority was conceptualized, implemented, and maintained. For Indian historiography, the monograph represents an essential primary source that reveals the architectural design of imperial governance, offering contemporaneous perspectives on administrative philosophies that profoundly shaped the subcontinent's socio-political landscape during a transformative historical epoch.
+collections:
+- modern-literature
+- classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.45597"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.45597
+  type: other
 references:
-  - name: "Wikipedia: Sir Richard Temple, 1st Baronet"
-    url: "https://en.wikipedia.org/wiki/Sir_Richard_Temple,_1st_Baronet"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=India+in+1880&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Sir Richard Temple, 1st Baronet'
+  url: https://en.wikipedia.org/wiki/Sir_Richard_Temple,_1st_Baronet
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=India+in+1880&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-02
-tags: ["British India", "Richard Temple", "colonial administration", "1880s India", "imperial governance", "Indian railways", "famine policy", "Victorian imperialism", "ICS", "colonial economics"]
 ---
 
 # India in 1880

@@ -1,25 +1,30 @@
 ---
-title: "Buddhist India"
-author: ["Thomas William Rhys Davids"]
+title: 'Buddhist India'
+author:
+- Thomas William Rhys Davids
 year: 1903
-language: ["English"]
-genre: ["History", "Religious Studies"]
-description: "Published in 1903, T.W. Rhys Davids's *Buddhist India* presented the first comprehensive English-language reconstruction of India during the Buddha's lifetime (circa 563-483 BCE) based on critical scholarly analysis of Buddhist and non-Buddhist sources."
-collections: ['spiritual-texts']
+language:
+- English
+genre:
+- History
+- Religious Studies
+description: |
+  Published in 1903, T.W. Rhys Davids's *Buddhist India* represents a groundbreaking scholarly reconstruction of the socio-cultural and political landscape of the Gangetic Plains during the pivotal period of early Buddhism's emergence. Drawing on meticulous analysis of Pali canonical texts, archaeological evidence, and comparative historical sources, the work provides an unprecedented English-language scholarly examination of the complex societal structures of the 6th-5th centuries BCE. Rhys Davids, a pioneering British Orientalist and Pali scholar, systematically decoded the intricate political formations of the sixteen Mahajanapada kingdoms, exploring their administrative systems, social hierarchies, economic practices, and intellectual traditions that formed the critical context for Siddhartha Gautama's philosophical innovations. The text critically examines the transition from Vedic Brahmanic social organization to the more fluid and dynamic urban republics and monarchies, illuminating the profound cultural transformations occurring during this period. By integrating textual analysis with archaeological insights, Rhys Davids challenged contemporary colonial-era interpretations and offered a nuanced understanding of Indian civilization's complexity, demonstrating how Buddhist thought emerged from and simultaneously transformed existing social and philosophical paradigms. The work remains a seminal contribution to understanding the intellectual and cultural milieu that produced one of the world's most significant philosophical and religious movements, providing scholars with a comprehensive framework for interpreting early Indian social structures, religious developments, and the profound philosophical ruptures that characterized this transformative historical moment.
+collections:
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.60921"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.60921
+  type: other
 references:
-  - name: "Wikipedia: Thomas William Rhys Davids"
-    url: "https://en.wikipedia.org/wiki/Thomas_William_Rhys_Davids"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=The+Story+Of+The+Nations+Buddhist+India&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Thomas William Rhys Davids'
+  url: https://en.wikipedia.org/wiki/Thomas_William_Rhys_Davids
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=The+Story+Of+The+Nations+Buddhist+India&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-02
-tags: ["Buddhist India", "Rhys Davids", "ancient India", "Buddha", "Pali studies", "Mahajanapadas", "śramaṇa movements", "Indian history", "6th century BCE", "Gangetic civilization"]
 ---
 
 # Buddhist India

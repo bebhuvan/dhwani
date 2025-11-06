@@ -1,24 +1,28 @@
 ---
-title: "The Economic History of India"
-author: ["Romesh Chunder Dutt"]
-language: ["English"]
-genre: ["Historical Literature"]
-description: "The Economic History of India by Romesh Chunder Dutt (Vol. I (Early British Rule) 1916; Vol. II (The Victorian Age) 1904) - A significant work from the Independent India, representing an important contribution to Indian literary and cultural heritage."
-collections: ["regional-voices"]
+title: 'The Economic History of India'
+author:
+- Romesh Chunder Dutt
+language:
+- English
+genre:
+- Historical Literature
+description: |
+  Romesh Chunder Dutt's seminal two-volume "The Economic History of India" represents a critical scholarly examination of India's economic transformation during the British colonial period, offering a comprehensive and nuanced analysis of economic structures and imperial interventions from the early 19th to late 19th centuries. Published in the early 20th century (Volume I in 1916, Volume II in 1904), the work provides a systematic exploration of economic policies, administrative practices, and the socio-economic consequences of British colonial governance. Dutt, a prominent Indian intellectual, civil servant, and nationalist historian, meticulously documented the economic mechanisms of colonial exploitation, presenting a rigorous critique of British imperial economic strategies that systematically undermined indigenous agricultural and manufacturing systems. The first volume focuses on early British administrative and economic interventions, while the second volume, subtitled "The Victorian Age," delves deeper into the economic structures of late 19th-century colonial India. Dutt's scholarship is distinguished by its comprehensive archival research, statistical analysis, and balanced historical interpretation, making it a foundational text in understanding India's economic history. By examining land revenue systems, industrial transformations, trade policies, and rural economic conditions, Dutt provided an authoritative indigenous perspective that challenged prevailing colonial narratives. His work significantly influenced subsequent generations of economic historians and nationalist scholars, contributing to a critical understanding of India's economic marginalization during colonial rule. As both a scholarly treatise and a nationalist historical document, the work remains an essential reference for understanding the complex economic dynamics that shaped modern India's developmental trajectory.
+collections:
+- regional-voices
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/economichistoryo00; https://archive.org/details/indiainvictorian00duttuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/economichistoryo00; https://archive.org/details/indiainvictorian00duttuoft
+  type: other
 references:
-  - name: "Wikipedia: Romesh Chunder Dutt"
-    url: "https://en.wikipedia.org/wiki/Romesh_Chunder_Dutt"
-    type: "wikipedia"
-  - name: "Open Library: The Economic History of"
-    url: "https://openlibrary.org/search?q=The+Economic+History+of+India+language+Romesh+Chunder+Dutt"
-    type: "other"
+- name: 'Wikipedia: Romesh Chunder Dutt'
+  url: https://en.wikipedia.org/wiki/Romesh_Chunder_Dutt
+  type: wikipedia
+- name: 'Open Library: The Economic History of'
+  url: https://openlibrary.org/search?q=The+Economic+History+of+India+language+Romesh+Chunder+Dutt
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 ## Historical Context and Author Biography

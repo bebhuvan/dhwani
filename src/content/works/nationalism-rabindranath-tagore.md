@@ -1,31 +1,35 @@
 ---
-title: "Nationalism"
-author: ["Rabindranath Tagore"]
+title: 'Nationalism'
+author:
+- Rabindranath Tagore
 year: 1917
-language: ["English"]
-genre: ["Political Literature"]
-description: "Tagore's critique of aggressive nationalism and Western imperialism based on lectures delivered in Japan and America. Argues for spiritual internationalism over narrow nationalist movements, warning against uncritical adoption of Western nation-state models."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Political Literature
+description: |
+  Written during the critical period of global anti-colonial movements and World War I, Rabindranath Tagore's "Nationalism" represents a profound intellectual intervention into the emergent discourse of national identity, imperialism, and global interconnectedness. Composed through lectures delivered in Japan and the United States between 1916-1917, the work emerges from Tagore's unique position as a Renaissance polymath who bridged Indian philosophical traditions with global intellectual currents. Drawing from his deep engagement with Bengal's cultural renaissance and his cosmopolitan worldview, Tagore critically examines the destructive potential of nationalist ideologies, offering a nuanced critique of both Western imperial structures and emerging nationalist movements in colonized regions. The text challenges prevailing narratives of nationhood by arguing that the mechanical, mechanistic Western conception of the nation-state fundamentally contradicts deeper spiritual and cultural interconnections between human societies. Tagore's analysis demonstrates how nationalist rhetoric often masks underlying economic exploitation and cultural suppression, presenting instead a vision of internationalism rooted in mutual understanding, spiritual consciousness, and genuine human solidarity. As a key intellectual document of the early 20th-century anti-colonial movement, "Nationalism" provides critical insights into the philosophical challenges of decolonization, cultural identity, and global humanism. Its enduring significance lies in its sophisticated rejection of narrow, exclusionary nationalism in favor of a more expansive, dialogic understanding of human community, making it a foundational text in postcolonial studies, Indian political philosophy, and transnational intellectual history. Tagore's work remains a prescient meditation on the tensions between local cultural identities and global human interconnectedness.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/nationalism00tagorich"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/dli.csl.3935"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/nationalism00tagorich
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/dli.csl.3935
+  type: other
 references:
-  - name: "Wikisource"
-    url: "https://en.wikisource.org/wiki/Index:Nationalism.djvu"
-    type: "wikisource"
-  - name: "Wikipedia: Rabindranath Tagore"
-    url: "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
-    type: "wikipedia"
-  - name: "Open Library: Nationalism year"
-    url: "https://openlibrary.org/search?q=Nationalism+year+1917+language+English+genre+Rabindranath+Tagore"
-    type: "other"
+- name: 'Wikisource'
+  url: https://en.wikisource.org/wiki/Index:Nationalism.djvu
+  type: wikisource
+- name: 'Wikipedia: Rabindranath Tagore'
+  url: https://en.wikipedia.org/wiki/Rabindranath_Tagore
+  type: wikipedia
+- name: 'Open Library: Nationalism year'
+  url: https://openlibrary.org/search?q=Nationalism+year+1917+language+English+genre+Rabindranath+Tagore
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 ## Publication History and Context

@@ -1,31 +1,39 @@
 ---
-title: "The Popular Religion and Folk-Lore of Northern India"
-author: ["William Crooke"]
+title: 'The Popular Religion and Folk-Lore of Northern India'
+author:
+- William Crooke
 year: 1896
-language: ["English"]
-genre: ["Ethnography", "Religious Studies", "Folklore", "Anthropology"]
-description: "First published in 1894 as *An Introduction to the Popular Religion and Folklore of Northern India* and revised into the illustrated two-volume edition of 1896, William Crooke's comprehensive ethnography represents a foundational text in the study of lived Hinduism."
-collections: ["modern-literature", "regional-voices"]
+language:
+- English
+genre:
+- Ethnography
+- Religious Studies
+- Folklore
+- Anthropology
+description: |
+  William Crooke's seminal work *The Popular Religion and Folk-Lore of Northern India* represents a critical anthropological documentation of indigenous religious practices during the late 19th-century British colonial period. Published in an illustrated two-volume edition in 1896, the work emerged during a pivotal moment of scholarly engagement with Indian cultural systems, when European academics were systematically documenting and categorizing indigenous social and religious practices. Crooke, who served as a colonial administrator in the United Provinces of Agra and Oudh, approached his research with a methodical ethnographic approach that combined direct observation, extensive interviews, and comparative analysis of regional religious traditions. The text provides a comprehensive exploration of local Hindu folklore, ritualistic practices, supernatural beliefs, and social customs across North Indian communities, offering unprecedented scholarly insight into vernacular religious expressions often overlooked by formal institutional frameworks. By meticulously documenting oral traditions, local deities, ritualistic practices, and folkloric narratives, Crooke's work preserved intricate cultural knowledge that might have otherwise been marginalized or forgotten during the colonial administrative process. His nuanced approach distinguished itself from many contemporary colonial ethnographies by demonstrating genuine intellectual curiosity about indigenous knowledge systems rather than purely extractive documentation. The work remains significant for contemporary scholars of Indian cultural studies, religious anthropology, and postcolonial research, providing a detailed historical lens into the complex religious syncretism and folk traditions of late 19th-century North Indian society, while simultaneously revealing the epistemological frameworks of British colonial scholarly practices.
+collections:
+- modern-literature
+- regional-voices
 sources:
-  - name: "Project Gutenberg (Volume 1)"
-    url: "https://www.gutenberg.org/ebooks/43681"
-    type: "other"
-  - name: "Project Gutenberg (Volume 2)"
-    url: "https://www.gutenberg.org/ebooks/43682"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/popularreligion00croogoog"
-    type: "other"
+- name: 'Project Gutenberg (Volume 1)'
+  url: https://www.gutenberg.org/ebooks/43681
+  type: other
+- name: 'Project Gutenberg (Volume 2)'
+  url: https://www.gutenberg.org/ebooks/43682
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/popularreligion00croogoog
+  type: other
 references:
-  - name: "Wikipedia: William Crooke"
-    url: "https://en.wikipedia.org/wiki/William_Crooke"
-    type: "wikipedia"
-  - name: "Open Library: The Popular Religion and Folk-Lore of Northern India"
-    url: "https://openlibrary.org/search?q=The+Popular+Religion+and+Folk-Lore+of+Northern+India&mode=everything"
-    type: "other"
+- name: 'Wikipedia: William Crooke'
+  url: https://en.wikipedia.org/wiki/William_Crooke
+  type: wikipedia
+- name: 'Open Library: The Popular Religion and Folk-Lore of Northern India'
+  url: https://openlibrary.org/search?q=The+Popular+Religion+and+Folk-Lore+of+Northern+India&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-04
-tags: ["William Crooke", "folklore", "popular religion", "northern India", "ethnography", "Hindu practices", "village religion", "colonial anthropology", "folk beliefs", "ritual studies", "19th century India", "Indian Civil Service", "religious syncretism", "little tradition"]
 ---
 
 # The Popular Religion and Folk-Lore of Northern India

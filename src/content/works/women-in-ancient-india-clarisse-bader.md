@@ -1,25 +1,34 @@
 ---
-title: "Women in Ancient India: Moral and Literary Studies"
-author: ["Clarisse Bader", "Mary E. R. Martin ()"]
+title: 'Women in Ancient India: Moral and Literary Studies'
+author:
+- Clarisse Bader
+- Mary E. R. Martin ()
 year: 1925
-language: ["French", "English"]
-genre: ["Social History", "Literary Criticism", "Gender Studies"]
-description: "Bader examines representations of women in Sanskrit literature including the Vedas, epics, and classical drama, analyzing social status, legal rights, and literary characterization. The 1925 English translation made this early feminist scholarship on ancient Indian women accessible to broader aud..."
-collections: ['ancient-wisdom', 'modern-literature']
+language:
+- French
+- English
+genre:
+- Social History
+- Literary Criticism
+- Gender Studies
+description: |
+  Bader's seminal scholarly work offers a comprehensive examination of women's representations and social positions in classical Indian literature, spanning multiple textual traditions from the Vedic period through classical Sanskrit writings. Drawing on extensive philological research, the study meticulously analyzes women's roles across foundational texts including the Rigveda, Ramayana, Mahabharata, and classical dramatic literature, providing nuanced insights into gender dynamics in ancient Indian society. Bader critically explores women's legal, social, and symbolic status, interrogating both idealized representations and lived realities through careful textual analysis. The work illuminates complex cultural constructions of femininity, examining how literary representations reflected and potentially shaped societal norms regarding women's agency, marriage, education, and spiritual participation. By contextualizing literary representations within broader social frameworks, Bader makes significant contributions to understanding gender relations in pre-modern Indian civilization. Her scholarly approach bridges comparative literary studies, anthropological research, and feminist historiography, offering European and global scholars unprecedented access to intricate Sanskrit textual traditions. The 1925 English translation, translated by Mary E. R. Martin, was particularly important in making this pioneering research accessible to international academic audiences, facilitating cross-cultural scholarly dialogue during a period of emerging comparative cultural studies. Bader's methodological rigor and nuanced textual interpretation established important precedents for subsequent generations of scholars examining gender, literature, and social structures in classical Indian intellectual traditions.
+collections:
+- ancient-wisdom
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/womeninancientindia032334mbp"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/womeninancientindia032334mbp
+  type: other
 references:
-  - name: "Wikipedia: Women in Hinduism"
-    url: "https://en.wikipedia.org/wiki/Women_in_Hinduism"
-    type: "wikipedia"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=Women+in+Ancient+India+Clarisse+Bader"
-    type: "other"
+- name: 'Wikipedia: Women in Hinduism'
+  url: https://en.wikipedia.org/wiki/Women_in_Hinduism
+  type: wikipedia
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=Women+in+Ancient+India+Clarisse+Bader
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Women's History", "Ancient India", "Sanskrit Literature", "Gender Studies", "Clarisse Bader", "19th Century Scholarship", "Vedic Women", "Epic Literature", "Social History", "Feminist Scholarship"]
 ---
 
 # Women in Ancient India: Moral and Literary Studies

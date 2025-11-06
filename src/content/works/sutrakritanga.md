@@ -1,40 +1,50 @@
 ---
-title: "Sutrakritanga (The Second Jain Agama)"
-author: ["Mahavira"]
+title: 'Sutrakritanga (The Second Jain Agama)'
+author:
+- Mahavira
 year: -300
-language: ["Prakrit", "Ardhamagadhi"]
-genre: ["Jain Scripture", "Religious Philosophy", "Polemical Literature", "Doctrinal Exposition"]
-description: "The Sutrakritanga Sutra is the second canonical text of the Jain Agamas, presenting systematic exposition of Jain doctrine while critically examining and refuting rival philosophical schools including Buddhism, Ajivikism, materialism, and various Brahmanical traditions. Compiled around 300 BCE from Mahavira's teachings, this text establishes Jainism's distinctive philosophical positions on karma, soul, cosmology, and liberation."
-collections: ['jain-texts', 'religious-texts', 'philosophy']
+language:
+- Prakrit
+- Ardhamagadhi
+genre:
+- Jain Scripture
+- Religious Philosophy
+- Polemical Literature
+- Doctrinal Exposition
+description: |
+  The Sutrakritanga Sutra, a foundational text in the Svetambara Jain canonical tradition, represents a critical intellectual document from the late Mauryan period (circa 300 BCE), offering a comprehensive systematic exposition of Jain philosophical and ethical principles. Composed in the Ardhamagadhi Prakrit language and attributed to the teachings of Mahavira, the twenty-fourth Tirthankara, this text serves as a sophisticated philosophical treatise that articulates Jainism's distinctive metaphysical and epistemological perspectives. The sutra is particularly significant for its rigorous philosophical discourse, systematically critiquing contemporary religious and philosophical schools including Buddhism, Ajivikism, materialist philosophies, and various Brahmanical traditions. Through nuanced argumentative strategies, the text establishes Jain doctrinal positions on fundamental metaphysical concepts such as karma, the nature of the soul (jiva), cosmological structures, and the path to spiritual liberation (moksha). Its scholarly approach demonstrates the intellectual sophistication of Jain philosophical thought during a transformative period of Indian intellectual history, characterized by intense philosophical debates and the emergence of systematic religious philosophies. The Sutrakritanga provides profound insights into the ethical and ontological foundations of Jainism, emphasizing principles of non-violence (ahimsa), individual moral responsibility, and the complex relationship between consciousness and material existence. As a canonical text, it not only preserves the core theological principles of Jainism but also represents a significant contribution to the broader landscape of Indian philosophical discourse, reflecting the intellectual dynamism of the period and Jainism's unique philosophical perspective within the complex religious ecosystem of ancient India.
+collections:
+- jain-texts
+- religious-texts
+- philosophy
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/jaingainasutras01jaingoog"
-    type: "other"
-  - name: "Sacred Texts"
-    url: "https://sacred-texts.com/jai/sbe45/index.htm"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/jaingainasutras01jaingoog
+  type: other
+- name: 'Sacred Texts'
+  url: https://sacred-texts.com/jai/sbe45/index.htm
+  type: other
 references:
-  - name: "Wikipedia: Sutrakritanga"
-    url: "https://en.wikipedia.org/wiki/Sutrakritanga"
-    type: "wikipedia"
-  - name: "Wikipedia: Jain Agamas"
-    url: "https://en.wikipedia.org/wiki/Jain_Agamas"
-    type: "wikipedia"
-  - name: "Wikipedia: Mahavira"
-    url: "https://en.wikipedia.org/wiki/Mahavira"
-    type: "wikipedia"
-  - name: "Wikipedia: Jain philosophy"
-    url: "https://en.wikipedia.org/wiki/Jain_philosophy"
-    type: "wikipedia"
-  - name: "Wikipedia: Anekantavada"
-    url: "https://en.wikipedia.org/wiki/Anekantavada"
-    type: "wikipedia"
-  - name: "Open Library: Sutrakritanga (The Second Jain"
-    url: "https://openlibrary.org/search?q=Sutrakritanga+The+Second+Jain+Agama+year+Mahavira"
-    type: "other"
+- name: 'Wikipedia: Sutrakritanga'
+  url: https://en.wikipedia.org/wiki/Sutrakritanga
+  type: wikipedia
+- name: 'Wikipedia: Jain Agamas'
+  url: https://en.wikipedia.org/wiki/Jain_Agamas
+  type: wikipedia
+- name: 'Wikipedia: Mahavira'
+  url: https://en.wikipedia.org/wiki/Mahavira
+  type: wikipedia
+- name: 'Wikipedia: Jain philosophy'
+  url: https://en.wikipedia.org/wiki/Jain_philosophy
+  type: wikipedia
+- name: 'Wikipedia: Anekantavada'
+  url: https://en.wikipedia.org/wiki/Anekantavada
+  type: wikipedia
+- name: 'Open Library: Sutrakritanga (The Second Jain'
+  url: https://openlibrary.org/search?q=Sutrakritanga+The+Second+Jain+Agama+year+Mahavira
+  type: other
 featured: true
 publishDate: 2025-10-30
-tags: ['religious', 'philosophy']
 ---
 
 ## Overview

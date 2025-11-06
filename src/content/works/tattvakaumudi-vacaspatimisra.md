@@ -1,46 +1,55 @@
 ---
-title: "Tattvakaumudi (Moonlight of Principles)"
-author: ["Vacaspatimisra (10th century)", "Translated by Ganganatha Jha"]
+title: 'Tattvakaumudi (Moonlight of Principles)'
+author:
+- Vacaspatimisra (10th century)
+- Translated by Ganganatha Jha
 year: 1896
-language: ["English", "Sanskrit"]
-genre: ["Philosophy", "Sankhya Darshana", "Commentary"]
-description: "Vacaspatimisra's authoritative 10th-century commentary on Ishvarakrishna's Sankhyakarika, the foundational text of Sankhya philosophy. Systematically explicates Sankhya's dualistic cosmology of purusha (consciousness) and prakriti (matter), defending its unique position on causation (satkaryavada) and the evolution of material principles (tattvas). Represents orthodox Sankhya school's medieval consolidation and response to rival philosophical schools."
-collections: ['ancient-wisdom', 'philosophy']
+language:
+- English
+- Sanskrit
+genre:
+- Philosophy
+- Sankhya Darshana
+- Commentary
+description: |
+  Vacaspatimisra's Tattvakaumudi emerges as a seminal scholarly work within the intellectual ferment of 10th-century North Indian philosophical discourse, representing a critical moment in the systematization of Sankhya philosophy during the culturally vibrant Pratihara-Rashtrakuta period. Written as an authoritative commentary on Ishvarakrishna's foundational Sankhyakarika, the text meticulously explicates the philosophical school's complex dualistic cosmology, articulating the intricate relationship between purusha (pure consciousness) and prakriti (primordial matter). Vacaspatimisra's scholarly intervention was particularly significant in defending Sankhya's distinctive philosophical positions, notably the satkaryavada theory of causation and the sophisticated metaphysical framework of material evolution through twenty-four fundamental principles (tattvas). The work reflects the dynamic intellectual landscape of medieval India, where philosophical schools engaged in rigorous epistemological debates, challenging and refining metaphysical understanding. By providing a comprehensive and nuanced interpretation of Sankhya thought, Vacaspatimisra not only preserved but critically advanced the philosophical tradition, demonstrating the sophisticated intellectual methods of classical Indian philosophical discourse. His commentary represents more than mere explication; it constitutes an intellectual synthesis that bridged multiple philosophical traditions, embodying the cross-pollinating scholarly environment of the period. The Tattvakaumudi thus stands as a crucial textual artifact illuminating the depth, complexity, and analytical rigor of Indian philosophical thought, offering profound insights into the conceptual frameworks that shaped understanding of consciousness, materiality, and cosmic evolution in classical Indian intellectual traditions.
+collections:
+- ancient-wisdom
+- philosophy
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.21929"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.21929
+  type: other
 references:
-  - name: "Wikipedia: Vacaspatimisra"
-    url: "https://en.wikipedia.org/wiki/Vācaspati_Miśra"
-    type: "wikipedia"
-  - name: "Wikipedia: Sankhya"
-    url: "https://en.wikipedia.org/wiki/Samkhya"
-    type: "wikipedia"
-  - name: "Wikipedia: Ishvarakrishna"
-    url: "https://en.wikipedia.org/wiki/Īśvarakṛṣṇa"
-    type: "wikipedia"
-  - name: "Wikipedia: Samkhyakarika"
-    url: "https://en.wikipedia.org/wiki/Samkhyakarika"
-    type: "wikipedia"
-  - name: "Wikipedia: Purusha"
-    url: "https://en.wikipedia.org/wiki/Purusha"
-    type: "wikipedia"
-  - name: "Wikipedia: Prakriti"
-    url: "https://en.wikipedia.org/wiki/Prakriti"
-    type: "wikipedia"
-  - name: "Wikipedia: Ganganath Jha"
-    url: "https://en.wikipedia.org/wiki/Ganganath_Jha"
-    type: "wikipedia"
-  - name: "Wikipedia: Indian philosophy"
-    url: "https://en.wikipedia.org/wiki/Indian_philosophy"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Tattvakaumudi+Vacaspati&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Vacaspatimisra'
+  url: https://en.wikipedia.org/wiki/Vācaspati_Miśra
+  type: wikipedia
+- name: 'Wikipedia: Sankhya'
+  url: https://en.wikipedia.org/wiki/Samkhya
+  type: wikipedia
+- name: 'Wikipedia: Ishvarakrishna'
+  url: https://en.wikipedia.org/wiki/Īśvarakṛṣṇa
+  type: wikipedia
+- name: 'Wikipedia: Samkhyakarika'
+  url: https://en.wikipedia.org/wiki/Samkhyakarika
+  type: wikipedia
+- name: 'Wikipedia: Purusha'
+  url: https://en.wikipedia.org/wiki/Purusha
+  type: wikipedia
+- name: 'Wikipedia: Prakriti'
+  url: https://en.wikipedia.org/wiki/Prakriti
+  type: wikipedia
+- name: 'Wikipedia: Ganganath Jha'
+  url: https://en.wikipedia.org/wiki/Ganganath_Jha
+  type: wikipedia
+- name: 'Wikipedia: Indian philosophy'
+  url: https://en.wikipedia.org/wiki/Indian_philosophy
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Tattvakaumudi+Vacaspati&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Vacaspatimisra", "Sankhya philosophy", "Tattvakaumudi", "Sankhyakarika", "Indian philosophy", "Dualism", "Purusha", "Prakriti", "Satkaryavada", "Medieval philosophy", "Ganganatha Jha", "Commentary"]
 ---
 
 # Tattvakaumudi (Moonlight of Principles)

@@ -1,25 +1,30 @@
 ---
-title: "A History of Hindi Literature"
-author: ["Frank Ernest Keay"]
+title: 'A History of Hindi Literature'
+author:
+- Frank Ernest Keay
 year: 1920
-language: ["English"]
-genre: ["Literary History"]
-description: "This 136-page scholarly survey traces Hindi literature from early bardic chronicles (1150-1400) through the modern period. Keay examines major movements including Bhakti poetry, the Krishna and Rama cults led by poets like Tulsi Das, and the successors of Kabir during the Mughal court period (1550-1800). Part of the Heritage of India Series, written by a Church Missionary Society scholar based in Jubbulpore."
-collections: ['regional-voices', 'modern-literature']
+language:
+- English
+genre:
+- Literary History
+description: |
+  Frank Ernest Keay's "A History of Hindi Literature" represents a pioneering scholarly examination of Hindi literary traditions during a critical period of linguistic and cultural transformation in North India. Published in 1920 during the late colonial era, this comprehensive 136-page survey meticulously traces the evolution of Hindi literary expression from early bardic chronicles (1150-1400) through the complex sociocultural transitions of the Mughal period and into the early modern era. Keay, a Church Missionary Society scholar based in Jubbulpore, provides a nuanced analysis of significant literary movements, with particular emphasis on the Bhakti poetry tradition, devotional literature centered on Krishna and Rama, and the profound intellectual contributions of mystic poets like Kabir. The work critically examines the linguistic and cultural syncretism that characterized Hindi literature during the 1550-1800 period, highlighting how poets negotiated religious, social, and aesthetic boundaries. Keay's scholarly approach contextualizes Hindi literature within broader Indian intellectual and spiritual landscapes, exploring how literary forms reflected and shaped cultural identities during periods of significant political and religious transformation. By documenting the genealogy of Hindi literary traditions, the text offers crucial insights into the development of linguistic expression, religious thought, and cultural resistance in North India. As part of the Heritage of India Series, the work serves as an important early academic documentation of Hindi literary history, bridging indigenous narrative traditions with emerging scholarly methodologies of the early 20th century. Keay's comprehensive analysis remains a significant reference point for understanding the complex literary and cultural dynamics of pre-modern and early modern Hindi literary traditions.
+collections:
+- regional-voices
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/historyofhindili00keayrich"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/historyofhindili00keayrich
+  type: other
 references:
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=history+of+hindi+literature+keay&mode=everything"
-    type: "other"
-  - name: "Who Was Who in Indology - Frank Ernest Keay"
-    url: "https://whowaswho-indology.info/3411/keay-frank-ernest/?print=print"
-    type: "other"
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=history+of+hindi+literature+keay&mode=everything
+  type: other
+- name: 'Who Was Who in Indology - Frank Ernest Keay'
+  url: https://whowaswho-indology.info/3411/keay-frank-ernest/?print=print
+  type: other
 featured: false
 publishDate: 2025-10-23
-tags: ["Hindi literature", "literary history", "Bhakti poetry", "Heritage of India Series", "Tulsi Das", "Kabir", "Mughal period", "religious poetry", "vernacular literature", "North India", "20th century scholarship"]
 ---
 
 # A History of Hindi Literature

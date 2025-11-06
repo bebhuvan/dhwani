@@ -1,28 +1,33 @@
 ---
-title: "The East India Trade in the 17th Century"
-author: ["Sir Shafaat Ahmad Khan"]
+title: 'The East India Trade in the 17th Century'
+author:
+- Sir Shafaat Ahmad Khan
 year: 1923
-language: ["English"]
-genre: ["Economic History", "History"]
-description: "Examines East India trade from political and economic perspectives, analyzing commercial relations between Great Britain and the East Indies during the 17th century. By Khan, 1923."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Economic History
+- History
+description: |
+  Sir Shafaat Ahmad Khan's seminal work, "The East India Trade in the 17th Century," represents a critical scholarly examination of the economic and political dynamics that characterized British-Indian commercial interactions during a pivotal period of colonial expansion. Published in 1923, the text emerged during a transformative moment in Indian historiography, when indigenous scholars were systematically reinterpreting colonial economic narratives through rigorous archival research. Khan's study meticulously deconstructs the complex mechanisms of East India Company trade, offering nuanced insights into the economic structures that underpinned British imperial dominance in the Indian subcontinent. The work comprehensively analyzes commercial networks, trading protocols, commodity exchanges, and the intricate economic relationships between metropolitan British interests and regional Indian mercantile systems. By focusing on the 17th century—a critical period of initial British commercial penetration—Khan illuminates the gradual transformation from mercantile engagement to structured colonial economic exploitation. His scholarship is particularly significant in contextualizing how indigenous economic structures were systematically reconfigured through imperial trade mechanisms, providing a sophisticated understanding of economic colonialism's developmental processes. As a prominent historian of the early 20th century, Khan's research contributes substantially to postcolonial economic historiography, challenging prevailing Eurocentric narratives by centering Indian agency and economic sophistication. The work remains a foundational text in understanding the complex economic genealogies that shaped modern India's global economic positioning, offering scholars an invaluable scholarly resource for comprehending the long-term structural transformations induced by colonial commercial interactions.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/eastindiatradein00khanuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/eastindiatradein00khanuoft
+  type: other
 references:
-  - name: "Wikipedia: East India Company"
-    url: "https://en.wikipedia.org/wiki/East_India_Company"
-    type: "wikipedia"
-  - name: "Wikipedia: Spice Trade"
-    url: "https://en.wikipedia.org/wiki/Spice_trade"
-    type: "wikipedia"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=East+India+Trade+17th+Century+Shafaat+Ahmad+Khan"
-    type: "other"
+- name: 'Wikipedia: East India Company'
+  url: https://en.wikipedia.org/wiki/East_India_Company
+  type: wikipedia
+- name: 'Wikipedia: Spice Trade'
+  url: https://en.wikipedia.org/wiki/Spice_trade
+  type: wikipedia
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=East+India+Trade+17th+Century+Shafaat+Ahmad+Khan
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["East India Company", "17th Century Trade", "Economic History", "British India", "Commercial History", "Shafaat Ahmad Khan", "Maritime Trade", "Mercantilism", "Colonial Economics", "Indian Ocean Trade"]
 ---
 
 # The East India Trade in the 17th Century

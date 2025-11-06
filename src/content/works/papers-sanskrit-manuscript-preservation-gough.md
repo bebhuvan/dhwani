@@ -1,25 +1,31 @@
 ---
-title: "Papers Relating to the Collection and Preservation of Ancient Sanskrit Literature in India"
-author: ["Archibald Edward Gough"]
+title: 'Papers Relating to the Collection and Preservation of Ancient Sanskrit Literature in India'
+author:
+- Archibald Edward Gough
 year: 1878
-language: ["English"]
-genre: ["Bibliography", "Manuscript Studies", "Conservation"]
-description: "Addresses the systematic gathering and safeguarding of ancient Sanskrit manuscript records throughout India. Documents late 19th-century efforts to locate, catalog, and preserve India's manuscript heritage, reflecting early conservation initiatives."
-collections: ['ancient-wisdom']
+language:
+- English
+genre:
+- Bibliography
+- Manuscript Studies
+- Conservation
+description: |
+  During the late 19th century, Archibald Edward Gough's comprehensive work emerged as a critical scholarly intervention in the systematic documentation and preservation of India's ancient Sanskrit manuscript heritage. Published in 1878 at the height of British colonial scholarly engagement with indigenous knowledge systems, this document represents a pivotal moment in the intellectual documentation of Indian cultural archives. Gough, a British colonial scholar and administrator with significant expertise in Indological studies, meticulously detailed the contemporary efforts to locate, catalog, and safeguard Sanskrit manuscripts across the complex administrative landscape of British India. The work provides a nuanced exploration of manuscript conservation methodologies, institutional strategies, and the emerging scholarly practices that sought to recover and systematize ancient textual resources. By mapping the geographical distribution of manuscript collections, documenting preservation techniques, and analyzing the administrative mechanisms of manuscript collection, Gough's publication illuminates the intricate processes of cultural knowledge preservation during a transformative period of colonial scholarly interaction. The document is particularly significant in tracing the institutional frameworks through which Indian intellectual heritage was being interpreted, categorized, and understood by colonial administrators and emerging Indian scholarly networks. It represents a critical intersection of imperial research methodologies and nascent Indian intellectual recovery efforts, offering insights into the complex dynamics of cultural documentation, scholarly exchange, and knowledge production during a period of profound cultural and intellectual transition in the Indian subcontinent. Gough's work stands as an important historical record of the early systematic attempts to preserve and understand India's rich textual traditions.
+collections:
+- ancient-wisdom
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/papersrelatingto00gougrich"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/papersrelatingto00gougrich
+  type: other
 references:
-  - name: "Wikisource: Author Page"
-    url: "https://en.wikisource.org/wiki/Author:Archibald_Edward_Gough"
-    type: "wikisource"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=Papers+Relating+Sanskrit+Manuscript+Preservation+Archibald+Edward+Gough"
-    type: "other"
+- name: 'Wikisource: Author Page'
+  url: https://en.wikisource.org/wiki/Author:Archibald_Edward_Gough
+  type: wikisource
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=Papers+Relating+Sanskrit+Manuscript+Preservation+Archibald+Edward+Gough
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Sanskrit Manuscripts", "Manuscript Preservation", "Archibald Gough", "19th Century", "Bibliography", "Conservation", "Colonial India", "Textual Studies", "Sanskrit Literature", "Cultural Heritage"]
 ---
 
 # Papers Relating to the Collection and Preservation of Ancient Sanskrit Literature in India

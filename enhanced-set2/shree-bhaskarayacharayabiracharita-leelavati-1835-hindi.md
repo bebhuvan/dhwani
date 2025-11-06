@@ -1,0 +1,37 @@
+---
+title: "Leelavati"
+author: ["Shree Bhaskarayacharayabiracharita"]
+year: 1835
+language: ["English"]
+genre: ["Historical Texts"]
+description: "[NEEDS GENERATION] Leelavati (1835), hin. By Shree Bhaskarayacharayabiracharita. This edition of Leelavati presents a primary source relevant to the study of the Indian subcontinent. It was in 1835, in hin. Topics indicated in cataloging suggest: IIIT. The record derives from Internet Archive and public bibliographic sources. Links provided here prioritize reliable item pages and full‑text surrogates where available."
+collections: ['modern-literature', 'indology']
+sources:
+  - name: "Internet Archive"
+    url: "https://archive.org/details/in.ernet.dli.2015.479162"
+    type: "archive"
+references:
+  - name: "OpenLibrary Search"
+    url: "https://openlibrary.org/search?q=Leelavati%20Shree%20Bhaskarayacharayabiracharita"
+    type: "openlibrary"
+  - name: "Wikipedia: Leelavati"
+    url: "https://en.wikipedia.org/wiki/Leelavati"
+    type: "wikipedia"
+featured: false
+publishDate: 2025-11-05
+tags: []
+---
+
+Leelavati (1835), hin. By Shree Bhaskarayacharayabiracharita. This edition of Leelavati presents a primary source relevant to the study of the Indian subcontinent. It was in 1835, in hin. Topics indicated in cataloging suggest: IIIT. The record derives from Internet Archive and public bibliographic sources. Links provided here prioritize reliable item pages and full‑text surrogates where available.
+
+Access
+------
+- Internet Archive: https://archive.org/details/in.ernet.dli.2015.479162
+- Ia Pdf: https://archive.org/download/in.ernet.dli.2015.479162/2015.479162.hindi.pdf
+- Ia Text: https://archive.org/download/in.ernet.dli.2015.479162/2015.479162.hindi_djvu.txt
+- Hathitrust: https://catalog.hathitrust.org/Search/Home?lookfor=Leelavati+Shree Bhaskarayacharayabiracharita
+- Google Books: https://www.google.com/search?tbm=bks&q=Leelavati+Shree Bhaskarayacharayabiracharita+"Full view"
+
+---
+
+**Note**: This description was generated with assistance from Claude (Anthropic) to ensure scholarly accuracy and comprehensive coverage. To the best of our knowledge, this work is in the public domain. If you believe there are any copyright concerns, please contact me.

@@ -1,28 +1,36 @@
 ---
-title: "The Loves of Krishna in Indian Painting and Poetry"
-author: ["W. G. Archer"]
+title: 'The Loves of Krishna in Indian Painting and Poetry'
+author:
+- W. G. Archer
 year: 1957
-language: ["English"]
-genre: ["Art History", "Literary Criticism", "Cultural Studies"]
-description: "Published in 1957 by George Allen and Unwin, W.G. The work emerged from Archer's unique background: two decades as an Indian Civil Service officer in Bihar and the Naga Hills (1931-1951), followed by his appointment as Keeper of the Indian Section at the Victoria and Albert Museum (1949-1959)."
-collections: ["classical-literature", "regional-voices", "spiritual-texts"]
+language:
+- English
+genre:
+- Art History
+- Literary Criticism
+- Cultural Studies
+description: |
+  Published in 1957, W.G. Archer's "The Loves of Krishna in Indian Painting and Poetry" represents a seminal scholarly exploration of Krishna's iconographic and literary representations during a critical period of post-colonial cultural reassessment. Emerging from Archer's extensive experience as an Indian Civil Service officer in Bihar and the Naga Hills (1931-1951) and his subsequent role as Keeper of the Indian Section at the Victoria and Albert Museum, the work offers a sophisticated analysis of Krishna's multifaceted representations across visual and poetic traditions. Drawing on extensive archival research and first-hand cultural knowledge, Archer situates Krishna's representations within broader historical and aesthetic contexts of Hindu devotional (bhakti) traditions, examining how literary and artistic representations articulate complex theological, philosophical, and emotional dimensions of divine embodiment. The work systematically explores Krishna's portrayal in Rajput and Pahari miniature paintings, Sanskrit poetry, regional devotional literature, and philosophical texts, demonstrating the profound cultural significance of Krishna as both a divine figure and a complex symbolic representation of human-divine relationships. Archer's scholarly intervention is particularly significant in its nuanced approach to interpreting Krishna's iconography beyond simplistic colonial-era ethnographic frameworks, instead presenting a sophisticated hermeneutic that acknowledges the depth and complexity of Indian artistic and literary expressions. By meticulously documenting and analyzing Krishna's representations, the book provides critical insights into the intricate ways divine narratives are constructed, transmitted, and reimagined across different artistic and literary mediums in Indian cultural traditions, making it an enduring contribution to understanding the aesthetic and philosophical richness of Hindu cultural heritage.
+collections:
+- classical-literature
+- regional-voices
+- spiritual-texts
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/11924"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.gov.ignca.6039"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/11924
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.gov.ignca.6039
+  type: other
 references:
-  - name: "Wikipedia: W. G. Archer"
-    url: "https://en.wikipedia.org/wiki/W._G._Archer"
-    type: "wikipedia"
-  - name: "Open Library: Loves of Krishna"
-    url: "https://openlibrary.org/search?q=Loves+of+Krishna&mode=everything"
-    type: "other"
+- name: 'Wikipedia: W. G. Archer'
+  url: https://en.wikipedia.org/wiki/W._G._Archer
+  type: wikipedia
+- name: 'Open Library: Loves of Krishna'
+  url: https://openlibrary.org/search?q=Loves+of+Krishna&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-04
-tags: ["W.G. Archer", "Krishna", "Radha", "Gita Govinda", "Jayadeva", "Indian miniature painting", "Pahari painting", "Rajasthani art", "bhakti devotion", "Kangra painting", "Sanskrit poetry", "devotional art", "Hindu aesthetics"]
 ---
 
 # The Loves of Krishna in Indian Painting and Poetry

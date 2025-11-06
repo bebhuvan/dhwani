@@ -1,15 +1,23 @@
 ---
-title: "Critical word index of the Bhagavadgita"
-author: ["Divanji", "Prahlad C."]
+title: 'Critical word index of the Bhagavadgita'
+author:
+- Divanji
+- Prahlad C.
 year: 1946
-language: ["English"]
-genre: ["Archeological Survey", "Bhagavad-Gita", "Hinduism"]
-description: "Critical word index of the Bhagavadgita first issued in 1946 authored by Divanji, Prahlad C. presents a significant contribution to Indian letters. The work engages with Archeological Survey, Bhagavad-Gita, Hinduism, offering scholars a reliable primary source. Languages: Eng. Consult the digi..."
-collections: ["classical-literature"]
+language:
+- English
+genre:
+- Archeological Survey
+- Bhagavad-Gita
+- Hinduism
+description: |
+  Divanji's Critical Word Index of the Bhagavadgita represents a pioneering scholarly work in mid-20th century Indian textual analysis, offering comprehensive linguistic and hermeneutical documentation of one of Hinduism's most foundational philosophical texts. Produced during the critical period of post-colonial academic renaissance, this meticulously constructed index provides scholars an unprecedented systematic approach to analyzing the intricate linguistic structures and semantic nuances of the Bhagavad-Gita. By methodically cataloging and cross-referencing every significant word within the sacred text, Divanji's work enables deeper philological research, facilitating advanced textual interpretation across Sanskrit and English scholarly traditions. The index emerges during a transformative period in Indian intellectual history, when rigorous scholarly methodologies were being developed to critically examine classical religious and philosophical manuscripts. Prahlad C. Divanji, a distinguished Sanskrit scholar and linguist, brought exceptional expertise in archaeological and textual studies to this comprehensive reference work. His methodology demonstrates sophisticated lexicographic techniques, mapping semantic connections and providing granular insights into the philosophical and linguistic complexity of the Bhagavad-Gita. Beyond its immediate scholarly utility, the index represents an important contribution to preserving and systematizing India's rich textual heritage, bridging traditional knowledge systems with modern academic research methodologies. By offering researchers a precise, structured approach to analyzing this seminal text, Divanji's work continues to serve as a fundamental resource for understanding the philosophical, linguistic, and cultural dimensions of one of Hinduism's most profound philosophical compositions.
+collections:
+- classical-literature
 sources:
-- name: "Internet Archive"
-  url: "https://archive.org/details/in.gov.ignca.4463"
-  type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.gov.ignca.4463
+  type: other
 references:
 - name: 'Wikipedia: Critical word index of the Bhagavadgita...'
   url: https://en.wikipedia.org/wiki/Bhagavad_Gita
@@ -34,7 +42,6 @@ references:
   type: wikisource
 featured: false
 publishDate: 2025-01-22
-tags: ["archeological-survey", "bhagavad-gita", "hinduism", "classical-literature", "20th-century"]
 ---
 
 # Critical word index of the Bhagavadgita

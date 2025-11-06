@@ -1,28 +1,34 @@
 ---
-title: "Vedāntasāra of Sadānanda"
-author: ["Sadānanda Yogīndra", "commentary by Āpadeva"]
+title: 'Vedāntasāra of Sadānanda'
+author:
+- Sadānanda Yogīndra
+- commentary by Āpadeva
 year: 1911
-language: ["English", "Sanskrit"]
-genre: ["Philosophy", "Vedanta", "Religious Literature"]
-description: "Sadānanda Yogīndra's Vedāntasāra with Āpadeva's commentary (1911) is the most widely used Advaita Vedanta primer, systematically introducing concepts like Brahman, Maya, and the Self for students of Hindu philosophy."
-collections: ['ancient-wisdom', 'spiritual-texts']
+language:
+- English
+- Sanskrit
+genre:
+- Philosophy
+- Vedanta
+- Religious Literature
+description: |
+  Emerging during the late medieval period of Advaita Vedanta scholarship in the 15th-16th centuries, the Vedāntasāra represents a critical intellectual achievement within the Kerala school of Vedantic philosophy. Composed by Sadānanda Yogīndra, a prominent scholar from the sophisticated philosophical traditions of southern India, this work epitomizes the systematic scholastic approach to Hindu metaphysical thinking during a transformative period of intellectual consolidation. Against the backdrop of increasing theological and philosophical complexity in Hinduism, Sadānanda crafted a pedagogically sophisticated primer that distilled intricate Advaita Vedanta concepts into a structured, accessible framework. The text rigorously explores fundamental metaphysical categories like Brahman (ultimate reality), Maya (cosmic illusion), and Ātman (individual self), providing a comprehensive hermeneutical approach to understanding consciousness, ontology, and spiritual liberation. Āpadeva's seminal commentary, published in 1911, further amplified the text's scholarly significance, establishing it as a canonical introductory text for generations of philosophers, theologians, and students of Indian intellectual traditions. By systematically delineating the non-dual nature of reality and the profound interconnectedness of individual and cosmic consciousness, the Vedāntasāra offers profound insights into the epistemological and metaphysical foundations of Advaita Vedanta philosophy. Its enduring relevance lies not merely in its philosophical sophistication, but in its ability to communicate complex spiritual and philosophical concepts with remarkable conceptual clarity, thus serving as a crucial bridge between classical Sanskrit philosophical discourse and modern interpretative frameworks. The work remains a quintessential text for understanding the depth, nuance, and intellectual rigor of classical Indian philosophical thought.
+collections:
+- ancient-wisdom
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/vedantasaraofsad00sada"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/vedantasaraofsad00sada
+  type: other
 references:
-  - name: "Wikipedia: Vedantasara"
-    url: "https://en.wikipedia.org/wiki/Vedantasara"
-    type: "wikipedia"
-  - name: "Wikipedia: Advaita Vedanta"
-    url: "https://en.wikipedia.org/wiki/Advaita_Vedanta"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Vedantasara+Sadananda&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Advaita Vedanta'
+  url: https://en.wikipedia.org/wiki/Advaita_Vedanta
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Vedantasara+Sadananda&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-21
-tags: ["Vedantasara", "Sadananda Yogindra", "Advaita Vedanta", "Hindu philosophy", "Brahman", "Atman", "Maya", "Sanskrit texts", "15th century", "Non-dualism", "Indian philosophy"]
 ---
 
 # Vedāntasāra of Sadānanda

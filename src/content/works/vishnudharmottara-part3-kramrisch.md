@@ -1,28 +1,36 @@
 ---
-title: "The Viṣṇudharmottara Purāṇa (Part III): Painting and Image-Making"
-author: ["Ancient text", "Translated by Stella Kramrisch"]
+title: 'The Viṣṇudharmottara Purāṇa (Part III): Painting and Image-Making'
+author:
+- Ancient text
+- Translated by Stella Kramrisch
 year: 1928
-language: ["Sanskrit with English translation"]
-genre: ["Art Theory", "Painting Manual", "Iconography"]
-description: "Part III of Vishnudharmottara Purana, one of earliest and most authoritative technical treatises on Indian painting (chitra) and image-making (pratima). Contains detailed chitrasutras covering proportions (pramana), brush work techniques, color preparation, composition principles, and iconographic lakshanas for depicting deities. Predates and influenced later painting traditions, essential for understanding technical foundations of Indian pictorial arts."
-collections: ['arts-texts', 'technical-manuals']
+language:
+- Sanskrit with English translation
+genre:
+- Art Theory
+- Painting Manual
+- Iconography
+description: |
+  Part III of the Vishnudharmottara Purana represents a seminal scholarly text on Indian artistic and aesthetic theory, composed during the early medieval period (approximately 5th-7th century CE) when classical Indian artistic conventions were being systematically codified. This sophisticated treatise offers comprehensive technical guidelines for painting (chitra) and image-making (pratima), serving as a foundational document for understanding the intricate philosophical and practical dimensions of visual representation in Indian cultural traditions. The text meticulously elaborates on complex aesthetic principles, detailing precise proportional measurements (pramana), chromatic techniques, compositional strategies, and iconographic specifications (lakshanas) for depicting divine and mythological figures. Its systematic approach extends beyond mere technical instructions, embedding artistic practice within broader metaphysical and religious conceptualizations characteristic of classical Indian epistemology. Scholars consider the chitrasutras (painting guidelines) particularly significant for their nuanced articulation of how visual representation connects spiritual essence with material form, reflecting deep philosophical interactions between aesthetic practice and metaphysical understanding. The treatise provides critical insights into the normative aesthetic principles governing temple art, sculptural traditions, and manuscript illuminations across multiple regional styles. Its influence extended far beyond its immediate historical context, becoming a canonical reference for subsequent generations of artists, scholars, and cultural practitioners seeking to comprehend the profound interrelationships between aesthetic representation, religious symbolism, and philosophical thought in classical Indian civilization. As a comprehensive manual, the Vishnudharmottara Purana's third section remains an indispensable scholarly resource for understanding the sophisticated intellectual and creative frameworks underlying Indian visual arts.
+collections:
+- arts-texts
+- technical-manuals
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/dli.calcutta.10295"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/dli.calcutta.10295
+  type: other
 references:
-  - name: "Wikipedia: Stella Kramrisch"
-    url: "https://en.wikipedia.org/wiki/Stella_Kramrisch"
-    type: "wikipedia"
-  - name: "Wikipedia: Chitrasutras"
-    url: "https://en.wikipedia.org/wiki/Indian_art"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Vishnudharmottara+Kramrisch+painting&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Stella Kramrisch'
+  url: https://en.wikipedia.org/wiki/Stella_Kramrisch
+  type: wikipedia
+- name: 'Wikipedia: Chitrasutras'
+  url: https://en.wikipedia.org/wiki/Indian_art
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Vishnudharmottara+Kramrisch+painting&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Vishnudharmottara", "Indian painting", "Chitrasutras", "Stella Kramrisch", "Iconography", "Art theory", "Image-making", "Technical manual", "Color theory", "Proportions"]
 ---
 
 # The Viṣṇudharmottara Purāṇa (Part III)

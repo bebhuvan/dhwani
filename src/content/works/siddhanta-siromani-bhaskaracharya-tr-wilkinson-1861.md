@@ -1,31 +1,43 @@
 ---
-title: "Siddhānta Śiromaṇi (Crown of Treatises)"
-author: ["Bhāskarācārya II", "tr. Lancelot Wilkinson", "ed. Bapu Deva Sastri"]
+title: 'Siddhānta Śiromaṇi (Crown of Treatises)'
+author:
+- Bhāskarācārya II
+- tr. Lancelot Wilkinson
+- ed. Bapu Deva Sastri
 year: 1861
-language: ["English", "Sanskrit"]
-genre: ["Mathematics", "Astronomy", "Science"]
-description: "Monumental 12th-century Sanskrit treatise on mathematics and astronomy comprising four sections—Līlāvatī (arithmetic/geometry), Bījagaṇita (algebra), Grahagaṇita (planetary mathematics), and Golādhyāya (spherical astronomy). Bhaskara's accurate sidereal year calculation (365.2588 days) and sophisticated algebraic techniques demonstrate pinnacle of medieval Indian mathematical achievement. Wilkinson's 1861 Bibliotheca Indica translation provided Victorian scholars systematic access to India's astronomical traditions."
-collections: ['classical-literature', 'mathematics', 'astronomy', 'science']
+language:
+- English
+- Sanskrit
+genre:
+- Mathematics
+- Astronomy
+- Science
+description: |
+  The Siddhānta Śiromaṇi represents a pinnacle of medieval Indian mathematical and astronomical scholarship, emerging during the intellectually vibrant Chalukya-Kakatiya period of the 12th century. Composed by Bhāskarācārya II (1114-1185 CE), a distinguished mathematician-astronomer from Maharashtra, this comprehensive Sanskrit treatise synthesizes centuries of mathematical knowledge developed across the Indian subcontinent. The work is structured into four critical sections—Līlāvatī (focusing on arithmetic and geometry), Bījagaṇita (algebraic systems), Grahagaṇita (planetary mathematics), and Golādhyāya (spherical astronomy)—each demonstrating sophisticated mathematical methodologies that significantly advanced scientific understanding. Bhāskarācārya's groundbreaking contributions include an exceptionally precise calculation of the sidereal year (365.2588 days) and innovative algebraic techniques that anticipated many later mathematical developments. The treatise illuminates the remarkable computational and theoretical capabilities of medieval Indian scholars, challenging Eurocentric narratives about scientific progress. Its translation by Lancelot Wilkinson in 1861 under the Bibliotheca Indica series marked a critical moment of cross-cultural scholarly exchange, introducing European intellectuals to the depth and complexity of Indian mathematical traditions during the late colonial period. Beyond its scientific significance, the Siddhānta Śiromaṇi represents an intellectual artifact that embodies the sophisticated philosophical and empirical approaches characteristic of classical Indian scholarly traditions, reflecting a holistic worldview that integrated mathematical precision with cosmological understanding.
+collections:
+- classical-literature
+- mathematics
+- astronomy
+- science
 sources:
-  - name: "Internet Archive (DLI)"
-    url: "https://archive.org/details/in.ernet.dli.2015.405727"
-    type: "other"
-  - name: "Internet Archive (Bibliotheca Indica PDF)"
-    url: "https://archive.org/download/Bibliotheca_Indica_Series/SiddhantaSiromaniEnglishTranslationFasc1-LancelotWilkinsonBapudevaSastri1861bis.pdf"
-    type: "other"
+- name: 'Internet Archive (DLI)'
+  url: https://archive.org/details/in.ernet.dli.2015.405727
+  type: other
+- name: 'Internet Archive (Bibliotheca Indica PDF)'
+  url: https://archive.org/download/Bibliotheca_Indica_Series/SiddhantaSiromaniEnglishTranslationFasc1-LancelotWilkinsonBapudevaSastri1861bis.pdf
+  type: other
 references:
-  - name: "Wikipedia: Siddhānta Shiromani"
-    url: "https://en.wikipedia.org/wiki/Siddhānta_Shiromani"
-    type: "wikipedia"
-  - name: "Wikipedia: Bhāskara II"
-    url: "https://en.wikipedia.org/wiki/Bhāskara_II"
-    type: "wikipedia"
-  - name: "OpenLibrary"
-    url: "https://openlibrary.org/search?q=Siddhanta+Siromani+Bhaskaracharya+Wilkinson"
-    type: "other"
+- name: 'Wikipedia: Siddhānta Shiromani'
+  url: https://en.wikipedia.org/wiki/Siddhānta_Shiromani
+  type: wikipedia
+- name: 'Wikipedia: Bhāskara II'
+  url: https://en.wikipedia.org/wiki/Bhāskara_II
+  type: wikipedia
+- name: 'OpenLibrary'
+  url: https://openlibrary.org/search?q=Siddhanta+Siromani+Bhaskaracharya+Wilkinson
+  type: other
 featured: false
 publishDate: 2025-01-24
-tags: ["Mathematics", "Astronomy", "Sanskrit science", "Bhaskara II", "12th century", "Algebra", "Geometry", "Indian mathematics", "Lancelot Wilkinson", "Classical texts", "Public domain"]
 ---
 
 # Siddhānta Śiromaṇi (Crown of Treatises)

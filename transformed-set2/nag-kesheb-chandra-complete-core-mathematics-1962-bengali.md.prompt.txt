@@ -1,0 +1,20 @@
+Generate a scholarly description (150-300 words) for this work:
+
+Title: Complete Core Mathematics
+Author: Nag, Kesheb Chandra
+Year: 1962
+Language: English
+Topics: Not specified
+
+Current description: Complete Core Mathematics (1962), ben. By Nag, Kesheb Chandra. This edition of Complete Core Mathematics presents a primary source relevant to the study of the Indian subcontinent. It was in 1962, in ben. Topics indicated in cataloging suggest: C-DAK. The record derives from Internet Archive and public bibliographic sources. Links provided here prioritize reliable item pages and full‑text surrogates where available.
+
+Requirements:
+- Scholarly tone without marketing fluff
+- Explain historical context and significance
+- Mention key themes or contributions
+- Explain relevance to Indian literary/cultural heritage
+- If this is about India, emphasize that connection
+- If not directly Indian, explain its relevance to Indian studies
+- No superlatives without substance
+
+Format: Single paragraph, 150-300 words.

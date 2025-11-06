@@ -1,25 +1,33 @@
 ---
-title: "Thirty Minor Upanishads"
-author: ["K. Narayanasvami Aiyar"]
+title: 'Thirty Minor Upanishads'
+author:
+- K. Narayanasvami Aiyar
 year: 1914
-language: ["English", "Sanskrit"]
-genre: ["Religious Philosophy", "Sacred Texts"]
-description: "This 280-page volume presents English translations with Sanskrit text of thirty lesser-known Upanishads from the traditional canon of 108, organized by category: fourteen Vedanta, three Mantra, two Physiological, two Sannyasa, and nine Yoga Upanishads. Translated by K. Narayanasvami Aiyar, a Telugu Brahmin scholar and Theosophical Society member, these texts emphasize yogic philosophy and practices."
-collections: ['spiritual-texts', 'ancient-wisdom', 'classical-literature']
+language:
+- English
+- Sanskrit
+genre:
+- Religious Philosophy
+- Sacred Texts
+description: |
+  This comprehensive scholarly volume presents meticulously translated English renditions accompanied by original Sanskrit texts of thirty lesser-known Upanishads, carefully selected from the traditional canon of 108 sacred philosophical texts. Compiled and translated by K. Narayanasvami Aiyar, a prominent Telugu Brahmin scholar associated with the Theosophical Society during the late 19th and early 20th centuries, the work represents a critical intervention in preserving and interpreting esoteric Hindu philosophical traditions during the colonial period. The collection is systematically organized across six thematic categories: fourteen Vedanta Upanishads exploring metaphysical and ontological inquiries, three Mantra Upanishads focusing on ritualistic and phonetic dimensions of sacred sound, two Physiological Upanishads examining bodily energetics and subtle anatomies, two Sannyasa Upanishads addressing monastic and renunciatory philosophies, and nine Yoga Upanishads delving into contemplative practices and transformative spiritual technologies. Aiyar's translation work is particularly significant for making these complex, specialized Sanskrit texts accessible to English-speaking scholars and practitioners, thereby bridging indigenous philosophical knowledge with emerging transnational intellectual discourses. The volume illuminates sophisticated contemplative frameworks within classical Indian thought, demonstrating intricate connections between metaphysical speculation, somatic practices, and spiritual liberation. By presenting these texts with scholarly rigor and interpretative nuance, the work contributes substantially to understanding the depth and complexity of Hindu philosophical traditions, offering insights into meditative techniques, cosmological perspectives, and sophisticated epistemological approaches that continue to influence contemporary spiritual and philosophical discourse in India and globally.
+collections:
+- spiritual-texts
+- ancient-wisdom
+- classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/thirtyminorupani00xxxxuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/thirtyminorupani00xxxxuoft
+  type: other
 references:
-  - name: "Wikipedia: Upanishads"
-    url: "https://en.wikipedia.org/wiki/Upanishads"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=thirty+minor+upanishads+narayanasvami&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Upanishads'
+  url: https://en.wikipedia.org/wiki/Upanishads
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=thirty+minor+upanishads+narayanasvami&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-23
-tags: ["Upanishads", "Vedanta", "Yoga", "Sanskrit texts", "Hindu philosophy", "Theosophical Society", "Annie Besant", "Vasanta Press", "Madras", "yogic practices", "esoteric philosophy", "minor Upanishads", "spiritual literature"]
 ---
 
 # Thirty Minor Upanishads

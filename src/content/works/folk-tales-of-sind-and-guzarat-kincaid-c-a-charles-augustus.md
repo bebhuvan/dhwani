@@ -1,25 +1,31 @@
 ---
-title: "Folk tales of Sind and Guzarat"
-author: ["Kincaid, C. A. (Charles Augustus)"]
+title: 'Folk tales of Sind and Guzarat'
+author:
+- Kincaid, C. A. (Charles Augustus)
 year: 1939
-language: ["English"]
-genre: ["Classical Literature"]
-description: "A collection of traditional folk tales from the Sind and Gujarat regions, presenting stories that reflect the cultural heritage and narrative traditions of these areas of India."
-collections: ["classical-literature"]
+language:
+- English
+genre:
+- Classical Literature
+description: |
+  Here's the expanded description:
+  
+  Charles Augustus Kincaid's "Folk Tales of Sind and Guzarat" represents a critical scholarly compilation of indigenous narrative traditions from western India during the late colonial period, capturing oral storytelling practices at a pivotal moment of cultural documentation. Published in 1939, the collection emerges during an era of intense academic and cultural preservation efforts by colonial and Indian scholars seeking to record rapidly transforming regional folk traditions. The compilation draws from the rich narrative landscapes of Sind (modern-day Sindh province in Pakistan) and Gujarat, regions characterized by complex cultural interactions involving Hindu, Muslim, and indigenous tribal storytelling traditions. Kincaid, a British civil servant and ethnographer who served in India from the late 19th to early 20th centuries, employed careful translation and scholarly methodologies to render these oral narratives accessible to broader academic and cultural audiences. The collection offers profound insights into social structures, moral philosophies, and cultural dynamics of western Indian communities through intricate storytelling mechanisms that encode complex social knowledge. These folk tales function not merely as entertainment but as sophisticated repositories of cultural memory, philosophical wisdom, and communal identity, reflecting migration patterns, religious syncretism, and local epistemologies. By meticulously documenting these narratives during a period of significant political and cultural transformation, Kincaid contributed significantly to anthropological and literary scholarship, preserving narrative traditions that might otherwise have been marginalized or lost during colonial administrative reorganization and rapid societal changes.
+collections:
+- classical-literature
 sources:
-- name: "Project Gutenberg"
-  url: "https://www.gutenberg.org/ebooks/76982"
-  type: "other"
-- name: "Project Gutenberg (HTML)"
-  url: "https://www.gutenberg.org/ebooks/76982.html.images"
-  type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/76982
+  type: other
+- name: 'Project Gutenberg (HTML)'
+  url: https://www.gutenberg.org/ebooks/76982.html.images
+  type: other
 references:
-- name: "Open Library: Folk Tales of Sind and Guzarat"
-  url: "https://openlibrary.org/search?q=Folk%20tales%20of%20Sind%20and%20Guzarat%20Kincaid"
-  type: "other"
+- name: 'Open Library: Folk Tales of Sind and Guzarat'
+  url: https://openlibrary.org/search?q=Folk%20tales%20of%20Sind%20and%20Guzarat%20Kincaid
+  type: other
 featured: false
 publishDate: 2025-11-01
-tags: ["public domain", "Kincaid, C. A.", "folk tales"]
 ---
 
 # Folk tales of Sind and Guzarat

@@ -1,31 +1,41 @@
 ---
-title: "Prabandhacintāmaṇi (The Wishing-Stone of Narratives)"
-author: ["Merutuṅga Ācārya", "tr. C.H. Tawney"]
+title: 'Prabandhacintāmaṇi (The Wishing-Stone of Narratives)'
+author:
+- Merutuṅga Ācārya
+- tr. C.H. Tawney
 year: 1901
-language: ["English", "Sanskrit"]
-genre: ["Historical Literature", "Hagiography", "Medieval Literature"]
-description: "Sanskrit collection of prabandhas (biographical narratives) compiled in 1304 CE by Jain monk Merutuṅga, chronicling rulers, ministers, and religious figures of Gujarat's Chāvḍā, Chaulukya, and Vāghelā dynasties (940-1250 CE). Blends historical events with legendary embellishments, preserving valuable information about medieval Gujarat's political history and Jain community life. Tawney's 1899-1901 Asiatic Society translation introduced English readers to this important source for Jain perspectives on regional history."
-collections: ['historical-literature', 'jain-texts', 'medieval-india']
+language:
+- English
+- Sanskrit
+genre:
+- Historical Literature
+- Hagiography
+- Medieval Literature
+description: |
+  The Prabandhacintāmaṇi, compiled by the Jain scholar Merutuṅga Ācārya in 1304 CE, represents a sophisticated literary compilation that transcends conventional historical narrative by interweaving biographical accounts, religious perspectives, and regional political chronicles from medieval Gujarat (940-1250 CE). This seminal Sanskrit text meticulously documents the sociopolitical landscape of western Indian kingdoms, particularly the Chāvḍā, Chaulukya, and Vāghelā dynasties, through a nuanced collection of prabandhas (biographical narratives) that blend historical documentation with sophisticated literary embellishment. Merutuṅga, a learned Jain monk, constructed a complex textual framework that not only preserves historical events but also illuminates the intricate social, cultural, and religious dynamics of the period. The work provides critical insights into Jain intellectual traditions, courtly life, and the complex interactions between religious communities and political power structures. By incorporating legendary elements alongside factual accounts, Merutuṅga created a multilayered narrative that reflects the sophisticated historiographical practices of medieval Indian intellectual traditions. The text's significance extends beyond mere historical record, serving as a sophisticated literary artifact that demonstrates the rich narrative techniques of Sanskrit scholarly composition. C.H. Tawney's pioneering English translation (1899-1901) introduced this remarkable work to global scholarly audiences, enabling broader understanding of medieval Indian cultural complexity. As a comprehensive repository of regional history, religious perspectives, and literary artistry, the Prabandhacintāmaṇi remains an invaluable source for understanding the intellectual and social dynamics of medieval western India, particularly the nuanced interactions between political authority, religious institutions, and cultural memory.
+collections:
+- historical-literature
+- jain-texts
+- medieval-india
 sources:
-  - name: "Internet Archive (DLI)"
-    url: "https://archive.org/details/in.ernet.dli.2015.228845"
-    type: "other"
-  - name: "Internet Archive (DLI alternate)"
-    url: "https://archive.org/details/in.ernet.dli.2015.22425"
-    type: "other"
+- name: 'Internet Archive (DLI)'
+  url: https://archive.org/details/in.ernet.dli.2015.228845
+  type: other
+- name: 'Internet Archive (DLI alternate)'
+  url: https://archive.org/details/in.ernet.dli.2015.22425
+  type: other
 references:
-  - name: "Wikipedia: Prabandha-Chintamani"
-    url: "https://en.wikipedia.org/wiki/Prabandha-Chintamani"
-    type: "wikipedia"
-  - name: "Wikipedia: Merutunga"
-    url: "https://en.wikipedia.org/wiki/Merutunga"
-    type: "wikipedia"
-  - name: "OpenLibrary"
-    url: "https://openlibrary.org/search?q=Prabandhacintamani+Merutunga+Tawney"
-    type: "other"
+- name: 'Wikipedia: Prabandha-Chintamani'
+  url: https://en.wikipedia.org/wiki/Prabandha-Chintamani
+  type: wikipedia
+- name: 'Wikipedia: Merutunga'
+  url: https://en.wikipedia.org/wiki/Merutunga
+  type: wikipedia
+- name: 'OpenLibrary'
+  url: https://openlibrary.org/search?q=Prabandhacintamani+Merutunga+Tawney
+  type: other
 featured: false
 publishDate: 2025-01-24
-tags: ["Jain literature", "Medieval Gujarat", "Sanskrit literature", "Prabandha", "Historical narratives", "14th century", "Merutunga", "C.H. Tawney", "Regional history", "Chaulukya dynasty", "Public domain"]
 ---
 
 # Prabandhacintāmaṇi

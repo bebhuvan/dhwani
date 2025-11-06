@@ -1,15 +1,23 @@
 ---
-title: "Bhartiya Jyotish Vigyan (Indian Astronomical Science)"
-author: ["Ravindra Kumar Dubey"]
+title: 'Bhartiya Jyotish Vigyan (Indian Astronomical Science)'
+author:
+- Ravindra Kumar Dubey
 year: 1990
-language: ["Hindi"]
-genre: ["Astronomy", "Astrology", "Scientific Texts"]
-description: "Modern Hindi exposition of Jyotisha by Ravindra Kumar Dubey examining the integrated tradition of Indian mathematical astronomy and predictive astrology. This work explores the historical development, mathematical foundations, zodiacal systems, and practical applications of the science of celestial bodies within Hindu tradition."
-collections: ["astronomy", "scientific-works"]
+language:
+- Hindi
+genre:
+- Astronomy
+- Astrology
+- Scientific Texts
+description: |
+  Bhartiya Jyotish Vigyan represents a significant scholarly exposition of the complex Indian astronomical tradition (Jyotisha), situated within the broader intellectual landscape of late 20th-century post-independence India. Published in 1990, Ravindra Kumar Dubey's comprehensive work critically examines the intricate intersections of mathematical astronomy, predictive astrology, and cultural epistemology, offering a nuanced scholarly analysis of an ancient scientific tradition often marginalized in contemporary academic discourse. The text meticulously traces the historical evolution of Jyotisha from its Vedic origins through classical Sanskrit computational methodologies, demonstrating the sophisticated mathematical and astronomical principles embedded in traditional Indian knowledge systems. Dubey's scholarship is particularly noteworthy in its rigorous documentation of computational techniques, zodiacal interpretations, and the underlying philosophical frameworks that distinguish Indian astronomical thought from Western scientific paradigms. By systematically deconstructing the mathematical foundations of celestial prediction, the work illuminates the complex epistemological structures of indigenous scientific reasoning, challenging colonial-era narratives that frequently dismissed traditional Indian scientific knowledge as mystical or non-empirical. The text explores critical domains including astronomical calculations, planetary motion theories, predictive methodologies, and the deep cultural-cosmological significance of celestial observations in Hindu philosophical and religious contexts. As a scholarly intervention, Bhartiya Jyotish Vigyan represents an important scholarly effort to recuperate and critically analyze an intellectual tradition that synthesizes astronomical precision with philosophical contemplation, positioning Jyotisha as a sophisticated intellectual discipline that embodies the intellectual complexity of classical Indian scientific thought.
+collections:
+- astronomy
+- scientific-works
 sources:
-- name: "Internet Archive"
-  url: "https://archive.org/details/in.ernet.dli.2015.378893"
-  type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.378893
+  type: other
 references:
 - name: 'Wikipedia: Hindu astrology'
   url: https://en.wikipedia.org/wiki/Hindu_astrology
@@ -19,10 +27,9 @@ references:
   type: wikipedia
 - name: 'OpenLibrary: Ravindra Kumar Dubey'
   url: https://openlibrary.org/authors/OL9548456A
-  type: "other"
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Jyotisha", "Hindu astrology", "Indian astronomy", "Vedanga", "mathematical astronomy", "zodiac", "nakshatras", "horoscopy", "Hindi literature", "traditional sciences", "Ravindra Kumar Dubey", "calendar science"]
 ---
 
 # Bhartiya Jyotish Vigyan (Indian Astronomical Science)

@@ -1,28 +1,35 @@
 ---
-title: "The Ao Nagas"
-author: ["J. P. Mills"]
+title: 'The Ao Nagas'
+author:
+- J. P. Mills
 year: 1926
-language: ["English"]
-genre: ["Ethnography", "Anthropology", "Tribal Studies"]
-description: "Exhaustive 518-page ethnographic study of the Ao Naga people (population ~30,000 in three groups: Changki, Chungli, Mongsen), covering their distinctive clan-based morung system where each clan maintains its own dormitory for transmitting arts, warfare skills, and social education. Documents material culture, domestic life, village organization, law and customs, religious practices, kinship patterns, linguistic analysis and folktales."
-collections: ['ethnography', 'tribal-studies']
+language:
+- English
+genre:
+- Ethnography
+- Anthropology
+- Tribal Studies
+description: |
+  J.P. Mills' seminal ethnographic monograph "The Ao Nagas" represents a critical scholarly documentation of the Ao Naga people during the pivotal interwar period of British colonial administration in Northeast India. Published in 1926, the work emerged from Mills' direct administrative and anthropological experience in the Naga Hills during a transformative era of cultural transition and colonial governance. As a British colonial officer and trained ethnographer, Mills conducted meticulous research among the Ao Naga, one of the prominent indigenous communities inhabiting the complex mountainous regions of present-day Nagaland, documenting their intricate social structures, cultural practices, and traditional lifeways at a moment of significant external pressures and internal change. The comprehensive 518-page study provides an unparalleled scholarly record of Ao Naga society, examining their distinctive clan-based morung system—communal dormitories serving as critical sites of cultural transmission, social education, and collective identity formation. Mills' rigorous analysis covers multiple dimensions of Ao Naga life, including material culture, kinship patterns, legal customs, religious practices, linguistic structures, and rich oral traditions. His work is particularly significant for Indian anthropological and cultural studies, offering a nuanced ethnographic account that transcends colonial documentary impulses by presenting a detailed, respectful examination of an indigenous community's complex social organization. Beyond its immediate historical context, the monograph remains an essential scholarly resource for understanding the cultural diversity, social complexity, and adaptive strategies of Northeast Indian tribal societies during a period of profound colonial and modernizing transitions.
+collections:
+- ethnography
+- tribal-studies
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.143112"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.143112
+  type: other
 references:
-  - name: "Wikipedia: Ao Naga"
-    url: "https://en.wikipedia.org/wiki/Ao_Naga"
-    type: "wikipedia"
-  - name: "Wikipedia: J. P. Mills"
-    url: "https://en.wikipedia.org/wiki/J._P._Mills"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Ao+Nagas+Mills&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Ao Naga'
+  url: https://en.wikipedia.org/wiki/Ao_Naga
+  type: wikipedia
+- name: 'Wikipedia: J. P. Mills'
+  url: https://en.wikipedia.org/wiki/J._P._Mills
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Ao+Nagas+Mills&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Ao Nagas", "J. P. Mills", "Nagaland", "Tribal studies", "Anthropology", "Morung system", "Ethnography", "1920s", "Northeast India", "Clan organization", "Colonial ethnography", "Linguistic documentation"]
 ---
 
 # The Ao Nagas

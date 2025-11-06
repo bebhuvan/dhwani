@@ -1,31 +1,38 @@
 ---
-title: "Purāṇic Encyclopaedia"
-author: ["Vettam Mani"]
+title: 'Purāṇic Encyclopaedia'
+author:
+- Vettam Mani
 year: 1975
-language: ["English"]
-genre: ["Reference", "Mythology", "Religious Texts"]
-description: "Vettam Mani's comprehensive 942-page alphabetical dictionary of characters, places, and concepts from the Mahabharata and eighteen Mahapuranas. Published by Motilal Banarsidass (1975) after 14 years of research, this reference work systematizes Hindu mythology with cross-references connecting related narratives across texts, enabling scholars and readers to navigate sprawling Puranic literature."
-collections: ['ancient-wisdom', 'spiritual-texts']
+language:
+- English
+genre:
+- Reference
+- Mythology
+- Religious Texts
+description: |
+  Vettam Mani's Purāṇic Encyclopaedia represents a landmark scholarly compilation that systematically decodes the complex narrative landscape of classical Hindu mythological texts, specifically the Mahabharata and eighteen principal Mahapuranas. Produced after fourteen years of meticulous research, this 942-page alphabetical reference work provides comprehensive documentation of characters, genealogies, places, philosophical concepts, and mythological narratives that form the intricate tapestry of Hindu cultural memory. The encyclopaedia serves as a critical scholarly tool, offering nuanced cross-referencing that illuminates interconnections between diverse mythological accounts, thereby enabling researchers, scholars, and students to navigate the labyrinthine textual traditions of classical Indian literature. Mani's work methodically organizes information from Sanskrit sources, presenting each entry with scholarly precision that bridges oral traditions, textual variations, and complex mythological genealogies. The encyclopaedia is particularly significant in preserving and analyzing textual knowledge that might otherwise be fragmented or lost, providing researchers with a systematic framework for understanding Hindu cosmology, religious symbolism, and narrative structures. By presenting detailed entries that trace mythological lineages, theological concepts, and narrative arcs, the work becomes more than a reference text—it emerges as a critical interpretive lens for comprehending the philosophical and cultural complexities of classical Indian intellectual traditions. Its scholarly rigor and comprehensive approach make it an indispensable resource for understanding the intricate mythological universe that has profoundly shaped Indian cultural consciousness across centuries.
+collections:
+- ancient-wisdom
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/puranicencyclopa00maniuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/puranicencyclopa00maniuoft
+  type: other
 references:
-  - name: "Wikipedia: Vettam Mani"
-    url: "https://en.wikipedia.org/wiki/Vettam_Mani"
-    type: "wikipedia"
-  - name: "Wikipedia: Puranas"
-    url: "https://en.wikipedia.org/wiki/Puranas"
-    type: "wikipedia"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=Puranic+Encyclopaedia+Vettam+Mani"
-    type: "other"
-  - name: "Wikidata: Vettam Mani"
-    url: "https://www.wikidata.org/wiki/Q7923796"
-    type: "other"
+- name: 'Wikipedia: Vettam Mani'
+  url: https://en.wikipedia.org/wiki/Vettam_Mani
+  type: wikipedia
+- name: 'Wikipedia: Puranas'
+  url: https://en.wikipedia.org/wiki/Puranas
+  type: wikipedia
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=Puranic+Encyclopaedia+Vettam+Mani
+  type: other
+- name: 'Wikidata: Vettam Mani'
+  url: https://www.wikidata.org/wiki/Q7923796
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Puranas", "Hindu Mythology", "Mahabharata", "Vettam Mani", "Reference Work", "Sanskrit Literature", "Puranic Literature", "Encyclopedia", "Indian Mythology", "Religious Texts"]
 ---
 
 # Purāṇic Encyclopaedia

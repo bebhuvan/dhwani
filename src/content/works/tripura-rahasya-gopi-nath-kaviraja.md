@@ -1,43 +1,51 @@
 ---
-title: "Tripura Rahasya (The Mystery Beyond the Trinity)"
-author: ["Dattatreya", "Edited by Gopi Nath Kaviraja"]
+title: 'Tripura Rahasya (The Mystery Beyond the Trinity)'
+author:
+- Dattatreya
+- Edited by Gopi Nath Kaviraja
 year: 1925
-language: ["Sanskrit"]
-genre: ["Philosophy", "Advaita Vedanta", "Shakta Tantra"]
-description: "Medieval Sanskrit philosophical text synthesizing Shakta and Advaita Vedanta traditions through dialogues between Dattatreya and Parashurama. Divided into Jnana Khanda (knowledge) and Charya Khanda (practice), the text presents sophisticated arguments on consciousness, self-realization, and liberation, teaching that manifestation (Shakti) is not different from the Absolute (Shiva)—a view contrasting with post-Shankara Advaita that regards the world as maya."
-collections: ['ancient-wisdom', 'philosophy']
+language:
+- Sanskrit
+genre:
+- Philosophy
+- Advaita Vedanta
+- Shakta Tantra
+description: |
+  The Tripura Rahasya emerges as a pivotal philosophical text within the complex intellectual landscape of medieval South Indian religious and philosophical discourse, representing a nuanced synthesis of Shakta Tantric and Advaita Vedantic traditions during the 12th-15th centuries. Attributed to the legendary sage Dattatreya, the text reflects the sophisticated philosophical deliberations characteristic of the Deccan region's scholarly centers, where religious traditions engaged in dynamic intellectual exchange. The work is structured into two primary sections—Jnana Khanda (knowledge) and Charya Khanda (practice)—which systematically explore consciousness, metaphysical reality, and the paths to spiritual liberation. Central to its philosophical contribution is a radical interpretation of divine manifestation, proposing that Shakti (divine feminine energy) is not separate from Shiva (ultimate consciousness), thereby challenging prevailing post-Shankaran Advaita interpretations that characterized the phenomenal world as mere illusion. By presenting a non-dualistic framework that integrates feminine divine principle with absolute consciousness, the text offers a sophisticated philosophical alternative to dominant metaphysical models. Its dialogic structure, featuring exchanges between Dattatreya and Parashurama, enables a nuanced exploration of spiritual epistemology, demonstrating how knowledge emerges through critical dialogue and profound contemplative insight. The Tripura Rahasya's significance extends beyond its immediate philosophical arguments, serving as a critical textual artifact that illuminates the intellectual cross-pollination between Tantric and Vedantic traditions, and representing a sophisticated example of medieval Indian philosophical discourse that continues to intrigue scholars of comparative religion, philosophy, and South Asian intellectual history.
+collections:
+- ancient-wisdom
+- philosophy
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.gov.ignca.24072"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.gov.ignca.24072
+  type: other
 references:
-  - name: "Wikipedia: Tripura Rahasya"
-    url: "https://en.wikipedia.org/wiki/Tripura_Rahasya"
-    type: "wikipedia"
-  - name: "Wikipedia: Dattatreya"
-    url: "https://en.wikipedia.org/wiki/Dattatreya"
-    type: "wikipedia"
-  - name: "Wikipedia: Parashurama"
-    url: "https://en.wikipedia.org/wiki/Parashurama"
-    type: "wikipedia"
-  - name: "Wikipedia: Shakti"
-    url: "https://en.wikipedia.org/wiki/Shakti"
-    type: "wikipedia"
-  - name: "Wikipedia: Kashmir Shaivism"
-    url: "https://en.wikipedia.org/wiki/Kashmir_Shaivism"
-    type: "wikipedia"
-  - name: "Wikipedia: Ramana Maharshi"
-    url: "https://en.wikipedia.org/wiki/Ramana_Maharshi"
-    type: "wikipedia"
-  - name: "Wikipedia: Advaita Vedanta"
-    url: "https://en.wikipedia.org/wiki/Advaita_Vedanta"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Tripura+Rahasya&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Tripura Rahasya'
+  url: https://en.wikipedia.org/wiki/Tripura_Rahasya
+  type: wikipedia
+- name: 'Wikipedia: Dattatreya'
+  url: https://en.wikipedia.org/wiki/Dattatreya
+  type: wikipedia
+- name: 'Wikipedia: Parashurama'
+  url: https://en.wikipedia.org/wiki/Parashurama
+  type: wikipedia
+- name: 'Wikipedia: Shakti'
+  url: https://en.wikipedia.org/wiki/Shakti
+  type: wikipedia
+- name: 'Wikipedia: Kashmir Shaivism'
+  url: https://en.wikipedia.org/wiki/Kashmir_Shaivism
+  type: wikipedia
+- name: 'Wikipedia: Ramana Maharshi'
+  url: https://en.wikipedia.org/wiki/Ramana_Maharshi
+  type: wikipedia
+- name: 'Wikipedia: Advaita Vedanta'
+  url: https://en.wikipedia.org/wiki/Advaita_Vedanta
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Tripura+Rahasya&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Tripura Rahasya", "Advaita Vedanta", "Shakta philosophy", "Dattatreya", "Parashurama", "Non-dualism", "Consciousness studies", "Medieval philosophy", "Goddess worship", "Ramana Maharshi", "Spiritual text", "Tantric philosophy", "Kashmir Shaivism"]
 ---
 
 # Tripura Rahasya (The Mystery Beyond the Trinity)

@@ -1,43 +1,54 @@
 ---
-title: "Raghuvamsa"
-author: ["Kalidasa"]
+title: 'Raghuvamsa'
+author:
+- Kalidasa
 year: 500
-language: ["Sanskrit", "English"]
-genre: ["Epic Poetry", "Classical Literature", "Mahakavya"]
-description: "Kalidasa's Raghuvamsa chronicles the illustrious Raghu dynasty across nineteen cantos, tracing the lineage from King Dilipa through Rama and his descendants. Composed in twenty-one distinct Sanskrit meters, this mahakavya exemplifies classical kavya at its finest, blending royal genealogy with profound meditations on dharma, statecraft, romantic love, and cosmic order. The narrative moves from Dilipa's childlessness and devotion to the celestial cow Nandini, through Raghu's world conquests, Aja's tragic romance with Indumati, Dasharatha's reign, the complete Ramayana arc, and concludes with later descendants including the dissolute Agnivarna, demonstrating the cyclical rise and fall of dynasties."
-collections: ['classical-literature', 'epic-poetry', 'sanskrit-drama', 'devotional-literature', 'philosophy']
+language:
+- Sanskrit
+- English
+genre:
+- Epic Poetry
+- Classical Literature
+- Mahakavya
+description: |
+  Kalidasa's Raghuvamsa, composed around 500 CE during the Gupta imperial period, represents a pinnacle of classical Sanskrit mahakavya (epic poetry) that meticulously chronicles the legendary Raghu dynasty across nineteen intricate cantos. Written during a renaissance of Sanskrit literary arts, this work illuminates the sophisticated courtly and philosophical traditions of classical India through its detailed genealogical narrative. The text masterfully interweaves historical mythology, royal genealogy, and complex philosophical reflections on dharma (cosmic and social order), statecraft, and human relationships. Spanning multiple generations, the poem begins with King Dilipa's spiritual devotion and childlessness, progressing through legendary figures including the epic hero Rama, exploring transformative moments of royal succession, emotional depth, and cosmic interconnectedness. Kalidasa, considered one of Sanskrit literature's most eminent poets, employs twenty-one distinct metrical patterns, demonstrating extraordinary linguistic virtuosity while maintaining narrative coherence. The work transcends mere historical documentation, offering profound meditations on governance, moral duty, romantic love, and the cyclical nature of dynastic power. By tracing the Raghu lineage from its noble origins through periods of extraordinary achievement and eventual decline—culminating with the morally compromised King Agnivarna—the text provides a nuanced exploration of human potential, societal transformation, and the ephemeral nature of political power. As a cornerstone of classical Indian literature, the Raghuvamsa continues to be foundational for understanding medieval Indian cultural imagination, literary aesthetics, and philosophical-ethical frameworks, serving as a critical text in Sanskrit literary studies and comparative mythological research.
+collections:
+- classical-literature
+- epic-poetry
+- sanskrit-drama
+- devotional-literature
+- philosophy
 sources:
-  - name: "Internet Archive (1886 edition)"
-    url: "https://archive.org/details/RaghuvamsaOfKalidasa1886"
-    type: "other"
-  - name: "Internet Archive (with Mallinatha commentary, 1883)"
-    url: "https://archive.org/details/raghuvamsaofkali00kliduoft"
-    type: "other"
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/16659"
-    type: "other"
+- name: 'Internet Archive (1886 edition)'
+  url: https://archive.org/details/RaghuvamsaOfKalidasa1886
+  type: other
+- name: 'Internet Archive (with Mallinatha commentary, 1883)'
+  url: https://archive.org/details/raghuvamsaofkali00kliduoft
+  type: other
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/16659
+  type: other
 references:
-  - name: "Wikipedia: Kalidasa"
-    url: "https://en.wikipedia.org/wiki/Kalidasa"
-    type: "wikipedia"
-  - name: "Wikipedia: Raghuvamsa"
-    url: "https://en.wikipedia.org/wiki/Raghuvamsa"
-    type: "wikipedia"
-  - name: "Wikipedia: Mahakavya"
-    url: "https://en.wikipedia.org/wiki/Mahakavya"
-    type: "wikipedia"
-  - name: "Wikipedia: Sanskrit literature"
-    url: "https://en.wikipedia.org/wiki/Sanskrit_literature"
-    type: "wikipedia"
-  - name: "Wikipedia: Raghu"
-    url: "https://en.wikipedia.org/wiki/Raghu"
-    type: "wikipedia"
-  - name: "Open Library: Raghuvamsa year"
-    url: "https://openlibrary.org/search?q=Raghuvamsa+year+500+language+Sanskrit+English+Kalidasa"
-    type: "other"
+- name: 'Wikipedia: Kalidasa'
+  url: https://en.wikipedia.org/wiki/Kalidasa
+  type: wikipedia
+- name: 'Wikipedia: Raghuvamsa'
+  url: https://en.wikipedia.org/wiki/Raghuvamsa
+  type: wikipedia
+- name: 'Wikipedia: Mahakavya'
+  url: https://en.wikipedia.org/wiki/Mahakavya
+  type: wikipedia
+- name: 'Wikipedia: Sanskrit literature'
+  url: https://en.wikipedia.org/wiki/Sanskrit_literature
+  type: wikipedia
+- name: 'Wikipedia: Raghu'
+  url: https://en.wikipedia.org/wiki/Raghu
+  type: wikipedia
+- name: 'Open Library: Raghuvamsa year'
+  url: https://openlibrary.org/search?q=Raghuvamsa+year+500+language+Sanskrit+English+Kalidasa
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical-literature', 'poetry-collection', 'epic']
 ---
 
 # Raghuvamsa (The Dynasty of Raghu)

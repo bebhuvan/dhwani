@@ -1,40 +1,58 @@
 ---
-title: "Alberuni's India (Kitab al-Hind)"
-author: ["Al-Biruni", "Eduard Sachau (Translator)"]
+title: 'Alberuni's India (Kitab al-Hind)'
+author:
+- Al-Biruni
+- Eduard Sachau (Translator)
 year: 1030
-language: ["Arabic", "English"]
-genre: ["Historical Literature", "Ethnography", "Scientific Texts"]
-description: "Al-Biruni's Kitab al-Hind (Book of India) represents medieval world's most comprehensive, objective account of Indian civilization by an outsider, composed by the Persian polymath after accompanying Mahmud of Ghazni's invasions (1017-1030 CE). This monumental work systematically examines Indian religion, philosophy, astronomy, mathematics, geography, customs, and social structure through direct observation, Sanskrit text study, and conversations with learned Brahmins. Unlike typical medieval accounts mixing fact with fantasy, Al-Biruni employs rigorous scholarly methodology: citing sources, acknowledging knowledge limits, comparing Indian and Islamic scientific traditions, and attempting sympathetic understanding despite cultural differences. Eduard Sachau's magisterial two-volume English translation (1888, reissued 1910) made this foundational text accessible to modern scholarship, revealing Al-Biruni as pioneering comparative religionist, ethnographer, and historian whose insights remain valuable for understanding 11th-century India and medieval Islamic scholarship's sophisticated engagement with non-Islamic civilizations."
-collections: ['historical-literature', 'ethnographic-studies', 'scientific-texts', 'medieval-india', 'scholarly-translations']
+language:
+- Arabic
+- English
+genre:
+- Historical Literature
+- Ethnography
+- Scientific Texts
+description: |
+  Al-Biruni's Kitab al-Hind (Book of India) is a scholarly account of Indian civilization composed between 1017-1030 CE, written by the Persian polymath following Mahmud of Ghazni's military campaigns. The text provides a systematic examination of Indian society through multiple research methodologies: direct observation, analysis of Sanskrit texts, and extensive conversations with Brahmins. Al-Biruni's work comprehensively explores Indian religion, philosophy, astronomy, mathematics, geography, customs, and social structures.
+  
+  Methodologically, the text distinguishes itself through rigorous scholarly approaches atypical of medieval writing. Al-Biruni consistently cites sources, transparently acknowledges the limits of his knowledge, and comparatively analyzes Indian and Islamic scientific traditions. His approach demonstrates an attempt at sympathetic cross-cultural understanding, critically engaging with cultural differences rather than dismissing them.
+  
+  Eduard Sachau's two-volume English translation (1888, reissued 1910) significantly expanded the text's academic accessibility. Scholarly assessment recognizes Al-Biruni as an early practitioner of comparative religious studies, ethnography, and historical analysis. His work provides critical insights into 11th-century Indian social structures and represents an important example of medieval Islamic intellectual engagement with non-Islamic civilizations.
+  
+  The text's enduring scholarly value lies in its methodical documentation, interdisciplinary approach, and rare first-hand perspective on a complex cultural landscape during a period of significant political and intellectual transformation.
+collections:
+- historical-literature
+- ethnographic-studies
+- scientific-texts
+- medieval-india
+- scholarly-translations
 sources:
-  - name: "Internet Archive (Eduard Sachau translation, 1910 - Volume 1)"
-    url: "https://archive.org/details/alberunisindiaac01biru"
-    type: "other"
-  - name: "Internet Archive (Eduard Sachau translation - Volume 2)"
-    url: "https://archive.org/details/alberunisindiaac02biruuoft"
-    type: "other"
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/22514"
-    type: "other"
+- name: 'Internet Archive (Eduard Sachau translation, 1910 - Volume 1)'
+  url: https://archive.org/details/alberunisindiaac01biru
+  type: other
+- name: 'Internet Archive (Eduard Sachau translation - Volume 2)'
+  url: https://archive.org/details/alberunisindiaac02biruuoft
+  type: other
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/22514
+  type: other
 references:
-  - name: "Wikipedia: Al-Biruni"
-    url: "https://en.wikipedia.org/wiki/Al-Biruni"
-    type: "wikipedia"
-  - name: "Wikipedia: Indica (Al-Biruni)"
-    url: "https://en.wikipedia.org/wiki/Indica_(Al-Biruni)"
-    type: "wikipedia"
-  - name: "Wikipedia: Mahmud of Ghazni"
-    url: "https://en.wikipedia.org/wiki/Mahmud_of_Ghazni"
-    type: "wikipedia"
-  - name: "Wikipedia: Islamic Golden Age"
-    url: "https://en.wikipedia.org/wiki/Islamic_Golden_Age"
-    type: "wikipedia"
-  - name: "Open Library: Alberuni's India"
-    url: "https://openlibrary.org/search?q=Alberuni+India+Al-Biruni+Sachau"
-    type: "other"
+- name: 'Wikipedia: Al-Biruni'
+  url: https://en.wikipedia.org/wiki/Al-Biruni
+  type: wikipedia
+- name: 'Wikipedia: India (Al-Biruni)'
+  url: https://en.wikipedia.org/wiki/India_(Al-Biruni)
+  type: wikipedia
+- name: 'Wikipedia: Mahmud of Ghazni'
+  url: https://en.wikipedia.org/wiki/Mahmud_of_Ghazni
+  type: wikipedia
+- name: 'Wikipedia: Islamic Golden Age'
+  url: https://en.wikipedia.org/wiki/Islamic_Golden_Age
+  type: wikipedia
+- name: 'Open Library: Alberuni's India'
+  url: https://openlibrary.org/search?q=Alberuni+India+Al-Biruni+Sachau
+  type: other
 featured: true
 publishDate: 2025-10-30
-tags: ["Al-Biruni", "medieval India", "Islamic scholarship", "ethnography", "comparative religion", "Indian history", "11th century", "Ghaznavids", "cross-cultural studies", "public domain"]
 ---
 
 # Alberuni's India (Kitab al-Hind)

@@ -1,25 +1,29 @@
 ---
-title: "Art of India: Traditions of Indian Sculpture, Painting and Architecture"
-author: ["Stella Kramrisch"]
+title: 'Art of India: Traditions of Indian Sculpture, Painting and Architecture'
+author:
+- Stella Kramrisch
 year: 1954
-language: ["English"]
-genre: ["Art History"]
-description: "This 1954 survey by Stella Kramrisch systematically examines Indian sculpture, painting, and architecture from ancient to modern periods. Kramrisch, the 20th century's foremost scholar of Indian art, synthesizes iconographic analysis, textual sources, and ritual contexts to explain aesthetic principles underlying Indian artistic traditions, representing mid-20th-century art historical scholarship that moved beyond colonial-era approaches."
-collections: ['classical-literature']
+language:
+- English
+genre:
+- Art History
+description: |
+  Art of India: Traditions of Indian Sculpture, Painting and Architecture represents a landmark scholarly investigation of Indian artistic traditions during a pivotal period of post-colonial cultural reassessment. Stella Kramrisch, an Austrian-born art historian who became a preeminent scholar of Indian art through decades of immersive research, provides a comprehensive systematic analysis that transcends colonial-era aesthetic interpretations. Drawing upon extensive fieldwork, Sanskrit textual sources, and sophisticated iconographic methodologies, Kramrisch examines artistic traditions across multiple historical periods—from Indus Valley civilizations through medieval temple complexes to early modern regional styles. Her work meticulously deconstructs Indian artistic expression not merely as visual artifacts, but as complex embodiments of philosophical, religious, and social frameworks, revealing how aesthetic principles are intrinsically connected to cosmological understanding and ritual practices. The text pays particular attention to sculptural traditions in stone and bronze, miniature painting techniques, and architectural symbolism in temple and palace designs, demonstrating how artistic production represents a profound mode of cultural communication. Kramrisch's scholarly approach was groundbreaking for its time, integrating archaeological evidence, textual interpretation, and phenomenological analysis to present Indian art as a dynamic, evolving system of meaning rather than a static collection of objects. By contextualizing artistic production within broader cultural narratives, she challenged prevailing Western academic perspectives and contributed significantly to establishing Indian art history as a rigorous, sophisticated discipline. Her work remains a foundational text for understanding the intricate relationship between aesthetic expression and cultural identity in the Indian subcontinent.
+collections:
+- classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.gov.ignca.2129"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.gov.ignca.2129
+  type: other
 references:
-  - name: "Wikipedia: Stella Kramrisch"
-    url: "https://en.wikipedia.org/wiki/Stella_Kramrisch"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Art+of+India+Stella+Kramrisch&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Stella Kramrisch'
+  url: https://en.wikipedia.org/wiki/Stella_Kramrisch
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Art+of+India+Stella+Kramrisch&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-23
-tags: ["Indian art", "Stella Kramrisch", "art history", "Indian sculpture", "Indian painting", "Indian architecture", "Hindu art", "Buddhist art", "temple architecture", "iconography", "Phaidon Press", "20th century scholarship"]
 ---
 
 # Art of India: Traditions of Indian Sculpture, Painting and Architecture

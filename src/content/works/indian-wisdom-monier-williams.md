@@ -1,31 +1,38 @@
 ---
-title: "Indian Wisdom: Religious, Philosophical and Ethical Doctrines"
-author: ["Monier Monier-Williams"]
+title: 'Indian Wisdom: Religious, Philosophical and Ethical Doctrines'
+author:
+- Monier Monier-Williams
 year: 1893
-language: ["English"]
-genre: ["Philosophy", "Religious Studies", "Reference"]
-description: "Comprehensive survey of Indian religious and philosophical traditions including Vedic religion, Brahmanism, Buddhism, Jainism, and later Hindu philosophical schools. Monier-Williams draws extensively on Sanskrit sources to present systematic accounts of Indian thought for Western audiences, thoug..."
-collections: ['ancient-wisdom', 'spiritual-texts']
+language:
+- English
+genre:
+- Philosophy
+- Religious Studies
+- Reference
+description: |
+  Monier-Williams' "Indian Wisdom" represents a seminal scholarly examination of Indian religious and philosophical traditions during the late 19th-century colonial intellectual landscape. Published in 1893, the work emerges from the author's extensive academic expertise as the Boden Professor of Sanskrit at Oxford University, offering a comprehensive analytical survey of India's complex intellectual heritage. The text systematically explores foundational religious and philosophical systems including Vedic religion, Brahmanism, Buddhism, Jainism, and subsequent Hindu philosophical schools, presenting a meticulously structured overview that was unprecedented in Western scholarship of the period. As a pioneering Orientalist scholar, Monier-Williams drew extensively on primary Sanskrit sources, translating and interpreting intricate philosophical texts to provide European audiences with nuanced insights into Indian intellectual traditions. The work is particularly significant in bridging epistemological gaps between Western academic frameworks and indigenous Indian philosophical discourse, rendering complex metaphysical concepts accessible through rigorous scholarly translation and contextual analysis. By mapping the intellectual genealogies of Indian philosophical thought—from early Vedic cosmologies to sophisticated philosophical schools like Samkhya, Vedanta, and Yoga—Monier-Williams contributed critically to cross-cultural understanding during an era of imperial knowledge production. Despite inherent colonial-era limitations, the text remains an important historical document demonstrating early comparative religious scholarship, providing scholarly perspectives on India's rich philosophical traditions that challenged contemporary European intellectual assumptions about non-Western intellectual systems and laid groundwork for subsequent comparative religious studies.
+collections:
+- ancient-wisdom
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/indianwisdomorre00moniuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/indianwisdomorre00moniuoft
+  type: other
 references:
-  - name: "Wikipedia: Monier Monier-Williams"
-    url: "https://en.wikipedia.org/wiki/Monier_Monier-Williams"
-    type: "wikipedia"
-  - name: "Wikipedia: Indian Philosophy"
-    url: "https://en.wikipedia.org/wiki/Indian_philosophy"
-    type: "wikipedia"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=Indian+Wisdom+Monier+Williams"
-    type: "other"
-  - name: "Wikidata: Monier Monier-Williams"
-    url: "https://www.wikidata.org/wiki/Q1333528"
-    type: "other"
+- name: 'Wikipedia: Monier Monier-Williams'
+  url: https://en.wikipedia.org/wiki/Monier_Monier-Williams
+  type: wikipedia
+- name: 'Wikipedia: Indian Philosophy'
+  url: https://en.wikipedia.org/wiki/Indian_philosophy
+  type: wikipedia
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=Indian+Wisdom+Monier+Williams
+  type: other
+- name: 'Wikidata: Monier Monier-Williams'
+  url: https://www.wikidata.org/wiki/Q1333528
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Indian Philosophy", "Hindu Philosophy", "Buddhism", "Jainism", "Vedic Religion", "Monier Monier-Williams", "19th Century Scholarship", "Sanskrit Studies", "Comparative Religion", "Victorian Orientalism"]
 ---
 
 # Indian Wisdom: Religious, Philosophical and Ethical Doctrines

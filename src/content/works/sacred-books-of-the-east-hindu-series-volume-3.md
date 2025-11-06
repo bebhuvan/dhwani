@@ -1,37 +1,45 @@
 ---
-title: "The Sacred Books of the East, Hindu Series, Volume 3"
-author: ["Various Contributors"]
+title: 'The Sacred Books of the East, Hindu Series, Volume 3'
+author:
+- Various Contributors
 year: 1897
-language: ["English"]
-genre: ["Religious Texts", "Anthology", "Reference"]
-description: "This 456-page volume, published in 1897 by the Christian Literature Society for India, forms the third installment in a series examining Eastern sacred texts for English-speaking audiences. The volume focuses on epic poems and Puranic literature, covering the Ramayana, Mahabharata, and Vishnu Purana."
-collections: ['ancient-wisdom', 'spiritual-texts', 'classical-literature']
+language:
+- English
+genre:
+- Religious Texts
+- Anthology
+- Reference
+description: |
+  This scholarly volume, published in 1897 by the Christian Literature Society for India, represents a critical scholarly endeavor to translate and contextualize fundamental Hindu sacred texts for Western academic audiences during the late nineteenth-century colonial period of Indological research. As the third installment in the comprehensive "Sacred Books of the East" series edited by prominent Orientalist Max Müller, the volume offers meticulously translated selections from foundational Sanskrit epic and Puranic literature, including comprehensive examinations of the Ramayana, Mahabharata, and Vishnu Purana. The compilation emerges during a pivotal moment of cross-cultural textual transmission, when Western scholars were systematically documenting and interpreting Indian religious and philosophical traditions. By presenting authoritative English translations, the volume facilitated unprecedented scholarly access to complex Hindu narrative traditions, mythological cosmologies, and theological frameworks that had previously remained largely inaccessible to non-Sanskrit readers. The work's methodical approach illuminates intricate theological concepts, genealogical narratives, and philosophical underpinnings of classical Indian literature, providing crucial insights into the intellectual and spiritual landscape of ancient Indian civilization. Its scholarly apparatus—including critical annotations, comparative linguistic analysis, and contextual introductions—represented a sophisticated hermeneutical approach to understanding Hindu textual traditions. Beyond its immediate scholarly value, the volume played a significant role in mediating cultural understanding, challenging contemporary Orientalist perspectives while simultaneously preserving and interpreting complex philosophical and mythological knowledge for global scholarly discourse.
+collections:
+- ancient-wisdom
+- spiritual-texts
+- classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/thesacredbooksof03xxxxuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/thesacredbooksof03xxxxuoft
+  type: other
 references:
-  - name: "Wikipedia: Sacred Books of the East"
-    url: "https://en.wikipedia.org/wiki/Sacred_Books_of_the_East"
-    type: "wikipedia"
-  - name: "Wikisource: Sacred Books Portal"
-    url: "https://en.wikisource.org/wiki/Portal:Sacred_Books_of_the_East"
-    type: "wikisource"
-  - name: "Wikipedia: Ramayana"
-    url: "https://en.wikipedia.org/wiki/Ramayana"
-    type: "wikipedia"
-  - name: "Wikipedia: Mahabharata"
-    url: "https://en.wikipedia.org/wiki/Mahabharata"
-    type: "wikipedia"
-  - name: "Wikipedia: Vishnu Purana"
-    url: "https://en.wikipedia.org/wiki/Vishnu_Purana"
-    type: "wikipedia"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=Sacred+Books+of+the+East+Volume+3"
-    type: "other"
+- name: 'Wikipedia: Sacred Books of the East'
+  url: https://en.wikipedia.org/wiki/Sacred_Books_of_the_East
+  type: wikipedia
+- name: 'Wikisource: Sacred Books Portal'
+  url: https://en.wikisource.org/wiki/Portal:Sacred_Books_of_the_East
+  type: wikisource
+- name: 'Wikipedia: Ramayana'
+  url: https://en.wikipedia.org/wiki/Ramayana
+  type: wikipedia
+- name: 'Wikipedia: Mahabharata'
+  url: https://en.wikipedia.org/wiki/Mahabharata
+  type: wikipedia
+- name: 'Wikipedia: Vishnu Purana'
+  url: https://en.wikipedia.org/wiki/Vishnu_Purana
+  type: wikipedia
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=Sacred+Books+of+the+East+Volume+3
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Sacred Books of the East", "Hindu Epics", "Ramayana", "Mahabharata", "Vishnu Purana", "Puranas", "Sanskrit Literature", "Christian Literature Society", "19th Century", "Religious Studies"]
 ---
 
 # The Sacred Books of the East, Hindu Series, Volume 3

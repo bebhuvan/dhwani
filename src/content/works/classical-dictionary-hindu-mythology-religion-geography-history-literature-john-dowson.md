@@ -1,28 +1,37 @@
 ---
-title: "A Classical Dictionary of Hindu Mythology and Religion, Geography, History, and Literature"
-author: ["John Dowson"]
+title: 'A Classical Dictionary of Hindu Mythology and Religion, Geography, History, and Literature'
+author:
+- John Dowson
 year: 1879
-language: ["English"]
-genre: ["Reference Literature", "Mythology", "Religious Studies", "Historical Literature"]
-description: "John Dowson's comprehensive reference dictionary covering Hindu mythology, religion, geography, history, and literature. First published in 1879, this authoritative work provides alphabetically arranged entries on deities, religious concepts, historical figures, and cultural elements that shaped Hindu civilization."
-collections: ['modern-literature', 'spiritual-texts', 'classical-literature']
+language:
+- English
+genre:
+- Reference Literature
+- Mythology
+- Religious Studies
+- Historical Literature
+description: |
+  John Dowson's "A Classical Dictionary of Hindu Mythology and Religion, Geography, History, and Literature" emerged during the late 19th-century British colonial period as a pioneering scholarly compilation of comprehensive Hindu cultural knowledge. Published in 1879, the work represents a critical academic endeavor to systematically document and interpret complex Hindu intellectual and cultural traditions for Western scholarly audiences. Dowson, a British Orientalist and scholar of Indian studies, meticulously compiled alphabetized entries that provide detailed insights into Hindu deities, religious philosophies, mythological narratives, geographical regions, historical figures, and literary traditions. The dictionary serves as an important cross-cultural knowledge resource, synthesizing information from Sanskrit texts, Vedic literature, Puranic sources, and contemporary scholarly research of that era. By offering precise definitions and contextual explanations, Dowson's work facilitated European academic understanding of intricate Hindu cosmological concepts, theological systems, and cultural practices during a period of intense colonial scholarly engagement with Indian civilization. The dictionary's methodical approach and comprehensive scope made it an influential reference text for scholars, administrators, and researchers interested in understanding the multifaceted dimensions of Hindu cultural heritage. Its entries cover a wide range of subjects, from major divine pantheons and philosophical schools to regional historical developments and literary movements, providing nuanced interpretations that transcended simplistic colonial perspectives. Despite being a product of its historical moment, the dictionary remains a significant scholarly contribution, representing an early systematic attempt to catalog and analyze the rich intellectual complexity of Hindu civilization through a structured, encyclopedic framework.
+collections:
+- modern-literature
+- spiritual-texts
+- classical-literature
 sources:
-  - name: "Internet Archive (1913 Edition)"
-    url: "https://archive.org/details/dowson-1913-classical-dictionary-hindu-mythology"
-    type: "other"
-  - name: "Internet Archive (University of Toronto)"
-    url: "https://archive.org/details/aclassicaldictio00dowsuoft"
-    type: "other"
+- name: 'Internet Archive (1913 Edition)'
+  url: https://archive.org/details/dowson-1913-classical-dictionary-hindu-mythology
+  type: other
+- name: 'Internet Archive (University of Toronto)'
+  url: https://archive.org/details/aclassicaldictio00dowsuoft
+  type: other
 references:
-  - name: "Wikipedia: John Dowson"
-    url: "https://en.wikipedia.org/wiki/John_Dowson"
-    type: "wikipedia"
-  - name: "Open Library: A Classical Dictionary of"
-    url: "https://openlibrary.org/search?q=A+Classical+Dictionary+of+Hindu+Mythology+John+Dowson"
-    type: "other"
+- name: 'Wikipedia: John Dowson'
+  url: https://en.wikipedia.org/wiki/John_Dowson
+  type: wikipedia
+- name: 'Open Library: A Classical Dictionary of'
+  url: https://openlibrary.org/search?q=A+Classical+Dictionary+of+Hindu+Mythology+John+Dowson
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['religious']
 ---
 
 # A Classical Dictionary of Hindu Mythology and Religion, Geography, History, and Literature

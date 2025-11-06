@@ -1,37 +1,46 @@
 ---
-title: "The Bhagavad Gita"
-author: ["Vyasa (attributed)"]
+title: 'The Bhagavad Gita'
+author:
+- Vyasa (attributed)
 year: -200
-language: ["Sanskrit"]
-genre: ["Philosophy", "Religious Texts", "Classical Literature"]
-description: "The Bhagavad Gita (Song of the Lord) is a 700-verse Hindu scripture forming part of the Mahabharata epic, composed between 5th-2nd century BCE. Set on the Kurukshetra battlefield, it presents a philosophical dialogue between Prince Arjuna and Krishna concerning duty, action, devotion, and paths to liberation. The text synthesizes Upanishadic wisdom with emerging bhakti traditions, offering complementary spiritual paths through karma yoga (selfless action), jnana yoga (knowledge), and bhakti yoga (devotion), and has generated extensive commentarial traditions from Shankara's Advaita to Ramanuja's Vishishtadvaita, profoundly shaping Hindu philosophical and devotional thought."
-collections: ['religious-texts', 'philosophy', 'classical-literature', 'ancient-wisdom']
+language:
+- Sanskrit
+genre:
+- Philosophy
+- Religious Texts
+- Classical Literature
+description: |
+  The Bhagavad Gita is a seminal philosophical and spiritual text embedded within the expansive Sanskrit epic Mahabharata, composed during the transition from Vedic to classical Hinduism (approximately 5th-2nd century BCE). Traditionally attributed to the sage Vyasa, the text emerges from a complex period of philosophical and social transformation in ancient Indian civilization. Set dramatically on the eve of the Kurukshetra war, the text presents a profound dialogue between Prince Arjuna and his divine charioteer Krishna, exploring fundamental metaphysical and ethical questions about human existence, duty (dharma), and spiritual liberation. The Gita synthesizes multiple philosophical traditions, integrating Upanishadic metaphysical insights with emergent devotional (bhakti) and systematic yogic practices, offering a sophisticated philosophical framework that transcends sectarian boundaries. Its innovative approach presents three complementary spiritual paths: karma yoga (selfless action), jnana yoga (philosophical knowledge), and bhakti yoga (devotional surrender), each providing a distinctive approach to spiritual realization. The text's philosophical depth is reflected in its extensive commentarial traditions, from Shankara's non-dualistic (Advaita) interpretations to Ramanuja's qualified non-dualism (Vishishtadvaita), demonstrating its profound intellectual plasticity. Beyond its theological significance, the Gita represents a pivotal moment in Indian intellectual history, articulating a nuanced understanding of individual responsibility, cosmic order, and spiritual practice that has profoundly influenced subsequent Hindu, Buddhist, and broader South Asian philosophical discourse, while also inspiring modern political and social thinkers like Mahatma Gandhi, who viewed it as a transformative ethical text embodying principles of non-violent action and spiritual self-realization.
+collections:
+- religious-texts
+- philosophy
+- classical-literature
+- ancient-wisdom
 sources:
-  - name: "Wikisource: The Bhagavad Gita"
-    url: "https://en.wikisource.org/wiki/The_Bhagavad_Gita"
-    type: "other"
-  - name: "Sacred Texts: The Bhagavad Gita"
-    url: "https://www.sacred-texts.com/hin/gita/"
-    type: "other"
+- name: 'Wikisource: The Bhagavad Gita'
+  url: https://en.wikisource.org/wiki/The_Bhagavad_Gita
+  type: other
+- name: 'Sacred Texts: The Bhagavad Gita'
+  url: https://www.sacred-texts.com/hin/gita/
+  type: other
 references:
-  - name: "Wikipedia: Bhagavad Gita"
-    url: "https://en.wikipedia.org/wiki/Bhagavad_Gita"
-    type: "wikipedia"
-  - name: "Wikipedia: Karma Yoga"
-    url: "https://en.wikipedia.org/wiki/Karma_yoga"
-    type: "wikipedia"
-  - name: "Wikipedia: Bhakti Yoga"
-    url: "https://en.wikipedia.org/wiki/Bhakti_yoga"
-    type: "wikipedia"
-  - name: "Wikipedia: Vedanta"
-    url: "https://en.wikipedia.org/wiki/Vedanta"
-    type: "wikipedia"
-  - name: "Wikidata: Bhagavad Gita"
-    url: "https://www.wikidata.org/wiki/Q46802"
-    type: "other"
+- name: 'Wikipedia: Bhagavad Gita'
+  url: https://en.wikipedia.org/wiki/Bhagavad_Gita
+  type: wikipedia
+- name: 'Wikipedia: Karma Yoga'
+  url: https://en.wikipedia.org/wiki/Karma_yoga
+  type: wikipedia
+- name: 'Wikipedia: Bhakti Yoga'
+  url: https://en.wikipedia.org/wiki/Bhakti_yoga
+  type: wikipedia
+- name: 'Wikipedia: Vedanta'
+  url: https://en.wikipedia.org/wiki/Vedanta
+  type: wikipedia
+- name: 'Wikidata: Bhagavad Gita'
+  url: https://www.wikidata.org/wiki/Q46802
+  type: other
 featured: true
 publishDate: 2025-11-02
-tags: ['Bhagavad Gita', 'Hindu Philosophy', 'Sanskrit Literature', 'Mahabharata', 'Krishna', 'Arjuna', 'Yoga', 'Vedanta', 'Dharma', 'Karma']
 ---
 
 ## Overview

@@ -1,25 +1,30 @@
 ---
-title: "Ancient Indian Historical Tradition"
-author: ["F.E. Pargiter"]
+title: 'Ancient Indian Historical Tradition'
+author:
+- F.E. Pargiter
 year: 1922
-language: ["English"]
-genre: ["History", "Textual Criticism"]
-description: "Pargiter's *Ancient Indian Historical Tradition* (1922) revolutionized the study of early Indian history by demonstrating that the Puranas—often dismissed as purely mythological—preserved genuine historical traditions about ancient dynasties and kings. specific dates, his fundamental insight—that Puranas contain historical cores—and his comparative textual methods remain foundational for studying India's ancient past."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- History
+- Textual Criticism
+description: |
+  Published during the pivotal late colonial period of scholarly re-examination, Frederick Eden Pargiter's *Ancient Indian Historical Tradition* represented a groundbreaking scholarly intervention in understanding India's textual historical records. Emerging from the intellectual milieu of the Asiatic Society of Bengal and drawing upon meticulous comparative textual analysis, Pargiter challenged prevailing colonial-era dismissals of indigenous Indian historical narratives, particularly the Puranas, as mere mythological texts. By systematically examining these complex Sanskrit textual traditions, he demonstrated that these ancient manuscripts preserved sophisticated genealogical and dynastic records that contained substantive historical information beyond mythological accounts. Pargiter's rigorous methodology involved cross-referencing multiple manuscript traditions, analyzing narrative structures, and critically assessing textual transmissions to extract verifiable historical patterns. His work was particularly significant in rehabilitating the scholarly status of Puranic texts, which European scholars had previously marginalized as unsystematic religious literature. By revealing the intricate historical consciousness embedded within these texts, Pargiter provided crucial insights into early Indian political formations, royal lineages, and cultural memory. His scholarly approach represented a nuanced departure from both orientalist reductionism and uncritical textual acceptance, instead proposing a methodologically sophisticated hermeneutic that respected indigenous knowledge systems while applying rigorous historical-critical techniques. Beyond its immediate scholarly contributions, Pargiter's work fundamentally transformed understanding of how Indian cultural traditions preserved and transmitted historical knowledge, offering a template for future interdisciplinary research in textual archaeology, cultural memory, and historical reconstruction of pre-colonial Indian societies.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/ancientindianhis00parguoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/ancientindianhis00parguoft
+  type: other
 references:
-  - name: "Wikipedia: F. E. Pargiter"
-    url: "https://en.wikipedia.org/wiki/F._E._Pargiter"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Ancient+Indian+Historical+Tradition+Pargiter&mode=everything"
-    type: "other"
+- name: 'Wikipedia: F. E. Pargiter'
+  url: https://en.wikipedia.org/wiki/F._E._Pargiter
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Ancient+Indian+Historical+Tradition+Pargiter&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-21
-tags: ["F.E. Pargiter", "Puranas", "Ancient India", "Historical chronology", "Dynasties", "Textual criticism", "Pre-Mauryan history", "Genealogies", "Source criticism", "Indian historiography"]
 ---
 
 # Ancient Indian Historical Tradition

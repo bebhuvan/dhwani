@@ -1,28 +1,34 @@
 ---
-title: "The Racial History of India"
-author: ["Chandra Chakraberty"]
+title: 'The Racial History of India'
+author:
+- Chandra Chakraberty
 year: 1922
-language: ["English", "Ancient Greek"]
-genre: ["Historical Literature", "Anthropological Literature", "Academic Literature"]
-description: "The Racial History of India by Chandra Chakraberty (1922) - An early 20th-century ethnographic and anthropological study examining the racial and ethnic composition of the Indian subcontinent. Published in Calcutta by Vijay Krishna Brothers, this work reflects the contemporary academic interest i..."
-collections: ['modern-literature']
+language:
+- English
+- Ancient Greek
+genre:
+- Historical Literature
+- Anthropological Literature
+- Academic Literature
+description: |
+  Chandra Chakraberty's "The Racial History of India" represents a pivotal scholarly examination of ethnic and racial dynamics in the Indian subcontinent during the early twentieth century, situated at the intersection of colonial anthropological discourse and emergent nationalist intellectual frameworks. Published in 1922 in Calcutta, the work critically analyzes the complex demographic and historical migrations that shaped Indian racial and cultural formations, engaging with contemporary academic debates about ethnic origins and population movements. Against the backdrop of British colonial scholarship and the intensifying Indian independence movement, Chakraberty's study provides a nuanced investigation of racial genealogies, challenging prevailing Eurocentric narratives about Indian social composition. The text meticulously explores archaeological, linguistic, and anthropological evidence to reconstruct historical population trajectories, examining prehistoric migrations, cultural interactions, and the multilayered ethnic configurations that characterize the Indian subcontinent. By employing rigorous comparative methodologies and drawing from diverse scholarly traditions—including European anthropological research and indigenous historical perspectives—Chakraberty contributes a sophisticated analysis of racial heterogeneity and cultural synthesis. The work is particularly significant for its innovative approach to understanding Indian ethnic complexity, moving beyond simplistic colonial taxonomies and presenting a more dialectical understanding of racial formations. Importantly, the study reflects the intellectual ferment of the 1920s, where scholarly research was increasingly intertwined with broader questions of national identity, cultural heritage, and historical self-understanding. As an early twentieth-century ethnographic intervention, Chakraberty's text remains a crucial document for understanding the intellectual genealogies of Indian social and cultural research.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/RacialHistoryIndia"
-    type: "other"
-  - name: "Internet Archive (IGNCA)"
-    url: "https://archive.org/details/in.gov.ignca.34698"
-    type: "other"
-  - name: "Google Books"
-    url: "https://books.google.co.in/books?id=w-g9AAAAIAAJ&source=gbs_book_other_versions_r&cad=4"
-    type: "other"
-  - name: "Open Library"
-    url: "https://openlibrary.org/works/OL376882W/The_racial_history_of_India?edition=key%3A/books/OL20736290M"
-    type: "other"
-references: []
+- name: 'Internet Archive'
+  url: https://archive.org/details/RacialHistoryIndia
+  type: other
+- name: 'Internet Archive (IGNCA)'
+  url: https://archive.org/details/in.gov.ignca.34698
+  type: other
+- name: 'Google Books'
+  url: https://books.google.co.in/books?id=w-g9AAAAIAAJ&source=gbs_book_other_versions_r&cad=4
+  type: other
+- name: 'Open Library'
+  url: https://openlibrary.org/works/OL376882W/The_racial_history_of_India?edition=key%3A/books/OL20736290M
+  type: other
 featured: false
 publishDate: 2025-09-28
-tags: ["Chandra Chakraberty", "Racial history", "India ethnography", "Anthropological studies", "Colonial scholarship", "Early 20th century", "Population studies", "Ethnic composition", "Historical anthropology", "Academic history", "Calcutta publication", "1922"]
 ---
 
 # The Racial History of India

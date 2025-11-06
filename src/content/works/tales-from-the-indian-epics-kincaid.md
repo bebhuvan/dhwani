@@ -1,28 +1,34 @@
 ---
-title: "Tales from the Indian Epics"
-author: ["Charles Augustus Kincaid"]
+title: 'Tales from the Indian Epics'
+author:
+- Charles Augustus Kincaid
 year: 1918
-language: ["English"]
-genre: ["Epic Literature", "Children's Literature"]
-description: "Charles Kincaid's 1918 collection adapts episodic tales from Mahabharata, Ramayana, and Bhagavata Purana for children through accessible narrative as companion to his 'Indian Heroes'."
-collections: ['ancient-wisdom', 'classical-literature']
+language:
+- English
+genre:
+- Epic Literature
+- Children's Literature
+description: |
+  Charles Augustus Kincaid's "Tales from the Indian Epics" represents a significant scholarly intervention in early 20th-century colonial representations of Indian mythological narratives, situated within the broader intellectual project of documenting and interpreting Indian cultural heritage during the late British imperial period. Published in 1918, the work systematically adapts episodic narratives from foundational Sanskrit texts—specifically the Mahabharata, Ramayana, and Bhagavata Purana—into accessible English prose designed for child readers and Western audiences. As a British colonial administrator serving in India, Kincaid exemplified a generation of scholar-administrators who approached indigenous cultural texts through a complex lens of scholarly curiosity, administrative documentation, and cross-cultural interpretation. The compilation strategically renders complex mythological episodes into comprehensible narratives, facilitating broader understanding of India's rich narrative traditions while simultaneously reflecting the epistemological dynamics of colonial knowledge production. Kincaid's methodology demonstrates a nuanced approach to cultural translation, preserving core mythological structures while adapting them for emerging readerships both within colonial India and in metropolitan British contexts. The work contributes significantly to early 20th-century scholarly efforts in comparative mythology, providing critical insights into narrative transmission, cultural hermeneutics, and the intellectual exchanges characteristic of the imperial encounter. By making these profound cultural narratives accessible to children and non-specialist audiences, Kincaid's compilation played a crucial role in introducing Indian mythological concepts to broader international readerships, functioning as an important mediative text in cross-cultural understanding during a transformative historical moment of increasing global cultural interconnectedness.
+collections:
+- ancient-wisdom
+- classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.272654"
-    type: "other"
-  - name: "Wikisource"
-    url: "https://en.wikisource.org/wiki/Tales_from_the_Indian_Epics"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.272654
+  type: other
+- name: 'Wikisource'
+  url: https://en.wikisource.org/wiki/Tales_from_the_Indian_Epics
+  type: other
 references:
-  - name: "Wikipedia: Charles Augustus Kincaid"
-    url: "https://en.wikipedia.org/wiki/Charles_Augustus_Kincaid"
-    type: "wikipedia"
-  - name: "Open Library: Tales from the Indian"
-    url: "https://openlibrary.org/search?q=Tales+from+the+Indian+Epics+year+Charles+Augustus+Kincaid"
-    type: "other"
+- name: 'Wikipedia: Charles Augustus Kincaid'
+  url: https://en.wikipedia.org/wiki/Charles_Augustus_Kincaid
+  type: wikipedia
+- name: 'Open Library: Tales from the Indian'
+  url: https://openlibrary.org/search?q=Tales+from+the+Indian+Epics+year+Charles+Augustus+Kincaid
+  type: other
 featured: true
 publishDate: 2025-10-30
-tags: ['epic']
 ---
 
 # Tales from the Indian Epics

@@ -11,9 +11,6 @@ sources:
     url: "https://archive.org/details/vaisesikasutraso00kana"
     type: "other"
 references:
-  - name: "Wikipedia: Vaisheshika Sutras"
-    url: "https://en.wikipedia.org/wiki/Vaisheshika_Sutras"
-    type: "wikipedia"
   - name: "Wikipedia: Kanada (philosopher)"
     url: "https://en.wikipedia.org/wiki/Kanada_(philosopher)"
     type: "wikipedia"

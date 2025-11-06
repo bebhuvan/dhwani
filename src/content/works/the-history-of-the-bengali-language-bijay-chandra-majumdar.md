@@ -1,34 +1,40 @@
 ---
-title: "The History of the Bengali Language"
-author: ["Bijay Chandra Majumdar"]
+title: 'The History of the Bengali Language'
+author:
+- Bijay Chandra Majumdar
 year: 1920
-language: ["English"]
-genre: ["Linguistics", "History"]
-description: "A series of lectures examining Bengali language origins and historical development from ancient times to modern usage, challenging Sir George Grierson's theories while analyzing Dravidian influences, phonological evolution, and relationships between Pali, Prakrit dialects, and modern Bengali."
-collections: ['modern-literature', 'regional-voices']
+language:
+- English
+genre:
+- Linguistics
+- History
+description: |
+  Bijay Chandra Majumdar's pioneering linguistic study, published in 1920 during the late colonial period of Indian scholarly research, offers a comprehensive examination of Bengali language historiography that significantly challenged prevailing European linguistic paradigms. The work meticulously traces the evolutionary trajectory of Bengali from its ancient Indo-Aryan roots through complex linguistic transformations, critically analyzing the structural and phonological developments that distinguish Bengali from other North Indian language traditions. Majumdar's rigorous scholarly approach systematically deconstructs Sir George Grierson's earlier linguistic theories, presenting a nuanced indigenous perspective on language genealogy that emphasizes the intricate interactions between Sanskritic, Prakrit, and Dravidian linguistic influences. By providing detailed linguistic archaeological analysis, the text illuminates the profound cultural and historical processes that shaped Bengali's distinctive grammatical and phonetic characteristics. The work is particularly significant for its sophisticated linguistic methodology, demonstrating how language development reflects broader socio-cultural migrations, interactions, and transformative historical processes in the Bengal region. Majumdar's research meticulously documents the complex linguistic substrate of Bengali, exploring its sophisticated evolution from early Prakrit dialects through medieval transformative periods, and ultimately establishing a scholarly framework for understanding Bengali as a dynamic, culturally embedded linguistic system. His scholarship represents a critical intervention in early 20th-century linguistic studies, offering an authoritative indigenous academic perspective that challenged colonial-era linguistic interpretations and established foundational methodological approaches for subsequent research in Indo-Aryan linguistic studies.
+collections:
+- modern-literature
+- regional-voices
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/historyofbengali00vijauoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/historyofbengali00vijauoft
+  type: other
 references:
-  - name: "Wikisource"
-    url: "https://en.wikisource.org/wiki/The_History_of_the_Bengali_Language"
-    type: "wikisource"
-  - name: "Wikipedia: Bijay Chandra Majumdar"
-    url: "https://en.wikipedia.org/wiki/Bijay_Chandra_Majumdar"
-    type: "wikipedia"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=The+History+of+the+Bengali+Language"
-    type: "other"
-  - name: "Wikidata: Bijay Chandra Majumdar"
-    url: "https://www.wikidata.org/wiki/Q18341029"
-    type: "other"
-  - name: "Wikidata: The Work"
-    url: "https://www.wikidata.org/wiki/Q19089765"
-    type: "other"
+- name: 'Wikisource'
+  url: https://en.wikisource.org/wiki/The_History_of_the_Bengali_Language
+  type: wikisource
+- name: 'Wikipedia: Bijay Chandra Majumdar'
+  url: https://en.wikipedia.org/wiki/Bijay_Chandra_Majumdar
+  type: wikipedia
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=The+History+of+the+Bengali+Language
+  type: other
+- name: 'Wikidata: Bijay Chandra Majumdar'
+  url: https://www.wikidata.org/wiki/Q18341029
+  type: other
+- name: 'Wikidata: The Work'
+  url: https://www.wikidata.org/wiki/Q19089765
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Bengali Language", "Linguistics", "Language History", "University of Calcutta", "Historical Linguistics", "Dravidian Influences", "Pali", "Prakrit", "George Grierson", "Colonial Era Scholarship", "Bengali Studies"]
 ---
 
 # The History of the Bengali Language

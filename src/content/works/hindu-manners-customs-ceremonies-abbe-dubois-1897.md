@@ -1,31 +1,39 @@
 ---
-title: "Hindu Manners, Customs and Ceremonies"
-author: ["Abbé Jean-Antoine Dubois", "tr. Henry K. Beauchamp"]
+title: 'Hindu Manners, Customs and Ceremonies'
+author:
+- Abbé Jean-Antoine Dubois
+- tr. Henry K. Beauchamp
 year: 1897
-language: ["English"]
-genre: ["Ethnography", "Religious Studies", "Anthropology"]
-description: "Detailed ethnographic study of Hindu society, caste system, and religious practices based on French missionary Dubois's three decades of fieldwork in southern India from 1792. Uniquely adopted Hindu ascetic practices and dress, earning unprecedented access to communities typically closed to European observers. The 1897 Beauchamp edition represents the standard English translation that profoundly influenced colonial understanding and Indological scholarship."
-collections: ['ethnographic-studies', 'religious-texts']
+language:
+- English
+genre:
+- Ethnography
+- Religious Studies
+- Anthropology
+description: |
+  Jean-Antoine Dubois's comprehensive ethnographic study, "Hindu Manners, Customs and Ceremonies," represents a landmark scholarly examination of late 18th and early 19th-century South Indian Hindu society, emerging during a critical period of colonial cultural encounter and anthropological documentation. As a French Catholic missionary stationed in Mysore and Tamil regions between 1792 and 1823, Dubois conducted an unprecedented systematic investigation of Hindu social structures, religious practices, and cultural nuances. Distinguishing himself from contemporaneous European observers, he immersed himself deeply in local communities by adopting Hindu ascetic dress and practicing extensive fieldwork methodologies that granted him rare insider access to social and religious domains typically closed to foreign scholars. The work meticulously documents caste hierarchies, ritualistic practices, family structures, marriage customs, religious festivals, and philosophical traditions, providing intricate details about Brahminical social organization and theological concepts. Critically, Dubois's documentation offers not merely an external colonial gaze but a relatively nuanced, albeit still culturally mediated, understanding of Hindu societal complexity. The 1897 Beauchamp English translation, which standardized the text's scholarly reception, significantly influenced subsequent Indological research and colonial administrative perspectives on Indian cultural systems. While inevitably bearing traces of colonial-era interpretative frameworks, the text remains a crucial historical anthropological resource, preserving detailed ethnographic observations of South Indian Hindu society during a transformative historical moment of cultural intersection and intellectual exchange.
+collections:
+- ethnographic-studies
+- religious-texts
 sources:
-  - name: "Internet Archive (1906 edition)"
-    url: "https://archive.org/details/hindumannerscust1906dubo"
-    type: "other"
-  - name: "Internet Archive (DLI 1905 edition)"
-    url: "https://archive.org/details/in.ernet.dli.2015.280505"
-    type: "other"
-  - name: "Internet Archive (DLI alternate)"
-    url: "https://archive.org/details/in.ernet.dli.2015.49729"
-    type: "other"
+- name: 'Internet Archive (1906 edition)'
+  url: https://archive.org/details/hindumannerscust1906dubo
+  type: other
+- name: 'Internet Archive (DLI 1905 edition)'
+  url: https://archive.org/details/in.ernet.dli.2015.280505
+  type: other
+- name: 'Internet Archive (DLI alternate)'
+  url: https://archive.org/details/in.ernet.dli.2015.49729
+  type: other
 references:
-  - name: "Wikipedia: Jean-Antoine Dubois"
-    url: "https://en.wikipedia.org/wiki/Jean-Antoine_Dubois"
-    type: "wikipedia"
-  - name: "OpenLibrary"
-    url: "https://openlibrary.org/search?q=Hindu+Manners+Customs+Ceremonies+Dubois"
-    type: "other"
+- name: 'Wikipedia: Jean-Antoine Dubois'
+  url: https://en.wikipedia.org/wiki/Jean-Antoine_Dubois
+  type: wikipedia
+- name: 'OpenLibrary'
+  url: https://openlibrary.org/search?q=Hindu+Manners+Customs+Ceremonies+Dubois
+  type: other
 featured: false
 publishDate: 2025-01-24
-tags: ["Ethnography", "Hindu customs", "Colonial India", "Missionary accounts", "South India", "Caste system", "Religious ceremonies", "Anthropology", "19th century", "Cultural studies", "Abbé Dubois", "Public domain"]
 ---
 
 # Hindu Manners, Customs and Ceremonies

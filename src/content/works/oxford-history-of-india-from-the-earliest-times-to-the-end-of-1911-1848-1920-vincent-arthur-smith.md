@@ -1,22 +1,28 @@
 ---
-title: "The Oxford History of India: From the Earliest Times to the End of 1911"
-author: ["Vincent Arthur Smith", "Stephen Meredyth Edwardes"]
+title: 'The Oxford History of India: From the Earliest Times to the End of 1911'
+author:
+- Vincent Arthur Smith
+- Stephen Meredyth Edwardes
 year: 1919
-language: ["English"]
-genre: ["History", "Reference"]
-description: "Vincent Arthur Smith's monumental chronicle spans Indian civilization from ancient Vedic times through British Raj to 1911, providing comprehensive survey by distinguished ICS historian. political, cultural, and social evolution. Smith, who served in the Indian Civil Service and exposed major archaeological forgeries, brought rigorous scholarship and firsthand knowledge to this authoritative work, which became the standard academic reference on Indian history for decades."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- History
+- Reference
+description: |
+  Vincent Arthur Smith's seminal "The Oxford History of India: From the Earliest Times to the End of 1911" represents a landmark scholarly compilation chronicling the expansive trajectory of Indian civilization through meticulous historical investigation. Drawing from extensive archival research and firsthand administrative experience, Smith systematically examines India's complex historical landscape from ancient Vedic civilizations through the intricate political transformations of the British colonial period. As a distinguished Indian Civil Service (ICS) historian, Smith synthesizes archaeological evidence, textual sources, and administrative insights to construct a comprehensive narrative of India's sociopolitical evolution. The work critically analyzes major dynastic transitions, including the Mauryan, Gupta, Delhi Sultanate, and Mughal imperial periods, while providing nuanced assessments of cultural, administrative, and socioeconomic developments. Smith's scholarly approach distinguishes itself through rigorous methodological standards, contextualizing India's historical processes within broader global historical frameworks. His meticulous documentation of archaeological discoveries, particularly his exposure of contemporary historical forgeries, established new methodological benchmarks in Indian historical scholarship. The text not only serves as a comprehensive reference but also represents an important intellectual bridge between colonial-era historiography and emerging nationalist historical discourse. By integrating political, cultural, and social dimensions, Smith's work offers profound insights into India's complex civilizational continuities and transformations, making it an enduring scholarly resource for understanding the subcontinent's rich and multifaceted historical experience. His nuanced interpretations continue to influence contemporary historical scholarship on the Indian subcontinent.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/oxfordhistoryofi00smituoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/oxfordhistoryofi00smituoft
+  type: other
 references:
-  - name: "Open Library: Oxford History of India"
-    url: "https://openlibrary.org/search?q=Oxford+History+India+Vincent+Arthur+Smith"
-    type: "other"
+- name: 'Open Library: Oxford History of India'
+  url: https://openlibrary.org/search?q=Oxford+History+India+Vincent+Arthur+Smith
+  type: other
 featured: true
 publishDate: 2025-10-02
-tags: ["British Raj", "Colonial scholarship", "Indology", "ancient India", "medieval India", "Mughal Empire", "archaeology", "historical reference", "Vincent Arthur Smith", "Oxford University Press", "comprehensive history", "20th century historiography"]
 ---
 
 # The Oxford History of India: From the Earliest Times to the End of 1911
@@ -85,4 +91,3 @@ Today, the book serves multiple purposes: as a historical document revealing col
 This digitized edition from the Internet Archive makes this influential historical work freely accessible to contemporary readers, researchers, and students worldwide. The preservation of such texts in digital format ensures that future generations can engage with the evolution of historical scholarship and understand how interpretations of India's past have developed over time.
 
 For those interested in Indian history, colonial scholarship, the development of Indology, or the historiography of South Asia, Smith and Edwardes' *Oxford History of India* remains an essential primary source—not as an uncritical guide to India's past, but as a significant artifact in the history of how that past has been studied, interpreted, and contested.
-

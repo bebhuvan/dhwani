@@ -1,34 +1,43 @@
 ---
-title: "The Panchasiddhantika of Varahamihira"
-author: ["Varahamihira", "G. Thibaut ()", "Sudhakara Dvivedi ()"]
+title: 'The Panchasiddhantika of Varahamihira'
+author:
+- Varahamihira
+- G. Thibaut ()
+- Sudhakara Dvivedi ()
 year: 575
-language: ["Sanskrit", "English"]
-genre: ["Astronomy", "Mathematics", "Scientific Literature"]
-description: "Varahamihira's 6th-century compendium summarizing five earlier astronomical treatises (siddhantas), documenting pre-Aryabhata astronomical knowledge including Greco-Roman influences. The Thibaut-Dvivedi edition provides Sanskrit text, translation, and commentary, revealing the diversity of astronomical traditions in classical India."
-collections: ['ancient-wisdom']
+language:
+- Sanskrit
+- English
+genre:
+- Astronomy
+- Mathematics
+- Scientific Literature
+description: |
+  During the Gupta Empire's intellectual renaissance, Varahamihira's Panchasiddhantika emerged as a landmark scholarly compilation representing the sophisticated astronomical and mathematical traditions of 6th-century India. Composed in 575 CE, this seminal work synthesizes five distinct astronomical treatises, reflecting the complex intellectual exchanges and cross-cultural knowledge transmission characteristic of classical Indian scientific discourse. Varahamihira, a prominent astronomer and mathematician from Ujjain—a renowned center of learning—systematically documented and critically analyzed pre-Aryabhata astronomical methodologies, integrating indigenous Indian computational techniques with Greco-Babylonian mathematical principles. The text's comprehensive approach demonstrates the remarkable intellectual breadth of Indian scholars during a period of remarkable scientific innovation, revealing nuanced astronomical observations, computational methods, and theoretical frameworks that transcended contemporary regional boundaries. By meticulously compiling and critically examining earlier astronomical traditions, Varahamihira preserved critical scientific knowledge while simultaneously advancing mathematical understanding through sophisticated computational strategies. The work's significance extends beyond astronomical scholarship, offering profound insights into the intellectual networks, cross-cultural interactions, and systematic knowledge production in classical India. The Thibaut-Dvivedi edition, providing critical Sanskrit text and scholarly translation, has been instrumental in making this foundational scientific text accessible to global scholarly communities, illuminating the depth and complexity of Indian astronomical and mathematical traditions during the Gupta period's remarkable cultural efflorescence.
+collections:
+- ancient-wisdom
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/panchsiddhantika00varauoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/panchsiddhantika00varauoft
+  type: other
 references:
-  - name: "Wikipedia: Panchasiddhantika"
-    url: "https://en.wikipedia.org/wiki/Panchasiddhantika"
-    type: "wikipedia"
-  - name: "Wikipedia: Varahamihira"
-    url: "https://en.wikipedia.org/wiki/Var%C4%81hamihira"
-    type: "wikipedia"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=Panchasiddhantika+Varahamihira"
-    type: "other"
-  - name: "Wikidata: Panchasiddhantika"
-    url: "https://www.wikidata.org/wiki/Q7130468"
-    type: "other"
-  - name: "Wikidata: Varahamihira"
-    url: "https://www.wikidata.org/wiki/Q312582"
-    type: "other"
+- name: 'Wikipedia: Panchasiddhantika'
+  url: https://en.wikipedia.org/wiki/Panchasiddhantika
+  type: wikipedia
+- name: 'Wikipedia: Varahamihira'
+  url: https://en.wikipedia.org/wiki/Var%C4%81hamihira
+  type: wikipedia
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=Panchasiddhantika+Varahamihira
+  type: other
+- name: 'Wikidata: Panchasiddhantika'
+  url: https://www.wikidata.org/wiki/Q7130468
+  type: other
+- name: 'Wikidata: Varahamihira'
+  url: https://www.wikidata.org/wiki/Q312582
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Ancient Indian Astronomy", "Varahamihira", "6th Century", "Sanskrit Science", "Mathematical Astronomy", "Siddhanta Literature", "Indo-Greek Astronomy", "History of Science", "Classical India", "G. Thibaut"]
 ---
 
 # The Panchasiddhantika of Varahamihira

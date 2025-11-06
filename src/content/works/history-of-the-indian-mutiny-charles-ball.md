@@ -1,28 +1,33 @@
 ---
-title: "The History of the Indian Mutiny"
-author: ["Charles Ball"]
+title: 'The History of the Indian Mutiny'
+author:
+- Charles Ball
 year: 1859
-language: ["English"]
-genre: ["History", "Military History"]
-description: "Charles Ball's two-volume work, published 1858-1859 by the London Printing and Publishing Company, provides a detailed 780-page contemporary account of the Sepoy Rebellion of 1857-1858 alongside a broader history of military events consolidating British control in India."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- History
+- Military History
+description: |
+  Charles Ball's comprehensive two-volume work, "The History of the Indian Mutiny," published by the London Printing and Publishing Company in 1858-1859, represents a critical contemporary historical account of the pivotal Sepoy Rebellion of 1857-1858. Spanning approximately 780 pages, the work provides an intricate narrative of the military and political upheavals that marked this transformative period in British colonial India. Ball meticulously documents the complex rebellion, which emerged from significant tensions between Indian sepoy soldiers and British East India Company administrators, examining the multifaceted causes including cultural misunderstandings, economic exploitation, and growing anti-colonial sentiment. The text offers unprecedented detailed descriptions of military engagements, troop movements, and the broader socio-political dynamics that characterized the conflict. Ball's account is particularly valuable for its contemporaneous perspective, providing insights into British imperial perceptions and the intricate power relationships within colonial military structures. While presenting a predominantly British colonial viewpoint, the work nonetheless captures crucial historical moments that illuminated the deep fractures in colonial governance and the emerging nationalist consciousness among Indian populations. By comprehensively chronicling military strategies, individual battles, and systemic tensions, Ball's work became a foundational text for understanding this watershed moment in Indian history. The manuscript serves not only as a historical document but also as a critical lens through which subsequent generations could analyze the complex interactions between colonial power structures and indigenous resistance movements in 19th-century India.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/historyofindianm01ball"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/historyofindianm01ball
+  type: other
 references:
-  - name: "Wikipedia: Indian Rebellion of 1857"
-    url: "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857"
-    type: "wikipedia"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=History+of+the+Indian+Mutiny+Charles+Ball"
-    type: "other"
-  - name: "Wikidata: Indian Rebellion of 1857"
-    url: "https://www.wikidata.org/wiki/Q129864"
-    type: "other"
+- name: 'Wikipedia: Indian Rebellion of 1857'
+  url: https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857
+  type: wikipedia
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=History+of+the+Indian+Mutiny+Charles+Ball
+  type: other
+- name: 'Wikidata: Indian Rebellion of 1857'
+  url: https://www.wikidata.org/wiki/Q129864
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Indian Rebellion", "1857 Mutiny", "Sepoy Rebellion", "British India", "Colonial History", "Military History", "19th Century", "Charles Ball", "Uprising", "Indian History"]
 ---
 
 # The History of the Indian Mutiny

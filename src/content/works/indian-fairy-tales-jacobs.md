@@ -1,31 +1,38 @@
 ---
-title: "Indian Fairy Tales"
-author: ["Joseph Jacobs"]
+title: 'Indian Fairy Tales'
+author:
+- Joseph Jacobs
 year: 1892
-language: ["English"]
-genre: ["Folklore", "Fairy Tales", "Colonial Literature"]
-description: "Collection of 29 Indian fairy tales, folk tales, and Jataka tales compiled by folklorist Joseph Jacobs, published 1892 by David Nutt, illustrated by John Dickson Batten. Represents Victorian-era colonial folklore collection practice, drawing from ancient Pali and Sanskrit texts and contemporary colonial-era gatherings. Reflects scholarly theory positioning India as 'Home of the Fairy Tale' and source of European folklore. Demonstrates colonial mediation of Indian oral traditions for English child audiences through editorial selection and adaptation."
-collections: ['folklore', 'colonial-india']
+language:
+- English
+genre:
+- Folklore
+- Fairy Tales
+- Colonial Literature
+description: |
+  Joseph Jacobs' "Indian Fairy Tales" represents a seminal late-nineteenth-century scholarly compilation of traditional narrative traditions, critically situated within the complex intellectual landscape of British colonial anthropological and folkloric research. Published in 1892 during the height of colonial ethnographic documentation, the collection comprises 29 meticulously selected tales drawn from diverse Sanskrit, Pali, and regional oral storytelling traditions, carefully translated and annotated to render these narratives accessible to English-speaking audiences. Illustrated by John Dickson Batten, the collection reflects contemporary scholarly methodologies of cultural translation, positioning Indian narrative traditions as fundamental to understanding global folkloric interconnections. Jacobs, a prominent folklorist and cultural historian, approached the compilation with a comparative methodology, demonstrating how Indian narrative structures and motifs significantly influenced European storytelling traditions. The collection includes key narrative forms such as Jataka tales—Buddhist didactic narratives—alongside fairy tales, animal fables, and mythological accounts that reveal intricate philosophical and moral frameworks endemic to Indian cultural consciousness. Critically, the work serves as both a scholarly document and a mediating text, simultaneously preserving indigenous narrative traditions while presenting them through a colonial interpretive lens. The tales illuminate complex social structures, ethical principles, and cosmological understandings embedded in pre-colonial Indian intellectual traditions, offering scholarly and general readers profound insights into the narrative architectures of Indian cultural heritage. Jacobs' compilation remains a significant historical document, representing an important moment in cross-cultural scholarly engagement and comparative mythology studies.
+collections:
+- folklore
+- colonial-india
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/7128"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/indianfairytales00jose"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/7128
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/indianfairytales00jose
+  type: other
 references:
-  - name: "Wikipedia: Joseph Jacobs"
-    url: "https://en.wikipedia.org/wiki/Joseph_Jacobs"
-    type: "wikipedia"
-  - name: "Wikipedia: Jataka tales"
-    url: "https://en.wikipedia.org/wiki/Jataka_tales"
-    type: "wikipedia"
-  - name: "Wikipedia: Folklore"
-    url: "https://en.wikipedia.org/wiki/Folklore"
-    type: "wikipedia"
+- name: 'Wikipedia: Joseph Jacobs'
+  url: https://en.wikipedia.org/wiki/Joseph_Jacobs
+  type: wikipedia
+- name: 'Wikipedia: Jataka tales'
+  url: https://en.wikipedia.org/wiki/Jataka_tales
+  type: wikipedia
+- name: 'Wikipedia: Folklore'
+  url: https://en.wikipedia.org/wiki/Folklore
+  type: wikipedia
 featured: false
 publishDate: 2025-11-02
-tags: ["Joseph Jacobs", "Indian folklore", "Fairy tales", "Colonial folklore", "Jataka tales", "Victorian literature", "John Dickson Batten", "Folk literature", "Comparative folklore", "1890s", "Children's literature", "Colonial mediation"]
 ---
 
 # Indian Fairy Tales

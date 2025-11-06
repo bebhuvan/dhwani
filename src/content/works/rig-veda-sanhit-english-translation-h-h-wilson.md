@@ -1,31 +1,36 @@
 ---
-title: "Rig-Veda-Sanhitā (English translation)"
-author: ["H. H. Wilson"]
+title: 'Rig-Veda-Sanhitā (English translation)'
+author:
+- H. H. Wilson
 year: 1850
-language: ["English"]
-genre: ["Literature"]
-description: "Rig-Veda-Sanhitā (English translation) by H. Wilson (1850s–1860s) - A significant work from the Colonial India - Company Rule, representing an important contribution to Indian literary and cultural heritage. This work offers valuable insights into the British East India Company period, marked by gradual colonization and cultural documentation."
-collections: ['ancient-wisdom', 'modern-literature']
+language:
+- English
+genre:
+- Literature
+description: |
+  The Rig-Veda-Sanhitā translation by H. H. Wilson represents a pivotal scholarly endeavor in early Indological studies during the British Colonial period, specifically within the mid-19th century intellectual landscape of the East India Company's scholarly engagement with Indian textual traditions. Completed during the 1850s-1860s, Wilson's translation was among the first comprehensive English renderings of the ancient Sanskrit Vedic text, marking a significant moment in cross-cultural textual interpretation. Wilson, a distinguished Orientalist and physician associated with the East India Company, brought considerable linguistic expertise and scholarly rigor to this complex translation project, providing Western scholars and administrators unprecedented access to one of the foundational religious and philosophical texts of the Indian subcontinent. The translation critically illuminates the sophisticated linguistic, cosmological, and ritualistic dimensions of the Rig Veda, comprising 1,028 hymns organized into ten mandalas, which represent some of the oldest extant Sanskrit literary compositions dating back to approximately 1500-1200 BCE. Wilson's meticulous approach documented not just the textual content but also provided extensive annotations that contextualized the cultural and philosophical significance of these ancient hymns, which predominantly address Vedic deities, cosmic principles, and early Hindu philosophical concepts. His work was instrumental in bridging scholarly understanding between European intellectual traditions and the rich philosophical-religious heritage of ancient Indian civilization, facilitating deeper academic and administrative comprehension of indigenous cultural systems during the colonial period. The translation remains a foundational text in comparative religious studies and historical linguistics, offering insights into the intellectual and spiritual foundations of Indian cultural consciousness.
+collections:
+- ancient-wisdom
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/rigvedasanhita01wils"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/rigvedasanhita01wils
+  type: other
 references:
-  - name: "Wikipedia: Rigveda"
-    url: "https://en.wikipedia.org/wiki/Rigveda"
-    type: "wikipedia"
-  - name: "Wikipedia: Horace Hayman Wilson"
-    url: "https://en.wikipedia.org/wiki/Horace_Hayman_Wilson"
-    type: "wikipedia"
-  - name: "Wikipedia: Sayana"
-    url: "https://en.wikipedia.org/wiki/Sayana"
-    type: "wikipedia"
-  - name: "Open Library: Rig-Veda-Sanhitā (English translation) year"
-    url: "https://openlibrary.org/search?q=Rig-Veda-Sanhitā+English+translation+year+1850+language+H+H+Wilson"
-    type: "other"
+- name: 'Wikipedia: Rigveda'
+  url: https://en.wikipedia.org/wiki/Rigveda
+  type: wikipedia
+- name: 'Wikipedia: Horace Hayman Wilson'
+  url: https://en.wikipedia.org/wiki/Horace_Hayman_Wilson
+  type: wikipedia
+- name: 'Wikipedia: Sayana'
+  url: https://en.wikipedia.org/wiki/Sayana
+  type: wikipedia
+- name: 'Open Library: Rig-Veda-Sanhitā (English translation) year'
+  url: https://openlibrary.org/search?q=Rig-Veda-Sanhitā+English+translation+year+1850+language+H+H+Wilson
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['veda']
 ---
 
 ## H.H. Wilson's Pioneering English Translation of the Rigveda

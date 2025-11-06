@@ -1,5 +1,5 @@
 ---
-title: The Rāmāyana
+title: 'The Rāmāyana'
 author:
 - Valmiki
 year: 1900
@@ -11,54 +11,45 @@ genre:
 - Poetry
 - Religious Literature
 - Sanskrit Literature
-description: Ralph T.H. Griffith's pioneering English verse translation of Valmiki's
-  Ramayana represents a landmark achievement in making Sanskrit epic literature accessible
-  to Western readers. This first volume contains the Balakanda (Book of Childhood)
-  and Ayodhyakanda (Book of Ayodhya), chronicling Prince Rama's birth, his education
-  under the sage Vishvamitra, his marriage to Sita, and the fateful events leading
-  to his exile from Ayodhya. While Griffith's Victorian-era poetic rendering prioritizes
-  literary elegance over literal accuracy, it captures the epic's grandeur and introduces
-  readers to one of world literature's most influential narratives—a story that has
-  shaped Hindu devotional practice, artistic traditions, and moral philosophy across
-  South and Southeast Asia for over two millennia. This entry includes links to all
-  volumes of this multi-volume work.
+description: |
+  Composed circa 300-100 BCE during the early classical Sanskrit period, the Ramayana emerged during a transformative era of political consolidation and cultural synthesis in the Indian subcontinent, when the epic's narrative would significantly influence emerging Hindu philosophical and social frameworks. The work's attributed author, the sage Valmiki, is traditionally considered the "first poet" (Adi Kavi) and is believed to have lived during a period of significant social and religious transformation, when oral storytelling traditions were being codified into sophisticated literary forms. Ralph T.H. Griffith's pioneering English verse translation of Valmiki's Ramayana represents a landmark achievement in making Sanskrit epic literature accessible to Western readers. This first volume contains the Balakanda (Book of Childhood) and Ayodhyakanda (Book of Ayodhya), chronicling Prince Rama's birth, his education under the sage Vishvamitra, his marriage to Sita, and the fateful events leading to his exile from Ayodhya. While Griffith's Victorian-era poetic rendering prioritizes literary elegance over literal accuracy, it captures the epic's grandeur and introduces readers to one of world literature's most influential narratives—a story that has shaped Hindu devotional practice, artistic traditions, and moral philosophy across South and Southeast Asia for over two millennia. This entry includes links to all volumes of this multi-volume work.
 collections:
 - classical-literature
 - poetry-collection
 - devotional-literature
 - modern-literature
 sources:
-- name: Project Gutenberg - Volume 1
+- name: 'Project Gutenberg - Volume 1'
   url: https://www.gutenberg.org/ebooks/57265
   type: other
-- name: Project Gutenberg (HTML) - Volume 1
+- name: 'Project Gutenberg (HTML) - Volume 1'
   url: https://www.gutenberg.org/ebooks/57265.html.images
   type: other
-- name: Internet Archive (Griffith Translation, 1895) - Volume 1
+- name: 'Internet Archive (Griffith Translation, 1895) - Volume 1'
   url: https://archive.org/details/ramayanofvlm00valmrich
   type: other
-- name: Internet Archive - Complete Ramayana (4 Volumes, Griffith) - Volume 1
+- name: 'Internet Archive - Complete Ramayana (4 Volumes, Griffith) - Volume 1'
   url: https://archive.org/details/ramayanavalmiki00valmgoog
   type: other
 - name: 'Internet Archive - Digital Library of India: Ramayana Vol 1 - Volume 1'
   url: https://archive.org/details/in.ernet.dli.2015.342251
   type: other
-- name: Project Gutenberg - Volume 2
+- name: 'Project Gutenberg - Volume 2'
   url: https://www.gutenberg.org/ebooks/57826
   type: other
-- name: Project Gutenberg (HTML) - Volume 2
+- name: 'Project Gutenberg (HTML) - Volume 2'
   url: https://www.gutenberg.org/ebooks/57826.html.images
   type: other
-- name: Project Gutenberg - Volume 3
+- name: 'Project Gutenberg - Volume 3'
   url: https://www.gutenberg.org/ebooks/60188
   type: other
-- name: Project Gutenberg (HTML) - Volume 3
+- name: 'Project Gutenberg (HTML) - Volume 3'
   url: https://www.gutenberg.org/ebooks/60188.html.images
   type: other
-- name: Project Gutenberg - Volume 4
+- name: 'Project Gutenberg - Volume 4'
   url: https://www.gutenberg.org/ebooks/62496
   type: other
-- name: Project Gutenberg (HTML) - Volume 4
+- name: 'Project Gutenberg (HTML) - Volume 4'
   url: https://www.gutenberg.org/ebooks/62496.html.images
   type: other
 references:
@@ -79,14 +70,6 @@ references:
   type: other
 featured: false
 publishDate: 2025-11-01
-tags:
-- public domain
-- Epic poetry, Sanskrit -- Translations into English
-- Folklore -- India
-- Rama (Hindu deity) -- Fiction
-- Valmiki
-- Ralph T.H. Griffith
-- Victorian translation
 ---
 
 # The Rāmāyana, Volume 1. Bālakāndam and Ayodhyākāndam

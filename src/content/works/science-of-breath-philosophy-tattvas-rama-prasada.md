@@ -1,22 +1,31 @@
 ---
-title: "The Science of Breath and the Philosophy of the Tattvas"
-author: ["Rama Prasada", "G. R. S. Mead"]
+title: 'The Science of Breath and the Philosophy of the Tattvas'
+author:
+- Rama Prasada
+- G. R. S. Mead
 year: 1894
-language: ["English", "Sanskrit"]
-genre: ["Philosophy", "Religious Studies", "Yoga", "Metaphysics"]
-description: "Rama Prasada's scholarly exploration of ancient Hindu teachings on breath control (pranayama) and tattva philosophy. This pioneering work bridges Eastern yogic practices with Western academic presentation, making the esoteric sciences of breath and the fundamental principles of Hindu cosmology accessible to English-speaking audiences during the Theosophical movement."
-collections: ['spiritual-texts']
+language:
+- English
+- Sanskrit
+genre:
+- Philosophy
+- Religious Studies
+- Yoga
+- Metaphysics
+description: |
+  Rama Prasada's seminal work, published during the late 19th-century renaissance of Indian philosophical scholarship, represents a critical intersection between traditional Hindu metaphysical knowledge and emerging Western academic discourse. Emerging from the intellectual climate of the Theosophical movement, the text offers a comprehensive scholarly examination of pranayama and tattva philosophy, systematically translating complex yogic epistemologies into a rigorous analytical framework accessible to English-speaking scholars and spiritual practitioners. The work meticulously explores the fundamental principles of breath control (pranayama) as a sophisticated philosophical and physiological practice, situating these techniques within the broader context of classical Hindu cosmological understanding. By detailing the intricate relationships between breath, consciousness, and metaphysical principles, Prasada illuminates the sophisticated philosophical infrastructure underlying traditional yogic practice. The text's significance extends beyond mere technical description, providing critical insights into the sophisticated rational and experiential dimensions of Indian philosophical traditions that were often misunderstood or exoticized by contemporary Western scholarship. Drawing from Sanskrit textual sources and integrating contemporary scientific discourse, the work bridges traditional knowledge systems with emerging academic methodologies, making it a pioneering text in comparative philosophy and religious studies. Its nuanced exploration of breath as both a physiological phenomenon and a metaphysical principle challenges reductive Western interpretations, presenting a holistic understanding of consciousness that integrates somatic, psychological, and transcendental dimensions of human experience. As a scholarly intervention, the text remains a significant contribution to understanding the depth and complexity of Indian philosophical and contemplative traditions.
+collections:
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/thescienceofbrea00raamuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/thescienceofbrea00raamuoft
+  type: other
 references:
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=The+science+of+breath+and+the+philosophy+of+the+tattvas%3B&mode=everything"
-    type: "other"
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=The+science+of+breath+and+the+philosophy+of+the+tattvas%3B&mode=everything
+  type: other
 featured: false
 publishDate: 2025-09-28
-tags: ["Pranayama", "Breath Control", "Tattva Philosophy", "Rama Prasada", "Hindu Metaphysics", "Yogic Practices", "Theosophical Society", "Ancient Wisdom", "Respiratory Practices", "Hindu Cosmology", "Eastern Philosophy", "Esoteric Teachings"]
 ---
 
 # The Science of Breath and the Philosophy of the Tattvas

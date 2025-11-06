@@ -1,28 +1,35 @@
 ---
-title: "Mauryan Polity"
-author: ["V. R. Ramachandra Dikshitar"]
+title: 'Mauryan Polity'
+author:
+- V. R. Ramachandra Dikshitar
 year: 1932
-language: ["English"]
-genre: ["History", "Political Science", "Ancient India"]
-description: "V.R. Ramachandra Dikshitar's 1932 analysis examines political organization and governance of Mauryan Empire (322-185 BCE), India's first large-scale unified state, using inscriptions and classical texts."
-collections: ['ancient-wisdom', 'modern-literature']
+language:
+- English
+genre:
+- History
+- Political Science
+- Ancient India
+description: |
+  V.R. Ramachandra Dikshitar's seminal 1932 monograph "Mauryan Polity" represents a groundbreaking scholarly examination of the administrative and political structures of the Mauryan Empire (322-185 BCE), India's first extensive territorial state. Utilizing a meticulous methodology that synthesized epigraphic evidence, archaeological findings, and classical textual sources, Dikshitar provided a comprehensive analysis of governance mechanisms during one of ancient India's most transformative political periods. The work emerged during a critical intellectual moment when Indian scholars were systematically reinterpreting indigenous historical narratives, challenging colonial historiographical paradigms, and reconstructing pre-colonial administrative frameworks. Dikshitar, a prominent historian from the Madras Presidency's intellectual circles, examined complex administrative institutions including the imperial bureaucracy, judicial systems, revenue mechanisms, and diplomatic practices that characterized the Mauryan state. His analysis illuminated the sophisticated political engineering of Emperor Chandragupta Maurya and his successors, demonstrating the nuanced administrative innovations that enabled the empire's remarkable territorial consolidation and bureaucratic efficiency. By critically examining official structures through interdisciplinary scholarly approaches, Dikshitar contributed significantly to understanding the intricate political mechanisms that underpinned classical Indian state formation. The work remains a foundational text in Indian historical scholarship, offering profound insights into the administrative sophistication of ancient Indian political systems and challenging contemporary orientalist interpretations of Indian governance. Dikshitar's scholarly rigor and systematic approach established methodological precedents for subsequent generations of historians investigating India's complex pre-colonial political traditions.
+collections:
+- ancient-wisdom
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.530078"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.530078
+  type: other
 references:
-  - name: "Wikipedia: Maurya Empire"
-    url: "https://en.wikipedia.org/wiki/Maurya_Empire"
-    type: "wikipedia"
-  - name: "Wikipedia: V. R. Ramachandra Dikshitar"
-    url: "https://en.wikipedia.org/wiki/V._R._Ramachandra_Dikshitar"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Mauryan+Polity+Dikshitar&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Maurya Empire'
+  url: https://en.wikipedia.org/wiki/Maurya_Empire
+  type: wikipedia
+- name: 'Wikipedia: V. R. Ramachandra Dikshitar'
+  url: https://en.wikipedia.org/wiki/V._R._Ramachandra_Dikshitar
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Mauryan+Polity+Dikshitar&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-22
-tags: ["Mauryan Empire", "V.R. Dikshitar", "Ancient India", "Political history", "Chandragupta Maurya", "Ashoka", "Arthashastra", "Indian administration", "Magadha", "Kautilya", "Dhamma", "Ashokan edicts", "Megasthenes", "Ancient statecraft", "Governance"]
 ---
 
 # Mauryan Polity
@@ -58,4 +65,3 @@ Documented ancient India's sophisticated centralized administration, compared Ka
 ## How to Access
 
 Available through Internet Archive (Digital Library of India), public domain, freely accessible.
-

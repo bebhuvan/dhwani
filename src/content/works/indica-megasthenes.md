@@ -1,31 +1,43 @@
 ---
-title: "Indica"
-author: ["Megasthenes"]
+title: 'Indica'
+author:
+- Megasthenes
 year: -300
-language: ["Ancient Greek", "English"]
-genre: ["Historical Literature", "Ethnography", "Geography"]
-description: "Megasthenes' Indica, composed circa 300 BCE, represents the earliest detailed Greek account of India based on the ambassador's diplomatic residence at Chandragupta Maurya's Pataliputra court. Though the original text is lost, extensive fragments preserved in later classical authors provide invaluable eyewitness documentation of Mauryan administration, Indian society, religious practices, geography, and natural history from a sophisticated foreign perspective."
-collections: ['ancient-history', 'historical-literature']
+language:
+- Ancient Greek
+- English
+genre:
+- Historical Literature
+- Ethnography
+- Geography
+description: |
+  Megasthenes' Indica, composed around 300 BCE during the early Mauryan period, represents a seminal ethnographic and diplomatic account of ancient India from a sophisticated Hellenistic perspective. As an ambassador from the Seleucid court to Chandragupta Maurya's capital Pataliputra, Megasthenes provided one of the earliest comprehensive external observations of Indian civilization during a pivotal transitional moment in subcontinental political and cultural development. Though the original manuscript is lost, extensive fragments preserved in works by later classical authors like Strabo, Pliny, and Diodorus offer remarkable insights into Mauryan administrative structures, social organization, religious practices, economic systems, and geographical landscapes.
+  
+  The text is particularly significant for its nuanced documentation of Indian societal hierarchies, detailing the seven-tier social classification system that predates contemporary understanding of caste structures. Megasthenes meticulously described Indian philosophical traditions, agricultural practices, judicial systems, and royal governance, presenting a remarkably objective account that transcended typical Greco-centric perspectives of the period. His observations on Indian philosophical schools, particularly the ascetic traditions and sophisticated legal frameworks, challenged contemporary Hellenistic assumptions about non-Mediterranean civilizations.
+  
+  As a critical source for understanding early Mauryan India, Indica bridges crucial historical and cultural knowledge gaps between Hellenistic and Indian intellectual traditions. The work provides unparalleled anthropological documentation, offering scholars unprecedented insights into social dynamics, economic organization, and cultural practices of one of the world's earliest complex administrative empires. Its significance extends beyond historical documentation, representing an important moment of cross-cultural intellectual exchange and mutual understanding in the ancient world.
+collections:
+- ancient-history
+- historical-literature
 sources:
-  - name: "Internet Archive (McCrindle reconstruction)"
-    url: "https://archive.org/details/in.ernet.dli.2015.47090"
-    type: "other"
+- name: 'Internet Archive (McCrindle reconstruction)'
+  url: https://archive.org/details/in.ernet.dli.2015.47090
+  type: other
 references:
-  - name: "Wikipedia: Indica (Megasthenes)"
-    url: "https://en.wikipedia.org/wiki/Indica_(Megasthenes)"
-    type: "wikipedia"
-  - name: "Wikipedia: Megasthenes"
-    url: "https://en.wikipedia.org/wiki/Megasthenes"
-    type: "wikipedia"
-  - name: "Wikipedia: Chandragupta Maurya"
-    url: "https://en.wikipedia.org/wiki/Chandragupta_Maurya"
-    type: "wikipedia"
-  - name: "Open Library: Indica Megasthenes"
-    url: "https://openlibrary.org/search?q=Indica+Megasthenes"
-    type: "other"
+- name: 'Wikipedia: Indica (Megasthenes)'
+  url: https://en.wikipedia.org/wiki/Indica_(Megasthenes)
+  type: wikipedia
+- name: 'Wikipedia: Megasthenes'
+  url: https://en.wikipedia.org/wiki/Megasthenes
+  type: wikipedia
+- name: 'Wikipedia: Chandragupta Maurya'
+  url: https://en.wikipedia.org/wiki/Chandragupta_Maurya
+  type: wikipedia
+- name: 'Open Library: Indica Megasthenes'
+  url: https://openlibrary.org/search?q=Indica+Megasthenes
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical-literature']
 ---
 
 ## Greek Ambassador's Account of Mauryan India

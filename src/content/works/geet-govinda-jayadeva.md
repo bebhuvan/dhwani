@@ -1,43 +1,45 @@
 ---
-title: "Geet Govinda"
-author: ["Jayadeva"]
+title: 'Geet Govinda'
+author:
+- Jayadeva
 year: 1200
-language: ["Sanskrit"]
-genre: ["Devotional Poetry", "Lyric Poetry", "Religious Literature"]
-description: "Sanskrit lyrical poem composed by Jayadeva in 12th century, celebrating divine love between Krishna and Radha. Masterpiece of erotic-devotional poetry comprising 24 songs divided into 12 chapters. Revolutionized Krishna bhakti by centering Radha as Krishna's supreme beloved, establishing theological framework for Radha-Krishna worship. Profoundly influenced Indian classical music, dance, art, and devotional traditions across religious sects. Literary achievement combining sensual imagery, mystical symbolism, and devotional intensity."
-collections: ['classical-literature', 'devotional-literature', 'classical-literature']
+language:
+- Sanskrit
+genre:
+- Devotional Poetry
+- Lyric Poetry
+- Religious Literature
+description: |
+  Geet Govinda, a seminal Sanskrit lyrical work composed by the poet Jayadeva around 1200 CE during the Sena dynasty period in Bengal, represents a profound theological and aesthetic transformation in Indian devotional literature. Created within the rich cultural milieu of medieval Hindu religious poetry, the text revolutionized Krishna bhakti (devotional) traditions by presenting a sophisticated allegorical exploration of divine love through the relationship between Krishna and Radha. Comprising 24 songs organized into 12 chapters (saragas), the poem employs intricate poetic techniques, blending sensual metaphorical language with deeply mystical spiritual symbolism. Jayadeva, likely associated with the royal court and Vaishnavite intellectual circles, elevated Radha from a peripheral figure to the supreme embodiment of divine love and spiritual yearning, fundamentally reinterpreting theological understandings of divine-human relationships. The work's innovative narrative structure and lyrical complexity profoundly influenced subsequent devotional literature, classical performing arts, and religious philosophical discourse across multiple Hindu traditions. Its poetic language interweaves erotic imagery with metaphysical contemplation, presenting human romantic experience as a metaphor for spiritual communion. Musically structured with precise rhythmic patterns and emotional modulations, Geet Govinda became a foundational text for Odissi classical dance, Hindustani classical music, and miniature painting traditions. Beyond its literary merit, the text represents a crucial moment in medieval Indian intellectual history, synthesizing bhakti spirituality, Sanskrit poetic conventions, and sophisticated theological reimagining of divine feminine power.
+collections:
+- classical-literature
+- devotional-literature
+- classical-literature
 sources:
-  - name: "Sanskrit Documents"
-    url: "http://sanskritdocuments.org/sites/giirvaani/giirvaani/gg/giitagovindah.htm"
-    type: "other"
-  - name: "Internet Archive (Multiple Editions)"
-    url: "https://archive.org/details/geetagovinda"
-    type: "other"
-  - name: "Wikisource Sanskrit"
-    url: "https://sa.wikisource.org/wiki/गीतगोविन्दम्"
-    type: "other"
-  - name: "Sacred Texts Archive"
-    url: "https://www.sacred-texts.com/hin/gitag/index.htm"
-    type: "other"
+- name: 'Internet Archive (Multiple Editions)'
+  url: https://archive.org/details/geetagovinda
+  type: other
+- name: 'Wikisource Sanskrit'
+  url: https://sa.wikisource.org/wiki/गीतगोविन्दम्
+  type: other
 references:
-  - name: "Wikipedia: Jayadeva"
-    url: "https://en.wikipedia.org/wiki/Jayadeva"
-    type: "wikipedia"
-  - name: "Wikipedia: Geet Govinda"
-    url: "https://en.wikipedia.org/wiki/Gita_Govinda"
-    type: "wikipedia"
-  - name: "Wikipedia: Radha Krishna"
-    url: "https://en.wikipedia.org/wiki/Radha_Krishna"
-    type: "wikipedia"
-  - name: "Sanskrit Wikipedia"
-    url: "https://sa.wikipedia.org/wiki/गीतगोविन्दम्"
-    type: "wikipedia"
-  - name: "Open Library: Geet Govinda year"
-    url: "https://openlibrary.org/search?q=Geet+Govinda+year+1200+language+Sanskrit+Jayadeva"
-    type: "other"
+- name: 'Wikipedia: Jayadeva'
+  url: https://en.wikipedia.org/wiki/Jayadeva
+  type: wikipedia
+- name: 'Wikipedia: Geet Govinda'
+  url: https://en.wikipedia.org/wiki/Gita_Govinda
+  type: wikipedia
+- name: 'Wikipedia: Radha Krishna'
+  url: https://en.wikipedia.org/wiki/Radha_Krishna
+  type: wikipedia
+- name: 'Sanskrit Wikipedia'
+  url: https://sa.wikipedia.org/wiki/गीतगोविन्दम्
+  type: wikipedia
+- name: 'Open Library: Geet Govinda year'
+  url: https://openlibrary.org/search?q=Geet+Govinda+year+1200+language+Sanskrit+Jayadeva
+  type: other
 featured: true
 publishDate: 2025-10-30
-tags: ['classical-literature', 'poetry-collection', 'religious']
 ---
 
 # Geet Govinda

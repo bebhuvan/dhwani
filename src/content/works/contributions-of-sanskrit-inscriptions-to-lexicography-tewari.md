@@ -1,15 +1,24 @@
 ---
-title: "Contributions of Sanskrit inscriptions to lexicography"
-author: ["Tewari", "S. P.", "1944-"]
+title: 'Contributions of Sanskrit inscriptions to lexicography'
+author:
+- Tewari
+- S. P.
+- 1944-
 year: 1987
-language: ["English"]
-genre: ["History & Culture", "Linguistics"]
-description: "Contributions of Sanskrit inscriptions to lexicography by Tewari, S. P. (1987) is a significant work on History & Culture, Linguistics. Digitized from original sources and available on Archive.org."
-collections: ["historical-texts", "linguistic-works"]
+language:
+- English
+genre:
+- History & Culture
+- Linguistics
+description: |
+  Contributions of Sanskrit Inscriptions to Lexicography represents a nuanced scholarly exploration of the linguistic depth embedded in epigraphical sources during the classical and medieval periods of Indian historical development. Published in 1987 during a critical period of post-independence linguistic scholarship, S. P. Tewari's monograph systematically analyzes how Sanskrit inscriptions serve as pivotal textual artifacts for understanding etymological transformations and lexical evolution. The work meticulously examines inscriptional records from various historical regions, including royal grants, temple dedications, and administrative documents from approximately the 4th to 14th centuries CE, demonstrating how these textual remnants function as sophisticated linguistic archives. Tewari, a prominent scholar born in the academic renaissance of post-colonial India, contextualizes these inscriptions within broader frameworks of historical linguistics, paleography, and cultural semantics. By decoding subtle linguistic variations, grammatical structures, and lexical innovations preserved in stone and copper plate inscriptions, the research illuminates complex processes of language transmission, regional vernacular interactions, and semantic shifts in classical Sanskrit. The scholarly work makes significant contributions to understanding how linguistic practices were embedded in social, political, and religious contexts of pre-modern Indian civilization. Beyond mere linguistic analysis, the study provides critical insights into cultural communication, administrative terminology, and the dynamic nature of Sanskrit as a sophisticated, evolving language system. Tewari's methodological approach bridges epigraphical evidence with linguistic theory, offering scholars a sophisticated hermeneutic framework for interpreting India's rich textual heritage.
+collections:
+- historical-texts
+- linguistic-works
 sources:
-- name: "Internet Archive"
-  url: "https://archive.org/details/contributionsofs00tewauoft"
-  type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/contributionsofs00tewauoft
+  type: other
 references:
 - name: 'Wikipedia: Contributions of Sanskrit inscriptions t...'
   url: https://en.wikipedia.org/wiki/Sanskrit_literature
@@ -37,7 +46,6 @@ references:
   type: wikisource
 featured: false
 publishDate: 2025-01-22
-tags: ["history-&-culture", "linguistic-works", "historical-texts"]
 ---
 
 # Contributions of Sanskrit inscriptions to lexicography

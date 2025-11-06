@@ -8,20 +8,18 @@ language:
 genre:
 - Historical Literature
 - Political Writing
-description: A collection of political speeches advocating for Indian self-governance
-  and national unity during British colonial rule. Das presents compelling arguments
-  for democratic reform and Hindu-Muslim cooperation, articulating the growing national
-  consciousness of early twentieth-century India.
+description: |
+  India for Indians: Enlarged Edition represents a pivotal intellectual contribution to the Indian independence movement during the early twentieth century, articulating a nuanced vision of national self-determination during the late colonial period. Authored by Chitta Ranjan Das, a prominent Bengali lawyer, political leader, and key figure in the Indian National Congress, the work compiles critical political speeches that examine the complex dynamics of Indian political sovereignty, inter-communal relations, and democratic transformation. Das strategically addresses the fundamental challenges facing India under British colonial administration, presenting compelling arguments for political reform, Hindu-Muslim unity, and a cohesive national identity that transcends regional and religious divisions. The collection demonstrates Das's sophisticated political philosophy, which emphasized constructive dialogue, constitutional methods, and inclusive nationalism in contrast to more confrontational independence strategies. By analyzing contemporary political structures and proposing substantive governmental reforms, Das illuminates the intellectual currents of India's emerging national consciousness, reflecting the sophisticated political discourse emerging from Bengal's intellectual circles. His writings critically examine colonial governance, advocating for representative institutions, expanded civil liberties, and a collaborative approach to national development that respected India's profound cultural diversity. The work is particularly significant for its nuanced approach to national integration, presenting a vision of Indian unity that acknowledged communal differences while promoting a shared civic and cultural identity. As a historical document, India for Indians provides scholars and researchers crucial insights into the ideological foundations of India's independence movement, documenting the sophisticated political thought that would ultimately shape the nation's trajectory toward democratic self-governance.
 collections:
 - classical-literature
 sources:
-- name: Project Gutenberg
+- name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/45247
   type: other
-- name: Project Gutenberg (HTML)
+- name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/45247.html.images
   type: other
-- name: Internet Archive (India for Indians Enlarged Edition)
+- name: 'Internet Archive (India for Indians Enlarged Edition)'
   url: https://archive.org/details/indiaforindianse45247gut
   type: other
 references:
@@ -33,10 +31,6 @@ references:
   type: other
 featured: false
 publishDate: 2025-11-01
-tags:
-- public domain
-- India -- Politics and government -- 1919-1947
-- Das, Chitta Ranjan
 ---
 
 # India for Indians: Enlarged Edition

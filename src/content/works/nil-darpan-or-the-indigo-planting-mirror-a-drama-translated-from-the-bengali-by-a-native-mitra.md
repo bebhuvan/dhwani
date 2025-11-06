@@ -1,22 +1,27 @@
 ---
-title: "Nil Darpan; or, The Indigo Planting Mirror, A Drama.: Translated from the Bengali by a Native."
-author: ["Mitra, Dinabandhu"]
+title: 'Nil Darpan; or, The Indigo Planting Mirror, A Drama.: Translated from the Bengali by a Native.'
+author:
+- Mitra, Dinabandhu
 year: 1859
-language: ["English"]
-genre: ["Drama", "Historical Literature"]
-description: "A dramatic work depicting the plight of Bengali peasants under the oppressive Indigo plantation system, highlighting struggles against exploitation and injustice in colonial India."
-collections: ["sanskrit-drama"]
+language:
+- English
+genre:
+- Drama
+- Historical Literature
+description: |
+  During the tumultuous mid-19th century, when British colonial rule was systematically transforming India's agrarian landscape, Dinabandhu Mitra's landmark dramatic work Nil Darpan emerged as a pivotal cultural artifact documenting the complex socio-economic struggles of Bengali peasants under the exploitative indigo plantation system. Published in 1859, the work represents a critical moment in Bengal's literary and political resistance against colonial economic practices, providing an uncompromising dramatic representation of the oppression faced by rural cultivators. Mitra, a prominent Bengali playwright and social reformer, drew from actual historical experiences of peasant communities in Bengal to construct a nuanced narrative that exposed the brutal mechanisms of colonial agricultural exploitation. The drama meticulously depicts the economic coercion, physical violence, and legal manipulation employed by British indigo planters to force Bengali farmers into cultivating indigo at tremendous personal cost, effectively rendering their traditional agricultural practices and economic autonomy impossible. By dramatizing these systemic injustices, Nil Darpan became more than a literary text—it functioned as a powerful instrument of social critique and anti-colonial consciousness, contributing significantly to the emerging nationalist discourse challenging imperial economic structures. The work's translation into English facilitated broader circulation and awareness, making it an important document in understanding colonial-era power dynamics, resistance strategies, and the intersection of literature with social transformation. As a pioneering example of engaged dramatic literature, Nil Darpan represents a crucial moment in Bengali literary tradition, where aesthetic expression became a potent form of political resistance and cultural self-representation.
+collections:
+- sanskrit-drama
 sources:
-- name: "Project Gutenberg"
-  url: "https://www.gutenberg.org/ebooks/54027"
-  type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/54027
+  type: other
+references:
+- name: 'Open Library: Nil Darpan; or, The Indigo Planting Mirror, A Drama.: Transl...'
+  url: https://openlibrary.org/search?q=Nil+Darpan%3B+or%2C+The+Indigo+Planting+Mirror%2C+A+Drama.%3A+Translated+from+the+Bengal+Mitra
+  type: other
 featured: false
 publishDate: 2025-11-01
-tags: ["public domain", "Mitra, Dinabandhu", "Indian drama"]
-references:
-- name: "Open Library: Nil Darpan; or, The Indigo Planting Mirror, A Drama.: Transl..."
-  url: "https://openlibrary.org/search?q=Nil+Darpan%3B+or%2C+The+Indigo+Planting+Mirror%2C+A+Drama.%3A+Translated+from+the+Bengal+Mitra"
-  type: "other"
 ---
 
 # Nil Darpan; or, The Indigo Planting Mirror, A Drama.: Translated from the Bengali by a Native.

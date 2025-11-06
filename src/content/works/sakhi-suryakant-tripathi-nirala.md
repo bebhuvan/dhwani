@@ -1,31 +1,37 @@
 ---
-title: "Sakhi"
-author: ["Suryakant Tripathi 'Nirala'"]
+title: 'Sakhi'
+author:
+- Suryakant Tripathi 'Nirala'
 year: 1935
-language: ["Hindi"]
-genre: ["Poetry", "Chhayavad", "Free Verse"]
-description: "Hindi lyric collection employing sustained sakhi (confidante) address in free-verse Chhayavad idiom, interweaving introspection, ethical argument, and social observation within modernist experimentation that reshaped Hindi prosody during the interwar period."
-collections: ['modern-literature']
+language:
+- Hindi
+genre:
+- Poetry
+- Chhayavad
+- Free Verse
+description: |
+  Suryakant Tripathi 'Nirala's "Sakhi" represents a pivotal modernist intervention in Hindi poetry during the crucial interwar period (1920-1940), emblematic of the Chhayavad movement's radical aesthetic and philosophical transformation. Composed in 1935, the lyric collection innovatively employs the traditional sakhi (confidante) poetic trope to articulate complex psychological landscapes, social critique, and philosophical introspection through a distinctively experimental free-verse idiom. Nirala, a foundational figure in modern Hindi literature, strategically reimagines the classical poetic convention of addressing an intimate female confidante as a multilayered narrative device, exploring interior emotional terrains while simultaneously engaging broader social and ethical discourses. The work's structural and linguistic innovations significantly reshaped Hindi prosody, challenging conventional metrical constraints and introducing a more fluid, psychologically nuanced poetic expression. Thematically, "Sakhi" explores individual consciousness, gender dynamics, spiritual questioning, and socio-cultural transformation characteristic of early 20th-century Indian intellectual movements. By integrating personal introspection with collective social observation, Nirala's poetry transcends mere lyrical expression, becoming a profound meditation on identity, modernization, and cultural transition during a pivotal moment of nationalist self-understanding. The collection exemplifies the Chhayavad movement's commitment to psychological depth, symbolic complexity, and linguistic experimentalism, positioning itself as a critical intervention in Indian literary modernity and representing a sophisticated dialogue between traditional poetic forms and emergent modernist sensibilities.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive (DLI Collection)"
-    url: "https://archive.org/details/dli.ernet.522400"
-    type: "other"
-  - name: "Hindwi - Nirala Poetry Collection"
-    url: "https://www.hindwi.org/poets/surykant-tripathi-nirala/all"
-    type: "other"
+- name: 'Internet Archive (DLI Collection)'
+  url: https://archive.org/details/dli.ernet.522400
+  type: other
+- name: 'Hindwi - Nirala Poetry Collection'
+  url: https://www.hindwi.org/poets/surykant-tripathi-nirala/all
+  type: other
 references:
-  - name: "Wikipedia: Suryakant Tripathi"
-    url: "https://en.wikipedia.org/wiki/Suryakant_Tripathi"
-    type: "wikipedia"
-  - name: "Open Library search"
-    url: "https://openlibrary.org/search?q=Sakhi%20Suryakant%20Tripathi%20Nirala"
-    type: "openlibrary"
-  - name: "Project Gutenberg search"
-    url: "https://www.gutenberg.org/ebooks/search/?query=Suryakant%20Tripathi%20Nirala"
-    type: "other"
+- name: 'Wikipedia: Suryakant Tripathi'
+  url: https://en.wikipedia.org/wiki/Suryakant_Tripathi
+  type: wikipedia
+- name: 'Open Library search'
+  url: https://openlibrary.org/search?q=Sakhi%20Suryakant%20Tripathi%20Nirala
+  type: openlibrary
+- name: 'Project Gutenberg search'
+  url: https://www.gutenberg.org/ebooks/search/?query=Suryakant%20Tripathi%20Nirala
+  type: other
 featured: false
 publishDate: 2025-11-01
-tags: ["Hindi Poetry", "Chhayavad", "Nirala", "Modernist Poetry", "Free Verse", "20th Century Literature", "Indian Poetry"]
 ---
 
 # Sakhi

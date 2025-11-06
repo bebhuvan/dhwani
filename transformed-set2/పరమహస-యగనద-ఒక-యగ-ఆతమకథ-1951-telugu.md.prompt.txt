@@ -1,0 +1,20 @@
+Generate a scholarly description (150-300 words) for this work:
+
+Title: ఒక యోగి ఆత్మకథ
+Author: పరమహంస యోగానంద
+Year: 1951
+Language: English
+Topics: Not specified
+
+Current description: ఒక యోగి ఆత్మకథ (1951), tel. By పరమహంస యోగానంద. Autobiography of a Yogi by Paramahansa Yogananda is a spiritual classic published in 1946. It recounts Yogananda's life, his search for his guru, and his teachings on Kriya Yoga. The book has introduced many to meditation and yoga and has been influential in both Eastern and Western spiritual circles. It has been translated into over fifty languages and continues to be widely read. Notable admirers have included Steve Jobs, George Harrison, and Elvis Presley.
+
+Requirements:
+- Scholarly tone without marketing fluff
+- Explain historical context and significance
+- Mention key themes or contributions
+- Explain relevance to Indian literary/cultural heritage
+- If this is about India, emphasize that connection
+- If not directly Indian, explain its relevance to Indian studies
+- No superlatives without substance
+
+Format: Single paragraph, 150-300 words.

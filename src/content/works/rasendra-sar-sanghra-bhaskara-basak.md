@@ -1,28 +1,37 @@
 ---
-title: "Rasendra Sar Sanghra (রাসেন্দ্র সার সংগ্রহ) Vol. 1"
-author: ["Bhaskara (Original)", "Translated by Bhuban Chandra Basak"]
+title: 'Rasendra Sar Sanghra (রাসেন্দ্র সার সংগ্রহ) Vol. 1'
+author:
+- Bhaskara (Original)
+- Translated by Bhuban Chandra Basak
 year: 1886
-language: ["Sanskrit", "Bengali"]
-genre: ["Rasa Shastra", "Alchemy", "Pharmaceutical Chemistry"]
-description: "Specialized treatise on rasendra (mineral and metallic chemistry/alchemy) from traditional Indian knowledge systems. Contains detailed procedures for purification, transformation, and therapeutic application of minerals including mercury, sulfur, and various metals in medicinal preparations. Represents rigorous experimentation in early pharmacological science, documenting sophisticated chemical processes and metallurgical knowledge in medieval Indian medicine."
-collections: ['scientific-texts', 'ancient-wisdom']
+language:
+- Sanskrit
+- Bengali
+genre:
+- Rasa Shastra
+- Alchemy
+- Pharmaceutical Chemistry
+description: |
+  The Rasendra Sar Sanghra represents a critical scholarly compilation within the intricate domain of medieval Indian Rasa Shastra, a sophisticated scientific tradition bridging chemical knowledge, medicinal practice, and philosophical understanding of material transformations. Authored during the late 14th-15th centuries, this seminal work emerges from a sophisticated intellectual milieu where Ayurvedic medical scholarship intersected with advanced metallurgical and alchemical practices. Bhaskara, the original scholar, systematically documented complex procedures for mineral and metallic transmutation, particularly focusing on substances like mercury (parada), sulfur, and various metallic compounds that held both therapeutic and metaphysical significance in traditional Indian scientific epistemologies. The treatise provides meticulous documentation of chemical purification techniques, therapeutic mineral preparations, and experimental protocols that demonstrate remarkable empirical sophistication for its historical period. Beyond mere technical instruction, the text reflects broader cultural paradigms of knowledge production in medieval India, where scientific inquiry was deeply intertwined with philosophical and spiritual frameworks. By comprehensively cataloging chemical processes, medicinal applications, and transformative techniques, Rasendra Sar Sanghra serves as a critical historical artifact illuminating the advanced technological and medical understanding of pre-colonial Indian scholars. Its systematic approach to understanding material properties, therapeutic interventions, and chemical metamorphosis represents a nuanced intellectual tradition that challenges simplistic narratives about scientific development in non-European contexts, positioning Indian knowledge systems as rigorous, methodical, and profoundly innovative. The work stands as a testament to the depth and complexity of Indian scientific scholarship, bridging empirical observation with holistic philosophical perspectives on health, transformation, and material understanding.
+collections:
+- scientific-texts
+- ancient-wisdom
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/dli.bengal.10689.452"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/dli.bengal.10689.452
+  type: other
 references:
-  - name: "Wikipedia: Rasa shastra"
-    url: "https://en.wikipedia.org/wiki/Rasa_shastra"
-    type: "wikipedia"
-  - name: "Wikipedia: Alchemy"
-    url: "https://en.wikipedia.org/wiki/Alchemy"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Rasendra+Rasa+shastra&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Rasa shastra'
+  url: https://en.wikipedia.org/wiki/Rasa_shastra
+  type: wikipedia
+- name: 'Wikipedia: Alchemy'
+  url: https://en.wikipedia.org/wiki/Alchemy
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Rasendra+Rasa+shastra&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Rasa shastra", "Alchemy", "Mercury", "Mineral chemistry", "Ayurveda", "Pharmaceutical science", "Metallurgy", "Traditional medicine", "Chemical processes", "19th century", "Bengali translation", "Bhaskara"]
 ---
 
 # Rasendra Sar Sanghra (রাসেন্দ্র সার সংগ্রহ) Vol. 1

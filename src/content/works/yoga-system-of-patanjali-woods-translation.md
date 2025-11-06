@@ -1,31 +1,47 @@
 ---
-title: "The Yoga-System of Patañjali: Or, The Ancient Hindu Doctrine of Concentration of Mind"
-author: ["Patañjali", "commentary by Vyāsa", "sub-commentary by Vācaspati Miśra", "tr. James Haughton Woods"]
+title: 'The Yoga-System of Patañjali: Or, The Ancient Hindu Doctrine of Concentration of Mind'
+author:
+- Patañjali
+- commentary by Vyāsa
+- sub-commentary by Vācaspati Miśra
+- tr. James Haughton Woods
 year: 1914
-language: ["English", "Sanskrit"]
-genre: ["Philosophy", "Religious Literature", "Classical Literature"]
-description: "The Yoga-System of Patañjali, translated by James Haughton Woods in 1914, represents one of the most scholarly and comprehensive English presentations of classical yoga philosophy. This work encompasses Patañjali's foundational Yoga Sutras (written around 2nd century BCE to 2nd century CE), Vyāsa's authoritative commentary (Yoga-bhāṣya, c."
-collections: ['ancient-wisdom', 'spiritual-texts', 'classical-literature']
+language:
+- English
+- Sanskrit
+genre:
+- Philosophy
+- Religious Literature
+- Classical Literature
+description: |
+  The Yoga-System of Patañjali represents a foundational text in classical Indian philosophical and spiritual thought, systematizing the philosophical and practical dimensions of yoga within the broader Samkhya philosophical tradition. Composed during the pivotal period between the 2nd century BCE and 2nd century CE, this seminal work integrates complex metaphysical concepts with pragmatic techniques of mental concentration and spiritual liberation. Patañjali's text, known as the Yoga Sūtras, is structured as a concise philosophical treatise comprising four chapters that methodically outline the psychological and soteriological principles of classical yoga. The work is distinguished by its sophisticated analysis of mental processes, consciousness, and the systematic path toward spiritual transcendence.
+  
+  The text is particularly significant for its comprehensive exposition of aṣṭāṅga yoga (eight-limbed yoga), which delineates a holistic approach to spiritual transformation through ethical discipline, physical practices, breath control, sensory withdrawal, concentration, meditation, and ultimate meditative absorption. Vyāsa's authoritative commentary (Yoga-bhāṣya) and subsequent sub-commentaries by scholars like Vācaspati Miśra further enriched the philosophical discourse, establishing a robust hermeneutical tradition that interpreted yoga's profound psychological and metaphysical insights.
+  
+  James Haughton Woods' 1914 translation represented a landmark scholarly effort to render this complex Sanskrit philosophical text accessible to Western academic audiences, facilitating cross-cultural philosophical dialogue and contributing significantly to the global understanding of classical Indian philosophical systems. The work remains a critical resource for scholars of Indian philosophy, religious studies, comparative mysticism, and contemplative sciences, offering deep insights into the sophisticated psychological technologies developed within the classical Indian intellectual tradition.
+collections:
+- ancient-wisdom
+- spiritual-texts
+- classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/yogasystemofpata00wooduoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/yogasystemofpata00wooduoft
+  type: other
 references:
-  - name: "Wikipedia: Yoga Sutras of Patanjali"
-    url: "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali"
-    type: "wikipedia"
-  - name: "Wikipedia: Vyasa"
-    url: "https://en.wikipedia.org/wiki/Vyasa"
-    type: "wikipedia"
-  - name: "Wikipedia: Vācaspati Miśra"
-    url: "https://en.wikipedia.org/wiki/V%C4%81chaspati_Misra"
-    type: "wikipedia"
-  - name: "Open Library: The Yoga-System of Patañjali"
-    url: "https://openlibrary.org/search?q=The+Yoga-System+of+Patañjali+Or+The+Patañjali"
-    type: "other"
+- name: 'Wikipedia: Yoga Sutras of Patanjali'
+  url: https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali
+  type: wikipedia
+- name: 'Wikipedia: Vyasa'
+  url: https://en.wikipedia.org/wiki/Vyasa
+  type: wikipedia
+- name: 'Wikipedia: Vācaspati Miśra'
+  url: https://en.wikipedia.org/wiki/V%C4%81chaspati_Misra
+  type: wikipedia
+- name: 'Open Library: The Yoga-System of Patañjali'
+  url: https://openlibrary.org/search?q=The+Yoga-System+of+Patañjali+Or+The+Patañjali
+  type: other
 featured: true
 publishDate: 2025-10-30
-tags: ['classical-literature', 'philosophy', 'religious']
 ---
 
 ## Woods' Philological Approach and Scholarly Apparatus

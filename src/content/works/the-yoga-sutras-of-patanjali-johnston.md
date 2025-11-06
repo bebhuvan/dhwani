@@ -1,31 +1,41 @@
 ---
-title: "The Yoga Sutras of Patanjali: The Book of the Spiritual Man"
-author: ["Patañjali", "Charles Johnston (translator)"]
+title: 'The Yoga Sutras of Patanjali: The Book of the Spiritual Man'
+author:
+- Patañjali
+- Charles Johnston (translator)
 year: 1912
-language: ["English", "Sanskrit"]
-genre: ["Philosophy", "Spiritual Literature", "Translation"]
-description: "Charles Johnston's 1912 Theosophically-framed translation of Patanjali's Yoga Sutras as 'The Book of the Spiritual Man' was the first major English rendering, presenting yoga philosophy through Western esoteric spirituality."
-collections: ["spiritual-texts", "classical-literature", "modern-literature"]
+language:
+- English
+- Sanskrit
+genre:
+- Philosophy
+- Spiritual Literature
+- Translation
+description: |
+  Charles Johnston's 1912 translation of Patanjali's Yoga Sutras represents a pivotal moment in cross-cultural philosophical transmission during the late classical period of Sanskrit intellectual discourse. Compiled approximately between 400-500 CE, the text emerged from the Samkhya philosophical tradition, offering a systematic exploration of consciousness, meditative practices, and the intricate relationship between mind, body, and spiritual experience. Patanjali, often considered more of a compiler than an individual author, synthesized existing yogic knowledge into 196 succinct aphorisms (sutras) that articulate a comprehensive psychological and metaphysical framework for understanding human perception and transcendence. Johnston's translation was particularly significant in contextualizing yoga beyond its physical practices, presenting it as a sophisticated philosophical technology for psychological integration and spiritual development. The work delineates eight progressive stages of yogic practice (ashtanga), including ethical principles (yama and niyama), physical postures (asana), breath control (pranayama), sensory withdrawal (pratyahara), concentration (dharana), meditation (dhyana), and ultimate contemplative absorption (samadhi). By rendering these complex metaphysical concepts accessible to English-speaking audiences, Johnston facilitated a nuanced understanding of Indian contemplative sciences during an era of emerging global intellectual exchange. The translation simultaneously illuminated classical Hindu philosophical perspectives and responded to Western intellectual curiosity about Eastern spiritual technologies, bridging epistemological traditions and contributing significantly to comparative religious and philosophical studies. Johnston's scholarly approach preserved the text's philosophical rigor while making its profound psychological insights available to a broader international readership.
+collections:
+- spiritual-texts
+- classical-literature
+- modern-literature
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/2526"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/yogasutrasofpata00pata"
-    type: "other"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=The+Yoga+Sutras+of+Patanjali%3A+The+Book+of+the+Spiritual+Man+by+Pata%C3%B1jali&mode=everything"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/2526
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/yogasutrasofpata00pata
+  type: other
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=The+Yoga+Sutras+of+Patanjali%3A+The+Book+of+the+Spiritual+Man+by+Pata%C3%B1jali&mode=everything
+  type: other
 references:
-  - name: "Wikipedia: Patanjali"
-    url: "https://en.wikipedia.org/wiki/Patanjali"
-    type: "wikipedia"
-  - name: "Wikipedia: Charles Johnston (Theosophist)"
-    url: "https://en.wikipedia.org/wiki/Charles_Johnston_(Theosophist)"
-    type: "wikipedia"
+- name: 'Wikipedia: Patanjali'
+  url: https://en.wikipedia.org/wiki/Patanjali
+  type: wikipedia
+- name: 'Wikipedia: Charles Johnston (Theosophist)'
+  url: https://en.wikipedia.org/wiki/Charles_Johnston_(Theosophist)
+  type: wikipedia
 featured: true
 publishDate: 2025-10-04
-tags: ["Yoga Sutras", "Patanjali", "Charles Johnston", "Theosophy", "spiritual philosophy", "meditation", "consciousness", "Sanskrit translation", "mysticism", "early 20th century", "yoga philosophy", "Western esotericism"]
 ---
 
 # The Yoga Sutras of Patanjali: The Book of the Spiritual Man

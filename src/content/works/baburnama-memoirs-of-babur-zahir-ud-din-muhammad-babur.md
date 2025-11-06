@@ -1,31 +1,39 @@
 ---
-title: "The Bābur-nāma (Memoirs of Bābur)"
-author: ["Ẓahīr-ud-Dīn Muḥammad Bābur", "tr. Annette Susannah Beveridge"]
+title: 'The Bābur-nāma (Memoirs of Bābur)'
+author:
+- Ẓahīr-ud-Dīn Muḥammad Bābur
+- tr. Annette Susannah Beveridge
 year: 1922
-language: ["English", "Chagatai Turkic"]
-genre: ["Autobiography", "Historical Literature", "Military History"]
-description: "Annette Beveridge's 1922 English translation of Babur's Chagatai Turkic memoirs (1494-1529), chronicling the founder of the Mughal Empire from his conquest of Ferghana at age twelve through his victories at Panipat (1526) and establishment of Mughal rule in India."
-collections: ['modern-literature']
+language:
+- English
+- Chagatai Turkic
+genre:
+- Autobiography
+- Historical Literature
+- Military History
+description: |
+  The Bābur-nāma represents a foundational text in Mughal historiography, offering an unparalleled first-person account of imperial transition and cultural transformation in South Asia during the early 16th century. Authored by Ẓahīr-ud-Dīn Muḥammad Bābur, a sophisticated royal polymath descended from both Timur and Genghis Khan, these memoirs chronicle his extraordinary journey from a dispossessed Timurid prince in Central Asia to the architect of a transformative imperial dynasty in the Indian subcontinent. Written originally in Chagatai Turkic and meticulously translated by Annette Beveridge in 1922, the text provides nuanced insights into military strategies, personal reflections, ethnographic observations, and the complex geopolitical dynamics of a pivotal historical moment. Beyond a mere military chronicle, the Bābur-nāma illuminates the intellectual and cultural sensibilities of a multilingual, cosmopolitan ruler who brought sophisticated Persianate and Turko-Mongol cultural practices to the Indian landscape. Bābur's candid narratives detail not only his strategic conquests—including the seminal battles of Panipat and Khanwa—but also his personal struggles, philosophical contemplations, and keen anthropological observations about the territories and peoples he encountered. The memoir serves as a critical textual bridge between Perso-Turkic Central Asian political traditions and emerging Mughal imperial configurations in India, representing a pivotal moment of transcultural exchange and political reconfiguration. Its literary and historical significance extends far beyond military documentation, offering scholars and readers a rich, multidimensional portrait of an emergent imperial consciousness at the dawn of early modern South Asian history.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/baburnamainengli01babuuoft"
-    type: "other"
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/files/44608/44608-h/44608-h.htm"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/baburnamainengli01babuuoft
+  type: other
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/files/44608/44608-h/44608-h.htm
+  type: other
 references:
-  - name: "Wikipedia: Baburnama"
-    url: "https://en.wikipedia.org/wiki/Baburnama"
-    type: "wikipedia"
-  - name: "Wikipedia: Babur"
-    url: "https://en.wikipedia.org/wiki/Babur"
-    type: "wikipedia"
-  - name: "Open Library: The Bābur-nāma (Memoirs of"
-    url: "https://openlibrary.org/search?q=The+Bābur-nāma+Memoirs+of+Bābur+year+Ẓahīr-ud-Dīn+Muḥammad+Bābur"
-    type: "other"
+- name: 'Wikipedia: Baburnama'
+  url: https://en.wikipedia.org/wiki/Baburnama
+  type: wikipedia
+- name: 'Wikipedia: Babur'
+  url: https://en.wikipedia.org/wiki/Babur
+  type: wikipedia
+- name: 'Open Library: The Bābur-nāma (Memoirs of'
+  url: https://openlibrary.org/search?q=The+Bābur-nāma+Memoirs+of+Bābur+year+Ẓahīr-ud-Dīn+Muḥammad+Bābur
+  type: other
 featured: true
 publishDate: 2025-10-30
-tags: ['historical-texts']
 ---
 
 ## Overview

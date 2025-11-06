@@ -1,25 +1,29 @@
 ---
-title: "Sva"
-author: ["George C. M. Birdwood"]
+title: 'Sva'
+author:
+- George C. M. Birdwood
 year: 1915
-language: ["English"]
-genre: ["Literature"]
-description: "Birdwood (1915) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage. This work offers valuable insights into the British Raj period, featuring independence movements, cultural renaissance, and literary awakening."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Literature
+description: |
+  George C. M. Birdwood's 1915 work "Sva" emerges as a significant scholarly text exploring the complex cultural and intellectual landscape of Colonial India during the late British Raj period. Written during a critical transitional moment in Indian history, the work provides nuanced observations about the intellectual and cultural dynamics of the early 20th century. Birdwood, a prominent British colonial administrator and scholar with extensive experience in India, offers sophisticated insights into the intersecting domains of indigenous knowledge systems, literary traditions, and emerging nationalist discourses. The text critically examines the intellectual renaissance occurring in India, particularly focusing on the transformative cultural movements that were challenging colonial epistemologies while simultaneously preserving and reinterpreting traditional knowledge frameworks. By documenting the intricate social and intellectual networks of the period, Birdwood contributes a scholarly perspective that bridges colonial administrative understanding with deeper anthropological and cultural analysis. The work is particularly significant for its documentation of the intellectual ferment preceding India's independence movement, capturing the complex negotiations between indigenous intellectual traditions and colonial modernity. Its scholarly approach provides researchers and historians with valuable primary source material about the cultural and intellectual transitions occurring in early 20th-century India. Birdwood's methodological approach, which combines historical documentation, cultural analysis, and anthropological observation, makes "Sva" an important text for understanding the nuanced intellectual and cultural transformations of Colonial India during a pivotal historical moment.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/birdwoodsva00birdrich/page/n9/mode/2up"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/birdwoodsva00birdrich/page/n9/mode/2up
+  type: other
 references:
-  - name: "Wikipedia: George Birdwood"
-    url: "https://en.wikipedia.org/wiki/George_Birdwood"
-    type: "wikipedia"
-  - name: "Open Library: Sva year"
-    url: "https://openlibrary.org/search?q=Sva+year+1915+language+English+genre+George+C+M+Birdwood"
-    type: "other"
+- name: 'Wikipedia: George Birdwood'
+  url: https://en.wikipedia.org/wiki/George_Birdwood
+  type: wikipedia
+- name: 'Open Library: Sva year'
+  url: https://openlibrary.org/search?q=Sva+year+1915+language+English+genre+George+C+M+Birdwood
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 ## George Christopher Molesworth Birdwood and Indian Industrial Arts

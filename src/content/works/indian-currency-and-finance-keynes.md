@@ -1,34 +1,41 @@
 ---
-title: "Indian Currency and Finance"
-author: ["John Maynard Keynes"]
+title: 'Indian Currency and Finance'
+author:
+- John Maynard Keynes
 year: 1913
-language: ["English"]
-genre: ["Political Economy", "Economic Treatise"]
-description: "Written by Keynes during and after his tenure at the India Office (1906-1908), this treatise examines India's transition from a silver-based currency system to a gold-exchange standard. Keynes argues for maintaining India's gold-exchange standard over adopting a full gold standard, analyzing the rupee-sterling exchange rate, government reserve management policies, and the operation of paper currency versus metallic currency."
-collections: ['colonial-india', 'political-philosophy', 'reference-texts']
+language:
+- English
+genre:
+- Political Economy
+- Economic Treatise
+description: |
+  Indian Currency and Finance, published in 1913, is a seminal economic treatise by John Maynard Keynes that provides a comprehensive analysis of India's monetary systems during the late colonial period. Written during his early career while working at the India Office between 1906 and 1908, the work emerged at a critical juncture of British imperial economic policy and Indian financial transformation. Keynes meticulously examines India's complex transition from a traditional silver-based currency system to a sophisticated gold-exchange standard, offering nuanced insights into the macroeconomic mechanisms of colonial financial administration. The treatise critically analyzes the rupee-sterling exchange rate, government reserve management strategies, and the intricate dynamics between paper and metallic currency systems. Beyond its technical economic analysis, the work provides a profound window into the structural economic relationships within the British colonial framework, revealing how monetary policies were instrumental in maintaining imperial economic control. Keynes argues persuasively for maintaining a gold-exchange standard rather than adopting a full gold standard, demonstrating sophisticated understanding of India's unique economic landscape. His scholarly approach synthesizes empirical data, historical context, and theoretical economic principles, making this work a foundational text in understanding Indian economic development during the early 20th century. The treatise not only contributes to economic scholarship but also serves as a critical historical document illuminating the complex intersections of colonial financial policy, indigenous economic structures, and imperial monetary governance. For scholars of Indian economic history, colonial studies, and monetary theory, Keynes's work remains an essential reference point for comprehending the intricate economic transformations of pre-independence India.
+collections:
+- colonial-india
+- political-philosophy
+- reference-texts
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/49166"
-    type: "other"
-  - name: "Internet Archive (University of Toronto)"
-    url: "https://archive.org/details/indiancurrencyfi00keynuoft"
-    type: "other"
-  - name: "Internet Archive (Additional Copy)"
-    url: "https://archive.org/details/indiancurrencyan014875mbp"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/49166
+  type: other
+- name: 'Internet Archive (University of Toronto)'
+  url: https://archive.org/details/indiancurrencyfi00keynuoft
+  type: other
+- name: 'Internet Archive (Additional Copy)'
+  url: https://archive.org/details/indiancurrencyan014875mbp
+  type: other
 references:
-  - name: "Open Library"
-    url: "https://openlibrary.org/books/OL176684M/Indian_currency_and_finance"
-    type: "other"
-  - name: "Wikipedia: John Maynard Keynes"
-    url: "https://en.wikipedia.org/wiki/John_Maynard_Keynes"
-    type: "wikipedia"
-  - name: "Wikipedia: Gold Standard"
-    url: "https://en.wikipedia.org/wiki/Gold_standard"
-    type: "wikipedia"
+- name: 'Open Library'
+  url: https://openlibrary.org/books/OL176684M/Indian_currency_and_finance
+  type: other
+- name: 'Wikipedia: John Maynard Keynes'
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
+  type: wikipedia
+- name: 'Wikipedia: Gold Standard'
+  url: https://en.wikipedia.org/wiki/Gold_standard
+  type: wikipedia
 featured: false
 publishDate: 2025-10-27
-tags: ["gold-exchange-standard", "monetary-policy", "British-India", "colonial-economics", "rupee", "currency-reform", "central-banking", "international-finance", "reserve-management", "India-Office", "Royal-Commission", "silver-standard", "historical-texts", "20th-century", "macmillan"]
 ---
 
 # Indian Currency and Finance

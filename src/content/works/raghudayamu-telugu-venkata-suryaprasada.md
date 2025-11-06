@@ -1,28 +1,36 @@
 ---
-title: "Raghudayamu (రఘూదయము)"
-author: ["Tripurana Venkata Suryaprasada Rayakavi", "Edited by Purana Suryanarayana Tirtha"]
+title: 'Raghudayamu (రఘూదయము)'
+author:
+- Tripurana Venkata Suryaprasada Rayakavi
+- Edited by Purana Suryanarayana Tirtha
 year: 1924
-language: ["Telugu"]
-genre: ["Historical Epic", "Mahakavya", "Poetry"]
-description: "Telugu historical epic (mahakavya) documenting the genealogy and exploits of the Pallava dynasty rulers of South India. Provides valuable primary source material on medieval South Indian history through classical Telugu poetic conventions. Demonstrates sophisticated literary traditions of early 20th-century Andhra Pradesh scholarship, preserving regional historical narratives rarely accessible outside specialized academic circles."
-collections: ['regional-literature', 'historical-texts']
+language:
+- Telugu
+genre:
+- Historical Epic
+- Mahakavya
+- Poetry
+description: |
+  Raghudayamu is a significant Telugu mahakavya (historical epic poem) that offers a comprehensive scholarly exploration of the Pallava dynasty's historical and cultural legacy during the early medieval period of South India. Composed by Tripurana Venkata Suryaprasada Rayakavi in 1924 and meticulously edited by Purana Suryanarayana Tirtha, the work represents a sophisticated articulation of regional historical narrative through classical Telugu poetic conventions. The epic synthesizes genealogical documentation, historical chronicle, and literary aesthetic, providing nuanced insights into the socio-political dynamics of the Pallava kingdom, which played a crucial role in developing South Indian cultural and political institutions between the 3rd and 9th centuries CE. Through elaborate poetic structures characteristic of the mahakavya genre, the text reconstructs royal lineages, diplomatic interactions, military campaigns, and cultural achievements with remarkable scholarly precision. The work is particularly valuable for its preservation of regional historical memory during a period of significant cultural transformation, bridging pre-colonial historical traditions with early 20th-century scholarly methodologies. By employing sophisticated literary techniques, including complex metrical compositions, elaborate metaphorical language, and intricate narrative strategies, Rayakavi transforms historical documentation into a profound artistic expression that simultaneously serves as a historical source and a literary masterpiece. Raghudayamu exemplifies the intellectual sophistication of early 20th-century Andhra Pradesh's scholarly traditions, demonstrating how regional literary practices could encode complex historical knowledge while maintaining aesthetic excellence, thus making critical contributions to understanding South Indian cultural heritage and historical consciousness.
+collections:
+- regional-literature
+- historical-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.497505"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.497505
+  type: other
 references:
-  - name: "Wikipedia: Pallava dynasty"
-    url: "https://en.wikipedia.org/wiki/Pallava_dynasty"
-    type: "wikipedia"
-  - name: "Wikipedia: Telugu literature"
-    url: "https://en.wikipedia.org/wiki/Telugu_literature"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Raghudayamu+Telugu&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Pallava dynasty'
+  url: https://en.wikipedia.org/wiki/Pallava_dynasty
+  type: wikipedia
+- name: 'Wikipedia: Telugu literature'
+  url: https://en.wikipedia.org/wiki/Telugu_literature
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Raghudayamu+Telugu&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Raghudayamu", "Telugu literature", "Pallava dynasty", "South Indian history", "Historical epic", "Mahakavya", "Andhra Pradesh", "1924", "Regional history", "Telugu poetry", "Medieval India", "Dynastic history"]
 ---
 
 # Raghudayamu (రఘూదయము)

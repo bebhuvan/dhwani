@@ -1,37 +1,47 @@
 ---
-title: "Markandeya Purana (with Devi Mahatmya)"
-author: ["Vyasa (attributed)"]
+title: 'Markandeya Purana (with Devi Mahatmya)'
+author:
+- Vyasa (attributed)
 year: 400
-language: ["Sanskrit", "English"]
-genre: ["Religious Texts", "Mythology", "Devotional Literature"]
-description: "The Markandeya Purana stands among the eighteen Mahapuranas as the oldest and most eclectic, containing the foundational Shakta text Devi Mahatmya (Glory of the Goddess) that established theological foundations for Goddess worship across Hindu traditions. Composed between 250-550 CE, this Purana of approximately 9,000 verses comprises cosmology, mythology, dharma teachings, and most significantly, chapters 81-93 containing the Devi Mahatmya (also called Durga Saptashati or Chandi Path)—700 verses narrating how the supreme Goddess Durga/Chandika defeats demons Madhu-Kaitabha, Mahishasura, and Shumbha-Nishumbha, establishing her as Shakti (cosmic power) underlying all existence. B. Hale Wortham's translation of Books VII-VIII made the Devi Mahatmya accessible to English readers, revealing sophisticated Shakta theology where feminine divine power creates, sustains, and destroys the universe. The text's influence on Hindu Goddess worship, Tantric philosophy, and devotional movements proves foundational, inspiring art, liturgy, and theology across centuries."
-collections: ['religious-texts', 'devotional-literature', 'classical-literature', 'ancient-wisdom']
+language:
+- Sanskrit
+- English
+genre:
+- Religious Texts
+- Mythology
+- Devotional Literature
+description: |
+  The Markandeya Purana is a Sanskrit text composed between 250-550 CE, situated among the eighteen Mahapuranas and distinguished by its comprehensive religious and philosophical content. Approximately 9,000 verses long, the text provides detailed explorations of cosmology, mythology, and dharma teachings. Its most significant component is chapters 81-93, which contain the Devi Mahatmya (Glory of the Goddess), a 700-verse theological narrative central to Shakta traditions. The text systematically narrates the divine feminine power's cosmological role through accounts of the Goddess Durga/Chandika defeating demons Madhu-Kaitabha, Mahishasura, and Shumbha-Nishumbha. Scholars have documented the work's substantial influence on Hindu theological developments, particularly in conceptualizing divine feminine power as a generative, sustaining, and destructive cosmic principle. B. Hale Wortham's translation of Books VII-VIII critically expanded scholarly access to the text's complex theological arguments, revealing intricate philosophical constructions of feminine divine energy. Academically, the Markandeya Purana has been recognized for its systematic articulation of Shakta philosophical principles, providing extensive documentation of theological transformations in Hindu religious thought during the early medieval period. The text's sustained scholarly significance is evident in its continued citation in comparative religious studies, theological research, and anthropological analyses of Hindu conceptual frameworks.
+collections:
+- religious-texts
+- devotional-literature
+- classical-literature
+- ancient-wisdom
 sources:
-  - name: "Project Gutenberg (B. Hale Wortham translation, Books VII-VIII)"
-    url: "https://www.gutenberg.org/ebooks/7169"
-    type: "other"
-  - name: "Internet Archive (various editions)"
-    url: "https://archive.org/details/markandeyapurana00pargoog"
-    type: "other"
+- name: 'Project Gutenberg (B. Hale Wortham translation, Books VII-VIII)'
+  url: https://www.gutenberg.org/ebooks/7169
+  type: other
+- name: 'Internet Archive (various editions)'
+  url: https://archive.org/details/markandeyapurana00pargoog
+  type: other
 references:
-  - name: "Wikipedia: Markandeya Purana"
-    url: "https://en.wikipedia.org/wiki/Markandeya_Purana"
-    type: "wikipedia"
-  - name: "Wikipedia: Devi Mahatmya"
-    url: "https://en.wikipedia.org/wiki/Devi_Mahatmya"
-    type: "wikipedia"
-  - name: "Wikipedia: Durga"
-    url: "https://en.wikipedia.org/wiki/Durga"
-    type: "wikipedia"
-  - name: "Wikipedia: Shaktism"
-    url: "https://en.wikipedia.org/wiki/Shaktism"
-    type: "wikipedia"
-  - name: "Open Library: Markandeya Purana (with Devi"
-    url: "https://openlibrary.org/search?q=Markandeya+Purana+with+Devi+Mahatmya+year+Vyasa+attributed"
-    type: "other"
+- name: 'Wikipedia: Markandeya Purana'
+  url: https://en.wikipedia.org/wiki/Markandeya_Purana
+  type: wikipedia
+- name: 'Wikipedia: Devi Mahatmya'
+  url: https://en.wikipedia.org/wiki/Devi_Mahatmya
+  type: wikipedia
+- name: 'Wikipedia: Durga'
+  url: https://en.wikipedia.org/wiki/Durga
+  type: wikipedia
+- name: 'Wikipedia: Shaktism'
+  url: https://en.wikipedia.org/wiki/Shaktism
+  type: wikipedia
+- name: 'Open Library: Markandeya Purana (with Devi'
+  url: https://openlibrary.org/search?q=Markandeya+Purana+with+Devi+Mahatmya+year+Vyasa+attributed
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical-literature', 'religious', 'purana']
 ---
 
 The Markandeya Purana occupies a unique position among the eighteen Mahapuranas as one of the earliest and most philosophically eclectic texts, achieving its greatest significance through chapters 81-93, which constitute the Devi Mahatmya—a foundational scripture that crystallized Goddess worship as a central theological tradition within Hinduism. Composed between the 3rd and 6th centuries CE, this text demonstrates the "stratified literature" characteristic of Puranic works, where materials from different historical periods accumulated around core narratives to address evolving religious and social concerns.

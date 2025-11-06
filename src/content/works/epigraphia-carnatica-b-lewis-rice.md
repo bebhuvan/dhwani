@@ -1,28 +1,37 @@
 ---
-title: "Epigraphia Carnatica"
-author: ["B. Lewis Rice", "Mysore Department of Archaeology"]
+title: 'Epigraphia Carnatica'
+author:
+- B. Lewis Rice
+- Mysore Department of Archaeology
 year: 1894
-language: ["English", "Kannada", "Sanskrit"]
-genre: ["Epigraphy", "History", "Archaeology"]
-description: "B. Lewis Rice's monumental multi-volume epigraphic survey documenting over 9,000 Karnataka inscriptions from the 5th-19th centuries. Published from 1894, this comprehensive work records Kannada, Sanskrit, and Tamil inscriptions, illuminating dynastic histories, temple patronage, land tenure, and social structures while establishing methodologies for Indian epigraphic studies."
-collections: ['modern-literature']
+language:
+- English
+- Kannada
+- Sanskrit
+genre:
+- Epigraphy
+- History
+- Archaeology
+description: |
+  B. Lewis Rice's "Epigraphia Carnatica" is a comprehensive scholarly compilation of inscriptions from Karnataka, documenting 9,000 historical texts from the 5th to 19th centuries. Published by the Mysore Department of Archaeology in the late colonial period, this multi-volume work systematically records inscriptions in Kannada, Sanskrit, and Tamil, providing detailed historical documentation. As a British colonial administrator and archaeologist, Rice conducted a rigorous documentation of inscriptions from temples, royal courts, administrative centers, and local communities. The work provides extensive documentation of dynastic successions, administrative structures, land tenure systems, religious patronage, and social hierarchies during medieval and early modern periods in Karnataka. Rice's methodological approach involved direct transcription and contextual analysis of stone and copper plate inscriptions, focusing on primary source material from significant regional dynasties including the Chalukyas, Rashtrakutas, Hoysalas, and Vijayanagara rulers. The work's scholarly approach offers substantive insights into the administrative, legal, economic, and cultural mechanisms of South Indian societies. Significantly, the "Epigraphia Carnatica" represents an important historical document that bridges colonial scholarly practices with emerging nationalist historical research, providing documented evidence of regional cultural complexity and challenging existing colonial interpretations of Indian historical development. Its comprehensive documentation remains a critical reference for historians, archaeologists, and scholars studying South Indian regional history.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/epigraphiacarnat04mysouoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/epigraphiacarnat04mysouoft
+  type: other
 references:
-  - name: "Wikipedia: Epigraphia Carnatica"
-    url: "https://en.wikipedia.org/wiki/Epigraphia_Carnatica"
-    type: "wikipedia"
-  - name: "Wikipedia: Benjamin Lewis Rice"
-    url: "https://en.wikipedia.org/wiki/Benjamin_Lewis_Rice"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Epigraphia+Carnatica+Rice&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Epigraphia Carnatica'
+  url: https://en.wikipedia.org/wiki/Epigraphia_Carnatica
+  type: wikipedia
+- name: 'Wikipedia: Benjamin Lewis Rice'
+  url: https://en.wikipedia.org/wiki/Benjamin_Lewis_Rice
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Epigraphia+Carnatica+Rice&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-21
-tags: ["Epigraphy", "Karnataka", "B. Lewis Rice", "Inscriptions", "Kannada", "Medieval India", "Hoysala", "Vijayanagara", "Indian history", "Archaeology", "Deccan"]
 ---
 
 # Epigraphia Carnatica

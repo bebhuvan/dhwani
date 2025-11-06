@@ -1,25 +1,30 @@
 ---
-title: "Krishnakanter Will"
-author: ["Bankimchandra Chattopadhyay"]
+title: 'Krishnakanter Will'
+author:
+- Bankimchandra Chattopadhyay
 year: 1878
-language: ["Bengali"]
-genre: ["Novel", "Social Fiction"]
-description: "Bengali social novel examining property inheritance, family dynamics, and moral corruption in 19th-century Bengal society. Written by the author of Vande Mataram, this work demonstrates Bankim's sophisticated social commentary distinct from his better-known historical romances."
-collections: ['modern-literature']
+language:
+- Bengali
+genre:
+- Novel
+- Social Fiction
+description: |
+  Krishnakanter Will, published in 1878 by pioneering Bengali novelist Bankimchandra Chattopadhyay, represents a nuanced exploration of social transformations in late 19th-century Bengal during the complex colonial period under British rule. The novel critically examines inheritance laws, familial power structures, and emerging moral tensions within traditional Bengali Hindu joint family systems. Through intricate narrative techniques, Bankim deconstructs the intersecting dynamics of property, individual agency, and societal expectations, presenting a sophisticated critique of contemporary social hierarchies and ethical dilemmas. The work significantly illuminates the transitional period when traditional patriarchal structures were being challenged by emerging individualistic legal frameworks introduced during British administrative reforms. Employing a multilayered narrative strategy, the novel delves into complex questions of moral legitimacy, examining how individual desires interact with familial and societal normative expectations. Krishnakanter Will is particularly notable for its nuanced portrayal of characters navigating shifting social landscapes, reflecting the intellectual and cultural negotiations characteristic of Bengal's Renaissance period. As a seminal text in Bengali literature, the novel demonstrates Bankim's remarkable ability to use fiction as a platform for social commentary, revealing intricate psychological motivations while simultaneously critiquing existing social institutions. The work's enduring significance lies in its sophisticated representation of social change, offering profound insights into the moral and cultural reconfiguration occurring in Bengali society during a pivotal historical moment of cultural encounter and transformation.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive (DLI)"
-    url: "https://archive.org/details/in.ernet.dli.2015.456055"
-    type: "other"
+- name: 'Internet Archive (DLI)'
+  url: https://archive.org/details/in.ernet.dli.2015.456055
+  type: other
 references:
-  - name: "Wikipedia: Bankimchandra Chattopadhyay"
-    url: "https://en.wikipedia.org/wiki/Bankim_Chandra_Chatterjee"
-    type: "wikipedia"
-  - name: "Open Library search"
-    url: "https://openlibrary.org/search?q=Krishnakanter%20Will%20Bankimchandra"
-    type: "openlibrary"
+- name: 'Wikipedia: Bankimchandra Chattopadhyay'
+  url: https://en.wikipedia.org/wiki/Bankim_Chandra_Chatterjee
+  type: wikipedia
+- name: 'Open Library search'
+  url: https://openlibrary.org/search?q=Krishnakanter%20Will%20Bankimchandra
+  type: openlibrary
 featured: false
 publishDate: 2025-11-01
-tags: ["Bengali Literature", "Bankimchandra", "Social Novel", "19th Century", "Bengal Renaissance"]
 ---
 
 # Krishnakanter Will

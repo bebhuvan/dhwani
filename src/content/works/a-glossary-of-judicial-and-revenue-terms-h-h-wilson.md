@@ -1,25 +1,30 @@
 ---
-title: "A Glossary of Judicial and Revenue Terms"
-author: ["Horace Hayman Wilson"]
+title: 'A Glossary of Judicial and Revenue Terms'
+author:
+- Horace Hayman Wilson
 year: 1855
-language: ["English"]
-genre: ["Reference", "Legal"]
-description: "Horace Hayman Wilson’s 1855 glossary compiles Arabic, Persian, and Indic terms found in British Indian judicial and revenue records, providing definitions, variant spellings, and contextual notes for administrators and translators."
-collections: ["modern-literature"]
+language:
+- English
+genre:
+- Reference
+- Legal
+description: |
+  During the transformative mid-19th century period of British colonial administration in India, Horace Hayman Wilson's comprehensive "A Glossary of Judicial and Revenue Terms" emerged as a critical linguistic and administrative document that bridged complex cultural and bureaucratic domains. Wilson, a distinguished Orientalist scholar and the first Boden Professor of Sanskrit at Oxford University, meticulously compiled an extensive lexicon that captured the intricate legal and administrative terminology circulating in British Indian governance systems. The work systematically documented Arabic, Persian, and Indic linguistic terms prevalent in judicial and revenue records, providing nuanced definitions, etymological variations, and contextual annotations that were essential for colonial administrators, translators, and legal practitioners navigating the multilingual administrative landscape of the Indian subcontinent. Produced in the aftermath of the 1857 Indian Rebellion and during the transition from East India Company to direct British Crown governance, the glossary represented a sophisticated linguistic infrastructure that reflected the colonial state's complex mechanisms of understanding and managing cultural difference. Beyond its immediate bureaucratic utility, Wilson's work inadvertently preserved significant linguistic and cultural metadata, offering contemporary scholars crucial insights into the linguistic exchanges, administrative practices, and intercultural negotiations characteristic of colonial South Asia. The glossary not only facilitated colonial administrative processes but also served as an important scholarly resource documenting the rich, multilayered linguistic heritage of the Indian subcontinent during a period of profound political and cultural transformation, making it a significant text in understanding colonial linguistic documentation and cultural mediation.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive (University of Toronto)"
-    url: "https://archive.org/details/glossaryofjudici00wilsuoft"
-    type: "other"
+- name: 'Internet Archive (University of Toronto)'
+  url: https://archive.org/details/glossaryofjudici00wilsuoft
+  type: other
+references:
+- name: 'Wikipedia: Horace Hayman Wilson'
+  url: https://en.wikipedia.org/wiki/Horace_Hayman_Wilson
+  type: wikipedia
+- name: 'Open Library Search'
+  url: https://openlibrary.org/search?q=A+Glossary+of+Judicial+and+Revenue+Terms
+  type: other
 featured: false
 publishDate: 2025-10-22
-references:
-  - name: "Wikipedia: Horace Hayman Wilson"
-    url: "https://en.wikipedia.org/wiki/Horace_Hayman_Wilson"
-    type: "wikipedia"
-  - name: "Open Library Search"
-    url: "https://openlibrary.org/search?q=A+Glossary+of+Judicial+and+Revenue+Terms"
-    type: "other"
-tags: ["Legal terminology", "Administrative history", "British India", "Multilingual lexicon", "Revenue policy", "Public domain"]
 ---
 
 # A Glossary of Judicial and Revenue Terms

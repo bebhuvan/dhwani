@@ -1,31 +1,39 @@
 ---
-title: "The Hindu-Arabic Numerals"
-author: ["David Eugene Smith", "Louis Charles Karpinski"]
+title: 'The Hindu-Arabic Numerals'
+author:
+- David Eugene Smith
+- Louis Charles Karpinski
 year: 1911
-language: ["English"]
-genre: ["Mathematics History", "Cultural History", "Academic Study"]
-description: "Published in 1911 by Ginn and Company, *The Hindu-Arabic Numerals* represents a foundational achievement in mathematical historiography. Before this work, the history of numerals remained scattered across fragmentary Sanskrit manuscripts, Arabic mathematical treatises, medieval Latin translations, and Renaissance printed texts. most consequential intellectual innovation—displaced Roman numerals and Greek alphabetic notation. Smith and Karpinski's meticulous scholarship established the Indian origins of modern numerals while documenting the crucial intermediary role of Islamic mathematicians like al-Khwarizmi in transmitting this knowledge westward, fundamentally reshaping how mathematical history was understood in Western academia."
-collections: ["modern-literature", "classical-literature"]
+language:
+- English
+genre:
+- Mathematics History
+- Cultural History
+- Academic Study
+description: |
+  *The Hindu-Arabic Numerals*, published in 1911 by David Eugene Smith and Louis Charles Karpinski, represents a pivotal scholarly intervention in understanding the mathematical and cultural transmission of numerical systems across civilizations. Emerging during an era of intense colonial scholarship and comparative historical research, the work meticulously traces the genealogy of numerical notation from its sophisticated Indian origins through Islamic mathematical traditions to European mathematical practice. Smith and Karpinski's rigorous analysis systematically documented how the decimal positional numeral system—originating in Sanskrit mathematical manuscripts from the early medieval period—fundamentally transformed global mathematical communication. By carefully examining fragmentary Sanskrit texts, Arabic mathematical treatises, and medieval Latin translations, the authors demonstrated how Indian mathematicians developed a revolutionary conceptual framework that transcended previous alphabetic and additive numeral systems. The work illuminates the crucial intermediary role of Islamic scholars like al-Khwarizmi, who facilitated the transmission of Indian mathematical knowledge westward during the Islamic Golden Age. Beyond its technical mathematical significance, the study represents an important scholarly acknowledgment of Indian intellectual contributions during a period when colonial narratives often marginalized non-European knowledge systems. By establishing the Indian provenance of modern numerals, Smith and Karpinski challenged prevailing Eurocentric historical narratives and provided a nuanced scholarly account of cross-cultural intellectual exchange. Their meticulous research not only transformed understanding of mathematical historiography but also highlighted the sophisticated mathematical and computational traditions embedded within Indian scholarly culture.
+collections:
+- modern-literature
+- classical-literature
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/22599"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/hinduarabicnumer00smitrich"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/22599
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/hinduarabicnumer00smitrich
+  type: other
 references:
-  - name: "Wikipedia: David Eugene Smith"
-    url: "https://en.wikipedia.org/wiki/David_Eugene_Smith"
-    type: "wikipedia"
-  - name: "Wikipedia: Louis Charles Karpinski"
-    url: "https://en.wikipedia.org/wiki/Louis_Charles_Karpinski"
-    type: "wikipedia"
-  - name: "Open Library: The Hindu-Arabic Numerals"
-    url: "https://openlibrary.org/search?q=The+Hindu-Arabic+numerals&mode=everything"
-    type: "other"
+- name: 'Wikipedia: David Eugene Smith'
+  url: https://en.wikipedia.org/wiki/David_Eugene_Smith
+  type: wikipedia
+- name: 'Wikipedia: Louis Charles Karpinski'
+  url: https://en.wikipedia.org/wiki/Louis_Charles_Karpinski
+  type: wikipedia
+- name: 'Open Library: The Hindu-Arabic Numerals'
+  url: https://openlibrary.org/search?q=The+Hindu-Arabic+numerals&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-04
-tags: ["Hindu-Arabic numerals", "mathematics history", "David Eugene Smith", "Louis Karpinski", "number systems", "Indian mathematics", "Islamic mathematics", "medieval Europe", "al-Khwarizmi", "mathematical transmission", "place-value system", "decimal notation", "historiography"]
 ---
 
 # The Hindu-Arabic Numerals

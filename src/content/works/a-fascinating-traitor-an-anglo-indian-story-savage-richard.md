@@ -7,13 +7,13 @@ language:
 - English
 genre:
 - Fiction
-description: 'A Fascinating Traitor: An Anglo-Indian Story is a work from the Indian
-  literary tradition, available in the public domain.'
+description: |
+  A Fascinating Traitor: An Anglo-Indian Story represents a significant late 19th-century literary exploration of colonial Indian social dynamics, published during the height of British imperial presence in India. Written by Richard Savage, an English author engaging with the complex cultural intersections of the Anglo-Indian experience, the novel emerges from a period of intense cultural negotiation and colonial administrative transformation. Set against the backdrop of British colonial administration in India, the work critically examines the intricate relationships between British colonizers and Indian inhabitants, particularly focusing on themes of cultural identity, betrayal, and the moral ambiguities inherent in colonial social structures. The narrative likely reflects the emergent genre of Anglo-Indian literature, which sought to document and interpret the nuanced human experiences within the colonial system. While specific plot details are limited, the work appears to interrogate notions of loyalty, cultural displacement, and the psychological complexities faced by individuals navigating the boundaries between British and Indian societal norms. As a literary artifact, the text contributes to scholarly understanding of late Victorian representations of colonial interactions, providing insights into the racial, social, and psychological tensions characteristic of the imperial encounter. Its publication in 1888 coincides with a critical period of Indian social and political transformation, making it a valuable historical document for researchers exploring colonial literature, cross-cultural interactions, and the discursive practices that shaped metropolitan and colonial understandings of identity and power. The work offers contemporary scholars a nuanced window into the literary articulations of colonial experience during a pivotal moment in Indo-British cultural history.
 sources:
-- name: Project Gutenberg
+- name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/5972
   type: other
-- name: Project Gutenberg (HTML)
+- name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/5972.html.images
   type: other
 references:

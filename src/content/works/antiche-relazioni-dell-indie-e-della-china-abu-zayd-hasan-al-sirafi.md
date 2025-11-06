@@ -1,28 +1,35 @@
 ---
-title: "Antiche relazioni dell'Indie e della China di due maomettani"
-author: ["Abu Zayd Hasan ibn Yazd al-Sirafi", "Sulaymān al-Tājir", "Eusèbe Renaudot"]
+title: 'Antiche relazioni dell'Indie e della China di due maomettani'
+author:
+- Abu Zayd Hasan ibn Yazd al-Sirafi
+- Sulaymān al-Tājir
+- Eusèbe Renaudot
 year: 1749
-language: ["Italian"]
-genre: ["Travel Narrative", "Translation"]
-description: "Italian readers encountered the earliest Arabic accounts of India and China through this 1749 edition of Renaudot’s translations, documenting ninth-century Muslim merchants’ voyages across the Indian Ocean." 
-collections: ['ancient-wisdom']
+language:
+- Italian
+genre:
+- Travel Narrative
+- Translation
+description: |
+  During the height of the Abbasid Caliphate's maritime trade networks (8th-10th centuries), Arab merchants like Sulaymān al-Tājir and Abu Zayd Hasan ibn Yazd al-Sirafi were pioneering detailed intercultural accounts of trade routes connecting the Middle East, India, and China. These early medieval narratives represent critical primary sources documenting the sophisticated Indian Ocean commercial and cultural exchanges predating European maritime exploration by several centuries. Italian readers encountered the earliest Arabic accounts of India and China through this 1749 edition of Renaudot's translations, documenting ninth-century Muslim merchants' voyages across the Indian Ocean.
+collections:
+- ancient-wisdom
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/anticherelazioni00sraf"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/anticherelazioni00sraf
+  type: other
 references:
-  - name: "Wikipedia: Abu Zayd al-Sirafi"
-    url: "https://en.wikipedia.org/wiki/Abu_Zayd_al-Sirafi"
-    type: "wikipedia"
-  - name: "Wikipedia: Indian Ocean trade"
-    url: "https://en.wikipedia.org/wiki/Indian_Ocean_trade"
-    type: "wikipedia"
-  - name: "Open Library search: Antiche relazioni dell'Indie e della China"
-    url: "https://openlibrary.org/search?q=Antiche+relazioni+dell%27Indie+e+della+China&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Abu Zayd al-Sirafi'
+  url: https://en.wikipedia.org/wiki/Abu_Zayd_al-Sirafi
+  type: wikipedia
+- name: 'Wikipedia: Indian Ocean trade'
+  url: https://en.wikipedia.org/wiki/Indian_Ocean_trade
+  type: wikipedia
+- name: 'Open Library search: Antiche relazioni dell'Indie e della China'
+  url: https://openlibrary.org/search?q=Antiche+relazioni+dell%27Indie+e+della+China&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-22
-tags: ["Arabic travel literature", "Indian Ocean", "Tang dynasty", "Abbasid merchants", "Translation history"]
 ---
 
 # Antiche relazioni dell'Indie e della China di due maomettani

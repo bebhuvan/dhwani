@@ -1,34 +1,42 @@
 ---
-title: "Annals and Antiquities of Rajast'han, or The Central and Western Rajput States of India"
-author: ["James Tod"]
+title: 'Annals and Antiquities of Rajast'han, or The Central and Western Rajput States of India'
+author:
+- James Tod
 year: 1829
-language: ["English"]
-genre: ["History", "Ethnography", "Political History"]
-description: "Lieutenant-Colonel James Tod's monumental 1829-1832 history of Rajputana based on service as British Political Agent combines court chronicles, inscriptions, and oral traditions to document Rajput states' medieval history."
-collections: ["modern-literature", "regional-voices", "classical-literature"]
+language:
+- English
+genre:
+- History
+- Ethnography
+- Political History
+description: |
+  Lieutenant-Colonel James Tod's monumental 1829-1832 history of Rajputana, composed during the height of British colonial scholarship in India, offers a comprehensive account that emerged in the early decades of the 19th century when the East India Company was actively mapping and documenting the subcontinent's regional histories and political structures. Tod, who served as the British Political Agent in Rajputana from 1818 to 1822, drew upon an unprecedented range of sources including court chronicles, inscriptions, and oral traditions to document Rajput states' medieval history. His work, combining meticulous historical research with ethnographic observation, represents a pivotal moment in colonial-era historical documentation, providing one of the most detailed Western interpretations of Rajput culture and political systems during a period of significant cultural and political transformation in western India.
+collections:
+- modern-literature
+- regional-voices
+- classical-literature
 sources:
-  - name: "Project Gutenberg (Volume 1)"
-    url: "https://www.gutenberg.org/ebooks/57374"
-    type: "other"
-  - name: "Project Gutenberg (Volume 2)"
-    url: "https://www.gutenberg.org/ebooks/57375"
-    type: "other"
-  - name: "Project Gutenberg (Volume 3)"
-    url: "https://www.gutenberg.org/ebooks/57376"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/annalsantiquitie01todj"
-    type: "other"
+- name: 'Project Gutenberg (Volume 1)'
+  url: https://www.gutenberg.org/ebooks/57374
+  type: other
+- name: 'Project Gutenberg (Volume 2)'
+  url: https://www.gutenberg.org/ebooks/57375
+  type: other
+- name: 'Project Gutenberg (Volume 3)'
+  url: https://www.gutenberg.org/ebooks/57376
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/annalsantiquitie01todj
+  type: other
 references:
-  - name: "Wikipedia: James Tod"
-    url: "https://en.wikipedia.org/wiki/James_Tod"
-    type: "wikipedia"
-  - name: "Open Library: Annals and Antiquities of Rajasthan"
-    url: "https://openlibrary.org/search?q=Annals+and+Antiquities+of+Rajasthan&mode=everything"
-    type: "other"
+- name: 'Wikipedia: James Tod'
+  url: https://en.wikipedia.org/wiki/James_Tod
+  type: wikipedia
+- name: 'Open Library: Annals and Antiquities of Rajasthan'
+  url: https://openlibrary.org/search?q=Annals+and+Antiquities+of+Rajasthan&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-04
-tags: ["James Tod", "Rajasthan history", "Rajput", "colonial historiography", "feudalism", "chivalry", "dynastic history", "19th century India", "Political Agent", "Rajputana", "romantic nationalism", "orientalism", "bardic chronicles", "military history"]
 ---
 
 # Annals and Antiquities of Rajast'han, or The Central and Western Rajput States of India

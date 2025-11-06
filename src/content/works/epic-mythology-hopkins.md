@@ -1,15 +1,22 @@
 ---
-title: "Epic mythology"
-author: ["Hopkins", "Edward Washburn", "1857-1932"]
+title: 'Epic mythology'
+author:
+- Hopkins
+- Edward Washburn
+- 1857-1932
 year: 1915
-language: ["English"]
-genre: ["Epic Literature"]
-description: "277p The mythology of the two epics of India, the Mahabharata and the Ramayana Includes bibliography"
-collections: ["epic-poetry"]
+language:
+- English
+genre:
+- Epic Literature
+description: |
+  Edward Washburn Hopkins's "Epic Mythology" represents a foundational scholarly examination of India's classical epic traditions during the early 20th century, critically analyzing the intricate mythological structures of the Mahabharata and Ramayana. Published in 1915, the work emerged during a pivotal period of comparative mythology studies, when Western scholars were systematically engaging with non-European cultural narratives. Hopkins, a Yale University Indologist, brought rigorous academic methodologies to interpreting complex Sanskrit literary traditions, providing one of the first comprehensive Western scholarly analyses of these fundamental texts. The work meticulously explores the mythological elements, divine characters, narrative structures, and philosophical underpinnings of these seminal Indian epics, offering unprecedented insights into their cultural and religious significance. Hopkins's scholarly approach contextualized Indian mythological narratives within broader comparative frameworks, helping to establish Indian literary studies as a serious academic discipline in Western universities. By critically examining the supernatural elements, genealogical connections, and symbolic representations within these epics, Hopkins illuminated the sophisticated mythological complex that underpins classical Indian cultural imagination. His research demonstrated the profound theological, social, and philosophical dimensions embedded in these narrative traditions, revealing how mythological structures encode complex cultural knowledge and metaphysical understanding. The work's systematic documentation and scholarly analysis provided crucial bridging scholarship between Indian cultural heritage and Western academic discourse, helping to legitimize Indian literary and mythological studies as a rigorous scholarly domain during a period of intense colonial intellectual engagement.
+collections:
+- epic-poetry
 sources:
-- name: "Internet Archive"
-  url: "https://archive.org/details/epicmythology00hopkuoft"
-  type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/epicmythology00hopkuoft
+  type: other
 references:
 - name: 'Wikipedia: Epic mythology...'
   url: https://en.wikipedia.org/wiki/Greek_mythology
@@ -40,7 +47,6 @@ references:
   type: wikisource
 featured: false
 publishDate: 2025-01-22
-tags: ["epic-poetry", "20th-century"]
 ---
 
 # Epic mythology

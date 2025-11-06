@@ -1,31 +1,35 @@
 ---
-title: "South Indian Inscriptions, Vol. I"
-author: ["Archaeological Survey of India"]
+title: 'South Indian Inscriptions, Vol. I'
+author:
+- Archaeological Survey of India
 year: 1890
-language: ["English"]
-genre: ["Historical Literature"]
-description: "South Indian Inscriptions, Vol. I by Archaeological Survey of India (1890) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage. Digitally preserved and freely available for research, education, and cultural appreciation."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Historical Literature
+description: |
+  South Indian Inscriptions, Vol. I, published by the Archaeological Survey of India in 1890, represents a critical scholarly documentation of epigraphical records from the southern regions of India during the late 19th century colonial period. Compiled during the British administrative era, this comprehensive volume meticulously transcribes and translates stone and copper plate inscriptions that provide invaluable insights into the socio-political, economic, and cultural landscapes of medieval South Indian kingdoms. The work emerges from the systematic archaeological documentation efforts led by pioneering colonial-era scholars like Epigraphia Indica's editors, who recognized the profound historical significance of preserving indigenous textual heritage. These inscriptions predominantly span the Chola, Pandya, and Chera dynastic periods, offering detailed records of royal genealogies, administrative systems, land grants, religious endowments, and intricate social structures that defined pre-colonial South Indian civilization. The text is particularly significant for its linguistic diversity, featuring inscriptions in Tamil, Sanskrit, and transitional scripts that illuminate the complex linguistic interactions of the medieval period. Scholars of Indian history, anthropology, and linguistics find this volume crucial for understanding state formation, temple economies, agrarian systems, and cultural practices that shaped South Indian societies between the 7th and 14th centuries. By systematically documenting these primary historical sources, the Archaeological Survey of India not only preserved fragile historical records but also provided a foundational scholarly resource for subsequent generations of researchers seeking to comprehend the nuanced cultural and political dynamics of pre-colonial South India.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/southindianinscr014359mbp"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/bmshri.southindiainscri0000unse_l2x7"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/southindianinscr014359mbp
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/bmshri.southindiainscri0000unse_l2x7
+  type: other
 references:
-  - name: "Wikipedia: South Indian Inscriptions"
-    url: "https://en.wikipedia.org/wiki/South_Indian_Inscriptions"
-    type: "wikipedia"
-  - name: "Wikipedia: Archaeological Survey of India"
-    url: "https://en.wikipedia.org/wiki/Archaeological_Survey_of_India"
-    type: "wikipedia"
-  - name: "Open Library: South Indian Inscriptions, Vol."
-    url: "https://openlibrary.org/search?q=South+Indian+Inscriptions+Vol+I+year+Archaeological+Survey+of+India"
-    type: "other"
+- name: 'Wikipedia: South Indian Inscriptions'
+  url: https://en.wikipedia.org/wiki/South_Indian_Inscriptions
+  type: wikipedia
+- name: 'Wikipedia: Archaeological Survey of India'
+  url: https://en.wikipedia.org/wiki/Archaeological_Survey_of_India
+  type: wikipedia
+- name: 'Open Library: South Indian Inscriptions, Vol.'
+  url: https://openlibrary.org/search?q=South+Indian+Inscriptions+Vol+I+year+Archaeological+Survey+of+India
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 # South Indian Inscriptions, Vol. I

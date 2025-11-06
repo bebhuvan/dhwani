@@ -1,28 +1,35 @@
 ---
-title: "Commemorative Essays Presented to Sir Ramkrishna Gopal Bhandarkar"
-author: ["Various Scholars", "R. G. Bhandarkar"]
+title: 'Commemorative Essays Presented to Sir Ramkrishna Gopal Bhandarkar'
+author:
+- Various Scholars
+- R. G. Bhandarkar
 year: 1917
-language: ["English"]
-genre: ["Academic Essays", "Historical Literature", "Oriental Studies"]
-description: "A scholarly tribute volume featuring essays from international academics honoring R.G. Bhandarkar's pioneering contributions to Oriental studies, Sanskrit scholarship, and social reform. This comprehensive collection spans diverse fields from Indo-Iranian philology to Indian history, reflecting Bhandarkar's profound influence on early 20th-century scholarship."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Academic Essays
+- Historical Literature
+- Oriental Studies
+description: |
+  This scholarly commemorative volume represents a pivotal scholarly tribute to Sir Ramkrishna Gopal Bhandarkar, a preeminent Indian scholar and social reformer who significantly shaped early 20th-century Oriental studies and intellectual discourse during a transformative period of Indian academic and cultural renaissance. Published in 1917, the compilation features contributions from international academics and represents a comprehensive intellectual landscape spanning disciplines including Indo-Iranian philology, Sanskrit scholarship, historical research, and social anthropology. The essays collectively illuminate Bhandarkar's groundbreaking contributions to understanding India's complex intellectual heritage, demonstrating his profound interdisciplinary approach to scholarship that bridged traditional knowledge systems with emerging modern analytical methodologies. Contributing scholars meticulously examine various dimensions of Bhandarkar's academic legacy, exploring his nuanced interpretations of Sanskrit texts, critical historical analyses, and pioneering research in linguistic and cultural studies. The volume critically contextualizes Bhandarkar's work within the broader intellectual movements of colonial-era India, highlighting his role in developing sophisticated hermeneutical approaches to understanding indigenous knowledge traditions. By presenting sophisticated scholarly perspectives across multiple domains, the compilation not only honors Bhandarkar's intellectual achievements but also provides a sophisticated lens into early 20th-century Indian academic thought, linguistic research, and cultural interpretation. As a significant historical document, this work represents an essential scholarly resource for understanding the intellectual currents that shaped modern Indian scholarship, offering contemporary researchers invaluable insights into the complex scholarly networks and interdisciplinary research methodologies of a pivotal historical moment.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/commemorativeess00bhanuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/commemorativeess00bhanuoft
+  type: other
 references:
-  - name: "Indian Culture Portal"
-    url: "https://indianculture.gov.in/rarebooks/commemorative-essays-presented-sir-ramkrishna-gopal-bhandarkar"
-    type: "other"
-  - name: "Wikipedia: R. G. Bhandarkar"
-    url: "https://en.wikipedia.org/wiki/R._G._Bhandarkar"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Commemorative+essays+presented+to+Sir+Ramkrishna+Gopal+Bhandarkar&mode=everything"
-    type: "other"
+- name: 'Indian Culture Portal'
+  url: https://indianculture.gov.in/rarebooks/commemorative-essays-presented-sir-ramkrishna-gopal-bhandarkar
+  type: other
+- name: 'Wikipedia: R. G. Bhandarkar'
+  url: https://en.wikipedia.org/wiki/R._G._Bhandarkar
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Commemorative+essays+presented+to+Sir+Ramkrishna+Gopal+Bhandarkar&mode=everything
+  type: other
 featured: false
 publishDate: 2025-09-28
-tags: ["R. G. Bhandarkar", "Oriental Studies", "Sanskrit Scholarship", "Academic Tribute", "Indo-Iranian Philology", "Indian History", "Social Reform", "Educational Leadership", "Scholarly Essays", "Bhandarkar Oriental Research Institute"]
 ---
 
 # Commemorative Essays Presented to Sir Ramkrishna Gopal Bhandarkar

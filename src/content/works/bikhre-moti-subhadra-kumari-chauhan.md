@@ -1,25 +1,29 @@
 ---
-title: "Bikhre Moti (Scattered Pearls)"
-author: ["Subhadra Kumari Chauhan"]
+title: 'Bikhre Moti (Scattered Pearls)'
+author:
+- Subhadra Kumari Chauhan
 year: 1932
-language: ["Hindi"]
-genre: ["Poetry"]
-description: "Poetry collection by pioneering Hindi woman poet and freedom fighter. Known for nationalist poem 'Jhansi Ki Rani,' Chauhan's work combines patriotic themes with domestic experiences, establishing significant female voice in Hindi poetry during Independence movement."
-collections: ['modern-literature']
+language:
+- Hindi
+genre:
+- Poetry
+description: |
+  Bikhre Moti (Scattered Pearls), published in 1932, represents a pivotal literary work emerging from the crucible of India's nationalist movement, authored by Subhadra Kumari Chauhan, a prominent woman poet and political activist. Situated within the intensifying struggle against British colonial rule, the poetry collection articulates a nuanced narrative of resistance, weaving together personal experience, nationalist sentiment, and feminist consciousness. Chauhan, born in 1904 in Uttar Pradesh to a progressive Rajput family, was deeply engaged with the Indian National Congress and the Non-Cooperation Movement, embodying the intellectual and political transformation of early 20th-century Indian women. Her poetry transcends mere nationalist rhetoric, offering profound insights into gendered experiences of colonialism, social reform, and individual agency. The collection's distinctive contribution lies in its integration of domestic narratives with broader political discourse, challenging contemporary patriarchal structures and reimagining women's roles in national liberation. Poems like the iconic 'Jhansi Ki Rani' exemplify her ability to mythologize historical female heroism while simultaneously critiquing colonial and indigenous power dynamics. Linguistically, Bikhre Moti is significant for its sophisticated Hindi vernacular, which synthesizes classical poetic traditions with contemporary revolutionary language. The work is crucial in understanding the literary genealogy of women's writing in Hindi, representing a critical moment when women writers were systematically articulating their political and social subjectivities through poetry. As a literary artifact, it illuminates the complex intersections of gender, nationalism, and cultural resistance in early 20th-century India, making it an essential text for scholars of postcolonial literature, women's studies, and South Asian cultural history.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive (DLI)"
-    url: "https://archive.org/details/in.ernet.dli.2015.481761"
-    type: "other"
+- name: 'Internet Archive (DLI)'
+  url: https://archive.org/details/in.ernet.dli.2015.481761
+  type: other
 references:
-  - name: "Wikipedia: Subhadra Kumari Chauhan"
-    url: "https://en.wikipedia.org/wiki/Subhadra_Kumari_Chauhan"
-    type: "wikipedia"
-  - name: "Open Library search"
-    url: "https://openlibrary.org/search?q=Bikhre%20Moti%20Subhadra%20Kumari%20Chauhan"
-    type: "openlibrary"
+- name: 'Wikipedia: Subhadra Kumari Chauhan'
+  url: https://en.wikipedia.org/wiki/Subhadra_Kumari_Chauhan
+  type: wikipedia
+- name: 'Open Library search'
+  url: https://openlibrary.org/search?q=Bikhre%20Moti%20Subhadra%20Kumari%20Chauhan
+  type: openlibrary
 featured: true
 publishDate: 2025-11-01
-tags: ["Hindi Poetry", "Subhadra Kumari Chauhan", "Women Writers", "Freedom Movement", "Nationalism", "20th Century"]
 ---
 
 # Bikhre Moti (Scattered Pearls)

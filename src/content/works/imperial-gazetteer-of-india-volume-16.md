@@ -1,31 +1,38 @@
 ---
-title: "The Imperial Gazetteer of India, Volume 16"
-author: ["Sir William Wilson Hunter", "Great Britain India Office"]
+title: 'The Imperial Gazetteer of India, Volume 16'
+author:
+- Sir William Wilson Hunter
+- Great Britain India Office
 year: 1908
-language: ["English"]
-genre: ["Reference", "Geography", "History"]
-description: "Part of a comprehensive 26-volume geographical and administrative encyclopedia of India during the British imperial period. Contains detailed gazetteers, statistical information, geographical descriptions, and administrative data covering all regions of India."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Reference
+- Geography
+- History
+description: |
+  The Imperial Gazetteer of India, Volume 16, published in 1908 during the late British colonial period, represents a comprehensive scholarly endeavor to document and systematize knowledge about the Indian subcontinent. Compiled under the leadership of Sir William Wilson Hunter, a distinguished Scottish historian and imperial administrator, this volume is part of a monumental 26-volume encyclopedic project that synthesized geographical, administrative, demographic, and historical information across British India. Hunter, who served as the Director-General of Statistics to the Government of India from 1871-1887, brought rigorous empirical methodology and extensive archival research to this work, establishing a critical reference framework for understanding the complex territorial and administrative landscape of the region. The gazetteer provides granular details on regional geography, administrative divisions, population demographics, economic structures, local governance, and cultural characteristics, serving not merely as an administrative document but as a critical historical source for understanding late 19th and early 20th century Indian societal configurations. Its meticulous documentation captures a pivotal transitional moment in Indian history, offering scholars and researchers unprecedented insights into colonial administrative practices, regional diversities, and the intricate administrative mechanisms that shaped the subcontinent during imperial governance. Beyond its immediate colonial context, the work represents a significant scholarly contribution to Indian historical and geographical scholarship, preserving detailed ethnographic, statistical, and geographical information that might otherwise have been lost, and providing a nuanced lens through which subsequent generations can comprehend the complex administrative and cultural transformations of the period.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/imperialgazettee16greauoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/imperialgazettee16greauoft
+  type: other
 references:
-  - name: "Wikipedia: The Imperial Gazetteer of India"
-    url: "https://en.wikipedia.org/wiki/The_Imperial_Gazetteer_of_India"
-    type: "wikipedia"
-  - name: "Wikipedia: William Wilson Hunter"
-    url: "https://en.wikipedia.org/wiki/William_Wilson_Hunter"
-    type: "wikipedia"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=Imperial+Gazetteer+of+India+Volume+16"
-    type: "other"
-  - name: "Wikidata: The Imperial Gazetteer of India"
-    url: "https://www.wikidata.org/wiki/Q2617720"
-    type: "other"
+- name: 'Wikipedia: The Imperial Gazetteer of India'
+  url: https://en.wikipedia.org/wiki/The_Imperial_Gazetteer_of_India
+  type: wikipedia
+- name: 'Wikipedia: William Wilson Hunter'
+  url: https://en.wikipedia.org/wiki/William_Wilson_Hunter
+  type: wikipedia
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=Imperial+Gazetteer+of+India+Volume+16
+  type: other
+- name: 'Wikidata: The Imperial Gazetteer of India'
+  url: https://www.wikidata.org/wiki/Q2617720
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Imperial Gazetteer", "British India", "Reference Work", "Geography", "Colonial India", "William Wilson Hunter", "Statistics", "Administrative History", "20th Century", "Encyclopedia"]
 ---
 
 # The Imperial Gazetteer of India, Volume 16

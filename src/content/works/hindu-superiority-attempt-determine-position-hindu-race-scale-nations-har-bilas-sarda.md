@@ -1,28 +1,35 @@
 ---
-title: "Hindu Superiority: An Attempt to Determine the Position of the Hindu Race in the Scale of Nations"
-author: ["Har Bilas Sarda"]
+title: 'Hindu Superiority: An Attempt to Determine the Position of the Hindu Race in the Scale of Nations'
+author:
+- Har Bilas Sarda
 year: 1906
-language: ["English"]
-genre: ["Cultural Studies", "Historical Literature", "Philosophy"]
-description: "Har Bilas Sarda's influential work examining Hindu civilization and its contributions to world culture. Written during the colonial period, this comprehensive study presents the achievements of ancient India and seeks to establish the historical significance of Hindu cultural and intellectual traditions in comparative civilizational terms."
-collections: ['modern-literature', 'spiritual-texts']
+language:
+- English
+genre:
+- Cultural Studies
+- Historical Literature
+- Philosophy
+description: |
+  Har Bilas Sarda's "Hindu Superiority: An Attempt to Determine the Position of the Hindu Race in the Scale of Nations" is a scholarly text from 1906 that emerged during the intellectual context of the late Bengal Renaissance and early nationalist movements. Written during a period of colonial discourse, the work systematically examines Hindu civilization's historical contributions through a comparative analytical approach. Sarda's text critically investigates technological, mathematical, philosophical, and social developments in the Indian subcontinent, challenging prevailing colonial narratives of cultural hierarchy. By employing archaeological evidence, textual analysis, and comparative historical methodologies, the work documents innovations across multiple domains including mathematics, astronomy, social organization, and philosophical thought. The text represents an early academic effort by a colonized intellectual to reframe external representations of Indian cultural capabilities, using empirical research to construct arguments about Hindu intellectual traditions. Sarda's methodology involves detailed comparative analysis, examining scientific and philosophical developments to demonstrate the sophisticated intellectual genealogy of Hindu civilization. Methodologically, the work is significant as an example of how colonized scholars used academic research strategies to contest imperial epistemological frameworks. For contemporary historians of intellectual movements, the text provides critical insight into how early 20th-century Indian nationalist scholars approached historical self-representation and scholarly counter-narratives to colonial interpretations of cultural development.
+collections:
+- modern-literature
+- spiritual-texts
 sources:
-  - name: "Internet Archive (University of Toronto)"
-    url: "https://archive.org/details/hindusuperiority00sarduoft"
-    type: "other"
-  - name: "Digital Library of India"
-    url: "https://archive.org/details/dli.ministry.13942"
-    type: "other"
+- name: 'Internet Archive (University of Toronto)'
+  url: https://archive.org/details/hindusuperiority00sarduoft
+  type: other
+- name: 'Digital Library of India'
+  url: https://archive.org/details/dli.ministry.13942
+  type: other
 references:
-  - name: "Wikipedia: Har Bilas Sarda"
-    url: "https://en.wikipedia.org/wiki/Har_Bilas_Sarda"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/books/OL23303434M/Hindu_superiority"
-    type: "other"
+- name: 'Wikipedia: Har Bilas Sarda'
+  url: https://en.wikipedia.org/wiki/Har_Bilas_Sarda
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/books/OL23303434M/Hindu_superiority
+  type: other
 featured: false
 publishDate: 2025-09-28
-tags: ["Hindu Civilization", "Cultural Studies", "Har Bilas Sarda", "Colonial Period", "Indian Heritage", "Comparative Civilization", "Cultural Nationalism", "Ancient India", "Civilizational Analysis", "Historical Research", "Social Reform"]
 ---
 
 # Hindu Superiority: An Attempt to Determine the Position of the Hindu Race in the Scale of Nations

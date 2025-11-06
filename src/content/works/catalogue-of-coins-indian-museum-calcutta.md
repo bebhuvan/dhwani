@@ -1,31 +1,39 @@
 ---
-title: "Catalogue of the Coins in the Indian Museum, Calcutta"
-author: ["Vincent Arthur Smith", "Hoey", "Allan"]
+title: 'Catalogue of the Coins in the Indian Museum, Calcutta'
+author:
+- Vincent Arthur Smith
+- Hoey
+- Allan
 year: 1906
-language: ["English"]
-genre: ["Numismatics", "Reference", "Historical Documentation"]
-description: "Multi-volume systematic catalogue of the Indian Museum's numismatic collection, documenting coins from ancient India through Mughal and British periods. Vincent Smith's volumes on ancient and medieval Indian coinage provide essential reference material for dating archaeological sites, tracing political succession, and understanding economic history."
-collections: ['ancient-wisdom']
+language:
+- English
+genre:
+- Numismatics
+- Reference
+- Historical Documentation
+description: |
+  Catalogue of the Coins in the Indian Museum, Calcutta represents a pivotal scholarly work in early 20th-century Indian numismatics, meticulously documenting the expansive coin collection of the Indian Museum during a transformative period of archaeological scholarship. Compiled by Vincent Arthur Smith, a distinguished British civil servant and Indologist who spent three decades researching Indian historical artifacts, the multi-volume catalogue systematically chronicles coins spanning multiple historical epochs—from the early Mauryan period through the complex transitions of medieval Indian kingdoms to the late Mughal and British colonial eras. Smith's comprehensive work emerged during a critical juncture of imperial scholarly engagement, when British academic institutions were simultaneously documenting and interpreting Indian material culture. The volumes provide intricate details about coin metallurgy, iconographic representations, linguistic inscriptions, and economic characteristics, offering unprecedented insights into political succession, trade networks, and socio-economic dynamics across different Indian civilizational periods. By carefully cataloguing and analyzing numismatic evidence, Smith contributed significantly to understanding India's complex historical transitions, bridging archaeological research with historical interpretation. The work's methodological rigor and extensive documentation became a foundational reference for subsequent generations of historians, archaeologists, and economic historians studying the subcontinent's material heritage. Beyond its immediate scholarly value, the catalogue represents an important historical document reflecting the intellectual exchanges and knowledge production methodologies of the late colonial period, capturing a nuanced moment of cross-cultural scholarly collaboration and imperial knowledge systems.
+collections:
+- ancient-wisdom
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/catalogueofcoin00smitgoog"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/catalogueofcoin00smitgoog
+  type: other
 references:
-  - name: "Wikipedia: Vincent Arthur Smith"
-    url: "https://en.wikipedia.org/wiki/Vincent_Arthur_Smith"
-    type: "wikipedia"
-  - name: "Wikipedia: Indian Museum"
-    url: "https://en.wikipedia.org/wiki/Indian_Museum,_Kolkata"
-    type: "wikipedia"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=Catalogue+Coins+Indian+Museum+Calcutta"
-    type: "other"
-  - name: "Wikidata: Vincent Arthur Smith"
-    url: "https://www.wikidata.org/wiki/Q2526407"
-    type: "other"
+- name: 'Wikipedia: Vincent Arthur Smith'
+  url: https://en.wikipedia.org/wiki/Vincent_Arthur_Smith
+  type: wikipedia
+- name: 'Wikipedia: Indian Museum'
+  url: https://en.wikipedia.org/wiki/Indian_Museum,_Kolkata
+  type: wikipedia
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=Catalogue+Coins+Indian+Museum+Calcutta
+  type: other
+- name: 'Wikidata: Vincent Arthur Smith'
+  url: https://www.wikidata.org/wiki/Q2526407
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Numismatics", "Indian Museum", "Vincent Arthur Smith", "Ancient Indian Coins", "Medieval Indian Coins", "Mughal Coinage", "Archaeology", "Economic History", "Catalogue", "Reference Work"]
 ---
 
 # Catalogue of the Coins in the Indian Museum, Calcutta

@@ -1,40 +1,51 @@
 ---
-title: "Buddhist Mahāyāna Texts"
-author: ["Aśvaghoṣa", "Edward B. Cowell", "F. Max Müller", "Junjiro Takakusu"]
+title: 'Buddhist Mahāyāna Texts'
+author:
+- Aśvaghoṣa
+- Edward B. Cowell
+- F. Max Müller
+- Junjiro Takakusu
 year: 1894
-language: ["English"]
-genre: ["Buddhism", "Mahayana Buddhism", "Buddhist sutras", "Buddhist literature"]
-description: "Collection of major Mahayana Buddhist texts including the Buddhacarita, Diamond Sutra, Heart Sutra, and Pure Land sutras, translated by leading scholars."
-collections: ['buddhist-texts', 'scholarly-translations']
+language:
+- English
+genre:
+- Buddhism
+- Mahayana Buddhism
+- Buddhist sutras
+- Buddhist literature
+description: |
+  During the late 19th century, a critical period of cross-cultural intellectual engagement and scholarly exploration of Eastern religious traditions, the "Buddhist Mahāyāna Texts" emerged as a landmark publication in Orientalist and Buddhist scholarship. Published in 1894 by prominent scholars like Edward B. Cowell, F. Max Müller, and Junjiro Takakusu, this collection represented a sophisticated academic endeavor to translate and interpret foundational Mahayana Buddhist scriptures, making complex philosophical and spiritual texts accessible to Western academic audiences. The volume encompasses seminal works including Aśvaghoṣa's Buddhacarita, a comprehensive biographical narrative of the Buddha, alongside critical sutras like the Diamond Sutra and Heart Sutra, which articulate profound metaphysical concepts of emptiness, non-attachment, and transcendental wisdom. These translations were not merely linguistic exercises but sophisticated hermeneutical projects that facilitated nuanced understanding of Indian philosophical and religious thought during a period of intense colonial intellectual exchange. By meticulously rendering these texts in English, the scholars provided unprecedented insight into Mahayana Buddhist epistemology, ontological perspectives, and spiritual practices that had developed over centuries in the Indian subcontinent. The collection's significance extends beyond mere translation, representing a critical moment in comparative religious studies where Indian intellectual traditions were systematically introduced to global scholarly discourse. It exemplified the emerging scholarly methodologies of comparative philosophy, philology, and religious studies, while simultaneously preserving and interpreting a rich philosophical heritage that had been marginalized or misunderstood during earlier colonial encounters. This work remains a foundational text in understanding the sophisticated intellectual and spiritual dimensions of Mahayana Buddhist thought.
+collections:
+- buddhist-texts
+- scholarly-translations
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/buddhistmahy01asvauoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/buddhistmahy01asvauoft
+  type: other
 references:
-  - name: "Wikipedia: Aśvaghoṣa"
-    url: "https://en.wikipedia.org/wiki/Aśvaghoṣa"
-    type: "wikipedia"
-  - name: "Wikipedia: Buddhacharita"
-    url: "https://en.wikipedia.org/wiki/Buddhacharita"
-    type: "wikipedia"
-  - name: "Wikipedia: Diamond Sutra"
-    url: "https://en.wikipedia.org/wiki/Diamond_Sutra"
-    type: "wikipedia"
-  - name: "Wikipedia: Heart Sutra"
-    url: "https://en.wikipedia.org/wiki/Heart_Sutra"
-    type: "wikipedia"
-  - name: "Wikipedia: Mahayana"
-    url: "https://en.wikipedia.org/wiki/Mahayana"
-    type: "wikipedia"
-  - name: "Wikipedia: Max Müller"
-    url: "https://en.wikipedia.org/wiki/Max_Müller"
-    type: "wikipedia"
-  - name: "Open Library: Asvaghosa"
-    url: "https://openlibrary.org/authors/OL2909A/Asvaghosa"
-    type: "openlibrary"
+- name: 'Wikipedia: Aśvaghoṣa'
+  url: https://en.wikipedia.org/wiki/Aśvaghoṣa
+  type: wikipedia
+- name: 'Wikipedia: Buddhacharita'
+  url: https://en.wikipedia.org/wiki/Buddhacharita
+  type: wikipedia
+- name: 'Wikipedia: Diamond Sutra'
+  url: https://en.wikipedia.org/wiki/Diamond_Sutra
+  type: wikipedia
+- name: 'Wikipedia: Heart Sutra'
+  url: https://en.wikipedia.org/wiki/Heart_Sutra
+  type: wikipedia
+- name: 'Wikipedia: Mahayana'
+  url: https://en.wikipedia.org/wiki/Mahayana
+  type: wikipedia
+- name: 'Wikipedia: Max Müller'
+  url: https://en.wikipedia.org/wiki/Max_Müller
+  type: wikipedia
+- name: 'Open Library: Asvaghosa'
+  url: https://openlibrary.org/authors/OL2909A/Asvaghosa
+  type: openlibrary
 featured: false
 publishDate: 2025-10-26
-tags: ["Buddhism", "Mahayana Buddhism", "Ancient India", "Buddhist sutras", "Pure Land Buddhism", "Prajnaparamita", "religious texts", "digital heritage", "public domain"]
 ---
 
 # Buddhist Mahāyāna Texts

@@ -1,28 +1,37 @@
 ---
-title: "Si-yu-ki: Buddhist Records of the Western World"
-author: ["Xuanzang (Hsüan-tsang)", "tr. Samuel Beal"]
+title: 'Si-yu-ki: Buddhist Records of the Western World'
+author:
+- Xuanzang (Hsüan-tsang)
+- tr. Samuel Beal
 year: 1884
-language: ["English", "Chinese"]
-genre: ["Travel Literature", "Buddhist Literature", "Historical Geography"]
-description: "The Si-yu-ki (西域記, *Da Tang Xiyu Ji*, 'Great Tang Records on the Western Regions') is Chinese Buddhist monk Xuanzang's (玄奘, 602-664 CE) travelogue documenting his sixteen-year journey (629-645 CE) from Tang China to India. Samuel Beal's 1884 translation introduced this Chinese text to Western scholarship."
-collections: ['spiritual-texts', 'ancient-wisdom']
+language:
+- English
+- Chinese
+genre:
+- Travel Literature
+- Buddhist Literature
+- Historical Geography
+description: |
+  The Si-yu-ki (西域記, *Da Tang Xiyu Ji*) represents a pivotal historical and cultural narrative of Buddhist scholarly exploration during the Tang Dynasty's zenith, chronicling Xuanzang's comprehensive sixteen-year pilgrimage (629-645 CE) across the complex geopolitical landscape of Central and South Asia. As a seminal monk-scholar from Chang'an, Xuanzang undertook an extraordinary overland journey through treacherous Silk Road territories, meticulously documenting geographical, cultural, and religious observations of regions including modern-day Afghanistan, Pakistan, Nepal, and India. His detailed account provides unparalleled insights into the socio-religious environments of medieval Buddhist kingdoms, offering nuanced descriptions of monastic institutions, philosophical practices, and regional political structures. The text is particularly significant for Indian studies, presenting one of the most comprehensive external perspectives on 7th-century Indian civilization, including detailed observations of Gupta and post-Gupta cultural contexts. Xuanzang's scholarly rigor is evident in his systematic documentation of Buddhist philosophical schools, architectural descriptions of major monasteries like Nalanda, and ethnographic observations of regional cultures. Beyond its immediate historical value, the Si-yu-ki served as a critical bridge of cultural understanding between China and the Indian subcontinent, facilitating unprecedented cross-cultural knowledge transmission. Samuel Beal's 1884 translation was instrumental in introducing this profound work to Western scholarly discourse, enabling broader academic engagement with this remarkable firsthand account of medieval Buddhist intellectual and cultural landscapes. The text remains an indispensable primary source for historians, religious scholars, and anthropologists studying trans-continental cultural interactions during this pivotal period of Asian intellectual exchange.
+collections:
+- spiritual-texts
+- ancient-wisdom
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/siyukibuddhistre01hsuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/siyukibuddhistre01hsuoft
+  type: other
 references:
-  - name: "Wikipedia: Xuanzang"
-    url: "https://en.wikipedia.org/wiki/Xuanzang"
-    type: "wikipedia"
-  - name: "Wikipedia: Great Tang Records on the Western Regions"
-    url: "https://en.wikipedia.org/wiki/Great_Tang_Records_on_the_Western_Regions"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Si-yu-ki+Buddhist+Records+Western+World&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Xuanzang'
+  url: https://en.wikipedia.org/wiki/Xuanzang
+  type: wikipedia
+- name: 'Wikipedia: Great Tang Records on the Western Regions'
+  url: https://en.wikipedia.org/wiki/Great_Tang_Records_on_the_Western_Regions
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Si-yu-ki+Buddhist+Records+Western+World&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-21
-tags: ["Xuanzang", "Buddhist pilgrimage", "7th century", "Tang Dynasty", "Ancient India", "Silk Road", "Nalanda University", "Travel literature", "Buddhist history", "Central Asia", "Harsha", "Samuel Beal", "Religious geography", "Primary source", "Chinese Buddhism"]
 ---
 
 # Si-yu-ki: Buddhist Records of the Western World

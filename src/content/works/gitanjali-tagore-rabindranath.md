@@ -1,5 +1,5 @@
 ---
-title: Gitanjali
+title: 'Gitanjali'
 author:
 - Rabindranath Tagore
 year: 1913
@@ -7,34 +7,31 @@ language:
 - English
 genre:
 - Poetry
-description: Rabindranath Tagore's self-translated collection of devotional poetry
-  that won him the 1913 Nobel Prize in Literature, making him the first non-European
-  laureate. Originally composed in Bengali and rendered into English prose-poems by
-  the author himself, this work introduced Indian spiritual literature to the Western
-  world.
+description: |
+  Gitanjali represents a pivotal work in early 20th-century Indian literary modernism, emerging during the Bengal Renaissance and colonial period when Indian intellectuals were redefining cultural expression. Composed by Rabindranath Tagore, a polymath who significantly transformed Bengali literature and philosophy, this collection of devotional poems explores complex spiritual and philosophical themes through a distinctive lyrical approach that bridges traditional mystical poetry with contemporary sensibilities. Originally written in Bengali and subsequently self-translated into English, the work reflects profound philosophical contemplations on divinity, human relationships, nature, and spiritual interconnectedness. The poems transcend conventional religious boundaries, presenting a syncretic spiritual vision that draws from Vedantic philosophy, Brahmo Samaj reformist thought, and universal humanistic principles. Tagore's innovative poetic technique—characterized by intimate, conversational language and deeply personal metaphysical explorations—represents a radical departure from both traditional Sanskrit poetry and colonial-era English literary forms. Each poem in the collection functions as a metaphorical dialogue with the divine, exploring themes of surrender, love, philosophical questioning, and transcendental connection. By receiving the 1913 Nobel Prize in Literature, Tagore not only became the first non-European Nobel laureate but also introduced global audiences to the depth and complexity of Indian philosophical and literary traditions. Gitanjali fundamentally challenged prevailing Western perceptions of Indian spiritual and literary expression, presenting a sophisticated, nuanced understanding of mystical experience that resonated across cultural boundaries and established Tagore as a significant global intellectual figure.
 collections:
 - poetry-collection
 - classical-literature
 sources:
-- name: Internet Archive - 1913 Macmillan First Edition with W.B. Yeats Introduction
+- name: 'Internet Archive - 1913 Macmillan First Edition with W.B. Yeats Introduction'
   url: https://archive.org/details/gitanjalisongoff00tagouoft
   type: other
-- name: Internet Archive - 1913 Macmillan Edition (University of Toronto)
+- name: 'Internet Archive - 1913 Macmillan Edition (University of Toronto)'
   url: https://archive.org/details/gitanjalisongoff00tago
   type: other
-- name: Internet Archive - Complete Digital Collection
+- name: 'Internet Archive - Complete Digital Collection'
   url: https://archive.org/details/gitanjali-rabindranath-tagore/
   type: other
-- name: Internet Archive - 1914 Edition
+- name: 'Internet Archive - 1914 Edition'
   url: https://archive.org/details/Gitanjali1914RabindranathTagore
   type: other
-- name: Internet Archive - Song Offerings Collection
+- name: 'Internet Archive - Song Offerings Collection'
   url: https://archive.org/details/gitanjalisongoff0000tago_x8y9
   type: other
-- name: Project Gutenberg
+- name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/7164
   type: other
-- name: Project Gutenberg (HTML)
+- name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/7164.html.images
   type: other
 references:
@@ -49,17 +46,6 @@ references:
   type: other
 featured: true
 publishDate: 2025-11-01
-tags:
-- Rabindranath Tagore
-- Nobel Prize Literature
-- Bengali Poetry
-- Devotional Literature
-- Song Offerings
-- W.B. Yeats
-- Macmillan 1913
-- Indian Spirituality
-- Prose Poems
-- English Translation
 ---
 
 # Gitanjali

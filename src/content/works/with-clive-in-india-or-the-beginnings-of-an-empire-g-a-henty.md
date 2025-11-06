@@ -1,28 +1,32 @@
 ---
-title: "With Clive in India; or, The Beginnings of an Empire"
-author: ["G. A. Henty"]
+title: 'With Clive in India; or, The Beginnings of an Empire'
+author:
+- G. A. Henty
 year: 1884
-language: ["English"]
-genre: ["Literature"]
-description: "With Clive in India; or, The Beginnings of an Empire by G. Henty (1884) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage. Digitally preserved and freely available for research, education, and cultural appreciation."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Literature
+description: |
+  With Clive in India; or, The Beginnings of an Empire by G. A. Henty represents a pivotal historical narrative situated at the intersection of British colonial literature and imperial historical representation during the mid-Victorian era. Published in 1884, the work explores the early stages of British territorial expansion in India through a historical adventure narrative, focusing on Robert Clive's military campaigns and the East India Company's transformative role in the subcontinent. Henty, a prolific British journalist and novelist known for his historical fiction targeted at young readers, constructs a narrative that simultaneously reflects contemporary imperial perspectives and provides insights into the complex geopolitical dynamics of 18th-century India. The text critically examines the initial encounters between British colonial agents and Indian political structures, particularly the interactions between British military personnel and the Mughal and regional Indian kingdoms. While fundamentally presenting a predominantly British imperial perspective, the work inadvertently documents significant cultural and political transitions during a crucial period of Indian history. Henty's narrative style combines detailed historical research with dramatic storytelling, offering contemporary readers a nuanced, albeit colonial, understanding of the political transformations occurring in the Indian subcontinent. The book's significance extends beyond its immediate historical context, serving as a valuable primary source for understanding British imperial historiography, colonial representations of Indian society, and the narrative techniques used to conceptualize imperial expansion. For scholars of Indian colonial studies, literature, and imperial history, the text provides a compelling lens through which to analyze metropolitan British interpretations of Indian political and cultural landscapes during a critical period of colonial engagement.
+collections:
+- modern-literature
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/18833"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/withcliveinindia00hent"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/18833
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/withcliveinindia00hent
+  type: other
 references:
-  - name: "Wikipedia: G. A. Henty"
-    url: "https://en.wikipedia.org/wiki/G._A._Henty"
-    type: "wikipedia"
-  - name: "Open Library: With Clive in India;"
-    url: "https://openlibrary.org/search?q=With+Clive+in+India+or+The+G+A+Henty"
-    type: "other"
+- name: 'Wikipedia: G. A. Henty'
+  url: https://en.wikipedia.org/wiki/G._A._Henty
+  type: wikipedia
+- name: 'Open Library: With Clive in India;'
+  url: https://openlibrary.org/search?q=With+Clive+in+India+or+The+G+A+Henty
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 ## Historical Context and Publication

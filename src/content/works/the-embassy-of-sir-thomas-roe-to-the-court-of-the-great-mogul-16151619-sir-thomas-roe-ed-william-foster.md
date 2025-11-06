@@ -1,31 +1,36 @@
 ---
-title: "The Embassy of Sir Thomas Roe to the Court of the Great Mogul, 1615–1619"
-author: ["Sir Thomas Roe", "ed. William Foster"]
+title: 'The Embassy of Sir Thomas Roe to the Court of the Great Mogul, 1615–1619'
+author:
+- Sir Thomas Roe
+- ed. William Foster
 year: 1899
-language: ["English"]
-genre: ["Political Literature"]
-description: "The Embassy of Sir Thomas Roe to the Court of the Great Mogul, 1615–1619 by Sir Thomas Roe, ed. William Foster (1899 (Hakluyt Society)) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Political Literature
+description: |
+  Sir Thomas Roe's diplomatic account of his embassy to the Mughal court represents a pivotal textual artifact documenting early Anglo-Mughal diplomatic interactions during the transformative period of the early 17th century. Published by the Hakluyt Society in 1899 and meticulously edited by William Foster, this work provides a nuanced firsthand narrative of British diplomatic engagement with the Mughal Empire during the reign of Emperor Jahangir. Roe, serving as the first official English ambassador to the Mughal court, offers a sophisticated ethnographic and political record that illuminates complex intercultural negotiations between British commercial interests and Mughal imperial protocols. His detailed observations capture the intricate diplomatic rituals, court protocols, and socio-political dynamics of the Mughal imperial system, rendering invaluable insights into the cultural and political landscape of early modern India. The text significantly contributes to understanding the emerging global interactions between European maritime powers and South Asian imperial structures, documenting the nascent stages of British commercial and diplomatic presence in the Indian subcontinent. Roe's account provides critical perspectives on Mughal administrative practices, courtly etiquette, geographical descriptions, and the complex economic and political negotiations that would subsequently shape colonial interactions. Beyond its historical significance, the work serves as a crucial primary source for scholars of Indian history, colonial studies, diplomatic history, and cross-cultural interactions, offering a rare European perspective on Mughal imperial civilization during a period of substantial geopolitical transformation. Its scholarly value lies in its meticulous documentation of intercultural encounters and the emerging global networks of the early 17th century.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.210927"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.73384"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/embassysirthoma00roegoog"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.210927
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.73384
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/embassysirthoma00roegoog
+  type: other
 references:
-  - name: "Wikipedia: Thomas Roe"
-    url: "https://en.wikipedia.org/wiki/Thomas_Roe"
-    type: "wikipedia"
-  - name: "Open Library: The Embassy of Sir"
-    url: "https://openlibrary.org/search?q=The+Embassy+of+Sir+Thomas+Roe+Sir+Thomas+Roe"
-    type: "other"
+- name: 'Wikipedia: Thomas Roe'
+  url: https://en.wikipedia.org/wiki/Thomas_Roe
+  type: wikipedia
+- name: 'Open Library: The Embassy of Sir'
+  url: https://openlibrary.org/search?q=The+Embassy+of+Sir+Thomas+Roe+Sir+Thomas+Roe
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 # The Embassy of Sir Thomas Roe to the Court of the Great Mogul, 1615–1619

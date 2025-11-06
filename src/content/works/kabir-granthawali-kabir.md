@@ -1,15 +1,24 @@
 ---
-title: "Kabir-granthawali"
-author: ["Kabir", "Shyamsundar Das"]
+title: 'Kabir-granthawali'
+author:
+- Kabir
+- Shyamsundar Das
 year: 1874
-language: ["Hindi"]
-genre: ["Poetry", "Sacred Texts"]
-description: "Kabir-granthawali first issued in 1874 authored by Shyamsundar Das presents a significant contribution to Indian letters."
-collections: ["poetry-collection", "religious-texts", "devotional-poetry"]
+language:
+- Hindi
+genre:
+- Poetry
+- Sacred Texts
+description: |
+  Kabir-granthawali represents a seminal compilation of works by Kabir, a revolutionary 15th-century mystic poet who emerged during the pivotal Bhakti-Sufi movement in medieval North India. Situated within a complex sociocultural landscape marked by Hindu-Muslim tensions, Kabir developed a radical philosophical and spiritual approach that transcended traditional religious boundaries. The text, first systematically compiled and published by scholar Shyamsundar Das in 1874, captures Kabir's distinctive poetic voice that critiqued ritualistic religious practices while advocating for a deeply personal, experiential spiritual understanding. Born into a weaver community and likely influenced by both Islamic and Hindu philosophical traditions, Kabir composed primarily in a vernacular Hindi dialect that made his profound spiritual insights accessible to diverse social strata. His poetry, characterized by sharp philosophical aphorisms and penetrating spiritual metaphors, challenged established religious orthodoxies by emphasizing inner spiritual transformation over external religious markers. The Kabir-granthawali preserves dohas (couplets), sabdas (hymns), and spiritual verses that articulate a universalist theological perspective, rejecting sectarian divisions and promoting direct mystical connection with the divine. Particularly significant is Kabir's critique of ritualistic practices in both Hinduism and Islam, advocating instead for a syncretic spiritual path rooted in personal introspection and moral integrity. This compilation not only represents a critical document in North Indian literary and spiritual history but also serves as a profound testament to the potential for religious dialogue and mutual understanding during a complex period of cultural negotiation. The work remains instrumental in understanding medieval Indian intellectual and spiritual discourse, influencing subsequent devotional and philosophical movements across the subcontinent.
+collections:
+- poetry-collection
+- religious-texts
+- devotional-poetry
 sources:
-- name: "Internet Archive"
-  url: "https://archive.org/details/in.ernet.dli.2015.446885"
-  type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.446885
+  type: other
 references:
 - name: 'Wikipedia: Kabir-granthawali...'
   url: https://en.wikipedia.org/wiki/Kabir
@@ -31,8 +40,8 @@ references:
   type: openlibrary
 featured: false
 publishDate: 2025-01-22
-tags: ["poetry-collection", "religious-texts", "hindi", "devotional-poetry", "19th-century"]
 ---
+
 # Kabir-granthawali
 
 ## Overview

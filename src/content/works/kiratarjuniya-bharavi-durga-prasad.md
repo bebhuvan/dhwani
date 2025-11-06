@@ -1,40 +1,48 @@
 ---
-title: "The Kirātārjunīya of Bhāravi"
-author: ["Bharavi", "Edited by Durga Prasad"]
+title: 'The Kirātārjunīya of Bhāravi'
+author:
+- Bharavi
+- Edited by Durga Prasad
 year: 1895
-language: ["Sanskrit"]
-genre: ["Mahakavya", "Epic Poetry", "Classical Literature"]
-description: "Annotated scholarly edition of Bharavi's 6th-century Sanskrit mahakavya depicting the combat between Arjuna and Shiva disguised as a kirata (mountain hunter). Regarded as one of the most powerful poems in Sanskrit literature, the epic spans eighteen cantos narrating how Arjuna earns the Pashupatastra through battle with the divine hunter. Noted for extraordinary linguistic complexity, brevity, and depth (arthagauravam), with over 42 commentaries written on it."
-collections: ['classical-literature', 'poetry-collection']
+language:
+- Sanskrit
+genre:
+- Mahakavya
+- Epic Poetry
+- Classical Literature
+description: |
+  The Kirātārjunīya, composed by Bharavi in the 6th century CE, represents a pinnacle of classical Sanskrit mahakavya (epic) literature, exploring a profound mythological encounter between the Pandava hero Arjuna and Lord Shiva in disguise as a mountain hunter. This sophisticated work meticulously narrates Arjuna's spiritual quest and martial trial, wherein he confronts a disguised divine being to earn the powerful Pashupatastra weapon through intense combat and philosophical negotiation. Bharavi's masterpiece, spanning eighteen intricate cantos, exemplifies the sophisticated literary conventions of classical Sanskrit poetry, demonstrating extraordinary linguistic precision, semantic density (arthagauravam), and multilayered narrative complexity. Scholars have extensively analyzed the text, generating over 42 commentaries that attest to its profound literary and philosophical significance. The work elegantly interweaves mythological narrative with complex linguistic ornamentation, representing a sophisticated exploration of dharma, divine intervention, and human spiritual transformation. By reimagining the Mahabharata episode, Bharavi elevates a mythic encounter into a nuanced meditation on divine grace, human potential, and the intricate relationship between human effort and supernatural agency. The text's enduring significance lies in its masterful literary technique, philosophical depth, and its capacity to reinterpret classical Hindu mythological narratives through sophisticated poetic discourse, making it a critical touchstone in understanding medieval Indian intellectual and literary traditions. Its sustained scholarly engagement demonstrates the remarkable hermeneutical sophistication of classical Sanskrit literary culture.
+collections:
+- classical-literature
+- poetry-collection
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.485479"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.485479
+  type: other
 references:
-  - name: "Wikipedia: Kirātārjunīya"
-    url: "https://en.wikipedia.org/wiki/Kirātārjunīya"
-    type: "wikipedia"
-  - name: "Wikipedia: Bharavi"
-    url: "https://en.wikipedia.org/wiki/Bharavi"
-    type: "wikipedia"
-  - name: "Wikipedia: Mahakavya"
-    url: "https://en.wikipedia.org/wiki/Mahakavya"
-    type: "wikipedia"
-  - name: "Wikipedia: Pashupatastra"
-    url: "https://en.wikipedia.org/wiki/Pashupatastra"
-    type: "wikipedia"
-  - name: "Wikipedia: Mahabharata"
-    url: "https://en.wikipedia.org/wiki/Mahabharata"
-    type: "wikipedia"
-  - name: "Wikipedia: Arjuna"
-    url: "https://en.wikipedia.org/wiki/Arjuna"
-    type: "wikipedia"
-  - name: "Open Library: Kiratarjuniya"
-    url: "https://openlibrary.org/works/OL324659W"
-    type: "openlibrary"
+- name: 'Wikipedia: Kirātārjunīya'
+  url: https://en.wikipedia.org/wiki/Kirātārjunīya
+  type: wikipedia
+- name: 'Wikipedia: Bharavi'
+  url: https://en.wikipedia.org/wiki/Bharavi
+  type: wikipedia
+- name: 'Wikipedia: Mahakavya'
+  url: https://en.wikipedia.org/wiki/Mahakavya
+  type: wikipedia
+- name: 'Wikipedia: Pashupatastra'
+  url: https://en.wikipedia.org/wiki/Pashupatastra
+  type: wikipedia
+- name: 'Wikipedia: Mahabharata'
+  url: https://en.wikipedia.org/wiki/Mahabharata
+  type: wikipedia
+- name: 'Wikipedia: Arjuna'
+  url: https://en.wikipedia.org/wiki/Arjuna
+  type: wikipedia
+- name: 'Open Library: Kiratarjuniya'
+  url: https://openlibrary.org/works/OL324659W
+  type: openlibrary
 featured: false
 publishDate: 2025-10-26
-tags: ["Bharavi", "Kiratarjuniya", "Mahakavya", "Sanskrit poetry", "6th century", "Arjuna", "Shiva", "Pashupatastra", "Classical Sanskrit", "Epic literature", "Durga Prasad", "Mahabharata", "Kavya", "Literary criticism"]
 ---
 
 # The Kirātārjunīya of Bhāravi

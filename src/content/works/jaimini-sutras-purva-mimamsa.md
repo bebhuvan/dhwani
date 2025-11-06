@@ -1,37 +1,48 @@
 ---
-title: "Jaimini Sutras: Purva Mimamsa (Vedic Ritual Interpretation)"
-author: ["Jaimini"]
+title: 'Jaimini Sutras: Purva Mimamsa (Vedic Ritual Interpretation)'
+author:
+- Jaimini
 year: -250
-language: ["Sanskrit", "English"]
-genre: ["Philosophy", "Religious Studies", "Classical Literature"]
-description: "The foundational text of Mimamsa philosophy composed by Jaimini around 300-200 BCE, establishing comprehensive hermeneutical principles for Vedic interpretation and ritual philosophy. Organized into twelve chapters, this seminal work establishes Vedic authority as supreme and systematizes ritual action (karma) as the path to dharma and liberation."
-collections: ['philosophy', 'religious-texts', 'classical-literature', 'ancient-wisdom', 'scholarly-translations']
+language:
+- Sanskrit
+- English
+genre:
+- Philosophy
+- Religious Studies
+- Classical Literature
+description: |
+  The Jaimini Sutras, a foundational philosophical text of Purva Mimamsa, represents a critical intellectual achievement in classical Indian philosophical discourse, composed circa 300-200 BCE during the late Vedic and early classical Sanskrit period. Authored by the sage Jaimini, this sophisticated philosophical treatise systematically articulates hermeneutical principles for Vedic interpretation, establishing a rigorous methodology for understanding sacred textual traditions. The work comprises twelve meticulously structured chapters that explore the epistemological and ritualistic dimensions of Vedic knowledge, with a profound emphasis on deciphering the intrinsic meaning and authoritative interpretation of Vedic injunctions. Jaimini's comprehensive approach establishes a sophisticated philosophical framework that elevates ritual action (karma) as a central mechanism for understanding dharmic principles and spiritual liberation. The text critically analyzes the nature of Vedic prescriptions, developing intricate logical arguments about ritual performance, textual interpretation, and the relationship between human action and cosmic order. By providing a systematic methodology for understanding scriptural texts, the Jaimini Sutras significantly influenced subsequent Indian philosophical schools, particularly Vedanta and Dharma Shastra traditions. Its rigorous analytical approach demonstrates the advanced intellectual sophistication of classical Indian philosophical discourse, offering profound insights into ritual hermeneutics, epistemology, and the complex relationship between textual interpretation and spiritual practice. The work remains a seminal reference for scholars of Indian philosophy, religious studies, and comparative hermeneutics, embodying the intellectual depth and philosophical complexity of classical Sanskrit scholarly traditions.
+collections:
+- philosophy
+- religious-texts
+- classical-literature
+- ancient-wisdom
+- scholarly-translations
 sources:
-  - name: "Internet Archive (Ganganatha Jha translation)"
-    url: "https://archive.org/details/dli.ernet.170066"
-    type: "other"
-  - name: "Internet Archive: Purva Mimamsa Sutras"
-    url: "https://archive.org/search?query=purva+mimamsa+sutras"
-    type: "other"
+- name: 'Internet Archive (Ganganatha Jha translation)'
+  url: https://archive.org/details/dli.ernet.170066
+  type: other
+- name: 'Internet Archive: Purva Mimamsa Sutras'
+  url: https://archive.org/search?query=purva+mimamsa+sutras
+  type: other
 references:
-  - name: "Wikipedia: Purva Mimamsa Sutras"
-    url: "https://en.wikipedia.org/wiki/Purva_Mimamsa_Sutras"
-    type: "wikipedia"
-  - name: "Wikipedia: Jaimini"
-    url: "https://en.wikipedia.org/wiki/Jaimini"
-    type: "wikipedia"
-  - name: "Wikipedia: Mimamsa"
-    url: "https://en.wikipedia.org/wiki/Mīmāṃsā"
-    type: "wikipedia"
-  - name: "Wikipedia: Sabara"
-    url: "https://en.wikipedia.org/wiki/Sabara"
-    type: "wikipedia"
-  - name: "Internet Encyclopedia of Philosophy: Mimamsa"
-    url: "https://iep.utm.edu/mimamsa/"
-    type: "other"
+- name: 'Wikipedia: Purva Mimamsa Sutras'
+  url: https://en.wikipedia.org/wiki/Purva_Mimamsa_Sutras
+  type: wikipedia
+- name: 'Wikipedia: Jaimini'
+  url: https://en.wikipedia.org/wiki/Jaimini
+  type: wikipedia
+- name: 'Wikipedia: Mimamsa'
+  url: https://en.wikipedia.org/wiki/Mīmāṃsā
+  type: wikipedia
+- name: 'Wikipedia: Sabara'
+  url: https://en.wikipedia.org/wiki/Sabara
+  type: wikipedia
+- name: 'Internet Encyclopedia of Philosophy: Mimamsa'
+  url: https://iep.utm.edu/mimamsa/
+  type: other
 featured: false
 publishDate: 2025-11-02
-tags: ['classical-literature', 'philosophy', 'religious-texts']
 ---
 
 # Jaimini Sutras: Purva Mimamsa (Vedic Ritual Interpretation)

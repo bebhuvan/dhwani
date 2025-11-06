@@ -1,0 +1,970 @@
+
+> dhwani@2.0.0 deploy
+> npm run build && wrangler deploy
+
+
+> dhwani@2.0.0 build
+> npm run generate-og && astro build && npm run pagefind && npm run generate-related
+
+
+> dhwani@2.0.0 generate-og
+> node scripts/generate-og-image.js
+
+✅ OG image created successfully at public/og-image.jpg
+17:09:51 [vite] Re-optimizing dependencies because vite config has changed
+17:09:52 [content] Syncing content
+17:09:52 [WARN] [glob-loader] No files found matching "**/*{.md,.mdx},!**/_*/**/*{.md,.mdx},!**/_*{.md,.mdx}" in directory "src/content/collections"
+17:09:52 [WARN] [glob-loader] No files found matching "**/*{.md,.mdx},!**/_*/**/*{.md,.mdx},!**/_*{.md,.mdx}" in directory "src/content/authors"
+17:09:52 [content] Synced content
+17:09:52 [types] Generated 868ms
+17:09:52 [build] output: "static"
+17:09:52 [build] mode: "static"
+17:09:52 [build] directory: /home/bhuvanesh.r/AA/A main projects/Dhwani files/new-dhwani/dist/
+17:09:52 [build] Collecting build info...
+17:09:52 [build] ✓ Completed in 897ms.
+17:09:52 [build] Building static entrypoints...
+17:09:55 [vite] ✓ built in 3.21s
+17:09:55 [build] ✓ Completed in 3.24s.
+
+ building client (vite) 
+17:09:55 [vite] transforming...
+17:09:55 [vite] ✓ 3 modules transformed.
+17:09:55 [vite] rendering chunks...
+17:09:56 [vite] computing gzip size...
+17:09:56 [vite] dist/assets/page.C1jit8hC.js  2.50 kB │ gzip: 1.11 kB
+17:09:56 [vite] ✓ built in 81ms
+
+ generating static routes 
+17:09:56 ▶ src/pages/about.astro
+17:09:56   └─ /about.html (+6ms) 
+17:09:56 ▶ src/pages/archive/[page].astro
+17:09:56   ├─ /archive/1.html (+29ms) 
+17:09:56   ├─ /archive/2.html (+13ms) 
+17:09:56   ├─ /archive/3.html (+15ms) 
+17:09:56   ├─ /archive/4.html (+11ms) 
+17:09:56   ├─ /archive/5.html (+10ms) 
+17:09:56   ├─ /archive/6.html (+14ms) 
+17:09:56   ├─ /archive/7.html (+10ms) 
+17:09:56   ├─ /archive/8.html (+10ms) 
+17:09:56   ├─ /archive/9.html (+15ms) 
+17:09:56   ├─ /archive/10.html (+7ms) 
+17:09:56   ├─ /archive/11.html (+9ms) 
+17:09:56   ├─ /archive/12.html (+6ms) 
+17:09:56   ├─ /archive/13.html (+7ms) 
+17:09:56   └─ /archive/14.html (+5ms) 
+17:09:56 λ src/pages/archive-data.json.ts
+17:09:56   └─ /archive-data.json (+31ms) 
+17:09:56 ▶ src/pages/authors.astro
+17:09:56   └─ /authors.html (+33ms) 
+17:09:56 ▶ src/pages/blog.astro
+17:09:56   └─ /blog.html (+2ms) 
+17:09:56 ▶ src/pages/blog/[...slug].astro
+17:09:56   └─ /blog/introducing-dhwani.html (+2ms) 
+17:09:56 ▶ src/pages/collections.astro
+17:09:56   └─ /collections.html (+26ms) 
+17:09:56 ▶ src/pages/contribute.astro
+17:09:56   └─ /contribute.html (+3ms) 
+17:09:56 ▶ src/pages/languages.astro
+17:09:56   └─ /languages.html (+21ms) 
+17:09:56 λ src/pages/rss.xml.js
+17:09:56   └─ /rss.xml (+110ms) 
+17:09:56 ▶ src/pages/works/[...slug].astro
+17:09:56   ├─ /works/1-bhikshu-pratimoksha-2-bhikshuna-pratimoksha-3-mahabagga-4-chullabagga-sanskrityan-rahul.html (+38ms) 
+17:09:56   ├─ /works/a-comparative-grammar-of-the-dravidian-or-south-indian-family-of-languages-robert-caldwell.html (+72ms) 
+17:09:56   ├─ /works/a-comparative-grammar-of-the-sanskrit-zend-greek-latin-lithuanian-gothic-german-and-slavonic-languages-bopp.html (+21ms) 
+17:09:56   ├─ /works/a-bibliography-of-the-sanskrit-drama-montgomery-schuyler.html (+20ms) 
+17:09:56   ├─ /works/a-compendium-of-the-comparative-grammar-of-the-indo-european-sanskrit-greek-and-latin-languages-schleicher.html (+18ms) 
+17:09:56   ├─ /works/a-concordance-to-the-greek-testament-according-to-the-texts-of-westcott-and-hort-tischendorf-and-the-english-revisers-moulton.html (+18ms) 
+17:09:56   ├─ /works/a-digest-of-the-hindu-law-of-inheritance-partition-and-adoption-embodying-the-replies-of-the-sstris-with-introductions-and-notes-1832-1912-sir-raymond-west.html (+17ms) 
+17:09:56   ├─ /works/a-forgotten-empire-vijayanagar-a-contribution-to-the-history-of-india-1845-1925-robert-sewell.html (+18ms) 
+17:09:56   ├─ /works/a-glossary-of-judicial-and-revenue-terms-h-h-wilson.html (+21ms) 
+17:09:56   ├─ /works/a-grammar-of-the-bengal-language-nathaniel-brassey-halhed.html (+17ms) 
+17:09:56   ├─ /works/a-grammar-of-the-hindustani-language-john-shakespear.html (+21ms) 
+17:09:57   ├─ /works/a-handbook-of-some-south-indian-grasses-k-rangachari-c-tadulinga-mudaliyar.html (+24ms) 
+17:09:57   ├─ /works/a-guide-to-nalanda-ghosh.html (+71ms) 
+17:09:57   ├─ /works/a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale.html (+21ms) 
+17:09:57   ├─ /works/a-history-of-architecture-in-all-countries-from-the-earliest-times-to-the-present-day-fergusson.html (+16ms) 
+17:09:57   ├─ /works/a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale-m-r.html (+17ms) 
+17:09:57   ├─ /works/a-history-of-hindi-literature-keay.html (+17ms) 
+17:09:57   ├─ /works/a-history-of-sanskrit-literature-macdonell.html (+16ms) 
+17:09:57   ├─ /works/a-history-of-the-mahrattas-3-vols-james-grant-duff.html (+18ms) 
+17:09:57   ├─ /works/a-history-of-the-maratha-people-voli-c-a-kincaid.html (+25ms) 
+17:09:57   ├─ /works/a-journey-from-madras-through-the-countries-of-mysore-canara-and-malabar-1762-1829-francis-buchanan-hamilton.html (+19ms) 
+17:09:57   ├─ /works/a-new-hindustani-english-dictionary-fallon-s.html (+20ms) 
+17:09:57   ├─ /works/a-record-of-buddhistic-kingdoms-faxian-james-legge.html (+20ms) 
+17:09:57   ├─ /works/a-sanskrit-english-dictionary-being-a-practical-handbook-with-transliteration-accentuation-and-etymological-analysis-throughout-macdonell.html (+75ms) 
+17:09:57   ├─ /works/a-sanskrit-grammar-for-beginners-macdonell.html (+31ms) 
+17:09:57   ├─ /works/a-sanskrit-grammar-including-both-the-classical-language-and-the-older-dialects-of-veda-and-brahmana-william-dwight-whitney.html (+29ms) 
+17:09:57   ├─ /works/a-sanskrit-manual-for-high-schools-antoine.html (+27ms) 
+17:09:57   ├─ /works/a-sanskrit-manual-for-high-schools-antoine-robert-1914.html (+19ms) 
+17:09:57   ├─ /works/a-sanskritenglish-dictionary-enlarged-ed-monier-monier-williams.html (+18ms) 
+17:09:57   ├─ /works/a-short-guide-to-buddhist-remains-at-nalanda-kuraishi.html (+21ms) 
+17:09:57   ├─ /works/a-study-of-the-bhagavata-purana-sinha.html (+16ms) 
+17:09:57   ├─ /works/a-vedic-reader-for-students-arthur-anthony-macdonell.html (+17ms) 
+17:09:57   ├─ /works/a-tibetan-english-dictionary-heinrich-august-jaschke.html (+20ms) 
+17:09:57   ├─ /works/abhijnana-shakuntalam-kalidasa.html (+26ms) 
+17:09:57   ├─ /works/a-voyage-to-new-guinea-and-the-moluccas-thomas-forrest.html (+58ms) 
+17:09:57   ├─ /works/acharanga-sutra.html (+20ms) 
+17:09:57   ├─ /works/across-india-or-live-boys-in-the-far-east-william-taylor-adams-oliver-optic.html (+19ms) 
+17:09:57   ├─ /works/adhyatma-ramayanam-kilippattu-ezhuthachan-malayalam.html (+18ms) 
+17:09:57   ├─ /works/aitareya-upanishad.html (+18ms) 
+17:09:57   ├─ /works/akbar-emperor-of-india-richard-garbe.html (+17ms) 
+17:09:57   ├─ /works/akbar-the-great-mogul-1542-1605-smith.html (+19ms) 
+17:09:57   ├─ /works/akuntal-or-the-lost-ring-klidsa-tr-monier-monier-williams.html (+18ms) 
+17:09:57   ├─ /works/alberunis-india.html (+22ms) 
+17:09:57   ├─ /works/algebra-arithmetic-mensuration-brahmegupta-bhaskara-colebrooke.html (+18ms) 
+17:09:57   ├─ /works/amarakosha-amarasimha-colebrooke-ed.html (+23ms) 
+17:09:57   ├─ /works/an-alphabetical-list-of-jaina-mss-belonging-to-government-in-the-oriental-library-of-the-asiatic-society-of-bengal-asiatic-society-calcutta.html (+26ms) 
+17:09:57   ├─ /works/american-architect-and-architecture-unknown.html (+26ms) 
+17:09:57   ├─ /works/an-avesta-grammar-in-comparison-with-sanskrit-jackson.html (+59ms) 
+17:09:57   ├─ /works/an-encyclopaedia-of-hindu-architecture-prasanna-kumar-acharya.html (+25ms) 
+17:09:57   ├─ /works/an-english-translation-of-the-satyarth-prakash-literally-expose-of-right-sense-of-vedic-religion-of-maharshi-swami-dayanand-saraswati-the-luther-of-india-being-a-guide-to-vedic-hermeneutics-dayananda-sarasvati.html (+21ms) 
+17:09:57   ├─ /works/an-historical-disquisition-concerning-the-knowledge-which-the-ancients-had-of-india-william-robertson.html (+18ms) 
+17:09:58   ├─ /works/anandamath-the-abbey-of-bliss-english-translations-bankim-chandra-chattopadhyay-tr-n-c-sengupta-tr-sri-aurobindo-b-k-ghosh-tr-b-k-roy.html (+17ms) 
+17:09:58   ├─ /works/an-historical-sketch-of-the-native-states-of-india-g-b-malleson.html (+16ms) 
+17:09:58   ├─ /works/ancient-ballads-and-legends-of-hindustan-toru-dutt.html (+22ms) 
+17:09:58   ├─ /works/ancient-india-2000-bc-800-ad-romesh-dutt.html (+18ms) 
+17:09:58   ├─ /works/ancient-india-as-described-by-megasthenes-and-arrian-j-w-mccrindle.html (+22ms) 
+17:09:58   ├─ /works/ancient-india-as-described-by-ptolemy-being-a-translation-of-the-chapters-which-describe-india-and-central-and-eastern-asia-in-the-treatise-on-geography-written-by-klaudios-ptolemaios-the-celebrated-astronomer-jw-mccrindle.html (+23ms) 
+17:09:58   ├─ /works/ancient-indian-historical-tradition-f-e-pargiter.html (+16ms) 
+17:09:58   ├─ /works/ancient-indian-weights-edward-thomas.html (+16ms) 
+17:09:58   ├─ /works/andhra-mahabharatamu-nannaya-telugu.html (+19ms) 
+17:09:58   ├─ /works/annals-and-antiquities-of-rajasthan-james-tod.html (+21ms) 
+17:09:58   ├─ /works/annals-and-antiquities-of-rajasthan-tod.html (+18ms) 
+17:09:58   ├─ /works/annual-address-delivered-to-the-asiatic-society-of-bengal-caluctta-2nd-february-1898-hoernle.html (+62ms) 
+17:09:58   ├─ /works/antiche-relazioni-dell-indie-e-della-china-abu-zayd-hasan-al-sirafi.html (+22ms) 
+17:09:58   ├─ /works/art-manufactures-of-india-mukharji.html (+21ms) 
+17:09:58   ├─ /works/art-of-india-kramrisch.html (+23ms) 
+17:09:58   ├─ /works/arthashastra-kautilya.html (+18ms) 
+17:09:58   ├─ /works/aryabhatiya-aryabhata.html (+18ms) 
+17:09:58   ├─ /works/ashtadhyayi-panini-grammar.html (+25ms) 
+17:09:58   ├─ /works/ashtadhyayi-translated-into-english-by-srisa-chandra-vasu-panini.html (+24ms) 
+17:09:58   ├─ /works/ashtanga-sangraha-athridev-gupta.html (+28ms) 
+17:09:58   ├─ /works/ashtavakra-gita.html (+26ms) 
+17:09:58   ├─ /works/atharva-veda-described-ralph-griffith.html (+27ms) 
+17:09:58   ├─ /works/asoka-the-buddhist-emperor-of-india-smith.html (+26ms) 
+17:09:58   ├─ /works/atharvaveda-saunaka-visha-bandhu-2.html (+24ms) 
+17:09:58   ├─ /works/baburnama-memoirs-of-babur-zahir-ud-din-muhammad-babur.html (+17ms) 
+17:09:58   ├─ /works/atmatattvaviveka-udayanacharya.html (+17ms) 
+17:09:58   ├─ /works/bakhshali-manuscript-ancient-mathematics-rudolf-hoernle.html (+18ms) 
+17:09:58   ├─ /works/bhagavad-gita-christian-literature-society-1899.html (+18ms) 
+17:09:58   ├─ /works/beginnings-of-buddhist-art-and-other-essays-in-indian-and-central-asian-archaeology-foucher.html (+18ms) 
+17:09:58   ├─ /works/bhagavata-purana-vyasa.html (+23ms) 
+17:09:58   ├─ /works/bhagavadgita-des-erhabenen-sang-schroeder.html (+17ms) 
+17:09:58   ├─ /works/bhartiya-shasan-and-rajniti-jain-pukhraj.html (+19ms) 
+17:09:58   ├─ /works/bhartrhari-shatakas.html (+18ms) 
+17:09:58   ├─ /works/bhartiya-jyotish-vigyan-ravindra-kumar-dubey.html (+61ms) 
+17:09:58   ├─ /works/bibliotheca-indica-volume-96.html (+20ms) 
+17:09:58   ├─ /works/bodhicharyavatara-shantideva.html (+21ms) 
+17:09:58   ├─ /works/brahma-sutras-badarayana.html (+18ms) 
+17:09:58   ├─ /works/brahmanda-purana.html (+20ms) 
+17:09:58   ├─ /works/brhad-devata-attributed-to-saunaka-a-summary-of-the-deities-and-myths-of-the-rig-veda-saunaka.html (+23ms) 
+17:09:58   ├─ /works/brhati-prabhakara-misra.html (+18ms) 
+17:09:58   ├─ /works/brihadaranyaka-upanishad.html (+17ms) 
+17:09:58   ├─ /works/buddhacharita-ashvaghosa.html (+17ms) 
+17:09:58   ├─ /works/buddhacharita-asvaghosha-cowell.html (+17ms) 
+17:09:58   ├─ /works/buddhism-in-translations.html (+16ms) 
+17:09:58   ├─ /works/buddhism-its-history-and-literature-t-w-rhys-davids.html (+27ms) 
+17:09:59   ├─ /works/buddhist-and-christian-gospels.html (+23ms) 
+17:09:59   ├─ /works/buddhist-art-in-india-grünwedel.html (+22ms) 
+17:09:59   ├─ /works/buddhist-birth-stories-jataka-tales-rhys-davids.html (+15ms) 
+17:09:59   ├─ /works/buddhist-india-rhys-davids.html (+17ms) 
+17:09:59   ├─ /works/buddhist-mahayana-texts.html (+16ms) 
+17:09:59   ├─ /works/cambridge-history-india-volume-1-ancient-india-ej-rapson.html (+23ms) 
+17:09:59   ├─ /works/castes-and-tribes-of-southern-india-edgar-thurston.html (+17ms) 
+17:09:59   ├─ /works/campaigns-on-the-north-west-frontier-h-l-nevill.html (+16ms) 
+17:09:59   ├─ /works/catalogue-coins-numismatic-cabinet-da-cunha.html (+17ms) 
+17:09:59   ├─ /works/catalogue-of-coins-indian-museum-calcutta.html (+17ms) 
+17:09:59   ├─ /works/chandogya-upanishad.html (+17ms) 
+17:09:59   ├─ /works/caurapancashika-bilhana.html (+16ms) 
+17:09:59   ├─ /works/charaka-samhita-ayurveda-english-translation.html (+17ms) 
+17:09:59   ├─ /works/charaka-samhita-ayurveda.html (+21ms) 
+17:09:59   ├─ /works/cheitharol-kumbaba-manipur-chronicle.html (+20ms) 
+17:09:59   ├─ /works/commemorative-essays-presented-sir-ramkrishna-gopal-bhandarkar.html (+22ms) 
+17:09:59   ├─ /works/classical-dictionary-hindu-mythology-religion-geography-history-literature-john-dowson.html (+17ms) 
+17:09:59   ├─ /works/complete-poems-subramania-bharati.html (+17ms) 
+17:09:59   ├─ /works/conference-of-orientalists-simla-1911.html (+16ms) 
+17:09:59   ├─ /works/confessions-of-a-thug-meadows-taylor.html (+20ms) 
+17:09:59   ├─ /works/contributions-of-sanskrit-inscriptions-to-lexicography-tewari-s-p-1944.html (+18ms) 
+17:09:59   ├─ /works/contributions-of-sanskrit-inscriptions-to-lexicography-tewari.html (+82ms) 
+17:09:59   ├─ /works/critical-word-index-of-the-bhagavadgita-divanji-prahlad-c.html (+34ms) 
+17:09:59   ├─ /works/creative-unity-tagore.html (+27ms) 
+17:09:59   ├─ /works/critical-word-index-of-the-bhagavadgita-divanji.html (+19ms) 
+17:09:59   ├─ /works/cunninghams-history-of-the-sikhs-joseph-davey-cunningham.html (+18ms) 
+17:09:59   ├─ /works/dabistan-mohsin-fani-tr-shea-troyer-1843.html (+17ms) 
+17:09:59   ├─ /works/dance-of-siva-fourteen-indian-essays-coomaraswamy.html (+20ms) 
+17:09:59   ├─ /works/dardistan-leitner.html (+25ms) 
+17:09:59   ├─ /works/dasbodh-samarth-ramdas-marathi-1654.html (+25ms) 
+17:09:59   ├─ /works/debate-at-a-general-court-of-east-india-stock-1813.html (+24ms) 
+17:09:59   ├─ /works/deccan-nursery-tales-kincaid.html (+16ms) 
+17:09:59   ├─ /works/descriptive-ethnology-of-bengal-edward-tuite-dalton.html (+16ms) 
+17:09:59   ├─ /works/devi-mahatmya-markandeya.html (+20ms) 
+17:09:59   ├─ /works/devotional-poems-mirabai.html (+30ms) 
+17:09:59   ├─ /works/dhammapada-buddha.html (+21ms) 
+17:09:59   ├─ /works/east-india-trade-17th-century-shafaat-ahmad-khan.html (+18ms) 
+17:09:59   ├─ /works/economic-change-in-rural-india-neale.html (+26ms) 
+17:09:59   ├─ /works/dnyaneshwari-sant-dnyaneshwar-marathi-1290.html (+17ms) 
+17:09:59   ├─ /works/english-and-tamil-dictionary-joseph-knight-levi-spaulding.html (+16ms) 
+17:09:59   ├─ /works/early-history-of-india-smith-edwardes.html (+17ms) 
+17:09:59   ├─ /works/encyclopaedia-britannica-eleventh-edition-india-hinduism.html (+16ms) 
+17:09:59   ├─ /works/epic-mythology-hopkins.html (+17ms) 
+17:09:59   ├─ /works/epigraphia-carnatica-b-lewis-rice.html (+20ms) 
+17:09:59   ├─ /works/epigraphia-carnatica-volume-4-b-lewis-rice.html (+19ms) 
+17:09:59   ├─ /works/epigraphia-indica-volume-2-archaeological-survey-of-india.html (+16ms) 
+17:09:59   ├─ /works/etat-civil-politique-et-commercant-du-bengale-william-bolts.html (+19ms) 
+17:09:59   ├─ /works/folk-literature-of-bengal-dinesh-chandra-sen.html (+22ms) 
+17:10:00   ├─ /works/ethnography-castes-and-tribes-baines.html (+24ms) 
+17:10:00   ├─ /works/folk-tales-of-kashmir-jh-knowles-1893.html (+25ms) 
+17:10:00   ├─ /works/folklore-santal-parganas-bompas.html (+26ms) 
+17:10:00   ├─ /works/gaikwads-baroda-vol1-pilaji-damaji.html (+27ms) 
+17:10:00   ├─ /works/gandhi-and-anarchy-c-sankaran-nair.html (+19ms) 
+17:10:00   ├─ /works/gandhi-azad-and-nationalism-shakir.html (+24ms) 
+17:10:00   ├─ /works/garuda-purana.html (+24ms) 
+17:10:00   ├─ /works/gazetteer-of-the-bombay-presidency-government-of-bombay.html (+24ms) 
+17:10:00   ├─ /works/geet-govinda-jayadeva.html (+18ms) 
+17:10:00   ├─ /works/gheranda-samhita-yoga.html (+22ms) 
+17:10:00   ├─ /works/gita-govinda-jayadeva.html (+19ms) 
+17:10:00   ├─ /works/gitanjali-song-offerings-rabindranath-tagore.html (+19ms) 
+17:10:00   ├─ /works/gommatsara-jiva-kanda-nemichandra.html (+19ms) 
+17:10:00   ├─ /works/grihya-sutras-rules-vedic-domestic-ceremonies-hermann-oldenberg.html (+18ms) 
+17:10:00   ├─ /works/grammar-of-persian-william-jones.html (+19ms) 
+17:10:00   ├─ /works/guide-to-taxila-john-marshall.html (+19ms) 
+17:10:00   ├─ /works/hind-swaraj-indian-home-rule-gandhi.html (+18ms) 
+17:10:00   ├─ /works/hindu-astronomy-w-brennand.html (+19ms) 
+17:10:00   ├─ /works/harshacharita-banabhatta.html (+18ms) 
+17:10:00   ├─ /works/hindu-law-and-judicature-yajnavalkya-montriou.html (+19ms) 
+17:10:00   ├─ /works/hindu-law-treatise-administered-british-courts-india-herbert-cowell.html (+18ms) 
+17:10:00   ├─ /works/hindu-literature-wilson.html (+20ms) 
+17:10:00   ├─ /works/hindu-manners-customs-ceremonies-abbe-dubois-1897.html (+62ms) 
+17:10:00   ├─ /works/hindu-religious-year-muriel-underhill.html (+20ms) 
+17:10:00   ├─ /works/hindu-superiority-attempt-determine-position-hindu-race-scale-nations-har-bilas-sarda.html (+16ms) 
+17:10:00   ├─ /works/hindu-widow-re-marriage-other-tracts-mohandas-gandhi.html (+16ms) 
+17:10:00   ├─ /works/hindustani-lyrics-inayat-khan-jessie-d-westbrook.html (+18ms) 
+17:10:00   ├─ /works/historical-atlas-of-india-charles-joppen.html (+18ms) 
+17:10:00   ├─ /works/historical-fragments-of-the-mogul-empire-robert-orme.html (+29ms) 
+17:10:00   ├─ /works/historical-view-of-plans-for-the-government-of-british-india-john-bruce.html (+24ms) 
+17:10:00   ├─ /works/history-of-ancient-sanskrit-literature-max-muller.html (+29ms) 
+17:10:00   ├─ /works/history-of-aurangzib-vol-i-j-n-sarkar.html (+29ms) 
+17:10:00   ├─ /works/history-of-bengali-language-and-literature-dinesh-chandra-sen.html (+31ms) 
+17:10:00   ├─ /works/history-of-bengali-literature-nineteenth-century-sushil-kumar-de.html (+21ms) 
+17:10:00   ├─ /works/history-of-india-1862-1937-ed-abraham-valentine-williams-jackson.html (+18ms) 
+17:10:00   ├─ /works/history-of-india-grolier-society-collection.html (+18ms) 
+17:10:00   ├─ /works/history-of-indian-and-eastern-architecture-1808-1886-james-fergusson.html (+18ms) 
+17:10:00   ├─ /works/history-of-indian-philosophy-dasgupta.html (+18ms) 
+17:10:00   ├─ /works/history-of-the-indian-mutiny-charles-ball.html (+19ms) 
+17:10:00   ├─ /works/history-of-the-rise-of-the-mahomedan-power-in-india-muammad-qsim-firishta-tr-john-briggs.html (+17ms) 
+17:10:00   ├─ /works/hitopadesha-narayana.html (+20ms) 
+17:10:00   ├─ /works/hobson-jobson-a-glossary-of-colloquial-anglo-indian-words-and-phrases-henry-yule-a-c-burnell-rev-william-crooke.html (+21ms) 
+17:10:00   ├─ /works/hutchinsons-story-of-the-nations.html (+19ms) 
+17:10:00   ├─ /works/hymns-from-the-rigveda-macdonell.html (+19ms) 
+17:10:00   ├─ /works/imperial-gazetteer-of-india-volume-16.html (+19ms) 
+17:10:00   ├─ /works/india-in-1880-richard-temple.html (+20ms) 
+17:10:01   ├─ /works/india-through-the-ages-steel.html (+21ms) 
+17:10:01   ├─ /works/indian-currency-and-finance-keynes.html (+19ms) 
+17:10:01   ├─ /works/indian-antiquary-journal-vol1-1872.html (+19ms) 
+17:10:01   ├─ /works/indian-fairy-tales-joseph-jacobs.html (+19ms) 
+17:10:01   ├─ /works/indian-architecture-its-psychology-structure-and-history-from-the-first-muhannadan-invasion-to-the-present-day-havell.html (+20ms) 
+17:10:01   ├─ /works/indian-calendar-sewell-dikshit-schram.html (+17ms) 
+17:10:01   ├─ /works/indian-home-rule-reprinted-with-a-new-foreword-by-the-author-gandhi.html (+18ms) 
+17:10:01   ├─ /works/indian-myth-and-legend-mackenzie.html (+17ms) 
+17:10:01   ├─ /works/indian-speeches-19071909-john-morley.html (+17ms) 
+17:10:01   ├─ /works/indian-unrest-valentine-chirol.html (+16ms) 
+17:10:01   ├─ /works/indigo-and-its-enemies-1861-delta.html (+16ms) 
+17:10:01   ├─ /works/indian-wisdom-monier-williams.html (+16ms) 
+17:10:01   ├─ /works/interpretation-ancient-hindu-medicine-chandra-chakraberty.html (+17ms) 
+17:10:01   ├─ /works/isha-upanishad.html (+17ms) 
+17:10:01   ├─ /works/introduction-to-hindustani-shakespear.html (+19ms) 
+17:10:01   ├─ /works/islam-in-india-qanun-i-islam-jafar-sharif.html (+17ms) 
+17:10:01   ├─ /works/jataka-tales-animal-stories-ellen-babbitt.html (+17ms) 
+17:10:01   ├─ /works/journael-van-de-reysen-naar-oost-indien-thomas-roe.html (+18ms) 
+17:10:01   ├─ /works/kabir-granthavali-gupta-mataprasad.html (+17ms) 
+17:10:01   ├─ /works/kabir-granthavali-gupta.html (+18ms) 
+17:10:01   ├─ /works/kadambari-banabhatta.html (+17ms) 
+17:10:01   ├─ /works/kabir-granthawali-kabir.html (+18ms) 
+17:10:01   ├─ /works/kalpa-sutra.html (+18ms) 
+17:10:01   ├─ /works/kama-sutra-vatsyayana.html (+18ms) 
+17:10:01   ├─ /works/kamba-ramayanam.html (+19ms) 
+17:10:01   ├─ /works/kashidasi-mahabharat-কশদস-মহভরত-kashiram-das.html (+19ms) 
+17:10:01   ├─ /works/katha-upanishad.html (+18ms) 
+17:10:01   ├─ /works/kathasaritsagara-ocean-of-streams-of-story.html (+19ms) 
+17:10:01   ├─ /works/kathasaritsagara-somadeva.html (+24ms) 
+17:10:01   ├─ /works/kauilyas-arthastra-shamasastry-tr-kauilya-cakya-tr-r-shamasastry.html (+17ms) 
+17:10:01   ├─ /works/kautilya-arthasastra-vidhyalankara-pranath.html (+17ms) 
+17:10:01   ├─ /works/kautilya-arthashastra-hindi-anubad-kautilya.html (+17ms) 
+17:10:01   ├─ /works/kavitavali-tulsidas.html (+18ms) 
+17:10:01   ├─ /works/kenopanishad.html (+26ms) 
+17:10:01   ├─ /works/kautilya-arthasastra-vidhyalankara.html (+22ms) 
+17:10:01   ├─ /works/kiratarjuniya-bharavi-durga-prasad.html (+18ms) 
+17:10:01   ├─ /works/krtyaratnakara-chandesvara-thakkura.html (+27ms) 
+17:10:01   ├─ /works/kularnava-tantra.html (+27ms) 
+17:10:01   ├─ /works/kurma-purana.html (+20ms) 
+17:10:01   ├─ /works/kumarasambhava-kalidasa.html (+20ms) 
+17:10:01   ├─ /works/kāñcippurāṇam-civañāna-munivar.html (+18ms) 
+17:10:01   ├─ /works/kāñcippurāṇam-civañāṇa-muṉivar-active-18th-century.html (+27ms) 
+17:10:01   ├─ /works/laghu-siddhantakaumudi-varadarāja-varadarāja.html (+25ms) 
+17:10:01   ├─ /works/lankavatara-sutra-nanjio.html (+16ms) 
+17:10:01   ├─ /works/laws-of-manu-manusmriti-georg-buhler-translation.html (+18ms) 
+17:10:01   ├─ /works/life-in-ancient-india-with-a-map-manning.html (+16ms) 
+17:10:01   ├─ /works/lekhmalanukramani-rakhaldas-bandyopadhyay.html (+17ms) 
+17:10:01   ├─ /works/linga-purana.html (+17ms) 
+17:10:01   ├─ /works/linguistic-society-of-india-not-available.html (+17ms) 
+17:10:01   ├─ /works/lectures-on-the-ancient-history-of-india-d-r-bhandarkar.html (+17ms) 
+17:10:01   ├─ /works/literary-history-ancient-india-chakraberty.html (+17ms) 
+17:10:01   ├─ /works/literary-history-of-sanskrit-buddhism-nariman.html (+17ms) 
+17:10:01   ├─ /works/little-clay-cart-sudraka.html (+17ms) 
+17:10:02   ├─ /works/little-clay-cart-mricchakatika-shudraka.html (+17ms) 
+17:10:02   ├─ /works/lushei-kuki-clans-shakespear.html (+17ms) 
+17:10:02   ├─ /works/mahabhashya-patanjali.html (+17ms) 
+17:10:02   ├─ /works/malatimadhava-bhavabhuti.html (+18ms) 
+17:10:02   ├─ /works/malavikagnimitra-kalidasa-1875.html (+17ms) 
+17:10:02   ├─ /works/mandukya-upanishad.html (+19ms) 
+17:10:02   ├─ /works/manimekalai-sittalai-sattanar.html (+18ms) 
+17:10:02   ├─ /works/manusmriti-laws-of-manu.html (+17ms) 
+17:10:02   ├─ /works/markandeya-purana-devi-mahatmya.html (+17ms) 
+17:10:02   ├─ /works/maratha-rajas-tanjore-subramanian.html (+17ms) 
+17:10:02   ├─ /works/markandeya-purana-pargiter.html (+19ms) 
+17:10:02   ├─ /works/mauryan-polity-dikshitar.html (+22ms) 
+17:10:02   ├─ /works/meghaduta-kalidasa.html (+17ms) 
+17:10:02   ├─ /works/marma-vijnj-aan-paathak-raamarakshh-1.html (+20ms) 
+17:10:02   ├─ /works/meghnadbadh-kavya-michael-madhusudan-dutt.html (+18ms) 
+17:10:02   ├─ /works/memoirs-on-the-history-folk-lore-and-distribution-of-the-races-of-the-north-western-provinces-henry-miers-elliot-john-beames.html (+16ms) 
+17:10:02   ├─ /works/memorial-on-behalf-of-the-king-of-tanjore-rajah-tulaji.html (+17ms) 
+17:10:02   ├─ /works/men-and-events-of-my-time-in-india-richard-temple.html (+18ms) 
+17:10:02   ├─ /works/mimamsa-sutras-jaimini.html (+17ms) 
+17:10:02   ├─ /works/milinda-panha.html (+17ms) 
+17:10:02   ├─ /works/mool-ramayana-ramnathlal-1.html (+18ms) 
+17:10:02   ├─ /works/miscellaneous-notices-relating-to-china-and-our-commercial-intercourse-with-that-country-part-the-second-staunton.html (+17ms) 
+17:10:02   ├─ /works/more-jataka-tales-ellen-babbitt.html (+17ms) 
+17:10:02   ├─ /works/mudrarakshasa-vishakhadatta.html (+17ms) 
+17:10:02   ├─ /works/modern-religious-movements-in-india-j-n-farquhar.html (+17ms) 
+17:10:02   ├─ /works/mundaka-upanishad.html (+19ms) 
+17:10:02   ├─ /works/mysore-a-gazetteer-b-lewis-rice.html (+17ms) 
+17:10:02   ├─ /works/myths-hindus-buddhists-sister-nivedita-ananda-coomaraswamy.html (+17ms) 
+17:10:02   ├─ /works/nagananda-harsha.html (+17ms) 
+17:10:02   ├─ /works/nalanda-and-its-epigraphic-material-shastri.html (+17ms) 
+17:10:02   ├─ /works/nala-and-damayanti-and-other-poems-henry-hart-milman.html (+17ms) 
+17:10:02   ├─ /works/naradiya-shiksha-kunte.html (+18ms) 
+17:10:02   ├─ /works/nalopkhyanam-story-of-nala-an-episode-of-the-mahbhrata-the-sanskrit-text-with-a-copious-vocabulary-and-an-improved-version-of-dean-milmans-translation-1819-1899-sir-monier-monier-williams.html (+18ms) 
+17:10:02   ├─ /works/narrative-of-a-journey-through-the-upper-provinces-of-india-reginald-heber.html (+17ms) 
+17:10:02   ├─ /works/nationalism-rabindranath-tagore.html (+18ms) 
+17:10:02   ├─ /works/natives-of-northern-india-crooke.html (+17ms) 
+17:10:02   ├─ /works/natyashastra-bharata-muni.html (+16ms) 
+17:10:02   ├─ /works/nitisara-kamandaki-tr-mn-dutt-1896.html (+19ms) 
+17:10:02   ├─ /works/nityacarapradipah-narasimha-vajapeyee.html (+17ms) 
+17:10:02   ├─ /works/nyaya-sutras-akshapada-gautama.html (+17ms) 
+17:10:02   ├─ /works/nyaya-sutras-gautama.html (+20ms) 
+17:10:02   ├─ /works/nyayatatparyadipika-jayasimha-suri.html (+26ms) 
+17:10:02   ├─ /works/open-letters-to-lord-curzon-romesh-dutt.html (+19ms) 
+17:10:02   ├─ /works/our-educational-problem-dayal.html (+19ms) 
+17:10:02   ├─ /works/outlines-history-hindu-law-partition-inheritance-adoption-julius-jolly.html (+23ms) 
+17:10:02   ├─ /works/outlines-of-indian-philosophy-paul-deussen.html (+23ms) 
+17:10:02   ├─ /works/oxford-history-of-india-from-the-earliest-times-to-the-end-of-1911-1848-1920-vincent-arthur-smith.html (+24ms) 
+17:10:02   ├─ /works/padma-purana.html (+24ms) 
+17:10:02   ├─ /works/panchadasi-vidyaranya.html (+24ms) 
+17:10:02   ├─ /works/pampa-bharatam-vikramarjuna-vijaya-kannada.html (+26ms) 
+17:10:02   ├─ /works/panchastikayasara-kundakunda.html (+17ms) 
+17:10:02   ├─ /works/panchatantra-collection-ancient-hindu-tales-panchakhyanaka-purnabhadra-johannes-hertel.html (+23ms) 
+17:10:02   ├─ /works/panjab-castes-1847-1908-sir-denzil-ibbetson.html (+22ms) 
+17:10:02   ├─ /works/papers-sanskrit-manuscript-preservation-gough.html (+26ms) 
+17:10:03   ├─ /works/periplus-of-the-erythraean-sea.html (+26ms) 
+17:10:03   ├─ /works/path-of-purity-visuddhimagga-buddhaghosa-pe-maung-tin.html (+18ms) 
+17:10:03   ├─ /works/periya-puranam-sekkizhar.html (+18ms) 
+17:10:03   ├─ /works/personal-and-geographical-names-in-gupta-inscriptions-tej-ram-sharma.html (+19ms) 
+17:10:03   ├─ /works/political-history-of-ancient-india-hem-chandra-raychaudhuri.html (+21ms) 
+17:10:03   ├─ /works/philosophy-upanishads-ancient-indian-metaphysics-archibald-gough.html (+21ms) 
+17:10:03   ├─ /works/prabandhacintamani-merutunga-tr-tawney-1899-1901.html (+18ms) 
+17:10:03   ├─ /works/prashna-upanishad.html (+23ms) 
+17:10:03   ├─ /works/private-life-of-warren-hastings-lawson.html (+20ms) 
+17:10:03   ├─ /works/punjabi-musalmans-j-m-wikeley.html (+22ms) 
+17:10:03   ├─ /works/puranic-encyclopaedia-vettam-mani.html (+19ms) 
+17:10:03   ├─ /works/purohit-darpaned25-bhattacharya-surendramohan-comp.html (+18ms) 
+17:10:03   ├─ /works/racial-history-india-chakraberty.html (+18ms) 
+17:10:03   ├─ /works/raghudayamu-telugu-venkata-suryaprasada.html (+18ms) 
+17:10:03   ├─ /works/rajatarangini-kalhana.html (+18ms) 
+17:10:03   ├─ /works/raghuvamsa-kalidasa.html (+19ms) 
+17:10:03   ├─ /works/ramacharitamanasa-tulsidas.html (+18ms) 
+17:10:03   ├─ /works/ramakrishna-kathamrita.html (+22ms) 
+17:10:03   ├─ /works/rasendra-sar-sanghra-bhaskara-basak.html (+18ms) 
+17:10:03   ├─ /works/ratnavali-harsha.html (+18ms) 
+17:10:03   ├─ /works/report-excavations-pataliputra-waddell.html (+19ms) 
+17:10:03   ├─ /works/reports-tour-bundelkhand-rewa-malwa-gwalior-alexander-cunningham.html (+20ms) 
+17:10:03   ├─ /works/research-methodology-bm-jain-1.html (+22ms) 
+17:10:03   ├─ /works/rig-veda-sanhit-english-translation-h-h-wilson.html (+27ms) 
+17:10:03   ├─ /works/rig-veda-sanhita-volume-i-wilson.html (+19ms) 
+17:10:03   ├─ /works/sacred-books-and-early-literature-of-the-east-with-an-historical-survey-and-descriptions-horne.html (+17ms) 
+17:10:03   ├─ /works/sacred-books-early-literature-volume-10.html (+19ms) 
+17:10:03   ├─ /works/riyaz-us-salatin-history-of-bengal.html (+18ms) 
+17:10:03   ├─ /works/sacred-books-of-the-east-hindu-series-volume-3.html (+18ms) 
+17:10:03   ├─ /works/sacred-books-of-the-east-unknown-author.html (+19ms) 
+17:10:03   ├─ /works/samkhya-karika-ishvarakrishna.html (+18ms) 
+17:10:03   ├─ /works/sacred-laws-aryas-apastamba-gautama-vasishtha-baudhayana-georg-buhler.html (+18ms) 
+17:10:03   ├─ /works/sangita-makaranda-telang.html (+18ms) 
+17:10:03   ├─ /works/sangita-raga-kalpadruma-vol1.html (+18ms) 
+17:10:03   ├─ /works/sangita-ratnakara-sarangadeva.html (+18ms) 
+17:10:03   ├─ /works/sangita-ratnakara-sharangadeva.html (+18ms) 
+17:10:03   ├─ /works/sankhya-aphorisms-ballantyne.html (+17ms) 
+17:10:03   ├─ /works/sankirtan-annamayya.html (+19ms) 
+17:10:03   ├─ /works/sant-tukaram-gatha-marathi-abhanga.html (+18ms) 
+17:10:03   ├─ /works/sarala-mahabharata-odia-sarala-dasa.html (+18ms) 
+17:10:03   ├─ /works/sarva-darsana-samgraha-madhava-tr-cowell-gough-1882.html (+20ms) 
+17:10:03   ├─ /works/sarva-darsana-samgraha-review-different-systems-hindu-philosophy-madhavacharya-cowell-gough.html (+57ms) 
+17:10:03   ├─ /works/science-of-breath-philosophy-tattvas-rama-prasada.html (+23ms) 
+17:10:03   ├─ /works/sesde-reys-van-de-engelsche-maatschappy-na-oost-indien-henry-middleton.html (+17ms) 
+17:10:03   ├─ /works/shaddarsana-samuchchaya-haribhadra.html (+17ms) 
+17:10:03   ├─ /works/shishupalavadha-magha.html (+17ms) 
+17:10:03   ├─ /works/shiva-purana.html (+17ms) 
+17:10:03   ├─ /works/shiva-sutras-vasugupta.html (+17ms) 
+17:10:03   ├─ /works/shivaji-and-his-times-jadunath-sarkar.html (+17ms) 
+17:10:03   ├─ /works/short-report-hindu-mahasabha-relief-activities-calcutta-noakhali.html (+18ms) 
+17:10:04   ├─ /works/shvetashvatara-upanishad.html (+18ms) 
+17:10:04   ├─ /works/si-yu-ki-buddhist-records-of-the-western-world-xuanzang-samuel-beal.html (+18ms) 
+17:10:04   ├─ /works/siddhanta-shiromani-bhaskara.html (+17ms) 
+17:10:04   ├─ /works/siddhanta-siromani-bhaskaracharya-tr-wilkinson-1861.html (+18ms) 
+17:10:04   ├─ /works/siddhartha-hermann-hesse.html (+19ms) 
+17:10:04   ├─ /works/sikh-religion-its-gurus-sacred-writings-and-authors-macauliffe.html (+24ms) 
+17:10:04   ├─ /works/silappatikaram-ilango-adigal.html (+26ms) 
+17:10:04   ├─ /works/south-indian-images-of-gods-and-goddesses-krishna-sastri.html (+23ms) 
+17:10:04   ├─ /works/south-indian-inscriptions-vol-i-archaeological-survey-of-india.html (+19ms) 
+17:10:04   ├─ /works/siraj-ul-wahhaj-sirajuddin-ali-khan-arzu.html (+19ms) 
+17:10:04   ├─ /works/storia-do-mogor-mogul-india-1653-1708-niccolo-manucci-william-irvine.html (+18ms) 
+17:10:04   ├─ /works/studies-in-mughal-india.html (+16ms) 
+17:10:04   ├─ /works/sukasaptati-seventy-tales-parrot.html (+20ms) 
+17:10:04   ├─ /works/sursagar-surdas.html (+19ms) 
+17:10:04   ├─ /works/sushrut-sanhita-ambikadatt-1.html (+17ms) 
+17:10:04   ├─ /works/sushruta-samhita-ayurveda.html (+17ms) 
+17:10:04   ├─ /works/surya-siddhanta-burgess.html (+17ms) 
+17:10:04   ├─ /works/sutrakritanga.html (+17ms) 
+17:10:04   ├─ /works/sushruta-samhita-english-translation.html (+16ms) 
+17:10:04   ├─ /works/sva-george-c-m-birdwood.html (+17ms) 
+17:10:04   ├─ /works/syntax-of-the-hebrew-language-of-the-old-testament-ewald.html (+16ms) 
+17:10:04   ├─ /works/taittiriya-upanishad.html (+16ms) 
+17:10:04   ├─ /works/tales-from-the-indian-epics-kincaid.html (+17ms) 
+17:10:04   ├─ /works/tantra-yukti-neelmegh-bhishagacharya.html (+17ms) 
+17:10:04   ├─ /works/tateyo-indo-yone-noguchi.html (+17ms) 
+17:10:04   ├─ /works/tattvakaumudi-vacaspatimisra.html (+17ms) 
+17:10:04   ├─ /works/tattvartha-sutra-umasvati.html (+18ms) 
+17:10:04   ├─ /works/the-administration-of-the-east-india-company-john-william-kaye.html (+18ms) 
+17:10:04   ├─ /works/the-ao-nagas-jp-mills.html (+28ms) 
+17:10:04   ├─ /works/the-aryabhatiya-of-aryabhata-clark.html (+20ms) 
+17:10:04   ├─ /works/the-babur-nama-in-english-memoirs-of-babur-babur.html (+17ms) 
+17:10:04   ├─ /works/the-babur-nma-memoirs-of-babur-english-translation-ahr-ud-dn-muhammad-babur-tr-annette-susannah-beveridge.html (+23ms) 
+17:10:04   ├─ /works/the-bengal-tenancy-act-annotated-edition-r-f-rampini.html (+18ms) 
+17:10:04   ├─ /works/the-birds-of-india-being-a-natural-history-of-the-birds-known-to-inhabit-continental-india-thomas-c-jerdon.html (+22ms) 
+17:10:04   ├─ /works/the-buddhavamsa-and-the-cariya-pitaka.html (+21ms) 
+17:10:04   ├─ /works/the-cambridge-history-of-india-edward-james-rapson.html (+22ms) 
+17:10:04   ├─ /works/the-case-for-india-annie-besant.html (+18ms) 
+17:10:04   ├─ /works/the-complete-revenue-guide-for-imports-and-exports-peter-j-hodgson.html (+18ms) 
+17:10:04   ├─ /works/the-descent-of-the-sun-bain.html (+18ms) 
+17:10:04   ├─ /works/the-dhammapada-max-muller.html (+17ms) 
+17:10:04   ├─ /works/the-east-india-gazetteer-walter-hamilton.html (+17ms) 
+17:10:04   ├─ /works/the-economic-history-of-india-romesh-chunder-dutt.html (+31ms) 
+17:10:04   ├─ /works/the-embassy-of-sir-thomas-roe-to-the-court-of-the-great-mogul-16151619-sir-thomas-roe-ed-william-foster.html (+27ms) 
+17:10:04   ├─ /works/the-english-urdu-translators-companion-durga-prasad.html (+26ms) 
+17:10:04   ├─ /works/the-fall-of-the-moghul-empire-of-hindustan-h-g-keene.html (+23ms) 
+17:10:04   ├─ /works/the-flora-of-british-india-joseph-dalton-hooker-ed-with-collaborators.html (+19ms) 
+17:10:04   ├─ /works/the-golden-book-of-india-roper-lethbridge.html (+20ms) 
+17:10:04   ├─ /works/the-golden-threshold-sarojini-naidu.html (+17ms) 
+17:10:04   ├─ /works/the-great-epic-of-india-its-character-and-origin-hopkins.html (+21ms) 
+17:10:04   ├─ /works/the-highlands-of-central-india-james-forsyth.html (+18ms) 
+17:10:04   ├─ /works/the-hindu-arabic-numerals-smith-karpinski.html (+18ms) 
+17:10:05   ├─ /works/the-history-and-management-of-the-east-india-company-vol-1-james-macpherson.html (+17ms) 
+17:10:05   ├─ /works/the-history-of-india-as-told-by-its-own-historians-h-m-elliot-completed-by-john-dowson.html (+18ms) 
+17:10:05   ├─ /works/the-holy-bible-a-facsimile-in-a-reduced-size-of-the-authorized-version-published-in-the-year-1611-alfred-w-pollard.html (+17ms) 
+17:10:05   ├─ /works/the-history-of-the-bengali-language-bijay-chandra-majumdar.html (+17ms) 
+17:10:05   ├─ /works/the-imperial-gazetteer-of-india-new-edition-government-of-india.html (+18ms) 
+17:10:05   ├─ /works/the-indian-craftsman-coomaraswamy.html (+28ms) 
+17:10:05   ├─ /works/the-indian-empire-its-peoples-history-and-products-w-w-hunter.html (+21ms) 
+17:10:05   ├─ /works/the-indian-musalmans-are-they-bound-in-conscience-to-rebel-against-the-queen-w-w-hunter.html (+17ms) 
+17:10:05   ├─ /works/the-kalpa-sutra-and-nava-tatva-stevenson.html (+17ms) 
+17:10:05   ├─ /works/the-land-systems-of-british-india-vol-1-baden-henry-baden-powell.html (+17ms) 
+17:10:05   ├─ /works/the-law-relating-to-india-and-the-east-india-company-1855-compilation.html (+17ms) 
+17:10:05   ├─ /works/the-lhota-nagas-jp-mills.html (+17ms) 
+17:10:05   ├─ /works/the-life-of-shivaji-maharaj-k-a-keluskar-n-s-takakhav.html (+28ms) 
+17:10:05   ├─ /works/the-lotus-of-the-true-law.html (+24ms) 
+17:10:05   ├─ /works/the-loves-of-krishna-archer.html (+19ms) 
+17:10:05   ├─ /works/the-lusiad-or-the-discovery-of-india-an-epic-poem-camões.html (+17ms) 
+17:10:05   ├─ /works/the-mahabharata-of-krishna-dwaipayana-vyasa-ganguli-tr-kisari-mohan-ganguli-translator-p-c-roy-publisher.html (+17ms) 
+17:10:05   ├─ /works/the-milindapanha.html (+17ms) 
+17:10:05   ├─ /works/the-n-i-akbar-english-translation-abul-fazl-tr-henry-blochmann-tr-h-s-jarrett.html (+17ms) 
+17:10:05   ├─ /works/the-natural-history-of-the-mammalia-of-india-and-ceylon-r-a-sterndale.html (+16ms) 
+17:10:05   ├─ /works/the-ocean-of-story-being-ch-tawneys-translation-of-somadevas-katha-sarit-sagara-somadeva-bhatta.html (+17ms) 
+17:10:05   ├─ /works/the-panchasiddhantika-varahamihira.html (+17ms) 
+17:10:05   ├─ /works/the-poison-tree-bankim-chandra.html (+16ms) 
+17:10:05   ├─ /works/the-popular-religion-and-folk-lore-of-northern-india-crooke.html (+17ms) 
+17:10:05   ├─ /works/the-portuguese-in-india-frederic-charles-danvers.html (+17ms) 
+17:10:05   ├─ /works/the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte-vaman-shivaram-1858-1892.html (+20ms) 
+17:10:05   ├─ /works/the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte.html (+17ms) 
+17:10:05   ├─ /works/the-practical-sanskrit-english-dictionary-vaman-shivram-apte.html (+16ms) 
+17:10:05   ├─ /works/the-raghuvamsa-of-kalidasa-kale.html (+23ms) 
+17:10:05   ├─ /works/the-raghuvamsa-of-kalidasa-with-the-commentary-the-samjivani-of-mallinatha-kalidasa.html (+20ms) 
+17:10:05   ├─ /works/the-religions-of-india-edward-washburn-hopkins.html (+21ms) 
+17:10:05   ├─ /works/the-rmyan-of-vlmki-griffith-verse-trans-r-t-h-griffith-translator.html (+17ms) 
+17:10:05   ├─ /works/the-sacred-books-of-the-east-described-and-examined-hindu-series-unknown.html (+16ms) 
+17:10:05   ├─ /works/the-samkhya-philosophy-containing-samkhya-pravachana-sutram-nandalal-sinha.html (+20ms) 
+17:10:05   ├─ /works/the-sanskrit-buddhist-literature-of-nepal-mitra.html (+17ms) 
+17:10:05   ├─ /works/the-silappadikaram-v-r-ramachandra-dikshitar.html (+17ms) 
+17:10:05   ├─ /works/the-travels-of-ibn-battuta.html (+17ms) 
+17:10:05   ├─ /works/the-travels-of-marco-polo-india-sections.html (+17ms) 
+17:10:05   ├─ /works/the-tribes-and-castes-of-bengal-anthropometric-data-ethnographic-glossary-h-h-risley.html (+17ms) 
+17:10:05   ├─ /works/the-trident-the-crescent-and-the-cross-vaughan.html (+19ms) 
+17:10:05   ├─ /works/the-university-of-nalanda-sankalia.html (+21ms) 
+17:10:05   ├─ /works/the-vaisesika-sutras-of-kanada-translated-by-nandalal-sinha-kanada.html (+27ms) 
+17:10:05   ├─ /works/the-vedanta-sutras-thibaut.html (+18ms) 
+17:10:05   ├─ /works/the-vishnu-purana-wilson.html (+18ms) 
+17:10:05   ├─ /works/the-yoga-sutras-of-patanjali-johnston.html (+18ms) 
+17:10:05   ├─ /works/things-indian-william-crooke.html (+17ms) 
+17:10:05   ├─ /works/thirteen-plays-bhasa.html (+18ms) 
+17:10:05   ├─ /works/third-class-in-indian-railways-m-k-gandhi.html (+21ms) 
+17:10:05   ├─ /works/thirteen-principal-upanishads-robert-ernest-hume.html (+27ms) 
+17:10:05   ├─ /works/thirty-minor-upanishads-narayanasvami-aiyar.html (+27ms) 
+17:10:05   ├─ /works/thirukkural-thiruvalluvar.html (+30ms) 
+17:10:05   ├─ /works/thirukkural-tiruvalluvar-tr-gu-pope-1886.html (+19ms) 
+17:10:06   ├─ /works/tikapatthana-abhidhamma-pitaka.html (+25ms) 
+17:10:06   ├─ /works/tirumantiram-tirumular.html (+18ms) 
+17:10:06   ├─ /works/tiruvaimozhi-nammalvar.html (+19ms) 
+17:10:06   ├─ /works/tiruppavai-nachiyar-tirumozhi-andal.html (+20ms) 
+17:10:06   ├─ /works/travels-in-india-jeanbaptiste-tavernier-tr-v-ball.html (+18ms) 
+17:10:06   ├─ /works/tolkappiyam-tamil-grammar.html (+25ms) 
+17:10:06   ├─ /works/travels-in-the-mogul-empire-ad-1656-1668-francois-bernier.html (+19ms) 
+17:10:06   ├─ /works/tribes-castes-of-bengal-hh-risley-1891.html (+25ms) 
+17:10:06   ├─ /works/tripura-rahasya-gopi-nath-kaviraja.html (+19ms) 
+17:10:06   ├─ /works/tulu-english-and-english-tulu-dictionary-a-maenner.html (+20ms) 
+17:10:06   ├─ /works/tuzuk-i-jahangiri-memoirs-of-jahangir-alexander-rogers-henry-beveridge.html (+18ms) 
+17:10:06   ├─ /works/uttara-rama-charita-bhavabhuti-belvalkar.html (+17ms) 
+17:10:06   ├─ /works/upanishads-sri-sankara-commentary-isa-kena-mundaka-sitarama-sastri.html (+21ms) 
+17:10:06   ├─ /works/uttara-rama-charita-bhavabhuti.html (+21ms) 
+17:10:06   ├─ /works/vaisheshika-sutras-kanada.html (+18ms) 
+17:10:06   ├─ /works/varahamihira-horasastram-aiyangar.html (+18ms) 
+17:10:06   ├─ /works/vedanta-philosophy-swami-abhedananda.html (+19ms) 
+17:10:06   ├─ /works/vedantasara-sadananda-yogindra.html (+17ms) 
+17:10:06   ├─ /works/vedic-grammar-arthur-anthony-macdonell.html (+18ms) 
+17:10:06   ├─ /works/vedic-mythology-macdonell.html (+19ms) 
+17:10:06   ├─ /works/velugoti-vari-vamsavali-telugu.html (+17ms) 
+17:10:06   ├─ /works/venisamhara-bhatta-narayana.html (+17ms) 
+17:10:06   ├─ /works/vidyapati-songs-maithili.html (+17ms) 
+17:10:06   ├─ /works/vijnana-bhairava-tantra.html (+22ms) 
+17:10:06   ├─ /works/vikram-and-the-vampire-burton.html (+18ms) 
+17:10:06   ├─ /works/vikramorvasiyam-kalidasa-1879-pandit-ed.html (+17ms) 
+17:10:06   ├─ /works/vishnu-purana-wilson.html (+18ms) 
+17:10:06   ├─ /works/village-gods-south-india-henry-whitehead.html (+18ms) 
+17:10:06   ├─ /works/vishnudharmottara-part3-kramrisch.html (+17ms) 
+17:10:06   ├─ /works/vivekachudamani-shankaracharya.html (+18ms) 
+17:10:06   ├─ /works/wahrhaftige-ausfuhrliche-beschreibung-ostindischen-kusten-philippus-baldaeus.html (+18ms) 
+17:10:06   ├─ /works/warren-hastings-in-bengal-mary-evelyn-jones.html (+18ms) 
+17:10:06   ├─ /works/with-clive-in-india-or-the-beginnings-of-an-empire-g-a-henty.html (+21ms) 
+17:10:06   ├─ /works/works-of-sir-william-jones-volume-1.html (+19ms) 
+17:10:06   ├─ /works/women-in-ancient-india-clarisse-bader.html (+19ms) 
+17:10:06   ├─ /works/yajnavalkya-smriti-with-mitaksara-commentary.html (+20ms) 
+17:10:06   ├─ /works/yashvantrai-mahakavya-marathi-khare.html (+17ms) 
+17:10:06   ├─ /works/yoga-sastra-the-yoga-sutras-of-patenjali-examined-with-a-notice-of-swami-vivekanandas-yoga-philosophy-patañjali-christian-literature-society-for-india-murdoch.html (+17ms) 
+17:10:06   ├─ /works/yasastilaka-somadeva-suri.html (+22ms) 
+17:10:06   ├─ /works/yoga-system-of-patanjali-woods-translation.html (+23ms) 
+17:10:06   ├─ /works/अषटधयय-1897-पणन.html (+18ms) 
+17:10:06   ├─ /works/తలగ-ఇగలష-నఘటవ-telugu-english-dictionary-ప-శకరనరయణ.html (+17ms) 
+17:10:06   ├─ /works/yoga-vasistha-valmiki.html (+21ms) 
+17:10:06   ├─ /works/bharatendu-ke-nibandh-bharatendu-harishchandra.html (+25ms) 
+17:10:06   ├─ /works/bikhre-moti-subhadra-kumari-chauhan.html (+18ms) 
+17:10:06   ├─ /works/chandrakanta-devaki-nandan-khatri.html (+18ms) 
+17:10:06   ├─ /works/girish-chandra-ghosh-plays-girish-granthabali.html (+18ms) 
+17:10:06   ├─ /works/indian-architecture-buddhist-and-hindu-periods-percy-brown.html (+26ms) 
+17:10:06   ├─ /works/krishnakanter-will-bankimchandra-chattopadhyay.html (+27ms) 
+17:10:06   ├─ /works/kulliyat-e-fani-collected-poems-fani-badayuni.html (+21ms) 
+17:10:06   ├─ /works/medieval-indian-sculpture-in-the-british-museum-ramaprasad-chanda.html (+20ms) 
+17:10:07   ├─ /works/meghnad-badh-kavya-michael-madhusudan-dutt.html (+24ms) 
+17:10:07   ├─ /works/pralay-sachindranath-sengupta.html (+19ms) 
+17:10:07   ├─ /works/report-of-the-silk-panel-chairman-1947-navaratna-rama-rao.html (+18ms) 
+17:10:07   ├─ /works/sakhi-suryakant-tripathi-nirala.html (+26ms) 
+17:10:07   ├─ /works/a-bottle-in-the-smoke-a-tale-of-anglo-indian-life-rae-janet-milne.html (+18ms) 
+17:10:07   ├─ /works/a-diary-kept-by-mrs-r-c-germon-at-lucknow-between-the-months-of-may-and-december-1857-germon-maria.html (+17ms) 
+17:10:07   ├─ /works/a-fascinating-traitor-an-anglo-indian-story-savage-richard.html (+17ms) 
+17:10:07   ├─ /works/a-history-of-indian-philosophy-volume-1-dasgupta-surendranath.html (+18ms) 
+17:10:07   ├─ /works/a-letter-to-a-hindu-tolstoy-leo-graf.html (+18ms) 
+17:10:07   ├─ /works/a-prose-english-translation-of-vishnupuranam-based-on-professor-h-h-wilsons-translation-unknown.html (+18ms) 
+17:10:07   ├─ /works/a-soldiers-experience-or-a-voice-from-the-ranks-showing-the-cost-of-war-in-blood-and-treasure-a.html (+18ms) 
+17:10:07   ├─ /works/a-study-of-the-textile-art-in-its-relation-to-the-development-of-form-and-ornament-sixth-annual.html (+19ms) 
+17:10:07   ├─ /works/akbar-an-eastern-romance-limburg-brouwer-p-a-s-van-petrus-abraham-samuel.html (+18ms) 
+17:10:07   ├─ /works/akbar-een-oosterse-roman-limburg-brouwer-p-a-s-van-petrus-abraham-samuel.html (+20ms) 
+17:10:07   ├─ /works/among-the-wild-tribes-of-the-afghan-frontier-a-record-of-sixteen-years-close-intercourse-with-the.html (+18ms) 
+17:10:07   ├─ /works/angel-a-sketch-in-indian-ink-croker-b-m-bithia-mary.html (+18ms) 
+17:10:07   ├─ /works/autobiography-of-a-yogi-yogananda-paramahansa.html (+22ms) 
+17:10:07   ├─ /works/beast-and-man-in-india-a-popular-sketch-of-indian-animals-in-their-relations-with-the-people.html (+19ms) 
+17:10:07   ├─ /works/bhagavad-gita-herrens-sång-unknown.html (+21ms) 
+17:10:07   ├─ /works/buddhism-in-its-connexion-with-brahmanism-and-hinduism-and-in-its-contrast-with-christianity-monier.html (+18ms) 
+17:10:07   ├─ /works/by-ways-of-bombay-edwardes-s-m-stephen-meredyth.html (+19ms) 
+17:10:07   ├─ /works/campaign-of-the-indus-in-a-series-of-letters-from-an-officer-of-the-bombay-division-holdsworth-t-w-e.html (+27ms) 
+17:10:07   ├─ /works/castes-and-tribes-of-southern-india-vol-1-of-7-thurston-edgar.html (+23ms) 
+17:10:07   ├─ /works/das-heim-und-die-welt-tagore-rabindranath.html (+17ms) 
+17:10:07   ├─ /works/de-hoovenier-tagore-rabindranath.html (+18ms) 
+17:10:07   ├─ /works/der-gärtner-tagore-rabindranath.html (+17ms) 
+17:10:07   ├─ /works/der-könig-der-dunklen-kammer-tagore-rabindranath.html (+17ms) 
+17:10:07   ├─ /works/departmental-ditties-and-ballads-and-barrack-room-ballads-kipling-rudyard.html (+18ms) 
+17:10:07   ├─ /works/diary-of-a-pedestrian-in-cashmere-and-thibet-knight-w-h-william-henry.html (+18ms) 
+17:10:07   ├─ /works/diary-of-richard-cocks-volume-1-cape-merchant-in-the-english-factory-in-japan-1615-1622-with.html (+18ms) 
+17:10:07   ├─ /works/die-nacht-der-erfüllung-erzählungen-tagore-rabindranath.html (+19ms) 
+17:10:07   ├─ /works/dr-scudders-tales-for-little-readers-about-the-heathen-scudder-john.html (+18ms) 
+17:10:07   ├─ /works/el-libro-de-las-tierras-vírgenes-kipling-rudyard.html (+18ms) 
+17:10:07   ├─ /works/famous-fights-of-indian-native-regiments-hodder-reginald.html (+18ms) 
+17:10:07   ├─ /works/flowers-and-flower-gardens-with-an-appendix-of-practical-instructions-and-useful-information.html (+18ms) 
+17:10:07   ├─ /works/folk-lore-notes-vol-igujarat-jackson-a-m-t-arthur-mason-tippetts.html (+18ms) 
+17:10:07   ├─ /works/folk-tales-of-bengal-day-lal-behari.html (+19ms) 
+17:10:07   ├─ /works/folk-tales-of-sind-and-guzarat-kincaid-c-a-charles-augustus.html (+20ms) 
+17:10:07   ├─ /works/freedoms-battle-being-a-comprehensive-collection-of-writings-and-speeches-on-the-present-situation.html (+19ms) 
+17:10:07   ├─ /works/fruit-gathering-tagore-rabindranath.html (+18ms) 
+17:10:07   ├─ /works/gitanjali-sangesopfer-tagore-rabindranath.html (+18ms) 
+17:10:07   ├─ /works/gitanjali-tagore-rabindranath.html (+18ms) 
+17:10:07   ├─ /works/glimpses-of-bengal-selected-from-the-letters-of-sir-rabindranath-tagore-1885-to-1895-tagore.html (+19ms) 
+17:10:07   ├─ /works/gold-sport-and-coffee-planting-in-mysore-with-chapters-on-coffee-planting-in-coorg-the-mysore.html (+18ms) 
+17:10:07   ├─ /works/godan-premchand.html (+18ms) 
+17:10:07   ├─ /works/gopal-bhar.html (+19ms) 
+17:10:07   ├─ /works/gora-i-b-romaani-tagore-rabindranath.html (+19ms) 
+17:10:07   ├─ /works/gora-ii-b-romaani-tagore-rabindranath.html (+19ms) 
+17:10:07   ├─ /works/hilda-a-story-of-calcutta-duncan-sara-jeannette.html (+26ms) 
+17:10:07   ├─ /works/hindoo-tales-or-the-adventures-of-ten-princes-dandin-active-7th-century.html (+18ms) 
+17:10:07   ├─ /works/hindu-tales-from-the-sanskrit-unknown.html (+19ms) 
+17:10:07   ├─ /works/history-of-gujarát-gazetteer-of-the-bombay-presidency-volume-i-part-i-campbell-james-m.html (+19ms) 
+17:10:07   ├─ /works/hitopadesa-narayana.html (+20ms) 
+17:10:08   ├─ /works/hobson-jobson-a-glossary-of-colloquial-anglo-indian-words-and-phrases-and-of-kindred-terms.html (+18ms) 
+17:10:08   ├─ /works/hymns-from-the-rigveda-selected-and-metrically-translated-griffith.html (+21ms) 
+17:10:08   ├─ /works/hymns-of-the-atharvaveda-griffith.html (+18ms) 
+17:10:08   ├─ /works/hymns-of-the-samaveda-griffith.html (+20ms) 
+17:10:08   ├─ /works/in-clives-command-a-story-of-the-fight-for-india-strang-herbert.html (+20ms) 
+17:10:08   ├─ /works/in-old-madras-croker-b-m-bithia-mary.html (+22ms) 
+17:10:08   ├─ /works/india-and-the-indians-elwin-edward-fenton.html (+22ms) 
+17:10:08   ├─ /works/india-for-indians-enlarged-edition-das-chitta-ranjan.html (+24ms) 
+17:10:08   ├─ /works/india-and-tibet-a-history-of-the-relations-which-have-subsisted-between-the-two-countries-from-the.html (+28ms) 
+17:10:08   ├─ /works/india-under-british-rule-from-the-foundation-of-the-east-india-company-wheeler-james-talboys.html (+22ms) 
+17:10:08   ├─ /works/india-what-can-it-teach-us-a-course-of-lectures-delivered-before-the-university-of-cambridge-müller.html (+20ms) 
+17:10:08   ├─ /works/indian-fairy-tales-jacobs.html (+20ms) 
+17:10:08   ├─ /works/indian-home-rule-gandhi-hind-swaraj.html (+23ms) 
+17:10:08   ├─ /works/indian-home-rule-gandhi-mahatma.html (+19ms) 
+17:10:08   ├─ /works/indian-tales-kipling-rudyard.html (+19ms) 
+17:10:08   ├─ /works/indias-problem-krishna-or-christ-jones-john-p-john-peter.html (+19ms) 
+17:10:08   ├─ /works/indica-megasthenes.html (+19ms) 
+17:10:08   ├─ /works/jaimini-sutras-purva-mimamsa.html (+19ms) 
+17:10:08   ├─ /works/jatakas-tales-of-the-buddha.html (+20ms) 
+17:10:08   ├─ /works/jnâna-yoga-part-ii-seven-lectures-vivekananda-swami.html (+25ms) 
+17:10:08   ├─ /works/kashmir-described-by-sir-francis-younghusband-painted-by-major-e-molyneux-younghusband-francis.html (+19ms) 
+17:10:08   ├─ /works/kena-upanishad.html (+26ms) 
+17:10:08   ├─ /works/kim-kipling-rudyard.html (+20ms) 
+17:10:08   ├─ /works/king-of-the-khyber-rifles-a-romance-of-adventure-mundy-talbot.html (+20ms) 
+17:10:08   ├─ /works/kiratarjuniya-bharavi.html (+19ms) 
+17:10:08   ├─ /works/koti-ja-maailma-tagore-rabindranath.html (+18ms) 
+17:10:08   ├─ /works/la-jeune-inde-gandhi-mahatma.html (+18ms) 
+17:10:08   ├─ /works/le-jardinier-damour-tagore-rabindranath.html (+18ms) 
+17:10:08   ├─ /works/le-livre-de-la-jungle-kipling-rudyard.html (+20ms) 
+17:10:08   ├─ /works/life-in-an-indian-outpost-casserly-gordon.html (+21ms) 
+17:10:08   ├─ /works/lifes-handicap-being-stories-of-mine-own-people-kipling-rudyard.html (+24ms) 
+17:10:08   ├─ /works/maha-bharata-the-epic-of-ancient-india-condensed-into-english-verse-unknown.html (+23ms) 
+17:10:08   ├─ /works/mashi-and-other-stories-tagore-rabindranath.html (+21ms) 
+17:10:08   ├─ /works/matsya-purana.html (+19ms) 
+17:10:08   ├─ /works/memoir-of-the-services-of-the-bengal-artillery-from-the-formation-of-the-corps-to-the-present-time.html (+19ms) 
+17:10:08   ├─ /works/memoirs-of-the-right-rev-daniel-corrie-lld-first-bishop-of-madras-corrie-daniel.html (+19ms) 
+17:10:08   ├─ /works/mricchakatika-sudraka.html (+19ms) 
+17:10:08   ├─ /works/mutiny-memoirs-being-personal-reminiscences-of-the-great-sepoy-revolt-of-1857-mackenzie-a-r-d.html (+20ms) 
+17:10:08   ├─ /works/my-reminiscences-tagore-rabindranath.html (+19ms) 
+17:10:08   ├─ /works/nationalismus-tagore-rabindranath.html (+25ms) 
+17:10:08   ├─ /works/natya-shastra-bharata-muni.html (+21ms) 
+17:10:08   ├─ /works/newton-forster-or-the-merchant-service-marryat-frederick.html (+20ms) 
+17:10:08   ├─ /works/nil-darpan-or-the-indigo-planting-mirror-a-drama-translated-from-the-bengali-by-a-native-mitra.html (+21ms) 
+17:10:08   ├─ /works/notes-of-an-overland-journey-through-france-and-egypt-to-bombay-roberts-emma.html (+20ms) 
+17:10:08   ├─ /works/nyaya-sutras-of-gotama.html (+19ms) 
+17:10:08   ├─ /works/observations-on-the-disturbances-in-the-madras-army-in-1809-malcolm-john.html (+20ms) 
+17:10:08   ├─ /works/old-deccan-days-or-hindoo-fairy-legends-current-in-southern-india-unknown.html (+20ms) 
+17:10:08   ├─ /works/on-the-face-of-the-waters-a-tale-of-the-mutiny-steel-flora-annie-webster.html (+23ms) 
+17:10:09   ├─ /works/on-the-indian-sect-of-the-jainas-bühler-georg.html (+21ms) 
+17:10:09   ├─ /works/one-of-clives-heroes-a-story-of-the-fight-for-india-strang-herbert.html (+20ms) 
+17:10:09   ├─ /works/oriental-religions-and-christianity-a-course-of-lectures-delivered-on-the-ely-foundation-before-the.html (+20ms) 
+17:10:09   ├─ /works/panchatantra-vishnu-sharma.html (+20ms) 
+17:10:09   ├─ /works/patanjali-yoga-sutras.html (+20ms) 
+17:10:09   ├─ /works/path-to-god-gandhi.html (+21ms) 
+17:10:09   ├─ /works/pather-panchali-bibhutibhushan-bandyopadhyay.html (+19ms) 
+17:10:09   ├─ /works/phallic-miscellanies-facts-and-phases-of-ancient-and-modern-sex-worship-as-illustrated-chiefly-in.html (+20ms) 
+17:10:09   ├─ /works/plain-tales-from-the-hills-kipling-rudyard.html (+21ms) 
+17:10:09   ├─ /works/poems-by-toru-dutt.html (+20ms) 
+17:10:09   ├─ /works/priyadarsika-harsha.html (+19ms) 
+17:10:09   ├─ /works/raja-yoga-swami-vivekananda.html (+23ms) 
+17:10:09   ├─ /works/ramayana-valmiki.html (+26ms) 
+17:10:09   ├─ /works/rambles-and-recollections-of-an-indian-official-sleeman-w-h-william-henry-sir.html (+19ms) 
+17:10:09   ├─ /works/recollections-of-a-military-life-adye-john-sir.html (+26ms) 
+17:10:09   ├─ /works/recollections-of-calcutta-for-over-half-a-century-massey-montague.html (+30ms) 
+17:10:09   ├─ /works/recollections-of-thirty-nine-years-in-the-army-gwalior-and-the-battle-of-maharajpore-1843-the-gold.html (+74ms) 
+17:10:09   ├─ /works/reminiscences-of-the-great-mutiny-1857-59-including-the-relief-siege-and-capture-of-lucknow-and-the.html (+33ms) 
+17:10:09   ├─ /works/rig-veda-samhita-books-14-wilson.html (+30ms) 
+17:10:09   ├─ /works/rujub-the-juggler-henty-g-a-george-alfred.html (+21ms) 
+17:10:09   ├─ /works/rulers-of-india-akbar-malleson-g-b-george-bruce.html (+21ms) 
+17:10:09   ├─ /works/rulers-of-india-lord-clive-malleson-g-b-george-bruce.html (+19ms) 
+17:10:09   ├─ /works/ruth-fielding-in-the-great-northwest-or-the-indian-girl-star-of-the-movies-emerson-alice-b.html (+18ms) 
+17:10:09   ├─ /works/sadhana-the-realisation-of-life-tagore-rabindranath.html (+18ms) 
+17:10:09   ├─ /works/sakoontala-or-the-lost-ring-an-indian-drama-kalidasa.html (+17ms) 
+17:10:09   ├─ /works/satapathabrahmana-eggeling-translation.html (+18ms) 
+17:10:09   ├─ /works/shiva-mahapurana.html (+18ms) 
+17:10:09   ├─ /works/simla-village-tales-or-folk-tales-from-the-himalayas-dracott-alice.html (+18ms) 
+17:10:09   ├─ /works/skanda-purana.html (+24ms) 
+17:10:09   ├─ /works/soundarya-lahari-adi-shankara.html (+17ms) 
+17:10:09   ├─ /works/stories-from-tagore-tagore-rabindranath.html (+17ms) 
+17:10:09   ├─ /works/story-of-my-experiments-with-truth-gandhi-autobiography.html (+20ms) 
+17:10:09   ├─ /works/stray-birds-tagore-rabindranath.html (+22ms) 
+17:10:09   ├─ /works/swetashvatara-upanishad.html (+18ms) 
+17:10:09   ├─ /works/tales-from-the-hindu-dramatists-dutta-r-n.html (+26ms) 
+17:10:09   ├─ /works/taittriya-upanishad.html (+20ms) 
+17:10:09   ├─ /works/tales-of-bengal-banerjea-s-b.html (+19ms) 
+17:10:09   ├─ /works/tales-of-the-punjab-folklore-of-india-steel-flora-annie-webster.html (+26ms) 
+17:10:09   ├─ /works/the-adventures-of-akbar-steel-flora-annie-webster.html (+27ms) 
+17:10:09   ├─ /works/the-autobiography-of-an-indian-princess-sunity-devee-maharani-of-cooch-behar.html (+20ms) 
+17:10:09   ├─ /works/the-bhagavad-gita-vyasa.html (+18ms) 
+17:10:09   ├─ /works/the-birth-of-the-war-god-a-poem-by-kálidása-kalidasa.html (+18ms) 
+17:10:09   ├─ /works/the-bombay-city-police-a-historical-sketch-1672-1916-edwardes-s-m-stephen-meredyth.html (+18ms) 
+17:10:09   ├─ /works/the-bridge-builders-kipling-rudyard.html (+17ms) 
+17:10:09   ├─ /works/the-bābur-nāma-in-english-memoirs-of-bābur-babur-emperor-of-hindustan.html (+18ms) 
+17:10:10   ├─ /works/the-commerce-and-navigation-of-the-erythræan-sea-being-a-translation-of-the-periplus-maris-erythræi.html (+18ms) 
+17:10:10   ├─ /works/the-defence-of-lucknow-a-diary-recording-the-daily-events-during-the-siege-of-the-european.html (+21ms) 
+17:10:10   ├─ /works/the-cycle-of-spring-tagore-rabindranath.html (+24ms) 
+17:10:10   ├─ /works/the-diary-of-a-hunter-from-the-punjab-to-the-karakorum-mountains-irby-augustus-henry.html (+27ms) 
+17:10:10   ├─ /works/the-east-india-vade-mecum-volume-1-of-2-or-complete-guide-to-gentlemen-intended-for-the-civil.html (+20ms) 
+17:10:10   ├─ /works/the-gardener-tagore-rabindranath.html (+18ms) 
+17:10:10   ├─ /works/the-hindu-yogi-science-of-breath-atkinson-william-walker.html (+18ms) 
+17:10:10   ├─ /works/the-history-of-the-indian-revolt-and-of-the-expeditions-to-persia-china-and-japan-1856-7-8-dodd.html (+23ms) 
+17:10:10   ├─ /works/the-home-and-the-world-tagore-rabindranath.html (+18ms) 
+17:10:10   ├─ /works/the-hungry-stones-and-other-stories-tagore-rabindranath.html (+19ms) 
+17:10:10   ├─ /works/the-influence-of-india-and-persia-on-the-poetry-of-germany-remy-arthur-f-j.html (+23ms) 
+17:10:10   ├─ /works/the-kathá-sarit-ságara-or-ocean-of-the-streams-of-story-somadeva-bhatta-active-11th-century.html (+19ms) 
+17:10:10   ├─ /works/the-king-of-the-dark-chamber-tagore-rabindranath.html (+19ms) 
+17:10:10   ├─ /works/the-kipling-reader-selections-from-the-books-of-rudyard-kipling-kipling-rudyard.html (+18ms) 
+17:10:10   ├─ /works/the-mystery-of-cloomber-doyle-arthur-conan.html (+18ms) 
+17:10:10   ├─ /works/the-old-east-indiamen-chatterton-e-keble-edward-keble.html (+18ms) 
+17:10:10   ├─ /works/the-panjab-north-west-frontier-province-and-kashmir-douie-james-mccrone-sir.html (+17ms) 
+17:10:10   ├─ /works/the-peoples-of-india-anderson-j-d-james-drummond.html (+18ms) 
+17:10:10   ├─ /works/the-pirates-of-malabar-and-an-englishwoman-in-india-two-hundred-years-ago-biddulph-j-john.html (+18ms) 
+17:10:10   ├─ /works/the-poison-tree-a-tale-of-hindu-life-in-bengal-cattopadhyaya-bankimacandra.html (+19ms) 
+17:10:10   ├─ /works/the-post-office-tagore-rabindranath.html (+18ms) 
+17:10:10   ├─ /works/the-red-year-a-story-of-the-indian-mutiny-tracy-louis.html (+18ms) 
+17:10:10   ├─ /works/the-rámáyan-of-válmíki-translated-into-english-verse-valmiki.html (+19ms) 
+17:10:10   ├─ /works/the-tale-of-the-great-mutiny-fitchett-w-h-william-henry.html (+18ms) 
+17:10:10   ├─ /works/the-wheel-of-fortune-gandhi-mahatma.html (+18ms) 
+17:10:10   ├─ /works/hinduism-and-buddhism-an-historical-sketch-eliot-charles.html (+18ms) 
+17:10:10   ├─ /works/le-râmâyana-poème-sanscrit-de-valmiky-valmiki.html (+17ms) 
+17:10:10   ├─ /works/the-conquest-of-canada-warburton-george.html (+17ms) 
+17:10:10   ├─ /works/the-jungle-books-kipling-rudyard.html (+17ms) 
+17:10:10   ├─ /works/the-popular-religion-and-folk-lore-of-northern-india-crooke-william.html (+17ms) 
+17:10:10   ├─ /works/the-rāmāyana-valmiki.html (+17ms) 
+17:10:10   ├─ /works/the-tribes-and-castes-of-the-central-provinces-of-india-russell-r-v-robert-vane.html (+18ms) 
+17:10:10   ├─ /works/the-tuzuk-i-jahangiri-or-memoirs-of-jahangir-jahangir-emperor-of-hindustan.html (+18ms) 
+17:10:10   ├─ /works/travels-into-bokhara-burnes-alexander.html (+25ms) 
+17:10:10   ├─ /works/a-brief-history-of-the-3rd-battalion-1st-punjab-regiment-b-formerly-76th-punjabis-16th-madras.html (+26ms) 
+17:10:10   ├─ /works/the-sepoy-candler-edmund.html (+17ms) 
+17:10:10   ├─ /works/the-song-celestial-or-bhagavad-gîtâ-from-the-mahâbhârata-being-a-discourse-between-arjuna-prince-of.html (+17ms) 
+17:10:10   ├─ /works/the-story-of-madras-barlow-glyn.html (+17ms) 
+17:10:10   ├─ /works/the-story-of-the-gadsbys-kipling-rudyard.html (+21ms) 
+17:10:10   ├─ /works/the-tiger-of-mysore-a-story-of-the-war-with-tippoo-saib-henty-g-a-george-alfred.html (+20ms) 
+17:10:10   ├─ /works/the-tribes-and-castes-of-the-north-western-provinces-and-oudh-volume-1-of-4-crooke-william.html (+21ms) 
+17:10:10   ├─ /works/three-frenchmen-in-bengal-the-commercial-ruin-of-the-french-settlements-in-1757-hill-samuel-charles.html (+17ms) 
+17:10:10   ├─ /works/through-the-sikh-war-a-tale-of-the-conquest-of-the-punjaub-henty-g-a-george-alfred.html (+18ms) 
+17:10:10   ├─ /works/tibetan-tales-derived-from-indian-sources-unknown.html (+21ms) 
+17:10:10   ├─ /works/translations-of-shakuntala-and-other-works-kalidasa.html (+19ms) 
+17:10:10   ├─ /works/twelve-years-of-a-soldiers-life-in-india-being-extracts-from-the-letters-of-the-late-major-w-s-r.html (+18ms) 
+17:10:10   ├─ /works/twenty-two-goblins-translated-from-the-sanskrit-unknown.html (+18ms) 
+17:10:10   ├─ /works/two-old-faiths-b-essays-on-the-religions-of-the-hindus-and-the-mohammedans-mitchell-j-murray-john.html (+21ms) 
+17:10:10   ├─ /works/uhrilauluja-tagore-rabindranath.html (+24ms) 
+17:10:10   ├─ /works/verses-1889-1896-kipling-rudyard.html (+17ms) 
+17:10:10   └─ /works/vikram-and-the-vampire-classic-hindu-tales-of-adventure-magic-and-romance-burton-richard-francis-sir.html (+17ms) 
+17:10:10 ▶ src/pages/index.astro
+17:10:10   └─ /index.html (+20ms) 
+17:10:11 ✓ Completed in 14.99s.
+
+17:10:11 [@astrojs/sitemap] `sitemap-index.xml` created at `dist`
+17:10:11 [build] 720 page(s) built in 19.36s
+17:10:11 [build] Complete!
+
+> dhwani@2.0.0 pagefind
+> pagefind --source dist --glob "**/*.html"
+
+
+Running Pagefind v1.4.0 (Extended)
+Running from: "/home/bhuvanesh.r/AA/A main projects/Dhwani files/new-dhwani"
+Source:       "dist"
+Output:       "dist/pagefind"
+
+[Walking source directory]
+Found 720 files matching **/*.html
+
+[Parsing files]
+Did not find a data-pagefind-body element on the site.
+↳ Indexing all <body> elements on the site.
+
+[Reading languages]
+Discovered 1 language: en
+
+[Building search indexes]
+Total: 
+  Indexed 1 language
+  Indexed 720 pages
+  Indexed 36990 words
+  Indexed 0 filters
+  Indexed 0 sorts
+
+Finished in 4.443 seconds
+1 configuration warning(s):
+
+The `source` option is deprecated as of Pagefind 1.0. The `source` option has been renamed to `site`:
+
+cli:    --site
+config: site
+env:    PAGEFIND_SITE
+└─ "The location of your built static website"
+
+
+> dhwani@2.0.0 generate-related
+> node scripts/generate-related-works.js
+
+🔄 Loading all works from content directory...
+✅ Loaded 698 works
+🔄 Computing related works for each work...
+   Processed 50/698 works...
+   Processed 100/698 works...
+   Processed 150/698 works...
+   Processed 200/698 works...
+   Processed 250/698 works...
+   Processed 300/698 works...
+   Processed 350/698 works...
+   Processed 400/698 works...
+   Processed 450/698 works...
+   Processed 500/698 works...
+   Processed 550/698 works...
+   Processed 600/698 works...
+   Processed 650/698 works...
+✅ Computed related works for 698 works
+🔄 Writing individual JSON files...
+✅ Written 698 individual files to dist/related-works/
+✅ Written combined file to dist/related-works-all.json
+
+📊 Statistics:
+   Total works: 698
+   Works with related works: 698 (100.0%)
+   Average related works per work: 5.0
+
+✨ Done!
+
+ ⛅️ wrangler 4.41.0 (update available 4.45.4)
+─────────────────────────────────────────────
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mMultiple environments are defined in the Wrangler configuration file, but no target environment was specified for the deploy command.[0m
+
+  To avoid unintentional changes to the wrong environment, it is recommended to explicitly specify the target environment using the `-e|--env` flag.
+  If your intention is to use the top-level environment of your configuration simply pass an empty string to the flag to target such environment. For example `--env=""`.
+
+
+🌀 Building list of assets...
+✨ Read 2276 files from the assets directory /home/bhuvanesh.r/AA/A main projects/Dhwani files/new-dhwani/dist
+🌀 Starting asset upload...
+🌀 Found 1515 new or modified static assets to upload. Proceeding with upload...
++ /pagefind/pagefind-entry.json
++ /related-works/adhyatma-ramayanam-kilippattu-ezhuthachan-malayalam.json
++ /related-works/kamba-ramayanam.json
++ /related-works/ramacharitamanasa-tulsidas.json
++ /related-works/kavitavali-tulsidas.json
++ /related-works/pampa-bharatam-vikramarjuna-vijaya-kannada.json
++ /related-works/dhammapada-buddha.json
++ /related-works/velugoti-vari-vamsavali-telugu.json
++ /related-works/sursagar-surdas.json
++ /related-works/sankirtan-annamayya.json
++ /related-works/devi-mahatmya-markandeya.json
++ /related-works/kautilya-arthashastra-hindi-anubad-kautilya.json
++ /related-works/devotional-poems-mirabai.json
++ /related-works/andhra-mahabharatamu-nannaya-telugu.json
++ /related-works/the-buddhavamsa-and-the-cariya-pitaka.json
++ /related-works/sant-tukaram-gatha-marathi-abhanga.json
++ /related-works/yasastilaka-somadeva-suri.json
++ /related-works/yoga-vasistha-valmiki.json
++ /related-works/sarala-mahabharata-odia-sarala-dasa.json
++ /related-works/studies-in-mughal-india.json
++ /related-works/panchatantra-vishnu-sharma.json
++ /related-works/panchadasi-vidyaranya.json
++ /related-works/jatakas-tales-of-the-buddha.json
++ /related-works/kumarasambhava-kalidasa.json
++ /related-works/kāñcippurāṇam-civañāṇa-muṉivar-active-18th-century.json
++ /related-works/shiva-sutras-vasugupta.json
++ /related-works/samkhya-karika-ishvarakrishna.json
++ /related-works/little-clay-cart-sudraka.json
++ /related-works/mudrarakshasa-vishakhadatta.json
++ /related-works/castes-and-tribes-of-southern-india-vol-1-of-7-thurston-edgar.json
++ /related-works/tiruvaimozhi-nammalvar.json
++ /related-works/uttara-rama-charita-bhavabhuti.json
++ /related-works/chandrakanta-devaki-nandan-khatri.json
++ /related-works/kulliyat-e-fani-collected-poems-fani-badayuni.json
++ /related-works/linga-purana.json
++ /related-works/garuda-purana.json
++ /related-works/vishnu-purana-wilson.json
++ /related-works/shiva-purana.json
++ /related-works/mahabhashya-patanjali.json
++ /related-works/kena-upanishad.json
++ /related-works/taittiriya-upanishad.json
++ /related-works/complete-poems-subramania-bharati.json
++ /related-works/prashna-upanishad.json
++ /related-works/mandukya-upanishad.json
++ /related-works/uttara-rama-charita-bhavabhuti-belvalkar.json
++ /related-works/nyaya-sutras-akshapada-gautama.json
++ /related-works/indian-currency-and-finance-keynes.json
++ /related-works/kashidasi-mahabharat-কশদস-মহভরত-kashiram-das.json
++ /related-works/islam-in-india-qanun-i-islam-jafar-sharif.json
++ /related-works/milinda-panha.json
++ /related-works/rajatarangini-kalhana.json
++ /related-works/the-hindu-arabic-numerals-smith-karpinski.json
++ /related-works/sva-george-c-m-birdwood.json
++ /related-works/kama-sutra-vatsyayana.json
++ /related-works/natyashastra-bharata-muni.json
++ /related-works/the-ocean-of-story-being-ch-tawneys-translation-of-somadevas-katha-sarit-sagara-somadeva-bhatta.json
++ /related-works/a-short-guide-to-buddhist-remains-at-nalanda-kuraishi.json
++ /related-works/priyadarsika-harsha.json
++ /related-works/krishnakanter-will-bankimchandra-chattopadhyay.json
++ /related-works/nalanda-and-its-epigraphic-material-shastri.json
++ /related-works/sangita-makaranda-telang.json
++ /related-works/rasendra-sar-sanghra-bhaskara-basak.json
++ /related-works/a-bibliography-of-the-sanskrit-drama-montgomery-schuyler.json
++ /related-works/the-travels-of-ibn-battuta.json
++ /related-works/folk-tales-of-bengal-day-lal-behari.json
++ /related-works/silappatikaram-ilango-adigal.json
++ /related-works/lectures-on-the-ancient-history-of-india-d-r-bhandarkar.json
++ /related-works/meghnad-badh-kavya-michael-madhusudan-dutt.json
++ /related-works/plain-tales-from-the-hills-kipling-rudyard.json
++ /related-works/lekhmalanukramani-rakhaldas-bandyopadhyay.json
++ /related-works/the-jungle-books-kipling-rudyard.json
++ /related-works/sangita-raga-kalpadruma-vol1.json
++ /related-works/bhagavad-gita-herrens-sång-unknown.json
++ /related-works/the-lhota-nagas-jp-mills.json
++ /related-works/der-gärtner-tagore-rabindranath.json
++ /related-works/the-flora-of-british-india-joseph-dalton-hooker-ed-with-collaborators.json
++ /related-works/ramayana-valmiki.json
++ /related-works/a-guide-to-nalanda-ghosh.json
++ /related-works/tripura-rahasya-gopi-nath-kaviraja.json
++ /related-works/narrative-of-a-journey-through-the-upper-provinces-of-india-reginald-heber.json
++ /related-works/across-india-or-live-boys-in-the-far-east-william-taylor-adams-oliver-optic.json
++ /related-works/annals-and-antiquities-of-rajasthan-tod.json
++ /related-works/folk-tales-of-kashmir-jh-knowles-1893.json
++ /related-works/siddhanta-shiromani-bhaskara.json
++ /related-works/abhijnana-shakuntalam-kalidasa.json
++ /related-works/the-ao-nagas-jp-mills.json
++ /related-works/bhagavad-gita-christian-literature-society-1899.json
++ /related-works/akuntal-or-the-lost-ring-klidsa-tr-monier-monier-williams.json
++ /related-works/rig-veda-samhita-books-14-wilson.json
++ /related-works/glimpses-of-bengal-selected-from-the-letters-of-sir-rabindranath-tagore-1885-to-1895-tagore.json
++ /related-works/stray-birds-tagore-rabindranath.json
++ /related-works/panjab-castes-1847-1908-sir-denzil-ibbetson.json
++ /related-works/charaka-samhita-ayurveda-english-translation.json
++ /related-works/the-life-of-shivaji-maharaj-k-a-keluskar-n-s-takakhav.json
++ /related-works/economic-change-in-rural-india-neale.json
++ /related-works/hindustani-lyrics-inayat-khan-jessie-d-westbrook.json
++ /related-works/sakoontala-or-the-lost-ring-an-indian-drama-kalidasa.json
++ /related-works/buddhist-mahayana-texts.json
++ /related-works/the-administration-of-the-east-india-company-john-william-kaye.json
++ /related-works/nala-and-damayanti-and-other-poems-henry-hart-milman.json
+   (truncating changed assets log, set `WRANGLER_LOG=debug` environment variable to see full diff)
+Uploaded 505 of 1515 assets
+Uploaded 1010 of 1515 assets
+Uploaded 1515 of 1515 assets
+✨ Success! Uploaded 1515 files (750 already uploaded) (87.66 sec)
+
+Total Upload: 21.57 KiB / gzip: 5.43 KiB
+Worker Startup Time: 12 ms
+Uploaded dhwani (102.14 sec)
+Deployed dhwani triggers (3.46 sec)
+  https://dhwani.r-bhuvanesh2007.workers.dev
+Current Version ID: 20e765c9-32fe-48ed-b675-dbf3769a1c90

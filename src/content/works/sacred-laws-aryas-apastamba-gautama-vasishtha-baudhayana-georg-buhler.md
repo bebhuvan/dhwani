@@ -1,25 +1,39 @@
 ---
-title: "The Sacred Laws of the Âryas: As Taught in the Schools of Âpastamba, Gautama, Vâsishtha, and Baudhâyana"
-author: ["Apastamba", "Gautama", "Vasishtha", "Baudhayana", "Georg Bühler"]
+title: 'The Sacred Laws of the Âryas: As Taught in the Schools of Âpastamba, Gautama, Vâsishtha, and Baudhâyana'
+author:
+- Apastamba
+- Gautama
+- Vasishtha
+- Baudhayana
+- Georg Bühler
 year: 1879
-language: ["Sanskrit", "English"]
-genre: ["Legal Literature", "Religious Studies", "Ancient Literature", "Philosophy"]
-description: "Georg Bühler's scholarly translation of four foundational Hindu legal texts (Dharmasutras) from ancient India. This comprehensive work presents the earliest systematic legal traditions covering social conduct, governance, religious practices, and jurisprudence that shaped Hindu society for millennia."
-collections: ['ancient-wisdom', 'spiritual-texts', 'classical-literature']
+language:
+- Sanskrit
+- English
+genre:
+- Legal Literature
+- Religious Studies
+- Ancient Literature
+- Philosophy
+description: |
+  Georg Bühler's translation of the Dharmasutras presents a scholarly examination of legal and ethical frameworks in ancient Indian civilization. Composed between 500-200 BCE during the late Vedic and transitional Mauryan period, these texts emerged during a significant intellectual and sociopolitical transformation. Authored by Brahmin scholars Apastamba, Gautama, Vasishtha, and Baudhayana, these legal treatises systematically documented social regulations, religious practices, and behavioral guidelines that substantially influenced Hindu cultural and legal traditions. The texts comprehensively analyze domains of governance, familial relations, ritual obligations, judicial procedures, and social hierarchies, providing detailed insights into early Indian legal and philosophical structures. Each Dharmasutra represents a compilation of dharma—a concept encompassing cosmic order, social duty, ethical conduct, and legal prescription—demonstrating the analytical approach of Brahminical scholarly traditions. By documenting social stratification, ritual purity, inheritance laws, judicial principles, and individual moral responsibilities, these texts reveal the regulatory mechanisms of ancient Indian societies. Bühler's translation, published in 1879 as "The Sacred Laws of the Âryas," serves as a critical scholarly resource for understanding the legal, philosophical, and social epistemologies of classical Indian civilization. Subsequent academic research has consistently referenced Bühler's work as a foundational text for understanding the complex normative frameworks of early Indian social organization and legal thought.
+collections:
+- ancient-wisdom
+- spiritual-texts
+- classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/pt2sacredlawsof14bhuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/pt2sacredlawsof14bhuoft
+  type: other
 references:
-  - name: "Wikipedia: Apastamba Dharmasutra"
-    url: "https://en.wikipedia.org/wiki/Apastamba_Dharmasutra"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=The+sacred+laws+of+the+%C3%82ryas&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Apastamba Dharmasutra'
+  url: https://en.wikipedia.org/wiki/Apastamba_Dharmasutra
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=The+sacred+laws+of+the+%C3%82ryas&mode=everything
+  type: other
 featured: false
 publishDate: 2025-09-28
-tags: ["Dharmasutra", "Hindu Law", "Ancient Legal Texts", "Georg Bühler", "Apastamba", "Gautama", "Vasishtha", "Baudhayana", "Sacred Books of the East", "Vedic Literature", "Indian Jurisprudence", "Religious Law"]
 ---
 
 # The Sacred Laws of the Âryas: As Taught in the Schools of Âpastamba, Gautama, Vâsishtha, and Baudhâyana

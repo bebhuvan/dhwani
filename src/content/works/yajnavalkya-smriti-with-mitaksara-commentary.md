@@ -1,28 +1,40 @@
 ---
-title: "Yājñavalkya Smṛti with the Commentary Mitākṣarā"
-author: ["Yājñavalkya", "commentary by Vijñāneśvara", "ed. Wasudev Laxman Shastri Pansikar", "tr. Srisa Chandra Vidyarnava"]
+title: 'Yājñavalkya Smṛti with the Commentary Mitākṣarā'
+author:
+- Yājñavalkya
+- commentary by Vijñāneśvara
+- ed. Wasudev Laxman Shastri Pansikar
+- tr. Srisa Chandra Vidyarnava
 year: 1900
-language: ["English", "Sanskrit"]
-genre: ["Legal Literature", "Classical Literature", "Religious Literature"]
-description: "The Yājñavalkya Smṛti is one of the most important Hindu law texts (dharmaśāstra) from ancient India. Available here are two scholarly editions: the Pansikar edition with Sanskrit text and Mitākṣarā commentary, and the Vidyarnava English translation, both preserving this foundational work of Hind..."
-collections: ['ancient-wisdom', 'spiritual-texts', 'classical-literature']
+language:
+- English
+- Sanskrit
+genre:
+- Legal Literature
+- Classical Literature
+- Religious Literature
+description: |
+  The Yājñavalkya Smṛti is a dharmaśāstra text from classical Indian legal and ethical literature, composed between the 3rd and 5th centuries CE during the post-Gupta period. Attributed to the sage Yājñavalkya, a prominent figure in Vedic philosophical and legal discourse, this comprehensive legal compendium systematically examines dharma (religious and social duty), artha (governance and economics), and social normative frameworks of Hindu society. The text gains significant scholarly importance through its Mitākṣarā commentary by Vijñāneśvara, a 12th-century scholar whose interpretations became foundational to subsequent Hindu legal traditions across the Indian subcontinent. The Smṛti provides detailed documentation of jurisprudential domains, including familial law, inheritance protocols, criminal justice, contractual obligations, property rights, and ritual obligations. It offers structured guidelines for social conduct and institutional governance, serving as a critical primary source for understanding the legal and social structures of classical Indian civilization. Scholars recognize the text's methodical approach to analyzing social complexity, which notably influenced subsequent legal commentaries and remained a reference for judicial deliberations in traditional and colonial Indian legal systems. By comprehensively documenting social norms, legal principles, and ethical frameworks, the Yājñavalkya Smṛti provides researchers with a nuanced window into the intellectual and societal organization of pre-modern Indian social systems, demonstrating the sophisticated legal-philosophical traditions of its historical context.
+collections:
+- ancient-wisdom
+- spiritual-texts
+- classical-literature
 sources:
-  - name: "Internet Archive (Pansikar Edition - Sanskrit with Mitākṣarā)"
-    url: "https://archive.org/details/Yajnavalkya.Smriti.with.the.Commentary.Mitaksara.of.Vidnyaneshvara"
-    type: "other"
-  - name: "Internet Archive (Vidyarnava Translation - English)"
-    url: "https://archive.org/details/yajnavalkyasmrit00yj"
-    type: "other"
+- name: 'Internet Archive (Pansikar Edition - Sanskrit with Mitākṣarā)'
+  url: https://archive.org/details/Yajnavalkya.Smriti.with.the.Commentary.Mitaksara.of.Vidnyaneshvara
+  type: other
+- name: 'Internet Archive (Vidyarnava Translation - English)'
+  url: https://archive.org/details/yajnavalkyasmrit00yj
+  type: other
 references:
-  - name: "Wikipedia: Yājñavalkya Smṛti"
-    url: "https://en.wikipedia.org/wiki/Y%C4%81j%C3%B1avalkya_Sm%E1%B9%9Bti"
-    type: "wikipedia"
-  - name: "Open Library: Yājñavalkya Smṛti with the"
-    url: "https://openlibrary.org/search?q=Yājñavalkya+Smṛti+with+the+Commentary+Mitākṣarā+Yājñavalkya"
-    type: "other"
+- name: 'Wikipedia: Yājñavalkya Smṛti'
+  url: https://en.wikipedia.org/wiki/Y%C4%81j%C3%B1avalkya_Sm%E1%B9%9Bti
+  type: wikipedia
+- name: 'Open Library: Yājñavalkya Smṛti with the'
+  url: https://openlibrary.org/search?q=Yājñavalkya+Smṛti+with+the+Commentary+Mitākṣarā+Yājñavalkya
+  type: other
 featured: true
 publishDate: 2025-10-30
-tags: ['classical-literature', 'religious']
 ---
 
 # Yājñavalkya Smṛti with the Commentary Mitākṣarā

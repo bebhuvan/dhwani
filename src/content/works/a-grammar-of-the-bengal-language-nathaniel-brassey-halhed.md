@@ -1,28 +1,38 @@
 ---
-title: "A Grammar of the Bengal Language"
-author: ["Nathaniel Brassey Halhed"]
+title: 'A Grammar of the Bengal Language'
+author:
+- Nathaniel Brassey Halhed
 year: 1778
-language: ["English"]
-genre: ["Reference Work"]
-description: "A Grammar of the Bengal Language by Nathaniel Brassey Halhed (1778) - A significant work from the Colonial India - Company Rule, representing an important contribution to Indian literary and cultural heritage. This work offers valuable insights into the British East India Company period, marked by gradual colonization and cultural documentation."
-collections: ['regional-voices']
+language:
+- English
+genre:
+- Reference Work
+description: |
+  Nathaniel Brassey Halhed's "A Grammar of the Bengal Language" represents a pivotal scholarly work in the early linguistic documentation of colonial India during the late 18th century. Published in 1778, the grammar emerged during a critical period of British East India Company's expanding linguistic and administrative engagement with Bengal, then a complex cultural and administrative region. Halhed, a British orientalist and philologist, compiled this groundbreaking work while serving as a Company official, drawing extensively on collaborative research with local scholars and pandits in Calcutta (now Kolkata). The text is notable for being among the first comprehensive systematic grammatical analyses of Bengali produced by a European scholar, offering detailed examination of linguistic structures, syntax, and morphological characteristics of the language. Beyond its linguistic significance, the grammar serves as a critical historical document illuminating the intellectual exchanges and cultural translation occurring during the early phases of British colonial interactions with Indian linguistic traditions. Halhed's methodology, which incorporated direct consultation with indigenous language experts, distinguished his work from earlier, more superficial European linguistic studies. The grammar not only provided a sophisticated framework for understanding Bengali but also reflected the emerging scholarly interest in Indian languages within Orientalist academic circles. Its publication marked an important moment in comparative linguistics, representing a nuanced approach to understanding Indian language systems that went beyond mere instrumental colonial administrative requirements. For contemporary scholars, the work offers rich insights into late 18th-century linguistic scholarship, colonial knowledge production, and the complex intellectual dialogues between European and Indian scholarly traditions.
+collections:
+- regional-voices
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.43675; https://archive.org/details/dli.ministry.28688; https://commons.wikimedia.org/wiki/File:A_Grammar_Of_The_Bengal_Language.djvu"
-    type: "other"
+- name: 'Internet Archive (DLI Collection 1)'
+  url: https://archive.org/details/in.ernet.dli.2015.43675
+  type: other
+- name: 'Internet Archive (DLI Collection 2)'
+  url: https://archive.org/details/dli.ministry.28688
+  type: other
+- name: 'Wikimedia Commons'
+  url: https://commons.wikimedia.org/wiki/File:A_Grammar_Of_The_Bengal_Language.djvu
+  type: other
 references:
-  - name: "Wikipedia: Nathaniel Brassey Halhed"
-    url: "https://en.wikipedia.org/wiki/Nathaniel_Brassey_Halhed"
-    type: "wikipedia"
-  - name: "Wikipedia: A Grammar of the Bengal Language"
-    url: "https://en.wikipedia.org/wiki/A_Grammar_of_the_Bengal_Language"
-    type: "wikipedia"
-  - name: "Open Library: A Grammar of the"
-    url: "https://openlibrary.org/search?q=A+Grammar+of+the+Bengal+Language+Nathaniel+Brassey+Halhed"
-    type: "other"
+- name: 'Wikipedia: Nathaniel Brassey Halhed'
+  url: https://en.wikipedia.org/wiki/Nathaniel_Brassey_Halhed
+  type: wikipedia
+- name: 'Wikipedia: A Grammar of the Bengal Language'
+  url: https://en.wikipedia.org/wiki/A_Grammar_of_the_Bengal_Language
+  type: wikipedia
+- name: 'Open Library: A Grammar of the'
+  url: https://openlibrary.org/search?q=A+Grammar+of+the+Bengal+Language+Nathaniel+Brassey+Halhed
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ["Bengali language", "Grammar", "Colonial India", "Linguistics", "18th century", "Nathaniel Brassey Halhed", "East India Company"]
 ---
 
 # A Grammar of the Bengal Language

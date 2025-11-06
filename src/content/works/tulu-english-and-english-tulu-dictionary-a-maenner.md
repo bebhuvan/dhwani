@@ -1,25 +1,32 @@
 ---
-title: "Tulu-English and English-Tulu Dictionary"
-author: ["A. Maenner"]
+title: 'Tulu-English and English-Tulu Dictionary'
+author:
+- A. Maenner
 year: 1886
-language: ["English", "Tulu"]
-genre: ["Dictionary", "Lexicography"]
-description: "Printed by the Basel Mission Press at Mangalore in 1886, A. Maenner’s two-part dictionary lists romanised Tulu headwords with English glosses and provides an English–Tulu index, recording regional vocabulary for schools, missions, and courts on the Kanara coast."
-collections: ["modern-literature", "regional-voices"]
+language:
+- English
+- Tulu
+genre:
+- Dictionary
+- Lexicography
+description: |
+  During the late 19th century, A. Maenner's Tulu-English and English-Tulu Dictionary emerged as a pivotal lexicographic document capturing the linguistic landscape of the Kanara coastal region during a transformative period of colonial scholarly documentation. Printed by the Basel Mission Press in Mangalore in 1886, the dictionary represents a critical scholarly intervention in preserving the Tulu language—a Dravidian language spoken primarily in coastal Karnataka and parts of Kerala—at a moment when regional languages faced significant cultural and linguistic pressures from colonial administrative standardization. The work systematically documents Tulu vocabulary through romanised headwords with English glosses, providing a comprehensive two-part linguistic resource that served practical administrative and educational purposes for missionaries, colonial officials, schools, and local courts. Situated within the broader Basel Mission's linguistic and anthropological documentation efforts, Maenner's dictionary reflects the complex scholarly and evangelical engagement with South Indian linguistic communities during an era of intense cultural documentation and transformation. The dictionary not only captures the nuanced linguistic structures and vocabulary of Tulu but also represents a crucial archival intervention in preserving indigenous linguistic heritage during a period of substantial cultural disruption and colonial knowledge production. By meticulously recording Tulu vocabulary, grammatical structures, and semantic variations, the work provides contemporary scholars with an invaluable historical linguistic resource that offers insights into the cultural, social, and communicative practices of Tulu-speaking communities in the late 19th-century Kanara region, thus contributing significantly to our understanding of South Indian linguistic diversity and cultural documentation practices.
+collections:
+- modern-literature
+- regional-voices
 sources:
-  - name: "Internet Archive (University of Toronto)"
-    url: "https://archive.org/details/tuluenglishengli01mnuoft"
-    type: "other"
+- name: 'Internet Archive (University of Toronto)'
+  url: https://archive.org/details/tuluenglishengli01mnuoft
+  type: other
+references:
+- name: 'Wikipedia: Tulu language'
+  url: https://en.wikipedia.org/wiki/Tulu_language
+  type: wikipedia
+- name: 'Open Library Search'
+  url: https://openlibrary.org/search?q=Tulu-English+and+English-Tulu+Dictionary
+  type: other
 featured: false
 publishDate: 2025-10-22
-references:
-  - name: "Wikipedia: Tulu language"
-    url: "https://en.wikipedia.org/wiki/Tulu_language"
-    type: "wikipedia"
-  - name: "Open Library Search"
-    url: "https://openlibrary.org/search?q=Tulu-English+and+English-Tulu+Dictionary"
-    type: "other"
-tags: ["Dravidian languages", "Lexicography", "Basel Mission Press", "Coastal Karnataka", "Language documentation", "Public domain"]
 ---
 
 # Tulu-English and English-Tulu Dictionary

@@ -1,25 +1,32 @@
 ---
-title: "A Guide to Nalanda"
-author: ["A. Ghosh"]
+title: 'A Guide to Nalanda'
+author:
+- A. Ghosh
 year: 1939
-language: ["English"]
-genre: ["Archaeology", "Guidebook", "Buddhist Studies"]
-description: "A. Ghosh's 1939 Archaeological Survey of India guide documents Nalanda Mahavihara excavations, detailing the monastic university's architectural remains, sculptural art, and historical significance. The guide contextualizes archaeological finds within historical accounts by Xuanzang and other pilgrims, explaining how this institution attracted scholars across Buddhist Asia for seven centuries (5th-12th century CE) before its decline."
-collections: ['ancient-wisdom', 'modern-literature']
+language:
+- English
+genre:
+- Archaeology
+- Guidebook
+- Buddhist Studies
+description: |
+  A. Ghosh's seminal Archaeological Survey of India guide represents a critical scholarly exploration of Nalanda Mahavihara's archaeological remnants, meticulously documenting one of medieval India's most significant intellectual and monastic complexes. Published during the late colonial period, the work comprehensively analyzes the extensive excavation sites of this renowned Buddhist university, which flourished between the 5th and 12th centuries CE as a paramount center of learning across Buddhist Asia. Ghosh's methodical documentation reconstructs the architectural and sculptural landscape of Nalanda, integrating archaeological evidence with historical accounts from Chinese pilgrims like Xuanzang, who provided foundational textual descriptions of the institution's scholarly environment. The guide systematically examines architectural remains, revealing complex monastic structures, intricate sculptural art, and material culture that illuminate the sophisticated intellectual and spiritual practices of medieval Buddhist monasticism. By contextualizing archaeological finds within broader historical narratives, Ghosh's work demonstrates how Nalanda functioned as an international academic hub, attracting scholars from regions including China, Korea, Central Asia, and Southeast Asia, who engaged in advanced studies of Buddhist philosophy, logic, linguistics, astronomy, and mathematics. The publication significantly contributes to understanding India's intellectual heritage, showcasing the subcontinent's historical role in producing transnational knowledge systems and advanced educational institutions. Ghosh's meticulous research provides scholars and researchers with a comprehensive archaeological and historical analysis that bridges material evidence with textual traditions, offering profound insights into the intellectual sophistication of medieval Indian Buddhist civilization and its global scholarly networks.
+collections:
+- ancient-wisdom
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.63290"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.63290
+  type: other
 references:
-  - name: "Wikipedia: Nalanda"
-    url: "https://en.wikipedia.org/wiki/Nalanda"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Guide+Nalanda+Ghosh&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Nalanda'
+  url: https://en.wikipedia.org/wiki/Nalanda
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Guide+Nalanda+Ghosh&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-22
-tags: ["Nalanda", "A. Ghosh", "Archaeological guide", "Buddhist monasteries", "Bihar", "Archaeological Survey of India", "Buddhist architecture", "Vihara", "Ancient education", "Site guide", "Buddhist antiquities", "Excavations", "Monastic universities"]
 ---
 
 # A Guide to Nalanda
@@ -39,4 +46,3 @@ Facilitates public understanding of archaeological evidence for ancient Buddhist
 ## How to Access
 
 Available through Internet Archive (Digital Library of India, University of Rajasthan), public domain, freely accessible.
-

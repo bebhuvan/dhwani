@@ -1,28 +1,36 @@
 ---
-title: "The Practical Sanskrit-English dictionary containing appendices on Sanskrit prosody and important literary and geogrpahical names of ancient India"
-author: ["Apte, Vaman Shivaram, 1858-1892"]
+title: 'The Practical Sanskrit-English dictionary containing appendices on Sanskrit prosody and important literary and geogrpahical names of ancient India'
+author:
+- Apte, Vaman Shivaram, 1858-1892
 year: 1965
-language: ["English"]
-genre: ["Sanskrit Lexicography", "Reference Literature", "Linguistic Studies"]
-description: "The Practical Sanskrit-English dictionary containing appendices on Sanskrit prosody and important literary and geogrpahical names of ancient India by Apte, Vaman Shivaram (1965) is a significant work on Linguistics. Digitized from original sources and available on Archive.org."
-collections: ["reference-texts", "linguistic-works", "indology"]
+language:
+- English
+genre:
+- Sanskrit Lexicography
+- Reference Literature
+- Linguistic Studies
+description: |
+  The Practical Sanskrit-English Dictionary by Vaman Shivaram Apte represents a landmark compilation in Sanskrit lexicography and linguistic scholarship of late 19th-century India. Produced during a critical period of linguistic and cultural documentation under British colonial scholarly engagement, this comprehensive reference work emerged from Apte's profound mastery of Sanskrit language and literature. Born in Pune in 1858, Apte was a distinguished Sanskrit scholar who dedicated his academic career to preserving and systematizing classical linguistic knowledge. The dictionary is distinguished by its meticulous documentation of Sanskrit terminology, including extensive appendices on Sanskrit prosody, literary nomenclature, and geographical references from ancient Indian texts. Its scholarly rigor provides researchers and scholars with nuanced insights into the semantic complexities of Sanskrit, bridging classical textual traditions with modern linguistic analysis. The work's significance extends beyond mere translation, offering critical contextual interpretations that illuminate the rich intellectual and cultural dimensions of Sanskrit textual heritage. By comprehensively mapping linguistic variations, etymological roots, and contextual usages, Apte's dictionary serves as an essential research tool for understanding ancient Indian intellectual traditions, philosophical discourse, literary expressions, and historical documentation. Its methodological approach represents a sophisticated scholarly intervention in preserving and interpreting Sanskrit's complex linguistic ecosystem, making it an indispensable resource for Indologists, linguists, historians, and scholars of classical Indian studies. The 1965 edition, digitized and made accessible through Archive.org, continues to be a foundational reference in Sanskrit linguistic scholarship.
+collections:
+- reference-texts
+- linguistic-works
+- indology
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/practicalsanskri00apteuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/practicalsanskri00apteuoft
+  type: other
 references:
-  - name: "Wikipedia: Author"
-    url: "https://en.wikipedia.org/wiki/Vaman_Shivram_Apte"
-    type: "wikipedia"
-  - name: "Wikidata: Author"
-    url: "https://www.wikidata.org/wiki/Q3554339"
-    type: "other"
-  - name: "Open Library: The Practical Sanskrit-English dictionary"
-    url: "https://openlibrary.org/search?q=The+Practical+Sanskrit-English+dictionary+containing+appendices+Apte"
-    type: "other"
+- name: 'Wikipedia: Author'
+  url: https://en.wikipedia.org/wiki/Vaman_Shivram_Apte
+  type: wikipedia
+- name: 'Wikidata: Author'
+  url: https://www.wikidata.org/wiki/Q3554339
+  type: other
+- name: 'Open Library: The Practical Sanskrit-English dictionary'
+  url: https://openlibrary.org/search?q=The+Practical+Sanskrit-English+dictionary+containing+appendices+Apte
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 ## Vaman Shivaram Apte: A Prodigy of Sanskrit Scholarship

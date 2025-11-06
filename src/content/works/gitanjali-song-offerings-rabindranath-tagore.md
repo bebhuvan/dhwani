@@ -1,34 +1,39 @@
 ---
-title: "Gitanjali (Song Offerings)"
-author: ["Rabindranath Tagore"]
+title: 'Gitanjali (Song Offerings)'
+author:
+- Rabindranath Tagore
 year: 1912
-language: ["English"]
-genre: ["Poetry"]
-description: "Nobel Prize-winning collection of devotional poetry by Rabindranath Tagore, translated from Bengali. These mystical verses blend Bhakti tradition with universal spirituality, exploring themes of divine love, nature, and the soul's relationship with the infinite."
-collections: ['modern-literature', 'poetry-collection']
+language:
+- English
+genre:
+- Poetry
+description: |
+  Gitanjali (Song Offerings) represents a seminal work emerging from the Bengal Renaissance, a transformative intellectual and cultural movement that reshaped Indian literary and philosophical discourse in the early 20th century. Rabindranath Tagore, a polymathic intellectual and pivotal figure in modern Indian literature, composed these poems during a critical period of national awakening and cultural reimagining under British colonial rule. The collection synthesizes classical Bhakti devotional poetry traditions with a modernist sensibility, presenting a nuanced spiritual exploration that transcends religious boundaries. Drawing from Sanskrit philosophical traditions, Vedantic mysticism, and a profound personal spiritual understanding, Tagore's poems in Gitanjali articulate a deeply introspective relationship between the human soul and the divine, characterized by intimate, lyrical expressions of spiritual surrender and cosmic interconnectedness. The work's significance extends beyond its poetic excellence, embodying a critical moment of cultural self-definition and intellectual resistance during colonial India's struggle for cultural and spiritual autonomy. Tagore's innovative approach—blending traditional Indian metaphysical concepts with contemporary poetic forms—challenged prevailing colonial narratives and offered a sophisticated articulation of Indian spiritual and philosophical thought. When translated into English and subsequently awarded the Nobel Prize in Literature in 1913, Gitanjali introduced global audiences to the depth and complexity of Indian philosophical and literary traditions, establishing Tagore as a critical bridge between Eastern and Western intellectual frameworks and positioning Indian literature as a sophisticated, universal mode of philosophical and artistic expression.
+collections:
+- modern-literature
+- poetry-collection
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/7164"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/gitanjalisongoff00tagouoft"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/7164
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/gitanjalisongoff00tagouoft
+  type: other
 references:
-  - name: "Wikisource"
-    url: "https://en.wikisource.org/wiki/Gitanjali"
-    type: "wikisource"
-  - name: "Wikipedia: Gitanjali"
-    url: "https://en.wikipedia.org/wiki/Gitanjali"
-    type: "wikipedia"
-  - name: "Wikipedia: Rabindranath Tagore"
-    url: "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
-    type: "wikipedia"
-  - name: "Open Library: Gitanjali (Song Offerings) year"
-    url: "https://openlibrary.org/search?q=Gitanjali+Song+Offerings+year+1912+language+Rabindranath+Tagore"
-    type: "other"
+- name: 'Wikisource'
+  url: https://en.wikisource.org/wiki/Gitanjali
+  type: wikisource
+- name: 'Wikipedia: Gitanjali'
+  url: https://en.wikipedia.org/wiki/Gitanjali
+  type: wikipedia
+- name: 'Wikipedia: Rabindranath Tagore'
+  url: https://en.wikipedia.org/wiki/Rabindranath_Tagore
+  type: wikipedia
+- name: 'Open Library: Gitanjali (Song Offerings) year'
+  url: https://openlibrary.org/search?q=Gitanjali+Song+Offerings+year+1912+language+Rabindranath+Tagore
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['poetry-collection']
 ---
 
 ## Publication History and Composition

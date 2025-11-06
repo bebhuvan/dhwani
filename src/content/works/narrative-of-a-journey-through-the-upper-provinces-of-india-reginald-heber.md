@@ -1,25 +1,29 @@
 ---
-title: "Narrative of a Journey through the Upper Provinces of India"
-author: ["Reginald Heber"]
+title: 'Narrative of a Journey through the Upper Provinces of India'
+author:
+- Reginald Heber
 year: 1828
-language: ["English"]
-genre: ["Literature"]
-description: "Narrative of a Journey through the Upper Provinces of India by Reginald Heber (1828–1829) - A significant work from the Colonial India - Company Rule, representing an important contribution to Indian literary and cultural heritage. Digitally preserved and freely available for research, education, and cultural appreciation."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Literature
+description: |
+  Reginald Heber's "Narrative of a Journey through the Upper Provinces of India" is a seminal ethnographic and travel account from the early 19th century, documenting British colonial encounters with the diverse cultural landscapes of North India during the East India Company's territorial expansion. Composed during Heber's tenure as Bishop of Calcutta from 1823 to 1826, the narrative provides a nuanced, contemporaneous perspective on the social, religious, and geographical complexities of the region. Heber, an Oxford-educated Anglican clergyman and accomplished poet, traversed extensive territories across present-day Uttar Pradesh, Bihar, and Bengal, meticulously recording observations on indigenous societies, architectural monuments, religious practices, and local customs. His account is distinguished by relatively sympathetic and detailed descriptions compared to many colonial-era narratives, offering insights into Hindu and Muslim cultural practices, administrative structures, and regional variations in social organization. The work critically examines colonial interactions, missionary perspectives, and the intricate relationships between British administrators and local populations. While maintaining a distinctly colonial lens, Heber's narrative represents an important historical document that bridges European scholarly understanding and Indian cultural representation during a transformative period of intercultural contact. His observations on temple architectures, religious rituals, social hierarchies, and regional economic conditions provide valuable anthropological and historical documentation. The text remains significant for scholars of colonial history, postcolonial studies, and Indian cultural heritage, offering a complex, multilayered perspective on early 19th-century Indian society through a European missionary intellectual's sophisticated yet inherently colonial worldview.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/narrativeofjourn02hebeuoft; https://archive.org/details/narrativeofjourn01hebeuoft; https://archive.org/details/narrativeofjourn03regi"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/narrativeofjourn02hebeuoft; https://archive.org/details/narrativeofjourn01hebeuoft; https://archive.org/details/narrativeofjourn03regi
+  type: other
 references:
-  - name: "Wikipedia: Reginald Heber"
-    url: "https://en.wikipedia.org/wiki/Reginald_Heber"
-    type: "wikipedia"
-  - name: "Open Library: Narrative of a Journey"
-    url: "https://openlibrary.org/search?q=Narrative+of+a+Journey+through+the+Reginald+Heber"
-    type: "other"
+- name: 'Wikipedia: Reginald Heber'
+  url: https://en.wikipedia.org/wiki/Reginald_Heber
+  type: wikipedia
+- name: 'Open Library: Narrative of a Journey'
+  url: https://openlibrary.org/search?q=Narrative+of+a+Journey+through+the+Reginald+Heber
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 # Narrative of a Journey through the Upper Provinces of India

@@ -1,25 +1,32 @@
 ---
-title: "An Interpretation of Ancient Hindu Medicine"
-author: ["Chandra Chakraberty"]
+title: 'An Interpretation of Ancient Hindu Medicine'
+author:
+- Chandra Chakraberty
 year: 1923
-language: ["English"]
-genre: ["Medical Literature", "Historical Literature", "Philosophy"]
-description: "Chandra Chakraberty's comprehensive examination of traditional Hindu medical practices and Ayurvedic principles. This scholarly work makes ancient Indian medical knowledge accessible to modern readers, covering anatomy, physiology, pathology, and diagnostic methods that formed the foundation of traditional healthcare systems."
-collections: ['modern-literature', 'spiritual-texts']
+language:
+- English
+genre:
+- Medical Literature
+- Historical Literature
+- Philosophy
+description: |
+  Published in 1923 during a pivotal period of colonial scholarly engagement with indigenous knowledge systems, Chandra Chakraberty's "An Interpretation of Ancient Hindu Medicine" represents a critical scholarly intervention in documenting and legitimizing traditional Indian medical epistemologies. Emerging during the early decades of the 20th century, when Western medical paradigms increasingly marginalized indigenous healing traditions, this work provided a systematic scholarly examination of Ayurvedic principles, anatomical understanding, and holistic diagnostic methodologies rooted in centuries of empirical observation. Chakraberty's comprehensive analysis illuminates the sophisticated theoretical frameworks and practical medical knowledge developed within classical Indian medical traditions, presenting a nuanced exploration of physiological concepts, pathological understanding, and therapeutic approaches that predated European medical sciences by multiple centuries. The text meticulously unpacks complex Sanskrit medical texts, translating intricate philosophical and practical medical knowledge for an international scholarly audience while simultaneously challenging prevailing colonial narratives that dismissed indigenous intellectual traditions as primitive or unsystematic. By rigorously documenting the epistemological foundations of Hindu medical practices—encompassing detailed anatomical knowledge, herbal pharmacology, diagnostic techniques, and philosophical understandings of human health—Chakraberty's work serves as a critical scholarly bridge between traditional Indian medical wisdom and emerging modern scientific discourse. This scholarly intervention not only preserves crucial aspects of India's intellectual heritage but also demonstrates the profound sophistication of pre-colonial scientific thinking, positioning traditional medical knowledge as a complex, systematic approach to understanding human health and bodily processes within a broader cultural and philosophical context.
+collections:
+- modern-literature
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/interpretationof00chakuoft"
-    type: "other"
-  - name: "Digital Library of India"
-    url: "https://archive.org/details/in.ernet.dli.2015.96766"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/interpretationof00chakuoft
+  type: other
+- name: 'Digital Library of India'
+  url: https://archive.org/details/in.ernet.dli.2015.96766
+  type: other
 references:
-  - name: "Open Library: Interpretation Ancient Hindu Medicine"
-    url: "https://openlibrary.org/search?q=Interpretation+Ancient+Hindu+Medicine+Chandra+Chakraberty"
-    type: "other"
+- name: 'Open Library: Interpretation Ancient Hindu Medicine'
+  url: https://openlibrary.org/search?q=Interpretation+Ancient+Hindu+Medicine+Chandra+Chakraberty
+  type: other
 featured: false
 publishDate: 2025-09-28
-tags: ["Ayurvedic Medicine", "Traditional Medicine", "Hindu Medicine", "Medical History", "Chandra Chakraberty", "Ancient Healthcare", "Medical Practices", "Indian Medicine", "Traditional Healing", "Medical Literature", "Health Sciences"]
 ---
 
 # An Interpretation of Ancient Hindu Medicine

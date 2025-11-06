@@ -1,28 +1,34 @@
 ---
-title: "History of Bengali Language and Literature"
-author: ["Dinesh Chandra Sen"]
+title: 'History of Bengali Language and Literature'
+author:
+- Dinesh Chandra Sen
 year: 1911
-language: ["English"]
-genre: ["Literary History", "Linguistics"]
-description: "This comprehensive scholarly work traces Bengali language and literature from its earliest linguistic influences through 1850, based on lectures delivered at Calcutta University in 1909. Sen systematically examines pre-Mahomedan literature, medieval poets including Chandidas and Vidyapati, the Pauranic Renaissance, Vaishnava devotional movements following Chaitanya, and the impact of European contact on modern Bengali prose."
-collections: ['regional-voices', 'modern-literature']
+language:
+- English
+genre:
+- Literary History
+- Linguistics
+description: |
+  Dinesh Chandra Sen's seminal "History of Bengali Language and Literature" represents a groundbreaking scholarly examination of Bengali linguistic and literary evolution during a critical period of cultural transformation. Emerging in the early 20th century, this comprehensive work meticulously traces the developmental trajectory of Bengali language and literature from its earliest linguistic roots through the mid-19th century, drawing upon extensive scholarly research and Sen's profound understanding of regional cultural dynamics. The text critically explores pre-Mahomedan literary traditions, examining indigenous linguistic formations and textual practices that preceded Islamic cultural interactions in Bengal. Sen provides nuanced analyses of medieval poetic traditions, highlighting significant figures like Chandidas and Vidyapati, whose works embodied complex theological and social narratives characteristic of medieval Bengali literary expression. The study extensively documents the Pauranic Renaissance, illuminating how mythological and devotional literary traditions evolved and intersected with broader cultural movements. Of particular scholarly significance is Sen's exploration of Vaishnava devotional literature following Chaitanya's spiritual reforms, which represented a profound transformation in religious and literary sensibilities. The work also carefully examines the transformative impact of European intellectual and colonial encounters on modern Bengali prose, demonstrating how external cultural influences reshaped linguistic practices and literary aesthetics. As a pioneering scholarly text, Sen's work remains fundamental to understanding Bengali cultural heritage, linguistic development, and the intricate processes of literary evolution during a pivotal historical period, offering contemporary scholars critical insights into the rich intellectual traditions of eastern India.
+collections:
+- regional-voices
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/historyofbengali00sendrich"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/historyofbengali00sendrich
+  type: other
 references:
-  - name: "Wikipedia: Dinesh Chandra Sen"
-    url: "https://en.wikipedia.org/wiki/Dinesh_Chandra_Sen"
-    type: "wikipedia"
-  - name: "Wikisource: History of Bengali Language and Literature"
-    url: "https://en.wikisource.org/wiki/History_of_Bengali_Language_and_Literature"
-    type: "wikisource"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=History+Bengali+language+literature+Dinesh+Chandra+Sen&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Dinesh Chandra Sen'
+  url: https://en.wikipedia.org/wiki/Dinesh_Chandra_Sen
+  type: wikipedia
+- name: 'Wikisource: History of Bengali Language and Literature'
+  url: https://en.wikisource.org/wiki/History_of_Bengali_Language_and_Literature
+  type: wikisource
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=History+Bengali+language+literature+Dinesh+Chandra+Sen&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-23
-tags: ["Bengali literature", "Dinesh Chandra Sen", "literary history", "Bengali language", "Calcutta University", "Vaishnava literature", "Chaitanya", "Chandidas", "Vidyapati", "medieval Bengali", "folklore", "regional literature", "Bengal Renaissance"]
 ---
 
 # History of Bengali Language and Literature

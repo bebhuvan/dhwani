@@ -1,31 +1,36 @@
 ---
-title: "The Fall of the Moghul Empire of Hindustan"
-author: ["H. G. Keene"]
+title: 'The Fall of the Moghul Empire of Hindustan'
+author:
+- H. G. Keene
 year: 1887
-language: ["English"]
-genre: ["Literature"]
-description: "The Fall of the Moghul Empire of Hindustan by H. Keene (1887) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage. This work offers valuable insights into the British Raj period, featuring independence movements, cultural renaissance, and literary awakening."
-collections: ['modern-literature', 'spiritual-texts']
+language:
+- English
+genre:
+- Literature
+description: |
+  H. G. Keene's "The Fall of the Moghul Empire of Hindustan" represents a critical historical narrative examining the decline of the Mughal imperial structure during the late 18th and early 19th centuries, written from a British colonial perspective. Published in 1887 during the zenith of the British Raj, the work provides a comprehensive scholarly analysis of the political, social, and administrative disintegration of the once-powerful Mughal dynasty. Keene, a distinguished colonial administrator and historian, draws upon archival records, official correspondence, and contemporary accounts to reconstruct the complex geopolitical transitions that marked the empire's terminal phase. The text critically examines the internal fragmentation, emerging regional powers, and the strategic interventions of the British East India Company that collectively precipitated the Mughal Empire's systematic dissolution. By meticulously documenting administrative failures, succession conflicts, and external pressures, Keene offers scholars a nuanced understanding of imperial decline mechanisms in the Indian subcontinent. The work is particularly significant for its detailed exploration of pivotal historical moments, including the gradual marginalization of Mughal political authority, the rise of regional principalities, and the incremental British colonial consolidation. For contemporary Indian historical studies, Keene's scholarship provides an essential colonial-era perspective on imperial transformation, serving as a crucial primary source for understanding the intricate processes of political restructuring during a profoundly consequential historical transition. While reflective of its colonial historiographical context, the text remains a valuable scholarly resource for comprehending the complex dynamics of power, governance, and imperial metamorphosis in pre-colonial and colonial India.
+collections:
+- modern-literature
+- spiritual-texts
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/1470"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/dli.csl.4917"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/1470
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/dli.csl.4917
+  type: other
 references:
-  - name: "Wikipedia: H. G. Keene"
-    url: "https://en.wikipedia.org/wiki/H._G._Keene"
-    type: "wikipedia"
-  - name: "Wikipedia: Decline of the Mughal Empire"
-    url: "https://en.wikipedia.org/wiki/Decline_of_the_Mughal_Empire"
-    type: "wikipedia"
-  - name: "Open Library: The Fall of the"
-    url: "https://openlibrary.org/search?q=The+Fall+of+the+Moghul+Empire+H+G+Keene"
-    type: "other"
+- name: 'Wikipedia: H. G. Keene'
+  url: https://en.wikipedia.org/wiki/H._G._Keene
+  type: wikipedia
+- name: 'Wikipedia: Decline of the Mughal Empire'
+  url: https://en.wikipedia.org/wiki/Decline_of_the_Mughal_Empire
+  type: wikipedia
+- name: 'Open Library: The Fall of the'
+  url: https://openlibrary.org/search?q=The+Fall+of+the+Moghul+Empire+H+G+Keene
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 # The Fall of the Moghul Empire of Hindustan

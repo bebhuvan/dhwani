@@ -1,28 +1,37 @@
 ---
-title: "Riyaz-us-Salatin: A History of Bengal"
-author: ["Ghulam Husain Salim", "tr. Maulavi Abdus Salam"]
+title: 'Riyaz-us-Salatin: A History of Bengal'
+author:
+- Ghulam Husain Salim
+- tr. Maulavi Abdus Salam
 year: 1902
-language: ["English", "Persian"]
-genre: ["Historical Literature", "Political Literature", "Regional Literature"]
-description: "Ghulam Husain Salim's Persian chronicle (1787-88) of Bengal's Muslim rulers from 13th-18th centuries. This important source for Bengal Sultanate and early Mughal period history remains foundational."
-collections: ['regional-voices', 'modern-literature']
+language:
+- English
+- Persian
+genre:
+- Historical Literature
+- Political Literature
+- Regional Literature
+description: |
+  Ghulam Husain Salim's Riyaz-us-Salatin represents a seminal Persian historical chronicle documenting the complex political and cultural landscape of medieval Bengal from the 13th to 18th centuries. Composed during the twilight of the Bengal Sultanate and early Mughal consolidation (1787-88), this comprehensive work provides critical insights into the region's Islamic political formations, administrative structures, and socio-cultural transformations. The text meticulously chronicles the succession of Muslim rulers, offering detailed accounts of dynastic transitions, military campaigns, administrative policies, and cultural developments that shaped Bengal's historical trajectory. Salim's narrative is particularly significant for its nuanced perspective, blending official historical record with contextual analysis that illuminates the intricate interactions between indigenous Bengali traditions and Islamic political institutions. The chronicle serves as a crucial primary source for understanding the emergence of Islamic political authority in eastern India, documenting the evolution of sultanate governance, architectural patronage, and cultural synthesis. By systematically presenting biographical details of rulers, administrative innovations, and regional power dynamics, Riyaz-us-Salatin transcends mere chronological documentation to provide profound anthropological and historical insights into medieval Bengali society. Its scholarly rigor and comprehensive approach make it an indispensable text for researchers investigating the region's complex political and cultural genealogies, offering unprecedented detailed documentation of a transformative period in South Asian history. The work's enduring scholarly value lies in its meticulous preservation of historical memory, presenting a nuanced narrative that bridges imperial perspectives with regional historical consciousness.
+collections:
+- regional-voices
+- modern-literature
 sources:
-  - name: "Internet Archive (University of Toronto)"
-    url: "https://archive.org/details/riyazussalatinhi00saliuoft"
-    type: "other"
+- name: 'Internet Archive (University of Toronto)'
+  url: https://archive.org/details/riyazussalatinhi00saliuoft
+  type: other
 references:
-  - name: "Wikipedia: Ghulam Husain Salim"
-    url: "https://en.wikipedia.org/wiki/Ghulam_Husain_Salim"
-    type: "wikipedia"
-  - name: "Wikipedia: Riyaz-us-Salatin"
-    url: "https://en.wikipedia.org/wiki/Riyaz-us-Salatin"
-    type: "wikipedia"
-  - name: "Open Library: Riyaz-us-Salatin"
-    url: "https://openlibrary.org/search?q=Riyaz-us-Salatin+A+History+of+Bengal+year+Ghulam+Husain+Salim"
-    type: "other"
+- name: 'Wikipedia: Ghulam Husain Salim'
+  url: https://en.wikipedia.org/wiki/Ghulam_Husain_Salim
+  type: wikipedia
+- name: 'Wikipedia: Riyaz-us-Salatin'
+  url: https://en.wikipedia.org/wiki/Riyaz-us-Salatin
+  type: wikipedia
+- name: 'Open Library: Riyaz-us-Salatin'
+  url: https://openlibrary.org/search?q=Riyaz-us-Salatin+A+History+of+Bengal+year+Ghulam+Husain+Salim
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 # Riyaz-us-Salatin: A History of Bengal

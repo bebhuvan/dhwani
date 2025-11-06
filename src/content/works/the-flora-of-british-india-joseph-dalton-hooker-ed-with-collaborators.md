@@ -1,25 +1,30 @@
 ---
-title: "The Flora of British India"
-author: ["Joseph Dalton Hooker (ed.)", "with collaborators"]
+title: 'The Flora of British India'
+author:
+- Joseph Dalton Hooker (ed.)
+- with collaborators
 year: 1872
-language: ["English"]
-genre: ["Literature"]
-description: "The Flora of British India by Joseph Dalton Hooker (ed.), with collaborators (1872–1897) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage. Digitally preserved and freely available for research, education, and cultural appreciation."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Literature
+description: |
+  The Flora of British India by Joseph Dalton Hooker represents a comprehensive botanical compendium that emerged during the late 19th-century colonial period, serving as a critical scientific documentation of the Indian subcontinent's diverse plant ecosystems. Published over twenty-five years (1872-1897), this monumental work systematically catalogued and described approximately 19,000 plant species across British India's vast territorial range, from the Himalayan regions to the tropical landscapes of southern India. Hooker, a prominent British botanist and director of the Royal Botanic Gardens at Kew, collaborated with multiple researchers and local botanical experts to compile an unprecedented taxonomic survey that combined rigorous scientific methodology with meticulous observation. The work's significance extends beyond botanical documentation, providing critical insights into colonial-era scientific practices, indigenous ecological knowledge, and the intellectual exchange between British scientific institutions and local Indian scholars. Each detailed botanical description not only classified plant species but also documented their geographical distribution, medicinal properties, and cultural significance within diverse Indian communities. The text became an essential reference for subsequent botanical research, agricultural development, and ethnobotanical studies, bridging scientific documentation with broader cultural understanding. By systematically recording India's botanical diversity, Hooker's work preserved crucial ecological knowledge during a period of significant environmental and cultural transformation, offering contemporary researchers a valuable historical record of the subcontinent's rich botanical heritage and the complex interactions between colonial scientific practices and indigenous natural ecosystems.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/floraofbritishin029347mbp; https://archive.org/details/floraofbritishin01hookrich; https://archive.org/details/mobot21753000004365"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/floraofbritishin029347mbp; https://archive.org/details/floraofbritishin01hookrich; https://archive.org/details/mobot21753000004365
+  type: other
 references:
-  - name: "Wikipedia: Joseph Dalton Hooker"
-    url: "https://en.wikipedia.org/wiki/Joseph_Dalton_Hooker"
-    type: "wikipedia"
-  - name: "Open Library: The Flora of British"
-    url: "https://openlibrary.org/search?q=The+Flora+of+British+India+year+Joseph+Dalton+Hooker+ed"
-    type: "other"
+- name: 'Wikipedia: Joseph Dalton Hooker'
+  url: https://en.wikipedia.org/wiki/Joseph_Dalton_Hooker
+  type: wikipedia
+- name: 'Open Library: The Flora of British'
+  url: https://openlibrary.org/search?q=The+Flora+of+British+India+year+Joseph+Dalton+Hooker+ed
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 # The Flora of British India

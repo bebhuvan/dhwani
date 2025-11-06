@@ -13,9 +13,6 @@ sources:
   - name: "Internet Archive (Various editions)"
     url: "https://archive.org/details/in.ernet.dli.2015.406807"
     type: "other"
-  - name: "Sanskrit Documents (Devanagari text)"
-    url: "https://sanskritdocuments.org/doc_drama/priyadarshikaa.html"
-    type: "other"
 references:
   - name: "Wikipedia: Priyadarsika"
     url: "https://en.wikipedia.org/wiki/Priyadarsika"

@@ -1,28 +1,38 @@
 ---
-title: "The Bakhshali Manuscript: Ancient Indian Mathematics"
-author: ["Unknown", "Rudolf Hoernlé"]
+title: 'The Bakhshali Manuscript: Ancient Indian Mathematics'
+author:
+- Unknown
+- Rudolf Hoernlé
 year: 900
-language: ["Sanskrit", "English"]
-genre: ["Mathematics", "Ancient Literature", "Philosophy"]
-description: "The Bakhshali Manuscript, an ancient Indian mathematical treatise from the 9th-12th centuries, represents one of the earliest known uses of the zero symbol and sophisticated mathematical concepts. This groundbreaking work was deciphered and published by Rudolf Hoernlé in 1887, revealing the advan..."
-collections: ['ancient-wisdom', 'spiritual-texts', 'classical-literature']
+language:
+- Sanskrit
+- English
+genre:
+- Mathematics
+- Ancient Literature
+- Philosophy
+description: |
+  The Bakhshali Manuscript represents a pivotal archaeological and mathematical document from the early medieval period of Indian intellectual history, discovered in the agrarian region of Bakhshali near Peshawar during the culturally dynamic Gurjara-Pratihara era (9th-12th centuries). This Sanskrit mathematical treatise provides critical insights into the sophisticated numerical and algebraic innovations of Indian scholars during a period of remarkable scientific advancement. The manuscript demonstrates complex mathematical reasoning, including early representations of mathematical zero, algebraic problem-solving techniques, and advanced computational methods that significantly predated similar developments in European mathematical traditions. Scholars have identified the text as a comprehensive pedagogical compilation, likely used for mathematical instruction among learned brahmins and scholarly communities, reflecting the robust intellectual infrastructures of medieval Indian educational systems. The manuscript's mathematical content encompasses practical arithmetic, algebraic equations, geometric calculations, and mercantile computational techniques, revealing the pragmatic intellectual culture of the period. Its discovery and subsequent scholarly analysis by Rudolf Hoernlé in 1887 illuminated the depth of mathematical sophistication in pre-colonial Indian intellectual traditions, challenging Eurocentric narratives about the historical development of mathematical sciences. Recent radiocarbon dating and scholarly interpretations have further emphasized the manuscript's significance in understanding the epistemological foundations of Indian mathematical thinking, demonstrating how indigenous knowledge systems developed complex abstract reasoning and computational frameworks that were remarkably advanced for their historical context.
+collections:
+- ancient-wisdom
+- spiritual-texts
+- classical-literature
 sources:
-  - name: "Internet Archive (Hoernlé Study)"
-    url: "https://archive.org/details/onbakshalimanusc00hoeruoft"
-    type: "other"
+- name: 'Internet Archive (Hoernlé Study)'
+  url: https://archive.org/details/onbakshalimanusc00hoeruoft
+  type: other
 references:
-  - name: "Wikipedia: Bakhshali Manuscript"
-    url: "https://en.wikipedia.org/wiki/Bakhshali_manuscript"
-    type: "wikipedia"
-  - name: "Wikipedia: Rudolf Hoernlé"
-    url: "https://en.wikipedia.org/wiki/Rudolf_Hoernl%C3%A9"
-    type: "wikipedia"
-  - name: "Open Library: The Bakhshali Manuscript"
-    url: "https://openlibrary.org/search?q=The+Bakhshali+Manuscript+Ancient+Indian+Mathematics+Unknown"
-    type: "other"
+- name: 'Wikipedia: Bakhshali Manuscript'
+  url: https://en.wikipedia.org/wiki/Bakhshali_manuscript
+  type: wikipedia
+- name: 'Wikipedia: Rudolf Hoernlé'
+  url: https://en.wikipedia.org/wiki/Rudolf_Hoernl%C3%A9
+  type: wikipedia
+- name: 'Open Library: The Bakhshali Manuscript'
+  url: https://openlibrary.org/search?q=The+Bakhshali+Manuscript+Ancient+Indian+Mathematics+Unknown
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical-literature', 'philosophy']
 ---
 
 # The Bakhshali Manuscript: Ancient Indian Mathematics

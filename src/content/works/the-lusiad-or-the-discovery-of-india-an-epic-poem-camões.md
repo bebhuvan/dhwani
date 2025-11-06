@@ -1,22 +1,31 @@
 ---
-title: "The Lusiad : or, The discovery of India : an epic poem"
-author: ["Camões", "Luís de", "1524?-1580 Mickle"]
+title: 'The Lusiad : or, The discovery of India : an epic poem'
+author:
+- Camões
+- Luís de
+- 1524?-1580 Mickle
 year: 1791
-language: ["English"]
-genre: ["Epic Poetry", "Portuguese Literature", "Exploration Literature"]
-description: "Translation of: Os Lusiadas 'The life of Luis de Camoens': v. 1, p. [ccxvi]-cccxv 32"
-collections: ["poetry-collection", "historical-literature"]
+language:
+- English
+genre:
+- Epic Poetry
+- Portuguese Literature
+- Exploration Literature
+description: |
+  Translation of Luis de Camões' epic poem "Os Lusíadas" ("The Lusiads"), composed during the pivotal late 16th-century period of Portuguese maritime exploration, represents a foundational text in understanding the complex intercultural dynamics of European colonial expansion and maritime discovery. Written by Camões, who spent extensive time in Portuguese India between 1553-1570, the work provides a sophisticated narrative that interweaves historical documentation, mythological allegory, and national heroic mythology centered on Vasco da Gama's pioneering 1498 maritime expedition to India. The epic critically examines Portugal's imperial ambitions through a multifaceted literary lens, simultaneously celebrating naval technological achievements and exploring the cultural encounters and transformative interactions between European explorers and Indian civilizations. Camões draws upon detailed observations from his personal experiences in the Indian subcontinent, incorporating nuanced representations of local geographical, social, and political landscapes that extend beyond simplistic colonial narratives. The work's profound significance for Indian studies lies in its comprehensive documentation of early maritime trade routes, intercontinental cultural exchanges, and the initial Portuguese interactions with Indian maritime kingdoms, coastal societies, and trading networks. By blending classical epic conventions with contemporary historical accounts, Camões creates a complex literary artifact that serves not merely as a national heroic narrative but as a critical textual space for examining the intricate power dynamics, cultural negotiations, and transformative encounters characteristic of the emerging global maritime era. The Lusiads remains a crucial scholarly resource for understanding the intellectual, cultural, and geopolitical complexities of late 15th and early 16th-century Indian-European interactions.
+collections:
+- poetry-collection
+- historical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/lusiadordiscover01camuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/lusiadordiscover01camuoft
+  type: other
 references:
-  - name: "Open Library: The Lusiad "
-    url: "https://openlibrary.org/search?q=The+Lusiad++or+The+discovery+Camões"
-    type: "other"
+- name: 'Open Library: The Lusiad '
+  url: https://openlibrary.org/search?q=The+Lusiad++or+The+discovery+Camões
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['poetry-collection', 'epic']
 ---
 
 # The Lusiad: or, The Discovery of India

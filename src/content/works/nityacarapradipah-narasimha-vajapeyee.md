@@ -1,28 +1,35 @@
 ---
-title: "Nityācarapradīpaḥ (Lamp on Daily Conduct) Vol. 1"
-author: ["Narasimha Vajapeyee"]
+title: 'Nityācarapradīpaḥ (Lamp on Daily Conduct) Vol. 1'
+author:
+- Narasimha Vajapeyee
 year: 1907
-language: ["Sanskrit"]
-genre: ["Ritual Manual", "Dharmashastra", "Religious Practice"]
-description: "Practical manual detailing daily religious obligations and rituals prescribed for orthodox Hindus according to Vedic tradition. Covers morning ablutions, sandhya vandana (twilight worship), agnihotra (fire sacrifice), and other daily observances with precise procedural details drawn from Grihya Sutras and Dharma Shastras. Serves as both scholarly reference and practical guide, documenting lived religious practice of early 20th-century traditional Brahmanical households."
-collections: ['ancient-wisdom', 'ritual-texts']
+language:
+- Sanskrit
+genre:
+- Ritual Manual
+- Dharmashastra
+- Religious Practice
+description: |
+  The Nityācarapradīpaḥ, authored by Narasimha Vajapeyee in 1907, represents a critical scholarly intervention in documenting and preserving orthodox Hindu ritualistic practices during a transformative period of late colonial India. Compiled at the intersection of traditional scholarship and emerging cultural preservation efforts, this Sanskrit manual comprehensively details daily religious obligations and ritual performances as prescribed by Vedic Brahmanical traditions. Emerging from Maharashtra's rich intellectual landscape during the early 20th-century Hindu revivalist movement, the work meticulously codifies complex religious observances including morning ablutions (snana), sandhya vandana (twilight worship), agnihotra (sacred fire rituals), and numerous domestic ceremonial practices drawn from authoritative scriptural sources like Grihya Sutras and Dharma Shastras. Beyond its immediate procedural instructions, the text serves as a profound anthropological document capturing the intricate religious life of traditional Brahmanical households during a period of significant social upheaval and colonial cultural disruption. Vajapeyee's compilation represents more than a ritualistic manual; it embodies a scholarly strategy of cultural preservation, systematically recording religious knowledge that was increasingly marginalized by westernization and rapid societal transformations. By providing granular details of daily religious conduct, the Nityācarapradīpaḥ offers contemporary scholars invaluable insights into the lived religious experiences, normative social practices, and spiritual disciplinary frameworks of early 20th-century Indian orthodox communities, thereby contributing significantly to understanding the continuity and adaptation of Hindu religious traditions during a complex historical moment.
+collections:
+- ancient-wisdom
+- ritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.gov.ignca.14287"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.gov.ignca.14287
+  type: other
 references:
-  - name: "Wikipedia: Nitya karma"
-    url: "https://en.wikipedia.org/wiki/Nitya_karma"
-    type: "wikipedia"
-  - name: "Wikipedia: Sandhyavandanam"
-    url: "https://en.wikipedia.org/wiki/Sandhyavandanam"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Nityacarapradipah&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Nitya karma'
+  url: https://en.wikipedia.org/wiki/Nitya_karma
+  type: wikipedia
+- name: 'Wikipedia: Sandhyavandanam'
+  url: https://en.wikipedia.org/wiki/Sandhyavandanam
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Nityacarapradipah&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Nityacarapradipah", "Daily rituals", "Nitya karma", "Sandhyavandanam", "Agnihotra", "Vedic rituals", "Grihya Sutras", "Brahmanical practice", "Religious obligations", "20th century", "Ritual manual", "Orthodox Hinduism"]
 ---
 
 # Nityācarapradīpaḥ (Lamp on Daily Conduct) Vol. 1

@@ -1,40 +1,48 @@
 ---
-title: "The Thirteen Principal Upanishads"
-author: ["Robert Ernest Hume ()"]
+title: 'The Thirteen Principal Upanishads'
+author:
+- Robert Ernest Hume ()
 year: 1921
-language: ["Sanskrit", "English"]
-genre: ["Philosophy", "Religious Texts", "Classical Literature"]
-description: "Presents translations of thirteen key Upanishads from Sanskrit, accompanied by philosophical analysis outlining the philosophy of the Upanishads. Includes an annotated bibliography spanning pages 459-508, making it both a translation and scholarly reference work."
-collections: ['ancient-wisdom', 'spiritual-texts']
+language:
+- Sanskrit
+- English
+genre:
+- Philosophy
+- Religious Texts
+- Classical Literature
+description: |
+  Robert Ernest Hume's "The Thirteen Principal Upanishads" represents a seminal scholarly translation and interpretative work produced during the early 20th-century renaissance of Indological scholarship. Completed in 1921, this comprehensive volume provides authoritative English translations of thirteen foundational Upanishadic texts dating from approximately 800-200 BCE, representing a critical period of philosophical and spiritual development in classical Indian thought. Hume, a distinguished professor of comparative religion, approached these ancient Sanskrit texts with meticulous linguistic precision and profound philosophical understanding, offering nuanced translations that illuminate the metaphysical and epistemological foundations of Vedantic philosophy. The work systematically explores core philosophical concepts including Brahman (ultimate reality), Atman (individual soul), and the intricate relationship between consciousness, cosmic order, and individual experience. By presenting detailed philosophical analyses alongside direct translations, Hume bridges Western academic scholarship with the profound contemplative traditions of Indian philosophical discourse. The annotated bibliography spanning pages 459-508 provides extensive scholarly apparatus, positioning the text as both a rigorous academic reference and an accessible exploration of classical Indian philosophical thought. These Upanishads, emerging from the Vedic intellectual tradition, represent pivotal philosophical negotiations between ritualistic Vedic religion and more abstract, contemplative spiritual understanding, making Hume's work crucial for comprehending the intellectual genealogy of Indian philosophical and spiritual traditions. His translation remains foundational for scholars, philosophers, and students seeking deep engagement with the conceptual landscape of classical Indian philosophical and spiritual thought.
+collections:
+- ancient-wisdom
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/thirteenprincip00humegoog"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/thirteenprincip00humegoog
+  type: other
 references:
-  - name: "Wikipedia: Upanishads"
-    url: "https://en.wikipedia.org/wiki/Upanishads"
-    type: "wikipedia"
-  - name: "Wikipedia: Principal Upanishads"
-    url: "https://en.wikipedia.org/wiki/Principal_Upanishads"
-    type: "wikipedia"
-  - name: "Wikipedia: Robert Ernest Hume"
-    url: "https://en.wikipedia.org/wiki/Robert_Ernest_Hume"
-    type: "wikipedia"
-  - name: "Wikisource: Upanishads Portal"
-    url: "https://en.wikisource.org/wiki/Portal:Hinduism"
-    type: "wikisource"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=Thirteen+Principal+Upanishads+Robert+Ernest+Hume"
-    type: "other"
-  - name: "Wikidata: Principal Upanishads"
-    url: "https://www.wikidata.org/wiki/Q7758349"
-    type: "other"
-  - name: "Wikidata: Robert Ernest Hume"
-    url: "https://www.wikidata.org/wiki/Q52150628"
-    type: "other"
+- name: 'Wikipedia: Upanishads'
+  url: https://en.wikipedia.org/wiki/Upanishads
+  type: wikipedia
+- name: 'Wikipedia: Principal Upanishads'
+  url: https://en.wikipedia.org/wiki/Principal_Upanishads
+  type: wikipedia
+- name: 'Wikipedia: Robert Ernest Hume'
+  url: https://en.wikipedia.org/wiki/Robert_Ernest_Hume
+  type: wikipedia
+- name: 'Wikisource: Upanishads Portal'
+  url: https://en.wikisource.org/wiki/Portal:Hinduism
+  type: wikisource
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=Thirteen+Principal+Upanishads+Robert+Ernest+Hume
+  type: other
+- name: 'Wikidata: Principal Upanishads'
+  url: https://www.wikidata.org/wiki/Q7758349
+  type: other
+- name: 'Wikidata: Robert Ernest Hume'
+  url: https://www.wikidata.org/wiki/Q52150628
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Upanishads", "Hindu Philosophy", "Sanskrit Literature", "Robert Ernest Hume", "Vedanta", "Indian Philosophy", "Religious Texts", "Oxford University Press", "1920s Scholarship", "Sacred Texts"]
 ---
 
 # The Thirteen Principal Upanishads

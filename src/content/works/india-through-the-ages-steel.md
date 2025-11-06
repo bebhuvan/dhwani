@@ -1,28 +1,35 @@
 ---
-title: "India Through the Ages: A Popular and Picturesque History of Hindustan"
-author: ["Flora Annie Steel"]
+title: 'India Through the Ages: A Popular and Picturesque History of Hindustan'
+author:
+- Flora Annie Steel
 year: 1908
-language: ["English"]
-genre: ["History", "Popular History", "Cultural Study"]
-description: "Published in 1908 with the subtitle 'A Popular and Picturesque History of Hindustan,' Flora Annie Steel's 403-page historical survey synthesized existing scholarship into chronological narrative spanning nearly three millennia from hypothetical Aryan migrations through the Mughal Empire's 18th-century decline."
-collections: ["classical-literature", "regional-voices"]
+language:
+- English
+genre:
+- History
+- Popular History
+- Cultural Study
+description: |
+  Published in 1908, Flora Annie Steel's "India Through the Ages" represents a significant early 20th-century British scholarly attempt to comprehensively document Indian historical and cultural evolution. Drawing from multiple colonial-era scholarly sources, the work synthesizes an extensive narrative spanning from hypothetical Aryan migrations through the complex trajectories of ancient, medieval, and early modern Indian civilizations, culminating in the Mughal Empire's gradual decline. Steel, who spent nearly two decades in India as the wife of a British civil servant, brought unique observational insights to her historical analysis, blending administrative knowledge with scholarly research. The work's chronological approach systematically explores archaeological, social, and political developments across nearly three millennia, providing contemporary readers with a meticulously structured overview of Indian cultural transformations. Steel's narrative critically examines major historical periods, including the Vedic civilization, classical Sanskrit kingdoms, Islamic sultanates, and the transition of imperial governance, while offering nuanced perspectives on societal structures, religious developments, and cross-cultural interactions. Although inevitably colored by colonial-era interpretative frameworks, the text remains valuable for its comprehensive compilation of historical scholarship and detailed ethnographic observations. Her work significantly contributed to Western academic understanding of Indian civilization, bridging scholarly knowledge with accessible historical narrative and providing an important early 20th-century intellectual perspective on India's complex historical landscape. The text remains a notable document of its era's scholarly engagement with Indian historical studies.
+collections:
+- classical-literature
+- regional-voices
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/39848"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/indiathroughage00steegoog"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/39848
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/indiathroughage00steegoog
+  type: other
 references:
-  - name: "Wikipedia: Flora Annie Steel"
-    url: "https://en.wikipedia.org/wiki/Flora_Annie_Steel"
-    type: "wikipedia"
-  - name: "Open Library: India Through the Ages"
-    url: "https://openlibrary.org/search?q=India+Through+the+Ages+Steel&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Flora Annie Steel'
+  url: https://en.wikipedia.org/wiki/Flora_Annie_Steel
+  type: wikipedia
+- name: 'Open Library: India Through the Ages'
+  url: https://openlibrary.org/search?q=India+Through+the+Ages+Steel&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-04
-tags: ["Flora Annie Steel", "Indian history", "popular history", "British Raj", "Punjab", "Anglo-Indian literature", "Mughal Empire", "ancient India", "colonial perspective", "women writers", "Edwardian era"]
 ---
 
 # India Through the Ages: A Popular and Picturesque History of Hindustan

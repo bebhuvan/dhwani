@@ -1,28 +1,37 @@
 ---
-title: "Bṛhatī: Commentary on Śābara Bhāṣya"
-author: ["Prabhakara Misra (7th-8th century)"]
+title: 'Bṛhatī: Commentary on Śābara Bhāṣya'
+author:
+- Prabhakara Misra (7th-8th century)
 year: 1932
-language: ["Sanskrit"]
-genre: ["Philosophy", "Mimamsa", "Commentary"]
-description: "Prabhakara Misra's major commentary on Sabarasvamin's Bhashya on Jaimini's Purva Mimamsa Sutras, establishing the Prabhakara sub-school of Mimamsa. Distinctive for its epistemological theory of triputipratyaksha (threefold immediate cognition) and rejection of erroneous cognition. Foundational for one of two major medieval Mimamsa schools, emphasizing self-validity of knowledge and primacy of Vedic injunctions."
-collections: ['ancient-wisdom', 'philosophy']
+language:
+- Sanskrit
+genre:
+- Philosophy
+- Mimamsa
+- Commentary
+description: |
+  Here's an enhanced scholarly description:
+  
+  Prabhakara Misra's Bṛhatī represents a seminal scholarly intervention in classical Indian philosophical discourse, emerging during the intellectually fertile post-Gupta period characterized by systematic philosophical consolidation. Composed as a comprehensive commentary on Sabarasvamin's Bhashya of Jaimini's Purva Mimamsa Sutras, the work critically examines Vedic hermeneutics, epistemology, and ritual interpretation within the Mimamsa philosophical tradition. Situated in the 7th-8th centuries CE, a period of significant scholastic innovation, the text establishes the Prabhakara sub-school of Mimamsa, distinguished by its nuanced epistemological framework and rigorous philosophical methodology. Prabhakara Misra's distinctive contribution lies in his theory of triputipratyaksha (threefold immediate cognition), which elaborates a sophisticated model of perceptual knowledge that challenges contemporaneous philosophical paradigms. The commentary systematically interrogates fundamental philosophical questions regarding the nature of knowledge, perception, and ritual injunctions, positioning itself at the intersection of Brahmanical hermeneutic traditions and epistemological inquiry. By developing a robust theoretical apparatus that emphasizes the self-validity of knowledge and the primacy of Vedic scriptural injunctions, Bṛhatī significantly influenced subsequent Indian philosophical discourse, particularly within the Mimamsa and Vedanta schools. The work exemplifies the intellectual sophistication of medieval Indian philosophical scholarship, demonstrating the complex theoretical negotiations undertaken by scholar-philosophers in interpreting religious, linguistic, and metaphysical phenomena. Its meticulous analytical approach and conceptual depth continue to represent a critical resource for understanding the sophisticated intellectual traditions of classical Indian philosophy.
+collections:
+- ancient-wisdom
+- philosophy
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.487030"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.487030
+  type: other
 references:
-  - name: "Wikipedia: Prabhakara"
-    url: "https://en.wikipedia.org/wiki/Prabhakara"
-    type: "wikipedia"
-  - name: "Wikipedia: Mimamsa"
-    url: "https://en.wikipedia.org/wiki/Mīmāṃsā"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Brhati+Prabhakara&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Prabhakara'
+  url: https://en.wikipedia.org/wiki/Prabhakara
+  type: wikipedia
+- name: 'Wikipedia: Mimamsa'
+  url: https://en.wikipedia.org/wiki/Mīmāṃsā
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Brhati+Prabhakara&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Prabhakara", "Mimamsa philosophy", "Brhati", "Sabara", "Epistemology", "Indian philosophy", "Medieval philosophy", "Vedic hermeneutics", "Dharma", "Knowledge theory"]
 ---
 
 # Bṛhatī: Commentary on Śābara Bhāṣya

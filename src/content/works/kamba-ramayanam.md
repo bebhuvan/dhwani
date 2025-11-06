@@ -1,43 +1,51 @@
 ---
-title: "Kamba Ramayanam"
-author: ["Kambar"]
+title: 'Kamba Ramayanam'
+author:
+- Kambar
 year: 1180
-language: ["Tamil"]
-genre: ["Epic Poetry", "Religious Literature", "Devotional Poetry"]
-description: "Tamil Ramayana composed by Kambar in 12th century, comprising over 10,500 verses. Literary masterpiece that differs significantly from Valmiki's Sanskrit version, emphasizing Tamil cultural aesthetics, emotional depth, and poetic sophistication. Considered pinnacle of medieval Tamil literature, blending devotional fervor with literary excellence. Central to Tamil cultural identity and religious tradition."
-collections: ['classical-literature', 'epic-poetry', 'devotional-literature']
+language:
+- Tamil
+genre:
+- Epic Poetry
+- Religious Literature
+- Devotional Poetry
+description: |
+  The Kamba Ramayanam, composed by the renowned Tamil poet Kambar around 1180 CE during the Chola dynasty's cultural zenith, represents a transformative reimagining of the classical Ramayana epic within the rich Tamil literary tradition. Comprising over 10,500 verses, this remarkable work distinguishes itself from Valmiki's original Sanskrit text through its profound linguistic artistry, cultural reinterpretation, and nuanced emotional landscape. Kambar, believed to be a court poet under the patronage of Kulothunga Chola III, demonstrates extraordinary literary skill by recasting the epic narrative through distinctly Tamil aesthetic sensibilities, linguistic sophistication, and intricate poetic techniques. The text explores complex philosophical and ethical themes while maintaining deep theological resonance, presenting the divine characters of Rama and Sita with unprecedented psychological complexity and local cultural contextualization. Beyond its literary merit, the Kamba Ramayanam serves as a critical scholarly artifact documenting medieval Tamil sociocultural paradigms, linguistic evolution, and religious worldviews. Its innovative narrative strategies, including elaborate metaphorical language, intricate character portrayals, and subtle theological interpretations, significantly influenced subsequent generations of Tamil literature and devotional poetry. The work exemplifies the remarkable syncretic intellectual traditions of South Indian medieval literature, bridging Sanskrit classical traditions with regional Tamil cultural expressions and demonstrating the dynamic, adaptive nature of India's literary heritage. As a foundational text in Tamil literary canon, the Kamba Ramayanam continues to be celebrated as a masterpiece of cultural translation and poetic excellence.
+collections:
+- classical-literature
+- epic-poetry
+- devotional-literature
 sources:
-  - name: "Project Madurai (Tamil Text)"
-    url: "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0001.html"
-    type: "other"
-  - name: "Internet Archive (Tamil Complete)"
-    url: "https://archive.org/details/kambaramayanam"
-    type: "other"
-  - name: "Tamil Virtual Academy"
-    url: "https://www.tamilvu.org/"
-    type: "other"
-  - name: "Wikisource Tamil"
-    url: "https://ta.wikisource.org/wiki/கம்பராமாயணம்"
-    type: "other"
+- name: 'Project Madurai (Tamil Text)'
+  url: https://www.projectmadurai.org/pm_etexts/utf8/pmuni0001.html
+  type: other
+- name: 'Internet Archive (Tamil Complete)'
+  url: https://archive.org/details/kambaramayanam
+  type: other
+- name: 'Tamil Virtual Academy'
+  url: https://www.tamilvu.org/
+  type: other
+- name: 'Wikisource Tamil'
+  url: https://ta.wikisource.org/wiki/கம்பராமாயணம்
+  type: other
 references:
-  - name: "Wikipedia: Kambar"
-    url: "https://en.wikipedia.org/wiki/Kambar_(poet)"
-    type: "wikipedia"
-  - name: "Wikipedia: Kamba Ramayanam"
-    url: "https://en.wikipedia.org/wiki/Ramavataram"
-    type: "wikipedia"
-  - name: "Wikipedia: Tamil literature"
-    url: "https://en.wikipedia.org/wiki/Tamil_literature"
-    type: "wikipedia"
-  - name: "Tamil Wikipedia: Kambar"
-    url: "https://ta.wikipedia.org/wiki/கம்பர்"
-    type: "wikipedia"
-  - name: "Open Library: Kamba Ramayanam year"
-    url: "https://openlibrary.org/search?q=Kamba+Ramayanam+year+1180+language+Tamil+Kambar"
-    type: "other"
+- name: 'Wikipedia: Kambar'
+  url: https://en.wikipedia.org/wiki/Kambar_(poet)
+  type: wikipedia
+- name: 'Wikipedia: Kamba Ramayanam'
+  url: https://en.wikipedia.org/wiki/Ramavataram
+  type: wikipedia
+- name: 'Wikipedia: Tamil literature'
+  url: https://en.wikipedia.org/wiki/Tamil_literature
+  type: wikipedia
+- name: 'Tamil Wikipedia: Kambar'
+  url: https://ta.wikipedia.org/wiki/கம்பர்
+  type: wikipedia
+- name: 'Open Library: Kamba Ramayanam year'
+  url: https://openlibrary.org/search?q=Kamba+Ramayanam+year+1180+language+Tamil+Kambar
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['tamil', 'poetry-collection', 'epic', 'religious']
 ---
 
 ## Historical Context and Authorship

@@ -1,40 +1,48 @@
 ---
-title: "The Atharva-veda Described"
-author: ["Ralph T. H. Griffith"]
+title: 'The Atharva-veda Described'
+author:
+- Ralph T. H. Griffith
 year: 1897
-language: ["Sanskrit", "English"]
-genre: ["Religious Texts", "Classical Literature", "Anthology"]
-description: "Ralph T. H. Griffith's 1897 selection from the Atharvaveda presents the fourth Veda's distinctive content: healing charms, protective spells, domestic rituals, and cosmological hymns. This 90-page Christian Literature Society volume introduces English readers to Vedic literature preserving popular religious practices alongside philosophical material anticipating Upanishadic thought, published by Oxford's Boden Professor of Sanskrit."
-collections: ['ancient-wisdom', 'spiritual-texts']
+language:
+- Sanskrit
+- English
+genre:
+- Religious Texts
+- Classical Literature
+- Anthology
+description: |
+  Ralph T. H. Griffith's 1897 scholarly translation and exposition of the Atharvaveda represents a pivotal moment in Western scholarly engagement with ancient Indian textual traditions, offering a comprehensive exploration of the fourth Vedic canonical text. Compiled during the late Vedic period (circa 1200-600 BCE), the Atharvaveda distinguishes itself from other Vedic collections through its rich documentation of domestic, therapeutic, and magical practices that illuminate the complex social and religious landscape of early Indian civilization. Griffith, as the Boden Professor of Sanskrit at Oxford University, brings nuanced linguistic and cultural expertise to his interpretation, providing English-language readers unprecedented access to a textual corpus encompassing healing charms, protective incantations, ritualistic procedures, and sophisticated cosmological speculations. The work meticulously translates and contextualizes hymns addressing diverse domains—from agricultural fertility and medical treatments to philosophical reflections on cosmic order and human existence. Beyond its linguistic value, this translation critically preserves indigenous knowledge systems that reveal intricate connections between spiritual practices, medical understanding, and social structures in ancient Indian society. Griffith's scholarly approach not only renders the arcane Sanskrit text comprehensible but also demonstrates the Atharvaveda's significance as a profound anthropological document, capturing the intellectual and spiritual complexity of Vedic culture. By presenting this text to a broader scholarly audience, the publication significantly advanced comparative religious studies and provided meaningful insights into the philosophical and practical dimensions of early Indian intellectual traditions.
+collections:
+- ancient-wisdom
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/theatharva-vedad00unkwuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/theatharva-vedad00unkwuoft
+  type: other
 references:
-  - name: "Wikipedia: Atharvaveda"
-    url: "https://en.wikipedia.org/wiki/Atharvaveda"
-    type: "wikipedia"
-  - name: "Wikipedia: Ralph T. H. Griffith"
-    url: "https://en.wikipedia.org/wiki/Ralph_T._H._Griffith"
-    type: "wikipedia"
-  - name: "Wikisource: Hymns of the Atharva-Veda"
-    url: "https://en.wikisource.org/wiki/The_Atharva_Veda"
-    type: "wikisource"
-  - name: "Wikisource: Author Page"
-    url: "https://en.wikisource.org/wiki/Author:Ralph_Thomas_Hotchkin_Griffith"
-    type: "wikisource"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=Atharva-veda+Described+Ralph+Griffith"
-    type: "other"
-  - name: "Wikidata: Atharvaveda"
-    url: "https://www.wikidata.org/wiki/Q236092"
-    type: "other"
-  - name: "Wikidata: Ralph T. H. Griffith"
-    url: "https://www.wikidata.org/wiki/Q3397301"
-    type: "other"
+- name: 'Wikipedia: Atharvaveda'
+  url: https://en.wikipedia.org/wiki/Atharvaveda
+  type: wikipedia
+- name: 'Wikipedia: Ralph T. H. Griffith'
+  url: https://en.wikipedia.org/wiki/Ralph_T._H._Griffith
+  type: wikipedia
+- name: 'Wikisource: Hymns of the Atharva-Veda'
+  url: https://en.wikisource.org/wiki/The_Atharva_Veda
+  type: wikisource
+- name: 'Wikisource: Author Page'
+  url: https://en.wikisource.org/wiki/Author:Ralph_Thomas_Hotchkin_Griffith
+  type: wikisource
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=Atharva-veda+Described+Ralph+Griffith
+  type: other
+- name: 'Wikidata: Atharvaveda'
+  url: https://www.wikidata.org/wiki/Q236092
+  type: other
+- name: 'Wikidata: Ralph T. H. Griffith'
+  url: https://www.wikidata.org/wiki/Q3397301
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Atharvaveda", "Vedic Literature", "Ralph T. H. Griffith", "Sanskrit Texts", "Hindu Sacred Texts", "Vedas", "19th Century Translation", "Christian Literature Society", "Vedic Religion", "Ancient India"]
 ---
 
 # The Atharva-veda Described

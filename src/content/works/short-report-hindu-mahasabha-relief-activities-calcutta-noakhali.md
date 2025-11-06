@@ -1,34 +1,41 @@
 ---
-title: "Short Report of Hindu Mahasabha Relief Activities During 'Calcutta Killing' and 'Noakhali Carnage'"
-author: ["Hindu Mahasabha"]
+title: 'Short Report of Hindu Mahasabha Relief Activities During 'Calcutta Killing' and 'Noakhali Carnage''
+author:
+- Hindu Mahasabha
 year: 1946
-language: ["English"]
-genre: ["Historical Literature", "Political Literature", "Social Reform"]
-description: "This historically significant report documents the relief activities undertaken by the Hindu Mahasabha during two of the most devastating episodes of communal violence in pre-partition India: the Direct Action Day riots in Calcutta (August 1946) and the subsequent Noakhali riots (October-November 1946)."
-collections: ['modern-literature', 'spiritual-texts']
+language:
+- English
+genre:
+- Historical Literature
+- Political Literature
+- Social Reform
+description: |
+  This historically significant report documents the relief activities undertaken by the Hindu Mahasabha during two of the most devastating episodes of communal violence in pre-partition India: the Direct Action Day riots in Calcutta (August 1946) and the subsequent Noakhali riots (October-November 1946). Created in the critical months leading up to India's independence and partition, this document captures the intense religious and political tensions that characterized the final years of British colonial rule, when communal violence between Hindus and Muslims reached unprecedented levels of brutality. The Hindu Mahasabha, a prominent Hindu nationalist organization active during the independence movement, played a complex role in documenting and responding to these violent episodes, which would ultimately shape the traumatic process of India's decolonization and territorial division.
+collections:
+- modern-literature
+- spiritual-texts
 sources:
-  - name: "Internet Archive (University of Toronto)"
-    url: "https://archive.org/details/shortreportofhin00slsn"
-    type: "other"
-  - name: "Google Books"
-    url: "https://books.google.co.in/books?id=1XgyswEACAAJ&source=gbs_book_other_versions"
-    type: "other"
+- name: 'Internet Archive (University of Toronto)'
+  url: https://archive.org/details/shortreportofhin00slsn
+  type: other
+- name: 'Google Books'
+  url: https://books.google.co.in/books?id=1XgyswEACAAJ&source=gbs_book_other_versions
+  type: other
 references:
-  - name: "Wikipedia: Hindu Mahasabha"
-    url: "https://en.wikipedia.org/wiki/Hindu_Mahasabha"
-    type: "wikipedia"
-  - name: "Wikipedia: Direct Action Day"
-    url: "https://en.wikipedia.org/wiki/Direct_Action_Day"
-    type: "wikipedia"
-  - name: "Wikipedia: Noakhali riots"
-    url: "https://en.wikipedia.org/wiki/Noakhali_riots"
-    type: "wikipedia"
-  - name: "Open Library: Short Report of Hindu"
-    url: "https://openlibrary.org/search?q=Short+Report+of+Hindu+Mahasabha+Relief+Hindu+Mahasabha"
-    type: "other"
+- name: 'Wikipedia: Hindu Mahasabha'
+  url: https://en.wikipedia.org/wiki/Hindu_Mahasabha
+  type: wikipedia
+- name: 'Wikipedia: Direct Action Day'
+  url: https://en.wikipedia.org/wiki/Direct_Action_Day
+  type: wikipedia
+- name: 'Wikipedia: Noakhali riots'
+  url: https://en.wikipedia.org/wiki/Noakhali_riots
+  type: wikipedia
+- name: 'Open Library: Short Report of Hindu'
+  url: https://openlibrary.org/search?q=Short+Report+of+Hindu+Mahasabha+Relief+Hindu+Mahasabha
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 ## Historical Context and Partition Background

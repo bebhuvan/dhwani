@@ -1,25 +1,29 @@
 ---
-title: "Dr. Scudder's Tales for Little Readers, About the Heathen."
-author: ["Scudder, John"]
+title: 'Dr. Scudder's Tales for Little Readers, About the Heathen.'
+author:
+- Scudder, John
 year: 1840
-language: ["English"]
-genre: ["Religious Literature"]
-description: "A collection of narratives aimed at educating children about Hindu culture and practices, emphasizing contrasts between Christian beliefs and Hindu customs, designed to inspire missionary work."
-collections: ["devotional-literature"]
+language:
+- English
+genre:
+- Religious Literature
+description: |
+  Published in 1840 during the early period of British colonial missionary activity in India, Dr. Scudder's Tales for Little Readers reflects the Protestant evangelical efforts to understand and transform Indian cultural practices through religious education. John Scudder, a prominent American missionary physician who worked in Tamil Nadu, was part of a broader 19th-century American Board of Commissioners for Foreign Missions network seeking to spread Christianity among indigenous populations through literary and medical interventions. A collection of narratives aimed at educating children about Hindu culture and practices, emphasizing contrasts between Christian beliefs and Hindu customs, designed to inspire missionary work.
+collections:
+- devotional-literature
 sources:
-- name: "Project Gutenberg"
-  url: "https://www.gutenberg.org/ebooks/13539"
-  type: "other"
-- name: "Project Gutenberg (HTML)"
-  url: "https://www.gutenberg.org/ebooks/13539.html.images"
-  type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/13539
+  type: other
+- name: 'Project Gutenberg (HTML)'
+  url: https://www.gutenberg.org/ebooks/13539.html.images
+  type: other
 references:
-- name: "Open Library: Dr Scudder's Tales"
-  url: "https://openlibrary.org/search?q=Dr+Scudder+Tales+Heathen"
-  type: "other"
+- name: 'Open Library: Dr Scudder's Tales'
+  url: https://openlibrary.org/search?q=Dr+Scudder+Tales+Heathen
+  type: other
 featured: false
 publishDate: 2025-11-01
-tags: ["public domain", "Scudder, John", "missionary literature"]
 ---
 
 # Dr. Scudder's Tales for Little Readers, About the Heathen.

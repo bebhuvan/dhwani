@@ -1,31 +1,36 @@
 ---
-title: "The Indian Empire: Its Peoples, History, and Products"
-author: ["W. W. Hunter"]
+title: 'The Indian Empire: Its Peoples, History, and Products'
+author:
+- W. W. Hunter
 year: 1886
-language: ["English"]
-genre: ["Historical Literature", "Political Literature"]
-description: "The Indian Empire: Its Peoples, History, and Products by W. 1907) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage. This work offers valuable insights into the British Raj period, featuring independence movements, cultural renaissance, and literary awakening."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Historical Literature
+- Political Literature
+description: |
+  W. W. Hunter's "The Indian Empire: Its Peoples, History, and Products" represents a comprehensive scholarly exploration of British India during the late 19th century, offering a nuanced examination of the subcontinent's complex social, cultural, and historical landscape. Published in 1886, the work emerges during a critical period of colonial documentation and imperial knowledge production, providing an authoritative British perspective on India's multifaceted civilization. Hunter, a distinguished member of the Indian Civil Service and a prominent imperial administrator and scholar, systematically analyzes India's diverse ethnic groups, administrative structures, economic systems, and cultural dynamics. The text meticulously details regional variations, indigenous social practices, economic configurations, and the intricate interactions between colonial governance and traditional societal frameworks. Drawing from extensive administrative records, ethnographic observations, and official colonial archives, Hunter's work contributes significantly to understanding the anthropological and historical complexities of the Indian subcontinent during the British Raj. His scholarly approach transcends mere administrative documentation, offering critical insights into the socio-cultural transformations occurring during a pivotal period of Indian history. The work provides a comprehensive overview of India's demographic diversity, regional characteristics, economic potential, and administrative challenges, serving as an important historical document for understanding colonial-era knowledge production and imperial perspectives. For contemporary scholars of Indian studies, colonial history, and postcolonial discourse, Hunter's text remains a critical primary source illuminating the intricate dynamics of late 19th-century Indian society under British imperial administration.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/indianempireitsp00huntrich"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.22271"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/indianempireitsp00huntrich
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.22271
+  type: other
 references:
-  - name: "Wikipedia: William Wilson Hunter"
-    url: "https://en.wikipedia.org/wiki/William_Wilson_Hunter"
-    type: "wikipedia"
-  - name: "Wikipedia: The Imperial Gazetteer of India"
-    url: "https://en.wikipedia.org/wiki/The_Imperial_Gazetteer_of_India"
-    type: "wikipedia"
-  - name: "Open Library: The Indian Empire"
-    url: "https://openlibrary.org/search?q=The+Indian+Empire+Its+Peoples+History+W+W+Hunter"
-    type: "other"
+- name: 'Wikipedia: William Wilson Hunter'
+  url: https://en.wikipedia.org/wiki/William_Wilson_Hunter
+  type: wikipedia
+- name: 'Wikipedia: The Imperial Gazetteer of India'
+  url: https://en.wikipedia.org/wiki/The_Imperial_Gazetteer_of_India
+  type: wikipedia
+- name: 'Open Library: The Indian Empire'
+  url: https://openlibrary.org/search?q=The+Indian+Empire+Its+Peoples+History+W+W+Hunter
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 # The Indian Empire: Its Peoples, History, and Products

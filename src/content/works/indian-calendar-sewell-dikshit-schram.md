@@ -1,25 +1,34 @@
 ---
-title: "The Indian Calendar: With Tables for the Conversion of Hindu and Muhammadan into A.D. Dates, and Vice Versâ"
-author: ["Robert Sewell", "Sankara Balkrishna Dikshit", "Robert Gustav Schram"]
+title: 'The Indian Calendar: With Tables for the Conversion of Hindu and Muhammadan into A.D. Dates, and Vice Versâ'
+author:
+- Robert Sewell
+- Sankara Balkrishna Dikshit
+- Robert Gustav Schram
 year: 1896
-language: ["English"]
-genre: ["Scientific Literature", "Historical Literature", "Reference Work"]
-description: "The Indian Calendar by Robert Sewell, Sankara Balkrishna Dikshit, and Robert Gustav Schram (1896) - A comprehensive scientific work providing systematic methods for converting between Hindu, Islamic, and Christian calendar systems. This authoritative reference work remains essential for historian..."
-collections: ['modern-literature', 'spiritual-texts']
+language:
+- English
+genre:
+- Scientific Literature
+- Historical Literature
+- Reference Work
+description: |
+  The Indian Calendar by Robert Sewell, Sankara Balkrishna Dikshit, and Robert Gustav Schram (1896) represents a pivotal scholarly achievement in documenting and systematizing complex Indian temporal methodologies during the late colonial period. Emerging from a critical era of cross-cultural intellectual collaboration, the work synthesizes astronomical, cultural, and administrative knowledge about calendrical systems that had evolved over centuries across the Indian subcontinent. By meticulously mapping conversion techniques between Hindu, Islamic, and Gregorian calendar systems, the text addresses a fundamental scholarly challenge of translating and standardizing diverse temporal frameworks that reflected sophisticated indigenous astronomical understanding. Sankara Balkrishna Dikshit, a distinguished Indian mathematician and astronomer, collaborated with British scholars Robert Sewell and Robert Gustav Schram to produce a comprehensive reference that bridged indigenous knowledge systems with Western scientific methodologies. The work's significance extends beyond mere technical conversion, providing critical insights into the intricate relationship between astronomical observation, cultural practice, and administrative documentation in pre-modern India. Its systematic approach illuminates the complex mathematical and astronomical principles underlying traditional Indian timekeeping, which integrated lunar and solar cycles, regional variations, and sophisticated computational techniques developed over millennia. For historians, anthropologists, and scholars of Indian cultural heritage, the text serves as an invaluable resource for understanding how temporal reckoning reflected broader intellectual and cultural systems, offering a nuanced window into the sophisticated scientific traditions of the Indian subcontinent during a transformative historical period of cultural and scholarly exchange.
+collections:
+- modern-literature
+- spiritual-texts
 sources:
-  - name: "Internet Archive (University of Toronto)"
-    url: "https://archive.org/details/indiancalendarwi00seweuoft"
-    type: "other"
-  - name: "Internet Archive (Rich Scan)"
-    url: "https://archive.org/details/indiancalendarwi00sewerich"
-    type: "other"
+- name: 'Internet Archive (University of Toronto)'
+  url: https://archive.org/details/indiancalendarwi00seweuoft
+  type: other
+- name: 'Internet Archive (Rich Scan)'
+  url: https://archive.org/details/indiancalendarwi00sewerich
+  type: other
 references:
-  - name: "Open Library: Sankara Balkrishna Dikshit"
-    url: "https://openlibrary.org/authors/OL6172226A/Sankara_Balkrishna_Dikshit"
-    type: "other"
+- name: 'Open Library: Sankara Balkrishna Dikshit'
+  url: https://openlibrary.org/authors/OL6172226A/Sankara_Balkrishna_Dikshit
+  type: other
 featured: false
 publishDate: 2025-09-28
-tags: ["Indian Calendar", "Hindu Calendar", "Islamic Calendar", "Chronology", "Date conversion", "Astronomy", "Robert Sewell", "Sankara Balkrishna Dikshit", "Robert Gustav Schram", "Historical dating", "Time systems", "Mathematical tables", "Scientific reference"]
 ---
 
 # The Indian Calendar: With Tables for the Conversion of Hindu and Muhammadan into A.D. Dates, and Vice Versâ

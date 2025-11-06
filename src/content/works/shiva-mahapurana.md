@@ -1,49 +1,61 @@
 ---
-title: "Shiva Purana (Shiva Mahapurana)"
-author: ["Vyasa (attributed)"]
+title: 'Shiva Purana (Shiva Mahapurana)'
+author:
+- Vyasa (attributed)
 year: 1000
-language: ["Sanskrit", "English"]
-genre: ["Religious Texts", "Mythology", "Classical Literature", "Philosophy"]
-description: "The Shiva Purana stands among the eighteen Mahapuranas as the principal Shaiva text devoted to Lord Shiva, comprising extensive mythology, philosophy, and devotional teachings. Composed over multiple centuries with core content likely from the 10th-11th centuries CE, this encyclopedic work integrates cosmology, sacred geography, yoga philosophy, and sophisticated Shaiva-Advaita Vedanta theology within narratives of Shiva's forms, manifestations, and divine family."
-collections: ['religious-texts', 'classical-literature', 'devotional-literature', 'ancient-wisdom', 'philosophy']
+language:
+- Sanskrit
+- English
+genre:
+- Religious Texts
+- Mythology
+- Classical Literature
+- Philosophy
+description: |
+  The Shiva Purana emerges as a seminal Mahapurana within the extensive corpus of classical Sanskrit literature, representing a comprehensive theological and mythological exploration of Lord Shiva's cosmic significance. Traditionally attributed to the legendary sage Vyasa, the text crystallized during the transformative medieval Chola period (9th-13th centuries), a critical era of Hindu religious systematization and philosophical synthesis. Structured as an encyclopedic narrative, the work meticulously integrates complex theological discourse, cosmological explanations, ritual prescriptions, and intricate mythological accounts that illuminate the multifaceted dimensions of Shaiva philosophical and devotional traditions. The text's compilation coincides with a profound period of intellectual and cultural consolidation, reflecting the sophisticated theological debates and religious institutionalization occurring across the Indian subcontinent. Central to its narrative architecture are elaborate descriptions of Shiva's multiple manifestations, divine interactions, philosophical principles, and metaphysical significance within Hindu cosmology. Key sections explore divine genealogies, creation mythologies, yogic philosophies, and sophisticated Advaita Vedantic interpretations of divine consciousness. The Shiva Purana's significance extends beyond religious documentation, serving as a critical archaeological text that reveals medieval Hindu intellectual frameworks, social structures, theological negotiations, and cultural hermeneutics. Its comprehensive approach demonstrates the complex interplay between mythology, philosophical abstraction, and ritualistic practice characteristic of medieval Hindu intellectual traditions. By synthesizing diverse narrative traditions and theological perspectives, the text represents a pivotal scholarly artifact illuminating the rich, nuanced religious epistemologies of premodern Indian civilization.
+collections:
+- religious-texts
+- classical-literature
+- devotional-literature
+- ancient-wisdom
+- philosophy
 sources:
-  - name: "Internet Archive (Various Sanskrit editions and translations)"
-    url: "https://archive.org/search.php?query=shiva+purana"
-    type: "other"
-  - name: "Wisdom Library: Shiva Purana English"
-    url: "https://www.wisdomlib.org/hinduism/book/shiva-purana-english"
-    type: "other"
-  - name: "Sacred Texts: Shiva Purana"
-    url: "https://www.sacred-texts.com/hin/index.htm"
-    type: "other"
+- name: 'Internet Archive (Various Sanskrit editions and translations)'
+  url: https://archive.org/search.php?query=shiva+purana
+  type: other
+- name: 'Wisdom Library: Shiva Purana English'
+  url: https://www.wisdomlib.org/hinduism/book/shiva-purana-english
+  type: other
+- name: 'Sacred Texts: Shiva Purana'
+  url: https://www.sacred-texts.com/hin/index.htm
+  type: other
 references:
-  - name: "Wikipedia: Shiva Purana"
-    url: "https://en.wikipedia.org/wiki/Shiva_Purana"
-    type: "wikipedia"
-  - name: "Wikipedia: Puranas"
-    url: "https://en.wikipedia.org/wiki/Puranas"
-    type: "wikipedia"
-  - name: "Wikipedia: Shiva"
-    url: "https://en.wikipedia.org/wiki/Shiva"
-    type: "wikipedia"
-  - name: "Wikipedia: Shaivism"
-    url: "https://en.wikipedia.org/wiki/Shaivism"
-    type: "wikipedia"
-  - name: "Wikipedia: Advaita Vedanta"
-    url: "https://en.wikipedia.org/wiki/Advaita_Vedanta"
-    type: "wikipedia"
-  - name: "Wikipedia: Bhakti"
-    url: "https://en.wikipedia.org/wiki/Bhakti"
-    type: "wikipedia"
-  - name: "Wikipedia: Maha Shivaratri"
-    url: "https://en.wikipedia.org/wiki/Maha_Shivaratri"
-    type: "wikipedia"
-  - name: "Open Library: Shiva Purana"
-    url: "https://openlibrary.org/search?q=Shiva+Purana"
-    type: "other"
+- name: 'Wikipedia: Shiva Purana'
+  url: https://en.wikipedia.org/wiki/Shiva_Purana
+  type: wikipedia
+- name: 'Wikipedia: Puranas'
+  url: https://en.wikipedia.org/wiki/Puranas
+  type: wikipedia
+- name: 'Wikipedia: Shiva'
+  url: https://en.wikipedia.org/wiki/Shiva
+  type: wikipedia
+- name: 'Wikipedia: Shaivism'
+  url: https://en.wikipedia.org/wiki/Shaivism
+  type: wikipedia
+- name: 'Wikipedia: Advaita Vedanta'
+  url: https://en.wikipedia.org/wiki/Advaita_Vedanta
+  type: wikipedia
+- name: 'Wikipedia: Bhakti'
+  url: https://en.wikipedia.org/wiki/Bhakti
+  type: wikipedia
+- name: 'Wikipedia: Maha Shivaratri'
+  url: https://en.wikipedia.org/wiki/Maha_Shivaratri
+  type: wikipedia
+- name: 'Open Library: Shiva Purana'
+  url: https://openlibrary.org/search?q=Shiva+Purana
+  type: other
 featured: false
 publishDate: 2025-11-02
-tags: ['classical-literature', 'religious', 'purana', 'shaivism', 'philosophy', 'advaita-vedanta']
 ---
 
 ## Composition History and Textual Evolution

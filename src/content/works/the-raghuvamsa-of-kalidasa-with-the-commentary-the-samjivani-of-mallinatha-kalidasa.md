@@ -1,40 +1,50 @@
 ---
-title: "The Raghuvamsa of Kalidasa : with the commentary (the Samjivani) of Mallinatha"
-author: ["Kalidasa", "Mallinatha", "M. R. Kale"]
+title: 'The Raghuvamsa of Kalidasa : with the commentary (the Samjivani) of Mallinatha'
+author:
+- Kalidasa
+- Mallinatha
+- M. R. Kale
 year: 1922
-language: ["Sanskrit"]
-genre: ["Sanskrit Kavya", "Classical Poetry", "Dynastic Epic"]
-description: "M.R. Kale's 1922 scholarly edition of Kalidasa's Raghuvamsa—19 cantos chronicling the Solar dynasty through 1,564 stanzas in 21 Sanskrit meters—with Mallinatha's authoritative 15th-century Sanjivani commentary explaining the classical poet's technical mastery."
-collections: ["classical-literature", "poetry-collection", "indology"]
+language:
+- Sanskrit
+genre:
+- Sanskrit Kavya
+- Classical Poetry
+- Dynastic Epic
+description: |
+  Kalidasa's Raghuvamsa emerges as a quintessential exemplar of classical Sanskrit mahakavya, composed during the Gupta Empire's cultural zenith (circa 400-500 CE), representing the apotheosis of courtly poetic expression. Spanning 19 cantos and comprising 1,564 precisely crafted stanzas across 21 intricate Sanskrit metrical forms, the work traces the genealogical narrative of the Solar dynasty (Suryavamsa), beginning with the legendary King Dilipa and culminating with King Agnivarna. Kalidasa, considered the preeminent poet-scholar of his era, demonstrates extraordinary literary sophistication through elaborate descriptive passages, nuanced character portrayals, and profound philosophical underpinnings that transcend mere historical documentation. The text exemplifies the classical Sanskrit aesthetic principles of rasa (emotional essence) and alamkara (ornate literary embellishment), presenting royal lineage not merely as historical record but as a sophisticated exploration of dharma (ethical duty), statecraft, and human relationships. Mallinatha's seminal 15th-century Sanjivani commentary, which accompanies M.R. Kale's definitive 1922 scholarly edition, provides critical interpretative insights into the work's complex linguistic and philosophical dimensions. Beyond its literary merit, the Raghuvamsa serves as a crucial anthropological and cultural artifact, illuminating the social structures, ethical frameworks, and aesthetic sensibilities of classical Indian civilization. Its enduring significance lies in its ability to synthesize mythological narrative, political history, and philosophical reflection, establishing a complex narrative model that profoundly influenced subsequent Sanskrit literary traditions and representations of royal genealogical consciousness.
+collections:
+- classical-literature
+- poetry-collection
+- indology
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/raghuvamsaofkali00kliduoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/raghuvamsaofkali00kliduoft
+  type: other
 references:
-  - name: "Wikipedia: Raghuvamsa"
-    url: "https://en.wikipedia.org/wiki/Raghuva%E1%B9%83%C5%9Ba"
-    type: "wikipedia"
-  - name: "Wikipedia: Kalidasa"
-    url: "https://en.wikipedia.org/wiki/Kalidasa"
-    type: "wikipedia"
-  - name: "Britannica: Raghuvamsha"
-    url: "https://www.britannica.com/topic/Raghuvamsha"
-    type: "other"
-  - name: "Britannica: Kalidasa"
-    url: "https://www.britannica.com/biography/Kalidasa"
-    type: "other"
-  - name: "Wikipedia: Mallinatha Suri"
-    url: "https://en.wikipedia.org/wiki/Mallin%C4%81tha_S%C5%ABri"
-    type: "wikipedia"
-  - name: "Wikidata: Kalidasa"
-    url: "https://www.wikidata.org/wiki/Q170200"
-    type: "other"
-  - name: "Open Library: The Raghuvamsa of Kalidasa "
-    url: "https://openlibrary.org/search?q=The+Raghuvamsa+of+Kalidasa++with+Kalidasa"
-    type: "other"
+- name: 'Wikipedia: Raghuvamsa'
+  url: https://en.wikipedia.org/wiki/Raghuva%E1%B9%83%C5%9Ba
+  type: wikipedia
+- name: 'Wikipedia: Kalidasa'
+  url: https://en.wikipedia.org/wiki/Kalidasa
+  type: wikipedia
+- name: 'Britannica: Raghuvamsha'
+  url: https://www.britannica.com/topic/Raghuvamsha
+  type: other
+- name: 'Britannica: Kalidasa'
+  url: https://www.britannica.com/biography/Kalidasa
+  type: other
+- name: 'Wikipedia: Mallinatha Suri'
+  url: https://en.wikipedia.org/wiki/Mallin%C4%81tha_S%C5%ABri
+  type: wikipedia
+- name: 'Wikidata: Kalidasa'
+  url: https://www.wikidata.org/wiki/Q170200
+  type: other
+- name: 'Open Library: The Raghuvamsa of Kalidasa '
+  url: https://openlibrary.org/search?q=The+Raghuvamsa+of+Kalidasa++with+Kalidasa
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical-literature', 'poetry-collection', 'epic']
 ---
 
 # The Raghuvamsa of Kalidasa: with the commentary (the Samjivani) of Mallinatha

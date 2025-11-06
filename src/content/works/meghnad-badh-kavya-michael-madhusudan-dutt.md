@@ -1,34 +1,39 @@
 ---
-title: "Meghnad Badh Kavya"
-author: ["Michael Madhusudan Dutt"]
+title: 'Meghnad Badh Kavya'
+author:
+- Michael Madhusudan Dutt
 year: 1861
-language: ["Bengali"]
-genre: ["Epic Poetry", "Blank Verse"]
-description: "Bengali epic poem retelling the Ramayana from Ravana's perspective, focusing on the death of his son Meghnad (Indrajit). Revolutionary work that introduced European-style blank verse to Bengali literature, fundamentally transforming Bengali poetic form and establishing Dutt as a pioneer of modern Bengali poetry."
-collections: ['modern-literature']
+language:
+- Bengali
+genre:
+- Epic Poetry
+- Blank Verse
+description: |
+  During the transformative Bengal Renaissance of the mid-19th century, Michael Madhusudan Dutt's "Meghnad Badh Kavya" emerged as a groundbreaking literary work that critically reinterpreted classical Indian mythology through innovative poetic techniques. Published in 1861, the epic poem represents a pivotal moment in Bengali literary history, where colonial-era intellectuals were actively challenging traditional narrative structures and exploring sophisticated modes of artistic expression. Dutt, a quintessential product of colonial Bengal's emerging cosmopolitan intelligentsia, deliberately subverted classical epic conventions by retelling the Ramayana from Ravana's perspective, presenting the traditional antagonist as a complex, sympathetic character with profound human depth. By introducing European-style blank verse to Bengali literature, Dutt fundamentally transformed the linguistic and aesthetic possibilities of Indian poetry, demonstrating how indigenous narrative traditions could be reimagined through modernist sensibilities. The work's primary focus on Meghnad's (Indrajit's) death explores themes of heroism, familial loyalty, and tragic destiny, challenging simplistic moral binaries inherent in traditional mythological narratives. Linguistically and structurally revolutionary, "Meghnad Badh Kavya" exemplifies the intellectual ferment of 19th-century Bengal, where writers were negotiating complex cultural identities under colonial rule. Dutt's masterpiece not only expanded the boundaries of Bengali literary expression but also represented a profound act of cultural self-reflection, illustrating how literary innovation could become a powerful mechanism for reimagining national and cultural consciousness during a period of intense social transformation.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive (DLI)"
-    url: "https://archive.org/details/in.ernet.dli.2015.290469"
-    type: "other"
-  - name: "Internet Archive (Bengal Public Library)"
-    url: "https://archive.org/details/dli.bengal.10689.6040"
-    type: "other"
-  - name: "Internet Archive (1954 Edition)"
-    url: "https://archive.org/details/in.ernet.dli.2015.302590"
-    type: "other"
+- name: 'Internet Archive (DLI)'
+  url: https://archive.org/details/in.ernet.dli.2015.290469
+  type: other
+- name: 'Internet Archive (Bengal Public Library)'
+  url: https://archive.org/details/dli.bengal.10689.6040
+  type: other
+- name: 'Internet Archive (1954 Edition)'
+  url: https://archive.org/details/in.ernet.dli.2015.302590
+  type: other
 references:
-  - name: "Wikipedia: Meghnad Badh Kavya"
-    url: "https://en.wikipedia.org/wiki/Meghnad_Badh_Kavya"
-    type: "wikipedia"
-  - name: "Wikipedia: Michael Madhusudan Dutt"
-    url: "https://en.wikipedia.org/wiki/Michael_Madhusudan_Dutt"
-    type: "wikipedia"
-  - name: "Open Library search"
-    url: "https://openlibrary.org/search?q=Meghnad%20Badh%20Kavya%20Michael%20Madhusudan%20Dutt"
-    type: "openlibrary"
+- name: 'Wikipedia: Meghnad Badh Kavya'
+  url: https://en.wikipedia.org/wiki/Meghnad_Badh_Kavya
+  type: wikipedia
+- name: 'Wikipedia: Michael Madhusudan Dutt'
+  url: https://en.wikipedia.org/wiki/Michael_Madhusudan_Dutt
+  type: wikipedia
+- name: 'Open Library search'
+  url: https://openlibrary.org/search?q=Meghnad%20Badh%20Kavya%20Michael%20Madhusudan%20Dutt
+  type: openlibrary
 featured: true
 publishDate: 2025-11-01
-tags: ["Bengali Literature", "Epic Poetry", "Blank Verse", "Michael Madhusudan Dutt", "Ramayana", "19th Century", "Modern Bengali Poetry"]
 ---
 
 # Meghnad Badh Kavya

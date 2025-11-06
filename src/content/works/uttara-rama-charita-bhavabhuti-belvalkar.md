@@ -1,40 +1,49 @@
 ---
-title: "Uttara-Rāma-Charita (Rama's Later History)"
-author: ["Bhavabhuti", "Shripad Krishna Belvalkar"]
+title: 'Uttara-Rāma-Charita (Rama's Later History)'
+author:
+- Bhavabhuti
+- Shripad Krishna Belvalkar
 year: 1915
-language: ["Sanskrit", "Prakrit", "English"]
-genre: ["Drama", "Classical Literature"]
-description: "Critical edition of Bhavabhuti's seven-act Sanskrit drama depicting Rama's life after his coronation, focusing on Sita's abandonment and eventual reunion. Belvalkar's 1915 Harvard Oriental Series edition provides original Sanskrit and Prakrit text with English translation and critical apparatus."
-collections: ['ancient-wisdom', 'classical-literature']
+language:
+- Sanskrit
+- Prakrit
+- English
+genre:
+- Drama
+- Classical Literature
+description: |
+  Critical edition of Bhavabhuti's seven-act Sanskrit drama depicting Rama's life after his coronation, focusing on Sita's abandonment and eventual reunion. Composed during the early 8th century CE in the Deccan region under the Gurjara-Pratihara cultural patronage, Bhavabhuti was a renowned poet-dramatist who significantly advanced classical Sanskrit dramatic traditions during a period of intense literary refinement. Belvalkar's 1915 Harvard Oriental Series edition provides original Sanskrit and Prakrit text with English translation and critical apparatus, preserving a seminal work that represents the pinnacle of classical Sanskrit dramatic literature and offers profound psychological exploration of epic characters beyond traditional narrative boundaries.
+collections:
+- ancient-wisdom
+- classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/ramaslaterhistor00bhavuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/ramaslaterhistor00bhavuoft
+  type: other
 references:
-  - name: "Wikipedia: Uttararamacarita"
-    url: "https://en.wikipedia.org/wiki/Uttararamacarita"
-    type: "wikipedia"
-  - name: "Wikipedia: Bhavabhuti"
-    url: "https://en.wikipedia.org/wiki/Bhavabhuti"
-    type: "wikipedia"
-  - name: "Wikipedia: Shripad Krishna Belvalkar"
-    url: "https://en.wikipedia.org/wiki/Shripad_Krishna_Belvalkar"
-    type: "wikipedia"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=Uttara-Rama-Charita+Bhavabhuti"
-    type: "other"
-  - name: "Wikidata: Uttararamacarita"
-    url: "https://www.wikidata.org/wiki/Q19804980"
-    type: "other"
-  - name: "Wikidata: Bhavabhuti"
-    url: "https://www.wikidata.org/wiki/Q29057"
-    type: "other"
-  - name: "Wikidata: S.K. Belvalkar"
-    url: "https://www.wikidata.org/wiki/Q12454695"
-    type: "other"
+- name: 'Wikipedia: Uttararamacarita'
+  url: https://en.wikipedia.org/wiki/Uttararamacarita
+  type: wikipedia
+- name: 'Wikipedia: Bhavabhuti'
+  url: https://en.wikipedia.org/wiki/Bhavabhuti
+  type: wikipedia
+- name: 'Wikipedia: Shripad Krishna Belvalkar'
+  url: https://en.wikipedia.org/wiki/Shripad_Krishna_Belvalkar
+  type: wikipedia
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=Uttara-Rama-Charita+Bhavabhuti
+  type: other
+- name: 'Wikidata: Uttararamacarita'
+  url: https://www.wikidata.org/wiki/Q19804980
+  type: other
+- name: 'Wikidata: Bhavabhuti'
+  url: https://www.wikidata.org/wiki/Q29057
+  type: other
+- name: 'Wikidata: S.K. Belvalkar'
+  url: https://www.wikidata.org/wiki/Q12454695
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Sanskrit Drama", "Bhavabhuti", "Ramayana", "Classical Literature", "Harvard Oriental Series", "8th Century", "Sita", "Rama", "Critical Edition", "Sanskrit Studies"]
 ---
 
 # Uttara-Rāma-Charita (Rama's Later History)

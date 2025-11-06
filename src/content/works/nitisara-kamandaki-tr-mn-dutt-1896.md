@@ -1,31 +1,40 @@
 ---
-title: "Kāmandakīya Nītisāra (The Elements of Polity)"
-author: ["Kamandaki", "tr. Manmatha Nath Dutt"]
+title: 'Kāmandakīya Nītisāra (The Elements of Polity)'
+author:
+- Kamandaki
+- tr. Manmatha Nath Dutt
 year: 1896
-language: ["English", "Sanskrit"]
-genre: ["Political Literature", "Philosophy", "Statecraft"]
-description: "Sanskrit treatise on statecraft and political science composed between 3rd-7th centuries CE, adapting Kautilya's Arthashastra principles to Gupta-era political realities. Comprises 20 chapters covering governance theories, interstate relations, military strategy, and administrative ethics. M.N. Dutt's 1896 Calcutta translation made this foundational work of Indian political philosophy accessible during critical period of colonial governance."
-collections: ['classical-literature', 'political-philosophy']
+language:
+- English
+- Sanskrit
+genre:
+- Political Literature
+- Philosophy
+- Statecraft
+description: |
+  The Kāmandakīya Nītisāra represents a pivotal Sanskrit political treatise emerging during the late classical period of Indian political philosophy, situated within the intellectual landscape of the post-Gupta era (approximately 3rd-7th centuries CE). Drawing substantively from Kautilya's seminal Arthashastra while innovating upon earlier statecraft traditions, this work synthesizes complex administrative theories with nuanced diplomatic strategies characteristic of medieval Indian political thought. Composed during a dynamic period of regional kingdoms and evolving interstate relationships, the text comprehensively explores governance principles through twenty meticulously structured chapters addressing diplomatic negotiations, military strategy, administrative ethics, and interstate relations. Kamandaki—about whom limited biographical details survive—likely represented a scholarly tradition bridging theoretical political science with pragmatic administrative knowledge. The treatise distinguishes itself through sophisticated analyses of state mechanisms, including detailed discussions on diplomatic missions, strategic alliances, and ethical governance frameworks that transcend mere procedural descriptions. Its scholarly significance lies in documenting the sophisticated political epistemologies of classical Indian civilization, demonstrating intellectual complexities beyond colonial-era mischaracterizations of pre-modern Indian political systems. Manmatha Nath Dutt's 1896 translation was particularly crucial in making this intricate work accessible to scholarly audiences during a transformative period of colonial intellectual exchange, preserving a critical text of Indian political heritage. The Nītisāra remains an essential scholarly resource for understanding the intellectual sophistication of classical Indian political philosophy, offering profound insights into statecraft, diplomacy, and administrative governance.
+collections:
+- classical-literature
+- political-philosophy
 sources:
-  - name: "Internet Archive (Rich transcript)"
-    url: "https://archive.org/details/kamandakiyanitis00kamarich"
-    type: "other"
-  - name: "Internet Archive (University of Toronto)"
-    url: "https://archive.org/details/kamandakiyanitis00kamauoft"
-    type: "other"
-  - name: "Internet Archive (DLI)"
-    url: "https://archive.org/details/in.ernet.dli.2015.217516"
-    type: "other"
+- name: 'Internet Archive (Rich transcript)'
+  url: https://archive.org/details/kamandakiyanitis00kamarich
+  type: other
+- name: 'Internet Archive (University of Toronto)'
+  url: https://archive.org/details/kamandakiyanitis00kamauoft
+  type: other
+- name: 'Internet Archive (DLI)'
+  url: https://archive.org/details/in.ernet.dli.2015.217516
+  type: other
 references:
-  - name: "Wikipedia: Nitisara"
-    url: "https://en.wikipedia.org/wiki/Nitisara"
-    type: "wikipedia"
-  - name: "OpenLibrary"
-    url: "https://openlibrary.org/search?q=Kamandakiya+Nitisara+Dutt+1896"
-    type: "other"
+- name: 'Wikipedia: Nitisara'
+  url: https://en.wikipedia.org/wiki/Nitisara
+  type: wikipedia
+- name: 'OpenLibrary'
+  url: https://openlibrary.org/search?q=Kamandakiya+Nitisara+Dutt+1896
+  type: other
 featured: false
 publishDate: 2025-01-24
-tags: ["Political philosophy", "Statecraft", "Sanskrit literature", "Kamandaki", "Governance", "Classical texts", "Indian philosophy", "Political science", "Ancient wisdom", "19th century translation", "Public domain"]
 ---
 
 # Kāmandakīya Nītisāra (The Elements of Polity)

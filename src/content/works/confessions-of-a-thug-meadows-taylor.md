@@ -1,31 +1,35 @@
 ---
-title: "Confessions of a Thug"
-author: ["Meadows Taylor"]
+title: 'Confessions of a Thug'
+author:
+- Meadows Taylor
 year: 1839
-language: ["English"]
-genre: ["Literature"]
-description: "Confessions of a Thug by Meadows Taylor (1839 (1st ed.; later reprints)) - A significant work from the Colonial India - Company Rule, representing an important contribution to Indian literary and cultural heritage. Digitally preserved and freely available for research, education, and cultural appreciation."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Literature
+description: |
+  "Confessions of a Thug" by Philip Meadows Taylor represents a pivotal narrative work emerging from the British colonial encounter with India during the early 19th century, specifically addressing the complex social phenomenon of thuggee - organized ritual highway robbery and ritualized murder practiced by specific criminal networks in central and northern India. Published in 1839, the novel is based on Taylor's extensive personal experiences as a British colonial administrative officer in the Hyderabad region, where he extensively documented and investigated thuggee practices. Drawing from actual judicial records and personal encounters, Taylor constructs a narratively compelling exploration of criminal subcultures, religious syncretism, and the colonial administration's understanding of indigenous social systems. The work significantly contributes to British colonial literature by providing a detailed, albeit externally perceived, ethnographic account of criminal networks, their organizational structures, ritualistic practices, and cultural motivations. Methodologically, the text represents an early anthropological attempt to comprehend marginalized social groups through narrative documentation, simultaneously serving as a tool of colonial knowledge production and a complex literary representation of Indian societal dynamics. For Indian literary studies, the novel offers critical insights into power structures, cultural representations, and the intersectional negotiations between indigenous practices and colonial interpretative frameworks. Taylor's nuanced portrayal, while inevitably filtered through a colonial lens, provides a significant textual artifact documenting late Company Rule period social complexities, criminal anthropology, and the intricate cultural translations occurring during British imperial expansion in the Indian subcontinent.
+collections:
+- modern-literature
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/44881"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/confessionsofthu02tayl"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/44881
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/confessionsofthu02tayl
+  type: other
 references:
-  - name: "Wikipedia: Meadows Taylor"
-    url: "https://en.wikipedia.org/wiki/Meadows_Taylor"
-    type: "wikipedia"
-  - name: "Wikipedia: Confessions of a Thug (novel)"
-    url: "https://en.wikipedia.org/wiki/Confessions_of_a_Thug_(novel)"
-    type: "wikipedia"
-  - name: "Open Library: Confessions of a Thug year"
-    url: "https://openlibrary.org/search?q=Confessions+of+a+Thug+year+1839+Meadows+Taylor"
-    type: "other"
+- name: 'Wikipedia: Meadows Taylor'
+  url: https://en.wikipedia.org/wiki/Meadows_Taylor
+  type: wikipedia
+- name: 'Wikipedia: Confessions of a Thug (novel)'
+  url: https://en.wikipedia.org/wiki/Confessions_of_a_Thug_(novel)
+  type: wikipedia
+- name: 'Open Library: Confessions of a Thug year'
+  url: https://openlibrary.org/search?q=Confessions+of+a+Thug+year+1839+Meadows+Taylor
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 ## Author and Publication Context

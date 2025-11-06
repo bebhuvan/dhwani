@@ -1,43 +1,50 @@
 ---
-title: "Report on the Excavations at Pātaliputra (Patna): The Palibothra of the Greeks"
-author: ["L. A. Waddell"]
+title: 'Report on the Excavations at Pātaliputra (Patna): The Palibothra of the Greeks'
+author:
+- L. A. Waddell
 year: 1903
-language: ["English"]
-genre: ["Archaeology", "Excavation Report", "Ancient History"]
-description: "Detailed archaeological excavation report documenting systematic excavations at Pataliputra (ancient Palibothra), capital of the Mauryan Empire and seat of India's most powerful ancient dynasties. Contains crucial stratigraphic information, artifact descriptions, and structural remains essential for understanding Mauryan period urbanism. Includes nine appendices covering Mauryan history, origins of stone building and sculpture, Chinese pilgrim records, and Upagupta—Ashoka's high priest."
-collections: ['archaeology', 'ancient-history']
+language:
+- English
+genre:
+- Archaeology
+- Excavation Report
+- Ancient History
+description: |
+  L. A. Waddell's meticulously documented archaeological excavation report represents a pivotal scholarly intervention in understanding the material and cultural landscape of Pataliputra, the imperial capital of the Mauryan Empire during one of India's most transformative historical periods (circa 322-185 BCE). Situated in contemporary Patna, Bihar, this comprehensive study emerged during a critical juncture of colonial scholarship, when Western researchers were systematically documenting India's archaeological heritage through empirical methodologies. Waddell, a British physician and orientalist with specialized training in archaeology, conducted detailed stratigraphic analysis that revealed complex urban infrastructure, architectural techniques, and material culture characteristic of the Mauryan administrative and cultural center. The report provides nuanced insights into the sophisticated urban planning, architectural innovations, and social structures of one of ancient India's most significant metropolitan environments. By meticulously documenting structural remains, artifact typologies, and contextual archaeological data, Waddell's work contributed substantially to understanding the architectural and technological achievements of the Mauryan period. The nine appendices offer critical supplementary scholarship, including detailed examinations of Mauryan historical chronologies, stone construction techniques, sculptural traditions, and comprehensive translations of Chinese pilgrim accounts. Particularly noteworthy is Waddell's exploration of Upagupta, the influential Buddhist monk and spiritual advisor to Emperor Ashoka, providing crucial insights into the religious and intellectual dynamics of the period. This groundbreaking report represents an important early academic engagement with India's archaeological heritage, bridging colonial-era scholarship with emerging methodological approaches in historical and archaeological research.
+collections:
+- archaeology
+- ancient-history
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/dli.ministry.20561"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/dli.ministry.20561
+  type: other
 references:
-  - name: "Wikipedia: Pataliputra"
-    url: "https://en.wikipedia.org/wiki/Pataliputra"
-    type: "wikipedia"
-  - name: "Wikipedia: L. A. Waddell"
-    url: "https://en.wikipedia.org/wiki/Laurence_Waddell"
-    type: "wikipedia"
-  - name: "Wikipedia: Maurya Empire"
-    url: "https://en.wikipedia.org/wiki/Maurya_Empire"
-    type: "wikipedia"
-  - name: "Wikipedia: Ashoka"
-    url: "https://en.wikipedia.org/wiki/Ashoka"
-    type: "wikipedia"
-  - name: "Wikipedia: Chandragupta Maurya"
-    url: "https://en.wikipedia.org/wiki/Chandragupta_Maurya"
-    type: "wikipedia"
-  - name: "Wikipedia: Kumhrar"
-    url: "https://en.wikipedia.org/wiki/Kumhrar"
-    type: "wikipedia"
-  - name: "Wikipedia: Pataliputra capital"
-    url: "https://en.wikipedia.org/wiki/Pataliputra_capital"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Waddell+Pataliputra+excavations&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Pataliputra'
+  url: https://en.wikipedia.org/wiki/Pataliputra
+  type: wikipedia
+- name: 'Wikipedia: L. A. Waddell'
+  url: https://en.wikipedia.org/wiki/Laurence_Waddell
+  type: wikipedia
+- name: 'Wikipedia: Maurya Empire'
+  url: https://en.wikipedia.org/wiki/Maurya_Empire
+  type: wikipedia
+- name: 'Wikipedia: Ashoka'
+  url: https://en.wikipedia.org/wiki/Ashoka
+  type: wikipedia
+- name: 'Wikipedia: Chandragupta Maurya'
+  url: https://en.wikipedia.org/wiki/Chandragupta_Maurya
+  type: wikipedia
+- name: 'Wikipedia: Kumhrar'
+  url: https://en.wikipedia.org/wiki/Kumhrar
+  type: wikipedia
+- name: 'Wikipedia: Pataliputra capital'
+  url: https://en.wikipedia.org/wiki/Pataliputra_capital
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Waddell+Pataliputra+excavations&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Pataliputra", "Patna", "Mauryan Empire", "L. A. Waddell", "Archaeological excavation", "Ancient India", "Palibothra", "Ashoka", "Urban archaeology", "1903", "Mauryan architecture", "Ancient cities", "Indian archaeology", "Stratigraphy"]
 ---
 
 # Report on the Excavations at Pātaliputra (Patna): The Palibothra of the Greeks

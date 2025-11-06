@@ -1,37 +1,46 @@
 ---
-title: "The Periplus of the Erythraean Sea"
-author: ["Anonymous", "tr. Wilfred H. Schoff"]
+title: 'The Periplus of the Erythraean Sea'
+author:
+- Anonymous
+- tr. Wilfred H. Schoff
 year: 60
-language: ["English", "Ancient Greek"]
-genre: ["Geography", "Trade Manual", "Historical Literature"]
-description: "A practical mariner's handbook from the 1st century CE documenting Red Sea-Indian Ocean trade routes, ports, commodities, and political conditions. This Greek merchant's guide provides invaluable historical evidence for understanding ancient maritime commerce connecting Roman Egypt with Arabia, East Africa, and India's western coast."
-collections: ['ancient-history', 'historical-literature']
+language:
+- English
+- Ancient Greek
+genre:
+- Geography
+- Trade Manual
+- Historical Literature
+description: |
+  The Periplus of the Erythraean Sea is a comprehensive maritime navigation manual composed around 60 CE, representing a critical textual artifact of ancient Indian Ocean trade networks during the early Roman imperial period. Attributed to an anonymous Greek merchant-sailor, likely a resident of the Egyptian Red Sea port of Berenice, the text provides an intricate cartographic and commercial overview of maritime routes connecting the Mediterranean world with the Indian subcontinent, Arabian Peninsula, and East African coastlines. The manuscript meticulously documents approximately 60 coastal trading settlements, harbors, indigenous kingdoms, commodity exchanges, and geopolitical conditions from Egypt to modern-day India, offering unprecedented ethnographic and economic insights into cross-cultural interactions during the 1st century CE. For Indian cultural and historical studies, the Periplus represents an invaluable external perspective on maritime commerce, revealing sophisticated trade infrastructures, regional political formations, and economic networks of western Indian coastal kingdoms during the early centuries of the Common Era. The text details specific commodities like textiles, spices, precious stones, and agricultural products, highlighting the complex economic symbiosis between Mediterranean and Indian trading societies. Particularly significant are its descriptions of ports like Muziris (modern Kerala) and Barygaza (Bharuch in Gujarat), which were crucial international maritime commercial centers. The manuscript's precise observations about local political structures, trading practices, and cultural interactions provide historians with a rare contemporary account of India's maritime engagement during a transformative period of global economic expansion, making it an essential source for understanding ancient transoceanic cultural and commercial exchanges.
+collections:
+- ancient-history
+- historical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/periplusoferythr00schouoft"
-    type: "other"
-  - name: "Internet Archive (Alternative)"
-    url: "https://archive.org/details/periplusoferythr00scho"
-    type: "other"
-  - name: "Internet Archive (IGNCA)"
-    url: "https://archive.org/details/in.gov.ignca.5074"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/periplusoferythr00schouoft
+  type: other
+- name: 'Internet Archive (Alternative)'
+  url: https://archive.org/details/periplusoferythr00scho
+  type: other
+- name: 'Internet Archive (IGNCA)'
+  url: https://archive.org/details/in.gov.ignca.5074
+  type: other
 references:
-  - name: "Wikipedia: Periplus of the Erythraean Sea"
-    url: "https://en.wikipedia.org/wiki/Periplus_of_the_Erythraean_Sea"
-    type: "wikipedia"
-  - name: "Wikipedia: Wilfred Harvey Schoff"
-    url: "https://en.wikipedia.org/wiki/Wilfred_Harvey_Schoff"
-    type: "wikipedia"
-  - name: "Wikisource: Periplus of the Erythraean Sea"
-    url: "https://en.wikisource.org/wiki/Periplus_of_the_Erythraean_Sea"
-    type: "wikisource"
-  - name: "Open Library: The Periplus of the"
-    url: "https://openlibrary.org/search?q=The+Periplus+of+the+Erythraean+Sea+Anonymous"
-    type: "other"
+- name: 'Wikipedia: Periplus of the Erythraean Sea'
+  url: https://en.wikipedia.org/wiki/Periplus_of_the_Erythraean_Sea
+  type: wikipedia
+- name: 'Wikipedia: Wilfred Harvey Schoff'
+  url: https://en.wikipedia.org/wiki/Wilfred_Harvey_Schoff
+  type: wikipedia
+- name: 'Wikisource: Periplus of the Erythraean Sea'
+  url: https://en.wikisource.org/wiki/Periplus_of_the_Erythraean_Sea
+  type: wikisource
+- name: 'Open Library: The Periplus of the'
+  url: https://openlibrary.org/search?q=The+Periplus+of+the+Erythraean+Sea+Anonymous
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 ## Ancient Maritime Trade Manual

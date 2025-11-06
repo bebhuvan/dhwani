@@ -1,28 +1,33 @@
 ---
-title: "Ancient India, 2000 B.C.-800 A.D."
-author: ["Romesh Chunder Dutt"]
+title: 'Ancient India, 2000 B.C.-800 A.D.'
+author:
+- Romesh Chunder Dutt
 year: 1904
-language: ["English"]
-genre: ["History"]
-description: "This 196-page historical survey examines three millennia of Indian civilization from the Vedic period through the early medieval era. Written by Romesh Chunder Dutt—the first Indian divisional commissioner in the Indian Civil Service and president of the Indian National Congress (1899)—the work covers political developments, social structures, and cultural achievements across pre-Mauryan India and the classical age."
-collections: ['ancient-wisdom', 'regional-voices']
+language:
+- English
+genre:
+- History
+description: |
+  Romesh Chunder Dutt's "Ancient India, 2000 B.C.-800 A.D." represents a pioneering scholarly examination of Indian civilization during its formative historical periods, offering a comprehensive historical survey that bridges indigenous historical understanding with emerging academic methodologies of the early 20th century. Drawing from extensive archival research and comparative historical analysis, the work meticulously traces Indian societal evolution from the Vedic period through the early medieval era, critically examining political structures, social transformations, and cultural developments across three millennia. Dutt's narrative systematically reconstructs India's complex historical trajectory, highlighting the intricate interactions between indigenous cultural formations, external migrations, and emerging political configurations. As a seminal work produced by an Indian scholar who was simultaneously a senior colonial administrator and nationalist intellectual, the text provides unique perspectives on Indian historical consciousness, balancing empirical documentation with nuanced interpretative frameworks. The monograph comprehensively explores critical periods including the Vedic settlements, Mauryan imperial consolidation, classical Sanskrit civilization, and early medieval regional transformations, offering detailed insights into administrative systems, economic structures, religious developments, and social hierarchies. Dutt's scholarly approach was groundbreaking for its time, presenting a rigorous, indigenous analytical perspective that challenged prevailing colonial historiographical narratives and contributed significantly to emerging nationalist historical scholarship. By synthesizing archaeological evidence, textual sources, and comparative historical analysis, the work established important methodological precedents for subsequent generations of Indian historians and remained an influential reference in understanding India's complex civilizational heritage.
+collections:
+- ancient-wisdom
+- regional-voices
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/ancientindia00dutt"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/ancientindia00dutt
+  type: other
 references:
-  - name: "Wikipedia: Romesh Chunder Dutt"
-    url: "https://en.wikipedia.org/wiki/Romesh_Chunder_Dutt"
-    type: "wikipedia"
-  - name: "Wikisource: Romesh Chunder Dutt"
-    url: "https://en.wikisource.org/wiki/Author:Romesh_Chunder_Dutt"
-    type: "wikisource"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=ancient+india+romesh+dutt&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Romesh Chunder Dutt'
+  url: https://en.wikipedia.org/wiki/Romesh_Chunder_Dutt
+  type: wikipedia
+- name: 'Wikisource: Romesh Chunder Dutt'
+  url: https://en.wikisource.org/wiki/Author:Romesh_Chunder_Dutt
+  type: wikisource
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=ancient+india+romesh+dutt&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-23
-tags: ["ancient India", "Indian history", "Romesh Chunder Dutt", "Vedic period", "Mauryan Empire", "Gupta Empire", "Indian National Congress", "colonial scholarship", "political history", "social history", "cultural history", "pre-Mauryan India"]
 ---
 
 # Ancient India, 2000 B.C.-800 A.D.

@@ -1,43 +1,49 @@
 ---
-title: "Kavitavali"
-author: ["Tulsidas"]
+title: 'Kavitavali'
+author:
+- Tulsidas
 year: 1600
-language: ["Braj Bhasha", "Hindi"]
-genre: ["Devotional Poetry", "Religious Literature", "Lyric Poetry"]
-description: "Collection of devotional poetry by Tulsidas composed in Braj Bhasha, celebrating Rama bhakti through diverse poetic forms and meters. Compiled circa 1600, contains passionate devotional verses expressing intense personal devotion, social commentary, philosophical reflection, and emotional intimacy with Rama. Differs from Ramcharitmanas in language, meter, and tone—more personal, immediate, and emotionally vulnerable. Showcases Tulsidas's mastery of Braj Bhasha poetic traditions and diversity of devotional expression."
-collections: ['classical-literature', 'devotional-literature', 'regional-literature']
+language:
+- Braj Bhasha
+- Hindi
+genre:
+- Devotional Poetry
+- Religious Literature
+- Lyric Poetry
+description: |
+  The Kavitavali represents a seminal devotional poetry collection by Tulsidas, composed during the late 16th century in the vibrant Braj Bhasha dialect, situated within the critical period of Bhakti literary and spiritual transformation in North India. Written approximately in 1600, this work emerges from the rich devotional traditions of Rama worship, embodying the sophisticated poetic and philosophical expressions of medieval Hindu spiritual culture. Tulsidas, a prominent saint-poet of the Ramanandi Vaishnava tradition, crafts intricate verses that explore complex theological and emotional dimensions of divine devotion, specifically centered on Lord Rama. The collection distinguishes itself from Tulsidas's more narrative Ramcharitmanas through its lyrical intimacy, employing diverse poetic meters and forms to articulate profound spiritual experiences and philosophical reflections. Each composition reveals nuanced emotional landscapes, ranging from intense personal surrender to broader social commentaries, thereby transcending simple religious exposition. Structurally, the Kavitavali represents a sophisticated example of Bhakti poetry, demonstrating remarkable linguistic complexity and emotional depth characteristic of the period's literary achievements. Its significance extends beyond religious literature, offering critical insights into social dynamics, theological debates, and the evolving linguistic practices of early modern North Indian intellectual traditions. By interweaving personal devotion with universal spiritual principles, Tulsidas creates a work that remains pivotal in understanding the intersection of literary expression, religious experience, and cultural transformation in pre-colonial Indian intellectual history.
+collections:
+- classical-literature
+- devotional-literature
+- regional-literature
 sources:
-  - name: "Wikisource Hindi"
-    url: "https://hi.wikisource.org/wiki/कवितावली"
-    type: "other"
-  - name: "Internet Archive (Hindi Text)"
-    url: "https://archive.org/details/kavitavali"
-    type: "other"
-  - name: "Hindi Samay (Digital Text)"
-    url: "https://www.hindisamay.com/"
-    type: "other"
-  - name: "Kavya Kosh"
-    url: "http://kavitakosh.org/"
-    type: "other"
+- name: 'Wikisource Hindi'
+  url: https://hi.wikisource.org/wiki/कवितावली
+  type: other
+- name: 'Internet Archive (Hindi Text)'
+  url: https://archive.org/details/kavitavali
+  type: other
+- name: 'Hindi Samay (Digital Text)'
+  url: https://www.hindisamay.com/
+  type: other
+- name: 'Kavya Kosh'
+  url: http://kavitakosh.org/
+  type: other
 references:
-  - name: "Wikipedia: Tulsidas"
-    url: "https://en.wikipedia.org/wiki/Tulsidas"
-    type: "wikipedia"
-  - name: "Wikipedia: Kavitavali"
-    url: "https://en.wikipedia.org/wiki/Kavitavali"
-    type: "wikipedia"
-  - name: "Wikipedia: Braj Bhasha literature"
-    url: "https://en.wikipedia.org/wiki/Braj_Bhasha_literature"
-    type: "wikipedia"
-  - name: "Hindi Wikipedia: Kavitavali"
-    url: "https://hi.wikipedia.org/wiki/कवितावली"
-    type: "wikipedia"
-  - name: "Open Library: Kavitavali year"
-    url: "https://openlibrary.org/search?q=Kavitavali+year+1600+language+Braj+Bhasha+Tulsidas"
-    type: "other"
+- name: 'Wikipedia: Tulsidas'
+  url: https://en.wikipedia.org/wiki/Tulsidas
+  type: wikipedia
+- name: 'Wikipedia: Braj Bhasha literature'
+  url: https://en.wikipedia.org/wiki/Braj_Bhasha_literature
+  type: wikipedia
+- name: 'Hindi Wikipedia: Kavitavali'
+  url: https://hi.wikipedia.org/wiki/कवितावली
+  type: wikipedia
+- name: 'Open Library: Kavitavali year'
+  url: https://openlibrary.org/search?q=Kavitavali+year+1600+language+Braj+Bhasha+Tulsidas
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['hindi', 'poetry-collection', 'religious']
 ---
 
 ## Authorship and Composition

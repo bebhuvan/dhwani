@@ -1,25 +1,29 @@
 ---
-title: "Folk Lore Notes. Vol. I—Gujarat"
-author: ["Jackson, A. M. T. (Arthur Mason Tippetts)"]
+title: 'Folk Lore Notes. Vol. I—Gujarat'
+author:
+- Jackson, A. M. T. (Arthur Mason Tippetts)
 year: 1894
-language: ["English"]
-genre: ["Classical Literature"]
-description: "A collection of folkloric materials from Gujarat documenting beliefs, practices, rituals, and local deities, offering insights into the rich tapestry of Indian folklore and cultural traditions."
-collections: ["classical-literature"]
+language:
+- English
+genre:
+- Classical Literature
+description: |
+  Folk Lore Notes. Vol. I—Gujarat represents a critical ethnographic documentation of Gujarati folk traditions during the late 19th century, compiled during a pivotal period of colonial scholarly engagement with indigenous cultural knowledge. Arthur Mason Tippetts Jackson, a British colonial administrator and ethnographer serving in the Bombay Presidency, meticulously collected and preserved intricate details of local beliefs, ritualistic practices, mythological narratives, and localized religious traditions that might otherwise have been marginalized or lost during rapid sociocultural transformations of the colonial era. The work provides an invaluable anthropological lens into the complex religious and cultural landscape of Gujarat, documenting diverse folk deities, community-specific ritual practices, oral narratives, and indigenous belief systems that formed the intricate social fabric of rural Gujarati communities during the late 19th century. Jackson's scholarly approach reflects the emerging anthropological methodologies of his time, characterized by systematic documentation and comparative analysis of cultural practices. Beyond its historical significance, the text serves as a critical primary source for understanding the nuanced cultural expressions of Gujarati society, offering contemporary scholars insights into social structures, religious syncretism, and the dynamic nature of folk traditions during a period of significant cultural transition. By capturing these cultural expressions with scholarly rigor, Jackson's work contributes substantially to the broader understanding of Indian regional cultural heritage, providing a detailed ethnographic record that bridges indigenous knowledge systems with emerging colonial-era scholarly practices. This volume remains a significant reference for researchers in anthropology, folklore studies, and Indian cultural history, preserving a complex cultural landscape at a moment of profound social change.
+collections:
+- classical-literature
 sources:
-- name: "Project Gutenberg"
-  url: "https://www.gutenberg.org/ebooks/56144"
-  type: "other"
-- name: "Project Gutenberg (HTML)"
-  url: "https://www.gutenberg.org/ebooks/56144.html.images"
-  type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/56144
+  type: other
+- name: 'Project Gutenberg (HTML)'
+  url: https://www.gutenberg.org/ebooks/56144.html.images
+  type: other
 references:
-- name: "Open Library: Folk Lore Notes Gujarat"
-  url: "https://openlibrary.org/search?q=Folk+Lore+Notes+Gujarat+Jackson"
-  type: "other"
+- name: 'Open Library: Folk Lore Notes Gujarat'
+  url: https://openlibrary.org/search?q=Folk+Lore+Notes+Gujarat+Jackson
+  type: other
 featured: false
 publishDate: 2025-11-01
-tags: ["public domain", "Jackson, A. M. T.", "folklore"]
 ---
 
 # Folk Lore Notes. Vol. I—Gujarat

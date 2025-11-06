@@ -1,28 +1,37 @@
 ---
-title: "The Tuzuk-i-Jahāngīrī: Memoirs of Jahangir"
-author: ["Jahāngīr, Emperor of Hindustan", "tr. Alexander Rogers", "ed. Henry Beveridge"]
+title: 'The Tuzuk-i-Jahāngīrī: Memoirs of Jahangir'
+author:
+- Jahāngīr, Emperor of Hindustan
+- tr. Alexander Rogers
+- ed. Henry Beveridge
 year: 1909
-language: ["English", "Persian"]
-genre: ["Autobiography", "Historical Literature", "Royal Memoirs"]
-description: "The Tuzuk-i-Jahāngīrī ('Institutes of Jahangir') is Jahāngīr's (1569-1627) autobiography covering his first nineteen years as Mughal Emperor (1605-1624). Rogers' translation (completed posthumously by Beveridge, 1909-1914) made this primary source accessible to Western scholarship, documenting Mughal India at its cultural zenith."
-collections: ['modern-literature']
+language:
+- English
+- Persian
+genre:
+- Autobiography
+- Historical Literature
+- Royal Memoirs
+description: |
+  The Tuzuk-i-Jahāngīrī ('Institutes of Jahangir') represents a seminal autobiographical text documenting the early 17th-century Mughal imperial experience, providing an intimate first-hand narrative of governance, cultural dynamics, and imperial expansion during a pivotal period of South Asian history. Authored by Emperor Jahāngīr (1569-1627), the memoir chronicles his initial nineteen years of rule (1605-1624), encompassing a transformative era in the Mughal Empire's trajectory. As the son of Akbar the Great and a key figure in the dynasty's intellectual and political evolution, Jahāngīr meticulously records administrative practices, diplomatic encounters, artistic patronage, and personal reflections that illuminate the sophisticated mechanisms of Mughal statecraft. The text is particularly significant for its nuanced perspectives on religious pluralism, cultural synthesis, and imperial administration, reflecting the complex sociopolitical landscape of an empire stretching from Afghanistan to the Deccan. Jahāngīr's narrative provides critical insights into court life, imperial ceremonies, architectural developments, and the intricate networks of power that characterized the Mughal political system. The work's scholarly value is enhanced by its detailed observations of contemporary social practices, theological debates, and intercultural interactions, making it an essential primary source for understanding the intellectual and administrative sophistication of Mughal India. Rogers' translation, completed posthumously by Beveridge between 1909-1914, rendered this crucial historical document accessible to global scholarship, facilitating deeper comprehension of one of the most remarkable periods in Indian historical and cultural development.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/tuzukijahangirio00jahauoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/tuzukijahangirio00jahauoft
+  type: other
 references:
-  - name: "Wikipedia: Jahangir"
-    url: "https://en.wikipedia.org/wiki/Jahangir"
-    type: "wikipedia"
-  - name: "Wikipedia: Tuzk-e-Jahangiri"
-    url: "https://en.wikipedia.org/wiki/Tuzk-e-Jahangiri"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Tuzuk-i-Jahangiri+Memoirs+Jahangir&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Jahangir'
+  url: https://en.wikipedia.org/wiki/Jahangir
+  type: wikipedia
+- name: 'Wikipedia: Tuzk-e-Jahangiri'
+  url: https://en.wikipedia.org/wiki/Tuzk-e-Jahangiri
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Tuzuk-i-Jahangiri+Memoirs+Jahangir&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-21
-tags: ["Mughal Empire", "Jahangir", "17th century", "Royal memoirs", "Indian History", "Autobiography", "Persian literature", "Akbar", "Nur Jahan", "Mughal painting", "Natural history", "Indo-Persian culture", "Imperial administration", "Alexander Rogers", "Henry Beveridge", "Primary source"]
 ---
 
 # The Tuzuk-i-Jahāngīrī: Memoirs of Jahangir

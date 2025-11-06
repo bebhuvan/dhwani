@@ -1,43 +1,53 @@
 ---
-title: "Vishnu Purana"
-author: ["Vyasa (attributed)"]
+title: 'Vishnu Purana'
+author:
+- Vyasa (attributed)
 year: 400
-language: ["Sanskrit", "English"]
-genre: ["Religious Texts", "Mythology", "Classical Literature"]
-description: "The Vishnu Purana stands among the eighteen Mahapuranas as one of the most important Vaishnava texts, systematically presenting cosmology, mythology, genealogies, and devotional theology centered on Vishnu as supreme deity. Composed between 3rd-10th centuries CE (with core material likely 400-500 CE), this work of approximately 23,000 verses across six books (amshas) covers: creation cosmology and cosmic cycles (kalpas and yugas), earth's geography including the mythical continents, detailed genealogies of gods and kings tracing solar and lunar dynasties, Krishna's complete life story from birth through death, and teachings on dharma, worship, and liberation through Vishnu devotion. H.H. Wilson's pioneering English translation (1840) made this foundational Puranic text accessible to Western scholarship, revealing sophisticated theological synthesis of Vedic, epic, and devotional traditions. The Vishnu Purana's influence on Hindu theology, iconography, and devotional practice proves foundational, establishing narrative and doctrinal frameworks for Vaishnavism across regional and sectarian boundaries."
-collections: ['religious-texts', 'classical-literature', 'devotional-literature', 'ancient-wisdom']
+language:
+- Sanskrit
+- English
+genre:
+- Religious Texts
+- Mythology
+- Classical Literature
+description: |
+  The Vishnu Purana is a significant Vaishnava text among the eighteen Mahapuranas, compiled between the 3rd and 10th centuries CE, with core material likely dating to 400-500 CE. This comprehensive work spans approximately 23,000 verses across six books (amshas), providing a systematic exploration of cosmological, mythological, genealogical, and theological concepts centered on Vishnu. The text methodically addresses multiple scholarly domains: creation cosmology and cosmic cycles (kalpas and yugas), detailed geographical descriptions including mythical continents, extensive genealogical records of gods and royal lineages tracing solar and lunar dynasties, a complete narrative of Krishna's life from birth to death, and substantive philosophical discussions on dharma, ritual worship, and spiritual liberation through Vishnu devotion. H.H. Wilson's 1840 English translation critically enabled Western academic engagement with this complex Puranic text, facilitating scholarly analysis of its intricate theological synthesis integrating Vedic, epic, and devotional traditions. Scholarly examination demonstrates the Vishnu Purana's significant scholarly contribution to understanding Hindu theological development, particularly in establishing narrative and doctrinal frameworks that influenced Vaishnava religious thought across regional and sectarian contexts. Its comprehensive documentation of religious and cultural genealogies provides crucial insights into the intellectual and spiritual structures of classical Indian religious philosophy.
+collections:
+- religious-texts
+- classical-literature
+- devotional-literature
+- ancient-wisdom
 sources:
-  - name: "Project Gutenberg (M.N. Dutt & H.H. Wilson translation)"
-    url: "https://www.gutenberg.org/ebooks/66208"
-    type: "other"
-  - name: "Internet Archive (H.H. Wilson translation, 1840)"
-    url: "https://archive.org/details/vishnu-purana-wilson"
-    type: "other"
+- name: 'Project Gutenberg (M.N. Dutt & H.H. Wilson translation)'
+  url: https://www.gutenberg.org/ebooks/66208
+  type: other
+- name: 'Internet Archive (H.H. Wilson translation, 1840)'
+  url: https://archive.org/details/vishnu-purana-wilson
+  type: other
 references:
-  - name: "Wikipedia: Vishnu Purana"
-    url: "https://en.wikipedia.org/wiki/Vishnu_Purana"
-    type: "wikipedia"
-  - name: "Wikipedia: Puranas"
-    url: "https://en.wikipedia.org/wiki/Puranas"
-    type: "wikipedia"
-  - name: "Wikipedia: Vishnu"
-    url: "https://en.wikipedia.org/wiki/Vishnu"
-    type: "wikipedia"
-  - name: "Wikipedia: Vaishnavism"
-    url: "https://en.wikipedia.org/wiki/Vaishnavism"
-    type: "wikipedia"
-  - name: "Wikipedia: Krishna"
-    url: "https://en.wikipedia.org/wiki/Krishna"
-    type: "wikipedia"
-  - name: "Wikisource: Vishnu Purana (H.H. Wilson translation, 1840)"
-    url: "https://en.wikisource.org/wiki/Vishnu_purana"
-    type: "wikisource"
-  - name: "Open Library: Vishnu Purana year"
-    url: "https://openlibrary.org/search?q=Vishnu+Purana+year+400+language+Sanskrit+Vyasa+attributed"
-    type: "other"
+- name: 'Wikipedia: Vishnu Purana'
+  url: https://en.wikipedia.org/wiki/Vishnu_Purana
+  type: wikipedia
+- name: 'Wikipedia: Puranas'
+  url: https://en.wikipedia.org/wiki/Puranas
+  type: wikipedia
+- name: 'Wikipedia: Vishnu'
+  url: https://en.wikipedia.org/wiki/Vishnu
+  type: wikipedia
+- name: 'Wikipedia: Vaishnavism'
+  url: https://en.wikipedia.org/wiki/Vaishnavism
+  type: wikipedia
+- name: 'Wikipedia: Krishna'
+  url: https://en.wikipedia.org/wiki/Krishna
+  type: wikipedia
+- name: 'Wikisource: Vishnu Purana (H.H. Wilson translation, 1840)'
+  url: https://en.wikisource.org/wiki/Vishnu_purana
+  type: wikisource
+- name: 'Open Library: Vishnu Purana year'
+  url: https://openlibrary.org/search?q=Vishnu+Purana+year+400+language+Sanskrit+Vyasa+attributed
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical-literature', 'religious', 'purana']
 ---
 
 # The Vishnu Purana (Wilson Translation)

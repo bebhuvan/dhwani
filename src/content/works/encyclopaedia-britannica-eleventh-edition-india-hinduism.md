@@ -1,31 +1,40 @@
 ---
-title: "Encyclopaedia Britannica, Eleventh Edition: Articles on India and Hinduism"
-author: ["Various Contributors", "James Sutherland Cotton", "William Wilson Hunter"]
+title: 'Encyclopaedia Britannica, Eleventh Edition: Articles on India and Hinduism'
+author:
+- Various Contributors
+- James Sutherland Cotton
+- William Wilson Hunter
 year: 1910
-language: ["English"]
-genre: ["Reference Work", "Encyclopedia", "Academic Study"]
-description: "The 1910-1911 eleventh Encyclopaedia Britannica edition featured comprehensive India and Hinduism articles representing apex colonial-era scholarship. The 'Scholar's Edition' synthesized existing knowledge for educated audiences."
-collections: ["modern-literature", "regional-voices"]
+language:
+- English
+genre:
+- Reference Work
+- Encyclopedia
+- Academic Study
+description: |
+  The eleventh edition of the Encyclopaedia Britannica, published in 1910-1911, represents a pivotal scholarly compendium of colonial-era knowledge about India, offering a comprehensive intellectual landscape of Indian civilization during the late British imperial period. Key contributors like James Sutherland Cotton and William Wilson Hunter, distinguished colonial administrators and scholarly experts, compiled extensively researched articles that synthesized anthropological, historical, linguistic, and cultural insights about the Indian subcontinent. These scholarly entries critically examined India's complex social structures, religious traditions, linguistic diversity, historical developments, and cultural practices through a sophisticated academic lens that reflected both empirical scholarship and colonial perspectives. The encyclopedic entries provided detailed examinations of Hinduism, exploring philosophical systems, theological concepts, ritual practices, and societal implications with remarkable analytical depth. Notably, the articles represented a significant moment in cross-cultural knowledge production, documenting Indian cultural heritage at a critical juncture of imperial interaction and emerging nationalist consciousness. The scholarly contributions captured intricate details of regional variations, philosophical schools, religious movements, and social institutions, serving as an important historical record of scholarly understanding during a transformative period of Indian intellectual and cultural engagement. While inevitably shaped by colonial epistemological frameworks, these articles nonetheless preserved substantial ethnographic and historical information, offering contemporary scholars a nuanced window into early 20th-century interpretations of Indian civilization. The 'Scholar's Edition' remained an authoritative reference work, bridging metropolitan scholarly networks and colonial knowledge production about the Indian subcontinent.
+collections:
+- modern-literature
+- regional-voices
 sources:
-  - name: "Project Gutenberg (Hinduism article)"
-    url: "https://www.gutenberg.org/ebooks/39232"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/dli.bengal.10689.10189"
-    type: "other"
-  - name: "Wikisource: 1911 Encyclopaedia Britannica/India"
-    url: "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/India"
-    type: "other"
+- name: 'Project Gutenberg (Hinduism article)'
+  url: https://www.gutenberg.org/ebooks/39232
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/dli.bengal.10689.10189
+  type: other
+- name: 'Wikisource: 1911 Encyclopaedia Britannica/India'
+  url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/India
+  type: other
 references:
-  - name: "Wikipedia: Encyclopaedia Britannica Eleventh Edition"
-    url: "https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition"
-    type: "wikipedia"
-  - name: "Open Library: Encyclopaedia Britannica"
-    url: "https://openlibrary.org/works/OL16326600W/The_Encyclopaedia_Britannica_1910"
-    type: "other"
+- name: 'Wikipedia: Encyclopaedia Britannica Eleventh Edition'
+  url: https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition
+  type: wikipedia
+- name: 'Open Library: Encyclopaedia Britannica'
+  url: https://openlibrary.org/works/OL16326600W/The_Encyclopaedia_Britannica_1910
+  type: other
 featured: true
 publishDate: 2025-10-04
-tags: ["Encyclopaedia Britannica", "1911 edition", "India", "Hinduism", "reference work", "colonial knowledge", "Edwardian scholarship", "British Raj", "Oriental studies", "encyclopedic writing", "imperial administration"]
 ---
 
 # Encyclopaedia Britannica, Eleventh Edition: Articles on India and Hinduism

@@ -1,25 +1,32 @@
 ---
-title: "A Short Guide to the Buddhist Remains Excavated at Nalanda"
-author: ["Kuraishi"]
+title: 'A Short Guide to the Buddhist Remains Excavated at Nalanda'
+author:
+- Kuraishi
 year: 1931
-language: ["English"]
-genre: ["Archaeology", "Guidebook", "Buddhist Studies"]
-description: "Kuraishi's concise 1931 Archaeological Survey of India guidebook documents early excavations at Nalanda Mahavihara, ancient Buddhist monastic university (5th-12th centuries CE). The guide orients visitors to excavated monasteries, temples, and stupas, explaining architectural features and historical significance of this major center of Buddhist learning that attracted students from across Asia before its 12th-century destruction."
-collections: ['ancient-wisdom', 'modern-literature']
+language:
+- English
+genre:
+- Archaeology
+- Guidebook
+- Buddhist Studies
+description: |
+  Kuraishi's "A Short Guide to the Buddhist Remains Excavated at Nalanda" represents a pivotal archaeological documentation of one of the most significant Buddhist monastic universities in medieval India, situated in present-day Bihar. Published in 1931 during the late colonial period, the guidebook emerged at a critical moment of archaeological investigation and historical reconstruction, when Indian scholars were systematically documenting cultural heritage sites under the Archaeological Survey of India. The work provides a comprehensive scholarly overview of Nalanda Mahavihara, a renowned international center of Buddhist learning that flourished from the 5th to 12th centuries CE, attracting scholars from across Asia, including China, Korea, and Southeast Asia. Kuraishi's meticulous documentation captures the complex architectural layouts of monasteries, temples, and stupas, offering detailed insights into the spatial organization, constructional techniques, and cultural practices of this extraordinary educational institution. The guide is particularly significant in contextualizing Nalanda within broader narratives of Indian intellectual history, demonstrating how this monastic university represented a sophisticated model of transnational knowledge transmission and cross-cultural academic exchange. By carefully documenting the archaeological remains, Kuraishi contributes to understanding the intellectual sophistication of medieval Indian Buddhist civilization, highlighting the site's importance as a global center of learning that embodied principles of philosophical inquiry, religious scholarship, and cosmopolitan academic discourse. The work serves not merely as an archaeological record but as a critical text reconstructing India's complex intellectual heritage during a period of emerging national consciousness and scholarly reappraisal of indigenous historical narratives.
+collections:
+- ancient-wisdom
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.95725"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.95725
+  type: other
 references:
-  - name: "Wikipedia: Nalanda"
-    url: "https://en.wikipedia.org/wiki/Nalanda"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Short+Guide+Buddhist+Remains+Nalanda+Kuraishi&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Nalanda'
+  url: https://en.wikipedia.org/wiki/Nalanda
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Short+Guide+Buddhist+Remains+Nalanda+Kuraishi&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-22
-tags: ["Nalanda", "Kuraishi", "Buddhist archaeology", "Archaeological Survey of India", "Site guide", "Buddhist monasteries", "Bihar", "Excavations", "1930s archaeology", "Buddhist architecture", "Ancient education", "Mahavihara", "Buddhist antiquities"]
 ---
 
 # A Short Guide to the Buddhist Remains Excavated at Nalanda
@@ -43,4 +50,3 @@ Documents early archaeological understanding of Nalanda, provides snapshot of 19
 ## How to Access
 
 Available through Internet Archive (Digital Library of India, Government Central Press publication), public domain, freely accessible.
-

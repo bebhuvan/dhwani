@@ -1,25 +1,32 @@
 ---
-title: "Travels in the Mogul Empire, A.D. 1656-1668"
-author: ["François Bernier"]
+title: 'Travels in the Mogul Empire, A.D. 1656-1668'
+author:
+- François Bernier
 year: 1916
-language: ["English", "French"]
-genre: ["Travel Literature", "Historical Literature", "Political Economy"]
-description: "French physician-philosopher François Bernier's twelve-year Mughal India account (1656-1668) offers systematic analysis of political economy, social organization, religious philosophy, and comparative civilizations—transcending typical travel literature. Bernier arrived during the succession war (1657-1659) following Shah Jahan's illness."
-collections: ['modern-literature']
+language:
+- English
+- French
+genre:
+- Travel Literature
+- Historical Literature
+- Political Economy
+description: |
+  François Bernier's "Travels in the Mogul Empire" represents a pivotal ethnographic and political narrative documenting the complex socio-political landscape of mid-17th century Mughal India during a critical transitional period. A French physician and philosopher associated with the intellectual circles of René Descartes, Bernier spent twelve years (1656-1668) systematically observing and analyzing the Mughal imperial system, arriving during the tumultuous succession war between Shah Jahan's sons Dara Shikoh and Aurangzeb. His comprehensive account transcends conventional travel literature by offering nuanced insights into Mughal political economy, administrative structures, religious dynamics, and comparative civilizational analysis. Bernier's work is particularly distinguished by his sophisticated observations on land ownership, economic systems, and social hierarchies, providing European readers with an unprecedented detailed understanding of Mughal governance and cultural complexity. His critical perspectives on monarchical power, agrarian economics, and societal stratification drew significantly from his direct interactions with Mughal courtiers and extensive travels across North Indian territories. As an early Enlightenment-era intellectual, Bernier applied empirical methodologies to understanding Indian social structures, challenging contemporary European misconceptions and presenting a relatively sophisticated anthropological examination of Mughal civilization. His narratives significantly influenced subsequent European intellectual discourse about India, bridging epistemological gaps and providing foundational texts for emerging comparative historical and cultural studies. Bernier's account remains a crucial primary source for understanding 17th-century Indian political, economic, and social transformations, offering scholars a nuanced European perspective on a complex imperial society during a pivotal historical moment.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/travelsinmogulem00bernuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/travelsinmogulem00bernuoft
+  type: other
 references:
-  - name: "Wikipedia: François Bernier"
-    url: "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Bernier"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Travels+Mogul+Empire+Bernier&mode=everything"
-    type: "other"
+- name: 'Wikipedia: François Bernier'
+  url: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Bernier
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Travels+Mogul+Empire+Bernier&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-21
-tags: ["François Bernier", "Mughal Empire", "17th century", "Aurangzeb", "Travel literature", "Political economy", "Oriental despotism", "Kashmir", "French travelers", "Enlightenment", "Comparative civilization", "Land tenure", "Primary source", "Indian History"]
 ---
 
 # Travels in the Mogul Empire, A.D. 1656-1668

@@ -1,28 +1,35 @@
 ---
-title: "A Vedic Reader for Students"
-author: ["Arthur Anthony Macdonell"]
+title: 'A Vedic Reader for Students'
+author:
+- Arthur Anthony Macdonell
 year: 1917
-language: ["English", "Sanskrit"]
-genre: ["Religious Text", "Language Study"]
-description: "Arthur Anthony Macdonell's pedagogical anthology presents thirty carefully selected hymns and prose passages from the Rigveda and related Vedic literature for Oxford students learning Sanskrit. Published as Oxford's Boden Professor, this reader combines accessible texts with grammatical notes and vocabulary, introducing students to Vedic language and thought through representative selections demonstrating linguistic and thematic range."
-collections: ["ancient-wisdom", "spiritual-texts"]
+language:
+- English
+- Sanskrit
+genre:
+- Religious Text
+- Language Study
+description: |
+  Arthur Anthony Macdonell's "A Vedic Reader for Students" represents a pivotal scholarly contribution to understanding early Vedic Sanskrit literature and linguistic traditions during the late colonial period of Indological scholarship. Published in 1917 while Macdonell served as the Boden Professor of Sanskrit at Oxford University, this carefully curated pedagogical anthology offers thirty meticulously selected hymns and prose passages from the Rigveda and related Vedic textual traditions. The work critically bridges European academic approaches with the profound textual heritage of ancient Indian philosophical and religious thought. Macdonell, a distinguished Orientalist and linguist, provides comprehensive grammatical annotations and translations that illuminate the complex linguistic structures and conceptual nuances of Vedic Sanskrit, making these challenging texts accessible to students and researchers. The anthology spans religious invocations, philosophical reflections, and mythological narratives, offering insights into the intellectual and spiritual landscape of early Indo-Aryan civilization. By presenting representative texts that demonstrate both linguistic complexity and thematic diversity, Macdonell's reader serves not merely as a language instruction tool but as a scholarly gateway to understanding the sophisticated intellectual and cultural systems embedded in Vedic literature. The work's significance extends beyond linguistic pedagogy, providing critical interpretative frameworks for comprehending the philosophical, ritualistic, and cosmological dimensions of early Indian intellectual traditions. Macdonell's scholarly approach exemplifies the nuanced cross-cultural academic engagement characteristic of early 20th-century comparative religious and linguistic studies, making this reader an enduring resource for understanding the textual foundations of Indian cultural and intellectual heritage.
+collections:
+- ancient-wisdom
+- spiritual-texts
 sources:
-  - name: "Internet Archive (University of Toronto)"
-    url: "https://archive.org/details/vedicreaderforst00macd"
-    type: "other"
+- name: 'Internet Archive (University of Toronto)'
+  url: https://archive.org/details/vedicreaderforst00macd
+  type: other
+references:
+- name: 'Wikipedia: Arthur Anthony Macdonell'
+  url: https://en.wikipedia.org/wiki/Arthur_Anthony_Macdonell
+  type: wikipedia
+- name: 'Wikipedia: Vedic Sanskrit'
+  url: https://en.wikipedia.org/wiki/Vedic_Sanskrit
+  type: wikipedia
+- name: 'Open Library Search'
+  url: https://openlibrary.org/search?q=A+Vedic+reader+for+students
+  type: other
 featured: false
 publishDate: 2025-10-22
-references:
-  - name: "Wikipedia: Arthur Anthony Macdonell"
-    url: "https://en.wikipedia.org/wiki/Arthur_Anthony_Macdonell"
-    type: "wikipedia"
-  - name: "Wikipedia: Vedic Sanskrit"
-    url: "https://en.wikipedia.org/wiki/Vedic_Sanskrit"
-    type: "wikipedia"
-  - name: "Open Library Search"
-    url: "https://openlibrary.org/search?q=A+Vedic+reader+for+students"
-    type: "other"
-tags: ["Rigveda", "Sanskrit education", "Philology", "Hindu scriptures", "Language pedagogy"]
 ---
 
 # A Vedic Reader for Students

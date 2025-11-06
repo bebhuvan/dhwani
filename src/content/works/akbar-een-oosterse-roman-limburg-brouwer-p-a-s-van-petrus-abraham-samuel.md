@@ -8,13 +8,13 @@ language:
 genre:
 - Fiction
 - Religious Literature
-description: 'Akbar: een oosterse roman is a work from the Indian literary tradition,
-  available in the public domain.'
+description: |
+  "Akbar: een oosterse roman" is a significant mid-19th century Dutch literary work exploring the historical and cultural landscape of Mughal India through a fictional narrative centered on Emperor Akbar. Written by Petrus Abraham Samuel van Limburg Brouwer in 1858, the novel represents an important example of European literary engagement with Indian historical and cultural themes during the colonial period. Set during the expansive reign of Akbar the Great (1556-1605), a period marked by significant cultural synthesis and religious tolerance, the work offers a nuanced exploration of cross-cultural interactions, religious pluralism, and imperial dynamics in the Mughal Empire. Van Limburg Brouwer, a Dutch scholar and diplomat with extensive knowledge of Eastern cultures, crafted the novel as an intellectual meditation on religious understanding and political governance. The narrative likely examines Akbar's renowned policy of Din-i-Ilahi, a syncretic religious approach that sought to blend elements from multiple faith traditions, reflecting the emperor's commitment to religious dialogue and cultural integration. By presenting a sophisticated fictional account of this complex historical period, the work contributes to European scholarly discourse on Indian civilization, challenging contemporary orientalist perspectives and providing a more nuanced representation of Mughal cultural complexity. As a literary artifact, the novel represents an important intersection between European literary traditions and Indian historical imagination, offering insights into cross-cultural perceptions and interpretations of Indian history during the 19th century's colonial intellectual environment.
 sources:
-- name: Project Gutenberg
+- name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/6712
   type: other
-- name: Project Gutenberg (HTML)
+- name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/6712.html.images
   type: other
 references:

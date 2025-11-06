@@ -1,22 +1,28 @@
 ---
-title: "Akbar the Great Mogul, 1542-1605"
-author: ["Vincent Arthur Smith"]
+title: 'Akbar the Great Mogul, 1542-1605'
+author:
+- Vincent Arthur Smith
 year: 1917
-language: ["English"]
-genre: ["Biography", "History"]
-description: "Published in 1917, Vincent Arthur Smith's biography of Akbar stands as the definitive English-language study of India's most celebrated emperor. Smith balances admiration for Akbar's achievements with critical analysis of his autocracy, military brutality, and the contradictions between his tolerant ideals and political pragmatism."
-collections: ['modern-literature', 'spiritual-texts']
+language:
+- English
+genre:
+- Biography
+- History
+description: |
+  Vincent Arthur Smith's "Akbar the Great Mogul, 1542-1605" represents a seminal scholarly examination of one of the most transformative figures in Mughal imperial history, offering a comprehensive biographical analysis of Emperor Akbar during the zenith of the Mughal Empire's cultural and political expansion. Published in 1917, the work emerges from Smith's extensive archival research and deep engagement with Persian and contemporary historical sources, providing a nuanced portrait of Akbar's complex reign from 1556 to 1605. As a British imperial historian and archaeologist with significant experience in Indian historical studies, Smith critically evaluates Akbar's multifaceted achievements, exploring his administrative innovations, religious tolerance, and imperial strategies that fundamentally reshaped the sociopolitical landscape of the Indian subcontinent. The biography meticulously examines Akbar's administrative reforms, including his sophisticated revenue systems, military reorganization, and pioneering attempts at religious syncretism through his philosophical construct of Din-i-Ilahi. Smith balances scholarly objectivity with analytical depth, critically assessing Akbar's autocratic tendencies while acknowledging his remarkable diplomatic and cultural achievements. The work provides significant insights into Mughal governance, imperial expansion, and the intricate interactions between political power and cultural synthesis. By contextualizing Akbar within the broader dynamics of sixteenth-century South Asian politics and intellectual currents, Smith's biography remains a foundational text for understanding the architectural, administrative, and philosophical foundations of the Mughal imperial system, offering scholars and historians a rigorous, comprehensive exploration of one of India's most consequential rulers.
+collections:
+- modern-literature
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/akbargreatmogul100smituoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/akbargreatmogul100smituoft
+  type: other
 references:
-  - name: "Open Library: Akbar the Great Mogul"
-    url: "https://openlibrary.org/search?q=Akbar+Great+Mogul+Vincent+Arthur+Smith"
-    type: "other"
+- name: 'Open Library: Akbar the Great Mogul'
+  url: https://openlibrary.org/search?q=Akbar+Great+Mogul+Vincent+Arthur+Smith
+  type: other
 featured: true
 publishDate: 2025-10-02
-tags: ["Akbar", "Mughal Empire", "Vincent Arthur Smith", "religious tolerance", "Din-i-Ilahi", "Fatehpur Sikri", "Mughal administration", "Indo-Persian culture", "16th century India", "imperial biography"]
 ---
 
 # Akbar the Great Mogul, 1542-1605
@@ -56,4 +62,3 @@ Yet Smith's work remains valuable. His use of multiple source traditions, willin
 ## Legacy
 
 Smith's *Akbar the Great Mogul* shaped English-language understanding of the emperor for decades. Subsequent biographies by Indian and Western scholars have added new interpretations, sources, and theoretical frameworks, but Smith's work established the foundation. For students of Mughal history, Smith remains essential—both for his historical insights and as artifact of colonial historiography at its most sophisticated.
-

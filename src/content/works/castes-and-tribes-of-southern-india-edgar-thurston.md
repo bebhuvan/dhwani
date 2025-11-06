@@ -1,28 +1,35 @@
 ---
-title: "Castes and Tribes of Southern India"
-author: ["Edgar Thurston", "K. Rangachari"]
+title: 'Castes and Tribes of Southern India'
+author:
+- Edgar Thurston
+- K. Rangachari
 year: 1909
-language: ["English"]
-genre: ["Ethnography", "Anthropology", "Social History"]
-description: "Edgar Thurston and K. Rangachari's 1909 comprehensive ethnographic survey documents over 400 South Indian communities, detailing customs, occupations, and religious practices across multiple volumes. survey, conducted as Superintendent of the Madras Government Museum, represents colonial-era ethnographic documentation at its most detailed—preserving knowledge of traditional social structures, occupational specializations, ritual practices, and cultural variations before 20th-century social transformations. Despite its problematic racial classification frameworks and colonial gaze, the work remains an invaluable historical source for understanding early 20th-century South Indian social organization, caste diversity, tribal cultures, and regional variations—providing baseline documentation for studying social change, occupational shifts, and cultural continuities in modern South India."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Ethnography
+- Anthropology
+- Social History
+description: |
+  Published in 1909 during the late British colonial period, a time of intense anthropological documentation and imperial knowledge-gathering, this comprehensive ethnographic survey emerged as part of a broader scholarly project to systematically catalog and classify Indian social structures. The work was produced during Edgar Thurston's tenure as Superintendent of the Madras Government Museum (1885-1909), a period marked by growing British imperial interest in understanding and taxonomizing the complex social landscapes of South India as a means of administrative and cultural control. Edgar Thurston and K. Rangachari's 1909 comprehensive ethnographic survey documents over 400 South Indian communities, detailing customs, occupations, and religious practices across multiple volumes. Survey, conducted as Superintendent of the Madras Government Museum, represents colonial-era ethnographic documentation at its most detailed—preserving knowledge of traditional social structures, occupational specializations, ritual practices, and cultural variations before 20th-century social transformations. Despite its problematic racial classification frameworks and colonial gaze, the work remains an invaluable historical source for understanding early 20th-century South Indian social organization, caste diversity, tribal cultures, and regional variations—providing baseline documentation for studying social change, occupational shifts, and cultural continuities in modern South India.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/castestribesofso02thuruoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/castestribesofso02thuruoft
+  type: other
 references:
-  - name: "Wikipedia: Edgar Thurston"
-    url: "https://en.wikipedia.org/wiki/Edgar_Thurston"
-    type: "wikipedia"
-  - name: "Wikipedia: Caste system in India"
-    url: "https://en.wikipedia.org/wiki/Caste_system_in_India"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Castes+Tribes+Southern+India+Thurston&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Edgar Thurston'
+  url: https://en.wikipedia.org/wiki/Edgar_Thurston
+  type: wikipedia
+- name: 'Wikipedia: Caste system in India'
+  url: https://en.wikipedia.org/wiki/Caste_system_in_India
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Castes+Tribes+Southern+India+Thurston&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-21
-tags: ["Edgar Thurston", "Castes", "Tribes", "South India", "Ethnography", "Anthropology", "Social structure", "20th century", "Colonial India", "Traditional occupations"]
 ---
 
 # Castes and Tribes of Southern India

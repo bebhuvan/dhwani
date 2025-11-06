@@ -1,28 +1,38 @@
 ---
-title: "Modern Religious Movements in India"
-author: ["J.N. Farquhar"]
+title: 'Modern Religious Movements in India'
+author:
+- J.N. Farquhar
 year: 1915
-language: ["English"]
-genre: ["Religious Studies", "History", "Social Reform"]
-description: "Farquhar's *Modern Religious Movements in India* (1915) remains the most comprehensive contemporary analysis of Hindu reform and revival movements that emerged during the 19th and early 20th centuries in response to colonial encounter, Western criticism, and Christian missionary challenge. monotheistic reforms; Arya Samaj's Vedic revivalism; Ramakrishna Mission's neo-Vedanta universalism; Theosophical Society's esoteric synthesis; Cow Protection movements; social reform efforts against sati, child marriage, caste discrimination; educational initiatives; nationalist religious thought. Written from a Christian missionary perspective yet remarkably comprehensive and relatively fair, the work documents movements reshaping Hindu self-understanding in response to colonial encounter—movements that modernized Hindu practice, articulated Hinduism as coherent 'world religion,' connected religious reform with nationalist politics, and produced enduring institutions. Despite its missionary framework and evolutionary assumptions about religion, Farquhar's detailed documentation of organizations, leaders, publications, and ideologies provides essential source material for understanding how modern Hinduism took shape and how religious reform movements contributed to Indian nationalism."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Religious Studies
+- History
+- Social Reform
+description: |
+  J.N. Farquhar's *Modern Religious Movements in India* (1915) provides a comprehensive historical analysis of Hindu reform and revival movements during the late 19th and early 20th centuries. The work systematically documents religious, social, and political transformations triggered by colonial encounters, Western critiques, and Christian missionary interactions. Farquhar examines multiple significant movements, including monotheistic reforms, Arya Samaj's Vedic revivalism, Ramakrishna Mission's neo-Vedanta universalism, Theosophical Society's syncretic approaches, Cow Protection movements, and various social reform efforts addressing practices like sati, child marriage, and caste discrimination.
+  
+  Written from a Christian missionary perspective, the text offers a detailed scholarly documentation of organizations, leaders, publications, and ideological frameworks that reshaped Hindu religious self-understanding. Farquhar's methodology critically analyzes how these movements modernized Hindu practices, articulated Hinduism as a coherent global religious tradition, and interconnected religious reform with emerging nationalist political discourse. While the work reflects the epistemological limitations of its colonial-era perspective—including evolutionary assumptions about religious development—it remains a significant primary source for understanding the institutional and intellectual transformations within Hinduism during a period of profound cultural negotiation.
+  
+  The text's scholarly contribution lies in its systematic documentation of how religious reform movements directly influenced and were influenced by the broader context of Indian nationalism, providing researchers with extensive archival material about religious institutional development in early 20th-century India.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/modernreligiousm00farquoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/modernreligiousm00farquoft
+  type: other
 references:
-  - name: "Wikipedia: J. N. Farquhar"
-    url: "https://en.wikipedia.org/wiki/J._N._Farquhar"
-    type: "wikipedia"
-  - name: "Wikipedia: Hindu reform movements"
-    url: "https://en.wikipedia.org/wiki/Hindu_reform_movements"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Modern+Religious+Movements+India+Farquhar&mode=everything"
-    type: "other"
+- name: 'Wikipedia: J. N. Farquhar'
+  url: https://en.wikipedia.org/wiki/J._N._Farquhar
+  type: wikipedia
+- name: 'Wikipedia: Hindu reform movements'
+  url: https://en.wikipedia.org/wiki/Hindu_reform_movements
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Modern+Religious+Movements+India+Farquhar&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-21
-tags: ["Religious reform", "Hinduism", "Brahmo Samaj", "Arya Samaj", "Ramakrishna Mission", "19th century", "Colonial India", "Nationalism", "Social reform", "J.N. Farquhar", "Modernization"]
 ---
 
 # Modern Religious Movements in India

@@ -1,28 +1,33 @@
 ---
-title: "A debate at a general court of proprietors of East-India stock (14 March 1813)"
-author: ["East India Company"]
+title: 'A debate at a general court of proprietors of East-India stock (14 March 1813)'
+author:
+- East India Company
 year: 1813
-language: ["English"]
-genre: ["Political Debate", "Primary Source"]
-description: "Verbatim minutes from the East India Company’s general court examining Lord Castlereagh’s charter proposals, preserving directors’, merchants’, and evangelical shareholders’ arguments about monopoly and missionary access."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Political Debate
+- Primary Source
+description: |
+  Against the backdrop of early 19th-century colonial transformation, this verbatim record of the East India Company's general court on 14 March 1813 captures a critical moment in British imperial governance and India's colonial trajectory. Occurring during the intense parliamentary reexamination of the Company's monopolistic charter, the document represents a nuanced intersection of commercial interests, evangelical ambitions, and imperial administrative deliberations. The debate centered on Lord Castlereagh's proposed charter modifications, which would fundamentally reconfigure the Company's relationship with British imperial administration and Indian territories. Shareholders, directors, and merchants meticulously articulated complex arguments about commercial monopoly, missionary access, and the ethical-economic frameworks governing colonial engagement. This primary source provides unprecedented insight into the internal deliberations that shaped India's colonial governance, revealing the intricate power negotiations between commercial interests, evangelical movements, and imperial bureaucratic structures. The document is particularly significant for Indian studies as it illuminates the transitional period when the East India Company transformed from a trading enterprise to a quasi-governmental colonial apparatus, fundamentally altering India's socio-political landscape. By preserving the verbatim exchanges, the text offers scholars a rare window into the conceptual mechanisms of colonial administration, exposing the rhetorical strategies, economic rationales, and ideological justifications underlying British imperial expansion. The debate represents a pivotal moment in negotiating imperial control, missionary intervention, and economic governance at the height of British imperial ambitions, making it a crucial historical artifact for understanding the complex dynamics of colonial encounter and transformation in 19th-century India.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/debateatgeneralc00east"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/debateatgeneralc00east
+  type: other
 references:
-  - name: "Wikipedia: Charter Act of 1813"
-    url: "https://en.wikipedia.org/wiki/Charter_Act_of_1813"
-    type: "wikipedia"
-  - name: "Wikipedia: Robert Stewart, Viscount Castlereagh"
-    url: "https://en.wikipedia.org/wiki/Robert_Stewart,_Viscount_Castlereagh"
-    type: "wikipedia"
-  - name: "Open Library search: A debate at a general court of proprietors of East-India stock"
-    url: "https://openlibrary.org/search?q=A+debate+at+a+general+court+of+proprietors+of+East-India+stock&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Charter Act of 1813'
+  url: https://en.wikipedia.org/wiki/Charter_Act_of_1813
+  type: wikipedia
+- name: 'Wikipedia: Robert Stewart, Viscount Castlereagh'
+  url: https://en.wikipedia.org/wiki/Robert_Stewart,_Viscount_Castlereagh
+  type: wikipedia
+- name: 'Open Library search: A debate at a general court of proprietors of East-India stock'
+  url: https://openlibrary.org/search?q=A+debate+at+a+general+court+of+proprietors+of+East-India+stock&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-22
-tags: ["Charter Act 1813", "East India Company governance", "Trade monopoly", "Missionary policy", "Parliamentary history"]
 ---
 
 # A debate at a general court of proprietors of East-India stock (14 March 1813)

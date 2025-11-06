@@ -1,22 +1,30 @@
 ---
-title: "An Encyclopaedia of Hindu Architecture"
-author: ["Prasanna Kumar Acharya"]
+title: 'An Encyclopaedia of Hindu Architecture'
+author:
+- Prasanna Kumar Acharya
 year: 1946
-language: ["English", "Sanskrit"]
-genre: ["Reference Work", "Architecture", "Technical Literature"]
-description: "Prasanna Kumar Acharya's 1946 Encyclopaedia systematically documents traditional Indian architectural theory from Sanskrit śilpa śāstras, covering temple design, sculpture, and construction techniques with scholarly apparatus."
-collections: ['ancient-wisdom', 'modern-literature']
+language:
+- English
+- Sanskrit
+genre:
+- Reference Work
+- Architecture
+- Technical Literature
+description: |
+  During the critical decades preceding India's independence, Prasanna Kumar Acharya's 1946 Encyclopaedia of Hindu Architecture emerged as a definitive scholarly intervention in documenting traditional Indian architectural knowledge embedded in Sanskrit śilpa śāstras. Situated within a broader intellectual movement of cultural preservation and scholarly reclamation during late colonial India, the work comprehensively catalogues intricate architectural theories, design principles, construction techniques, and sculptural methodologies drawn from centuries of accumulated traditional wisdom. Acharya's meticulous scholarship represents a pivotal academic effort to systematize and validate complex indigenous architectural knowledge at a moment of significant cultural and political transformation, when colonial administrative and academic practices threatened the marginalization of traditional Indian intellectual frameworks. The encyclopaedia systematically translates and analyzes technical Sanskrit texts, providing detailed annotations and scholarly apparatus that render esoteric architectural treatises accessible to both scholarly and professional audiences. By methodically documenting temple design principles, sculptural conventions, structural engineering techniques, and aesthetic philosophies, Acharya's work serves as a critical scholarly bridge between ancient architectural knowledge systems and modern academic discourse. The text not only preserves intricate technical knowledge but also demonstrates the sophisticated intellectual and technological sophistication of pre-colonial Indian architectural traditions, challenging colonial-era narratives that diminished indigenous intellectual achievements. As a scholarly reference, the encyclopaedia remains an essential resource for understanding the depth, complexity, and theoretical foundations of Hindu architectural practice, offering profound insights into the cultural, aesthetic, and technological dimensions of India's architectural heritage.
+collections:
+- ancient-wisdom
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/encyclopaediaofh07achauoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/encyclopaediaofh07achauoft
+  type: other
 references:
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Encyclopaedia+Hindu+Architecture+Acharya&mode=everything"
-    type: "other"
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Encyclopaedia+Hindu+Architecture+Acharya&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-21
-tags: ["Hindu architecture", "Prasanna Kumar Acharya", "Shilpa shastra", "Temple architecture", "Vastu shastra", "Sanskrit texts", "Architectural theory", "Indian architecture", "Traditional knowledge", "Technical literature", "Reference work", "20th century scholarship", "Manasara", "Iconometry"]
 ---
 
 # An Encyclopaedia of Hindu Architecture

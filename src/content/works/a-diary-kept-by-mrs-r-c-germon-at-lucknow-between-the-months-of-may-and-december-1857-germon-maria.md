@@ -1,6 +1,5 @@
 ---
-title: A Diary Kept by Mrs. R. C. Germon, at Lucknow, Between the Months of May and
-  December, 1857
+title: 'A Diary Kept by Mrs. R. C. Germon, at Lucknow, Between the Months of May and December, 1857'
 author:
 - Germon, Maria
 year: 1900
@@ -8,26 +7,23 @@ language:
 - English
 genre:
 - Historical Literature
-description: A Diary Kept by Mrs. R. C. Germon, at Lucknow, Between the Months of
-  May and December, 1857 is a work from the Indian literary tradition, available in
-  the public domain.
+description: |
+  A Diary Kept by Mrs. R. C. Germon, at Lucknow, Between the Months of May and December, 1857 represents a critically important first-hand historical account of the Indian Rebellion of 1857, offering a nuanced European perspective on one of the most pivotal conflicts in colonial Indian history. Written by Maria Germon, the diary provides an intimate narrative of the siege of Lucknow, a crucial episode during the widespread anti-colonial uprising against British East India Company rule. As a British woman residing in Lucknow during this tumultuous period, Germon's documentary account offers unique insights into the European expatriate experience during the rebellion, capturing the daily challenges, psychological tensions, and immediate human realities of colonial conflict. The manuscript documents the prolonged military siege, civilian experiences of violence, strategic military movements, and the complex interpersonal dynamics among British residents under extreme duress. Significantly, the text contributes to postcolonial scholarship by presenting a granular, personal perspective on a transformative moment in Indian colonial history, illuminating the intersections of gender, imperial power, and resistance. While primarily a European narrative, the diary provides invaluable ethnographic and historical documentation of the social landscapes of mid-19th century North Indian urban spaces during a period of profound political transformation. Its preservation and publication represent an important contribution to understanding cross-cultural interactions, imperial narratives, and the lived experiences of colonialism. As a primary source document, Germon's diary offers historians and researchers critical phenomenological insights into the complex social and political dynamics of the 1857 rebellion.
 sources:
-- name: Project Gutenberg
+- name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/47814
   type: other
-- name: Project Gutenberg (HTML)
+- name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/47814.html.images
   type: other
 references:
-- name: 'Wikipedia: A Diary Kept by Mrs. R. C. Germon, at Lucknow, Between the Months
-    of May and December, 1857'
+- name: 'Wikipedia: A Diary Kept by Mrs. R. C. Germon, at Lucknow, Between the Months of May and December, 1857'
   url: https://en.wikipedia.org/wiki/A_Diary_Kept_by_Mrs._R._C._Germon%2C_at_Lucknow%2C_Between_the_Months_of_May_and_December%2C_1857
   type: other
 - name: 'Wikipedia: Germon'
   url: https://en.wikipedia.org/wiki/Germon
   type: other
-- name: 'Open Library: A Diary Kept by Mrs. R. C. Germon, at Lucknow, Between the
-    Months of May and December, 1857'
+- name: 'Open Library: A Diary Kept by Mrs. R. C. Germon, at Lucknow, Between the Months of May and December, 1857'
   url: https://openlibrary.org/search?q=A%20Diary%20Kept%20by%20Mrs.%20R.%20C.%20Germon%2C%20at%20Lucknow%2C%20Between%20the%20Months%20of%20May%20and%20December%2C%201857%20Germon%2C%20Maria
   type: other
 - name: 'Open Library: Diary at Lucknow'

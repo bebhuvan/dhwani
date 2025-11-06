@@ -1,5 +1,5 @@
 ---
-title: By-Ways of Bombay
+title: 'By-Ways of Bombay'
 author:
 - Edwardes, S. M. (Stephen Meredyth)
 year: 1912
@@ -7,13 +7,13 @@ language:
 - English
 genre:
 - Classical Literature
-description: By-Ways of Bombay is a work from the Indian literary tradition, available
-  in the public domain.
+description: |
+  By-Ways of Bombay, published in 1912 by British colonial administrator and scholar Stephen Meredyth Edwardes, represents a significant ethnographic and historical exploration of urban life in early 20th-century Bombay (now Mumbai) during the late British Imperial period. Edwardes, who served as a senior administrative official in the Bombay Presidency, offers a nuanced scholarly examination of the city's complex social landscape, architectural evolution, and cultural intersections. The work provides a detailed historical account of Bombay's diverse neighborhoods, examining their architectural, social, and cultural characteristics through a meticulous observational lens. Drawing from his extensive administrative experience and scholarly research, Edwardes illuminates the intricate urban dynamics of a pivotal metropolitan center that was experiencing rapid transformation under colonial governance. The text is particularly valuable for its comprehensive documentation of architectural styles, urban infrastructure, community interactions, and the subtle cultural negotiations occurring in a cosmopolitan colonial city. By presenting granular descriptions of various urban spaces, street life, community practices, and architectural heritage, Edwardes contributes a critical scholarly resource for understanding the sociocultural complexities of early 20th-century Indian urbanism. His work serves as an important historical document that bridges colonial perspectives with detailed ethnographic observation, offering contemporary scholars insights into the multilayered urban experiences of Bombay during a significant transitional period in Indian history. The text remains an essential reference for researchers in urban studies, colonial history, and cultural anthropology interested in understanding the intricate social fabric of Indian metropolitan spaces during the late colonial era.
 sources:
-- name: Project Gutenberg
+- name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/10071
   type: other
-- name: Project Gutenberg (HTML)
+- name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/10071.html.images
   type: other
 references:

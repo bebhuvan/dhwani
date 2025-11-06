@@ -1,15 +1,22 @@
 ---
-title: "Indian home rule. Reprinted with a new foreword by the author"
-author: ["Gandhi", "Mahatma", "1869-1948"]
+title: 'Indian home rule. Reprinted with a new foreword by the author'
+author:
+- Gandhi
+- Mahatma
+- 1869-1948
 year: 1919
-language: ["English"]
-genre: ["Modern Classics"]
-description: "Indian home rule. Reprinted with a new foreword by the author by Gandhi, Mahatma (1919) is a significant work on Modern Classics. Digitized from original sources and available on Archive.org."
-collections: ["modern-literature"]
+language:
+- English
+genre:
+- Modern Classics
+description: |
+  Indian Home Rule, composed by Mahatma Gandhi in 1909 and republished with revisions in 1919, represents a seminal political treatise emerging during the transformative period of British colonial governance in India. Written as a series of dialogues addressing fundamental questions of Indian sovereignty and self-determination, the work articulates Gandhi's evolving political philosophy of non-violent resistance (satyagraha) against imperial control. Situated within the broader context of early 20th-century anti-colonial movements, the text systematically deconstructs British colonial legitimacy while proposing an alternative paradigm of political and cultural autonomy rooted in indigenous ethical principles. Gandhi employs a dialogic narrative structure, engaging readers through a conceptual conversation that explores the moral and practical dimensions of Indian independence, challenging prevailing colonial narratives of governance and civilization. The work critically examines economic exploitation, cultural subjugation, and institutional mechanisms of imperial power, presenting a nuanced argument for Indian self-rule grounded in principles of moral resistance and collective agency. Drawing from diverse intellectual traditions—including indigenous philosophical frameworks, Western political thought, and ethical humanist principles—Gandhi articulates a radical reimagining of political liberation that transcends mere territorial independence. By emphasizing spiritual and cultural regeneration alongside political transformation, the text becomes a foundational document in understanding India's nationalist discourse and the philosophical underpinnings of anti-colonial struggle. Its significance extends beyond historical documentation, offering profound insights into strategies of resistance, collective mobilization, and the intellectual genealogy of modern Indian political thought, making it an essential scholarly resource for understanding the complex dynamics of colonial encounter and nationalist resistance.
+collections:
+- modern-literature
 sources:
-- name: "Internet Archive"
-  url: "https://archive.org/details/indianhomerulere00ganduoft"
-  type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/indianhomerulere00ganduoft
+  type: other
 references:
 - name: 'Wikipedia: Indian home rule. Reprinted with a new f...'
   url: https://en.wikipedia.org/wiki/The_Story_of_My_Experiments_with_Truth
@@ -37,8 +44,8 @@ references:
   type: wikisource
 featured: false
 publishDate: 2025-01-22
-tags: ["modern-classics", "modern-literature", "20th-century"]
 ---
+
 # Indian home rule. Reprinted with a new foreword by the author
 
 ## Overview

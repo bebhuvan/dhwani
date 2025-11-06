@@ -1,28 +1,35 @@
 ---
-title: "Myths of the Hindus & Buddhists"
-author: ["Sister Nivedita", "Ananda Coomaraswamy"]
+title: 'Myths of the Hindus & Buddhists'
+author:
+- Sister Nivedita
+- Ananda Coomaraswamy
 year: 1913
-language: ["English"]
-genre: ["Mythology", "Religious Studies", "Cultural Studies"]
-description: "Sister Nivedita and Ananda Coomaraswamy's collaborative interpretation of Hindu and Buddhist mythology for Western readers. This influential work bridges Eastern spiritual traditions with Western understanding, combining Nivedita's direct experience of Indian spirituality with Coomaraswamy's scholarly expertise in Indian metaphysics and religious literature."
-collections: ['spiritual-texts']
+language:
+- English
+genre:
+- Mythology
+- Religious Studies
+- Cultural Studies
+description: |
+  "Myths of the Hindus & Buddhists" represents a seminal early 20th-century scholarly exploration of Indian mythological traditions, produced during a critical period of cultural translation and intellectual exchange between India and the West. Published in 1913 during the late colonial era, the work emerges from the collaborative scholarship of Sister Nivedita (Margaret Noble), an Irish-born disciple of Swami Vivekananda, and Ananda Coomaraswamy, a pioneering Ceylon-born art historian and cultural theorist. Their text meticulously unpacks complex Hindu and Buddhist mythological narratives, offering Western audiences a nuanced, scholarly interpretation of India's rich spiritual and symbolic traditions. Drawing from Sanskrit textual sources including the Puranas, Mahabharata, and Buddhist canonical texts, the work provides comprehensive analyses of fundamental mythological cycles, divine narratives, and metaphysical concepts. Coomaraswamy's rigorous scholarly methodology combined with Nivedita's intimate understanding of Indian spiritual philosophy enabled a profound hermeneutic approach that transcended mere literal translation. The work critically illuminates philosophical and symbolic dimensions of Indian mythology, exploring themes of cosmic order, divine intervention, human dharma, and spiritual transformation. By contextualizing mythological narratives within broader cultural and philosophical frameworks, Nivedita and Coomaraswamy challenged prevailing Orientalist representations and presented Indian spiritual traditions as sophisticated, intellectually complex systems of thought. Their collaborative scholarship significantly contributed to global understanding of Indian cultural heritage, establishing an important scholarly precedent for cross-cultural mythological interpretation and fostering deeper transnational intellectual engagement with Indian philosophical and religious traditions.
+collections:
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/mythsofthehindus00niveuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/mythsofthehindus00niveuoft
+  type: other
 references:
-  - name: "Wikipedia: Ananda Coomaraswamy"
-    url: "https://en.wikipedia.org/wiki/Ananda_Coomaraswamy"
-    type: "wikipedia"
-  - name: "Wikipedia: Sister Nivedita"
-    url: "https://en.wikipedia.org/wiki/Sister_Nivedita"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Myths+of+the+Hindus+%26+Buddhists&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Ananda Coomaraswamy'
+  url: https://en.wikipedia.org/wiki/Ananda_Coomaraswamy
+  type: wikipedia
+- name: 'Wikipedia: Sister Nivedita'
+  url: https://en.wikipedia.org/wiki/Sister_Nivedita
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Myths+of+the+Hindus+%26+Buddhists&mode=everything
+  type: other
 featured: false
 publishDate: 2025-09-28
-tags: ["Hindu Mythology", "Buddhist Mythology", "Sister Nivedita", "Ananda Coomaraswamy", "Eastern Philosophy", "Comparative Religion", "Spiritual Traditions", "Cultural Interpretation", "Religious Literature", "Swami Vivekananda", "Art History"]
 ---
 
 # Myths of the Hindus & Buddhists

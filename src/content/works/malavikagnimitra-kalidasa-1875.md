@@ -1,37 +1,44 @@
 ---
-title: "Mālavikāgnimitra"
-author: ["Kalidasa"]
+title: 'Mālavikāgnimitra'
+author:
+- Kalidasa
 year: 1875
-language: ["Sanskrit", "English"]
-genre: ["Drama", "Classical Literature"]
-description: "Mālavikāgnimitram, Kalidasa's five-act Sanskrit drama, depicts the romantic relationship between King Agnimitra of the Shunga dynasty and Malavika, a maiden in his palace. This 1875 edition published by Thacker, Spink & Co. in Calcutta comprises 83 pages."
-collections: ['ancient-wisdom', 'classical-literature']
+language:
+- Sanskrit
+- English
+genre:
+- Drama
+- Classical Literature
+description: |
+  Mālavikāgnimitram is a quintessential Sanskrit drama from the classical period, composed by Kalidasa, one of the most celebrated poets of ancient India, likely dating from the 4th-5th century CE during the Gupta Empire's cultural renaissance. This five-act play represents a sophisticated exploration of courtly love, political dynamics, and social hierarchies within the royal court of the Shunga dynasty. The narrative centers on King Agnimitra's romantic pursuit of Malavika, a talented and beautiful servant girl whose hidden noble lineage becomes a pivotal dramatic revelation. Through intricate character development and nuanced emotional landscapes, Kalidasa masterfully employs dramatic conventions of Sanskrit theatrical traditions, including elaborate poetic dialogues, complex character interactions, and strategic narrative devices. The work exemplifies the sophisticated literary and dramatic techniques of classical Indian literature, demonstrating remarkable psychological insight into human relationships and social structures. Linguistically and structurally, Mālavikāgnimitram showcases Kalidasa's extraordinary command of Sanskrit, utilizing elaborate metaphors, complex linguistic embellishments, and refined aesthetic sensibilities characteristic of elite courtly literature. Beyond its narrative complexity, the drama provides crucial insights into the social, cultural, and political milieu of ancient Indian royal courts, illustrating complex interpersonal relationships, courtly etiquette, and the subtle negotiations of power and desire. This 1875 Calcutta edition, published by Thacker, Spink & Co., represents an important scholarly preservation of this seminal work, contributing significantly to the documentation and transmission of classical Indian literary heritage.
+collections:
+- ancient-wisdom
+- classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/malavikagnimitra00kaliiala"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/malavikagnimitra00kaliiala
+  type: other
 references:
-  - name: "Wikipedia: Mālavikāgnimitram"
-    url: "https://en.wikipedia.org/wiki/Mālavikāgnimitram"
-    type: "wikipedia"
-  - name: "Wikipedia: Kalidasa"
-    url: "https://en.wikipedia.org/wiki/Kalidasa"
-    type: "wikipedia"
-  - name: "Wikisource: Mālavikāgnimitram (Sanskrit)"
-    url: "https://sa.wikisource.org/wiki/मालविकाग्निमित्रम्_pdf"
-    type: "wikisource"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=Malavikagnimitra+Kalidasa"
-    type: "other"
-  - name: "Wikidata: Mālavikāgnimitram"
-    url: "https://www.wikidata.org/wiki/Q13184861"
-    type: "other"
-  - name: "Wikidata: Kalidasa"
-    url: "https://www.wikidata.org/wiki/Q7011"
-    type: "other"
+- name: 'Wikipedia: Mālavikāgnimitram'
+  url: https://en.wikipedia.org/wiki/Mālavikāgnimitram
+  type: wikipedia
+- name: 'Wikipedia: Kalidasa'
+  url: https://en.wikipedia.org/wiki/Kalidasa
+  type: wikipedia
+- name: 'Wikisource: Mālavikāgnimitram (Sanskrit)'
+  url: https://sa.wikisource.org/wiki/मालविकाग्निमित्रम्_pdf
+  type: wikisource
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=Malavikagnimitra+Kalidasa
+  type: other
+- name: 'Wikidata: Mālavikāgnimitram'
+  url: https://www.wikidata.org/wiki/Q13184861
+  type: other
+- name: 'Wikidata: Kalidasa'
+  url: https://www.wikidata.org/wiki/Q7011
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Kalidasa", "Sanskrit Drama", "Classical Literature", "Indian Theatre", "Shunga Dynasty", "Agnimitra", "Sanskrit Poetry", "Ancient India", "Classical Drama", "5th Century"]
 ---
 
 # Mālavikāgnimitra

@@ -1,31 +1,39 @@
 ---
-title: "Nāradīya Śikṣā (Narada's Treatise on Phonetics and Musical Sound)"
-author: ["Attributed to Sage Narada", "Edited by Dr. Keshavchaitanya Kunte"]
+title: 'Nāradīya Śikṣā (Narada's Treatise on Phonetics and Musical Sound)'
+author:
+- Attributed to Sage Narada
+- Edited by Dr. Keshavchaitanya Kunte
 year: 1909
-language: ["Sanskrit with Hindi translation"]
-genre: ["Musicology", "Phonetics", "Vedic Science"]
-description: "Ancient Sanskrit treatise on science of musical sound and phonetics (shiksha) applied to sangita. Covers svara-shastra (science of musical notes), relationship between Vedic recitation and musical tones, acoustic principles, and production of sound through proper vocal technique. Bridges Vedic phonetics and classical music theory, providing technical knowledge essential for understanding theoretical foundations of Indian music."
-collections: ['arts-texts', 'ancient-wisdom']
+language:
+- Sanskrit with Hindi translation
+genre:
+- Musicology
+- Phonetics
+- Vedic Science
+description: |
+  Composed during the late classical period of Sanskrit scholarship (circa 700-1100 CE), the Nāradīya Śikṣā represents a critical moment in the systematization of Indian musical and phonetic knowledge. Sage Narada, a legendary divine musician and scholar associated with the Vedic and Puranic traditions, is credited with capturing centuries of oral transmission of musical theory and acoustic principles in this seminal work. Ancient Sanskrit treatise on science of musical sound and phonetics (shiksha) applied to sangita. Covers svara-shastra (science of musical notes), relationship between Vedic recitation and musical tones, acoustic principles, and production of sound through proper vocal technique. Bridges Vedic phonetics and classical music theory, providing technical knowledge essential for understanding theoretical foundations of Indian music.
+collections:
+- arts-texts
+- ancient-wisdom
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/naradiya-shiksha-1909"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/naradiya-shiksha-1909
+  type: other
 references:
-  - name: "Wikipedia: Shiksha"
-    url: "https://en.wikipedia.org/wiki/Shiksha"
-    type: "wikipedia"
-  - name: "Wikipedia: Narada"
-    url: "https://en.wikipedia.org/wiki/Narada"
-    type: "wikipedia"
-  - name: "Wikipedia: Svara"
-    url: "https://en.wikipedia.org/wiki/Svara"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Naradiya+Shiksha&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Shiksha'
+  url: https://en.wikipedia.org/wiki/Shiksha
+  type: wikipedia
+- name: 'Wikipedia: Narada'
+  url: https://en.wikipedia.org/wiki/Narada
+  type: wikipedia
+- name: 'Wikipedia: Svara'
+  url: https://en.wikipedia.org/wiki/Svara
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Naradiya+Shiksha&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Naradiya Shiksha", "Shiksha", "Phonetics", "Music theory", "Svara", "Vedic recitation", "Acoustic principles", "Sanskrit", "Narada", "1909"]
 ---
 
 # Nāradīya Śikṣā

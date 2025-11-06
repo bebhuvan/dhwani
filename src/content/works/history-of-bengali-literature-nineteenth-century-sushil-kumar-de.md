@@ -1,28 +1,33 @@
 ---
-title: "History of Bengali Literature in the Nineteenth Century, 1800-1825"
-author: ["Sushil Kumar De"]
+title: 'History of Bengali Literature in the Nineteenth Century, 1800-1825'
+author:
+- Sushil Kumar De
 year: 1919
-language: ["English"]
-genre: ["Literary History"]
-description: "This 1919 University of Calcutta publication examines the formative quarter-century of modern Bengali literature (1800-1825) during the early colonial period. Sushil Kumar De analyzes the emergence of prose, new poetic forms, and the influence of Western literary models on traditional Bengali writing, providing detailed critical assessments and bibliographical references."
-collections: ['regional-voices', 'classical-literature']
+language:
+- English
+genre:
+- Literary History
+description: |
+  Sushil Kumar De's pioneering monograph represents a seminal scholarly examination of Bengali literary transformation during a critical quarter-century of colonial cultural encounter (1800-1825). Published by the University of Calcutta in 1919, the work meticulously documents the intricate literary developments occurring during the early British colonial period, a time of profound intellectual and aesthetic reconfiguration for Bengali intellectual traditions. De comprehensively analyzes the emergence of new prose forms, the evolution of poetic structures, and the complex interactions between indigenous Bengali literary conventions and Western literary models introduced through colonial educational and cultural networks. The study provides nuanced critical assessments of how Bengali writers navigated cultural hybridity, examining textual innovations in genres including biographical writing, narrative prose, and poetry. By systematically documenting literary practices during this transitional period, De illuminates the intellectual genealogy of modern Bengali literature, tracing how traditional Sanskrit-influenced writing gradually incorporated European structural and conceptual frameworks. The work is particularly significant for its detailed bibliographical references and close textual analysis, offering scholars unprecedented insights into the literary production of early 19th-century Bengal. De's scholarly approach demonstrates how literary transformation reflected broader social and intellectual negotiations occurring during a period of intense cultural contact and colonial mediation. His meticulous research preserves critical documentation of a pivotal moment in Bengali intellectual history, revealing the dynamic creative responses of Bengali writers to emerging colonial modernity and transnational literary exchanges.
+collections:
+- regional-voices
+- classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/historyofbengali00desurich"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/historyofbengali00desurich
+  type: other
 references:
-  - name: "Wikipedia: Sushil Kumar De"
-    url: "https://en.wikipedia.org/wiki/Sushil_Kumar_De"
-    type: "wikipedia"
-  - name: "Wikisource: Sushil Kumar De"
-    url: "https://en.wikisource.org/wiki/Author:Sushil_Kumar_De"
-    type: "wikisource"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=History+Bengali+Literature+Sushil+Kumar+De&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Sushil Kumar De'
+  url: https://en.wikipedia.org/wiki/Sushil_Kumar_De
+  type: wikipedia
+- name: 'Wikisource: Sushil Kumar De'
+  url: https://en.wikisource.org/wiki/Author:Sushil_Kumar_De
+  type: wikisource
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=History+Bengali+Literature+Sushil+Kumar+De&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-23
-tags: ["Bengali literature", "Sushil Kumar De", "literary history", "19th century", "Bengal Renaissance", "Ram Mohan Roy", "Fort William College", "modern Bengali prose", "colonial literature", "Calcutta University", "early modern period"]
 ---
 
 # History of Bengali Literature in the Nineteenth Century, 1800-1825

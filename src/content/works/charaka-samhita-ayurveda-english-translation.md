@@ -1,46 +1,50 @@
 ---
-title: "Charaka Saṃhitā (Compendium of Charaka)"
-author: ["Charaka", "tr. various scholars"]
+title: 'Charaka Saṃhitā (Compendium of Charaka)'
+author:
+- Charaka
+- tr. various scholars
 year: -200
-language: ["Sanskrit", "English"]
-genre: ["Medical Literature", "Scientific Texts", "Classical Literature"]
-description: "Foundational Ayurvedic medical text composed circa 2nd century BCE, attributed to physician Charaka with later redaction by Dridhabala. Comprehensive treatise covering etiology, pathology, diagnosis, treatment of diseases alongside anatomy, physiology, pharmacology, dietetics. One of three great Ayurvedic classics (Brhattrayi) establishing theoretical foundations and clinical practices of Indian medicine. Multiple English translations from 19th-20th centuries made ancient medical knowledge accessible to modern scholarship."
-collections: ['medical-texts', 'classical-literature', 'scientific-works']
+language:
+- Sanskrit
+- English
+genre:
+- Medical Literature
+- Scientific Texts
+- Classical Literature
+description: |
+  The Charaka Saṃhitā represents a seminal work in classical Indian medical literature, emerging during the late Mauryan or early post-Mauryan period (circa 2nd century BCE) when systematic codification of traditional knowledge was transforming intellectual discourse across the Indian subcontinent. Attributed primarily to the physician Charaka, with significant later redactions by Dridhabala, the text exemplifies the sophisticated medical epistemology of ancient Indian civilization. This comprehensive treatise systematically explores human health through intricate examinations of anatomy, physiology, pathology, diagnosis, and therapeutic interventions, demonstrating a holistic understanding of medical science that integrates physiological, psychological, and environmental perspectives. The text is distinguished by its detailed pharmacological discussions, elaborate classification of diseases, and sophisticated diagnostic methodologies that reflect advanced medical reasoning for its historical period. As one of the three foundational texts (Brhattrayi) of classical Ayurveda, the Charaka Saṃhitā articulates a nuanced medical philosophy emphasizing prevention, constitutional understanding, and personalized healthcare approaches. Its methodological rigor encompasses eight clinical specialties, elaborating diagnostic techniques, therapeutic principles, and pharmaceutical preparations that reveal the depth of medical knowledge in classical Indian intellectual traditions. Beyond its medical significance, the text offers profound insights into social structures, dietary practices, and philosophical conceptualizations of human health, making it a critical source for understanding intellectual and cultural developments in ancient India. Subsequent scholarly translations from the 19th and 20th centuries have progressively illuminated its complex medical epistemology, positioning the Charaka Saṃhitā as a pivotal document in global medical historiography.
+collections:
+- medical-texts
+- classical-literature
+- scientific-works
 sources:
-  - name: "Internet Archive (Sharma Translation Vol 1)"
-    url: "https://archive.org/details/charaka-samhita-text-english-translation-vol-1"
-    type: "other"
-  - name: "Internet Archive (Complete English Edition)"
-    url: "https://archive.org/details/in.ernet.dli.2015.405666"
-    type: "other"
-  - name: "Internet Archive (Bhagwan Dash Translation)"
-    url: "https://archive.org/details/charaka-samhita-dash"
-    type: "other"
-  - name: "Internet Archive (DLI Collection)"
-    url: "https://archive.org/details/dli.ernet.2906"
-    type: "other"
-  - name: "Internet Archive (Sanskrit-English)"
-    url: "https://archive.org/details/charakasamhitasanskritwithenglish"
-    type: "other"
+- name: 'Internet Archive (P.V. Sharma Translation)'
+  url: https://archive.org/details/CharakaSamhitaTextWithEnglishTanslationP.V.Sharma
+  type: other
+- name: 'Internet Archive (Kaviratna Translation)'
+  url: https://archive.org/details/BIUSante_47357
+  type: other
+- name: 'Internet Archive (DLI Volume 1)'
+  url: https://archive.org/details/in.ernet.dli.2015.326549
+  type: other
 references:
-  - name: "Wikipedia: Charaka Samhita"
-    url: "https://en.wikipedia.org/wiki/Charaka_Samhita"
-    type: "wikipedia"
-  - name: "Wikipedia: Charaka"
-    url: "https://en.wikipedia.org/wiki/Charaka"
-    type: "wikipedia"
-  - name: "Wikipedia: Ayurveda"
-    url: "https://en.wikipedia.org/wiki/Ayurveda"
-    type: "wikipedia"
-  - name: "Sanskrit Wikisource"
-    url: "https://sa.wikisource.org/wiki/चरकसंहिता"
-    type: "wikisource"
-  - name: "OpenLibrary"
-    url: "https://openlibrary.org/search?q=Charaka+Samhita+English+translation"
-    type: "other"
+- name: 'Wikipedia: Charaka Samhita'
+  url: https://en.wikipedia.org/wiki/Charaka_Samhita
+  type: wikipedia
+- name: 'Wikipedia: Charaka'
+  url: https://en.wikipedia.org/wiki/Charaka
+  type: wikipedia
+- name: 'Wikipedia: Ayurveda'
+  url: https://en.wikipedia.org/wiki/Ayurveda
+  type: wikipedia
+- name: 'Sanskrit Wikisource'
+  url: https://sa.wikisource.org/wiki/चरकसंहिता
+  type: wikisource
+- name: 'OpenLibrary'
+  url: https://openlibrary.org/search?q=Charaka+Samhita+English+translation
+  type: other
 featured: false
 publishDate: 2025-01-25
-tags: ["Ayurveda", "Medical texts", "Ancient medicine", "Charaka", "Sanskrit literature", "Scientific texts", "Indian medicine", "Classical texts", "Health sciences", "Pharmacology", "Public domain"]
 ---
 
 # Charaka Saṃhitā (Compendium of Charaka)

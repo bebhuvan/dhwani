@@ -1,25 +1,32 @@
 ---
-title: "A Sanskrit Grammar for Beginners"
-author: ["Arthur Anthony Macdonell"]
+title: 'A Sanskrit Grammar for Beginners'
+author:
+- Arthur Anthony Macdonell
 year: 1901
-language: ["English", "Sanskrit"]
-genre: ["Grammar", "Textbook"]
-description: "Published in 1901, Arthur Anthony Macdonell's *Sanskrit Grammar for Beginners* became the standard introductory textbook for English-speaking students approaching classical Sanskrit. The grammar's pedagogical philosophy prioritized clarity and gradual progression over completeness."
-collections: ["ancient-wisdom", "classical-literature"]
+language:
+- English
+- Sanskrit
+genre:
+- Grammar
+- Textbook
+description: |
+  Arthur Anthony Macdonell's *A Sanskrit Grammar for Beginners*, published in 1901, emerged during a transformative period of linguistic scholarship and colonial academic engagement with Indian intellectual traditions. Representing a pivotal moment in comparative philology, the text systematically introduced classical Sanskrit to English-speaking scholars and students, bridging European academic frameworks with the sophisticated grammatical and linguistic heritage of ancient Indian civilization. Macdonell, a distinguished Orientalist scholar from Oxford University, approached Sanskrit not merely as a linguistic exercise but as a profound window into the intellectual and cultural complexities of the Indian subcontinent. His grammatical methodology emphasized progressive learning, presenting Sanskrit's intricate structural nuances through a carefully constructed pedagogical approach that balanced rigorous linguistic analysis with accessibility. The work situated Sanskrit within the broader context of Indo-European language studies, demonstrating its critical role in understanding historical linguistic migrations and cultural interconnections. By providing a methodical, comprehensible introduction to Sanskrit's complex grammatical systems—including its sophisticated morphological structures, intricate verbal conjugations, and syntactical arrangements—Macdonell's grammar became an essential scholarly instrument. It facilitated Western academic engagement with classical Indian textual traditions, including philosophical treatises, religious scriptures, and literary works. Beyond its immediate linguistic utility, the text reflected the emerging disciplinary practices of comparative linguistics, colonial knowledge production, and cross-cultural academic exchange at the turn of the 20th century, representing a significant moment in the scholarly interpretation of Indian intellectual heritage.
+collections:
+- ancient-wisdom
+- classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/sanskritgrammarf0000macd_a5o8"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/sanskritgrammarf0000macd_a5o8
+  type: other
 references:
-  - name: "Wikipedia: Arthur Anthony Macdonell"
-    url: "https://en.wikipedia.org/wiki/Arthur_Anthony_Macdonell"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=A+Sanskrit+grammar+for+beginners"
-    type: "other"
+- name: 'Wikipedia: Arthur Anthony Macdonell'
+  url: https://en.wikipedia.org/wiki/Arthur_Anthony_Macdonell
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=A+Sanskrit+grammar+for+beginners
+  type: other
 featured: true
 publishDate: 2025-10-02
-tags: ["Sanskrit grammar", "Arthur Macdonell", "language learning", "classical Sanskrit", "textbook", "morphology", "sandhi", "Oxford Indology", "pedagogical grammar"]
 ---
 
 # A Sanskrit Grammar for Beginners
@@ -91,4 +98,3 @@ Contemporary Sanskrit education debates Macdonell's legacy: Should Sanskrit be t
 ## This Digital Edition
 
 This Internet Archive preservation provides free access to influential Sanskrit grammar that trained generations of students. For those beginning Sanskrit studies, Macdonell offers proven, accessible introduction. For scholars examining Sanskrit pedagogy's history, it exemplifies Western academic approach to classical Indian language—showing both achievements in making Sanskrit accessible to international audiences and limitations of grammar-translation methodology and canonical selectivity.
-

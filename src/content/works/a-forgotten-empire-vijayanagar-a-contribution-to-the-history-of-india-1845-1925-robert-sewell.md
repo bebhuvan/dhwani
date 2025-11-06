@@ -1,28 +1,33 @@
 ---
-title: "A Forgotten Empire (Vijayanagar): A Contribution to the History of India"
-author: ["Robert Sewell"]
+title: 'A Forgotten Empire (Vijayanagar): A Contribution to the History of India'
+author:
+- Robert Sewell
 year: 1900
-language: ["English"]
-genre: ["Historical Literature", "Indian History"]
-description: "A Forgotten Empire (Vijayanagar) by Robert Sewell (1900) - A pioneering historical work on the Vijayanagara Empire, one of the greatest medieval Indian kingdoms. This seminal study reconstructs the history of the empire that ruled much of South India from the 14th to 17th centuries."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Historical Literature
+- Indian History
+description: |
+  A Forgotten Empire (Vijayanagar): A Contribution to the History of India by Robert Sewell represents a critical scholarly intervention in understanding the complex political and cultural landscape of medieval South India during the Vijayanagara Empire's reign (1336-1646 CE). Published at the turn of the 20th century, the work emerged during a transformative period of colonial scholarship where British administrators were systematically documenting indigenous historical narratives. Sewell's meticulous research reconstructs the political, social, and architectural dimensions of the Vijayanagara kingdom, which dominated the Deccan plateau and represented a significant Hindu political formation during an era of extensive Muslim sultanate interactions across the Indian subcontinent. Drawing from extensive archival materials, contemporary chronicles, inscriptional evidence, and local literary sources, Sewell provides a comprehensive analysis of the empire's administrative structures, cultural achievements, and historical trajectory. The work is particularly significant in its detailed examination of the kingdom's architectural splendors, particularly in Hampi, and its nuanced exploration of the complex political negotiations between Hindu and Islamic political entities. Sewell's scholarly approach transcends mere colonial documentation, offering insights into the sophisticated administrative, economic, and cultural systems of a remarkable medieval Indian kingdom that maintained remarkable resilience and cultural integrity during a period of significant regional transformation. By meticulously reconstructing the Vijayanagara Empire's history, the work contributes substantially to understanding India's pre-colonial political complexity, challenging contemporary colonial narratives and providing a foundational text for subsequent historical scholarship on medieval South Indian political formations.
+collections:
+- modern-literature
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/3310"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/forgottenempire00robe"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/3310
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/forgottenempire00robe
+  type: other
 references:
-  - name: "Wikipedia: Robert Sewell (historian)"
-    url: "https://en.wikipedia.org/wiki/Robert_Sewell_(historian)"
-    type: "wikipedia"
-  - name: "Open Library: A Forgotten Empire (Vijayanagar)"
-    url: "https://openlibrary.org/search?q=A+Forgotten+Empire+Vijayanagar+A+Contribution+Robert+Sewell"
-    type: "other"
+- name: 'Wikipedia: Robert Sewell (historian)'
+  url: https://en.wikipedia.org/wiki/Robert_Sewell_(historian)
+  type: wikipedia
+- name: 'Open Library: A Forgotten Empire (Vijayanagar)'
+  url: https://openlibrary.org/search?q=A+Forgotten+Empire+Vijayanagar+A+Contribution+Robert+Sewell
+  type: other
 featured: false
 publishDate: 2025-09-28
-tags: ["Vijayanagara Empire", "Medieval India", "Robert Sewell", "South Indian history", "14th-17th century", "Archaeological studies", "Historical research"]
 ---
 
 # A Forgotten Empire (Vijayanagar): A Contribution to the History of India

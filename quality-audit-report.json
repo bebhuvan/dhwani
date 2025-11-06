@@ -1,0 +1,1359 @@
+{
+  "audit_date": "2025-11-06T05:45:40.034Z",
+  "sample_size": 50,
+  "total_works": 698,
+  "statistics": {
+    "audited": 49,
+    "excellent": 49,
+    "good": 0,
+    "fair": 0,
+    "poor": 0,
+    "errors": 1
+  },
+  "average_scores": {
+    "scholarly_tone": "9.06",
+    "historical_context": "9.29",
+    "specificity": "9.27",
+    "indian_relevance": "9.37",
+    "marketing_free": "9.80",
+    "preamble_free": "10.00",
+    "length_appropriate": "9.51",
+    "overall_score": "9.24"
+  },
+  "grade_distribution": {
+    "excellent": "100.0%",
+    "good": "0.0%",
+    "fair": "0.0%",
+    "poor": "0.0%"
+  },
+  "best_descriptions": [
+    {
+      "filename": "sangita-ratnakara-sarangadeva.md",
+      "title": "Sangita Ratnakara",
+      "scholarly_tone": 10,
+      "historical_context": 10,
+      "specificity": 10,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 296,
+      "overall_score": 9.7,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise scholarly terminology",
+        "Comprehensive historical contextualization"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "An exceptionally scholarly and nuanced description that provides rich, contextual insights into the Sangita Ratnakara's cultural and musicological significance."
+    },
+    {
+      "filename": "ramacharitamanasa-tulsidas.md",
+      "title": "Ramcharitmanas",
+      "scholarly_tone": 9,
+      "historical_context": 10,
+      "specificity": 10,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 283,
+      "overall_score": 9.57,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Comprehensive historical contextualization",
+        "Deep cultural and scholarly analysis"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "An exceptionally scholarly, nuanced, and contextually rich description that masterfully captures the historical, cultural, and literary significance of Ramcharitmanas."
+    },
+    {
+      "filename": "punjabi-musalmans-j-m-wikeley.md",
+      "title": "Punjabi Musalmans",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 9,
+      "indian_relevance": 9,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 255,
+      "overall_score": 9.43,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Detailed historical contextualisation"
+      ],
+      "key_weaknesses": [
+        "Minor complexity in sentence structure"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that comprehensively captures the nuanced historical and cultural significance of Wikeley's ethnographic work on Punjabi Muslim communities."
+    },
+    {
+      "filename": "south-indian-inscriptions-vol-i-archaeological-survey-of-india.md",
+      "title": "South Indian Inscriptions, Vol. I",
+      "scholarly_tone": 9,
+      "historical_context": 10,
+      "specificity": 9,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 260,
+      "overall_score": 9.43,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise academic language",
+        "Rich historical and cultural details"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that comprehensively captures the historical significance of South Indian inscriptional records."
+    },
+    {
+      "filename": "a-glossary-of-judicial-and-revenue-terms-h-h-wilson.md",
+      "title": "A Glossary of Judicial and Revenue Terms",
+      "scholarly_tone": 9,
+      "historical_context": 10,
+      "specificity": 9,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 274,
+      "overall_score": 9.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Detailed historical contextualization"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that comprehensively captures the historical and cultural significance of Wilson's linguistic work in colonial India."
+    }
+  ],
+  "worst_descriptions": [
+    {
+      "filename": "recollections-of-thirty-nine-years-in-the-army-gwalior-and-the-battle-of-maharajpore-1843-the-gold.md",
+      "title": "Recollections of Thirty-nine Years in the Army: Gwalior and the Battle of Mahara",
+      "scholarly_tone": 8,
+      "historical_context": 9,
+      "specificity": 7,
+      "indian_relevance": 6,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 8,
+      "word_count": 236,
+      "overall_score": 8.29,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise historical details",
+        "Academic writing style"
+      ],
+      "key_weaknesses": [
+        "Limited depth on Indian context",
+        "Could be more specific about military campaigns"
+      ],
+      "one_sentence_feedback": "A scholarly description with strong historical context and professional tone, though slightly limited in Indian-specific details."
+    },
+    {
+      "filename": "the-jungle-books-kipling-rudyard.md",
+      "title": "The Jungle Books",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 10,
+      "indian_relevance": 4,
+      "marketing_free": 9,
+      "preamble_free": 10,
+      "length_appropriate": 8,
+      "word_count": 234,
+      "overall_score": 8.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic analysis",
+        "Detailed historical and literary contextualization"
+      ],
+      "key_weaknesses": [
+        "Limited exploration of Indian cultural context",
+        "Colonial perspective dominates interpretation"
+      ],
+      "one_sentence_feedback": "A scholarly description with rigorous analysis, though somewhat detached from deeper Indian cultural nuances."
+    },
+    {
+      "filename": "newton-forster-or-the-merchant-service-marryat-frederick.md",
+      "title": "Newton Forster; Or, The Merchant Service",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 8,
+      "indian_relevance": 7,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 267,
+      "overall_score": 8.7,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Comprehensive historical contextualization"
+      ],
+      "key_weaknesses": [
+        "Could provide more explicit details about Indian interactions",
+        "Slightly generalized maritime descriptions"
+      ],
+      "one_sentence_feedback": "A scholarly, nuanced analysis that effectively situates the maritime novel within broader imperial and cultural contexts, with particular attention to maritime networks involving India."
+    },
+    {
+      "filename": "philosophy-upanishads-ancient-indian-metaphysics-archibald-gough.md",
+      "title": "The Philosophy of the Upanishads and Ancient Indian Metaphysics",
+      "scholarly_tone": 9,
+      "historical_context": 8,
+      "specificity": 9,
+      "indian_relevance": 9,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 8,
+      "word_count": 305,
+      "overall_score": 8.7,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Detailed historical contextualization",
+        "Deep engagement with Indian philosophical concepts"
+      ],
+      "key_weaknesses": [
+        "Slight verbosity",
+        "Complex sentence structures"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that offers rich intellectual analysis of Gough's seminal work on Upanishadic philosophy."
+    },
+    {
+      "filename": "nationalism-rabindranath-tagore.md",
+      "title": "Nationalism",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 8,
+      "indian_relevance": 9,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 8,
+      "word_count": 287,
+      "overall_score": 8.7,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Deep historical contextualisation",
+        "Sophisticated intellectual analysis"
+      ],
+      "key_weaknesses": [
+        "Occasional complex sentence structure",
+        "Dense academic language"
+      ],
+      "one_sentence_feedback": "A nuanced, scholarly description that effectively situates Tagore's 'Nationalism' within broader intellectual and anti-colonial discourse."
+    }
+  ],
+  "all_results": [
+    {
+      "filename": "a-glossary-of-judicial-and-revenue-terms-h-h-wilson.md",
+      "title": "A Glossary of Judicial and Revenue Terms",
+      "scholarly_tone": 9,
+      "historical_context": 10,
+      "specificity": 9,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 274,
+      "overall_score": 9.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Detailed historical contextualization"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that comprehensively captures the historical and cultural significance of Wilson's linguistic work in colonial India."
+    },
+    {
+      "filename": "the-birds-of-india-being-a-natural-history-of-the-birds-known-to-inhabit-continental-india-thomas-c-jerdon.md",
+      "title": "The Birds of India, Being a Natural History of the Birds Known to Inhabit Contin",
+      "scholarly_tone": 9,
+      "historical_context": 10,
+      "specificity": 10,
+      "indian_relevance": 9,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 258,
+      "overall_score": 9.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise scholarly language",
+        "Comprehensive historical contextualization"
+      ],
+      "key_weaknesses": [
+        "Minor potential for more nuanced colonial critique",
+        "Very slight academic formality"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that excellently captures the historical and scientific significance of Jerdon's ornithological work within the colonial Indian context."
+    },
+    {
+      "filename": "skanda-purana.md",
+      "title": "Skanda Purana",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 9,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 289,
+      "overall_score": 9.3,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise academic language",
+        "Rich historical contextualization",
+        "Deep cultural and scholarly analysis"
+      ],
+      "key_weaknesses": [
+        "Minor potential for further terminological specificity"
+      ],
+      "one_sentence_feedback": "An exemplary scholarly description that comprehensively captures the historical, cultural, and religious significance of the Skanda Purana with academic rigor and nuanced insight."
+    },
+    {
+      "filename": "the-aryabhatiya-of-aryabhata-clark.md",
+      "title": "The Aryabhatiya of Aryabhata",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 10,
+      "indian_relevance": 9,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 308,
+      "overall_score": 9.29,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise academic language",
+        "Rich historical and cultural context"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that comprehensively captures the scientific and cultural significance of the Aryabhatiya with exceptional depth and precision."
+    },
+    {
+      "filename": "sadhana-the-realisation-of-life-tagore-rabindranath.md",
+      "title": "Sadhana: The Realisation of Life",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 10,
+      "indian_relevance": 9,
+      "marketing_free": 8,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 324,
+      "overall_score": 9.29,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise academic language",
+        "Rich historical and cultural details"
+      ],
+      "key_weaknesses": [
+        "Slight hint of promotional language in descriptive phrases"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that expertly contextualizes Tagore's philosophical work within Indian spiritual traditions and global intellectual discourse."
+    },
+    {
+      "filename": "sankhya-aphorisms-ballantyne.md",
+      "title": "The Sankhya Aphorisms of Kapila",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 10,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 296,
+      "overall_score": 9.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Precise historical and philosophical contextualization"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "A masterfully crafted scholarly description that comprehensively illuminates the philosophical depth and cultural significance of the Sankhya tradition."
+    },
+    {
+      "filename": "recollections-of-thirty-nine-years-in-the-army-gwalior-and-the-battle-of-maharajpore-1843-the-gold.md",
+      "title": "Recollections of Thirty-nine Years in the Army: Gwalior and the Battle of Mahara",
+      "scholarly_tone": 8,
+      "historical_context": 9,
+      "specificity": 7,
+      "indian_relevance": 6,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 8,
+      "word_count": 236,
+      "overall_score": 8.29,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise historical details",
+        "Academic writing style"
+      ],
+      "key_weaknesses": [
+        "Limited depth on Indian context",
+        "Could be more specific about military campaigns"
+      ],
+      "one_sentence_feedback": "A scholarly description with strong historical context and professional tone, though slightly limited in Indian-specific details."
+    },
+    {
+      "filename": "private-life-of-warren-hastings-lawson.md",
+      "title": "The Private Life of Warren Hastings: First Governor-General of India",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 8,
+      "indian_relevance": 9,
+      "marketing_free": 9,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 267,
+      "overall_score": 9.14,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Nuanced historical analysis"
+      ],
+      "key_weaknesses": [
+        "Minor lack of absolute specificity in biographical details"
+      ],
+      "one_sentence_feedback": "A scholarly, contextually rich description that provides deep insight into colonial historiography while maintaining rigorous academic standards."
+    },
+    {
+      "filename": "a-comparative-grammar-of-the-sanskrit-zend-greek-latin-lithuanian-gothic-german-and-slavonic-languages-bopp.md",
+      "title": "A comparative grammar of the Sanskrit, Zend, Greek, Latin, Lithuanian, Gothic, G",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 9,
+      "indian_relevance": 8,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 294,
+      "overall_score": 9.29,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Rich historical contextualization"
+      ],
+      "key_weaknesses": [
+        "Potentially complex syntax",
+        "Dense scholarly prose"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that elegantly situates Bopp's linguistic work within its historical and intellectual context while highlighting its significance to Indian cultural heritage."
+    },
+    {
+      "filename": "charaka-samhita-ayurveda.md",
+      "title": "Charaka Samhita (Compendium of Internal Medicine)",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 10,
+      "indian_relevance": 10,
+      "marketing_free": 9,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 236,
+      "overall_score": 9.29,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise technical medical terminology",
+        "Rich historical and cultural context"
+      ],
+      "key_weaknesses": [
+        "Minor potential for improvement in scholarly precision"
+      ],
+      "one_sentence_feedback": "A masterfully crafted scholarly description that comprehensively captures the Charaka Samhita's historical, medical, and cultural significance with remarkable academic rigor."
+    },
+    {
+      "filename": "folklore-santal-parganas-bompas.md",
+      "title": "Folklore of the Santal Parganas",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 10,
+      "indian_relevance": 9,
+      "marketing_free": 9,
+      "preamble_free": 10,
+      "length_appropriate": 8,
+      "word_count": 296,
+      "overall_score": 9.1,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise academic language",
+        "Detailed historical and cultural contextualization"
+      ],
+      "key_weaknesses": [
+        "Slightly longer than ideal word count",
+        "Minor potential for more nuanced tribal community representation"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that comprehensively captures the anthropological significance of Bodding's seminal work on Santal folklore."
+    },
+    {
+      "filename": "sushruta-samhita-english-translation.md",
+      "title": "An English Translation of the Sushruta Samhita",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 10,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 278,
+      "overall_score": 9.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Rich historical and cultural contextualization",
+        "Precise technical and scholarly language"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that comprehensively explores the Sushruta Samhita's medical and cultural significance with academic rigor."
+    },
+    {
+      "filename": "nationalism-rabindranath-tagore.md",
+      "title": "Nationalism",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 8,
+      "indian_relevance": 9,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 8,
+      "word_count": 287,
+      "overall_score": 8.7,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Deep historical contextualisation",
+        "Sophisticated intellectual analysis"
+      ],
+      "key_weaknesses": [
+        "Occasional complex sentence structure",
+        "Dense academic language"
+      ],
+      "one_sentence_feedback": "A nuanced, scholarly description that effectively situates Tagore's 'Nationalism' within broader intellectual and anti-colonial discourse."
+    },
+    {
+      "filename": "outlines-history-hindu-law-partition-inheritance-adoption-julius-jolly.md",
+      "title": "Outlines of an History of the Hindu Law of Partition, Inheritance, and Adoption",
+      "scholarly_tone": 10,
+      "historical_context": 9,
+      "specificity": 9,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 254,
+      "overall_score": 9.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise scholarly language",
+        "Rich historical contextualization"
+      ],
+      "key_weaknesses": [],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that demonstrates deep academic understanding of Julius Jolly's seminal work on Hindu legal traditions."
+    },
+    {
+      "filename": "open-letters-to-lord-curzon-romesh-dutt.md",
+      "title": "Open Letters to Lord Curzon on Famines and Land Assessments in India",
+      "scholarly_tone": 9,
+      "historical_context": 10,
+      "specificity": 10,
+      "indian_relevance": 10,
+      "marketing_free": 9,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 313,
+      "overall_score": 9.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Rich historical contextualisation",
+        "Precise documentation of colonial economic critique"
+      ],
+      "key_weaknesses": [
+        "Potentially dense prose for general readers"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that provides comprehensive insight into Romesh Chunder Dutt's critical analysis of British colonial economic policies in India."
+    },
+    {
+      "filename": "jaimini-sutras-purva-mimamsa.md",
+      "title": "Jaimini Sutras: Purva Mimamsa (Vedic Ritual Interpretation)",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 9,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 248,
+      "overall_score": 9.29,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Precise historical contextualization",
+        "Deep cultural and philosophical insights"
+      ],
+      "key_weaknesses": [
+        "Minor potential for slight over-elaboration"
+      ],
+      "one_sentence_feedback": "An exemplary scholarly description that comprehensively captures the intellectual significance of the Jaimini Sutras within classical Indian philosophical tradition."
+    },
+    {
+      "filename": "buddhist-birth-stories-jataka-tales-rhys-davids.md",
+      "title": "Buddhist Birth-Stories (Jataka Tales)",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 9,
+      "indian_relevance": 8,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 288,
+      "overall_score": 9.29,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Comprehensive historical and cultural context"
+      ],
+      "key_weaknesses": [
+        "Slight potential for over-complexity in language"
+      ],
+      "one_sentence_feedback": "A meticulously crafted, scholarly description that provides deep insights into the Jataka Tales' cultural and philosophical significance."
+    },
+    {
+      "filename": "lectures-on-the-ancient-history-of-india-d-r-bhandarkar.md",
+      "title": "Lectures on the Ancient History of India (650-325 B.C.)",
+      "scholarly_tone": 9,
+      "historical_context": 10,
+      "specificity": 9,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 8,
+      "word_count": 239,
+      "overall_score": 9.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise academic language",
+        "Comprehensive historical analysis"
+      ],
+      "key_weaknesses": [
+        "Slightly over ideal word length"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that offers deep, nuanced insights into ancient Indian political history with exemplary academic rigor."
+    },
+    {
+      "filename": "nalopkhyanam-story-of-nala-an-episode-of-the-mahbhrata-the-sanskrit-text-with-a-copious-vocabulary-and-an-improved-version-of-dean-milmans-translation-1819-1899-sir-monier-monier-williams.md",
+      "title": "Nalopākhyānam: The Story of Nala from the Mahābhārata",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 10,
+      "indian_relevance": 9,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 287,
+      "overall_score": 9.3,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic vocabulary",
+        "Rich historical and cultural contextualization"
+      ],
+      "key_weaknesses": [
+        "Minor potential for over-intellectualization"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that demonstrates profound understanding of the text's cultural and academic significance."
+    },
+    {
+      "filename": "little-clay-cart-mricchakatika-shudraka.md",
+      "title": "The Little Clay Cart (Mṛcchakatika)",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 10,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 318,
+      "overall_score": 9.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Comprehensive historical and cultural contextualization"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "An exceptionally scholarly and nuanced description that provides deep insights into the literary and cultural significance of the Sanskrit dramatic work."
+    },
+    {
+      "filename": "raghuvamsa-kalidasa.md",
+      "title": "Raghuvamsa",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 10,
+      "indian_relevance": 10,
+      "marketing_free": 9,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 320,
+      "overall_score": 9.29,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Deep historical and cultural contextualization"
+      ],
+      "key_weaknesses": [
+        "Potentially dense for non-specialist readers",
+        "Complex sentence structure"
+      ],
+      "one_sentence_feedback": "A rigorously scholarly description that comprehensively captures the historical, cultural, and literary significance of Kalidasa's Raghuvamsa with remarkable precision and depth."
+    },
+    {
+      "filename": "gopal-bhar.md",
+      "title": "Gopal Bhar Tales",
+      "scholarly_tone": 9,
+      "historical_context": 8,
+      "specificity": 8,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 294,
+      "overall_score": 9,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic vocabulary",
+        "Rich contextual analysis of cultural significance"
+      ],
+      "key_weaknesses": [
+        "Minor lack of precise biographical details about Gopal Bhar"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that offers profound insights into Bengali folk narrative tradition through a nuanced cultural analysis."
+    },
+    {
+      "filename": "punjabi-musalmans-j-m-wikeley.md",
+      "title": "Punjabi Musalmans",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 9,
+      "indian_relevance": 9,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 255,
+      "overall_score": 9.43,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Detailed historical contextualisation"
+      ],
+      "key_weaknesses": [
+        "Minor complexity in sentence structure"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that comprehensively captures the nuanced historical and cultural significance of Wikeley's ethnographic work on Punjabi Muslim communities."
+    },
+    {
+      "filename": "taittiriya-upanishad.md",
+      "title": "Taittiriya Upanishad",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 10,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 242,
+      "overall_score": 9.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise academic terminology",
+        "Comprehensive cultural and philosophical context"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "An exemplary scholarly description that meticulously captures the Taittiriya Upanishad's philosophical, pedagogical, and cultural significance with academic rigor and precision."
+    },
+    {
+      "filename": "stories-from-tagore-tagore-rabindranath.md",
+      "title": "Stories from Tagore",
+      "scholarly_tone": 9,
+      "historical_context": 10,
+      "specificity": 9,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 8,
+      "word_count": 332,
+      "overall_score": 9.1,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Comprehensive historical contextualization",
+        "Deep cultural and scholarly analysis"
+      ],
+      "key_weaknesses": [
+        "Slightly longer than ideal length",
+        "Detailed example might be too narrative-focused"
+      ],
+      "one_sentence_feedback": "A scholarly, historically nuanced description that effectively captures the cultural significance of Tagore's short story collection with rigorous academic precision."
+    },
+    {
+      "filename": "natives-of-northern-india-crooke.md",
+      "title": "Natives of Northern India",
+      "scholarly_tone": 9,
+      "historical_context": 10,
+      "specificity": 9,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 251,
+      "overall_score": 9.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Detailed historical contextualization"
+      ],
+      "key_weaknesses": [
+        "Minor potential over-elaboration"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that provides nuanced insights into William Crooke's colonial-era ethnographic work on northern Indian societies."
+    },
+    {
+      "filename": "mauryan-polity-dikshitar.md",
+      "title": "Mauryan Polity",
+      "scholarly_tone": 9,
+      "historical_context": 10,
+      "specificity": 9,
+      "indian_relevance": 10,
+      "marketing_free": 9,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 285,
+      "overall_score": 9.29,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise historical analysis",
+        "Rich contextual details"
+      ],
+      "key_weaknesses": [
+        "Minor potential for slight overstatement"
+      ],
+      "one_sentence_feedback": "A scholarly and meticulously crafted description that provides comprehensive insights into Dikshitar's seminal work on Mauryan political systems"
+    },
+    {
+      "filename": "bibliotheca-indica-volume-96.md",
+      "title": "Bibliotheca Indica, Volume 96",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 8,
+      "indian_relevance": 9,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 270,
+      "overall_score": 9.3,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Rich historical contextualization",
+        "Deep engagement with Indian cultural heritage"
+      ],
+      "key_weaknesses": [
+        "Minor areas of potential over-complexity",
+        "Slightly dense prose"
+      ],
+      "one_sentence_feedback": "An exemplary scholarly description that masterfully captures the historical and cultural significance of the Bibliotheca Indica with nuanced academic precision."
+    },
+    {
+      "filename": "gitanjali-tagore-rabindranath.md",
+      "title": "Gitanjali",
+      "scholarly_tone": 9,
+      "historical_context": 10,
+      "specificity": 9,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 290,
+      "overall_score": 9.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Rich historical and cultural context"
+      ],
+      "key_weaknesses": [
+        "Minor complexity of some sentences"
+      ],
+      "one_sentence_feedback": "A scholarly, nuanced, and contextually rich description that expertly illuminates Gitanjali's cultural and literary significance."
+    },
+    {
+      "filename": "ramacharitamanasa-tulsidas.md",
+      "title": "Ramcharitmanas",
+      "scholarly_tone": 9,
+      "historical_context": 10,
+      "specificity": 10,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 283,
+      "overall_score": 9.57,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Comprehensive historical contextualization",
+        "Deep cultural and scholarly analysis"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "An exceptionally scholarly, nuanced, and contextually rich description that masterfully captures the historical, cultural, and literary significance of Ramcharitmanas."
+    },
+    {
+      "filename": "castes-and-tribes-of-southern-india-vol-1-of-7-thurston-edgar.md",
+      "title": "Castes and Tribes of Southern India, Volume 1 of 7",
+      "scholarly_tone": 9,
+      "historical_context": 10,
+      "specificity": 10,
+      "indian_relevance": 9,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 551,
+      "overall_score": 9.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Comprehensive historical contextualization",
+        "Highly detailed scholarly analysis"
+      ],
+      "key_weaknesses": [
+        "Slightly long description",
+        "Complex academic language"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that provides exceptional depth and nuance in documenting a critical ethnographic work on southern Indian social history."
+    },
+    {
+      "filename": "philosophy-upanishads-ancient-indian-metaphysics-archibald-gough.md",
+      "title": "The Philosophy of the Upanishads and Ancient Indian Metaphysics",
+      "scholarly_tone": 9,
+      "historical_context": 8,
+      "specificity": 9,
+      "indian_relevance": 9,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 8,
+      "word_count": 305,
+      "overall_score": 8.7,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Detailed historical contextualization",
+        "Deep engagement with Indian philosophical concepts"
+      ],
+      "key_weaknesses": [
+        "Slight verbosity",
+        "Complex sentence structures"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that offers rich intellectual analysis of Gough's seminal work on Upanishadic philosophy."
+    },
+    {
+      "filename": "natya-shastra-bharata-muni.md",
+      "title": "Natya Shastra (Treatise on the Performing Arts)",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 10,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 204,
+      "overall_score": 9.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise academic terminology",
+        "Rich historical and cultural context"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that comprehensively captures the Natya Shastra's profound cultural and artistic significance."
+    },
+    {
+      "filename": "atmatattvaviveka-udayanacharya.md",
+      "title": "Ātmatattva viveka (Discrimination of the Nature of the Self)",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 10,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 8,
+      "word_count": 302,
+      "overall_score": 9.1,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic vocabulary",
+        "Precise historical and philosophical context"
+      ],
+      "key_weaknesses": [
+        "Slightly over ideal word count range"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that offers rich intellectual and historical insight into Udayanacharya's philosophical work."
+    },
+    {
+      "filename": "prabandhacintamani-merutunga-tr-tawney-1899-1901.md",
+      "title": "Prabandhacintāmaṇi (The Wishing-Stone of Narratives)",
+      "scholarly_tone": 9,
+      "historical_context": 10,
+      "specificity": 9,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 274,
+      "overall_score": 9.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise academic vocabulary",
+        "Rich historical and cultural context"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that comprehensively captures the historical, cultural, and literary significance of the Prabandhacintāmaṇi."
+    },
+    {
+      "filename": "catalogue-of-coins-indian-museum-calcutta.md",
+      "title": "Catalogue of the Coins in the Indian Museum, Calcutta",
+      "scholarly_tone": 9,
+      "historical_context": 10,
+      "specificity": 9,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 268,
+      "overall_score": 9.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise academic language",
+        "Rich historical contextualization"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that comprehensively captures the historical and cultural significance of Smith's numismatic catalogue."
+    },
+    {
+      "filename": "the-jungle-books-kipling-rudyard.md",
+      "title": "The Jungle Books",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 10,
+      "indian_relevance": 4,
+      "marketing_free": 9,
+      "preamble_free": 10,
+      "length_appropriate": 8,
+      "word_count": 234,
+      "overall_score": 8.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic analysis",
+        "Detailed historical and literary contextualization"
+      ],
+      "key_weaknesses": [
+        "Limited exploration of Indian cultural context",
+        "Colonial perspective dominates interpretation"
+      ],
+      "one_sentence_feedback": "A scholarly description with rigorous analysis, though somewhat detached from deeper Indian cultural nuances."
+    },
+    {
+      "filename": "newton-forster-or-the-merchant-service-marryat-frederick.md",
+      "title": "Newton Forster; Or, The Merchant Service",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 8,
+      "indian_relevance": 7,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 267,
+      "overall_score": 8.7,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Comprehensive historical contextualization"
+      ],
+      "key_weaknesses": [
+        "Could provide more explicit details about Indian interactions",
+        "Slightly generalized maritime descriptions"
+      ],
+      "one_sentence_feedback": "A scholarly, nuanced analysis that effectively situates the maritime novel within broader imperial and cultural contexts, with particular attention to maritime networks involving India."
+    },
+    {
+      "filename": "sangita-ratnakara-sarangadeva.md",
+      "title": "Sangita Ratnakara",
+      "scholarly_tone": 10,
+      "historical_context": 10,
+      "specificity": 10,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 296,
+      "overall_score": 9.7,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise scholarly terminology",
+        "Comprehensive historical contextualization"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "An exceptionally scholarly and nuanced description that provides rich, contextual insights into the Sangita Ratnakara's cultural and musicological significance."
+    },
+    {
+      "filename": "kulliyat-e-fani-collected-poems-fani-badayuni.md",
+      "title": "Kulliyat-e-Fani (Collected Poems)",
+      "scholarly_tone": 10,
+      "historical_context": 9,
+      "specificity": 10,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 8,
+      "word_count": 313,
+      "overall_score": 9.3,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Detailed historical and cultural contextualization"
+      ],
+      "key_weaknesses": [
+        "Slightly longer than ideal word count range"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that expertly situates Kulliyat-e-Fani within its rich cultural and historical context."
+    },
+    {
+      "filename": "buddhacharita-asvaghosha-cowell.md",
+      "title": "The Buddhacharita (Life of Buddha)",
+      "scholarly_tone": 9,
+      "historical_context": 10,
+      "specificity": 9,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 8,
+      "word_count": 299,
+      "overall_score": 9.1,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise historical contextualization",
+        "Deep scholarly analysis of cultural significance"
+      ],
+      "key_weaknesses": [
+        "Slightly over ideal word count length",
+        "Complex language might challenge some readers"
+      ],
+      "one_sentence_feedback": "An exceptionally scholarly and nuanced description that masterfully captures the historical and cultural significance of the Buddhacharita with remarkable academic precision."
+    },
+    {
+      "filename": "taittriya-upanishad.md",
+      "title": "Taittiriya Upanishad",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 8,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 255,
+      "overall_score": 9.14,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Rich historical and cultural contextualization"
+      ],
+      "key_weaknesses": [
+        "Minor reduction in specificity of scholarly details",
+        "Potential over-elaboration in some philosophical descriptions"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that comprehensively captures the philosophical and cultural significance of the Taittiriya Upanishad with exceptional academic rigor."
+    },
+    {
+      "filename": "brahmanda-purana.md",
+      "title": "Brahmanda Purana",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 10,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 286,
+      "overall_score": 9.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise academic language",
+        "Comprehensive historical and cultural context"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "An exceptionally scholarly and nuanced description that demonstrates deep academic understanding of the Brahmanda Purana's cultural and theological significance."
+    },
+    {
+      "filename": "bhagavad-gita-christian-literature-society-1899.md",
+      "title": "The Bhagavad Gita",
+      "scholarly_tone": 9,
+      "historical_context": 8,
+      "specificity": 9,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 290,
+      "overall_score": 9.14,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Deep cultural and philosophical context"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that comprehensively captures the Bhagavad Gita's philosophical depth and cultural significance."
+    },
+    {
+      "filename": "south-indian-inscriptions-vol-i-archaeological-survey-of-india.md",
+      "title": "South Indian Inscriptions, Vol. I",
+      "scholarly_tone": 9,
+      "historical_context": 10,
+      "specificity": 9,
+      "indian_relevance": 10,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 260,
+      "overall_score": 9.43,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise academic language",
+        "Rich historical and cultural details"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that comprehensively captures the historical significance of South Indian inscriptional records."
+    },
+    {
+      "filename": "folk-tales-of-sind-and-guzarat-kincaid-c-a-charles-augustus.md",
+      "title": "Folk tales of Sind and Guzarat",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 10,
+      "indian_relevance": 9,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 249,
+      "overall_score": 9.29,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Precise historical and cultural contextualization"
+      ],
+      "key_weaknesses": [
+        "None significant"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that comprehensively captures the cultural and historical significance of Kincaid's folk tale compilation."
+    },
+    {
+      "filename": "buddhist-art-in-india-grünwedel.md",
+      "title": "Buddhist art in India",
+      "scholarly_tone": 9,
+      "historical_context": 9,
+      "specificity": 10,
+      "indian_relevance": 9,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 10,
+      "word_count": 287,
+      "overall_score": 9.29,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Sophisticated academic language",
+        "Detailed historical and cultural contextualization"
+      ],
+      "key_weaknesses": [
+        "Potentially complex sentence structures"
+      ],
+      "one_sentence_feedback": "A meticulously crafted scholarly description that comprehensively explores the historical and cultural significance of Grünwedel's seminal work on Buddhist art in India."
+    },
+    {
+      "filename": "india-under-british-rule-from-the-foundation-of-the-east-india-company-wheeler-james-talboys.md",
+      "title": "India Under British Rule from the Foundation of the East India Company",
+      "scholarly_tone": 9,
+      "historical_context": 10,
+      "specificity": 8,
+      "indian_relevance": 9,
+      "marketing_free": 10,
+      "preamble_free": 10,
+      "length_appropriate": 8,
+      "word_count": 204,
+      "overall_score": 9.1,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Academic language",
+        "Detailed historical context"
+      ],
+      "key_weaknesses": [
+        "Could provide slightly more specific details"
+      ],
+      "one_sentence_feedback": "A scholarly and comprehensive description that effectively captures the historical nuances of British colonial rule in India"
+    },
+    {
+      "filename": "buddhist-india-rhys-davids.md",
+      "title": "Buddhist India",
+      "scholarly_tone": 10,
+      "historical_context": 10,
+      "specificity": 9,
+      "indian_relevance": 10,
+      "marketing_free": 9,
+      "preamble_free": 10,
+      "length_appropriate": 8,
+      "word_count": 262,
+      "overall_score": 9.4,
+      "grade": "EXCELLENT",
+      "key_strengths": [
+        "Precise scholarly language",
+        "Deep historical contextualisation"
+      ],
+      "key_weaknesses": [
+        "Slight verbosity",
+        "Complex sentence structures"
+      ],
+      "one_sentence_feedback": "An exceptionally rigorous and nuanced scholarly description that comprehensively captures the academic significance of Rhys Davids's pioneering work on early Buddhist India."
+    }
+  ]
+}

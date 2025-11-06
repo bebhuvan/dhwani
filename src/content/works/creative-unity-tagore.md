@@ -1,28 +1,35 @@
 ---
-title: "Creative Unity"
-author: ["Rabindranath Tagore"]
+title: 'Creative Unity'
+author:
+- Rabindranath Tagore
 year: 1922
-language: ["English"]
-genre: ["Essays", "Philosophy", "Cultural Criticism"]
-description: "Rabindranath Tagore's 1922 essay collection addresses post-WWI civilization's crisis, critiquing nationalism and materialism while articulating alternative modernity rooted in India's spiritual heritage."
-collections: ["modern-literature", "spiritual-texts"]
+language:
+- English
+genre:
+- Essays
+- Philosophy
+- Cultural Criticism
+description: |
+  In the tumultuous intellectual landscape of early 20th-century India, Rabindranath Tagore's "Creative Unity" emerges as a profound philosophical meditation on civilization, nationalism, and human interconnectedness during a period of intense global transformation. Published in 1922, this collection of essays reflects Tagore's nuanced critique of emerging nationalist ideologies and Western materialist paradigms, offering an alternative vision of cultural and spiritual development rooted in the intellectual traditions of Bengal and broader Indian philosophical thought. Drawing from his multifaceted background as a poet, philosopher, and social reformer, Tagore examines the tensions between individual creativity, collective identity, and universal human experience. The work critically analyzes the destructive potential of narrow nationalism in the aftermath of World War I, while simultaneously proposing a more holistic understanding of cultural unity that transcends geographical and political boundaries. Tagore's philosophical approach integrates insights from Indian spiritual traditions, particularly the syncretic philosophical currents of Bengal Renaissance, with a cosmopolitan perspective that challenges prevailing colonial epistemologies. By emphasizing the dynamic, creative potential of human consciousness and cultural exchange, the essays explore themes of spiritual interconnectedness, aesthetic experience, and the transformative power of individual and collective creativity. As a seminal text in early 20th-century Indian intellectual discourse, "Creative Unity" represents a sophisticated critique of colonial modernity and offers a nuanced alternative framework for understanding cultural identity, social progress, and human potential that remains deeply relevant to contemporary discussions of globalization, cultural difference, and human solidarity.
+collections:
+- modern-literature
+- spiritual-texts
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/23136"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/creativeunity00tagoiala"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/23136
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/creativeunity00tagoiala
+  type: other
 references:
-  - name: "Wikipedia: Rabindranath Tagore"
-    url: "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
-    type: "wikipedia"
-  - name: "Open Library: Creative Unity"
-    url: "https://openlibrary.org/search?q=Creative+Unity+Tagore&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Rabindranath Tagore'
+  url: https://en.wikipedia.org/wiki/Rabindranath_Tagore
+  type: wikipedia
+- name: 'Open Library: Creative Unity'
+  url: https://openlibrary.org/search?q=Creative+Unity+Tagore&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-04
-tags: ["Rabindranath Tagore", "Indian philosophy", "cultural criticism", "East and West", "post-WWI", "nationalism", "internationalism", "creative unity", "Hindu philosophy", "modernization", "civilization", "20th century"]
 ---
 
 # Creative Unity

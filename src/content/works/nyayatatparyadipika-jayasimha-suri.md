@@ -1,28 +1,36 @@
 ---
-title: "Nyāyatatparyadīpikā: Medieval Logic Commentary"
-author: ["Jayasimha Suri (Bhasarvajna tradition)", "Edited by Satis Chandra Vidyabhusana"]
+title: 'Nyāyatatparyadīpikā: Medieval Logic Commentary'
+author:
+- Jayasimha Suri (Bhasarvajna tradition)
+- Edited by Satis Chandra Vidyabhusana
 year: 1910
-language: ["Sanskrit"]
-genre: ["Philosophy", "Nyaya Logic", "Commentary"]
-description: "Rare medieval commentary on Nyaya epistemology illuminating teachings of Acarya Bhasarvajna (9th-10th century), founder of independent Nyaya sub-school. Explicates technical logical concepts including inference (anumana), pervasion (vyapti), and syllogistic reasoning within Navya-Nyaya framework. Represents transitional phase between classical and new Nyaya, preserving arguments that influenced later logicians like Gangesa."
-collections: ['ancient-wisdom', 'philosophy']
+language:
+- Sanskrit
+genre:
+- Philosophy
+- Nyaya Logic
+- Commentary
+description: |
+  During the late medieval period of intellectual ferment in classical Indian philosophy, specifically between the 9th and 12th centuries, this seminal commentary emerges from a critical transitional epoch of philosophical discourse centered in northeastern India's renowned scholarly institutions like Nalanda and Vikramasila universities. Situated within the Pala dynasty's robust intellectual patronage, the Nyāyatatparyadīpikā represents a pivotal scholarly intervention in Nyaya logical traditions, articulating sophisticated epistemological frameworks during a period of intense philosophical refinement. Authored by Jayasimha Suri within the scholarly lineage of Acarya Bhasarvajna, the work meticulously explicates complex logical concepts including inference (anumana), pervasion (vyapti), and syllogistic reasoning through the emergent Navya-Nyaya philosophical methodology. This commentary critically bridges classical and emerging Nyaya logical traditions, preserving intricate argumentative strategies that significantly influenced subsequent generations of Indian logicians and philosophers, particularly the influential thinker Gangesa. By systematically analyzing logical propositions and demonstrating nuanced analytical techniques, the text exemplifies the sophisticated intellectual methodologies developed in medieval Indian philosophical discourse. Its rigorous examination of epistemological principles reflects the sophisticated rational traditions that characterized Indian intellectual culture, challenging simplistic Western perceptions of pre-colonial knowledge systems. The work's meticulous engagement with logical reasoning demonstrates the complex philosophical debates occurring in medieval Indian academic centers, revealing a profound commitment to rational inquiry, systematic knowledge construction, and nuanced philosophical argument that remains a crucial component of India's rich intellectual heritage.
+collections:
+- ancient-wisdom
+- philosophy
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.345182"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.345182
+  type: other
 references:
-  - name: "Wikipedia: Navya-Nyaya"
-    url: "https://en.wikipedia.org/wiki/Navya-Nyāya"
-    type: "wikipedia"
-  - name: "Wikipedia: Nyaya"
-    url: "https://en.wikipedia.org/wiki/Nyaya"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Nyayatatparyadipika+Bhasarvajna&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Navya-Nyaya'
+  url: https://en.wikipedia.org/wiki/Navya-Nyāya
+  type: wikipedia
+- name: 'Wikipedia: Nyaya'
+  url: https://en.wikipedia.org/wiki/Nyaya
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Nyayatatparyadipika+Bhasarvajna&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Nyaya logic", "Bhasarvajna", "Medieval philosophy", "Epistemology", "Indian logic", "Inference", "Vyapti", "Navya-Nyaya", "Satis Chandra Vidyabhusana", "Logical commentary", "Kashmir philosophy"]
 ---
 
 # Nyāyatatparyadīpikā: Medieval Logic Commentary

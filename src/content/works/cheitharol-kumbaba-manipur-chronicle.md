@@ -1,28 +1,34 @@
 ---
-title: "Cheitharol Kumbaba (Royal Chronicle of Manipur)"
-author: ["Lairenmayum Ibungohal Singh"]
+title: 'Cheitharol Kumbaba (Royal Chronicle of Manipur)'
+author:
+- Lairenmayum Ibungohal Singh
 year: 1969
-language: ["Manipuri (Meitei)"]
-genre: ["Royal Chronicle", "Court History"]
-description: "Official royal chronicle of Meitei kings of Manipur recording day-to-day court events from legendary king Nongda Lairen Pakhangba (claimed 33 CE). This 722-page edition documents genealogy and major events of Ningthouja dynasty through 76 successive rulers until 1955. Covers crucial periods including King Kiyamba's reign when chronicle-keeping was learned from Shans, introduction of Vaishnavism under Charairongba, and conflicts with Burma and British intervention."
-collections: ['regional-history', 'court-chronicles']
+language:
+- Manipuri (Meitei)
+genre:
+- Royal Chronicle
+- Court History
+description: |
+  The Cheitharol Kumbaba represents a foundational historical manuscript chronicling the royal lineage and administrative history of the Manipuri Ningthouja dynasty, presenting a continuous narrative from 33 CE through 1955. This meticulously maintained royal chronicle serves as a critical primary source for understanding the complex political, cultural, and social dynamics of northeastern India, particularly the kingdom of Manipur. Compiled by Lairenmayum Ibungohal Singh in 1969, the 722-page document systematically records daily court proceedings, genealogical successions, diplomatic interactions, and significant historical events across 76 successive monarchical reigns. The manuscript captures pivotal transitional moments in Manipuri history, including the cultural exchange with Shan kingdoms during King Kiyamba's reign, which introduced sophisticated chronicle-keeping techniques, and the gradual religious transformation marked by the introduction of Vaishnavism under King Charairongba. Critically, the text provides nuanced insights into the region's geopolitical landscape, documenting complex interactions with neighboring kingdoms like Burma and emerging colonial powers, particularly British imperial administrators. Its detailed documentation offers scholars invaluable perspectives on indigenous governance structures, ritual practices, and sociopolitical negotiations in a region often marginalized in mainstream Indian historical narratives. Beyond its historical significance, the Cheitharol Kumbaba embodies the sophisticated literary and administrative traditions of Manipuri royal courts, demonstrating the intellectual sophistication and record-keeping precision of northeastern Indian kingdoms during pre-colonial and colonial periods. As a linguistic and historical artifact, it remains an essential resource for understanding the multicultural, multilayered heritage of India's northeastern region.
+collections:
+- regional-history
+- court-chronicles
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.465263"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.465263
+  type: other
 references:
-  - name: "Wikipedia: Cheitharol Kumbaba"
-    url: "https://en.wikipedia.org/wiki/Cheitharol_Kumbaba"
-    type: "wikipedia"
-  - name: "Wikipedia: History of Manipur"
-    url: "https://en.wikipedia.org/wiki/History_of_Manipur"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Cheitharol+Kumbaba+Manipur&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Cheitharol Kumbaba'
+  url: https://en.wikipedia.org/wiki/Cheitharol_Kumbaba
+  type: wikipedia
+- name: 'Wikipedia: History of Manipur'
+  url: https://en.wikipedia.org/wiki/History_of_Manipur
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Cheitharol+Kumbaba+Manipur&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Cheitharol Kumbaba", "Manipur history", "Meitei", "Royal chronicle", "Northeast India", "Ningthouja dynasty", "Vaishnavism", "Court history", "Burmese wars"]
 ---
 
 # Cheitharol Kumbaba (Royal Chronicle of Manipur)

@@ -1,28 +1,36 @@
 ---
-title: "Storia do Mogor: Mogul India 1653-1708"
-author: ["Niccolò Manucci", "ed. William Irvine"]
+title: 'Storia do Mogor: Mogul India 1653-1708'
+author:
+- Niccolò Manucci
+- ed. William Irvine
 year: 1907
-language: ["English", "Italian"]
-genre: ["Historical Literature", "Travel Literature", "Memoirs"]
-description: "The *Storia do Mogor* ('Story of the Mughal Empire') is Venetian adventurer Niccolò Manucci's (1638-1717) sixty-year Mughal India memoir, documenting the empire's transformation from Shah Jahan's zenith to fragmentation under Aurangzeb and successors.'Story of the Mughal Empire') is Venetian adventurer Niccolò Manucci's (1638-1717) sixty-year Mughal India memoir, documenting the empire's transformation from Shah Jahan's zenith to fragmentation under Aurangzeb and successors."
-collections: ['modern-literature']
+language:
+- English
+- Italian
+genre:
+- Historical Literature
+- Travel Literature
+- Memoirs
+description: |
+  The *Storia do Mogor* represents a pivotal historical narrative documenting the complex socio-political landscape of Mughal India during its late 17th-century transitional period, composed by Venetian traveler and physician Niccolò Manucci (1638-1717). Written from extensive personal observations spanning six decades, the memoir provides a nuanced European perspective on the imperial court during a critical phase of political transformation, extending from Shah Jahan's architectural and cultural zenith through Aurangzeb's increasingly fraught reign and the subsequent fragmentation of Mughal administrative power. Manucci's unique positionality as a foreign resident—simultaneously an outsider and intimate observer—enables a rare anthropological and diplomatic lens into the intricate dynamics of Mughal court life, imperial governance, and the emerging interactions between European trading powers and Indigenous political structures. The text offers granular insights into courtly rituals, diplomatic negotiations, military strategies, and cultural exchanges, documenting a period of profound complexity characterized by internal succession conflicts, technological adaptations, and the gradual erosion of centralized imperial authority. Beyond its historical narrative, the work serves as a critical intercultural document bridging European and Indian epistemological frameworks, providing scholarly researchers with a sophisticated ethnographic account of a transitional epoch in South Asian imperial history. Manucci's meticulous observations—incorporating medical practices, architectural descriptions, social hierarchies, and diplomatic intricacies—constitute a significant contribution to understanding the nuanced cultural interactions and power dynamics of late 17th-century Mughal India, making the *Storia do Mogor* an indispensable primary source for historians, anthropologists, and cultural scholars investigating this transformative period of Indian historical experience.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/storiadomogororm01manuuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/storiadomogororm01manuuoft
+  type: other
 references:
-  - name: "Wikipedia: Niccolò Manucci"
-    url: "https://en.wikipedia.org/wiki/Niccol%C3%B2_Manucci"
-    type: "wikipedia"
-  - name: "Wikipedia: Storia do Mogor"
-    url: "https://en.wikipedia.org/wiki/Storia_do_Mogor"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Storia+do+Mogor+Manucci&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Niccolò Manucci'
+  url: https://en.wikipedia.org/wiki/Niccol%C3%B2_Manucci
+  type: wikipedia
+- name: 'Wikipedia: Storia do Mogor'
+  url: https://en.wikipedia.org/wiki/Storia_do_Mogor
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Storia+do+Mogor+Manucci&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-21
-tags: ["Mughal Empire", "Niccolò Manucci", "17th century", "18th century", "Aurangzeb", "Shah Jahan", "Dara Shikoh", "European travelers", "Indian History", "Memoirs", "Military history", "Mughal decline", "William Irvine", "Primary source", "Venetian adventurer"]
 ---
 
 # Storia do Mogor: Mogul India 1653-1708

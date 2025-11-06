@@ -9,29 +9,22 @@ genre:
 - Fiction
 - Historical Literature
 - Colonial Fiction
-description: A historical novel set against the backdrop of the Indian Rebellion of
-  1857, exploring the tensions and conflicts between British colonial forces and Indian
-  sepoys. The narrative follows characters caught in the chaos of the uprising, examining
-  themes of loyalty, sacrifice, and personal struggle amid historical upheaval.
+description: |
+  Louis Tracy's "The Red Year: A Story of the Indian Mutiny" represents a significant literary artifact of early 20th-century British imperial fiction, critically situated within the complex narrative landscape of colonial representations of the 1857 Indian Rebellion. Published during a transformative period of British imperial discourse, the novel offers a nuanced exploration of the sociopolitical tensions that characterized the uprising, positioning itself as a narrative intervention in understanding the profound cultural and political dynamics of colonial encounter. Tracy, a prolific journalist and novelist associated with the adventure fiction genre, employs a historically contextual approach that examines the intricate human relationships and systemic tensions underlying the rebellion. The novel meticulously reconstructs the historical moment through a narrative that explores individual and collective experiences of loyalty, betrayal, and cultural confrontation, revealing the psychological complexities of colonial interactions. By dramatizing the experiences of British colonial officials, Indian sepoys, and local populations, Tracy's work provides a multilayered examination of imperial power structures, cultural misunderstandings, and the human cost of colonial conflict. While reflective of predominantly British narrative perspectives, the novel simultaneously offers critical insights into the mechanisms of imperial governance and the profound social disruptions caused by colonial interventions. Its significance for Indian literary studies lies in its documentation of a pivotal historical moment and its representation of cross-cultural encounters during a critical period of imperial transformation, making it a valuable text for understanding the discursive strategies of colonial literature and the complex narratives of resistance and accommodation that characterized the Indian colonial experience.
 collections:
 - modern-literature
 sources:
-- name: Project Gutenberg
+- name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/36478
   type: other
-- name: Project Gutenberg (HTML)
+- name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/36478.html.images
   type: other
 - name: 'Internet Archive (The Red Year: A Story of the Indian Mutiny)'
   url: https://archive.org/details/theredyearastory36478gut
   type: other
-references: []
 featured: false
 publishDate: 2025-11-01
-tags:
-- public domain
-- India -- History -- Sepoy Rebellion, 1857-1858 -- Fiction
-- 'Open Library: The Red Year: A Story of the Indian Mutiny'
 ---
 
 # The Red Year: A Story of the Indian Mutiny

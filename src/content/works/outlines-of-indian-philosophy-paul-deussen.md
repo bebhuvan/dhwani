@@ -1,31 +1,38 @@
 ---
-title: "Outlines of Indian Philosophy"
-author: ["Paul Deussen"]
+title: 'Outlines of Indian Philosophy'
+author:
+- Paul Deussen
 year: 1907
-language: ["English"]
-genre: ["Philosophy", "Comparative Philosophy"]
-description: "Originally published in Berlin in 1907, this philosophical treatise systematically outlines major schools of Indian philosophy for Western audiences, examining Vedic thought, Upanishadic philosophy, and various darshanas, with a substantial appendix comparing Vedanta metaphysics with Western phil..."
-collections: ['ancient-wisdom', 'modern-literature', 'spiritual-texts']
+language:
+- English
+genre:
+- Philosophy
+- Comparative Philosophy
+description: |
+  Originally published in Berlin in 1907, Paul Deussen's "Outlines of Indian Philosophy" represents a seminal scholarly contribution to Western understanding of Indian philosophical traditions during the late 19th and early 20th-century period of Indological research. Deussen, a close associate of Friedrich Nietzsche and a prominent philosopher trained in German academic traditions, systematically examines the intricate landscape of Indian philosophical thought, providing a comprehensive analysis of Vedic, Upanishadic, and classical darshana systems. The work critically bridges Western philosophical discourse with the nuanced metaphysical frameworks of Indian intellectual traditions, offering European scholars a rigorous, methodical exploration of complex philosophical concepts that had previously been marginalized or incompletely understood. By meticulously delineating the epistemological and ontological principles of schools like Samkhya, Yoga, Nyaya, and Vedanta, Deussen illuminates the sophisticated conceptual architectures of Indian philosophy, demonstrating its profound logical coherence and philosophical depth. The treatise's extensive appendix, which comparatively examines Vedanta metaphysics alongside Western philosophical models, was particularly groundbreaking, challenging prevailing Eurocentric intellectual paradigms and presenting Indian philosophical systems as sophisticated, autonomous intellectual traditions rather than exotic or primitive modes of thought. Emerging during a critical period of cross-cultural scholarly exchange, the work exemplifies the German academic tradition's commitment to systematic, comparative philosophical analysis, while simultaneously contributing to a more nuanced, respectful understanding of Indian intellectual heritage. Deussen's scholarly approach not only expanded European philosophical horizons but also played a crucial role in establishing Indian philosophy as a rigorous, legitimate field of academic investigation.
+collections:
+- ancient-wisdom
+- modern-literature
+- spiritual-texts
 sources:
-  - name: "Internet Archive (1976 reprint)"
-    url: "https://archive.org/details/outlinesofindian00deusuoft"
-    type: "other"
+- name: 'Internet Archive (1976 reprint)'
+  url: https://archive.org/details/outlinesofindian00deusuoft
+  type: other
 references:
-  - name: "Wikipedia: Paul Deussen"
-    url: "https://en.wikipedia.org/wiki/Paul_Deussen"
-    type: "wikipedia"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=Outlines+of+Indian+Philosophy+Deussen"
-    type: "other"
-  - name: "Wikidata: Paul Deussen"
-    url: "https://www.wikidata.org/wiki/Q26714"
-    type: "other"
-  - name: "PhilPapers Entry"
-    url: "https://philpapers.org/rec/DEUOOI"
-    type: "other"
+- name: 'Wikipedia: Paul Deussen'
+  url: https://en.wikipedia.org/wiki/Paul_Deussen
+  type: wikipedia
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=Outlines+of+Indian+Philosophy+Deussen
+  type: other
+- name: 'Wikidata: Paul Deussen'
+  url: https://www.wikidata.org/wiki/Q26714
+  type: other
+- name: 'PhilPapers Entry'
+  url: https://philpapers.org/rec/DEUOOI
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Indian Philosophy", "Vedanta", "Comparative Philosophy", "Schopenhauer", "Upanishads", "Darshanas", "German Indology", "Western Philosophy", "Philosophical Treatise", "19th-20th Century Philosophy"]
 ---
 
 # Outlines of Indian Philosophy

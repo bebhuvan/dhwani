@@ -1,25 +1,32 @@
 ---
-title: "The Philosophy of the Upanishads and Ancient Indian Metaphysics"
-author: ["Archibald Edward Gough"]
+title: 'The Philosophy of the Upanishads and Ancient Indian Metaphysics'
+author:
+- Archibald Edward Gough
 year: 1882
-language: ["English"]
-genre: ["Philosophy", "Religious Studies", "Oriental Studies"]
-description: "Archibald Gough's comprehensive examination of Upanishadic philosophy and ancient Indian metaphysical thought. This influential 19th-century work represents early Western scholarly engagement with Indian philosophical traditions, providing systematic analysis of Vedic concepts including transmigration, yoga, and spiritual practice within comparative philosophical studies."
-collections: ['ancient-wisdom', 'spiritual-texts']
+language:
+- English
+genre:
+- Philosophy
+- Religious Studies
+- Oriental Studies
+description: |
+  Archibald Edward Gough's pioneering scholarly work represents a landmark exploration of Upanishadic philosophical traditions during the late 19th-century European intellectual engagement with Indian metaphysical thought. Published in 1882, the text emerges from the colonial scholarly environment of British India, providing a systematic analytical examination of ancient Indian philosophical concepts through a comparative Western philosophical lens. Gough meticulously deconstructs complex Vedantic philosophical principles, offering European academics and intellectuals a rigorous intellectual framework for understanding the profound metaphysical constructs embedded in Upanishadic literature. The work comprehensively explores fundamental concepts including atman (individual soul), brahman (universal consciousness), transmigration of souls, yogic practices, and the intricate relationship between individual spiritual experience and cosmic philosophical principles. By contextualizing these philosophical ideas within comparative philosophical discourse, Gough contributes significantly to early cross-cultural philosophical scholarship, bridging Western academic methodologies with sophisticated Indian philosophical traditions. His analysis illuminates core metaphysical principles of Hinduism, demonstrating the intellectual complexity and nuanced philosophical reasoning inherent in ancient Indian thought systems. The text is particularly notable for its scholarly approach during a period when European understanding of Indian philosophy was often superficial or exoticized. Gough's methodical interpretation provides critical insights into the epistemological and ontological dimensions of Upanishadic philosophy, presenting these ancient wisdom traditions as sophisticated intellectual constructs worthy of serious scholarly consideration. His work represents an important transitional moment in Western scholarly engagement with Indian philosophical heritage, challenging prevailing colonial-era intellectual prejudices and establishing a more nuanced, respectful approach to understanding non-Western philosophical traditions.
+collections:
+- ancient-wisdom
+- spiritual-texts
 sources:
-  - name: "Internet Archive (DLI)"
-    url: "https://archive.org/details/in.ernet.dli.2015.95948"
-    type: "other"
-  - name: "Internet Archive"
-    url: "https://archive.org/details/philosophyofupan00goug"
-    type: "other"
+- name: 'Internet Archive (DLI)'
+  url: https://archive.org/details/in.ernet.dli.2015.95948
+  type: other
+- name: 'Internet Archive'
+  url: https://archive.org/details/philosophyofupan00goug
+  type: other
 references:
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=The+Philosophy+Of+The+Upanishads+And+Ancient+Indian+Metaphysics&mode=everything"
-    type: "other"
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=The+Philosophy+Of+The+Upanishads+And+Ancient+Indian+Metaphysics&mode=everything
+  type: other
 featured: false
 publishDate: 2025-09-28
-tags: ["Upanishadic Philosophy", "Ancient Indian Metaphysics", "Archibald Gough", "Vedic Philosophy", "Oriental Studies", "Comparative Philosophy", "Hindu Philosophy", "Religious Studies", "Metaphysics", "19th Century Scholarship", "Cross-cultural Studies"]
 ---
 
 # The Philosophy of the Upanishads and Ancient Indian Metaphysics

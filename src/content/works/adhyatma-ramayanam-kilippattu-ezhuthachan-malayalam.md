@@ -1,43 +1,42 @@
 ---
-title: "Adhyātma Rāmāyaṇaṃ Kilipattu"
-author: ["Thunchath Ezhuthachan"]
+title: 'Adhyātma Rāmāyaṇaṃ Kilipattu'
+author:
+- Thunchath Ezhuthachan
 year: 1600
-language: ["Malayalam"]
-genre: ["Epic Poetry", "Religious Literature", "Devotional Poetry"]
-description: "Malayalam rendering of Adhyatma Ramayana composed early 17th century by Thunchath Ezhuthachan, father of Malayalam literature. Renders Sanskrit spiritual Ramayana into accessible Malayalam verse emphasizing Rama's divinity and devotional philosophy. Revolutionary kilippattu (parrot-song) style making epic narratives comprehensible to non-Sanskrit speakers. Established Malayalam script reforms and literary standards, founding modern Malayalam literary tradition. Central to Kerala's Ramayana performance traditions and devotional culture."
-collections: ['classical-literature', 'epic-poetry', 'devotional-literature']
+language:
+- Malayalam
+genre:
+- Epic Poetry
+- Religious Literature
+- Devotional Poetry
+description: |
+  Thunchath Ezhuthachan's Malayalam rendering of the Adhyatma Ramayana, composed in the early 17th century during the Kerala Renaissance period, represents a pivotal moment in South Indian literary and spiritual transformation. This seminal work reimagines the classical Sanskrit spiritual epic through the innovative kilippattu (parrot-song) poetic form, making the complex theological narratives of Ramayana accessible to vernacular Malayalam speakers. Ezhuthachan, widely recognized as the progenitor of modern Malayalam literature, strategically employed linguistic and stylistic innovations that fundamentally reshaped Kerala's literary landscape. The text emphasizes Rama's divine essence, presenting him not merely as a historical figure but as an embodiment of philosophical and spiritual consciousness, thereby bridging mythological narrative with profound devotional philosophy. By translating and interpreting the Sanskrit text through a regional linguistic lens, Ezhuthachan achieved multiple critical interventions: standardizing Malayalam script, democratizing spiritual knowledge, and establishing a vernacular literary tradition that resonated with broader social and cultural dynamics. The work's significance extends beyond literary achievement, serving as a crucial vehicle for religious instruction, cultural preservation, and spiritual transmission among Kerala's diverse communities. Its metrical innovations and philosophical depth influenced subsequent generations of Malayalam poets and philosophers, establishing a template for religious and literary expression that balanced classical Sanskrit traditions with regional sensibilities. As a foundational text in Kerala's literary canon, the Adhyātma Rāmāyaṇaṃ Kilipattu remains a quintessential example of how regional literary traditions dynamically reinterpret and reconstruct pan-Indian spiritual narratives.
+collections:
+- classical-literature
+- epic-poetry
+- devotional-literature
 sources:
-  - name: "Internet Archive (Malayalam Complete)"
-    url: "https://archive.org/details/in.ernet.dli.2015.462099"
-    type: "other"
-  - name: "Internet Archive (Adhyatma Ramayanam)"
-    url: "https://archive.org/details/adhyatma-ramayana-kilippattu"
-    type: "other"
-  - name: "Internet Archive (DLI Collection)"
-    url: "https://archive.org/details/dli.ernet.506644"
-    type: "other"
-  - name: "Internet Archive (Scholarly Edition)"
-    url: "https://archive.org/details/in.ernet.dli.2015.381167"
-    type: "other"
+- name: 'Internet Archive (Malayalam Complete)'
+  url: https://archive.org/details/in.ernet.dli.2015.462099
+  type: other
+- name: 'Internet Archive (Scholarly Edition)'
+  url: https://archive.org/details/in.ernet.dli.2015.381167
+  type: other
 references:
-  - name: "Wikipedia: Ezhuthachan"
-    url: "https://en.wikipedia.org/wiki/Thunchaththu_Ramanujan_Ezhuthachan"
-    type: "wikipedia"
-  - name: "Wikipedia: Adhyatma Ramayana"
-    url: "https://en.wikipedia.org/wiki/Adhyatma_Ramayana"
-    type: "wikipedia"
-  - name: "Wikipedia: Malayalam literature"
-    url: "https://en.wikipedia.org/wiki/Malayalam_literature"
-    type: "wikipedia"
-  - name: "Malayalam Wikisource"
-    url: "https://ml.wikisource.org/wiki/അധ്യാത്മരാമായണം_കിളിപ്പാട്ട്"
-    type: "wikisource"
-  - name: "OpenLibrary"
-    url: "https://openlibrary.org/search?q=Adhyatma+Ramayana+Malayalam+Ezhuthachan"
-    type: "other"
+- name: 'Wikipedia: Ezhuthachan'
+  url: https://en.wikipedia.org/wiki/Thunchaththu_Ramanujan_Ezhuthachan
+  type: wikipedia
+- name: 'Wikipedia: Adhyatma Ramayana'
+  url: https://en.wikipedia.org/wiki/Adhyatma_Ramayana
+  type: wikipedia
+- name: 'Wikipedia: Malayalam literature'
+  url: https://en.wikipedia.org/wiki/Malayalam_literature
+  type: wikipedia
+- name: 'OpenLibrary'
+  url: https://openlibrary.org/search?q=Adhyatma+Ramayana+Malayalam+Ezhuthachan
+  type: other
 featured: false
 publishDate: 2025-01-25
-tags: ["Malayalam literature", "Ramayana", "Epic poetry", "Ezhuthachan", "Devotional literature", "Kilippattu", "Kerala culture", "Sanskrit adaptation", "17th century", "Hindu literature", "Public domain"]
 ---
 
 # Adhyātma Rāmāyaṇaṃ Kilipattu

@@ -1,31 +1,38 @@
 ---
-title: "Folk Literature of Bengal"
-author: ["Dinesh Chandra Sen"]
+title: 'Folk Literature of Bengal'
+author:
+- Dinesh Chandra Sen
 year: 1920
-language: ["English"]
-genre: ["Folklore", "Literary Criticism", "Anthropology"]
-description: "This pioneering work originated from Dinesh Chandra Sen's 1917 Ramtanu Lahiri Fellowship lectures at the University of Calcutta, representing an early systematic scholarly study of Bengali folk literature. The volume preserves folk materials that were disappearing in early 20th-century Bengal due to urbanization and changing cultural practices."
-collections: ['modern-literature', 'regional-voices']
+language:
+- English
+genre:
+- Folklore
+- Literary Criticism
+- Anthropology
+description: |
+  Dinesh Chandra Sen's "Folk Literature of Bengal" represents a seminal scholarly intervention in early 20th-century Indian cultural anthropology, emerging during a critical period of colonial modernity and nascent nationalist cultural recuperation. Developed from Sen's 1917 Ramtanu Lahiri Fellowship lectures at the University of Calcutta, the work systematically documents and analyzes Bengali folk literary traditions at a moment when rapid urbanization and socio-economic transformations threatened to erase centuries-old oral narratives and performative cultural practices. Sen's comprehensive study meticulously catalogues diverse folk genres including ballads, songs, ritual narratives, and localized mythological traditions prevalent in rural Bengal, providing an unprecedented scholarly documentation of these ephemeral cultural expressions. The work critically examines the intricate relationships between folk literature, social structures, religious practices, and regional identity, illuminating how these narratives functioned as repositories of collective memory and social knowledge. By rigorously collecting and interpreting folk materials that were rapidly disappearing, Sen made a significant contribution to preserving Bengali cultural heritage during a transformative historical moment. His methodology, which combined ethnographic observation, linguistic analysis, and cultural hermeneutics, established foundational frameworks for subsequent folklore studies in the Indian subcontinent. The volume not only serves as a crucial archival resource but also represents an early sophisticated academic exploration of how marginalized oral traditions constitute essential components of broader cultural understanding, transcending mere antiquarian interest to offer profound insights into social dynamics, collective imagination, and cultural continuity in early 20th-century Bengal.
+collections:
+- modern-literature
+- regional-voices
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.24343"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.24343
+  type: other
 references:
-  - name: "Wikipedia: Dinesh Chandra Sen"
-    url: "https://en.wikipedia.org/wiki/Dinesh_Chandra_Sen"
-    type: "wikipedia"
-  - name: "Wikisource: Author Page"
-    url: "https://en.wikisource.org/wiki/Author:Dinesh_Chandra_Sen"
-    type: "wikisource"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=Folk+Literature+of+Bengal"
-    type: "other"
-  - name: "Wikidata: Dinesh Chandra Sen"
-    url: "https://www.wikidata.org/wiki/Q5278071"
-    type: "other"
+- name: 'Wikipedia: Dinesh Chandra Sen'
+  url: https://en.wikipedia.org/wiki/Dinesh_Chandra_Sen
+  type: wikipedia
+- name: 'Wikisource: Author Page'
+  url: https://en.wikisource.org/wiki/Author:Dinesh_Chandra_Sen
+  type: wikisource
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=Folk+Literature+of+Bengal
+  type: other
+- name: 'Wikidata: Dinesh Chandra Sen'
+  url: https://www.wikidata.org/wiki/Q5278071
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Bengali Folklore", "Folk Literature", "University of Calcutta", "Ramtanu Lahiri Fellowship", "Dinesh Chandra Sen", "Bengali Culture", "Oral Traditions", "Mymensingh Gitika", "20th Century Scholarship", "Folklore Studies"]
 ---
 
 # Folk Literature of Bengal

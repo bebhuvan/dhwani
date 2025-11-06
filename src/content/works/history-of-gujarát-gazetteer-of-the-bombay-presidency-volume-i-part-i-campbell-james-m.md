@@ -7,17 +7,15 @@ language:
 - English
 genre:
 - Historical Literature
-description: A comprehensive historical examination of the Gujarát region documenting
-  its early history, cultural divisions, and political developments. Campbell's work
-  traces the region's trajectory from ancient times through various dynastic periods
-  and foreign influences.
+description: |
+  James M. Campbell's "History of Gujarát: Gazetteer of the Bombay Presidency, Volume I, Part I" represents a critical scholarly documentation of the Gujarát region during the late 19th-century British colonial period, offering a comprehensive historical and ethnographic examination of one of western India's most culturally rich territories. Published in 1888 during the height of British imperial documentation efforts, the work meticulously traces Gujarát's historical trajectory from ancient civilizations through multiple dynastic transformations, including Mauryan, Gupta, Chalukya, and Mughal periods. Campbell's scholarly approach systematically investigates the region's complex political structures, sociocultural configurations, administrative divisions, and demographic compositions. The text provides nuanced insights into Gujarát's geographical landscape, indigenous governance systems, economic networks, and cultural interactions, drawing from archival records, archaeological evidence, and contemporary administrative documentation. By contextualizing regional developments within broader historical frameworks, Campbell's work illuminates the intricate social fabric of western Indian civilization, documenting linguistic diversity, religious practices, economic patterns, and administrative transformations. As a foundational colonial-era ethnographic study, the gazetteer serves as a critical primary source for understanding Gujarat's pre-independence socio-political configurations, offering contemporary scholars invaluable perspectives on regional history, cultural dynamics, and institutional evolution. The work's methodical documentation and analytical depth contribute significantly to understanding the complex historical processes that shaped Gujarat's contemporary identity, making it an essential reference for historians, anthropologists, and researchers investigating Indian regional studies and colonial-era documentation practices.
 collections:
 - classical-literature
 sources:
-- name: Project Gutenberg
+- name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/54652
   type: other
-- name: Project Gutenberg (HTML)
+- name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/54652.html.images
   type: other
 references:
@@ -29,10 +27,6 @@ references:
   type: other
 featured: false
 publishDate: 2025-11-01
-tags:
-- public domain
-- Gujarat (India) -- History
-- Campbell, James M.
 ---
 
 # History of Gujarát: Gazetteer of the Bombay Presidency, Volume I, Part I

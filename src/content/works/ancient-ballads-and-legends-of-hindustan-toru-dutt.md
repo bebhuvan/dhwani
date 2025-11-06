@@ -1,28 +1,36 @@
 ---
-title: "Ancient Ballads and Legends of Hindustan"
-author: ["Toru Dutt"]
+title: 'Ancient Ballads and Legends of Hindustan'
+author:
+- Toru Dutt
 year: 1882
-language: ["English"]
-genre: ["Poetry", "Ballads", "Translation"]
-description: "Published posthumously in 1882, five years after Toru Dutt's death from tuberculosis at age twenty-one, *Ancient Ballads and Legends of Hindustan* represents a remarkable achievement in early Indo-Anglian literature—poetry by Indians writing in English."
-collections: ["classical-literature", "poetry-collection", "regional-voices"]
+language:
+- English
+genre:
+- Poetry
+- Ballads
+- Translation
+description: |
+  Published posthumously in 1882, *Ancient Ballads and Legends of Hindustan* represents a pivotal work in the emerging tradition of Indo-Anglian literature during the late nineteenth-century colonial period. Authored by Toru Dutt, a remarkable Bengali woman writer who died at twenty-one from tuberculosis, the collection is a significant scholarly translation and poetic interpretation of traditional Indian narratives. Dutt, who was multilingual and deeply versed in Bengali, Sanskrit, and French literary traditions, meticulously translated and reimagined folk ballads and legendary stories from Hindu mythology and cultural memory. The work is particularly notable for its sophisticated linguistic approach, rendering complex narrative traditions into elegant English poetry while preserving the intrinsic cultural nuances and philosophical depth of the original sources. By translating these narratives, Dutt accomplished multiple critical interventions: she introduced English-language readers to the richness of Indian mythological and folkloric traditions, demonstrated the literary capabilities of Indian writers working in colonial languages, and created a profound dialogic space between indigenous narrative forms and colonial linguistic frameworks. The collection includes adaptations of stories from the Ramayana, Mahabharata, and various regional folk traditions, presenting them with a scholarly sensitivity that respects their original cultural contexts while making them accessible to a broader readership. Dutt's work is now recognized as a foundational text in postcolonial literary studies, exemplifying the complex cultural negotiations of nineteenth-century Indian intellectuals and their sophisticated engagement with linguistic and literary inheritance.
+collections:
+- classical-literature
+- poetry-collection
+- regional-voices
 sources:
-  - name: "Project Gutenberg"
-    url: "https://www.gutenberg.org/ebooks/23245"
-    type: "other"
-  - name: "Wikisource"
-    url: "https://en.wikisource.org/wiki/Ancient_Ballads_and_Legends_of_Hindustan"
-    type: "other"
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/23245
+  type: other
+- name: 'Wikisource'
+  url: https://en.wikisource.org/wiki/Ancient_Ballads_and_Legends_of_Hindustan
+  type: other
 references:
-  - name: "Wikipedia: Toru Dutt"
-    url: "https://en.wikipedia.org/wiki/Toru_Dutt"
-    type: "wikipedia"
-  - name: "Open Library: Ancient Ballads and Legends of Hindustan"
-    url: "https://openlibrary.org/search?q=Ancient+Ballads+And+Legends+Of+Hindustan&mode=everything"
-    type: "other"
+- name: 'Wikipedia: Toru Dutt'
+  url: https://en.wikipedia.org/wiki/Toru_Dutt
+  type: wikipedia
+- name: 'Open Library: Ancient Ballads and Legends of Hindustan'
+  url: https://openlibrary.org/search?q=Ancient+Ballads+And+Legends+Of+Hindustan&mode=everything
+  type: other
 featured: true
 publishDate: 2025-10-04
-tags: ["Toru Dutt", "Indo-Anglian poetry", "Sanskrit translation", "Mahabharata", "Ramayana", "Vishnu Purana", "ballads", "19th century India", "women poets", "Bengali literature", "cultural translation", "Hindu mythology"]
 ---
 
 # Ancient Ballads and Legends of Hindustan

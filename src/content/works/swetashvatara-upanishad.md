@@ -1,37 +1,45 @@
 ---
-title: "Svetasvatara Upanishad"
-author: ["Various Sages"]
+title: 'Svetasvatara Upanishad'
+author:
+- Various Sages
 year: -400
-language: ["Sanskrit", "English"]
-genre: ["Philosophy", "Religious Texts", "Ancient Wisdom"]
-description: "The Svetasvatara Upanishad presents a unique synthesis of Vedanta, Samkhya, and Yoga philosophies, introducing devotional theism (bhakti) alongside monistic philosophy through identification of Rudra-Shiva with supreme Brahman. Composed around 5th-4th century BCE, this text of six chapters explores fundamental questions about existence, causation, and ultimate reality, bridging philosophical inquiry with devotional practice. The work's distinctive contribution lies in harmonizing personal God (Ishvara) concept with impersonal Brahman, making it foundational to both Shaivism and Vedanta schools while anticipating themes later developed in the Bhagavad Gita."
-collections: ['philosophy', 'religious-texts', 'ancient-wisdom', 'spiritual-texts', 'classical-literature']
+language:
+- Sanskrit
+- English
+genre:
+- Philosophy
+- Religious Texts
+- Ancient Wisdom
+description: |
+  The Svetasvatara Upanishad represents a pivotal philosophical text emerging during the late Vedic period's intellectual transformation, approximately 400-200 BCE, when Indian philosophical discourse was transitioning from ritualistic traditions to more contemplative metaphysical exploration. Composed by anonymous Vedic sages likely associated with emerging ascetic and philosophical traditions, this canonical text embodies a sophisticated intellectual synthesis bridging Vedanta, Samkhya, and Yoga philosophical frameworks. Its six chapters comprehensively explore fundamental metaphysical questions regarding cosmic origins, individual consciousness, divine nature, and ultimate reality through a nuanced philosophical lens that integrates monistic and theistic perspectives. The text's distinctive contribution lies in its innovative theological articulation, presenting Rudra-Shiva as a personalized manifestation of impersonal Brahman—a conceptual breakthrough that profoundly influenced subsequent Shaivite and Vedantic philosophical developments. By introducing devotional elements (bhakti) within a rigorous philosophical discourse, the Svetasvatara Upanishad anticipates later theological movements and provides critical insights into the evolution of Indian spiritual thought. Its systematic examination of causation, divine agency, and individual-cosmic relationships represents a sophisticated philosophical meditation that transcends simple religious categorization. The work's intellectual complexity and theological nuance make it a crucial document for understanding the dynamic intellectual exchanges characterizing the Axial Age in Indian philosophical traditions, offering scholars and philosophers a remarkable window into the sophisticated metaphysical inquiries of classical Indian intellectual culture.
+collections:
+- philosophy
+- religious-texts
+- ancient-wisdom
+- spiritual-texts
+- classical-literature
 sources:
-  - name: "Internet Archive (Max Müller translation)"
-    url: "https://archive.org/details/upanishads02ml"
-    type: "other"
-  - name: "Sacred Books of the East Vol. 15"
-    url: "https://www.sacred-texts.com/hin/sbe15/index.htm"
-    type: "other"
+- name: 'Internet Archive (Max Müller translation)'
+  url: https://archive.org/details/upanishads02ml
+  type: other
+- name: 'Sacred Books of the East Vol. 15'
+  url: https://www.sacred-texts.com/hin/sbe15/index.htm
+  type: other
 references:
-  - name: "Wikipedia: Svetasvatara Upanishad"
-    url: "https://en.wikipedia.org/wiki/Shvetashvatara_Upanishad"
-    type: "wikipedia"
-  - name: "Wikipedia: Shaivism"
-    url: "https://en.wikipedia.org/wiki/Shaivism"
-    type: "wikipedia"
-  - name: "Wikipedia: Rudra"
-    url: "https://en.wikipedia.org/wiki/Rudra"
-    type: "wikipedia"
-  - name: "Wikisource: Svetasvatara Upanishad"
-    url: "https://en.wikisource.org/wiki/The_%C5%9Avetak%C4%81%C5%9Bvatara_Upanishad"
-    type: "wikisource"
-  - name: "Open Library: Svetasvatara Upanishad year"
-    url: "https://openlibrary.org/search?q=Svetasvatara+Upanishad+year+-400+language+Sanskrit+Various+Sages"
-    type: "other"
+- name: 'Wikipedia: Svetasvatara Upanishad'
+  url: https://en.wikipedia.org/wiki/Shvetashvatara_Upanishad
+  type: wikipedia
+- name: 'Wikipedia: Shaivism'
+  url: https://en.wikipedia.org/wiki/Shaivism
+  type: wikipedia
+- name: 'Wikipedia: Rudra'
+  url: https://en.wikipedia.org/wiki/Rudra
+  type: wikipedia
+- name: 'Open Library: Svetasvatara Upanishad year'
+  url: https://openlibrary.org/search?q=Svetasvatara+Upanishad+year+-400+language+Sanskrit+Various+Sages
+  type: other
 featured: true
 publishDate: 2025-11-02
-tags: ['classical-literature', 'philosophy', 'upanishad', 'religious']
 ---
 
 ## Overview
@@ -131,4 +139,3 @@ Audio recordings preserve traditional Vedic recitation. Video lectures by schola
 This multi-modal accessibility ensures the Svetasvatara's teachings remain available for comparative philosophy, religious studies, yoga education, and spiritual practice across linguistic and cultural boundaries, honoring ancient oral transmission while embracing contemporary communication technologies.
 
 Content generated with Claude (Anthropic AI), a large language model. This body text provides scholarly overview of the Svetasvatara Upanishad's historical context, philosophical synthesis, theological significance, meditation practices, influence on later traditions, scholarly debates, and contemporary accessibility. While AI-assisted, the information derives from established academic sources and traditional commentarial literature.
-

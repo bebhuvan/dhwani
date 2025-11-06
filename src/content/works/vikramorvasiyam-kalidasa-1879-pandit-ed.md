@@ -1,34 +1,43 @@
 ---
-title: "Vikramōrvaśīyam (Urvaśī Won by Valour)"
-author: ["Kālidāsa", "ed. Shankar Pandurang Pandit"]
+title: 'Vikramōrvaśīyam (Urvaśī Won by Valour)'
+author:
+- Kālidāsa
+- ed. Shankar Pandurang Pandit
 year: 1879
-language: ["Sanskrit"]
-genre: ["Drama", "Classical Literature", "Poetry"]
-description: "Five-act Sanskrit drama by Kālidāsa (4th-5th century CE) dramatizing the Rigvedic tale of mortal King Pururavas and celestial apsarā Urvaśī. Features Kālidāsa's signature poetic virtuosity in the famous 'mad scene' demonstrating mastery of śṛṅgāra (erotic) rasa and vipralambha (love-in-separation) sentiment. Shankar Pandurang Pandit's 1879 Sanskrit edition with English annotations served Indian students and colonial administrators studying classical Sanskrit literature."
-collections: ['classical-literature', 'sanskrit-drama', 'poetry-collection']
+language:
+- Sanskrit
+genre:
+- Drama
+- Classical Literature
+- Poetry
+description: |
+  Vikramōrvaśīyam is a seminal five-act Sanskrit drama composed by the preeminent classical poet Kālidāsa during the Gupta period (circa 4th-5th century CE), representing a pinnacle of classical Indian dramatic literature. The work ingeniously adapts the ancient Rigvedic mythological narrative of King Pururavas and the celestial nymph Urvaśī, transforming a primordial mythic encounter into a sophisticated exploration of divine-mortal romantic tension. Kālidāsa, renowned as one of Sanskrit literature's most accomplished writers, demonstrates extraordinary linguistic and dramatic skill through intricate poetic techniques, particularly in the celebrated 'mad scene' that exemplifies the śṛṅgāra (erotic) and vipralambha (separation) aesthetic sentiments central to classical Indian dramaturgy. The text reveals complex psychological insights into love's transformative power, exploring themes of desire, divine intervention, and human emotional vulnerability across cosmic boundaries. Structurally, the drama integrates multiple literary registers—lyrical poetry, dramatic dialogue, and mythological allegory—showcasing the sophisticated narrative strategies of classical Sanskrit literature. Shankar Pandurang Pandit's 1879 critical edition with comprehensive English annotations was pivotal in preserving and transmitting this work, enabling scholarly engagement during the colonial period and facilitating broader understanding of India's rich textual heritage among Indian students, British administrators, and emerging Indological scholars. As a canonical work, Vikramōrvaśīyam remains a critical text for understanding Sanskrit literary conventions, mythological reinterpretation, and the nuanced emotional landscapes of classical Indian imaginative expression.
+collections:
+- classical-literature
+- sanskrit-drama
+- poetry-collection
 sources:
-  - name: "Internet Archive (1879 Edition)"
-    url: "https://archive.org/details/VikramorvasiyamByKalidasa1879"
-    type: "other"
-  - name: "Internet Archive (Rich)"
-    url: "https://archive.org/details/vikramorvasyam00kalirich"
-    type: "other"
-  - name: "Internet Archive (DLI)"
-    url: "https://archive.org/details/in.ernet.dli.2015.326673"
-    type: "other"
+- name: 'Internet Archive (1879 Edition)'
+  url: https://archive.org/details/VikramorvasiyamByKalidasa1879
+  type: other
+- name: 'Internet Archive (Rich)'
+  url: https://archive.org/details/vikramorvasyam00kalirich
+  type: other
+- name: 'Internet Archive (DLI)'
+  url: https://archive.org/details/in.ernet.dli.2015.326673
+  type: other
 references:
-  - name: "Wikipedia: Vikramōrvaśīyam"
-    url: "https://en.wikipedia.org/wiki/Vikramōrvaśīyam"
-    type: "wikipedia"
-  - name: "Wikipedia: Kālidāsa"
-    url: "https://en.wikipedia.org/wiki/Kalidasa"
-    type: "wikipedia"
-  - name: "OpenLibrary"
-    url: "https://openlibrary.org/search?q=Vikramorvasiyam+Kalidasa+1879+Pandit"
-    type: "other"
+- name: 'Wikipedia: Vikramōrvaśīyam'
+  url: https://en.wikipedia.org/wiki/Vikramōrvaśīyam
+  type: wikipedia
+- name: 'Wikipedia: Kālidāsa'
+  url: https://en.wikipedia.org/wiki/Kalidasa
+  type: wikipedia
+- name: 'OpenLibrary'
+  url: https://openlibrary.org/search?q=Vikramorvasiyam+Kalidasa+1879+Pandit
+  type: other
 featured: false
 publishDate: 2025-01-24
-tags: ["Sanskrit drama", "Kālidāsa", "Classical poetry", "Urvaśī", "Pururavas", "Indian theatre", "4th-5th century", "Vedic mythology", "Erotic poetry", "Public domain"]
 ---
 
 # Vikramōrvaśīyam (Urvaśī Won by Valour)

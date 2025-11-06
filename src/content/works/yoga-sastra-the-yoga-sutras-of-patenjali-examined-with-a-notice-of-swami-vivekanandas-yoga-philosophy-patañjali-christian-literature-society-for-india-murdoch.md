@@ -1,37 +1,46 @@
 ---
-title: "Yoga Sastra : the Yoga sutras of Patenjali examined : with a notice of Swami Vivekananda's Yoga philosophy"
-author: ["Patañjali", "John Murdoch"]
+title: 'Yoga Sastra : the Yoga sutras of Patenjali examined : with a notice of Swami Vivekananda's Yoga philosophy'
+author:
+- Patañjali
+- John Murdoch
 year: 1897
-language: ["English"]
-genre: ["Yoga Philosophy", "Spiritual Texts", "Comparative Philosophy"]
-description: "Scottish missionary John Murdoch examines Patanjali's 196 Yoga Sutras (circa 2nd-5th century CE) alongside Swami Vivekananda's Raja Yoga (1896) in this 1897 Christian Literature Society comparative study of ancient yoga philosophy and modern Western interpretation."
-collections: ["spiritual-texts", "philosophical-works", "religious-texts"]
+language:
+- English
+genre:
+- Yoga Philosophy
+- Spiritual Texts
+- Comparative Philosophy
+description: |
+  At the close of the 19th century, when British colonial scholarship was intensely engaging with Indian philosophical traditions, Scottish missionary John Murdoch examines Patanjali's 196 Yoga Sutras (circa 2nd-5th century CE) alongside Swami Vivekananda's Raja Yoga (1896) in this 1897 Christian Literature Society comparative study of ancient yoga philosophy and modern Western interpretation. This scholarly work emerged during a critical period of intellectual exchange between Indian philosophical thought and Western academic discourse, reflecting the growing European fascination with Eastern spiritual systems and the emerging transnational dialogue about yoga's philosophical foundations. Published just one year after Vivekananda's landmark presentation at the World Parliament of Religions in Chicago, Murdoch's text represents an important moment in the cross-cultural hermeneutics of Indian philosophical traditions, capturing the intellectual zeitgeist of late Victorian-era comparative religious studies.
+collections:
+- spiritual-texts
+- philosophical-works
+- religious-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/yogasastrayogasu00patauoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/yogasastrayogasu00patauoft
+  type: other
 references:
-  - name: "Patanjali"
-    url: "https://en.wikipedia.org/wiki/Patanjali"
-    type: "other"
-  - name: "Yoga Sutras of Patanjali"
-    url: "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali"
-    type: "other"
-  - name: "John Murdoch (literary evangelist)"
-    url: "https://en.wikipedia.org/wiki/John_Murdoch_(literary_evangelist)"
-    type: "other"
-  - name: "Swami Vivekananda"
-    url: "https://en.wikipedia.org/wiki/Swami_Vivekananda"
-    type: "other"
-  - name: "Raja Yoga"
-    url: "https://en.wikipedia.org/wiki/Raja_Yoga"
-    type: "other"
-  - name: "Open Library: Yoga Sastra "
-    url: "https://openlibrary.org/search?q=Yoga+Sastra++the+Yoga+sutras+Patañjali"
-    type: "other"
+- name: 'Patanjali'
+  url: https://en.wikipedia.org/wiki/Patanjali
+  type: other
+- name: 'Yoga Sutras of Patanjali'
+  url: https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali
+  type: other
+- name: 'John Murdoch (literary evangelist)'
+  url: https://en.wikipedia.org/wiki/John_Murdoch_(literary_evangelist)
+  type: other
+- name: 'Swami Vivekananda'
+  url: https://en.wikipedia.org/wiki/Swami_Vivekananda
+  type: other
+- name: 'Raja Yoga'
+  url: https://en.wikipedia.org/wiki/Raja_Yoga
+  type: other
+- name: 'Open Library: Yoga Sastra '
+  url: https://openlibrary.org/search?q=Yoga+Sastra++the+Yoga+sutras+Patañjali
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['philosophy']
 ---
 
 John Murdoch's 1897 "Yoga Sastra" represents a fascinating intersection of missionary scholarship and Hindu philosophical analysis, published by the Christian Literature Society for India at a pivotal moment in colonial religious discourse. This comparative examination of Patanjali's classical Yoga Sutras alongside Swami Vivekananda's recently published "Raja Yoga" (1896) exemplifies the complex intellectual dynamics of late nineteenth-century India, where Western missionaries increasingly engaged with Hindu philosophical systems not merely to refute them, but to understand their structure, appeal, and relationship to Christian theology.

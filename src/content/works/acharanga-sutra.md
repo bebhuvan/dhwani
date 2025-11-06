@@ -1,40 +1,47 @@
 ---
-title: "Acharanga Sutra (The First Jain Agama)"
-author: ["Mahavira"]
+title: 'Acharanga Sutra (The First Jain Agama)'
+author:
+- Mahavira
 year: -300
-language: ["Prakrit", "Ardhamagadhi"]
-genre: ["Jain Scripture", "Religious Literature", "Monastic Rules", "Philosophy"]
-description: "The Acharanga Sutra is the first and most important text of the Jain Agamas, the canonical scriptures of Svetambara Jainism. Attributed to Mahavira's direct teachings (6th-5th century BCE) and compiled around 300 BCE, this foundational text establishes the rigorous ethical and ascetic practices defining Jain monasticism, with particular emphasis on ahimsa (non-violence) as the supreme principle guiding all conduct."
-collections: ['jain-texts', 'religious-texts', 'spiritual-texts']
+language:
+- Prakrit
+- Ardhamagadhi
+genre:
+- Jain Scripture
+- Religious Literature
+- Monastic Rules
+- Philosophy
+description: |
+  The Acharanga Sutra is a canonical text in Jain literature, composed approximately 300 BCE during a significant period of philosophical and religious transformation in ancient India (6th-5th century BCE). Attributed to Mahavira, the 24th Tirthankara of Jainism, the text is preserved in Prakrit (Ardhamagadhi dialect), reflecting the linguistic context of the late Mauryan period. As the primary scripture in the Svetambara Jain Agamas, the text systematically articulates the ethical framework and monastic regulations fundamental to Jain spiritual practice. Its detailed exploration of ahimsa (non-violence) extends beyond physical restraint to psychological and spiritual dimensions, offering a nuanced philosophical approach to human interaction with living beings. The manuscript provides comprehensive documentation of ascetic practices, including rigorous methods of bodily renunciation, mental purification, and spiritual self-discipline characteristic of Jain monasticism. Scholarly analysis indicates the text's significance in documenting the complex social, philosophical, and religious dynamics of pre-classical Indian civilization. By presenting a systematic ethical framework that critically engaged with contemporaneous Brahmanical and emerging Buddhist traditions, the Acharanga Sutra contributes substantively to understanding philosophical discourse in ancient India. Its methodical articulation of spiritual principles demonstrates the intellectual sophistication of Jain contemplative traditions, particularly in its conception of individual spiritual transformation through principled non-violence and disciplined self-restraint.
+collections:
+- jain-texts
+- religious-texts
+- spiritual-texts
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/AcharnagSutraofMahavirEnglish"
-    type: "other"
-  - name: "Sacred Texts"
-    url: "https://sacred-texts.com/jai/sbe22/index.htm"
-    type: "other"
+- name: 'Sacred Texts'
+  url: https://sacred-texts.com/jai/sbe22/index.htm
+  type: other
 references:
-  - name: "Wikipedia: Acharanga Sutra"
-    url: "https://en.wikipedia.org/wiki/Acharanga_Sutra"
-    type: "wikipedia"
-  - name: "Wikipedia: Mahavira"
-    url: "https://en.wikipedia.org/wiki/Mahavira"
-    type: "wikipedia"
-  - name: "Wikipedia: Jain Agamas"
-    url: "https://en.wikipedia.org/wiki/Jain_Agamas"
-    type: "wikipedia"
-  - name: "Wikipedia: Ahimsa"
-    url: "https://en.wikipedia.org/wiki/Ahimsa"
-    type: "wikipedia"
-  - name: "Wikipedia: Jainism"
-    url: "https://en.wikipedia.org/wiki/Jainism"
-    type: "wikipedia"
-  - name: "Open Library: Acharanga Sutra"
-    url: "https://openlibrary.org/search?q=Acharanga+Sutra+Mahavira"
-    type: "other"
+- name: 'Wikipedia: Acharanga Sutra'
+  url: https://en.wikipedia.org/wiki/Acharanga_Sutra
+  type: wikipedia
+- name: 'Wikipedia: Mahavira'
+  url: https://en.wikipedia.org/wiki/Mahavira
+  type: wikipedia
+- name: 'Wikipedia: Jain Agamas'
+  url: https://en.wikipedia.org/wiki/Jain_Agamas
+  type: wikipedia
+- name: 'Wikipedia: Ahimsa'
+  url: https://en.wikipedia.org/wiki/Ahimsa
+  type: wikipedia
+- name: 'Wikipedia: Jainism'
+  url: https://en.wikipedia.org/wiki/Jainism
+  type: wikipedia
+- name: 'Open Library: Acharanga Sutra'
+  url: https://openlibrary.org/search?q=Acharanga+Sutra+Mahavira
+  type: other
 featured: true
 publishDate: 2025-10-30
-tags: ["Jainism", "Acharanga Sutra", "Jain Agamas", "Mahavira", "ahimsa", "non-violence", "asceticism", "monastic rules", "Svetambara", "Prakrit literature", "ancient India", "religious ethics", "Jain philosophy", "karma", "liberation"]
 ---
 
 # Acharanga Sutra (The First Jain Agama)

@@ -8,21 +8,15 @@ language:
 genre:
 - Fiction
 - Historical Literature
-description: 1918 novel examining racial prejudice in colonial Madras through protagonist
-  Hester Rayner, whose marriage to a British official becomes strained by the arrival
-  of Mark Cheveril, her childhood friend of mixed Anglo-Indian heritage. The work
-  interrogates the rigid social hierarchies and racial attitudes within the British
-  Raj administrative class, particularly the stigmatization of mixed-race individuals
-  in early 20th-century Anglo-Indian society. Published during World War I, the novel
-  represents Anglo-Indian fiction's engagement with questions of racial identity and
-  colonial social stratification.
+description: |
+  Janet Milne Rae's 1918 novel "A Bottle in the Smoke: A Tale of Anglo-Indian Life" offers a nuanced exploration of racial dynamics and social tensions within the British colonial administrative system during the late colonial period in Madras (now Chennai). Set against the backdrop of World War I and the complex social landscape of British India, the narrative centers on protagonist Hester Rayner and her fraught relationships that illuminate the intricate racial and social hierarchies of the Anglo-Indian community. The novel critically examines the precarious social position of mixed-race individuals, challenging the rigid colonial racial classifications that defined interpersonal and institutional interactions during the early 20th century. Through the arrival of Mark Cheveril, a childhood friend with mixed Anglo-Indian heritage, Rae deconstructs the psychological and social pressures faced by individuals navigating multiple cultural identities under colonial rule. The work provides significant insight into the lived experiences of Anglo-Indian communities, revealing the complex negotiations of identity, belonging, and marginalization within the colonial social structure. By interrogating the intersections of race, marriage, and social status, the novel contributes to a critical understanding of colonial power dynamics and the nuanced human experiences obscured by imperial administrative frameworks. As a literary artifact, "A Bottle in the Smoke" represents an important textual intervention in documenting the psychological and social complexities of colonial Indian society, offering contemporary scholars a valuable lens into the intricate social negotiations of race, identity, and belonging during a transformative period of Indian historical experience.
 collections:
 - modern-literature
 sources:
-- name: Project Gutenberg
+- name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/40517
   type: other
-- name: Project Gutenberg (HTML)
+- name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/40517.html.images
   type: other
 - name: 'Internet Archive (A Bottle in the Smoke: A Tale of Anglo-Indian Life)'
@@ -37,10 +31,6 @@ references:
   type: other
 featured: false
 publishDate: 2025-11-01
-tags:
-- public domain
-- India -- History -- British occupation, 1765-1947 -- Fiction
-- Rae, Janet Milne
 ---
 
 # A Bottle in the Smoke: A Tale of Anglo-Indian Life

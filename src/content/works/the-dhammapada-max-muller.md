@@ -1,46 +1,53 @@
 ---
-title: "The Dhammapada"
-author: ["F. Max Müller"]
+title: 'The Dhammapada'
+author:
+- F. Max Müller
 year: 1881
-language: ["English"]
-genre: ["Buddhism—Sacred books", "Pali literature", "Buddhist canonical texts"]
-description: "F. Max Müller's pioneering 1881 English translation of the Dhammapada—first complete rendering of this beloved Buddhist scripture comprising 423 verses on ethics, mindfulness, and wisdom. Published as part of the prestigious Sacred Books of the East series, this work introduced Western audiences to one of Buddhism's most accessible and influential texts, establishing translation conventions for Buddhist literature. Müller's prose translation made the Buddha's teachings on impermanence, suffering, and the path to enlightenment available to English-speaking scholars and spiritual seekers."
-collections: ['buddhist-texts', 'scholarly-translations']
+language:
+- English
+genre:
+- Buddhism—Sacred books
+- Pali literature
+- Buddhist canonical texts
+description: |
+  F. Max Müller's seminal 1881 English translation of the Dhammapada represents a critical milestone in the scholarly interpretation of Buddhist canonical literature, emerging during the late 19th-century European engagement with Asian philosophical traditions. Comprising 423 verses attributed to Gautama Buddha, this translation—part of the influential Sacred Books of the East series—provided unprecedented access to a foundational Pali text that encapsulates core Buddhist ethical and philosophical principles. Rooted in the Theravada Buddhist tradition, the Dhammapada articulates profound insights into human psychology, moral development, and the transformative path of spiritual cultivation. Müller's scholarly rendering meticulously translated verses that explore fundamental Buddhist concepts such as impermanence (anicca), suffering (dukkha), and the cultivation of mindful awareness, making these complex philosophical constructs intelligible to Western academic and spiritual audiences. The work's significance extends beyond mere linguistic translation, serving as a crucial scholarly intervention that contextualized Buddhist thought within emerging comparative religious studies. By presenting the Buddha's teachings with philological precision, Müller facilitated cross-cultural philosophical dialogue and introduced nuanced Buddhist epistemological frameworks to European intellectual circles. The translation's methodical approach illuminated core Buddhist principles of personal responsibility, mental discipline, and the potential for individual transformation through conscious awareness, thereby bridging substantial hermeneutical and cultural distances between Eastern contemplative traditions and Western scholarly discourse.
+collections:
+- buddhist-texts
+- scholarly-translations
 sources:
-  - name: "Internet Archive (Original Edition)"
-    url: "https://archive.org/details/thedhammapada00unknuoft"
-    type: "other"
-  - name: "Internet Archive (Sacred Books of the East - Volume 1)"
-    url: "https://archive.org/details/dhammapadacollection01ml"
-    type: "other"
-  - name: "Internet Archive (Sacred Books of the East - Volume 2)"
-    url: "https://archive.org/details/dhammapadacollec02ml"
-    type: "other"
+- name: 'Internet Archive (Original Edition)'
+  url: https://archive.org/details/thedhammapada00unknuoft
+  type: other
+- name: 'Internet Archive (Sacred Books of the East - Volume 1)'
+  url: https://archive.org/details/dhammapadacollection01ml
+  type: other
+- name: 'Internet Archive (Sacred Books of the East - Volume 2)'
+  url: https://archive.org/details/dhammapadacollec02ml
+  type: other
 references:
-  - name: "Wikipedia: Dhammapada"
-    url: "https://en.wikipedia.org/wiki/Dhammapada"
-    type: "wikipedia"
-  - name: "Wikipedia: Max Müller"
-    url: "https://en.wikipedia.org/wiki/Max_Müller"
-    type: "wikipedia"
-  - name: "Wikipedia: Pali Canon"
-    url: "https://en.wikipedia.org/wiki/Pali_Canon"
-    type: "wikipedia"
-  - name: "Wikipedia: Sacred Books of the East"
-    url: "https://en.wikipedia.org/wiki/Sacred_Books_of_the_East"
-    type: "wikipedia"
-  - name: "Wikipedia: Buddhist ethics"
-    url: "https://en.wikipedia.org/wiki/Buddhist_ethics"
-    type: "wikipedia"
-  - name: "Wikisource: Dhammapada (Muller)"
-    url: "https://en.wikisource.org/wiki/Dhammapada_(Muller)"
-    type: "wikisource"
-  - name: "Open Library: F. Max Müller"
-    url: "https://openlibrary.org/authors/OL1950A/F._Max_Müller"
-    type: "openlibrary"
+- name: 'Wikipedia: Dhammapada'
+  url: https://en.wikipedia.org/wiki/Dhammapada
+  type: wikipedia
+- name: 'Wikipedia: Max Müller'
+  url: https://en.wikipedia.org/wiki/Max_Müller
+  type: wikipedia
+- name: 'Wikipedia: Pali Canon'
+  url: https://en.wikipedia.org/wiki/Pali_Canon
+  type: wikipedia
+- name: 'Wikipedia: Sacred Books of the East'
+  url: https://en.wikipedia.org/wiki/Sacred_Books_of_the_East
+  type: wikipedia
+- name: 'Wikipedia: Buddhist ethics'
+  url: https://en.wikipedia.org/wiki/Buddhist_ethics
+  type: wikipedia
+- name: 'Wikisource: Dhammapada (Muller)'
+  url: https://en.wikisource.org/wiki/Dhammapada_(Muller)
+  type: wikisource
+- name: 'Open Library: F. Max Müller'
+  url: https://openlibrary.org/authors/OL1950A/F._Max_Müller
+  type: openlibrary
 featured: false
 publishDate: 2025-10-26
-tags: ["Buddhism", "Pali Canon", "Ancient India", "religious texts", "ethics", "meditation", "Theravada Buddhism", "digital heritage", "public domain"]
 ---
 
 # The Dhammapada

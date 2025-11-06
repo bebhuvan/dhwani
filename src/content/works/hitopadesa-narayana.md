@@ -1,28 +1,36 @@
 ---
-title: "Hitopadesha"
-author: ["Narayana"]
+title: 'Hitopadesha'
+author:
+- Narayana
 year: 900
-language: ["Sanskrit"]
-genre: ["Didactic Literature", "Fables", "Sanskrit Literature"]
-description: "Medieval Sanskrit text of animal and human fables organized into four books (friendship, discord, war, peace), composed by Narayana circa 800-950 CE. Draws 75% of content from ancient Panchatantra, employing frame narratives with embedded tales and verse interludes to teach moral wisdom and statecraft. Represents Sanskrit didactic tradition blending entertainment with instruction on proper conduct and political wisdom, serving dual purpose of encouraging Sanskrit proficiency and imparting behavioral knowledge through interconnected narratives."
-collections: ['classical-literature', 'folklore', 'philosophical-works']
+language:
+- Sanskrit
+genre:
+- Didactic Literature
+- Fables
+- Sanskrit Literature
+description: |
+  The Hitopadesha, a seminal Sanskrit didactic text composed by Narayana around 900 CE during the late medieval period of Indian intellectual history, represents a sophisticated compilation of moral and political wisdom through interconnected animal and human fables. Emerging from the rich tradition of narrative instruction prevalent in classical Indian literature, this work substantially adapts and synthesizes approximately 75% of its content from the earlier Panchatantra, demonstrating the dynamic textual transmission characteristic of Sanskrit scholarly practices. The text is structurally organized into four books—addressing friendship, discord, war, and peace—which systematically explore complex social, political, and ethical dynamics through multilayered narrative strategies involving frame narratives, embedded tales, and verse interludes. By employing anthropomorphic characters and allegorical representations, Narayana crafts a nuanced pedagogical framework that simultaneously educates and entertains, embodying the classical Indian literary principle of combining aesthetic pleasure (rasa) with philosophical instruction (artha). The Hitopadesha's sophisticated rhetorical approach reflects the intellectual sophistication of medieval Sanskrit scholarship, serving multiple pedagogical functions: cultivating linguistic proficiency, transmitting political wisdom, exploring ethical conduct, and providing strategic insights into human behavior and interpersonal relationships. Its enduring significance lies in its ability to encode complex philosophical and political knowledge within accessible narrative forms, making sophisticated ideas comprehensible through engaging storytelling. As a quintessential example of Sanskrit didactic literature, the Hitopadesha continues to be recognized as a masterful work that encapsulates the intellectual, moral, and narrative richness of the Indian classical textual tradition.
+collections:
+- classical-literature
+- folklore
+- philosophical-works
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/search.php?query=hitopadesha+narayana"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/search.php?query=hitopadesha+narayana
+  type: other
 references:
-  - name: "Wikipedia: Hitopadesha"
-    url: "https://en.wikipedia.org/wiki/Hitopadesha"
-    type: "wikipedia"
-  - name: "Wikipedia: Panchatantra"
-    url: "https://en.wikipedia.org/wiki/Panchatantra"
-    type: "wikipedia"
-  - name: "Wikipedia: Fable"
-    url: "https://en.wikipedia.org/wiki/Fable"
-    type: "wikipedia"
+- name: 'Wikipedia: Hitopadesha'
+  url: https://en.wikipedia.org/wiki/Hitopadesha
+  type: wikipedia
+- name: 'Wikipedia: Panchatantra'
+  url: https://en.wikipedia.org/wiki/Panchatantra
+  type: wikipedia
+- name: 'Wikipedia: Fable'
+  url: https://en.wikipedia.org/wiki/Fable
+  type: wikipedia
 featured: false
 publishDate: 2025-11-02
-tags: ["Hitopadesha", "Narayana", "Sanskrit fables", "Didactic literature", "Panchatantra", "Frame narratives", "Moral instruction", "Statecraft", "Medieval Sanskrit", "Animal fables", "Political wisdom", "Sanskrit classics"]
 ---
 
 # Hitopadesha

@@ -1,31 +1,38 @@
 ---
-title: "Catalogue of the Coins in the Numismatic Cabinet, Parts I-IV"
-author: ["J. Gerson Da Cunha"]
+title: 'Catalogue of the Coins in the Numismatic Cabinet, Parts I-IV'
+author:
+- J. Gerson Da Cunha
 year: 1888
-language: ["English"]
-genre: ["Numismatics", "Reference Work", "Catalogue"]
-description: "Comprehensive numismatic catalogue documenting coins from a major Indian collection, with detailed classification and descriptions valuable for understanding ancient Indian monetary systems, dynastic chronologies, and trade patterns. Provides essential reference for numismatic studies of Indian coinage, documenting coins from various dynasties, regions, and periods with technical descriptions of metal composition, weight, inscriptions, and iconography."
-collections: ['reference-works', 'numismatics']
+language:
+- English
+genre:
+- Numismatics
+- Reference Work
+- Catalogue
+description: |
+  Catalogue of the Coins in the Numismatic Cabinet represents a seminal scholarly contribution to understanding India's complex numismatic landscape during the late 19th-century colonial period. J. Gerson Da Cunha, a distinguished Goan scholar, historian, and intellectual from Bombay, compiled this comprehensive four-part reference work at a critical moment of historical documentation and cultural preservation. The publication emerges from an era of systematic European archaeological and material culture research in India, providing meticulous documentation of coins from diverse dynasties, including Mauryan, Gupta, Chola, and regional kingdoms spanning multiple centuries. Da Cunha's rigorous methodology demonstrates sophisticated scholarly approaches to classifying and analyzing historical artifacts, offering detailed technical descriptions including metal composition, weight, inscriptional content, and iconographic elements. Beyond mere cataloguing, the work provides crucial insights into economic networks, trade patterns, political transitions, and cultural exchanges across the Indian subcontinent. By systematically documenting monetary artifacts, Da Cunha illuminates complex historical processes of cultural transmission, technological development, and economic interactions. The catalogue represents more than a numismatic reference; it serves as a critical archaeological text that bridges colonial-era scholarship with emerging Indian historical methodologies. For contemporary researchers in archaeology, economic history, and cultural studies, this work remains an invaluable primary source documenting the material culture and economic complexity of pre-colonial and early colonial Indian societies. Da Cunha's scholarly intervention exemplifies the sophisticated intellectual traditions of Goan scholars during a transformative period of Indian intellectual and cultural renaissance.
+collections:
+- reference-works
+- numismatics
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.279797"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.279797
+  type: other
 references:
-  - name: "Wikipedia: José Gerson da Cunha"
-    url: "https://en.wikipedia.org/wiki/Jos%C3%A9_Gerson_da_Cunha"
-    type: "wikipedia"
-  - name: "Wikipedia: Coinage of India"
-    url: "https://en.wikipedia.org/wiki/Coinage_of_India"
-    type: "wikipedia"
-  - name: "Wikipedia: Numismatics"
-    url: "https://en.wikipedia.org/wiki/Numismatics"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=Da+Cunha+coins+numismatic+catalogue&mode=everything"
-    type: "other"
+- name: 'Wikipedia: José Gerson da Cunha'
+  url: https://en.wikipedia.org/wiki/Jos%C3%A9_Gerson_da_Cunha
+  type: wikipedia
+- name: 'Wikipedia: Coinage of India'
+  url: https://en.wikipedia.org/wiki/Coinage_of_India
+  type: wikipedia
+- name: 'Wikipedia: Numismatics'
+  url: https://en.wikipedia.org/wiki/Numismatics
+  type: wikipedia
+- name: 'Open Library'
+  url: https://openlibrary.org/search?q=Da+Cunha+coins+numismatic+catalogue&mode=everything
+  type: other
 featured: false
 publishDate: 2025-10-26
-tags: ["Numismatics", "Coins", "J. Gerson Da Cunha", "Indian coinage", "Catalogue", "Monetary history", "Ancient India", "Trade", "Dynasties", "Iconography", "Reference work", "1888", "Archaeology"]
 ---
 
 # Catalogue of the Coins in the Numismatic Cabinet, Parts I-IV

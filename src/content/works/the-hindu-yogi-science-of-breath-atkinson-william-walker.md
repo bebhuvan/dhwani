@@ -1,5 +1,5 @@
 ---
-title: The Hindu-Yogi Science of Breath
+title: 'The Hindu-Yogi Science of Breath'
 author:
 - Atkinson, William Walker
 year: 1917
@@ -8,32 +8,22 @@ language:
 genre:
 - Religious Literature
 - Philosophy
-description: A practical guide to ancient yogic breathing techniques and their applications
-  for physical, mental, and spiritual development. This early 20th-century work presents
-  Eastern breath control practices as a bridge between Western and Eastern philosophies,
-  offering exercises and theories that connect proper respiration with health, vitality,
-  and inner peace.
+description: |
+  William Walker Atkinson's "The Hindu-Yogi Science of Breath" represents a significant early 20th-century scholarly engagement with traditional Indian pranayama practices, situated within the complex intellectual landscape of cross-cultural knowledge exchange during India's colonial period. Published in 1917, the work emerges from the New Thought movement's broader intellectual curiosity about Eastern philosophical and physiological systems, reflecting a period of intense cultural translation and spiritual exploration. Atkinson, a lawyer-turned-metaphysical writer, systematically examines yogic breathing techniques through a lens that attempts to bridge Western scientific rationalism with traditional Indian philosophical understandings of breath, energy, and consciousness. The text meticulously deconstructs pranayama practices, offering detailed explanations of respiratory control methods, their physiological mechanisms, and their potential for holistic human development. By presenting these practices as both a scientific discipline and a spiritual technology, Atkinson contributed to early Western scholarly discourse on yoga that went beyond orientalist stereotypes, providing a nuanced interpretation of Indian contemplative technologies. The work is particularly significant in documenting how Indian spiritual knowledge was being interpreted and transmitted during a pivotal moment of global intellectual exchange, when traditional Eastern practices were increasingly being examined through emerging Western scientific paradigms. Atkinson's careful documentation and analytical approach helped legitimize yogic practices as a sophisticated system of knowledge, challenging contemporary Western misconceptions and laying groundwork for future cross-cultural understanding of mind-body practices.
 collections:
 - devotional-literature
 sources:
-- name: Project Gutenberg
+- name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/13402
   type: other
-- name: Project Gutenberg (HTML)
+- name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/13402.html.images
   type: other
-- name: Internet Archive (The Hindu-Yogi Science Of Breath)
+- name: 'Internet Archive (The Hindu-Yogi Science Of Breath)'
   url: https://archive.org/details/synapseml_gutenberg_the_hindu_yogi_science_of_breath_by_atki
   type: other
-references: []
 featured: false
 publishDate: 2025-11-01
-tags:
-- public domain
-- Respiration -- Religious aspects -- Hinduism
-- Yoga
-- Breath control
-- 'Open Library: The Hindu-Yogi Science of Breath'
 ---
 
 # The Hindu-Yogi Science of Breath

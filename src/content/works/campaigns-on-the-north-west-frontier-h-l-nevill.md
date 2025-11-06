@@ -1,25 +1,31 @@
 ---
-title: "Campaigns on the North-West Frontier"
-author: ["H. L. Nevill"]
+title: 'Campaigns on the North-West Frontier'
+author:
+- H. L. Nevill
 year: 1912
-language: ["English"]
-genre: ["Literature"]
-description: "Campaigns on the North-West Frontier by H. Nevill (1912) - A significant work from the Colonial India - British Raj, representing an important contribution to Indian literary and cultural heritage. This work offers valuable insights into the British Raj period, featuring independence movements, cultural renaissance, and literary awakening."
-collections: ['modern-literature']
+language:
+- English
+genre:
+- Literature
+description: |
+  Here is the expanded scholarly description:
+  
+  H. L. Nevill's "Campaigns on the North-West Frontier" represents a pivotal historical documentation of British colonial military operations during the late Imperial period in India, specifically focusing on strategic engagements along the volatile northwestern territories bordering Afghanistan. Published in 1912, the work emerges during a critical phase of British imperial expansion and geopolitical strategizing in the region, providing a comprehensive military perspective on colonial administrative challenges. The text meticulously chronicles British military expeditions, tactical maneuvers, and strategic interventions in the complex tribal territories of the North-West Frontier Province (present-day Khyber Pakhtunkhwa), offering scholarly insights into imperial military methodology, inter-cultural conflict dynamics, and colonial administrative practices. Nevill's work is particularly significant for its granular documentation of military campaigns, troop movements, and interactions with indigenous tribal structures, presenting a nuanced account of British imperial military engagement during a transformative period of South Asian geopolitical history. By detailing specific military encounters, political negotiations, and territorial strategies, the text contributes crucial archival knowledge to understanding the complex mechanisms of British colonial governance and military administration in the Northwestern frontier regions. For contemporary scholars of Indian historical studies, colonial military history, and imperial administrative practices, Nevill's work provides an invaluable primary source document that illuminates the intricate interactions between colonial military apparatus and indigenous sociopolitical landscapes during the late nineteenth and early twentieth centuries, making it an essential reference for understanding the structural dynamics of British imperial expansion in the Indian subcontinent.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/campaignsonnorth00nevi"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/campaignsonnorth00nevi
+  type: other
 references:
-  - name: "Wikipedia: North-West Frontier"
-    url: "https://en.wikipedia.org/wiki/North-West_Frontier"
-    type: "wikipedia"
-  - name: "Open Library: Campaigns on the North-West"
-    url: "https://openlibrary.org/search?q=Campaigns+on+the+North-West+Frontier+year+H+L+Nevill"
-    type: "other"
+- name: 'Wikipedia: North-West Frontier'
+  url: https://en.wikipedia.org/wiki/North-West_Frontier
+  type: wikipedia
+- name: 'Open Library: Campaigns on the North-West'
+  url: https://openlibrary.org/search?q=Campaigns+on+the+North-West+Frontier+year+H+L+Nevill
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical', 'literature']
 ---
 
 ## Publication Context and Author

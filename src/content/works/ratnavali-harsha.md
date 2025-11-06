@@ -1,40 +1,51 @@
 ---
-title: "Ratnavali (The Pearl Necklace)"
-author: ["Harsha", "Harshavardhana"]
+title: 'Ratnavali (The Pearl Necklace)'
+author:
+- Harsha
+- Harshavardhana
 year: 640
-language: ["Sanskrit", "English"]
-genre: ["Drama", "Classical Literature", "Sanskrit Drama", "Romantic Comedy"]
-description: "Sanskrit drama's finest romantic comedy, a four-act natika (minor drama) featuring mistaken identity, disguise, and intrigue. Composed by Emperor Harshavardhana during his remarkable reign (606-647 CE), this sophisticated comedy transforms folk narrative about King Udayana's romantic entanglements into elegant theater demonstrating the erotic (shringara) and comic (hasya) rasas."
-collections: ['sanskrit-drama', 'classical-literature']
+language:
+- Sanskrit
+- English
+genre:
+- Drama
+- Classical Literature
+- Sanskrit Drama
+- Romantic Comedy
+description: |
+  Ratnavali is a sophisticated Sanskrit natika (minor drama) representing the pinnacle of classical Indian dramatic composition during the early medieval Gupta-post-Gupta cultural renaissance. Authored by Emperor Harshavardhana of Kannauj, a polymath ruler renowned for his literary and political achievements, the play masterfully interweaves intricate romantic narrative with complex dramatic techniques characteristic of sophisticated Sanskrit theatrical traditions. Set against the legendary milieu of King Udayana's royal court, the work explores themes of mistaken identity, courtly love, and political intrigue through an elaborate comedic framework that demonstrates remarkable psychological nuance and dramatic sophistication.
+  
+  The play's dramatic structure exemplifies the classical Sanskrit dramatic principles of rasa theory, particularly emphasizing shringara (erotic/romantic) and hasya (comic) emotional essences. By transforming folk narrative into elegant theatrical performance, Harshavardhana contributes significantly to the literary refinement of performative storytelling. The text illuminates complex social dynamics of 7th-century North Indian royal courts, offering insights into courtly behaviors, romantic conventions, and performative aesthetic sensibilities of the period. Its linguistic elegance, witty dialogues, and intricate plot mechanisms represent a high point of Sanskrit dramatic literature, showcasing the intellectual and artistic sophistication of Indian cultural production during a transformative historical moment.
+  
+  As a literary artifact, Ratnavali transcends mere entertainment, serving as a critical window into the intellectual, social, and aesthetic sensibilities of early medieval Indian civilization, demonstrating the nuanced artistic capabilities of royal scholar-practitioners like Harshavardhana who seamlessly integrated political leadership with remarkable cultural creativity.
+collections:
+- sanskrit-drama
+- classical-literature
 sources:
-  - name: "Internet Archive (Various Sanskrit editions)"
-    url: "https://archive.org/details/ratnavali00hars"
-    type: "other"
-  - name: "Internet Archive (Sanskrit text with commentary)"
-    url: "https://archive.org/details/in.ernet.dli.2015.406806"
-    type: "other"
-  - name: "Sanskrit Documents (Devanagari text)"
-    url: "https://sanskritdocuments.org/doc_drama/ratnaavali.html"
-    type: "other"
+- name: 'Internet Archive (Various Sanskrit editions)'
+  url: https://archive.org/details/ratnavali00hars
+  type: other
+- name: 'Internet Archive (Sanskrit text with commentary)'
+  url: https://archive.org/details/in.ernet.dli.2015.406806
+  type: other
 references:
-  - name: "Wikipedia: Ratnavali"
-    url: "https://en.wikipedia.org/wiki/Ratnavali"
-    type: "wikipedia"
-  - name: "Wikipedia: Harsha"
-    url: "https://en.wikipedia.org/wiki/Harsha"
-    type: "wikipedia"
-  - name: "Wikipedia: Sanskrit drama"
-    url: "https://en.wikipedia.org/wiki/Sanskrit_drama"
-    type: "wikipedia"
-  - name: "Wikipedia: Udayana"
-    url: "https://en.wikipedia.org/wiki/Udayana"
-    type: "wikipedia"
-  - name: "Wikipedia: Indian comedy"
-    url: "https://en.wikipedia.org/wiki/Indian_comedy"
-    type: "wikipedia"
+- name: 'Wikipedia: Ratnavali'
+  url: https://en.wikipedia.org/wiki/Ratnavali
+  type: wikipedia
+- name: 'Wikipedia: Harsha'
+  url: https://en.wikipedia.org/wiki/Harsha
+  type: wikipedia
+- name: 'Wikipedia: Sanskrit drama'
+  url: https://en.wikipedia.org/wiki/Sanskrit_drama
+  type: wikipedia
+- name: 'Wikipedia: Udayana'
+  url: https://en.wikipedia.org/wiki/Udayana
+  type: wikipedia
+- name: 'Wikipedia: Indian comedy'
+  url: https://en.wikipedia.org/wiki/Indian_comedy
+  type: wikipedia
 featured: true
 publishDate: 2025-11-02
-tags: ["Ratnavali", "Harsha", "Sanskrit drama", "classical literature", "romantic comedy", "Indian drama", "Udayana", "public domain"]
 ---
 
 ## Overview

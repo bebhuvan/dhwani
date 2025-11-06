@@ -1,22 +1,29 @@
 ---
-title: "Satyarth Prakash (The Light of Truth): A Guide to Vedic Hermeneutics"
-author: ["Swami Dayananda Saraswati"]
+title: 'Satyarth Prakash (The Light of Truth): A Guide to Vedic Hermeneutics'
+author:
+- Swami Dayananda Saraswati
 year: 1908
-language: ["English", "Sanskrit"]
-genre: ["Religious Philosophy", "Social Reform", "Vedic Studies"]
-description: "Swami Dayananda Saraswati's revolutionary manifesto of Hindu reform and Vedic revival challenged orthodox practices, igniting social transformation as Arya Samaj founder advocating return to Vedic principles."
-collections: ['modern-literature']
+language:
+- English
+- Sanskrit
+genre:
+- Religious Philosophy
+- Social Reform
+- Vedic Studies
+description: |
+  Satyarth Prakash represents a pivotal intellectual intervention in late 19th-century Indian social and religious discourse, emerging during a transformative period of colonial encounter and cultural introspection. Composed by Swami Dayananda Saraswati, a pioneering reformist and founder of the Arya Samaj movement, the text offers a comprehensive critique of contemporary religious practices while advocating for a rigorous reinterpretation of Vedic principles. Situated within the complex intellectual landscape of British-controlled India, the work systematically deconstructs what Dayananda perceived as doctrinal corruptions in Hinduism, challenging prevalent ritualistic and caste-based interpretations by proposing a radical hermeneutical approach to scriptural understanding. Dayananda, born in Gujarat and trained in traditional Sanskrit learning, developed a sophisticated philosophical framework that rejected idol worship, criticized social hierarchies, and championed rational engagement with spiritual texts. The work's significance extends beyond religious philosophy, functioning as a critical text in the broader nationalist renaissance that sought to reclaim and redefine Indian cultural identity against colonial narratives. By meticulously analyzing various religious traditions—including Hinduism, Islam, Christianity, and contemporary sectarian movements—Satyarth Prakash provides a sophisticated comparative theological critique that was revolutionary for its time. Its methodology of textual interpretation, emphasizing rational analysis and contextual understanding, influenced subsequent generations of social reformers and intellectuals in India. The text's enduring importance lies in its articulation of a modernizing vision of Hinduism that simultaneously respected traditional epistemologies while challenging regressive social practices, making it a foundational document in India's intellectual and cultural reimagination during the late colonial period.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/satyarthprakashl00dayauoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/satyarthprakashl00dayauoft
+  type: other
 references:
-  - name: "Open Library: Satyarth Prakash"
-    url: "https://openlibrary.org/search?q=Satyarth+Prakash+Dayananda+Saraswati"
-    type: "other"
+- name: 'Open Library: Satyarth Prakash'
+  url: https://openlibrary.org/search?q=Satyarth+Prakash+Dayananda+Saraswati
+  type: other
 featured: true
 publishDate: 2025-10-02
-tags: ["Arya Samaj", "Hindu reform", "Vedic revival", "social reform", "religious philosophy", "Dayananda Saraswati", "women's education", "caste abolition", "idol worship critique", "19th century India", "religious controversy", "rational theology", "Indian Renaissance"]
 ---
 
 # Satyarth Prakash (The Light of Truth)
@@ -168,4 +175,3 @@ The text stands as a monument to one visionary reformer's attempt to reconcile a
 This digitized edition from the Internet Archive, originally from the University of Toronto's collection, ensures that this important text remains accessible to scholars, students, practitioners, and anyone interested in the history of religious reform in India. The preservation of historical editions like this 1908 translation allows us to trace the evolution of the text, its translations, and its reception across different periods and audiences.
 
 For those studying the Arya Samaj, Hindu reform movements, 19th-century Indian intellectual history, or comparative religious polemics, this edition provides primary source access to one of modern Hinduism's most influential and controversial texts—"The Light of Truth" as envisioned by one of India's most dynamic religious reformers.
-

@@ -1,0 +1,4187 @@
+[
+  {
+    "file": "a-grammar-of-the-bengal-language-nathaniel-brassey-halhed.md",
+    "title": "A Grammar of the Bengal Language",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/in.ernet.dli.2015.43675; https://archive.org/details/dli.ministry.28688; https://commons.wikimedia.org/wiki/File:A_Grammar_Of_The_Bengal_Language.djvu",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "a-handbook-of-some-south-indian-grasses-k-rangachari-c-tadulinga-mudaliyar.md",
+    "title": "A Handbook of Some South Indian Grasses",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Botany",
+        "url": "https://en.wikipedia.org/wiki/Botany#India",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "a-sanskritenglish-dictionary-enlarged-ed-monier-monier-williams.md",
+    "title": "A Sanskrit–English Dictionary (enlarged ed.)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31959; https://archive.org/details/wSpc_a-sanskrit-english-dictionary-by-sir-monier-williams-1899-clarendon-press-oxford",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "acharanga-sutra.md",
+    "title": "Acharanga Sutra (The First Jain Agama)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/AcharnagSutraofMahavirEnglish",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "adhyatma-ramayanam-kilippattu-ezhuthachan-malayalam.md",
+    "title": "Adhyātma Rāmāyaṇaṃ Kilipattu",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Malayalam Complete)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.462099",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Internet Archive (Adhyatma Ramayanam)",
+        "url": "https://archive.org/details/adhyatma-ramayana-kilippattu",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (DLI Collection)",
+        "url": "https://archive.org/details/dli.ernet.506644",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (Scholarly Edition)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.381167",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Malayalam Wikisource",
+        "url": "https://ml.wikisource.org/wiki/അധ്യാത്മരാമായണം_കിളിപ്പാട്ട്",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "alberunis-india.md",
+    "title": "Alberuni's India (Kitab al-Hind)",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/22514",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 12.5%",
+        "relevanceScore": 12.5
+      },
+      {
+        "name": "Wikipedia: Indica (Al-Biruni)",
+        "url": "https://en.wikipedia.org/wiki/Indica_(Al-Biruni)",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "amarakosha-amarasimha-colebrooke-ed.md",
+    "title": "Amarakośa (The Immortal Treasury)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (1808 Serampore Edition)",
+        "url": "https://archive.org/details/amarakosawithco00colegoog",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (1891 Anandashrama Edition)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.408775",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (Complete Edition)",
+        "url": "https://archive.org/details/amarakosha-amarasimha",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (DLI Collection)",
+        "url": "https://archive.org/details/dli.ernet.503161",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Sanskrit Wikisource",
+        "url": "https://sa.wikisource.org/wiki/अमरकोशः",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 14.3%",
+        "relevanceScore": 14.285714285714285
+      }
+    ]
+  },
+  {
+    "file": "andhra-mahabharatamu-nannaya-telugu.md",
+    "title": "Āndhra Mahābhāratamu (The Telugu Mahabharata)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Nannaya Bhagavatam)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.458907",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      },
+      {
+        "name": "Internet Archive (Complete Telugu Edition)",
+        "url": "https://archive.org/details/Nannayya.Andhra.Mahabharatam",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (DLI Collection)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.35265",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Internet Archive (Scholarly Edition)",
+        "url": "https://archive.org/details/dli.ministry.19231",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Telugu Mahabharatam",
+        "url": "https://en.wikipedia.org/wiki/Telugu_Mahabharatam",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Telugu Wikisource",
+        "url": "https://te.wikisource.org/wiki/ఆంధ్ర_మహాభారతము",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "annals-and-antiquities-of-rajasthan-tod.md",
+    "title": "Annals and Antiquities of Rajast'han, or The Central and Western Rajput States of India",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg (Volume 1)",
+        "url": "https://www.gutenberg.org/ebooks/57374",
+        "type": "source",
+        "status": "suspicious",
+        "statusCode": 200,
+        "message": "OK",
+        "suspicionReason": "Soft-404: Book not found on Gutenberg"
+      }
+    ]
+  },
+  {
+    "file": "aryabhatiya-aryabhata.md",
+    "title": "Aryabhatiya",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Clark translation, 1930)",
+        "url": "https://archive.org/details/TheAryabhatiya",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "ashtavakra-gita.md",
+    "title": "Ashtavakra Gita (Song of Ashtavakra)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Swami Nityaswarupananda translation)",
+        "url": "https://archive.org/details/AshtavakraGita",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Advaita Vedanta",
+        "url": "https://en.wikipedia.org/wiki/Advaita_Vedanta",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "baburnama-memoirs-of-babur-zahir-ud-din-muhammad-babur.md",
+    "title": "The Bābur-nāma (Memoirs of Bābur)",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/files/44608/44608-h/44608-h.htm",
+        "type": "source",
+        "status": "suspicious",
+        "statusCode": 200,
+        "message": "OK",
+        "suspicionReason": "Soft-404: Book not found on Gutenberg"
+      }
+    ]
+  },
+  {
+    "file": "bhagavadgita-des-erhabenen-sang-schroeder.md",
+    "title": "Bhagavadgītā – Des Erhabenen Sang",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Bhagavad Gita",
+        "url": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      }
+    ]
+  },
+  {
+    "file": "bodhicharyavatara-shantideva.md",
+    "title": "Bodhicharyavatara (A Guide to the Bodhisattva's Way of Life)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/bodhicaryavatara00sant",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Bodhicharyavatara",
+        "url": "https://en.wikipedia.org/wiki/Bodhisattvacharyāvatāra",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "brahma-sutras-badarayana.md",
+    "title": "Brahma Sutras (Vedanta Sutras)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Thibaut translation with Shankara commentary)",
+        "url": "https://archive.org/details/vedantasutrassh00shagoog",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "brahmanda-purana.md",
+    "title": "Brahmanda Purana",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (G.V. Tagare translation)",
+        "url": "https://archive.org/details/brahmanda-purana-english",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "brihadaranyaka-upanishad.md",
+    "title": "Brihadaranyaka Upanishad",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Swami Madhavananda translation)",
+        "url": "https://archive.org/details/brihadaranyaka-upanishad-shankara-bhashya",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikisource: Brihadaranyaka Upanishad",
+        "url": "https://en.wikisource.org/wiki/The_Brih%C3%A1d-%C3%81ranyaka_Upanishad",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "buddhacharita-ashvaghosa.md",
+    "title": "Buddhacharita (Acts of the Buddha)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (E.H. Johnston translation)",
+        "url": "https://archive.org/details/buddhacarita00asuoft",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "buddhism-in-translations.md",
+    "title": "Buddhism in Translations",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Henry Clarke Warren",
+        "url": "https://en.wikipedia.org/wiki/Henry_Clarke_Warren",
+        "type": "reference",
+        "status": "error",
+        "message": ""
+      },
+      {
+        "name": "Wikipedia: Pali Canon",
+        "url": "https://en.wikipedia.org/wiki/Pali_Canon",
+        "type": "reference",
+        "status": "error",
+        "message": ""
+      }
+    ]
+  },
+  {
+    "file": "buddhist-and-christian-gospels.md",
+    "title": "Buddhist and Christian Gospels",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Buddhism",
+        "url": "https://en.wikipedia.org/wiki/Buddhism",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 12.5%",
+        "relevanceScore": 12.5
+      }
+    ]
+  },
+  {
+    "file": "campaign-of-the-indus-in-a-series-of-letters-from-an-officer-of-the-bombay-division-holdsworth-t-w-e.md",
+    "title": "Campaign of the Indus: In a Series of Letters from an Officer of the Bombay Division",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/12863",
+        "type": "source",
+        "status": "error",
+        "message": ""
+      }
+    ]
+  },
+  {
+    "file": "catalogue-coins-numismatic-cabinet-da-cunha.md",
+    "title": "Catalogue of the Coins in the Numismatic Cabinet, Parts I-IV",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Coinage of India",
+        "url": "https://en.wikipedia.org/wiki/Coinage_of_India",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 14.3%",
+        "relevanceScore": 14.285714285714285
+      }
+    ]
+  },
+  {
+    "file": "catalogue-of-coins-indian-museum-calcutta.md",
+    "title": "Catalogue of the Coins in the Indian Museum, Calcutta",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/catalogueofcoin00smitgoog",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikidata: Vincent Arthur Smith",
+        "url": "https://www.wikidata.org/wiki/Q2526407",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "caurapancashika-bilhana.md",
+    "title": "Caurapancashika (Fifty Stanzas of a Thief)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (With commentary)",
+        "url": "https://archive.org/details/chaurapanchasika00shiv",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Internet Archive (Alternative edition)",
+        "url": "https://archive.org/details/dli.ernet.247104",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Caurapancashika",
+        "url": "https://en.wikipedia.org/wiki/Caurapancashika",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Shringara",
+        "url": "https://en.wikipedia.org/wiki/Shringara",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Erotic literature",
+        "url": "https://en.wikipedia.org/wiki/Erotic_literature",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "charaka-samhita-ayurveda-english-translation.md",
+    "title": "Charaka Saṃhitā (Compendium of Charaka)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Sharma Translation Vol 1)",
+        "url": "https://archive.org/details/charaka-samhita-text-english-translation-vol-1",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (Complete English Edition)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.405666",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Internet Archive (Bhagwan Dash Translation)",
+        "url": "https://archive.org/details/charaka-samhita-dash",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (DLI Collection)",
+        "url": "https://archive.org/details/dli.ernet.2906",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (Sanskrit-English)",
+        "url": "https://archive.org/details/charakasamhitasanskritwithenglish",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Ayurveda",
+        "url": "https://en.wikipedia.org/wiki/Ayurveda",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Sanskrit Wikisource",
+        "url": "https://sa.wikisource.org/wiki/चरकसंहिता",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "charaka-samhita-ayurveda.md",
+    "title": "Charaka Samhita (Compendium of Internal Medicine)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Kaviraj translation)",
+        "url": "https://archive.org/details/CharakaSamhitaVol.IToIV",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "complete-poems-subramania-bharati.md",
+    "title": "Complete Poems of Subramania Bharati",
+    "problemLinks": [
+      {
+        "name": "Project Madurai (Tamil Digital Library)",
+        "url": "https://www.projectmadurai.org/",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "dasbodh-samarth-ramdas-marathi-1654.md",
+    "title": "Dasbodh (Spiritual Instruction to a Disciple)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Complete Marathi Edition)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.459001",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (English Translation)",
+        "url": "https://archive.org/details/dasbodh-ramdas-swami",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (DLI Collection)",
+        "url": "https://archive.org/details/dli.ernet.503847",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (Scholarly Edition)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.282506",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      },
+      {
+        "name": "Wikipedia: Shivaji",
+        "url": "https://en.wikipedia.org/wiki/Shivaji",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      },
+      {
+        "name": "Marathi Wikisource",
+        "url": "https://mr.wikisource.org/wiki/दासबोध",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "descriptive-ethnology-of-bengal-edward-tuite-dalton.md",
+    "title": "Descriptive Ethnology of Bengal",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/descriptiveethno00daltuoft",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "devi-mahatmya-markandeya.md",
+    "title": "Devi Mahatmya (Glory of the Goddess)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Swami Jagadiswarananda translation)",
+        "url": "https://archive.org/details/DeviMahatmyamGloryOfTheDivineMotherSanskritTextWith",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "devotional-poems-mirabai.md",
+    "title": "Devotional Poems of Mirabai",
+    "problemLinks": [
+      {
+        "name": "Internet Archive: Meerabai Ke Bhajan (Hindi collection)",
+        "url": "https://archive.org/details/meerabai-ke-bhajan",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Bhakti movement",
+        "url": "https://en.wikipedia.org/wiki/Bhakti_movement",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Krishna bhakti",
+        "url": "https://en.wikipedia.org/wiki/Krishna",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Rajasthani literature",
+        "url": "https://en.wikipedia.org/wiki/Rajasthani_literature",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Poetry Foundation: Mirabai",
+        "url": "https://www.poetryfoundation.org/poets/mirabai",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 403,
+        "message": "HTTP 403"
+      }
+    ]
+  },
+  {
+    "file": "diary-of-a-pedestrian-in-cashmere-and-thibet-knight-w-h-william-henry.md",
+    "title": "Diary of a Pedestrian in Cashmere and Thibet",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/3639",
+        "type": "source",
+        "status": "suspicious",
+        "statusCode": 200,
+        "message": "OK",
+        "suspicionReason": "Soft-404: Book not found on Gutenberg"
+      }
+    ]
+  },
+  {
+    "file": "dnyaneshwari-sant-dnyaneshwar-marathi-1290.md",
+    "title": "Dnyaneshwari (Bhāvārtha Dīpikā)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Complete Marathi Edition)",
+        "url": "https://archive.org/details/dnyaneshwari-marathi-complete",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (English Translation)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.458906",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Internet Archive (DLI Collection)",
+        "url": "https://archive.org/details/dli.bengal.10689.14587",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Internet Archive (Scholarly Edition)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.547339",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Marathi Wikisource",
+        "url": "https://mr.wikisource.org/wiki/ज्ञानेश्वरी",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "etat-civil-politique-et-commercant-du-bengale-william-bolts.md",
+    "title": "État civil, politique et commerçant du Bengale (Volumes 1-2)",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: East India Company",
+        "url": "https://en.wikipedia.org/wiki/East_India_Company",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 14.3%",
+        "relevanceScore": 14.285714285714285
+      }
+    ]
+  },
+  {
+    "file": "flowers-and-flower-gardens-with-an-appendix-of-practical-instructions-and-useful-information.md",
+    "title": "Flowers and Flower-Gardens: With an Appendix of Practical Instructions and Useful Information Respecting the Anglo-Indian Flower-Garden",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/12286",
+        "type": "source",
+        "status": "error",
+        "message": ""
+      }
+    ]
+  },
+  {
+    "file": "folklore-santal-parganas-bompas.md",
+    "title": "Folklore of the Santal Parganas",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Folklore",
+        "url": "https://en.wikipedia.org/wiki/Folklore",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 14.3%",
+        "relevanceScore": 14.285714285714285
+      }
+    ]
+  },
+  {
+    "file": "garuda-purana.md",
+    "title": "Garuda Purana",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Various translations)",
+        "url": "https://archive.org/details/garuda-purana-english",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Shraddha",
+        "url": "https://en.wikipedia.org/wiki/Shraddha",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "gazetteer-of-the-bombay-presidency-government-of-bombay.md",
+    "title": "Gazetteer of the Bombay Presidency",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/dli.ministry.08144; https://archive.org/details/in.gov.ignca.17331; https://archive.org/details/in.gov.ignca.17350",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "geet-govinda-jayadeva.md",
+    "title": "Geet Govinda",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Multiple Editions)",
+        "url": "https://archive.org/details/geetagovinda",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikisource Sanskrit",
+        "url": "https://sa.wikisource.org/wiki/गीतगोविन्दम्",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Sacred Texts Archive",
+        "url": "https://www.sacred-texts.com/hin/gitag/index.htm",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "gheranda-samhita-yoga.md",
+    "title": "Gheranda Samhita (Gheranda's Collection)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Sris Chandra Vasu translation)",
+        "url": "https://archive.org/details/gherandasamhita00ghergoog",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "gold-sport-and-coffee-planting-in-mysore-with-chapters-on-coffee-planting-in-coorg-the-mysore.md",
+    "title": "Gold, Sport, and Coffee Planting in Mysore: With chapters on coffee planting in Coorg, the Mysore representative assembly, the Indian congress, caste and the Indian silver question, being the 38 years' experiences of a Mysore planter",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/13746",
+        "type": "source",
+        "status": "error",
+        "message": ""
+      }
+    ]
+  },
+  {
+    "file": "harshacharita-banabhatta.md",
+    "title": "Harshacharita",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (E.B. Cowell & F.W. Thomas translation)",
+        "url": "https://archive.org/details/harshacharita00banuoft",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "hind-swaraj-indian-home-rule-gandhi.md",
+    "title": "Hind Swaraj or Indian Home Rule",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/40461",
+        "type": "source",
+        "status": "suspicious",
+        "statusCode": 200,
+        "message": "OK",
+        "suspicionReason": "Soft-404: Book not found on Gutenberg"
+      }
+    ]
+  },
+  {
+    "file": "hindu-literature-wilson.md",
+    "title": "Hindu Literature: Comprising The Book of Good Counsels, Nala and Damayanti, The Ramayana, and Sakoontala",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/hinduliteraturec00wils",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikisource: Epiphanius Wilson",
+        "url": "https://en.wikisource.org/wiki/Author:Epiphanius_Wilson",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 17.4%",
+        "relevanceScore": 17.391304347826086
+      }
+    ]
+  },
+  {
+    "file": "historical-atlas-of-india-charles-joppen.md",
+    "title": "Historical Atlas of India",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/historicalatlaso00jopprich; https://archive.org/details/cu31924022983567",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "historical-fragments-of-the-mogul-empire-robert-orme.md",
+    "title": "Historical Fragments of the Mogul Empire",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Robert Orme (historian)",
+        "url": "https://en.wikipedia.org/wiki/Robert_Orme_(historian)",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "history-of-aurangzib-vol-i-j-n-sarkar.md",
+    "title": "History of Aurangzib (Five Volumes)",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Aurangzeb",
+        "url": "https://en.wikipedia.org/wiki/Aurangzeb",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      }
+    ]
+  },
+  {
+    "file": "history-of-indian-and-eastern-architecture-1808-1886-james-fergusson.md",
+    "title": "History of Indian and Eastern Architecture",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: James Fergusson (architect)",
+        "url": "https://en.wikipedia.org/wiki/James_Fergusson_(architectural_historian)",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "history-of-the-rise-of-the-mahomedan-power-in-india-muammad-qsim-firishta-tr-john-briggs.md",
+    "title": "History of the Rise of the Mahomedan Power in India",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/in.ernet.dli.2015.82679; https://archive.org/details/in.ernet.dli.2015.189197; https://archive.org/details/dli.ernet.107664",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "hitopadesha-narayana.md",
+    "title": "Hitopadesha (Beneficial Instruction)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (F. Max Müller edition)",
+        "url": "https://archive.org/details/firstbookofhitop00ml",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Internet Archive (various Sanskrit editions)",
+        "url": "https://archive.org/details/hitopadesa00nargoog",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Narayana Pandita",
+        "url": "https://en.wikipedia.org/wiki/Narayana_(Pandit)",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Panchatantra",
+        "url": "https://en.wikipedia.org/wiki/Panchatantra",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "hobson-jobson-a-glossary-of-colloquial-anglo-indian-words-and-phrases-henry-yule-a-c-burnell-rev-william-crooke.md",
+    "title": "Hobson-Jobson: A Glossary of Colloquial Anglo-Indian Words and Phrases",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/58529",
+        "type": "source",
+        "status": "error",
+        "message": ""
+      }
+    ]
+  },
+  {
+    "file": "hymns-of-the-atharvaveda-griffith.md",
+    "title": "The Hymns of the Atharvaveda",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Vedic Period",
+        "url": "https://en.wikipedia.org/wiki/Vedic_period",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "indian-currency-and-finance-keynes.md",
+    "title": "Indian Currency and Finance",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/49166",
+        "type": "source",
+        "status": "error",
+        "message": ""
+      }
+    ]
+  },
+  {
+    "file": "indian-fairy-tales-joseph-jacobs.md",
+    "title": "Indian Fairy Tales",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/7128",
+        "type": "source",
+        "status": "error",
+        "message": ""
+      }
+    ]
+  },
+  {
+    "file": "indian-home-rule-gandhi-hind-swaraj.md",
+    "title": "Indian Home Rule (Hind Swaraj)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/hindiswarajind00gand",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "indian-myth-and-legend-mackenzie.md",
+    "title": "Indian Myth and Legend",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/47228",
+        "type": "source",
+        "status": "error",
+        "message": ""
+      }
+    ]
+  },
+  {
+    "file": "indian-wisdom-monier-williams.md",
+    "title": "Indian Wisdom: Religious, Philosophical and Ethical Doctrines",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/indianwisdomorre00moniuoft",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikidata: Monier Monier-Williams",
+        "url": "https://www.wikidata.org/wiki/Q1333528",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "indigo-and-its-enemies-1861-delta.md",
+    "title": "Indigo and Its Enemies",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: John Peter Grant",
+        "url": "https://en.wikipedia.org/wiki/John_Peter_Grant",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "isha-upanishad.md",
+    "title": "Isha Upanishad",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Eknath Easwaran translation)",
+        "url": "https://archive.org/details/upanishads00easw",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "islam-in-india-qanun-i-islam-jafar-sharif.md",
+    "title": "Islam in India, or The Qānūn-i Islām",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Qanun-e-Islam",
+        "url": "https://en.wikipedia.org/wiki/Qanun-e-Islam",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "jaimini-sutras-purva-mimamsa.md",
+    "title": "Jaimini Sutras: Purva Mimamsa (Vedic Ritual Interpretation)",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Sabara",
+        "url": "https://en.wikipedia.org/wiki/Sabara",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Internet Encyclopedia of Philosophy: Mimamsa",
+        "url": "https://iep.utm.edu/mimamsa/",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "jataka-tales-animal-stories-ellen-babbitt.md",
+    "title": "Jataka Tales: Animal Stories",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Ellen C. Babbitt",
+        "url": "https://en.wikipedia.org/wiki/Ellen_C._Babbitt",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "journael-van-de-reysen-naar-oost-indien-thomas-roe.md",
+    "title": "Journael van de Reysen naar Oost-Indien",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Thomas Roe",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Roe",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      },
+      {
+        "name": "Wikipedia: Mughal Empire",
+        "url": "https://en.wikipedia.org/wiki/Mughal_Empire",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "kadambari-banabhatta.md",
+    "title": "Kadambari",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (C.M. Ridding translation, 1896)",
+        "url": "https://archive.org/details/kadambariobanao00riddgoog",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Sanskrit prose",
+        "url": "https://en.wikipedia.org/wiki/Sanskrit_prose",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "kamba-ramayanam.md",
+    "title": "Kamba Ramayanam",
+    "problemLinks": [
+      {
+        "name": "Project Madurai (Tamil Text)",
+        "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0001.html",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Internet Archive (Tamil Complete)",
+        "url": "https://archive.org/details/kambaramayanam",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Tamil Virtual Academy",
+        "url": "https://www.tamilvu.org/",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikisource Tamil",
+        "url": "https://ta.wikisource.org/wiki/கம்பராமாயணம்",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "katha-upanishad.md",
+    "title": "Katha Upanishad",
+    "problemLinks": [
+      {
+        "name": "Wikisource: Katha Upanishad",
+        "url": "https://en.wikisource.org/wiki/The_Ka%E1%B9%ADha_Upanishad",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "kathasaritsagara-somadeva.md",
+    "title": "Kathasaritsagara (Ocean of the Streams of Story)",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg (C.H. Tawney translation)",
+        "url": "https://www.gutenberg.org/ebooks/40588",
+        "type": "source",
+        "status": "error",
+        "message": ""
+      },
+      {
+        "name": "Wikipedia: Frame story",
+        "url": "https://en.wikipedia.org/wiki/Frame_story",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      }
+    ]
+  },
+  {
+    "file": "kavitavali-tulsidas.md",
+    "title": "Kavitavali",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Hindi Text)",
+        "url": "https://archive.org/details/kavitavali",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Kavitavali",
+        "url": "https://en.wikipedia.org/wiki/Kavitavali",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "kena-upanishad.md",
+    "title": "Kena Upanishad",
+    "problemLinks": [
+      {
+        "name": "Wikisource: Kena Upanishad",
+        "url": "https://en.wikisource.org/wiki/The_Kena_Upanishad",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "kiratarjuniya-bharavi-durga-prasad.md",
+    "title": "The Kirātārjunīya of Bhāravi",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Mahabharata",
+        "url": "https://en.wikipedia.org/wiki/Mahabharata",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Arjuna",
+        "url": "https://en.wikipedia.org/wiki/Arjuna",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      }
+    ]
+  },
+  {
+    "file": "kiratarjuniya-bharavi.md",
+    "title": "Kiratarjuniya (Arjuna and the Mountain-Dweller)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Kiratarjuniya - Sanskrit text with commentary)",
+        "url": "https://archive.org/details/kiratarjuniya00bhar",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (English translation)",
+        "url": "https://archive.org/details/kiratarjuniyaorb00bhar",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Digital Library of India",
+        "url": "https://archive.org/details/in.ernet.dli.2015.408333",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Mahabharata",
+        "url": "https://en.wikipedia.org/wiki/Mahabharata",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "krtyaratnakara-chandesvara-thakkura.md",
+    "title": "Krtyaratnakara (The Jewel Mine of Ritual Duties)",
+    "problemLinks": [
+      {
+        "name": "Open Library",
+        "url": "https://openlibrary.org/search?q=Krtyaratnakara+Chandesvara&mode=everything",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 9.1%",
+        "relevanceScore": 9.090909090909092
+      }
+    ]
+  },
+  {
+    "file": "kularnava-tantra.md",
+    "title": "Kularnava Tantra (Ocean of Kula Tradition)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Ram Kumar Rai translation)",
+        "url": "https://archive.org/details/KularnavaTantraWithEnglishTranslation",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Kularnava Tantra",
+        "url": "https://en.wikipedia.org/wiki/Kularnava_Tantra",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Kaula (Tantra)",
+        "url": "https://en.wikipedia.org/wiki/Kaula_(Tantra)",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "kulliyat-e-fani-collected-poems-fani-badayuni.md",
+    "title": "Kulliyat-e-Fani (Collected Poems)",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg search",
+        "url": "https://www.gutenberg.org/ebooks/search/?query=Fani%20Badayuni",
+        "type": "reference",
+        "status": "error",
+        "message": ""
+      }
+    ]
+  },
+  {
+    "file": "kumarasambhava-kalidasa.md",
+    "title": "Kumarasambhava (The Birth of Kumara)",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg (The Birth of the War-God)",
+        "url": "https://www.gutenberg.org/ebooks/31968",
+        "type": "source",
+        "status": "error",
+        "message": ""
+      },
+      {
+        "name": "Internet Archive (DLI Edition)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.408296",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Internet Archive (M.R. Kale edition with commentary)",
+        "url": "https://archive.org/details/KumarSambhavOfKalidasMRKale",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Shringara",
+        "url": "https://en.wikipedia.org/wiki/Shringara",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "kurma-purana.md",
+    "title": "Kurma Purana",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Various translations)",
+        "url": "https://archive.org/details/kurma-purana-english",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "linga-purana.md",
+    "title": "Linga Purana",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Various translations)",
+        "url": "https://archive.org/details/linga-purana-english",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "little-clay-cart-sudraka.md",
+    "title": "The Little Clay Cart (Mrichchhakatika)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/littleclaycartmr00shuduoft",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Prakarana",
+        "url": "https://en.wikipedia.org/wiki/Prakarana",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "mahabhashya-patanjali.md",
+    "title": "Mahabhashya (The Great Commentary)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Kielhorn edition)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.319613",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Internet Archive (Sanskrit text)",
+        "url": "https://archive.org/details/vyakarana-mahabhashya-patanjali",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "malatimadhava-bhavabhuti.md",
+    "title": "Malatimadhava (Malati and Madhava)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Sanskrit text with English translation)",
+        "url": "https://archive.org/details/malatiandmadhava00bhavuoft",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (Sanskrit text with commentary)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.408551",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Malatimadhava",
+        "url": "https://en.wikipedia.org/wiki/M%C4%81lat%C4%ABm%C4%81dhava",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Tantra",
+        "url": "https://en.wikipedia.org/wiki/Tantra",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "mandukya-upanishad.md",
+    "title": "Mandukya Upanishad",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Swami Nikhilananda translation)",
+        "url": "https://archive.org/details/mandukya-upanishad-gaudapada-karika",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Sacred Texts: Mandukya Upanishad",
+        "url": "https://www.sacred-texts.com/hin/mandukya.htm",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikisource: Mandukya Upanishad",
+        "url": "https://en.wikisource.org/wiki/Mandukya_Upanishad",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "manimekalai-sittalai-sattanar.md",
+    "title": "Manimekalai (The Jeweled Anklet)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Krishnaswami Aiyangar translation)",
+        "url": "https://archive.org/details/manimekalai00chit",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Tamil Buddhism",
+        "url": "https://en.wikipedia.org/wiki/Buddhism_in_Tamil_Nadu",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Tamil literature",
+        "url": "https://en.wikipedia.org/wiki/Tamil_literature",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "markandeya-purana-devi-mahatmya.md",
+    "title": "Markandeya Purana (with Devi Mahatmya)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (various editions)",
+        "url": "https://archive.org/details/markandeyapurana00pargoog",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "matsya-purana.md",
+    "title": "Matsya Purana",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (various editions)",
+        "url": "https://archive.org/details/matsyapurana00sanskrit",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "medieval-indian-sculpture-in-the-british-museum-ramaprasad-chanda.md",
+    "title": "Medieval Indian Sculpture in the British Museum",
+    "problemLinks": [
+      {
+        "name": "IGNCA Digital Library",
+        "url": "https://ignca.gov.in/Asi_data/44179.pdf",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "meghaduta-kalidasa.md",
+    "title": "Meghaduta (The Cloud Messenger)",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Yaksha",
+        "url": "https://en.wikipedia.org/wiki/Yaksha",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Mandakranta",
+        "url": "https://en.wikipedia.org/wiki/Mandakranta",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "milinda-panha.md",
+    "title": "Milinda Panha (Questions of King Milinda)",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Indo-Greek Kingdom",
+        "url": "https://en.wikipedia.org/wiki/Indo-Greek_Kingdom",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      },
+      {
+        "name": "Wikipedia: Greco-Buddhism",
+        "url": "https://en.wikipedia.org/wiki/Greco-Buddhism",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      }
+    ]
+  },
+  {
+    "file": "mimamsa-sutras-jaimini.md",
+    "title": "Mimamsa Sutras (Purva Mimamsa Sutras)",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Philosophy of language",
+        "url": "https://en.wikipedia.org/wiki/Philosophy_of_language",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "mool-ramayana-ramnathlal-1.md",
+    "title": "Mool Ramayana",
+    "problemLinks": [
+      {
+        "name": "Wikidata: Ramayana",
+        "url": "https://www.wikidata.org/wiki/Q8276",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "more-jataka-tales-ellen-babbitt.md",
+    "title": "More Jataka Tales",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Ellen C. Babbitt",
+        "url": "https://en.wikipedia.org/wiki/Ellen_C._Babbitt",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "mricchakatika-sudraka.md",
+    "title": "Mricchakatika (The Little Clay Cart)",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg (English translation)",
+        "url": "https://www.gutenberg.org/ebooks/21020",
+        "type": "source",
+        "status": "error",
+        "message": ""
+      },
+      {
+        "name": "Internet Archive (M.R. Kale edition with commentary)",
+        "url": "https://archive.org/details/mrichhakatikaoft",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Ujjain",
+        "url": "https://en.wikipedia.org/wiki/Ujjain",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "mudrarakshasa-vishakhadatta.md",
+    "title": "Mudrarakshasa (The Signet Ring of Rakshasa)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Sanskrit text with English translation)",
+        "url": "https://archive.org/details/mudrarakshasa00visuoft",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (Sanskrit text with commentary)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.408891",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "mundaka-upanishad.md",
+    "title": "Mundaka Upanishad",
+    "problemLinks": [
+      {
+        "name": "Wikisource: Mundaka Upanishad",
+        "url": "https://en.wikisource.org/wiki/Mundaka_Upanishad",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "nagananda-harsha.md",
+    "title": "Nagananda (The Joy of the Serpents)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Sanskrit text with commentary)",
+        "url": "https://archive.org/details/nagananda00hars",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (Sanskrit edition with English translation)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.406805",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Project Gutenberg (English translation)",
+        "url": "https://www.gutenberg.org/ebooks/41421",
+        "type": "source",
+        "status": "error",
+        "message": ""
+      },
+      {
+        "name": "Sanskrit Documents (Devanagari text)",
+        "url": "https://sanskritdocuments.org/doc_drama/naagaananda.html",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Buddhist drama",
+        "url": "https://en.wikipedia.org/wiki/Buddhist_drama",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Jataka tales",
+        "url": "https://en.wikipedia.org/wiki/Jataka_tales",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Bodhisattva",
+        "url": "https://en.wikipedia.org/wiki/Bodhisattva",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "nala-and-damayanti-and-other-poems-henry-hart-milman.md",
+    "title": "Nala and Damayanti, and Other Poems",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Nala_and_Damayanti_and_other_poems_%28IA_naladamayantioth00oxfo%29.pdf",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "naradiya-shiksha-kunte.md",
+    "title": "Nāradīya Śikṣā (Narada's Treatise on Phonetics and Musical Sound)",
+    "problemLinks": [
+      {
+        "name": "Open Library",
+        "url": "https://openlibrary.org/search?q=Naradiya+Shiksha&mode=everything",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 9.1%",
+        "relevanceScore": 9.090909090909092
+      }
+    ]
+  },
+  {
+    "file": "narrative-of-a-journey-through-the-upper-provinces-of-india-reginald-heber.md",
+    "title": "Narrative of a Journey through the Upper Provinces of India",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/narrativeofjourn02hebeuoft; https://archive.org/details/narrativeofjourn01hebeuoft; https://archive.org/details/narrativeofjourn03regi",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "nationalismus-tagore-rabindranath.md",
+    "title": "Nationalismus",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/40920",
+        "type": "source",
+        "status": "error",
+        "message": ""
+      },
+      {
+        "name": "Project Gutenberg (HTML)",
+        "url": "https://www.gutenberg.org/ebooks/40920.html.images",
+        "type": "source",
+        "status": "error",
+        "message": ""
+      }
+    ]
+  },
+  {
+    "file": "natya-shastra-bharata-muni.md",
+    "title": "Natya Shastra (Treatise on the Performing Arts)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Manomohan Ghosh translation, 1950)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.37549",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 14.3%",
+        "relevanceScore": 14.285714285714285
+      },
+      {
+        "name": "Internet Archive (Natyashastra Vol 1)",
+        "url": "https://archive.org/details/natyashastra01bharuoft",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "nil-darpan-or-the-indigo-planting-mirror-a-drama-translated-from-the-bengali-by-a-native-mitra.md",
+    "title": "Nil Darpan; or, The Indigo Planting Mirror, A Drama.: Translated from the Bengali by a Native.",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/54027",
+        "type": "source",
+        "status": "error",
+        "message": ""
+      }
+    ]
+  },
+  {
+    "file": "notes-of-an-overland-journey-through-france-and-egypt-to-bombay-roberts-emma.md",
+    "title": "Notes of an Overland Journey Through France and Egypt to Bombay",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/12064",
+        "type": "source",
+        "status": "error",
+        "message": ""
+      }
+    ]
+  },
+  {
+    "file": "nyaya-sutras-akshapada-gautama.md",
+    "title": "Nyaya Sutras (Sutras on Logic)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Ganganatha Jha translation)",
+        "url": "https://archive.org/details/TheNyayaSutrasOfGautama",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "nyaya-sutras-gautama.md",
+    "title": "Nyaya Sutras (Foundations of Logic and Epistemology)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Ganganatha Jha translation with Vatsyayana commentary)",
+        "url": "https://archive.org/details/nyayasutrasofgau00gauta",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "nyaya-sutras-of-gotama.md",
+    "title": "Nyaya Sutras of Gotama (Foundations of Indian Logic)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Ganganatha Jha translation)",
+        "url": "https://archive.org/details/nyayasutrasofgau00gauta",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Sacred Texts: Nyaya Sutras",
+        "url": "https://www.sacred-texts.com/hin/sbe/index.htm",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "nyayatatparyadipika-jayasimha-suri.md",
+    "title": "Nyāyatatparyadīpikā: Medieval Logic Commentary",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Nyaya",
+        "url": "https://en.wikipedia.org/wiki/Nyaya",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      }
+    ]
+  },
+  {
+    "file": "outlines-of-indian-philosophy-paul-deussen.md",
+    "title": "Outlines of Indian Philosophy",
+    "problemLinks": [
+      {
+        "name": "PhilPapers Entry",
+        "url": "https://philpapers.org/rec/DEUOOI",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 403,
+        "message": "HTTP 403"
+      }
+    ]
+  },
+  {
+    "file": "padma-purana.md",
+    "title": "Padma Purana",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (N.A. Deshpande translation)",
+        "url": "https://archive.org/details/padma-purana-english",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "pampa-bharatam-vikramarjuna-vijaya-kannada.md",
+    "title": "Vikramārjuna Vijaya (Pampa Bhārata)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Kannada Edition 1912)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.462077",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Internet Archive (Scholarly Edition)",
+        "url": "https://archive.org/details/pampa-bharata-vikramarjuna-vijaya",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (DLI Collection)",
+        "url": "https://archive.org/details/dli.bengal.10689.7823",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Internet Archive (Complete Text)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.377890",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Pampa (Kannada poet)",
+        "url": "https://en.wikipedia.org/wiki/Pampa_(Kannada_poet)",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Kannada Wikisource",
+        "url": "https://kn.wikisource.org/wiki/ವಿಕ್ರಮಾರ್ಜುನ_ವಿಜಯ",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "panchadasi-vidyaranya.md",
+    "title": "Panchadasi (Fifteen Chapters on Advaita)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Swami Swahananda translation)",
+        "url": "https://archive.org/details/panchadasi00vidyuoft",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "path-to-god-gandhi.md",
+    "title": "Path to God",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/pathtogod00gand",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "periya-puranam-sekkizhar.md",
+    "title": "Periya Puranam",
+    "problemLinks": [
+      {
+        "name": "Project Madurai (Tamil Text)",
+        "url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0235.pdf",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Internet Archive (Tamil Complete)",
+        "url": "https://archive.org/details/periyapuranam",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Tamil Virtual Academy",
+        "url": "https://www.tamilvu.org/",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikisource Tamil",
+        "url": "https://ta.wikisource.org/wiki/பெரியபுராணம்",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "poems-by-toru-dutt.md",
+    "title": "Poems by Toru Dutt",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg - A Sheaf Gleaned in French Fields",
+        "url": "https://www.gutenberg.org/ebooks/4838",
+        "type": "source",
+        "status": "error",
+        "message": ""
+      },
+      {
+        "name": "Project Gutenberg - Ancient Ballads and Legends",
+        "url": "https://www.gutenberg.org/ebooks/23245",
+        "type": "source",
+        "status": "error",
+        "message": ""
+      }
+    ]
+  },
+  {
+    "file": "prashna-upanishad.md",
+    "title": "Prashna Upanishad",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Pippalada",
+        "url": "https://en.wikipedia.org/wiki/Pippal%C4%81da",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikisource: Prashna Upanishad",
+        "url": "https://en.wikisource.org/wiki/Prashna_Upanishad",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "priyadarsika-harsha.md",
+    "title": "Priyadarsika (The Dear One)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Sanskrit text with commentary)",
+        "url": "https://archive.org/details/priyadarsikaofki00hars",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (Various editions)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.406807",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Sanskrit Documents (Devanagari text)",
+        "url": "https://sanskritdocuments.org/doc_drama/priyadarshikaa.html",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Udayana",
+        "url": "https://en.wikipedia.org/wiki/Udayana",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "raghudayamu-telugu-venkata-suryaprasada.md",
+    "title": "Raghudayamu (రఘూదయము)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/in.ernet.dli.2015.497505",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Pallava dynasty",
+        "url": "https://en.wikipedia.org/wiki/Pallava_dynasty",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Telugu literature",
+        "url": "https://en.wikipedia.org/wiki/Telugu_literature",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 11.1%",
+        "relevanceScore": 11.11111111111111
+      },
+      {
+        "name": "Open Library",
+        "url": "https://openlibrary.org/search?q=Raghudayamu+Telugu&mode=everything",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 11.1%",
+        "relevanceScore": 11.11111111111111
+      }
+    ]
+  },
+  {
+    "file": "raja-yoga-swami-vivekananda.md",
+    "title": "Raja Yoga",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/rajayoga00vive",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikisource",
+        "url": "https://en.wikisource.org/wiki/Raja_Yoga",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "ramacharitamanasa-tulsidas.md",
+    "title": "Ramcharitmanas",
+    "problemLinks": [
+      {
+        "name": "Wikisource Hindi",
+        "url": "https://hi.wikisource.org/wiki/श्रीरामचरितमानस",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (Multiple Editions)",
+        "url": "https://archive.org/details/ramcharitmanas",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (English Translation)",
+        "url": "https://archive.org/details/TheHolyLakeOfTheActsOfRama",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Awadhi literature",
+        "url": "https://en.wikipedia.org/wiki/Awadhi_literature",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "rasendra-sar-sanghra-bhaskara-basak.md",
+    "title": "Rasendra Sar Sanghra (রাসেন্দ্র সার সংগ্রহ) Vol. 1",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Rasa shastra",
+        "url": "https://en.wikipedia.org/wiki/Rasa_shastra",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 12.5%",
+        "relevanceScore": 12.5
+      },
+      {
+        "name": "Wikipedia: Alchemy",
+        "url": "https://en.wikipedia.org/wiki/Alchemy",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 12.5%",
+        "relevanceScore": 12.5
+      }
+    ]
+  },
+  {
+    "file": "ratnavali-harsha.md",
+    "title": "Ratnavali (The Pearl Necklace)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Various Sanskrit editions)",
+        "url": "https://archive.org/details/ratnavali00hars",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (Sanskrit text with commentary)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.406806",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Sanskrit Documents (Devanagari text)",
+        "url": "https://sanskritdocuments.org/doc_drama/ratnaavali.html",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Udayana",
+        "url": "https://en.wikipedia.org/wiki/Udayana",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Indian comedy",
+        "url": "https://en.wikipedia.org/wiki/Indian_comedy",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "report-excavations-pataliputra-waddell.md",
+    "title": "Report on the Excavations at Pātaliputra (Patna): The Palibothra of the Greeks",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Ashoka",
+        "url": "https://en.wikipedia.org/wiki/Ashoka",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 14.3%",
+        "relevanceScore": 14.285714285714285
+      }
+    ]
+  },
+  {
+    "file": "rig-veda-samhita-books-14-wilson.md",
+    "title": "Rig-Veda Samhita, Books 1-4",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/rigvedasanhita",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "sacred-books-of-the-east-hindu-series-volume-3.md",
+    "title": "The Sacred Books of the East, Hindu Series, Volume 3",
+    "problemLinks": [
+      {
+        "name": "Wikisource: Sacred Books Portal",
+        "url": "https://en.wikisource.org/wiki/Portal:Sacred_Books_of_the_East",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "samkhya-karika-ishvarakrishna.md",
+    "title": "Samkhya Karika (Verses on Enumeration Philosophy)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (John Davies translation)",
+        "url": "https://archive.org/details/hinphilsamkhyak00daviuoft",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Ishvarakrishna",
+        "url": "https://en.wikipedia.org/wiki/I%C5%9Bvarak%E1%B9%9B%E1%B9%A3%E1%B9%87a",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "sangita-makaranda-telang.md",
+    "title": "Saṅgīta-makaranda (Essence of Music)",
+    "problemLinks": [
+      {
+        "name": "Open Library",
+        "url": "https://openlibrary.org/search?q=Sangita+makaranda&mode=everything",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 12.5%",
+        "relevanceScore": 12.5
+      }
+    ]
+  },
+  {
+    "file": "sangita-raga-kalpadruma-vol1.md",
+    "title": "Saṅgīta Rāga-kalpadruma Vol. 1",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Raga",
+        "url": "https://en.wikipedia.org/wiki/Raga",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Hindustani classical music",
+        "url": "https://en.wikipedia.org/wiki/Hindustani_classical_music",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "sangita-ratnakara-sarangadeva.md",
+    "title": "Sangita Ratnakara",
+    "problemLinks": [
+      {
+        "name": "Wikisource: Sangita Ratnakara (Sanskrit)",
+        "url": "https://sa.wikisource.org/wiki/सङ्गीतरत्नाकर",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "sangita-ratnakara-sharangadeva.md",
+    "title": "Sangita Ratnakara (Ocean of Music)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Sanskrit editions)",
+        "url": "https://archive.org/details/sangitaratnakara00sharuoft",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Sharangadeva",
+        "url": "https://en.wikipedia.org/wiki/Sharangadeva",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "sankhya-aphorisms-ballantyne.md",
+    "title": "The Sankhya Aphorisms of Kapila",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: James Ballantyne (Orientalist)",
+        "url": "https://en.wikipedia.org/wiki/James_Ballantyne_(Orientalist)",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "sant-tukaram-gatha-marathi-abhanga.md",
+    "title": "Tukārām Gāthā (Abhangas of Sant Tukaram)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Complete Gatha)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.331824",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Internet Archive (English Translation)",
+        "url": "https://archive.org/details/tukaramgatha00tuka",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (DLI Collection)",
+        "url": "https://archive.org/details/dli.ernet.503119",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (Scholarly Edition)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.77711",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Marathi Wikisource",
+        "url": "https://mr.wikisource.org/wiki/तुकाराम_गाथा",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "sarala-mahabharata-odia-sarala-dasa.md",
+    "title": "Sarala Mahābhārata (The Odia Mahabharata)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Complete Edition)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.463066",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      },
+      {
+        "name": "Internet Archive (Odia Text)",
+        "url": "https://archive.org/details/sarala-mahabharata-odia",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (DLI Collection)",
+        "url": "https://archive.org/details/dli.ernet.519944",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      },
+      {
+        "name": "Internet Archive (Scholarly Edition)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.98632",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      },
+      {
+        "name": "Wikipedia: Sarala Mahabharata",
+        "url": "https://en.wikipedia.org/wiki/Sarala_Mahabharata",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Odia Wikisource",
+        "url": "https://or.wikisource.org/wiki/ସରଳା_ମହାଭାରତ",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "sesde-reys-van-de-engelsche-maatschappy-na-oost-indien-henry-middleton.md",
+    "title": "Sesde reys van de Engelsche Maatschappy na Oost-Indien",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Henry Middleton (East India Company)",
+        "url": "https://en.wikipedia.org/wiki/Henry_Middleton_(East_India_Company)",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "shaddarsana-samuchchaya-haribhadra.md",
+    "title": "Ṣaḍdarśana-samuccaya (Compendium of Six Philosophical Systems)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/in.ernet.dli.2015.552446",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 14.3%",
+        "relevanceScore": 14.285714285714285
+      },
+      {
+        "name": "Open Library",
+        "url": "https://openlibrary.org/search?q=Shaddarsana-samuchchaya+Haribhadra&mode=everything",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 14.3%",
+        "relevanceScore": 14.285714285714285
+      }
+    ]
+  },
+  {
+    "file": "shishupalavadha-magha.md",
+    "title": "Shishupalavadha",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Alternative edition)",
+        "url": "https://archive.org/details/sisupala-vadha-magha-kavya",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "shiva-purana.md",
+    "title": "Shiva Purana",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (J.L. Shastri translation)",
+        "url": "https://archive.org/details/shiva-purana-english",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "shiva-sutras-vasugupta.md",
+    "title": "Shiva Sutras (Aphorisms of Shiva)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Jaideva Singh translation with commentary)",
+        "url": "https://archive.org/details/ShivaSutras_201405",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "shvetashvatara-upanishad.md",
+    "title": "Shvetashvatara Upanishad",
+    "problemLinks": [
+      {
+        "name": "Wikisource: Shvetashvatara Upanishad",
+        "url": "https://en.wikisource.org/wiki/Shvetashvatara_Upanishad",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "siddhanta-shiromani-bhaskara.md",
+    "title": "Siddhanta Shiromani (Crown of Treatises)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Sanskrit text)",
+        "url": "https://archive.org/details/siddhantashiroma00bhasuoft",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Internet Archive (English translation)",
+        "url": "https://archive.org/details/BhaskaraSiddhantaShiromani",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Indian mathematics",
+        "url": "https://en.wikipedia.org/wiki/Indian_mathematics",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      }
+    ]
+  },
+  {
+    "file": "siddhartha-hermann-hesse.md",
+    "title": "Siddhartha",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/hermann-hesse_siddhartha_gunther-olesch_anke-dreher_amy-coulter_stefan-langer_semyon-chaichenets",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "silappatikaram-ilango-adigal.md",
+    "title": "Silappatikaram (The Ankle Bracelet)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (V.R. Ramachandra Dikshitar translation)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.459912",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "soundarya-lahari-adi-shankara.md",
+    "title": "Soundarya Lahari",
+    "problemLinks": [
+      {
+        "name": "Sacred Texts: Ananda Lahari",
+        "url": "https://www.sacred-texts.com/hin/sha/index.htm",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Tantra",
+        "url": "https://en.wikipedia.org/wiki/Tantra",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "storia-do-mogor-mogul-india-1653-1708-niccolo-manucci-william-irvine.md",
+    "title": "Storia do Mogor: Mogul India 1653-1708",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Niccolò Manucci",
+        "url": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Manucci",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Storia do Mogor",
+        "url": "https://en.wikipedia.org/wiki/Storia_do_Mogor",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "story-of-my-experiments-with-truth-gandhi-autobiography.md",
+    "title": "The Story of My Experiments with Truth (Autobiography)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/autobiographyors00gand",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "sushrut-sanhita-ambikadatt-1.md",
+    "title": "Sushrut Sanhita",
+    "problemLinks": [
+      {
+        "name": "Wikidata: Sushrut Sanhita",
+        "url": "https://www.wikidata.org/wiki/Q899616",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "sushruta-samhita-ayurveda.md",
+    "title": "Sushruta Samhita (Compendium of Surgery)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Kaviraj Kunja Lal Bhishagratna translation)",
+        "url": "https://archive.org/details/SushrutaSamhitaVolume1",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "sushruta-samhita-english-translation.md",
+    "title": "An English Translation of the Sushruta Samhita",
+    "problemLinks": [
+      {
+        "name": "National Institute of Indian Medical Heritage (NIIMH)",
+        "url": "https://niimh.nic.in/ebooks/esushruta/?mod=home&con=pro",
+        "type": "source",
+        "status": "error",
+        "statusCode": 500,
+        "message": "HTTP 500"
+      }
+    ]
+  },
+  {
+    "file": "sutrakritanga.md",
+    "title": "Sutrakritanga (The Second Jain Agama)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/jaingainasutras01jaingoog",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "swetashvatara-upanishad.md",
+    "title": "Svetasvatara Upanishad",
+    "problemLinks": [
+      {
+        "name": "Wikisource: Svetasvatara Upanishad",
+        "url": "https://en.wikisource.org/wiki/The_%C5%9Avetak%C4%81%C5%9Bvatara_Upanishad",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "taittiriya-upanishad.md",
+    "title": "Taittiriya Upanishad",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Swami Gambhirananda translation)",
+        "url": "https://archive.org/details/taittiriya-upanishad-shankara-bhashya",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "taittriya-upanishad.md",
+    "title": "Taittiriya Upanishad",
+    "problemLinks": [
+      {
+        "name": "Wikisource: Taittiriya Upanishad",
+        "url": "https://en.wikisource.org/wiki/The_Taittir%C4%AByaka_Upanishad",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "tantra-yukti-neelmegh-bhishagacharya.md",
+    "title": "Tantra-yukti of Neelmegh Bhishagacharya",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Ayurveda",
+        "url": "https://en.wikipedia.org/wiki/Ayurveda",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Yukti",
+        "url": "https://en.wikipedia.org/wiki/Yukti",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "tattvakaumudi-vacaspatimisra.md",
+    "title": "Tattvakaumudi (Moonlight of Principles)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/in.ernet.dli.2015.21929",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 12.5%",
+        "relevanceScore": 12.5
+      },
+      {
+        "name": "Wikipedia: Sankhya",
+        "url": "https://en.wikipedia.org/wiki/Samkhya",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 12.5%",
+        "relevanceScore": 12.5
+      },
+      {
+        "name": "Wikipedia: Prakriti",
+        "url": "https://en.wikipedia.org/wiki/Prakriti",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 12.5%",
+        "relevanceScore": 12.5
+      },
+      {
+        "name": "Wikipedia: Indian philosophy",
+        "url": "https://en.wikipedia.org/wiki/Indian_philosophy",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 12.5%",
+        "relevanceScore": 12.5
+      },
+      {
+        "name": "Open Library",
+        "url": "https://openlibrary.org/search?q=Tattvakaumudi+Vacaspati&mode=everything",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 12.5%",
+        "relevanceScore": 12.5
+      }
+    ]
+  },
+  {
+    "file": "tattvartha-sutra-umasvati.md",
+    "title": "Tattvartha Sutra (Aphorisms on the Meaning of Principles)",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Jainism",
+        "url": "https://en.wikipedia.org/wiki/Jainism",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 14.3%",
+        "relevanceScore": 14.285714285714285
+      }
+    ]
+  },
+  {
+    "file": "the-ao-nagas-jp-mills.md",
+    "title": "The Ao Nagas",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: J. P. Mills",
+        "url": "https://en.wikipedia.org/wiki/J._P._Mills",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "the-aryabhatiya-of-aryabhata-clark.md",
+    "title": "The Aryabhatiya of Aryabhata",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/aryabhatiya00ryabh",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikidata: Aryabhatiya",
+        "url": "https://www.wikidata.org/wiki/Q2865433",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikidata: Aryabhata",
+        "url": "https://www.wikidata.org/wiki/Q8763",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "the-babur-nma-memoirs-of-babur-english-translation-ahr-ud-dn-muhammad-babur-tr-annette-susannah-beveridge.md",
+    "title": "The Babur-Nāma (Memoirs of Babur) — English Translation",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/baburnamainengli01babuuoft; https://archive.org/details/in.ernet.dli.2015.460512",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Annette Susannah Beveridge",
+        "url": "https://en.wikipedia.org/wiki/Annette_Susannah_Beveridge",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "the-birds-of-india-being-a-natural-history-of-the-birds-known-to-inhabit-continental-india-thomas-c-jerdon.md",
+    "title": "The Birds of India, Being a Natural History of the Birds Known to Inhabit Continental India",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/birdsofindiabein21jerd; https://archive.org/details/McGillLibrary-rbsc_blackerwood_birds-india-jerdon_QL69114J471862a_v4-20238",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "the-complete-revenue-guide-for-imports-and-exports-peter-j-hodgson.md",
+    "title": "The complete revenue guide for imports and exports",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Customs duties in the United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/Customs_duties_in_the_United_Kingdom",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "the-descent-of-the-sun-bain.md",
+    "title": "The Descent of the Sun: A Cycle of Birth",
+    "problemLinks": [
+      {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/26000",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "the-economic-history-of-india-romesh-chunder-dutt.md",
+    "title": "The Economic History of India",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/economichistoryo00; https://archive.org/details/indiainvictorian00duttuoft",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "the-flora-of-british-india-joseph-dalton-hooker-ed-with-collaborators.md",
+    "title": "The Flora of British India",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/floraofbritishin029347mbp; https://archive.org/details/floraofbritishin01hookrich; https://archive.org/details/mobot21753000004365",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "the-history-of-india-as-told-by-its-own-historians-h-m-elliot-completed-by-john-dowson.md",
+    "title": "The History of India, as Told by Its Own Historians",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/historyofindiaas00elli_0; https://archive.org/details/in.ernet.dli.2015.458719; https://archive.org/details/in.ernet.dli.2015.22817",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "the-indian-craftsman-coomaraswamy.md",
+    "title": "The Indian Craftsman",
+    "problemLinks": [
+      {
+        "name": "Wikidata: Ananda Coomaraswamy",
+        "url": "https://www.wikidata.org/wiki/Q558135",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "the-lhota-nagas-jp-mills.md",
+    "title": "The Lhota Nagas",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Naga people",
+        "url": "https://en.wikipedia.org/wiki/Naga_people",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      },
+      {
+        "name": "Wikipedia: J. P. Mills",
+        "url": "https://en.wikipedia.org/wiki/J._P._Mills",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "the-life-of-shivaji-maharaj-k-a-keluskar-n-s-takakhav.md",
+    "title": "The Life of Shivaji Maharaj",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Krishnaji Arjun Keluskar (Marathi)",
+        "url": "https://mr.wikipedia.org/wiki/%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%BE%E0%A4%9C%E0%A5%80_%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A5%81%E0%A4%A8_%E0%A4%95%E0%A5%87%E0%A4%B3%E0%A5%81%E0%A4%B8%E0%A4%95%E0%A4%B0",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "the-mahabharata-of-krishna-dwaipayana-vyasa-ganguli-tr-kisari-mohan-ganguli-translator-p-c-roy-publisher.md",
+    "title": "The Mahabharata of Krishna-Dwaipayana Vyasa (Ganguli tr.)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Volume 6)",
+        "url": "https://archive.org/details/mahabharata06ramauoft",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 11.1%",
+        "relevanceScore": 11.11111111111111
+      }
+    ]
+  },
+  {
+    "file": "the-milindapanha.md",
+    "title": "The Milindapañho",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Menander I",
+        "url": "https://en.wikipedia.org/wiki/Menander_I",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Pali literature",
+        "url": "https://en.wikipedia.org/wiki/Pali_literature",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Indo-Greek Kingdom",
+        "url": "https://en.wikipedia.org/wiki/Indo-Greek_Kingdom",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Anatta",
+        "url": "https://en.wikipedia.org/wiki/Anatta",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Greco-Buddhism",
+        "url": "https://en.wikipedia.org/wiki/Greco-Buddhism",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "the-n-i-akbar-english-translation-abul-fazl-tr-henry-blochmann-tr-h-s-jarrett.md",
+    "title": "The Āʾīn-i-Akbarī (English Translation)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/in.ernet.dli.2015.32526; https://archive.org/details/in.ernet.dli.2015.460916; https://archive.org/details/in.ernet.dli.2015.46757",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "the-panchasiddhantika-varahamihira.md",
+    "title": "The Panchasiddhantika of Varahamihira",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/panchsiddhantika00varauoft",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikidata: Panchasiddhantika",
+        "url": "https://www.wikidata.org/wiki/Q7130468",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikidata: Varahamihira",
+        "url": "https://www.wikidata.org/wiki/Q312582",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "the-portuguese-in-india-frederic-charles-danvers.md",
+    "title": "The Portuguese in India",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/pli.kerala.rare.7029; https://archive.org/details/in.ernet.dli.2015.189344",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "the-raghuvamsa-of-kalidasa-with-the-commentary-the-samjivani-of-mallinatha-kalidasa.md",
+    "title": "The Raghuvamsa of Kalidasa : with the commentary (the Samjivani) of Mallinatha",
+    "problemLinks": [
+      {
+        "name": "Wikidata: Kalidasa",
+        "url": "https://www.wikidata.org/wiki/Q170200",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "the-sanskrit-buddhist-literature-of-nepal-mitra.md",
+    "title": "The Sanskrit Buddhist Literature of Nepal",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/sanskritbuddhist00mitr",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Rajendralala Mitra",
+        "url": "https://en.wikipedia.org/wiki/Rajendralala_Mitra",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikidata: Rajendralala Mitra",
+        "url": "https://www.wikidata.org/wiki/Q3563146",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "the-travels-of-ibn-battuta.md",
+    "title": "The Travels of Ibn Battuta",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/IbnBattutaTravelsInAsiaAndAfricaTranslatedByHARGibb",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "the-travels-of-marco-polo-india-sections.md",
+    "title": "The Travels of Marco Polo: India Sections",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/bookofsermarc01polo",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "thirteen-plays-bhasa.md",
+    "title": "Thirteen Plays of Bhasa",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (A.C. Woolner translation)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.405917",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Natyashastra",
+        "url": "https://en.wikipedia.org/wiki/Natyashastra",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "thirteen-principal-upanishads-robert-ernest-hume.md",
+    "title": "The Thirteen Principal Upanishads",
+    "problemLinks": [
+      {
+        "name": "Wikisource: Upanishads Portal",
+        "url": "https://en.wikisource.org/wiki/Portal:Hinduism",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      }
+    ]
+  },
+  {
+    "file": "tirumantiram-tirumular.md",
+    "title": "Tirumantiram (Sacred Incantations)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Tamil original with commentary)",
+        "url": "https://archive.org/details/Thirumandiram",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Shaiva Siddhanta",
+        "url": "https://en.wikipedia.org/wiki/Shaiva_Siddhanta",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Tamil literature",
+        "url": "https://en.wikipedia.org/wiki/Tamil_literature",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "tiruppavai-nachiyar-tirumozhi-andal.md",
+    "title": "Tiruppavai and Nachiyar Tirumozhi",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Tiruppavai English translation)",
+        "url": "https://archive.org/details/thiruppavai",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Project Madurai: Andal Works",
+        "url": "https://www.projectmadurai.org/",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Alvars",
+        "url": "https://en.wikipedia.org/wiki/Alvars",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Tamil Vaishnavism",
+        "url": "https://en.wikipedia.org/wiki/Sri_Vaishnavism",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Bhakti movement",
+        "url": "https://en.wikipedia.org/wiki/Bhakti_movement",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "tiruvaimozhi-nammalvar.md",
+    "title": "Tiruvaimozhi (Tamil Veda)",
+    "problemLinks": [
+      {
+        "name": "Wikisource Tamil: Tiruvaimozhi",
+        "url": "https://ta.wikisource.org/wiki/திருவாய்மொழி",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Tiruvaimozhi",
+        "url": "https://en.wikipedia.org/wiki/Tiruvaimozhi",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "tolkappiyam-tamil-grammar.md",
+    "title": "Tolkappiyam (Ancient Tamil Grammar and Poetics)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Tamil original with commentary)",
+        "url": "https://archive.org/details/Tolkappiyam",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "tripura-rahasya-gopi-nath-kaviraja.md",
+    "title": "Tripura Rahasya (The Mystery Beyond the Trinity)",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Parashurama",
+        "url": "https://en.wikipedia.org/wiki/Parashurama",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 10.0%",
+        "relevanceScore": 10
+      },
+      {
+        "name": "Wikipedia: Ramana Maharshi",
+        "url": "https://en.wikipedia.org/wiki/Ramana_Maharshi",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 10.0%",
+        "relevanceScore": 10
+      },
+      {
+        "name": "Wikipedia: Advaita Vedanta",
+        "url": "https://en.wikipedia.org/wiki/Advaita_Vedanta",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "vaisheshika-sutras-kanada.md",
+    "title": "Vaisheshika Sutras (Categories and Atomic Theory)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Nandalal Sinha translation)",
+        "url": "https://archive.org/details/vaisesikasutraso00kana",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Vaisheshika Sutras",
+        "url": "https://en.wikipedia.org/wiki/Vaisheshika_Sutras",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "varahamihira-horasastram-aiyangar.md",
+    "title": "Varahamihira Horasastram",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Jyotisha",
+        "url": "https://en.wikipedia.org/wiki/Jyotisha",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "vedantasara-sadananda-yogindra.md",
+    "title": "Vedāntasāra of Sadānanda",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Vedantasara",
+        "url": "https://en.wikipedia.org/wiki/Vedantasara",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "venisamhara-bhatta-narayana.md",
+    "title": "Venisamhara (The Braiding of the Hair)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Sanskrit text with commentary)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.408556",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Internet Archive (Sanskrit text with English translation)",
+        "url": "https://archive.org/details/venisamharadrama00nraruoft",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Venisamhara",
+        "url": "https://en.wikipedia.org/wiki/Venisamhara",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Mahabharata",
+        "url": "https://en.wikipedia.org/wiki/Mahabharata",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "vijnana-bhairava-tantra.md",
+    "title": "Vijnana Bhairava Tantra (Divine Consciousness)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Jaideva Singh translation with commentary)",
+        "url": "https://archive.org/details/VijnanaBhairavaTantraJaidevaSingh",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Dhyana in Hinduism",
+        "url": "https://en.wikipedia.org/wiki/Dhyana_in_Hinduism",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      },
+      {
+        "name": "Wikipedia: Tantra",
+        "url": "https://en.wikipedia.org/wiki/Tantra",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      }
+    ]
+  },
+  {
+    "file": "vikramorvasiyam-kalidasa-1879-pandit-ed.md",
+    "title": "Vikramōrvaśīyam (Urvaśī Won by Valour)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Rich)",
+        "url": "https://archive.org/details/vikramorvasyam00kalirich",
+        "type": "source",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 16.7%",
+        "relevanceScore": 16.666666666666664
+      }
+    ]
+  },
+  {
+    "file": "vishnu-purana-wilson.md",
+    "title": "Vishnu Purana",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (H.H. Wilson translation, 1840)",
+        "url": "https://archive.org/details/vishnu-purana-wilson",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikisource: Vishnu Purana (H.H. Wilson translation, 1840)",
+        "url": "https://en.wikisource.org/wiki/Vishnu_purana",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "vivekachudamani-shankaracharya.md",
+    "title": "Vivekachudamani (Crest-Jewel of Discrimination)",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Advaita Vedanta",
+        "url": "https://en.wikipedia.org/wiki/Advaita_Vedanta",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Atman (Hinduism)",
+        "url": "https://en.wikipedia.org/wiki/Atman_(Hinduism)",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      },
+      {
+        "name": "Wikipedia: Maya (religion)",
+        "url": "https://en.wikipedia.org/wiki/Maya_(religion)",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "women-in-ancient-india-clarisse-bader.md",
+    "title": "Women in Ancient India: Moral and Literary Studies",
+    "problemLinks": [
+      {
+        "name": "Internet Archive",
+        "url": "https://archive.org/details/womeninancientindia032334mbp",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "yasastilaka-somadeva-suri.md",
+    "title": "Yasastilaka (Ornament of Fame)",
+    "problemLinks": [
+      {
+        "name": "Wikipedia: Yasastilaka",
+        "url": "https://en.wikipedia.org/wiki/Yasastilaka",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Somadeva (Jain author)",
+        "url": "https://en.wikipedia.org/wiki/Somadeva_(Jain_author)",
+        "type": "reference",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      },
+      {
+        "name": "Wikipedia: Champu",
+        "url": "https://en.wikipedia.org/wiki/Champu",
+        "type": "reference",
+        "status": "irrelevant",
+        "statusCode": 200,
+        "message": "Low relevance score: 0.0%",
+        "relevanceScore": 0
+      }
+    ]
+  },
+  {
+    "file": "yoga-vasistha-valmiki.md",
+    "title": "Yoga Vasistha (The Supreme Yoga)",
+    "problemLinks": [
+      {
+        "name": "Internet Archive (Swami Venkatesananda abridged translation)",
+        "url": "https://archive.org/details/YogaVasisthaOfValmiki",
+        "type": "source",
+        "status": "error",
+        "statusCode": 404,
+        "message": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "file": "अषटधयय-1897-पणन.md",
+    "title": "अष्टाध्यायी (1897)",
+    "problemLinks": [
+      {
+        "name": "MacTutor History of Mathematics: Panini",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Panini/",
+        "type": "reference",
+        "status": "error",
+        "message": "unable to verify the first certificate"
+      }
+    ]
+  }
+]

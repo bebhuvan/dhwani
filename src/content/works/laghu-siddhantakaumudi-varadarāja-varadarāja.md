@@ -1,25 +1,30 @@
 ---
-title: "Laghu-siddhantakaumudi"
-author: ["Varadarāja Varadarāja", "active 17th century"]
+title: 'Laghu-siddhantakaumudi'
+author:
+- Varadarāja Varadarāja
+- active 17th century
 year: 1928
-language: ["Sanskrit"]
-genre: ["Linguistics"]
-description: "A 1928 edition of Varadaraja's Laghusiddhantakaumudi, the 17th-century abridged Sanskrit grammar reducing Panini's 3,959 sutras to 723 accessible rules. This condensed version of Bhattoji Diksita's Siddhantakaumudi covers technical grammatical concepts including samjnas, sandhis, krit affixes, case-affix semantics, and compound formation, serving as an introduction to Paninian grammar for students."
-collections: ["linguistic-works"]
+language:
+- Sanskrit
+genre:
+- Linguistics
+description: |
+  The Laghusiddhantakaumudi represents a pivotal scholarly intervention in classical Sanskrit grammatical studies, emerging during the late medieval period of Indian intellectual traditions. Composed by Varadaraja, a distinguished grammarian of the 17th-century Deccan Plateau, this work critically condenses Panini's comprehensive Ashtadhyayi, reducing its intricate 3,959 grammatical sutras to 723 systematized, accessible rules. This condensation reflects a significant pedagogical approach within Sanskrit scholarly networks, demonstrating the sophisticated intellectual transmission methods of classical Indian linguistic scholarship. Varadaraja's text builds upon the foundational work of his predecessor Bhattoji Diksita, representing a continuous lineage of grammatical refinement that was central to preserving and democratizing complex linguistic knowledge. The work comprehensively covers essential grammatical domains including technical classifications (samjnas), phonological transformations (sandhis), morphological affixation processes, case semantics, and compound word formations. Beyond its immediate linguistic significance, the Laghusiddhantakaumudi embodies the broader intellectual dynamism of 17th-century Sanskrit scholarship, where scholars were actively engaged in making sophisticated knowledge more approachable while maintaining rigorous academic standards. Its methodological approach exemplifies the Indian scholarly tradition of incremental knowledge refinement, where complex systems are systematically simplified without losing fundamental conceptual integrity. As a pedagogical text, it played a crucial role in training generations of Sanskrit scholars, linguists, and literary scholars, serving as a critical bridge between classical grammatical frameworks and emerging scholarly practices across the Indian subcontinent.
+collections:
+- linguistic-works
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/laghusiddhantaka00vara"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/laghusiddhantaka00vara
+  type: other
 references:
-  - name: "Wikipedia: Laghu-siddhantakaumudi"
-    url: "https://en.wikipedia.org/wiki/Varadarāja"
-    type: "wikipedia"
-  - name: "Open Library: Laghu-siddhantakaumudi year"
-    url: "https://openlibrary.org/search?q=Laghu-siddhantakaumudi+year+1928+language+Sanskrit+genre+Varadarāja+Varadarāja"
-    type: "other"
+- name: 'Wikipedia: Laghu-siddhantakaumudi'
+  url: https://en.wikipedia.org/wiki/Varadarāja
+  type: wikipedia
+- name: 'Open Library: Laghu-siddhantakaumudi year'
+  url: https://openlibrary.org/search?q=Laghu-siddhantakaumudi+year+1928+language+Sanskrit+genre+Varadarāja+Varadarāja
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical-literature']
 ---
 
 ## Historical Context and Authorship

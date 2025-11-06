@@ -1,28 +1,35 @@
 ---
-title: "The Indian Craftsman"
-author: ["Ananda K. Coomaraswamy"]
+title: 'The Indian Craftsman'
+author:
+- Ananda K. Coomaraswamy
 year: 1909
-language: ["English"]
-genre: ["Art History", "Social History", "Cultural Criticism"]
-description: "Coomaraswamy critiques the decline of traditional Indian craftsmanship under colonial economic policies and industrial competition. Based on 1909 lectures, the work argues for preserving hereditary craft guilds and traditional production methods as essential to Indian cultural identity and econom..."
-collections: ['modern-literature', 'regional-voices']
+language:
+- English
+genre:
+- Art History
+- Social History
+- Cultural Criticism
+description: |
+  In the early 20th century, amid the complex socio-economic transformations of British colonial India, Ananda K. Coomaraswamy's "The Indian Craftsman" emerged as a critical scholarly examination of indigenous craft traditions under industrial capitalism. Written during the vibrant intellectual ferment of the Swadeshi movement, the work represents a nuanced critique of colonial economic policies and their systematic erosion of traditional Indian artisanal practices. As a polymath with a Tamil father and English mother, Coomaraswamy brought a unique transnational perspective to his analysis, grounded in deep anthropological and aesthetic understanding of Indian cultural production. The text, based on lectures delivered in 1909, meticulously documents how industrial mechanization and colonial economic structures were dismantling centuries-old craft guilds, particularly in textile, metalwork, and woodcraft traditions. Coomaraswamy argues that these craft systems were not merely economic structures but embodied complex social, aesthetic, and spiritual knowledge transmission mechanisms integral to Indian cultural identity. By examining the relationship between labor, art, and cultural meaning, he challenges prevailing colonial narratives that positioned industrial production as inherently progressive. The work is significant for its pioneering interdisciplinary approach, bridging art history, economic critique, and cultural preservation. It became an influential text for nationalist intellectuals and later postcolonial scholars, providing a sophisticated theoretical framework for understanding the intricate connections between artistic production, cultural autonomy, and economic sovereignty in colonial contexts. Coomaraswamy's analysis remains a foundational text in understanding the profound cultural transformations occurring during India's late colonial period.
+collections:
+- modern-literature
+- regional-voices
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/indiancraftsman00coomuoft"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/indiancraftsman00coomuoft
+  type: other
 references:
-  - name: "Wikipedia: Ananda Coomaraswamy"
-    url: "https://en.wikipedia.org/wiki/Ananda_Coomaraswamy"
-    type: "wikipedia"
-  - name: "OpenLibrary Search"
-    url: "https://openlibrary.org/search?q=Indian+Craftsman+Coomaraswamy"
-    type: "other"
-  - name: "Wikidata: Ananda Coomaraswamy"
-    url: "https://www.wikidata.org/wiki/Q558135"
-    type: "other"
+- name: 'Wikipedia: Ananda Coomaraswamy'
+  url: https://en.wikipedia.org/wiki/Ananda_Coomaraswamy
+  type: wikipedia
+- name: 'OpenLibrary Search'
+  url: https://openlibrary.org/search?q=Indian+Craftsman+Coomaraswamy
+  type: other
+- name: 'Wikidata: Ananda Coomaraswamy'
+  url: https://www.wikidata.org/wiki/Q558135
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags: ["Indian Crafts", "Ananda Coomaraswamy", "Colonial India", "Traditional Arts", "Craft Guilds", "Cultural Preservation", "Arts and Crafts Movement", "Economic History", "20th Century", "Indian Nationalism"]
 ---
 
 # The Indian Craftsman

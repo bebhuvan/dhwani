@@ -1,31 +1,42 @@
 ---
-title: "The Works of Sir William Jones, Volume I"
-author: ["Sir William Jones"]
+title: 'The Works of Sir William Jones, Volume I'
+author:
+- Sir William Jones
 year: 1799
-language: ["English", "Sanskrit", "Persian", "Arabic"]
-genre: ["Collected Works", "Orientalist Scholarship", "Linguistics"]
-description: "Volume I of the posthumous collected works of Sir William Jones, founder of the Asiatic Society of Bengal (1784) and pioneer of Indo-European linguistics. This 558-page volume contains Jones's eleven Anniversary Discourses delivered to the Asiatic Society between 1784-1794, including his seminal Third Anniversary Discourse 'On the Hindus' (1786) which established the common ancestry of Sanskrit, Greek, and Latin—the cornerstone of comparative linguistics."
-collections: ['colonial-india', 'indology', 'linguistic-works']
+language:
+- English
+- Sanskrit
+- Persian
+- Arabic
+genre:
+- Collected Works
+- Orientalist Scholarship
+- Linguistics
+description: |
+  Volume I of Sir William Jones's collected works represents a landmark publication in Orientalist scholarship and comparative linguistics during the late 18th century British colonial period in India. Published posthumously in 1799, this collection encompasses eleven Anniversary Discourses delivered to the Asiatic Society of Bengal between 1784-1794, critically documenting Jones's pioneering intellectual engagement with Indian linguistic and cultural traditions. The volume's centerpiece, the Third Anniversary Discourse 'On the Hindus' (1786), revolutionized European scholarly understanding by establishing the profound linguistic and historical connections between Sanskrit, Greek, and Latin, fundamentally challenging contemporary Eurocentric assumptions about cultural development and intellectual genealogy. Jones, a polymath, legal scholar, and colonial administrator, deployed rigorous philological methods to systematically analyze Sanskrit texts, revealing complex grammatical structures and etymological relationships that positioned Indian intellectual traditions as sophisticated and intellectually equivalent to European classical learning. His work represented a nuanced departure from prevailing colonial narratives, presenting Indian knowledge systems with unprecedented scholarly respect and analytical depth. These discourses not only laid the groundwork for comparative linguistics and Indo-European language studies but also initiated a more complex cultural dialogue between colonial scholars and indigenous intellectual traditions. By meticulously documenting Sanskrit literature, legal codes, and philosophical treatises, Jones provided European audiences with unprecedented insights into India's rich textual heritage, simultaneously facilitating cross-cultural understanding and serving colonial knowledge-gathering imperatives. His scholarship critically informed subsequent generations of linguistic, anthropological, and historical research about the Indian subcontinent.
+collections:
+- colonial-india
+- indology
+- linguistic-works
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/worksofsirwillia01jone"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/worksofsirwillia01jone
+  type: other
 references:
-  - name: "Wikipedia: William Jones (philologist)"
-    url: "https://en.wikipedia.org/wiki/William_Jones_(philologist)"
-    type: "wikipedia"
-  - name: "Royal Asiatic Society: Sir William Jones"
-    url: "https://royalasiaticsociety.org/sir-william-jones-1746-1794/"
-    type: "other"
-  - name: "Britannica: William Jones"
-    url: "https://www.britannica.com/biography/William-Jones-British-orientalist-and-jurist"
-    type: "other"
-  - name: "Open Library: The Works of Sir"
-    url: "https://openlibrary.org/search?q=The+Works+of+Sir+William+Jones+Sir+William+Jones"
-    type: "other"
+- name: 'Wikipedia: William Jones (philologist)'
+  url: https://en.wikipedia.org/wiki/William_Jones_(philologist)
+  type: wikipedia
+- name: 'Royal Asiatic Society: Sir William Jones'
+  url: https://royalasiaticsociety.org/sir-william-jones-1746-1794/
+  type: other
+- name: 'Britannica: William Jones'
+  url: https://www.britannica.com/biography/William-Jones-British-orientalist-and-jurist
+  type: other
+- name: 'Open Library: The Works of Sir'
+  url: https://openlibrary.org/search?q=The+Works+of+Sir+William+Jones+Sir+William+Jones
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['classical-literature']
 ---
 
 # The Works of Sir William Jones, Volume I

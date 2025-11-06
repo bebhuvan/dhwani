@@ -1,5 +1,5 @@
 ---
-title: An Avesta grammar in comparison with Sanskrit
+title: 'An Avesta grammar in comparison with Sanskrit'
 author:
 - Jackson, A. V. Williams (Abraham Valentine Williams), 1862-1937
 year: 1892
@@ -7,24 +7,22 @@ language:
 - English
 genre:
 - Linguistics
-description: Pt. 1. Phonology, inflection, word-formation; with an introduction on
-  the Avesta 26
+description: |
+  During the late 19th century, a transformative period of scholarly comparative linguistics and Orientalist research, A. V. Williams Jackson's "An Avesta Grammar in Comparison with Sanskrit" emerged as a groundbreaking scholarly examination of Indo-Iranian linguistic structures and historical connections. Jackson, a distinguished Columbia University professor and prominent Orientalist, produced this meticulous comparative grammatical study at a critical moment when European and American academic institutions were intensely exploring the linguistic and cultural heritage of ancient Indo-European languages. The work represents a sophisticated philological analysis that bridges Avestan—the liturgical language of Zoroastrianism—and Sanskrit, two profoundly significant languages in the intellectual and cultural landscapes of ancient Iran and India. Jackson's methodology exemplified the rigorous comparative linguistic approaches of late Victorian scholarship, systematically examining phonological systems, grammatical inflections, and word-formation processes across these two closely related languages. By revealing intricate linguistic parallels and historical developments, the work contributed substantially to understanding the shared cultural and linguistic roots of Indo-Iranian civilizations. For Indian scholarly traditions, Jackson's study provided crucial insights into the deeper structural connections between Vedic Sanskrit and Avestan, illuminating complex linguistic migrations, cultural exchanges, and the sophisticated grammatical foundations of these ancient languages. The comprehensive analysis not only advanced comparative linguistics but also deepened academic understanding of the intricate linguistic networks that connected ancient Iranian and Indian intellectual traditions, making it a pivotal text in late 19th-century comparative philological research.
 collections:
 - linguistic-works
 sources:
-- name: Internet Archive
+- name: 'Internet Archive'
   url: https://archive.org/details/pt1avestagrammar00jackuoft
   type: archive
 references:
-  - name: "Open Library: An Avesta grammar in"
-    url: "https://openlibrary.org/search?q=An+Avesta+grammar+in+comparison+with+Jackson+A+V+Williams+Abraham+Valentine+Williams+1862-1937"
-    type: "other"
+- name: 'Open Library: An Avesta grammar in'
+  url: https://openlibrary.org/search?q=An+Avesta+grammar+in+comparison+with+Jackson+A+V+Williams+Abraham+Valentine+Williams+1862-1937
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags:
-- linguistic-works
-- 19th-century
 ---
+
 # An Avesta grammar in comparison with Sanskrit
 
 ## Overview

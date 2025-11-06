@@ -1,32 +1,26 @@
 ---
-title: American architect and architecture
-author: []
+title: 'American architect and architecture'
 year: 1876
 language:
 - English
 genre:
 - Arts & Aesthetics
-description: 'Title aries: Jan. 1876-Dec. 1908, The American architect and building
-  news: Jan. 1909-Aug. 17, 1921, The American architect; Aug. 31, 1921-Dec. 1924,
-  The American architect and the Architectural review; Jan. 1925-May 1936, The American
-  architect Absorbed the Inland architect in Jan. 1909; the Archit...'
+description: |
+  The American architect and architecture emerged as a pivotal periodical documenting architectural transformation during the late 19th and early 20th centuries, capturing the complex technological and aesthetic transitions of American urban development. Published from 1876 to 1936, the journal served as a critical architectural record during a period of unprecedented technological innovation and urban expansion across the United States. While primarily focused on American architectural discourse, the publication indirectly influenced global architectural practices, including emerging modernist perspectives in colonial and post-colonial contexts such as India. The periodical systematically documented architectural techniques, design philosophies, and technological advancements, providing comprehensive insights into the evolution of building practices during the Industrial Revolution. Its comprehensive documentation included detailed architectural drawings, technical specifications, theoretical discussions, and critical analyses of emerging design methodologies. Notably, the journal bridged traditional craftsmanship with emerging mechanized construction techniques, reflecting the broader global architectural discourse that significantly impacted colonial architectural practices in regions like British India. For Indian architectural historians and scholars, the publication offers valuable comparative perspectives on Western architectural modernization, urban planning methodologies, and technological innovations that simultaneously influenced and challenged indigenous architectural traditions. By meticulously chronicling architectural developments, the journal became an unintentional historical archive capturing the technological and aesthetic transitions of an era marked by rapid industrialization, urban expansion, and evolving design philosophies that transcended national boundaries and influenced architectural practices worldwide.
 collections:
 - classical-literature
 sources:
-- name: Internet Archive
+- name: 'Internet Archive'
   url: https://archive.org/details/americanarchite111newyuoft
   type: archive
 references:
-  - name: "Open Library: American architect and architecture year"
-    url: "https://openlibrary.org/search?q=American+architect+and+architecture+year+1876"
-    type: "other"
+- name: 'Open Library: American architect and architecture year'
+  url: https://openlibrary.org/search?q=American+architect+and+architecture+year+1876
+  type: other
 featured: false
 publishDate: 2025-01-22
-tags:
-- arts-&-aesthetics
-- classical-literature
-- 19th-century
 ---
+
 # American architect and architecture
 
 ## Overview

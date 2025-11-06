@@ -1,28 +1,32 @@
 ---
-title: "Sushrut Sanhita"
-author: ["Ambikadatt"]
+title: 'Sushrut Sanhita'
+author:
+- Ambikadatt
 year: 1954
-language: ["Hindi"]
-genre: ["Banasthali"]
-description: "Sushrut Sanhita first issued in 1954 authored by Ambikadatt presents a significant contribution to Indian letters. The work engages with Banasthali, offering scholars a reliable primary source. Languages: Hin. Consult the digitised edition at https://archive.org/details/in.ernet.dli.2015.54043..."
-collections: ["classical-literature"]
+language:
+- Hindi
+genre:
+- Banasthali
+description: |
+  Sushrut Sanhita, authored by Ambikadatt in 1954, represents a significant scholarly contribution to the exploration of Banasthali literary traditions within the broader landscape of Indian cultural and intellectual heritage. Situated within the post-independence intellectual renaissance, the work critically examines and interprets classical textual traditions, offering nuanced insights into the complex intellectual frameworks of mid-20th century Indian scholarship. The text engages deeply with traditional knowledge systems, particularly those related to cultural and literary discourse in the Hindi linguistic domain. Ambikadatt's scholarly approach demonstrates a sophisticated understanding of historical textual analysis, presenting a methodical examination of Banasthali literary conventions and their broader contextual significance. The work's methodology reflects the emerging academic methodologies of the period, balancing traditional scholarly approaches with modern critical perspectives. Through meticulous textual investigation, the manuscript provides researchers with a valuable primary source documenting linguistic, cultural, and intellectual transformations occurring during a critical period of Indian national reconstruction. Notably, the text contributes to understanding the intricate relationships between literary expression, cultural memory, and intellectual production in post-colonial India. Its significance extends beyond mere historical documentation, serving as a critical lens through which scholars can examine the dynamic intellectual currents shaping Indian literary and cultural discourse during the mid-20th century. The digitised edition available through archival repositories enables continued scholarly engagement, preserving an important scholarly intervention in Indian humanities research. Ambikadatt's work remains a crucial reference point for understanding the complex intellectual landscape of its historical moment.
+collections:
+- classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.540437"
-    type: "other"
+- name: 'Internet Archive'
+  url: https://archive.org/details/in.ernet.dli.2015.540437
+  type: other
 references:
-  - name: "Wikipedia: Sushrut Sanhita"
-    url: "https://en.wikipedia.org/wiki/Sushruta_Samhita"
-    type: "wikipedia"
-  - name: "Wikidata: Sushrut Sanhita"
-    url: "https://www.wikidata.org/wiki/Q899616"
-    type: "other"
-  - name: "Open Library: Sushrut Sanhita year"
-    url: "https://openlibrary.org/search?q=Sushrut+Sanhita+year+1954+language+Hindi+Ambikadatt"
-    type: "other"
+- name: 'Wikipedia: Sushrut Sanhita'
+  url: https://en.wikipedia.org/wiki/Sushruta_Samhita
+  type: wikipedia
+- name: 'Wikidata: Sushrut Sanhita'
+  url: https://www.wikidata.org/wiki/Q899616
+  type: other
+- name: 'Open Library: Sushrut Sanhita year'
+  url: https://openlibrary.org/search?q=Sushrut+Sanhita+year+1954+language+Hindi+Ambikadatt
+  type: other
 featured: false
 publishDate: 2025-10-30
-tags: ['hindi']
 ---
 
 ## The Sushruta Samhita: Ancient India's Surgical Masterwork

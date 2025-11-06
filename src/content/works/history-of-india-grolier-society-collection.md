@@ -1,28 +1,39 @@
 ---
-title: "History of India (Grolier Society Edition)"
-author: ["A. V. Williams Jackson", "Romesh Chunder Dutt", "Vincent Arthur Smith", "Stanley Lane-Poole", "Henry Miers Elliot", "Alfred Comyn Lyall", "William Wilson Hunter"]
+title: 'History of India (Grolier Society Edition)'
+author:
+- A. V. Williams Jackson
+- Romesh Chunder Dutt
+- Vincent Arthur Smith
+- Stanley Lane-Poole
+- Henry Miers Elliot
+- Alfred Comyn Lyall
+- William Wilson Hunter
 year: 1906
-language: ["English"]
-genre: ["History", "Reference"]
-description: "This lavishly illustrated Grolier Society set assembles leading historians—including R. C. Dutt, V. A. Smith, and Sir A. C. Lyall—to narrate India’s political evolution from antiquity to the early twentieth century."
-collections: ["modern-literature"]
+language:
+- English
+genre:
+- History
+- Reference
+description: |
+  The History of India (Grolier Society Edition) represents a pivotal scholarly compilation of early 20th-century historiographical perspectives on the Indian subcontinent, synthesizing the intellectual contributions of prominent colonial and indigenous historians during a critical period of historical interpretation. Published in 1906 at the zenith of British colonial scholarship, the work integrates detailed historical analysis by leading intellectuals like Romesh Chunder Dutt, Vincent Arthur Smith, and Sir Alfred Comyn Lyall, who collectively mapped India's complex political and cultural transformations from ancient civilizations through the early modern colonial period. The volume critically examines India's historical trajectory through multiple scholarly lenses, balancing empirical colonial documentation with emerging indigenous historical methodologies. Significantly, the work captures a nuanced moment of intellectual exchange where Indian scholars were simultaneously collaborating with and critically challenging British historiographical narratives, reflecting the sophisticated scholarly dialogues of the late colonial era. The compilation provides comprehensive coverage of political developments, cultural transformations, dynastic successions, and socio-economic structures across diverse historical epochs, from Vedic civilizations through Mughal imperial systems to early 20th-century colonial administrations. Its methodology represents an important transitional scholarship that bridged indigenous historical understanding with systematized colonial research techniques, offering unprecedented depth in documenting India's multifaceted historical experiences. The work's significance extends beyond mere historical documentation, serving as a critical intellectual artifact that illuminates the complex scholarly negotiations of knowledge production during a pivotal period of cultural and academic transformation in the Indian subcontinent.
+collections:
+- modern-literature
 sources:
-  - name: "Internet Archive (University of Toronto)"
-    url: "https://archive.org/details/historyofindia01jackuoft"
-    type: "other"
+- name: 'Internet Archive (University of Toronto)'
+  url: https://archive.org/details/historyofindia01jackuoft
+  type: other
+references:
+- name: 'Wikipedia: Abraham Valentine Williams Jackson'
+  url: https://en.wikipedia.org/wiki/Abraham_Valentine_Williams_Jackson
+  type: wikipedia
+- name: 'Wikipedia: Romesh Chunder Dutt'
+  url: https://en.wikipedia.org/wiki/Romesh_Chunder_Dutt
+  type: wikipedia
+- name: 'Open Library Search'
+  url: https://openlibrary.org/search?q=History+of+India+Grolier+society
+  type: other
 featured: false
 publishDate: 2025-10-22
-references:
-  - name: "Wikipedia: Abraham Valentine Williams Jackson"
-    url: "https://en.wikipedia.org/wiki/Abraham_Valentine_Williams_Jackson"
-    type: "wikipedia"
-  - name: "Wikipedia: Romesh Chunder Dutt"
-    url: "https://en.wikipedia.org/wiki/Romesh_Chunder_Dutt"
-    type: "wikipedia"
-  - name: "Open Library Search"
-    url: "https://openlibrary.org/search?q=History+of+India+Grolier+society"
-    type: "other"
-tags: ["Indian history", "Grolier Society", "Illustrated histories", "Colonial scholarship", "Public domain"]
 ---
 
 # History of India (Grolier Society Edition)

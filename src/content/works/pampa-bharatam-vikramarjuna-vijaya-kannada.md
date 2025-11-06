@@ -1,43 +1,49 @@
 ---
-title: "Vikramārjuna Vijaya (Pampa Bhārata)"
-author: ["Adikavi Pampa"]
+title: 'Vikramārjuna Vijaya (Pampa Bhārata)'
+author:
+- Adikavi Pampa
 year: 941
-language: ["Kannada", "Sanskrit"]
-genre: ["Epic Poetry", "Classical Literature", "Jain Literature"]
-description: "First major literary work in Kannada language, composed 941 CE by Jain poet Pampa under Rashtrakuta patronage. Renders Mahabharata focusing on Arjuna's heroism in champu style blending verse and prose. Established Kannada as literary language alongside Sanskrit, earning Pampa title Adikavi (First Poet). Revolutionary linguistic achievement created classical Kannada poetic tradition, influenced by Sanskrit prosody while incorporating indigenous Kannada aesthetics."
-collections: ['classical-literature', 'epic-poetry', 'jain-literature']
+language:
+- Kannada
+- Sanskrit
+genre:
+- Epic Poetry
+- Classical Literature
+- Jain Literature
+description: |
+  Vikramārjuna Vijaya, composed in 941 CE by the seminal Kannada poet Adikavi Pampa, represents a watershed moment in South Indian literary and cultural history. Created under the sophisticated literary patronage of the Rashtrakuta court, this epic reimagines the Mahabharata through a distinctive Jain philosophical lens, strategically adapting the Sanskrit-origin narrative to the emerging Kannada linguistic and cultural landscape. Pampa masterfully employs the champu style, intricately weaving prose and metrical verse to narrate Arjuna's heroic journey, simultaneously demonstrating the linguistic and aesthetic capabilities of Kannada as a sophisticated literary medium. The work transcends mere linguistic translation, offering a nuanced reinterpretation that reflects the syncretic intellectual traditions of 10th-century Karnataka, where Jain, Hindu, and emerging regional cultural sensibilities intersected. By rendering the classical Sanskrit epic through a Kannada sensibility, Pampa accomplished multiple critical interventions: elevating the regional language's status, establishing complex literary conventions, and providing a philosophical commentary on heroism, dharma, and ethical conduct. The text's innovative prosodic techniques, drawing from Sanskrit literary traditions while incorporating indigenous Kannada aesthetic principles, fundamentally transformed regional literary expression. Pampa's sophisticated treatment of character, narrative complexity, and linguistic virtuosity positioned Vikramārjuna Vijaya as a foundational text in the development of classical Kannada literature, influencing subsequent generations of poets and establishing a sophisticated literary framework that would define Karnataka's cultural imagination for centuries.
+collections:
+- classical-literature
+- epic-poetry
+- jain-literature
 sources:
-  - name: "Internet Archive (Kannada Edition 1912)"
-    url: "https://archive.org/details/in.ernet.dli.2015.462077"
-    type: "other"
-  - name: "Internet Archive (Scholarly Edition)"
-    url: "https://archive.org/details/pampa-bharata-vikramarjuna-vijaya"
-    type: "other"
-  - name: "Internet Archive (DLI Collection)"
-    url: "https://archive.org/details/dli.bengal.10689.7823"
-    type: "other"
-  - name: "Internet Archive (Complete Text)"
-    url: "https://archive.org/details/in.ernet.dli.2015.377890"
-    type: "other"
+- name: 'Internet Archive (Kannada Edition 1912)'
+  url: https://archive.org/details/in.ernet.dli.2015.462077
+  type: other
+- name: 'Internet Archive (Scholarly Edition)'
+  url: https://archive.org/details/pampa-bharata-vikramarjuna-vijaya
+  type: other
+- name: 'Internet Archive (DLI Collection)'
+  url: https://archive.org/details/dli.bengal.10689.7823
+  type: other
+- name: 'Internet Archive (Complete Text)'
+  url: https://archive.org/details/in.ernet.dli.2015.377890
+  type: other
 references:
-  - name: "Wikipedia: Pampa (Kannada poet)"
-    url: "https://en.wikipedia.org/wiki/Pampa_(Kannada_poet)"
-    type: "wikipedia"
-  - name: "Wikipedia: Vikramarjuna Vijaya"
-    url: "https://en.wikipedia.org/wiki/Vikramarjuna_Vijaya"
-    type: "wikipedia"
-  - name: "Wikipedia: Kannada literature"
-    url: "https://en.wikipedia.org/wiki/Kannada_literature"
-    type: "wikipedia"
-  - name: "Kannada Wikisource"
-    url: "https://kn.wikisource.org/wiki/ವಿಕ್ರಮಾರ್ಜುನ_ವಿಜಯ"
-    type: "wikisource"
-  - name: "OpenLibrary"
-    url: "https://openlibrary.org/search?q=Pampa+Bharata+Kannada"
-    type: "other"
+- name: 'Wikipedia: Vikramarjuna Vijaya'
+  url: https://en.wikipedia.org/wiki/Vikramarjuna_Vijaya
+  type: wikipedia
+- name: 'Wikipedia: Kannada literature'
+  url: https://en.wikipedia.org/wiki/Kannada_literature
+  type: wikipedia
+- name: 'Kannada Wikisource'
+  url: https://kn.wikisource.org/wiki/ವಿಕ್ರಮಾರ್ಜುನ_ವಿಜಯ
+  type: wikisource
+- name: 'OpenLibrary'
+  url: https://openlibrary.org/search?q=Pampa+Bharata+Kannada
+  type: other
 featured: false
 publishDate: 2025-01-25
-tags: ["Kannada literature", "Epic poetry", "Pampa", "Adikavi", "Jain literature", "Rashtrakuta period", "Classical Kannada", "Mahabharata", "Medieval India", "Champu kavya", "Public domain"]
 ---
 
 # Vikramārjuna Vijaya (Pampa Bhārata)
