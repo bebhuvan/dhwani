@@ -11,12 +11,18 @@ genre:
   - Spiritual Texts
   - Classical Literature
 description: >-
-  The Yoga Vasistha is a philosophical text representing Advaita Vedanta's
-  non-dualistic philosophical tradition, comprising approximately 32,000 verses
-  across six books and traditionally attributed to Valmiki. Composed between the
-  6th and 14th centuries CE (scholarly dates remain contested), the text
-  presents philosophical principles through a narrative instruction framework
-  where sage Vasistha teaches Prince Rama.
+  The Yoga Vasistha (also known as Mokṣopāya, Vasistha Ramayana, and Jnana Vasistha),
+  a Sanskrit philosophical dialogue of approximately 32,000 verses across six books,
+  presents Advaita Vedanta through Sage Vasistha's teachings to Prince Rama. Recent
+  scholarship (Slaje, 2000s) identifies the original Mokṣopāya as a 10th-century
+  Kashmiri composition later modified (11th-14th centuries) with Shaivite Trika
+  influences to become the Yogavāsiṣṭha. This syncretic masterwork integrates elements
+  from Advaita Vedanta, Yoga, Samkhya, Kashmir Shaivism (Trika), Mahayana Buddhism,
+  and Jainism, examining consciousness, illusion (maya), liberation (moksha), and
+  Brahman through philosophical discourse and illustrative narratives. The text's
+  evolution from Kashmiri Shaivite origins to orthodox Advaita status reflects medieval
+  Indian philosophy's fluid boundaries and cross-traditional fertilization, making it
+  foundational to both Advaita Vedanta and Kashmir Shaivism contemplative traditions.
 collections:
   - philosophy
   - spiritual-texts
@@ -37,10 +43,21 @@ references:
   - name: 'Wikipedia: Advaita Vedanta'
     url: 'https://en.wikipedia.org/wiki/Advaita_Vedanta'
     type: wikipedia
+  - name: 'Wisdom Library: Yoga Vasistha (Complete English Text)'
+    url: 'https://www.wisdomlib.org/hinduism/book/yoga-vasistha-english'
+    type: other
+  - name: 'Divine Life Society: The Yoga Vasishtha'
+    url: 'https://www.dlshq.org/religions/the-yoga-vasishtha/'
+    type: other
+  - name: 'HUA: Yogavasistha - An Encyclopedia of Advaita Vedanta'
+    url: 'https://www.hua.edu/blog/yogavasistha-an-encyclopedia-of-advaita-vedanta/'
+    type: other
   - name: 'Wikipedia: Rama'
     url: 'https://en.wikipedia.org/wiki/Rama'
     type: wikipedia
-  - name: 'Open Library: Yoga Vasistha (The Supreme'
+  - name: 'Open Library: Yoga Vasistha'
+    url: 'https://openlibrary.org/search?q=Yoga+Vasistha'
+    type: other
     url: >-
       https://openlibrary.org/search?q=Yoga+Vasistha+The+Supreme+Yoga+year+Valmiki+attributed
     type: other

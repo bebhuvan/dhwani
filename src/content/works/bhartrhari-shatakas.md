@@ -11,14 +11,18 @@ genre:
   - Philosophy
   - Wisdom Literature
 description: >-
-  Bhartrhari's three Shatakas represent the pinnacle of Sanskrit gnomic poetry,
-  comprising three collections of approximately one hundred verses each that
-  explore the fundamental tensions of human existence through the lenses of
-  ethics (Niti Shataka), erotic love (Shringara Shataka), and spiritual
-  renunciation (Vairagya Shataka). Composed around the 5th century CE, these
-  masterworks of aphoristic poetry demonstrate the remarkable synthesis of
-  philosophical depth, psychological insight, and literary artistry that
-  characterizes classical Sanskrit literature at its finest.
+  The Śatakatraya (Three Centuries) attributed to Bhartrhari comprises three collections
+  of approximately one hundred Sanskrit verses exploring human existence through ethics
+  (Nītiśataka), erotic love (Śṛṅgāraśataka), and renunciation (Vairāgyaśataka). Dating
+  and authorship remain extraordinarily contested—proposed dates span from 56 BCE to 544
+  CE, though most scholars accept 485-540 CE. Complications arise from conflicting
+  accounts: Chinese traveler I-tsing (7th century) mentioned a Buddhist grammarian
+  Bhartrhari, while the Shataka poet was Shaivite. The likely compositional sequence—
+  Shringara, Niti, Vairagya—traces a philosophical trajectory from worldly engagement
+  through ethical reflection to spiritual detachment. These masterworks of Sanskrit gnomic
+  poetry synthesize philosophical depth with literary virtuosity, examining desire, duty,
+  and dispassion through concise, memorable verses that became foundational to Indian
+  wisdom literature and influenced subsequent subhashita (well-spoken maxim) traditions.
 collections:
   - poetry-collection
   - philosophy
@@ -33,13 +37,21 @@ references:
   - name: 'Wikipedia: Bhartrhari'
     url: 'https://en.wikipedia.org/wiki/Bhartrhari'
     type: wikipedia
+  - name: 'Wikipedia: Śatakatraya (Three Centuries)'
+    url: 'https://en.wikipedia.org/wiki/%C5%9Aatakatraya'
+    type: wikipedia
   - name: 'Wikipedia: Shataka'
     url: 'https://en.wikipedia.org/wiki/Shataka'
     type: wikipedia
+  - name: 'Exotic India Art: Niti and Vairagya Satakas Edition'
+    url: 'https://www.exoticindiaart.com/book/details/niti-and-vairagya-satakas-of-bhartrhari-nac047/'
+    type: other
   - name: 'Wikipedia: Sanskrit poetry'
     url: 'https://en.wikipedia.org/wiki/Sanskrit_poetry'
     type: wikipedia
-  - name: 'Open Library: Shatakas of Bhartrhari (Three'
+  - name: 'Open Library: Shatakas of Bhartrhari'
+    url: 'https://openlibrary.org/search?q=Bhartrhari+Shatakas'
+    type: other
     url: >-
       https://openlibrary.org/search?q=Shatakas+of+Bhartrhari+Three+Centuries+year+Bhartrhari
     type: other

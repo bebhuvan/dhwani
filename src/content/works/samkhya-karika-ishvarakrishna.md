@@ -11,14 +11,18 @@ genre:
   - Classical Literature
   - Religious Texts
 description: >-
-  The Samkhya Karika stands as the foundational text of classical Samkhya
-  philosophy, one of the six orthodox schools (darshanas) of Hindu philosophy,
-  systematically presenting ancient India's most elaborate dualistic metaphysics
-  through 72 (or 73) concise verses composed by Ishvarakrishna around the
-  4th-5th century CE. This masterwork synthesizes earlier Samkhya teachings
-  transmitted through now-lost texts attributed to the legendary sage Kapila,
-  crystallizing the school's distinctive worldview into systematic exposition
-  that would shape Indian philosophical discourse for centuries.
+  The Samkhya Karika, attributed to Ishvarakrishna (fl. c. 350 CE), comprises
+  70-72 verses in Arya meter systematizing Samkhya philosophy—one of six orthodox
+  Hindu darshanas and ancient India's paradigmatic dualistic system. Establishing
+  its terminus ad quem at 569 CE through Chinese translation, the text presents
+  radical metaphysical dualism distinguishing purusha (pure consciousness, plural
+  and passive) from prakriti (primordial matter, singular and active), notably
+  achieving this without theism. Ishvarakrishna claimed succession from sage Kapila
+  through Asuri and Pancasikha, distilling earlier teachings into systematic exposition
+  that profoundly influenced Yoga philosophy, Buddhist thought, and Vedanta debates.
+  Gaudapada's early commentary and the medieval Yuktidipika established interpretive
+  traditions, while translations since Colebrooke's 1837 English rendering brought
+  Samkhya's distinctive consciousness/matter dualism to global philosophical discourse.
 collections:
   - philosophy
   - religious-texts
@@ -39,10 +43,24 @@ references:
   - name: 'Wikipedia: Samkhya'
     url: 'https://en.wikipedia.org/wiki/Samkhya'
     type: wikipedia
+  - name: 'Internet Encyclopedia of Philosophy: Sankhya'
+    url: 'https://iep.utm.edu/sankhya/'
+    type: other
+  - name: 'Britannica: Indian Philosophy - The Samkhya-karikas'
+    url: 'https://www.britannica.com/topic/Indian-philosophy/The-Samkhya-karikas'
+    type: other
+  - name: 'Academia.edu: Word-for-Word Translation with Grammar Notes'
+    url: 'https://www.academia.edu/33352056/'
+    type: other
+  - name: 'Historified: Samkhya - The Philosophy of Dualism'
+    url: 'https://historified.in/2024/11/23/samkhya-the-philosophy-of-dualism/'
+    type: other
   - name: 'Wikipedia: Purusha'
     url: 'https://en.wikipedia.org/wiki/Puru%E1%B9%A3a'
     type: wikipedia
-  - name: 'Open Library: Samkhya Karika (Verses on'
+  - name: 'Open Library: Samkhya Karika'
+    url: 'https://openlibrary.org/search?q=Samkhya+Karika'
+    type: other
     url: >-
       https://openlibrary.org/search?q=Samkhya+Karika+Verses+on+Enumeration+Philosophy+Ishvarakrishna
     type: other
