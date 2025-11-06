@@ -1,5 +1,5 @@
 ---
-title: 'Alberuni's India (Kitab al-Hind)'
+title: "Alberuni's India (Kitab al-Hind)"
 author:
 - Al-Biruni
 - Eduard Sachau (Translator)
@@ -36,19 +36,19 @@ sources:
   url: https://www.gutenberg.org/ebooks/22514
   type: other
 references:
-- name: 'Wikipedia: Al-Biruni'
+- name: "Wikipedia: Al-Biruni"
   url: https://en.wikipedia.org/wiki/Al-Biruni
   type: wikipedia
-- name: 'Wikipedia: India (Al-Biruni)'
+- name: "Wikipedia: India (Al-Biruni)"
   url: https://en.wikipedia.org/wiki/India_(Al-Biruni)
   type: wikipedia
-- name: 'Wikipedia: Mahmud of Ghazni'
+- name: "Wikipedia: Mahmud of Ghazni"
   url: https://en.wikipedia.org/wiki/Mahmud_of_Ghazni
   type: wikipedia
-- name: 'Wikipedia: Islamic Golden Age'
+- name: "Wikipedia: Islamic Golden Age"
   url: https://en.wikipedia.org/wiki/Islamic_Golden_Age
   type: wikipedia
-- name: 'Open Library: Alberuni's India'
+- name: "Open Library: Alberuni's India"
   url: https://openlibrary.org/search?q=Alberuni+India+Al-Biruni+Sachau
   type: other
 featured: true

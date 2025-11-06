@@ -1,5 +1,5 @@
 ---
-title: 'Hutchinson's Story of the Nations'
+title: "Hutchinson's Story of the Nations"
 author:
 - Hutchinson & Co.
 year: 1900

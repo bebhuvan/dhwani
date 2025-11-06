@@ -1,5 +1,6 @@
 ---
 title: 'The sacred books of the East, described and examined ; Hindu series'
+author: ['Unknown']
 year: 1897
 language:
 - English

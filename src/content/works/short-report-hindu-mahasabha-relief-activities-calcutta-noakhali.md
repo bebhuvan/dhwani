@@ -1,5 +1,5 @@
 ---
-title: 'Short Report of Hindu Mahasabha Relief Activities During 'Calcutta Killing' and 'Noakhali Carnage''
+title: "Short Report of Hindu Mahasabha Relief Activities During 'Calcutta Killing' and 'Noakhali Carnage"
 author:
 - Hindu Mahasabha
 year: 1946
@@ -22,16 +22,16 @@ sources:
   url: https://books.google.co.in/books?id=1XgyswEACAAJ&source=gbs_book_other_versions
   type: other
 references:
-- name: 'Wikipedia: Hindu Mahasabha'
+- name: "Wikipedia: Hindu Mahasabha"
   url: https://en.wikipedia.org/wiki/Hindu_Mahasabha
   type: wikipedia
-- name: 'Wikipedia: Direct Action Day'
+- name: "Wikipedia: Direct Action Day"
   url: https://en.wikipedia.org/wiki/Direct_Action_Day
   type: wikipedia
-- name: 'Wikipedia: Noakhali riots'
+- name: "Wikipedia: Noakhali riots"
   url: https://en.wikipedia.org/wiki/Noakhali_riots
   type: wikipedia
-- name: 'Open Library: Short Report of Hindu'
+- name: "Open Library: Short Report of Hindu"
   url: https://openlibrary.org/search?q=Short+Report+of+Hindu+Mahasabha+Relief+Hindu+Mahasabha
   type: other
 featured: false

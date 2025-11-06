@@ -1,5 +1,5 @@
 ---
-title: 'Upanishads and Sri Sankara's Commentary: Isa, Kena, and Mundaka'
+title: "Upanishads and Sri Sankara's Commentary: Isa, Kena, and Mundaka"
 author:
 - Adi Shankara
 - S. Sitarama Sastri
@@ -25,7 +25,7 @@ sources:
   url: https://archive.org/details/in.ernet.dli.2015.283832
   type: other
 references:
-- name: 'Open Library'
+- name: "Open Library"
   url: https://openlibrary.org/search?q=Upanishads&mode=everything
   type: other
 featured: false

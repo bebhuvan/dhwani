@@ -1,5 +1,5 @@
 ---
-title: 'Twelve Years of a Soldier's Life in India: Being Extracts from the Letters of the Late Major W. S. R. Hodson, B. A.'
+title: "Twelve Years of a Soldier's Life in India: Being Extracts from the Letters of the Late Major W. S. R. Hodson, B. A."
 author:
 - Hodson, W. S. R. (William Stephen Raikes)
 year: 1843
@@ -19,20 +19,20 @@ sources:
 - name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/39448.html.images
   type: other
-- name: 'Internet Archive (Twelve Years of a Soldier's Life in India Being Extracts from the Letters of the Late Major W. S. R. Hodson, B. A.)'
+- name: "Internet Archive (Twelve Years of a Soldier's Life in India Being Extracts from the Letters of the Late Major W. S. R. Hodson, B. A.)"
   url: https://archive.org/details/twelveyearsofaso39448gut
   type: other
-- name: 'Internet Archive (Hodson of Hodson's Horse, or, Twelve years of a soldier's life in India : being extracts from the letters of the late Major W. S. R. Hodson with a vindication from the attacks of Mr. B. Smith and Mr. Holmes)'
+- name: "Internet Archive (Hodson of Hodson's Horse, or, Twelve years of a soldier's life in India : being extracts from the letters of the late Major W. S. R. Hodson with a vindication from the attacks of Mr. B. Smith and Mr. Holmes)"
   url: https://archive.org/details/hodsonofhodsonsh00hodsuoft
   type: other
 references:
-- name: 'Wikipedia: Twelve Years of a Soldier's Life in India'
+- name: "Wikipedia: Twelve Years of a Soldier's Life in India"
   url: https://en.wikipedia.org/wiki/Twelve_Years_of_a_Soldier%27s_Life_in_India
   type: other
-- name: 'Wikipedia: Hodson'
+- name: "Wikipedia: Hodson"
   url: https://en.wikipedia.org/wiki/Hodson
   type: other
-- name: 'Open Library: Twelve Years of a Soldier's Life in India: Being Extracts from the Letters of the Late Major W. S. R. Hodson, B. A.'
+- name: "Open Library"
   url: https://openlibrary.org/search?q=Twelve%20Years%20of%20a%20Soldier%27s%20Life%20in%20India%3A%20Being%20Extracts%20from%20the%20Letters%20of%20the%20Late%20Major%20W.%20S.%20R.%20Hodson%2C%20B.%20A.%20Hodson%2C%20W.%20S.%20R.%20%28William%20Stephen%20Raikes%29
   type: other
 featured: false

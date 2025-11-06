@@ -1,5 +1,5 @@
 ---
-title: 'Among the Wild Tribes of the Afghan Frontier: A Record of Sixteen Years' Close Intercourse with the Natives of the Indian Marches'
+title: "Among the Wild Tribes of the Afghan Frontier"
 author:
 - Pennell, T. L. (Theodore Leighton)
 year: 1897
@@ -17,13 +17,13 @@ sources:
   url: https://www.gutenberg.org/ebooks/32231.html.images
   type: other
 references:
-- name: 'Wikipedia: Among the Wild Tribes of the Afghan Frontier'
+- name: "Wikipedia: Among the Wild Tribes of the Afghan Frontier"
   url: https://en.wikipedia.org/wiki/Among_the_Wild_Tribes_of_the_Afghan_Frontier
   type: other
-- name: 'Wikipedia: Pennell'
+- name: "Wikipedia: Pennell"
   url: https://en.wikipedia.org/wiki/Pennell
   type: other
-- name: 'Open Library: Among the Wild Tribes of the Afghan Frontier: A Record of Sixteen Years' Close Intercourse with the Natives of the Indian Marches'
+- name: "Open Library"
   url: https://openlibrary.org/search?q=Among%20the%20Wild%20Tribes%20of%20the%20Afghan%20Frontier%3A%20A%20Record%20of%20Sixteen%20Years%27%20Close%20Intercourse%20with%20the%20Natives%20of%20the%20Indian%20Marches%20Pennell%2C%20T.%20L.%20%28Theodore%20Leighton%29
   type: other
 featured: false

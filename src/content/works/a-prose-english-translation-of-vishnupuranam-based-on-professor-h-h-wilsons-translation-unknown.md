@@ -1,5 +1,5 @@
 ---
-title: 'A Prose English Translation of Vishnupuranam: (Based on Professor H. H. Wilson's translation.)'
+title: "A Prose English Translation of Vishnupuranam: (Based on Professor H. H. Wilson's translation.)"
 author:
 - Unknown
 year: 1900
@@ -19,13 +19,13 @@ sources:
   url: https://www.gutenberg.org/ebooks/66208.html.images
   type: other
 references:
-- name: 'Wikipedia: A Prose English Translation of Vishnupuranam'
+- name: "Wikipedia: A Prose English Translation of Vishnupuranam"
   url: https://en.wikipedia.org/wiki/A_Prose_English_Translation_of_Vishnupuranam
   type: other
-- name: 'Open Library: A Prose English Translation of Vishnupuranam: (Based on Professor H. H. Wilson's translation.)'
+- name: "Open Library"
   url: https://openlibrary.org/search?q=A%20Prose%20English%20Translation%20of%20Vishnupuranam%3A%20%28Based%20on%20Professor%20H.%20H.%20Wilson%27s%20translation.%29%20Unknown
   type: other
-- name: 'Open Library: Vishnu Purana'
+- name: "Open Library: Vishnu Purana"
   url: https://openlibrary.org/search?q=Vishnu+Purana+Wilson+translation
   type: other
 featured: false

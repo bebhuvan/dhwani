@@ -1,5 +1,5 @@
 ---
-title: 'Gold, Sport, and Coffee Planting in Mysore: With chapters on coffee planting in Coorg, the Mysore representative assembly, the Indian congress, caste and the Indian silver question, being the 38 years' experiences of a Mysore planter'
+title: "Gold, Sport, and Coffee Planting in Mysore"
 author:
 - Elliot, Robert H. (Robert Henry)
 year: 1899
@@ -20,7 +20,7 @@ sources:
   url: https://www.gutenberg.org/ebooks/13746.html.images
   type: other
 references:
-- name: 'Open Library: Gold Sport and Coffee Planting in Mysore'
+- name: "Open Library: Gold Sport and Coffee Planting in Mysore"
   url: https://openlibrary.org/search?q=Gold+Sport+Coffee+Planting+Mysore+Elliot
   type: other
 featured: false

@@ -1,5 +1,5 @@
 ---
-title: 'Panini's Ashtadhyayi: The Sanskrit Grammar'
+title: "Panini's Ashtadhyayi: The Sanskrit Grammar"
 author:
 - Panini
 - Srisa Chandra Vasu
@@ -26,16 +26,16 @@ sources:
   url: https://archive.org/details/in.ernet.dli.2015.22683
   type: other
 references:
-- name: 'Wikipedia: Ashtadhyayi'
+- name: "Wikipedia: Ashtadhyayi"
   url: https://en.wikipedia.org/wiki/Ashtadhyayi
   type: wikipedia
-- name: 'Wikipedia: Panini'
+- name: "Wikipedia: Panini"
   url: https://en.wikipedia.org/wiki/Panini
   type: wikipedia
-- name: 'Wikipedia: Srisa Chandra Vasu'
+- name: "Wikipedia: Srisa Chandra Vasu"
   url: https://en.wikipedia.org/wiki/Sris_Chandra_Basu
   type: wikipedia
-- name: 'Open Library: Panini's Ashtadhyayi'
+- name: "Open Library: Panini's Ashtadhyayi"
   url: https://openlibrary.org/search?q=Paninis+Ashtadhyayi+The+Sanskrit+Grammar+year+Panini
   type: other
 featured: false

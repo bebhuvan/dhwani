@@ -1,5 +1,5 @@
 ---
-title: 'In Clive's Command: A Story of the Fight for India'
+title: "In Clive's Command: A Story of the Fight for India"
 author:
 - Strang, Herbert
 year: 1900
@@ -19,14 +19,14 @@ sources:
 - name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/16382.html.images
   type: other
-- name: 'Internet Archive (In Clive's Command: A Story of the Fight for India)'
+- name: "Internet Archive (In Clive's Command: A Story of the Fight for India)"
   url: https://archive.org/details/inclivescommand16382gut
   type: other
 references:
-- name: 'Wikipedia: Strang'
+- name: "Wikipedia: Strang"
   url: https://en.wikipedia.org/wiki/Strang
   type: other
-- name: 'Open Library: In Clive''s Command: A Story of the Fight for India'
+- name: "Open Library: In Clive''s Command: A Story of the Fight for India"
   url: https://openlibrary.org/search?q=In+Clive%27%27s+Command%3A+A+Story+of+the+Fight+for+India
   type: other
 featured: false

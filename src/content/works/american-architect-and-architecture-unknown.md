@@ -1,5 +1,6 @@
 ---
 title: 'American architect and architecture'
+author: ['Unknown']
 year: 1876
 language:
 - English

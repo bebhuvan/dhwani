@@ -1,5 +1,5 @@
 ---
-title: 'A Soldier's Experience; or, A Voice from the Ranks: Showing the Cost of War in Blood and Treasure. A Personal Narrative of the Crimean Campaign, from the Standpoint of the Ranks; the Indian Mutiny, and Some of its Atrocities; the Afghan Campaigns of 1863'
+title: "A Soldier's Experience; or, A Voice from the Ranks"
 author:
 - Gowing, T. (Timothy)
 year: 1893
@@ -8,8 +8,6 @@ language:
 genre:
 - Historical Literature
 description: |
-  Here's an enhanced scholarly description:
-  
   T. Gowing's "A Soldier's Experience" represents a critical first-hand historical account of British imperial military operations in mid-19th century colonial India, offering an unfiltered perspective from within the military ranks during a pivotal period of imperial expansion and internal conflict. Published in 1893, the work provides a granular narrative of British military engagements across multiple theaters, including the Crimean Campaign, the complex and violent Indian Mutiny of 1857, and the Afghan military expeditions of 1863. As a documentary text, it contributes significantly to understanding colonial military experiences, documenting not just strategic maneuvers but the lived realities of British soldiers confronting unprecedented geopolitical tensions. The narrative is particularly significant for Indian historical studies as it captures the intricate dynamics of imperial military interactions, revealing the human dimensions of colonial warfare through a ground-level perspective. Gowing's account illuminates the systemic violence, cultural misunderstandings, and complex power structures that characterized British imperial military operations during a transformative period of South Asian history. By detailing military campaigns from a rank-and-file viewpoint, the work provides rare insights into soldier experiences, military infrastructure, and the psychological landscape of colonial military personnel. Its historical documentation extends beyond mere military chronology, offering anthropological and sociological observations about cross-cultural interactions, military hierarchies, and the human cost of imperial expansion. As a primary source document, the text remains crucial for scholars examining 19th-century imperial military narratives and the broader contexts of British colonial engagement in South Asia.
 sources:
 - name: 'Project Gutenberg'
@@ -19,16 +17,16 @@ sources:
   url: https://www.gutenberg.org/ebooks/46989.html.images
   type: other
 references:
-- name: 'Wikipedia: A Soldier's Experience; or, A Voice from the Ranks'
+- name: "Wikipedia: A Soldier's Experience; or, A Voice from the Ranks"
   url: https://en.wikipedia.org/wiki/A_Soldier%27s_Experience%3B_or%2C_A_Voice_from_the_Ranks
   type: other
-- name: 'Wikipedia: Gowing'
+- name: "Wikipedia: Gowing"
   url: https://en.wikipedia.org/wiki/Gowing
   type: other
-- name: 'Open Library: A Soldier's Experience; or, A Voice from the Ranks: Showing the Cost of War in Blood and Treasure. A Personal Narrative of the Crimean Campaign, from the Standpoint of the Ranks; the Indian Mutiny, and Some of its Atrocities; the Afghan Campaigns of 1863'
+- name: "Open Library"
   url: https://openlibrary.org/search?q=A%20Soldier%27s%20Experience%3B%20or%2C%20A%20Voice%20from%20the%20Ranks%3A%20Showing%20the%20Cost%20of%20War%20in%20Blood%20and%20Treasure.%20A%20Personal%20Narrative%20of%20the%20Crimean%20Campaign%2C%20from%20the%20Standpoint%20of%20the%20Ranks%3B%20the%20Indian%20Mutiny%2C%20and%20Some%20of%20its%20Atrocities%3B%20the%20Afghan%20Campaigns%20of%201863%20Gowing%2C%20T.%20%28Timothy%29
   type: other
-- name: 'Open Library: A Soldier's Experience'
+- name: "Open Library: A Soldier's Experience"
   url: https://openlibrary.org/search?q=A+Soldiers+Experience+Gowing
   type: other
 featured: false

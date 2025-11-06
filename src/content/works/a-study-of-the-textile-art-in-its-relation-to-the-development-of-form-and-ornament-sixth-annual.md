@@ -1,5 +1,5 @@
 ---
-title: 'A Study of the Textile Art in Its Relation to the Development of Form and Ornament: Sixth Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1884-'85, Government Printing Office, Washington, 1888, (pages 189-252)'
+title: "A Study of the Textile Art in Its Relation to the Development of Form and Ornament"
 author:
 - Holmes, William Henry
 year: 1918
@@ -17,16 +17,16 @@ sources:
   url: https://www.gutenberg.org/ebooks/17730.html.images
   type: other
 references:
-- name: 'Wikipedia: A Study of the Textile Art in Its Relation to the Development of Form and Ornament'
+- name: "Wikipedia: A Study of the Textile Art in Its Relation to the Development of Form and Ornament"
   url: https://en.wikipedia.org/wiki/A_Study_of_the_Textile_Art_in_Its_Relation_to_the_Development_of_Form_and_Ornament
   type: other
-- name: 'Wikipedia: Holmes'
+- name: "Wikipedia: Holmes"
   url: https://en.wikipedia.org/wiki/Holmes
   type: other
-- name: 'Open Library: A Study of the Textile Art in Its Relation to the Development of Form and Ornament: Sixth Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1884-'85, Government Printing Office, Washington, 1888, (pages 189-252)'
+- name: "Open Library"
   url: https://openlibrary.org/search?q=A%20Study%20of%20the%20Textile%20Art%20in%20Its%20Relation%20to%20the%20Development%20of%20Form%20and%20Ornament%3A%20Sixth%20Annual%20Report%20of%20the%20Bureau%20of%20Ethnology%20to%20the%20Secretary%20of%20the%20Smithsonian%20Institution%2C%201884-%2785%2C%20Government%20Printing%20Office%2C%20Washington%2C%201888%2C%20%28pages%20189-252%29%20Holmes%2C%20William%20Henry
   type: other
-- name: 'Open Library: Study of Textile Art'
+- name: "Open Library: Study of Textile Art"
   url: https://openlibrary.org/search?q=Study+of+Textile+Art+Holmes
   type: other
 featured: false

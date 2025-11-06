@@ -1,5 +1,5 @@
 ---
-title: 'Bodhicharyavatara (A Guide to the Bodhisattva's Way of Life)'
+title: "Bodhicharyavatara (A Guide to the Bodhisattva's Way of Life)"
 author:
 - Shantideva
 year: 700
@@ -25,22 +25,22 @@ sources:
   url: https://sacred-texts.com/bud/index.htm
   type: other
 references:
-- name: 'Wikipedia: Bodhicharyavatara'
+- name: "Wikipedia: Bodhicharyavatara"
   url: https://en.wikipedia.org/wiki/Bodhisattvacharyāvatāra
   type: wikipedia
-- name: 'Wikipedia: Shantideva'
+- name: "Wikipedia: Shantideva"
   url: https://en.wikipedia.org/wiki/Shantideva
   type: wikipedia
-- name: 'Wikipedia: Bodhisattva'
+- name: "Wikipedia: Bodhisattva"
   url: https://en.wikipedia.org/wiki/Bodhisattva
   type: wikipedia
-- name: 'Wikipedia: Mahayana'
+- name: "Wikipedia: Mahayana"
   url: https://en.wikipedia.org/wiki/Mahayana
   type: wikipedia
-- name: 'Wikipedia: Bodhicitta'
+- name: "Wikipedia: Bodhicitta"
   url: https://en.wikipedia.org/wiki/Bodhicitta
   type: wikipedia
-- name: 'Open Library: Bodhicharyavatara (A Guide to'
+- name: "Open Library: Bodhicharyavatara (A Guide to"
   url: https://openlibrary.org/search?q=Bodhicharyavatara+A+Guide+to+the+Bodhisattvas+Shantideva
   type: other
 featured: true

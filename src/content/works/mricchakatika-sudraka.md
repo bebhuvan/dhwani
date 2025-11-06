@@ -18,7 +18,7 @@ collections:
 - sanskrit-drama
 - classical-literature
 sources:
-- name: 'Internet Archive (Śūdraka's Mṛcchakatika with Sanskrit text)'
+- name: "Internet Archive (Śūdraka's Mṛcchakatika with Sanskrit text)"
   url: https://archive.org/details/littleclaycartmr00sudruoft
   type: other
 - name: 'Project Gutenberg (English translation)'

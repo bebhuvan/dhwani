@@ -1,5 +1,5 @@
 ---
-title: 'Uttara-Rāma-Charita (Rama's Later History)'
+title: "Uttara-Rāma-Charita (Rama's Later History)"
 author:
 - Bhavabhuti
 - Shripad Krishna Belvalkar
@@ -21,25 +21,25 @@ sources:
   url: https://archive.org/details/ramaslaterhistor00bhavuoft
   type: other
 references:
-- name: 'Wikipedia: Uttararamacarita'
+- name: "Wikipedia: Uttararamacarita"
   url: https://en.wikipedia.org/wiki/Uttararamacarita
   type: wikipedia
-- name: 'Wikipedia: Bhavabhuti'
+- name: "Wikipedia: Bhavabhuti"
   url: https://en.wikipedia.org/wiki/Bhavabhuti
   type: wikipedia
-- name: 'Wikipedia: Shripad Krishna Belvalkar'
+- name: "Wikipedia: Shripad Krishna Belvalkar"
   url: https://en.wikipedia.org/wiki/Shripad_Krishna_Belvalkar
   type: wikipedia
-- name: 'OpenLibrary Search'
+- name: "OpenLibrary Search"
   url: https://openlibrary.org/search?q=Uttara-Rama-Charita+Bhavabhuti
   type: other
-- name: 'Wikidata: Uttararamacarita'
+- name: "Wikidata: Uttararamacarita"
   url: https://www.wikidata.org/wiki/Q19804980
   type: other
-- name: 'Wikidata: Bhavabhuti'
+- name: "Wikidata: Bhavabhuti"
   url: https://www.wikidata.org/wiki/Q29057
   type: other
-- name: 'Wikidata: S.K. Belvalkar'
+- name: "Wikidata: S.K. Belvalkar"
   url: https://www.wikidata.org/wiki/Q12454695
   type: other
 featured: false

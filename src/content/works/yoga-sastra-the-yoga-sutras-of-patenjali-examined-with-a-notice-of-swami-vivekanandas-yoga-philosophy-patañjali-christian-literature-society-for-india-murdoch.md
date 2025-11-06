@@ -1,5 +1,5 @@
 ---
-title: 'Yoga Sastra : the Yoga sutras of Patenjali examined : with a notice of Swami Vivekananda's Yoga philosophy'
+title: "Yoga Sastra : the Yoga sutras of Patenjali examined : with a notice of Swami Vivekananda's Yoga philosophy"
 author:
 - Patañjali
 - John Murdoch
@@ -21,22 +21,22 @@ sources:
   url: https://archive.org/details/yogasastrayogasu00patauoft
   type: other
 references:
-- name: 'Patanjali'
+- name: "Patanjali"
   url: https://en.wikipedia.org/wiki/Patanjali
   type: other
-- name: 'Yoga Sutras of Patanjali'
+- name: "Yoga Sutras of Patanjali"
   url: https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali
   type: other
-- name: 'John Murdoch (literary evangelist)'
+- name: "John Murdoch (literary evangelist)"
   url: https://en.wikipedia.org/wiki/John_Murdoch_(literary_evangelist)
   type: other
-- name: 'Swami Vivekananda'
+- name: "Swami Vivekananda"
   url: https://en.wikipedia.org/wiki/Swami_Vivekananda
   type: other
-- name: 'Raja Yoga'
+- name: "Raja Yoga"
   url: https://en.wikipedia.org/wiki/Raja_Yoga
   type: other
-- name: 'Open Library: Yoga Sastra '
+- name: "Open Library: Yoga Sastra "
   url: https://openlibrary.org/search?q=Yoga+Sastra++the+Yoga+sutras+Patañjali
   type: other
 featured: false

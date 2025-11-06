@@ -1,5 +1,5 @@
 ---
-title: 'Gheranda Samhita (Gheranda's Collection)'
+title: "Gheranda Samhita (Gheranda's Collection)"
 author:
 - Gheranda
 year: 1650
@@ -24,19 +24,19 @@ sources:
   url: https://archive.org/details/gherandasamhita00ghergoog
   type: other
 references:
-- name: 'Wikipedia: Gheranda Samhita'
+- name: "Wikipedia: Gheranda Samhita"
   url: https://en.wikipedia.org/wiki/Gheranda_Samhita
   type: wikipedia
-- name: 'Wikipedia: Hatha Yoga'
+- name: "Wikipedia: Hatha Yoga"
   url: https://en.wikipedia.org/wiki/Hatha_yoga
   type: wikipedia
-- name: 'Wikipedia: Asana'
+- name: "Wikipedia: Asana"
   url: https://en.wikipedia.org/wiki/Asana
   type: wikipedia
-- name: 'Wikipedia: Mudra'
+- name: "Wikipedia: Mudra"
   url: https://en.wikipedia.org/wiki/Mudra
   type: wikipedia
-- name: 'Open Library: Gheranda Samhita (Gheranda's Collection) year'
+- name: "Open Library: Gheranda Samhita (Gheranda's Collection) year"
   url: https://openlibrary.org/search?q=Gheranda+Samhita+Gherandas+Collection+year+1650+Gheranda
   type: other
 featured: false

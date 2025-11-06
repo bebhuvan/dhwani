@@ -4,13 +4,8 @@ author: ["Durga Prasad"]
 year: 1890
 language: ["English"]
 genre: ["Reference Literature", "Translation Studies", "Urdu Lexicography"]
-description: "The English Urdu Translators Companion first issued in 1890 authored by Durga Prasad presents a significant contribution to Indian letters.
-
-The work engages with IIIT, offering scholars a reliable primary source.
-
-Languages: Eng.
-
-Consult the digitised edition at https://archive.org/details/in.e..."
+description: |
+  The English Urdu Translators Companion, first issued in 1890 and authored by Durga Prasad, represents a specialized lexicographic response to the administrative and legal demands of late nineteenth-century British India. This 573-page bilingual reference work emerged as a practical tool for translators, colonial officials, and legal practitioners who required precise terminological equivalents for administrative proceedings. The work employs Roman transliteration of Urdu vocabulary alongside English definitions, functioning both as a translation aid and a technical glossary for professional contexts where linguistic precision determined legal and administrative outcomes. Published at a critical juncture in Indian linguistic politics, when the Hindi movement had intensified its campaign to displace Urdu's official status, Durga Prasad's dictionary documents the standardized register of Urdu that had functioned as the lingua franca of law courts in Bengal and the North-West Provinces since 1837, when Company rule replaced Persian with vernacular languages in official proceedings.
 collections: ["reference-texts", "linguistic-works", "colonial-india"]
 sources:
   - name: "Internet Archive"

@@ -1,5 +1,5 @@
 ---
-title: 'Antiche relazioni dell'Indie e della China di due maomettani'
+title: "Antiche relazioni dell'Indie e della China di due maomettani"
 author:
 - Abu Zayd Hasan ibn Yazd al-Sirafi
 - Sulaymān al-Tājir
@@ -19,13 +19,13 @@ sources:
   url: https://archive.org/details/anticherelazioni00sraf
   type: other
 references:
-- name: 'Wikipedia: Abu Zayd al-Sirafi'
+- name: "Wikipedia: Abu Zayd al-Sirafi"
   url: https://en.wikipedia.org/wiki/Abu_Zayd_al-Sirafi
   type: wikipedia
-- name: 'Wikipedia: Indian Ocean trade'
+- name: "Wikipedia: Indian Ocean trade"
   url: https://en.wikipedia.org/wiki/Indian_Ocean_trade
   type: wikipedia
-- name: 'Open Library search: Antiche relazioni dell'Indie e della China'
+- name: "Open Library search: Antiche relazioni dell'Indie e della China"
   url: https://openlibrary.org/search?q=Antiche+relazioni+dell%27Indie+e+della+China&mode=everything
   type: other
 featured: false

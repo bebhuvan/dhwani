@@ -1,5 +1,5 @@
 ---
-title: 'Annals and Antiquities of Rajast'han, or The Central and Western Rajput States of India'
+title: "Annals and Antiquities of Rajast'han, or The Central and Western Rajput States of India"
 author:
 - James Tod
 year: 1829
@@ -29,10 +29,10 @@ sources:
   url: https://archive.org/details/annalsantiquitie01todj
   type: other
 references:
-- name: 'Wikipedia: James Tod'
+- name: "Wikipedia: James Tod"
   url: https://en.wikipedia.org/wiki/James_Tod
   type: wikipedia
-- name: 'Open Library: Annals and Antiquities of Rajasthan'
+- name: "Open Library: Annals and Antiquities of Rajasthan"
   url: https://openlibrary.org/search?q=Annals+and+Antiquities+of+Rajasthan&mode=everything
   type: other
 featured: true

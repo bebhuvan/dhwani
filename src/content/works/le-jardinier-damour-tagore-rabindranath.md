@@ -1,5 +1,5 @@
 ---
-title: 'Le jardinier d'amour'
+title: "Le jardinier d'amour"
 author:
 - Tagore, Rabindranath
 year: 1926
@@ -19,10 +19,10 @@ sources:
   url: https://www.gutenberg.org/ebooks/62508.html.images
   type: other
 references:
-- name: 'Open Library: The Gardener'
+- name: "Open Library: The Gardener"
   url: https://openlibrary.org/search?q=The+Gardener+Tagore
   type: other
-- name: 'Wikipedia: Rabindranath Tagore'
+- name: "Wikipedia: Rabindranath Tagore"
   url: https://en.wikipedia.org/wiki/Rabindranath_Tagore
   type: other
 featured: false

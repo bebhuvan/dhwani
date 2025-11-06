@@ -1,5 +1,5 @@
 ---
-title: 'Dr. Scudder's Tales for Little Readers, About the Heathen.'
+title: "Dr. Scudder's Tales for Little Readers, About the Heathen."
 author:
 - Scudder, John
 year: 1840
@@ -19,7 +19,7 @@ sources:
   url: https://www.gutenberg.org/ebooks/13539.html.images
   type: other
 references:
-- name: 'Open Library: Dr Scudder's Tales'
+- name: "Open Library: Dr Scudder's Tales"
   url: https://openlibrary.org/search?q=Dr+Scudder+Tales+Heathen
   type: other
 featured: false

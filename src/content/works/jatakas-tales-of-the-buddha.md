@@ -1,5 +1,5 @@
 ---
-title: 'Jataka Tales (Stories of the Buddha's Previous Lives)'
+title: "Jataka Tales (Stories of the Buddha's Previous Lives)"
 author:
 - Various Sages
 year: -400
@@ -26,7 +26,7 @@ sources:
   url: https://www.sacred-texts.com/bud/j1/
   type: sacred
 references:
-- name: 'Wikipedia: Jataka tales'
+- name: "Wikipedia: Jataka tales"
   url: https://en.wikipedia.org/wiki/Jataka_tales
   type: wikipedia
 featured: false

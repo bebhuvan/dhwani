@@ -1,5 +1,5 @@
 ---
-title: 'Nāradīya Śikṣā (Narada's Treatise on Phonetics and Musical Sound)'
+title: "Nāradīya Śikṣā (Narada's Treatise on Phonetics and Musical Sound)"
 author:
 - Attributed to Sage Narada
 - Edited by Dr. Keshavchaitanya Kunte
@@ -20,16 +20,16 @@ sources:
   url: https://archive.org/details/naradiya-shiksha-1909
   type: other
 references:
-- name: 'Wikipedia: Shiksha'
+- name: "Wikipedia: Shiksha"
   url: https://en.wikipedia.org/wiki/Shiksha
   type: wikipedia
-- name: 'Wikipedia: Narada'
+- name: "Wikipedia: Narada"
   url: https://en.wikipedia.org/wiki/Narada
   type: wikipedia
-- name: 'Wikipedia: Svara'
+- name: "Wikipedia: Svara"
   url: https://en.wikipedia.org/wiki/Svara
   type: wikipedia
-- name: 'Open Library'
+- name: "Open Library"
   url: https://openlibrary.org/search?q=Naradiya+Shiksha&mode=everything
   type: other
 featured: false

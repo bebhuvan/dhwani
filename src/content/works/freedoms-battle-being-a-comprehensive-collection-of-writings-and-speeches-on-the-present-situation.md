@@ -1,5 +1,5 @@
 ---
-title: 'Freedom's Battle: Being a Comprehensive Collection of Writings and Speeches on the Present Situation'
+title: "Freedom's Battle: Being a Comprehensive Collection of Writings and Speeches on the Present Situation"
 author:
 - Mohandas K. Gandhi
 year: 1922
@@ -13,15 +13,14 @@ description: |
 collections:
 - classical-literature
 - political-philosophy
-- political-philosophy
 sources:
 - name: 'Internet Archive - 1922 Ganesh & Co. Madras Edition'
   url: https://archive.org/details/freedomsbattlebe00gandiala
   type: other
-- name: 'Internet Archive - Freedom's Battle (Digital Library of India)'
+- name: "Internet Archive - Freedom's Battle (Digital Library of India)"
   url: https://archive.org/details/dli.bengal.10689.19073
   type: other
-- name: 'Internet Archive - Freedom's Battle (Project Gutenberg Collection)'
+- name: "Internet Archive - Freedom's Battle (Project Gutenberg Collection)"
   url: https://archive.org/details/freedomsbattle10366gut
   type: other
 - name: 'Project Gutenberg'
@@ -31,16 +30,16 @@ sources:
   url: https://www.gutenberg.org/ebooks/10366.html.images
   type: other
 references:
-- name: 'Wikipedia: Non-cooperation Movement'
+- name: "Wikipedia: Non-cooperation Movement"
   url: https://en.wikipedia.org/wiki/Non-cooperation_movement
   type: other
-- name: 'Wikipedia: Khilafat Movement'
+- name: "Wikipedia: Khilafat Movement"
   url: https://en.wikipedia.org/wiki/Khilafat_Movement
   type: other
-- name: 'Wikipedia: Mahatma Gandhi'
+- name: "Wikipedia: Mahatma Gandhi"
   url: https://en.wikipedia.org/wiki/Mahatma_Gandhi
   type: other
-- name: 'Open Library: Freedom's Battle'
+- name: "Open Library: Freedom's Battle"
   url: https://openlibrary.org/search?q=Freedom%27s%20Battle%20Gandhi
   type: other
 featured: true

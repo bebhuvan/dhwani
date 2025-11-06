@@ -1,5 +1,5 @@
 ---
-title: 'Life's Handicap: Being Stories of Mine Own People'
+title: "Life's Handicap: Being Stories of Mine Own People"
 author:
 - Kipling, Rudyard
 year: 1921
@@ -20,10 +20,10 @@ sources:
   url: https://www.gutenberg.org/ebooks/5777.html.images
   type: other
 references:
-- name: 'Wikipedia: Rudyard Kipling'
+- name: "Wikipedia: Rudyard Kipling"
   url: https://en.wikipedia.org/wiki/Rudyard_Kipling
   type: other
-- name: 'Open Library: Life's Handicap'
+- name: "Open Library: Life's Handicap"
   url: https://openlibrary.org/search?q=Life%27s%20Handicap%20Kipling
   type: other
 featured: false

@@ -1,5 +1,5 @@
 ---
-title: 'The ocean of story, being C.H. Tawney's translation of Somadeva's Katha sarit sagara'
+title: "The ocean of story, being C.H. Tawney's translation of Somadeva's Katha sarit sagara"
 author:
 - Somadeva Bhatta
 - C. H. Tawney
@@ -22,13 +22,13 @@ sources:
   url: https://archive.org/details/oceanofstorybein01somauoft
   type: other
 references:
-- name: 'Wikipedia: Kathasaritsagara'
+- name: "Wikipedia: Kathasaritsagara"
   url: https://en.wikipedia.org/wiki/Kathasaritsagara
   type: wikipedia
-- name: 'Britannica: Ocean of Story'
+- name: "Britannica: Ocean of Story"
   url: https://www.britannica.com/topic/The-Ocean-of-Story
   type: other
-- name: 'Open Library: The ocean of story,'
+- name: "Open Library: The ocean of story,"
   url: https://openlibrary.org/search?q=The+ocean+of+story+being+CH+Somadeva+Bhatta
   type: other
 featured: false

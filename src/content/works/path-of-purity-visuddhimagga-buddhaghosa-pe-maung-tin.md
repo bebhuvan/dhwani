@@ -20,7 +20,7 @@ sources:
 - name: 'Internet Archive (Pe Maung Tin translation, Vol 1)'
   url: https://archive.org/details/pathofpuritybein01budduoft
   type: other
-- name: 'Internet Archive (Buddhaghosa's Parables)'
+- name: "Internet Archive (Buddhaghosa's Parables)"
   url: https://archive.org/details/buddhaghoshaspar00budd
   type: other
 - name: 'Internet Archive (Cornell University Edition)'

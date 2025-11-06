@@ -1,5 +1,5 @@
 ---
-title: 'India's Problem, Krishna or Christ'
+title: "India's Problem, Krishna or Christ"
 author:
 - Jones, John P. (John Peter)
 year: 1901
@@ -19,14 +19,14 @@ sources:
 - name: 'Project Gutenberg (HTML)'
   url: https://www.gutenberg.org/ebooks/27270.html.images
   type: other
-- name: 'Internet Archive (India's problem, Krishna or Christ [microform])'
+- name: "Internet Archive (India's problem, Krishna or Christ [microform])"
   url: https://archive.org/details/pts_indiasproblemkri_3720-1109
   type: other
 references:
-- name: 'Wikipedia: Jones'
+- name: "Wikipedia: Jones"
   url: https://en.wikipedia.org/wiki/Jones
   type: other
-- name: 'Open Library: India's Problem, Krishna or Christ'
+- name: "Open Library: India's Problem, Krishna or Christ"
   url: https://openlibrary.org/search?q=India%27s+Problem%2C+Krishna+or+Christ
   type: other
 featured: false
