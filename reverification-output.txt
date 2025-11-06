@@ -1,0 +1,409 @@
+Starting re-verification...
+
+════════════════════════════════════════════════════════════════════════════════
+RE-VERIFYING BROKEN LINKS WITH IMPROVED RATE LIMITING
+════════════════════════════════════════════════════════════════════════════════
+
+Found 127 works with broken links
+Using 30s timeout, 3s delay between requests
+
+[1/127] A Grammar of the Bengal Language
+  File: a-grammar-of-the-bengal-language-nathaniel-brassey-halhed.md
+
+[2/127] A Sanskrit–English Dictionary (enlarged ed.)
+  File: a-sanskritenglish-dictionary-enlarged-ed-monier-monier-williams.md
+
+[3/127] Acharanga Sutra (The First Jain Agama)
+  File: acharanga-sutra.md
+
+[4/127] Adhyātma Rāmāyaṇaṃ Kilipattu
+  File: adhyatma-ramayanam-kilippattu-ezhuthachan-malayalam.md
+
+[5/127] Alberuni's India (Kitab al-Hind)
+  File: alberunis-india.md
+
+[6/127] Amarakośa (The Immortal Treasury)
+  File: amarakosha-amarasimha-colebrooke-ed.md
+
+[7/127] Āndhra Mahābhāratamu (The Telugu Mahabharata)
+  File: andhra-mahabharatamu-nannaya-telugu.md
+
+[8/127] Aryabhatiya
+  File: aryabhatiya-aryabhata.md
+
+[9/127] Ashtavakra Gita (Song of Ashtavakra)
+  File: ashtavakra-gita.md
+
+[10/127] Bodhicharyavatara (A Guide to the Bodhisattva's Way of Life)
+  File: bodhicharyavatara-shantideva.md
+
+[11/127] Brahma Sutras (Vedanta Sutras)
+  File: brahma-sutras-badarayana.md
+
+[12/127] Brahmanda Purana
+  File: brahmanda-purana.md
+
+[13/127] Brihadaranyaka Upanishad
+  File: brihadaranyaka-upanishad.md
+
+[14/127] Buddhacharita (Acts of the Buddha)
+  File: buddhacharita-ashvaghosa.md
+
+[15/127] Catalogue of the Coins in the Indian Museum, Calcutta
+  File: catalogue-of-coins-indian-museum-calcutta.md
+
+[16/127] Caurapancashika (Fifty Stanzas of a Thief)
+  File: caurapancashika-bilhana.md
+
+[17/127] Charaka Saṃhitā (Compendium of Charaka)
+  File: charaka-samhita-ayurveda-english-translation.md
+
+[18/127] Charaka Samhita (Compendium of Internal Medicine)
+  File: charaka-samhita-ayurveda.md
+
+[19/127] Dasbodh (Spiritual Instruction to a Disciple)
+  File: dasbodh-samarth-ramdas-marathi-1654.md
+
+[20/127] Descriptive Ethnology of Bengal
+  File: descriptive-ethnology-of-bengal-edward-tuite-dalton.md
+
+[21/127] Devi Mahatmya (Glory of the Goddess)
+  File: devi-mahatmya-markandeya.md
+
+[22/127] Dnyaneshwari (Bhāvārtha Dīpikā)
+  File: dnyaneshwari-sant-dnyaneshwar-marathi-1290.md
+
+[23/127] Garuda Purana
+  File: garuda-purana.md
+
+[24/127] Gazetteer of the Bombay Presidency
+  File: gazetteer-of-the-bombay-presidency-government-of-bombay.md
+
+[25/127] Geet Govinda
+  File: geet-govinda-jayadeva.md
+
+[26/127] Gheranda Samhita (Gheranda's Collection)
+  File: gheranda-samhita-yoga.md
+
+[27/127] Harshacharita
+  File: harshacharita-banabhatta.md
+
+[28/127] Hindu Literature: Comprising The Book of Good Counsels, Nala and Damayanti, The Ramayana, and Sakoontala
+  File: hindu-literature-wilson.md
+
+[29/127] Historical Atlas of India
+  File: historical-atlas-of-india-charles-joppen.md
+
+[30/127] Historical Fragments of the Mogul Empire
+  File: historical-fragments-of-the-mogul-empire-robert-orme.md
+
+[31/127] History of Indian and Eastern Architecture
+  File: history-of-indian-and-eastern-architecture-1808-1886-james-fergusson.md
+
+[32/127] History of the Rise of the Mahomedan Power in India
+  File: history-of-the-rise-of-the-mahomedan-power-in-india-muammad-qsim-firishta-tr-john-briggs.md
+
+[33/127] Hitopadesha (Beneficial Instruction)
+  File: hitopadesha-narayana.md
+
+[34/127] Indian Home Rule (Hind Swaraj)
+  File: indian-home-rule-gandhi-hind-swaraj.md
+
+[35/127] Indian Wisdom: Religious, Philosophical and Ethical Doctrines
+  File: indian-wisdom-monier-williams.md
+
+[36/127] Isha Upanishad
+  File: isha-upanishad.md
+
+[37/127] Islam in India, or The Qānūn-i Islām
+  File: islam-in-india-qanun-i-islam-jafar-sharif.md
+
+[38/127] Jaimini Sutras: Purva Mimamsa (Vedic Ritual Interpretation)
+  File: jaimini-sutras-purva-mimamsa.md
+
+[39/127] Jataka Tales: Animal Stories
+  File: jataka-tales-animal-stories-ellen-babbitt.md
+
+[40/127] Kadambari
+  File: kadambari-banabhatta.md
+
+[41/127] Kamba Ramayanam
+  File: kamba-ramayanam.md
+
+[42/127] Katha Upanishad
+  File: katha-upanishad.md
+
+[43/127] Kavitavali
+  File: kavitavali-tulsidas.md
+
+[44/127] Kena Upanishad
+  File: kena-upanishad.md
+
+[45/127] Kiratarjuniya (Arjuna and the Mountain-Dweller)
+  File: kiratarjuniya-bharavi.md
+
+[46/127] Kularnava Tantra (Ocean of Kula Tradition)
+  File: kularnava-tantra.md
+
+[47/127] Kurma Purana
+  File: kurma-purana.md
+
+[48/127] Linga Purana
+  File: linga-purana.md
+
+[49/127] The Little Clay Cart (Mrichchhakatika)
+  File: little-clay-cart-sudraka.md
+
+[50/127] Mahabhashya (The Great Commentary)
+  File: mahabhashya-patanjali.md
+
+[51/127] Malatimadhava (Malati and Madhava)
+  File: malatimadhava-bhavabhuti.md
+
+[52/127] Mandukya Upanishad
+  File: mandukya-upanishad.md
+
+[53/127] Manimekalai (The Jeweled Anklet)
+  File: manimekalai-sittalai-sattanar.md
+
+[54/127] Markandeya Purana (with Devi Mahatmya)
+  File: markandeya-purana-devi-mahatmya.md
+
+[55/127] Matsya Purana
+  File: matsya-purana.md
+
+[56/127] Meghaduta (The Cloud Messenger)
+  File: meghaduta-kalidasa.md
+
+[57/127] More Jataka Tales
+  File: more-jataka-tales-ellen-babbitt.md
+
+[58/127] Mricchakatika (The Little Clay Cart)
+  File: mricchakatika-sudraka.md
+
+[59/127] Mudrarakshasa (The Signet Ring of Rakshasa)
+  File: mudrarakshasa-vishakhadatta.md
+
+[60/127] Mundaka Upanishad
+  File: mundaka-upanishad.md
+
+[61/127] Nagananda (The Joy of the Serpents)
+  File: nagananda-harsha.md
+
+[62/127] Narrative of a Journey through the Upper Provinces of India
+  File: narrative-of-a-journey-through-the-upper-provinces-of-india-reginald-heber.md
+
+[63/127] Natya Shastra (Treatise on the Performing Arts)
+  File: natya-shastra-bharata-muni.md
+
+[64/127] Nyaya Sutras (Sutras on Logic)
+  File: nyaya-sutras-akshapada-gautama.md
+
+[65/127] Nyaya Sutras (Foundations of Logic and Epistemology)
+  File: nyaya-sutras-gautama.md
+
+[66/127] Nyaya Sutras of Gotama (Foundations of Indian Logic)
+  File: nyaya-sutras-of-gotama.md
+
+[67/127] Padma Purana
+  File: padma-purana.md
+
+[68/127] Vikramārjuna Vijaya (Pampa Bhārata)
+  File: pampa-bharatam-vikramarjuna-vijaya-kannada.md
+
+[69/127] Panchadasi (Fifteen Chapters on Advaita)
+  File: panchadasi-vidyaranya.md
+
+[70/127] Path to God
+  File: path-to-god-gandhi.md
+
+[71/127] Periya Puranam
+  File: periya-puranam-sekkizhar.md
+
+[72/127] Prashna Upanishad
+  File: prashna-upanishad.md
+
+[73/127] Priyadarsika (The Dear One)
+  File: priyadarsika-harsha.md
+
+[74/127] Raja Yoga
+  File: raja-yoga-swami-vivekananda.md
+
+[75/127] Ramcharitmanas
+  File: ramacharitamanasa-tulsidas.md
+
+[76/127] Ratnavali (The Pearl Necklace)
+  File: ratnavali-harsha.md
+
+[77/127] Rig-Veda Samhita, Books 1-4
+  File: rig-veda-samhita-books-14-wilson.md
+
+[78/127] The Sacred Books of the East, Hindu Series, Volume 3
+  File: sacred-books-of-the-east-hindu-series-volume-3.md
+
+[79/127] Samkhya Karika (Verses on Enumeration Philosophy)
+  File: samkhya-karika-ishvarakrishna.md
+
+[80/127] Sangita Ratnakara
+  File: sangita-ratnakara-sarangadeva.md
+
+[81/127] Sangita Ratnakara (Ocean of Music)
+  File: sangita-ratnakara-sharangadeva.md
+
+[82/127] The Sankhya Aphorisms of Kapila
+  File: sankhya-aphorisms-ballantyne.md
+
+[83/127] Tukārām Gāthā (Abhangas of Sant Tukaram)
+  File: sant-tukaram-gatha-marathi-abhanga.md
+
+[84/127] Sarala Mahābhārata (The Odia Mahabharata)
+  File: sarala-mahabharata-odia-sarala-dasa.md
+
+[85/127] Sesde reys van de Engelsche Maatschappy na Oost-Indien
+  File: sesde-reys-van-de-engelsche-maatschappy-na-oost-indien-henry-middleton.md
+
+[86/127] Shishupalavadha
+  File: shishupalavadha-magha.md
+
+[87/127] Shiva Purana
+  File: shiva-purana.md
+
+[88/127] Shiva Sutras (Aphorisms of Shiva)
+  File: shiva-sutras-vasugupta.md
+
+[89/127] Shvetashvatara Upanishad
+  File: shvetashvatara-upanishad.md
+
+[90/127] Siddhanta Shiromani (Crown of Treatises)
+  File: siddhanta-shiromani-bhaskara.md
+
+[91/127] Siddhartha
+  File: siddhartha-hermann-hesse.md
+
+[92/127] Storia do Mogor: Mogul India 1653-1708
+  File: storia-do-mogor-mogul-india-1653-1708-niccolo-manucci-william-irvine.md
+
+[93/127] The Story of My Experiments with Truth (Autobiography)
+  File: story-of-my-experiments-with-truth-gandhi-autobiography.md
+
+[94/127] Sushruta Samhita (Compendium of Surgery)
+  File: sushruta-samhita-ayurveda.md
+
+[95/127] Sutrakritanga (The Second Jain Agama)
+  File: sutrakritanga.md
+
+[96/127] Svetasvatara Upanishad
+  File: swetashvatara-upanishad.md
+
+[97/127] Taittiriya Upanishad
+  File: taittiriya-upanishad.md
+
+[98/127] Taittiriya Upanishad
+  File: taittriya-upanishad.md
+
+[99/127] Tantra-yukti of Neelmegh Bhishagacharya
+  File: tantra-yukti-neelmegh-bhishagacharya.md
+
+[100/127] The Ao Nagas
+  File: the-ao-nagas-jp-mills.md
+
+[101/127] The Aryabhatiya of Aryabhata
+  File: the-aryabhatiya-of-aryabhata-clark.md
+
+[102/127] The Babur-Nāma (Memoirs of Babur) — English Translation
+  File: the-babur-nma-memoirs-of-babur-english-translation-ahr-ud-dn-muhammad-babur-tr-annette-susannah-beveridge.md
+
+[103/127] The Birds of India, Being a Natural History of the Birds Known to Inhabit Continental India
+  File: the-birds-of-india-being-a-natural-history-of-the-birds-known-to-inhabit-continental-india-thomas-c-jerdon.md
+
+[104/127] The complete revenue guide for imports and exports
+  File: the-complete-revenue-guide-for-imports-and-exports-peter-j-hodgson.md
+
+[105/127] The Economic History of India
+  File: the-economic-history-of-india-romesh-chunder-dutt.md
+
+[106/127] The Flora of British India
+  File: the-flora-of-british-india-joseph-dalton-hooker-ed-with-collaborators.md
+
+[107/127] The History of India, as Told by Its Own Historians
+  File: the-history-of-india-as-told-by-its-own-historians-h-m-elliot-completed-by-john-dowson.md
+
+[108/127] The Indian Craftsman
+  File: the-indian-craftsman-coomaraswamy.md
+
+[109/127] The Lhota Nagas
+  File: the-lhota-nagas-jp-mills.md
+
+[110/127] The Āʾīn-i-Akbarī (English Translation)
+  File: the-n-i-akbar-english-translation-abul-fazl-tr-henry-blochmann-tr-h-s-jarrett.md
+
+[111/127] The Panchasiddhantika of Varahamihira
+  File: the-panchasiddhantika-varahamihira.md
+
+[112/127] The Portuguese in India
+  File: the-portuguese-in-india-frederic-charles-danvers.md
+
+[113/127] The Sanskrit Buddhist Literature of Nepal
+  File: the-sanskrit-buddhist-literature-of-nepal-mitra.md
+
+[114/127] The Travels of Ibn Battuta
+  File: the-travels-of-ibn-battuta.md
+
+[115/127] The Travels of Marco Polo: India Sections
+  File: the-travels-of-marco-polo-india-sections.md
+
+[116/127] Tirumantiram (Sacred Incantations)
+  File: tirumantiram-tirumular.md
+
+[117/127] Tiruppavai and Nachiyar Tirumozhi
+  File: tiruppavai-nachiyar-tirumozhi-andal.md
+
+[118/127] Tiruvaimozhi (Tamil Veda)
+  File: tiruvaimozhi-nammalvar.md
+
+[119/127] Tolkappiyam (Ancient Tamil Grammar and Poetics)
+  File: tolkappiyam-tamil-grammar.md
+
+[120/127] Vaisheshika Sutras (Categories and Atomic Theory)
+  File: vaisheshika-sutras-kanada.md
+
+[121/127] Vedāntasāra of Sadānanda
+  File: vedantasara-sadananda-yogindra.md
+
+[122/127] Venisamhara (The Braiding of the Hair)
+  File: venisamhara-bhatta-narayana.md
+
+[123/127] Vijnana Bhairava Tantra (Divine Consciousness)
+  File: vijnana-bhairava-tantra.md
+
+[124/127] Vishnu Purana
+  File: vishnu-purana-wilson.md
+
+[125/127] Women in Ancient India: Moral and Literary Studies
+  File: women-in-ancient-india-clarisse-bader.md
+
+[126/127] Yasastilaka (Ornament of Fame)
+  File: yasastilaka-somadeva-suri.md
+
+[127/127] Yoga Vasistha (The Supreme Yoga)
+  File: yoga-vasistha-valmiki.md
+
+════════════════════════════════════════════════════════════════════════════════
+VERIFICATION SUMMARY
+════════════════════════════════════════════════════════════════════════════════
+
+Total works checked: 127
+Total links tested: 0
+
+RESULTS:
+  ✓ False positives (now working): 0 (NaN%)
+  ✗ Genuine broken (still 404): 0 (NaN%)
+  ⚠ Soft-404s (200 but unavailable): 0 (NaN%)
+  ⚡ Network errors: 0 (NaN%)
+
+✓ JSON report saved: verification-reports/link-reverification-2025-11-06.json
+✓ Markdown report saved: verification-reports/link-reverification-2025-11-06.md
+
+════════════════════════════════════════════════════════════════════════════════
+RE-VERIFICATION COMPLETE
+════════════════════════════════════════════════════════════════════════════════
