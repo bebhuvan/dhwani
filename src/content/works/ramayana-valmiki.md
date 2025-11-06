@@ -30,7 +30,10 @@ sources:
 - name: 'IITK Valmiki Ramayanam Digital'
   url: https://www.valmiki.iitk.ac.in/
   type: other
-- name: 'Project Gutenberg - English Translations'
+- name: 'Project Gutenberg - The Rámáyan of Válmíki (English Verse Translation)'
+  url: https://www.gutenberg.org/ebooks/24869
+  type: other
+- name: 'Project Gutenberg - All Ramayana Editions'
   url: https://www.gutenberg.org/ebooks/search/?query=ramayana
   type: other
 references:
