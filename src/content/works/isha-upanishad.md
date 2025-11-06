@@ -11,11 +11,18 @@ genre:
   - Religious Texts
   - Ancient Wisdom
 description: >-
-  The Isha Upanishad, among the shortest yet most beloved principal Upanishads,
-  opens with the famous declaration 'Isavasyam idam sarvam' (All this is
-  pervaded by the Lord), establishing divine immanence while teaching
-  renunciation-in-action—engaging worldly duties without attachment, enjoying
-  through relinquishment.
+  The Isha (Ishavasya) Upanishad, one of the shortest (17-18 verses) yet most influential
+  Mukhya (principal) Upanishads, comprises the final 40th chapter of the Shukla Yajurveda's
+  Samhita—an unusually ancient textual location, as most Upanishads attach to later
+  Aranyaka or Brahmana layers. Opening with "Īśāvāsyam idam sarvam" (All this is pervaded
+  by the Lord), it establishes divine immanence while teaching paradoxical renunciation-in-
+  action: engaging worldly duties without attachment, enjoying through relinquishment.
+  Dating remains contested—Richard King (Buddhism scholar) places it in the second half of
+  the first millennium BCE, while Stephen Phillips identifies it among the earliest
+  Upanishads (first half, first millennium BCE). Referenced by both Dvaita and Advaita
+  Vedanta traditions, the text exists in two Yajurveda recensions (Kanva and Madhyandina)
+  with varying verse orders, demonstrating textual transmission complexities while maintaining
+  philosophical coherence across traditions.
 collections:
   - philosophy
   - religious-texts
@@ -33,16 +40,24 @@ references:
   - name: 'Wikipedia: Isha Upanishad'
     url: 'https://en.wikipedia.org/wiki/Isha_Upanishad'
     type: wikipedia
+  - name: 'Wisdom Library: Ishavasya Upanishad with Shankara Bhashya'
+    url: 'https://www.wisdomlib.org/hinduism/book/ishavasya-upanishad-shankara-bhashya'
+    type: other
+  - name: 'Shlokam: Ishavasya Verses with Sanskrit, Translation & Meaning'
+    url: 'https://shlokam.org/isha/'
+    type: other
+  - name: 'Hinduism Made Simple: Isha Upanishad Text'
+    url: 'https://texts.wara.in/vedas/upanishads/isha'
+    type: other
   - name: 'Wikipedia: Karma Yoga'
     url: 'https://en.wikipedia.org/wiki/Karma_yoga'
-    type: wikipedia
-  - name: 'Wikipedia: Mahatma Gandhi'
-    url: 'https://en.wikipedia.org/wiki/Mahatma_Gandhi'
     type: wikipedia
   - name: 'Wikipedia: Shukla Yajurveda'
     url: 'https://en.wikipedia.org/wiki/Shukla_Yajurveda'
     type: wikipedia
   - name: 'Wikisource: Isha Upanishad'
+    url: 'https://en.wikisource.org/wiki/The_Upanishads/Isa_Upanishad'
+    type: wikisource
     url: 'https://en.wikisource.org/wiki/Isha_Upanishad'
     type: wikisource
   - name: 'Open Library: Isha Upanishad year'
