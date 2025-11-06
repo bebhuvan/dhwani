@@ -1,0 +1,122 @@
+{
+  "totalWorks": 127,
+  "totalBrokenLinks": 18,
+  "processed": 10,
+  "replacementsFound": 0,
+  "highConfidence": 0,
+  "mediumConfidence": 0,
+  "lowConfidence": 0,
+  "notFound": 10,
+  "details": [
+    {
+      "work": "A Grammar of the Bengal Language",
+      "file": "a-grammar-of-the-bengal-language-nathaniel-brassey-halhed.md",
+      "brokenLinks": 1,
+      "status": "not_found",
+      "searchQueries": [
+        "A Grammar of the Bengal Language Halhed",
+        "title:(A Grammar of the Bengal Language) creator:(Halhed)",
+        "A Grammar of the Bengal Language"
+      ]
+    },
+    {
+      "work": "A Sanskrit–English Dictionary (enlarged ed.)",
+      "file": "a-sanskritenglish-dictionary-enlarged-ed-monier-monier-williams.md",
+      "brokenLinks": 1,
+      "status": "not_found",
+      "searchQueries": [
+        "A Sanskrit–English Dictionary (enlarged ed.) Monier-Williams",
+        "title:(A Sanskrit–English Dictionary (enlarged ed.)) creator:(Monier-Williams)",
+        "A Sanskrit–English Dictionary (enlarged ed.)"
+      ]
+    },
+    {
+      "work": "Acharanga Sutra (The First Jain Agama)",
+      "file": "acharanga-sutra.md",
+      "brokenLinks": 1,
+      "status": "not_found",
+      "searchQueries": [
+        "Acharanga Sutra (The First Jain Agama) Mahavira",
+        "title:(Acharanga Sutra (The First Jain Agama)) creator:(Mahavira)",
+        "Acharanga Sutra (The First Jain Agama)"
+      ]
+    },
+    {
+      "work": "Adhyātma Rāmāyaṇaṃ Kilipattu",
+      "file": "adhyatma-ramayanam-kilippattu-ezhuthachan-malayalam.md",
+      "brokenLinks": 3,
+      "status": "not_found",
+      "searchQueries": [
+        "Adhyātma Rāmāyaṇaṃ Kilipattu Ezhuthachan",
+        "title:(Adhyātma Rāmāyaṇaṃ Kilipattu) creator:(Ezhuthachan)",
+        "Adhyātma Rāmāyaṇaṃ Kilipattu"
+      ]
+    },
+    {
+      "work": "Alberuni's India (Kitab al-Hind)",
+      "file": "alberunis-india.md",
+      "brokenLinks": 1,
+      "status": "not_found",
+      "searchQueries": [
+        "Alberuni's India (Kitab al-Hind) Al-Biruni",
+        "title:(Alberuni's India (Kitab al-Hind)) creator:(Al-Biruni)",
+        "Alberuni's India (Kitab al-Hind)"
+      ]
+    },
+    {
+      "work": "Amarakośa (The Immortal Treasury)",
+      "file": "amarakosha-amarasimha-colebrooke-ed.md",
+      "brokenLinks": 4,
+      "status": "not_found",
+      "searchQueries": [
+        "Amarakośa (The Immortal Treasury) Amarasimha",
+        "title:(Amarakośa (The Immortal Treasury)) creator:(Amarasimha)",
+        "Amarakośa (The Immortal Treasury)"
+      ]
+    },
+    {
+      "work": "Āndhra Mahābhāratamu (The Telugu Mahabharata)",
+      "file": "andhra-mahabharatamu-nannaya-telugu.md",
+      "brokenLinks": 3,
+      "status": "not_found",
+      "searchQueries": [
+        "Āndhra Mahābhāratamu (The Telugu Mahabharata) Bhattaraka",
+        "title:(Āndhra Mahābhāratamu (The Telugu Mahabharata)) creator:(Bhattaraka)",
+        "Āndhra Mahābhāratamu (The Telugu Mahabharata)"
+      ]
+    },
+    {
+      "work": "Aryabhatiya",
+      "file": "aryabhatiya-aryabhata.md",
+      "brokenLinks": 1,
+      "status": "not_found",
+      "searchQueries": [
+        "Aryabhatiya Aryabhata",
+        "title:(Aryabhatiya) creator:(Aryabhata)",
+        "Aryabhatiya"
+      ]
+    },
+    {
+      "work": "Ashtavakra Gita (Song of Ashtavakra)",
+      "file": "ashtavakra-gita.md",
+      "brokenLinks": 1,
+      "status": "not_found",
+      "searchQueries": [
+        "Ashtavakra Gita (Song of Ashtavakra) Unknown",
+        "title:(Ashtavakra Gita (Song of Ashtavakra)) creator:(Unknown)",
+        "Ashtavakra Gita (Song of Ashtavakra)"
+      ]
+    },
+    {
+      "work": "Bodhicharyavatara (A Guide to the Bodhisattva's Way of Life)",
+      "file": "bodhicharyavatara-shantideva.md",
+      "brokenLinks": 2,
+      "status": "not_found",
+      "searchQueries": [
+        "Bodhicharyavatara (A Guide to the Bodhisattva's Way of Life) Shantideva",
+        "title:(Bodhicharyavatara (A Guide to the Bodhisattva's Way of Life)) creator:(Shantideva)",
+        "Bodhicharyavatara (A Guide to the Bodhisattva's Way of Life)"
+      ]
+    }
+  ]
+}
