@@ -1,0 +1,155 @@
+🔍 Archive.org Links Verification Tool
+========================================
+
+📚 Extracting URLs from verification reports...
+✨ Found 135 unique URLs to verify
+
+🔍 Verifying URLs...
+
+[  1/135] ✓ 200 https://archive.org/details/
+[  2/135] ✓ 200 https://archive.org/details/1874HKERNTheAryabhatiyaOfAryabhattaAryabhataIndianMathematicianAstronomerMathematics
+[  3/135] ✓ 200 https://archive.org/details/AbhijnanaShakuntalamOfKalidasaMRKale
+[  4/135] ✓ 200 https://archive.org/details/Adhyatma_Ramayanam_Kilippattu_Revised_Edition
+[  5/135] ✓ 200 https://archive.org/details/AitareyataittiriyaUpanishadsWithShankaraBhashya-English
+[  6/135] ✓ 200 https://archive.org/details/ArthurAvalonKularnavaTantraEng
+[  7/135] ✓ 200 https://archive.org/details/Aryabhatiya1976
+[  8/135] ✓ 200 https://archive.org/details/AshtavakraGitaSanskritTextWithEnglishTransliterationTranslation_201506
+[  9/135] ✓ 200 https://archive.org/details/Brihadaranyaka.Upanishad.Shankara.Bhashya.by.Swami.Madhavananda
+[ 10/135] ✓ 200 https://archive.org/details/DeviMahatmyamEnglishTransiteration
+[ 11/135] ✓ 200 https://archive.org/details/DhvanyalokaKashi
+[ 12/135] ✓ 200 https://archive.org/details/GaudapadaKarika
+[ 13/135] ✓ 200 https://archive.org/details/GherandaSamhita_131
+[ 14/135] ✓ 200 https://archive.org/details/HathaYogaPradipika-SanskritTextWithEnglishTranslatlionAndNotes
+[ 15/135] ✓ 200 https://archive.org/details/KenaUpanishadWithShankaraBhasyaAndAnandagiriTika
+[ 16/135] ✗ 404 https://archive.org/details/KumarasambhavaCantosI-vii
+[ 17/135] ✓ 200 https://archive.org/details/MEap_siddhanta-shiromani-of-bhaskaracharya-with-surya-prabha-hindi-commentary-by-pt.-
+[ 18/135] ✓ 200 https://archive.org/details/MandukyaUpanishadKarikaWithShankaraBhashya-SwamiNikhilananda
+[ 19/135] ✓ 200 https://archive.org/details/ManojkurupTirumantiram
+[ 20/135] ✓ 200 https://archive.org/details/MundakaUpanishadWithShankaraBhasyaAndAnandagiriTika
+[ 21/135] ✓ 200 https://archive.org/details/NatyaShastra
+[ 22/135] ✓ 200 https://archive.org/details/RajaYogaBySwamiVivekananda
+[ 23/135] ✓ 200 https://archive.org/details/Ramcharitmanasa
+[ 24/135] ✓ 200 https://archive.org/details/RigVedaSamhita
+[ 25/135] ✓ 200 https://archive.org/details/SaundaryaLahari
+[ 26/135] ✓ 200 https://archive.org/details/Shankara.Bhashya-Chandogya.Upanishad-Ganganath.Jha.1942.English
+[ 27/135] ✓ 200 https://archive.org/details/ShivaSutras
+[ 28/135] ✓ 200 https://archive.org/details/SiddhantaSiromaniSanskrit
+[ 29/135] ✓ 200 https://archive.org/details/TVG27Tolkappiyam
+[ 30/135] ✓ 200 https://archive.org/details/TamilSilappadhikaramUVeSa1920
+[ 31/135] ✓ 200 https://archive.org/details/TheGitaGovindaOfJayadeva
+[ 32/135] ✓ 200 https://archive.org/details/TheMeghaDutaOrCloudMessengerdasEdition
+[ 33/135] ✓ 200 https://archive.org/details/TheSamkhyaKarikaOfIshvaraKrishnaRadhanathPhukan
+[ 34/135] ✓ 200 https://archive.org/details/TheStoryOfMyExperimentsWithTruth-MahatmaGandhi
+[ 35/135] ✓ 200 https://archive.org/details/The_Aryabhatiya_of_Aryabhata_Clark_1930
+[ 36/135] ✓ 200 https://archive.org/details/Thiruvaimozhi_201704
+[ 37/135] ✓ 200 https://archive.org/details/Thiruvaimozhi_english_commentry
+[ 38/135] ✓ 200 https://archive.org/details/TolkappiyamWithEnglishCommentaryPSSSastri
+[ 39/135] ✓ 200 https://archive.org/details/UQXV_lilavati-of-bhaskaracharya-by-krishnaji-shankara-patwardhan-somashekhara-amrita-
+[ 40/135] ✓ 200 https://archive.org/details/UttaraRamaCharita
+[ 41/135] ✓ 200 https://archive.org/details/Vedanta.Panchadasi.with.Kalyana.Piyusa.Vyakhya
+[ 42/135] ✓ 200 https://archive.org/details/YogaShivaSamhita_201903
+[ 43/135] ✓ 200 https://archive.org/details/YogaVasishtaOfValmikiValmiki
+[ 44/135] ✓ 200 https://archive.org/details/ZlWB_shiv-sutras-jayadev-singh
+[ 45/135] ✓ 200 https://archive.org/details/a-sanskrit-english-dictionary_202307
+[ 46/135] ✓ 200 https://archive.org/details/acc.-no.-8927-thirumanthiram-holy-hymns-1979
+[ 47/135] ✓ 200 https://archive.org/details/aclarch0000106a139
+[ 48/135] ✓ 200 https://archive.org/details/aryabhatiya-of-aryabhata-by-kripa-shankar-shukla
+[ 49/135] ✓ 200 https://archive.org/details/b29353397_0012
+[ 50/135] ✓ 200 https://archive.org/details/baburnamainengli01babuuoft
+[ 51/135] ✓ 200 https://archive.org/details/bhagavatamshridhari
+[ 52/135] ✓ 200 https://archive.org/details/birdsofindiabein03jerd
+[ 53/135] ✓ 200 https://archive.org/details/buddhistbirth00daviuoft
+[ 54/135] ✓ 200 https://archive.org/details/cu31924007399342
+[ 55/135] ✓ 200 https://archive.org/details/danvers-the-portuguese-in-india-v-2
+[ 56/135] ✓ 200 https://archive.org/details/dli.csl.6388
+[ 57/135] ✓ 200 https://archive.org/details/dli.csl.6404
+[ 58/135] ✓ 200 https://archive.org/details/dli.ernet.213575
+[ 59/135] ✓ 200 https://archive.org/details/dli.ernet.243359
+[ 60/135] ✓ 200 https://archive.org/details/dli.ministry.00123
+[ 61/135] ✓ 200 https://archive.org/details/dli.ministry.00921
+[ 62/135] ✓ 200 https://archive.org/details/dli.ministry.24500
+[ 63/135] ✓ 200 https://archive.org/details/dli.ministry.30908
+[ 64/135] ✓ 200 https://archive.org/details/dni.ncaa.IGNCA-TJS_27-AC
+[ 65/135] ✓ 200 https://archive.org/details/economichistoryo0001unse_l8l2
+[ 66/135] ✓ 200 https://archive.org/details/economichistoryo01dutt
+[ 67/135] ✓ 200 https://archive.org/details/economichistoryo02dutt
+[ 68/135] ✓ 200 https://archive.org/details/englishtranslati00susruoft
+[ 69/135] ✓ 200 https://archive.org/details/hindswarajorindi00ganduoft
+[ 70/135] ✓ 200 https://archive.org/details/in.ernet.dli.2015.104263
+[ 71/135] ✓ 200 https://archive.org/details/in.ernet.dli.2015.110157
+[ 72/135] ✓ 200 https://archive.org/details/in.ernet.dli.2015.189343
+[ 73/135] ✓ 200 https://archive.org/details/in.ernet.dli.2015.242354
+[ 74/135] ✓ 200 https://archive.org/details/in.ernet.dli.2015.274358
+[ 75/135] ✓ 200 https://archive.org/details/in.ernet.dli.2015.282320
+[ 76/135] ✓ 200 https://archive.org/details/in.ernet.dli.2015.312674
+[ 77/135] ✓ 200 https://archive.org/details/in.ernet.dli.2015.340208
+[ 78/135] ✓ 200 https://archive.org/details/in.ernet.dli.2015.386852
+[ 79/135] ✓ 200 https://archive.org/details/in.ernet.dli.2015.430258
+[ 80/135] ✓ 200 https://archive.org/details/in.ernet.dli.2015.43430
+[ 81/135] ✓ 200 https://archive.org/details/in.ernet.dli.2015.448955
+[ 82/135] ✓ 200 https://archive.org/details/in.ernet.dli.2015.529050
+[ 83/135] ✓ 200 https://archive.org/details/in.ernet.dli.2015.62938
+[ 84/135] ✓ 200 https://archive.org/details/jTZt_charaka-samhita-sanskrit-of-agnivesha-with-ayurveda-dipika-commentary-ed.-by-vai
+[ 85/135] ✓ 200 https://archive.org/details/kamasutraofvatsy00vatsuoft
+[ 86/135] ✓ 200 https://archive.org/details/kathopanishat_malayalam
+[ 87/135] ✓ 200 https://archive.org/details/kautilyas-arthashastra
+[ 88/135] ✓ 200 https://archive.org/details/lightofasia03arno
+[ 89/135] ✓ 200 https://archive.org/details/manusmriti-ed-1
+[ 90/135] ✓ 200 https://archive.org/details/mobot21753000004365
+[ 91/135] ✓ 200 https://archive.org/details/narada-bhakti-sutras_202204
+[ 92/135] ✓ 200 https://archive.org/details/narrativeofjourn03regi
+[ 93/135] ✓ 200 https://archive.org/details/portugueseinindi02danv
+[ 94/135] ✓ 200 https://archive.org/details/priyadarsikasans00hars
+[ 95/135] ✓ 200 https://archive.org/details/rDuO_the-nyaya-sutras-of-gautama-with-vatsyayana-bhashya-and-uddyotakara-vartika-engl
+[ 96/135] ✓ 200 https://archive.org/details/rig-veda-sanhita-volume-vi-h-h-wilson
+[ 97/135] ✓ 200 https://archive.org/details/ryder-1925-panchatantra-english
+[ 98/135] ✓ 200 https://archive.org/details/sahitya_darpana_kane
+[ 99/135] ✓ 200 https://archive.org/details/sangitaratnakaraofsankasangaradevashringyr.k.vol1mlbd
+[100/135] ✓ 200 https://archive.org/details/sanskritbuddhist00asiauoft
+[101/135] ✓ 200 https://archive.org/details/sanskritbuddhistliteratureofnepalrajendralalmitraasiaticsociety1882_543_W
+[102/135] ✓ 200 https://archive.org/details/sapanda-karikas-jaideva-singh
+[103/135] ✓ 200 https://archive.org/details/shaivism_202112
+[104/135] ✗ 404 https://archive.org/details/siAm_samaveda-samhita
+[105/135] ✓ 200 https://archive.org/details/siddhanta-siromani-goladhyaya-with-marichi-bhashya-bhaskaracharya-kedar-dutta-joshi
+[106/135] ✓ 200 https://archive.org/details/sri-nammalvarula-thiruvaimoli-by-madabushi-ramanujacharyulu-in-telugu
+[107/135] ✓ 200 https://archive.org/details/swami-venkatesananda-vasisthas-yoga-suny-press-1993
+[108/135] ✓ 200 https://archive.org/details/the-mahabharata-of-krishna-dwaipayana-vyasa-complete-18-volumes-kisari-mohan-ganguli_202008
+[109/135] ✓ 200 https://archive.org/details/the-sacred-book-of-four-thousand-01-nalayira-divya-prabandham-sri-rama-bharati-2000
+[110/135] ✓ 200 https://archive.org/details/the-upanishads-by-swami-nikhilananda
+[111/135] ✓ 200 https://archive.org/details/thetravelsofmarc10636gut
+[112/135] ✓ 200 https://archive.org/details/thetravelsofmarc12410gut
+[113/135] ✓ 200 https://archive.org/details/thevaiasesikasut00kanauoft
+[114/135] ✓ 200 https://archive.org/details/thirumanthiram_202404
+[115/135] ✓ 200 https://archive.org/details/thiruvaymozhi
+[116/135] ✗ 000 https://archive.org/details/travels-of-ibn-battuta
+[117/135] ✓ 200 https://archive.org/details/travelsofibnbatt01harg
+[118/135] ✓ 200 https://archive.org/details/travelsofibnbatt02harg
+[119/135] ✓ 200 https://archive.org/details/travelsofmarcopo0000polo_e1m4
+[120/135] ✓ 200 https://archive.org/details/travelsofmarcopo0002polo
+[121/135] ✗ 404 https://archive.org/details/uLdx_prashna-upanishad-with-shankar-bhashya
+[122/135] ✓ 200 https://archive.org/details/vbt-complete-translation
+[123/135] ✓ 200 https://archive.org/details/vedantasutras1_2307_librivox
+[124/135] ✓ 200 https://archive.org/details/vijnana-bhairava-tantra-simplified-practical-approach
+[125/135] ✓ 200 https://archive.org/details/vijnana-bhairava-tantra-the-ascent-satsangananda-saraswati-z-lib.org
+[126/135] ✓ 200 https://archive.org/details/vijnanabhairavtantra
+[127/135] ✓ 200 https://archive.org/details/vivekachudamani_202101
+[128/135] ✓ 200 https://archive.org/details/wg011
+[129/135] ✓ 200 https://archive.org/details/wg1078
+[130/135] ✗ 404 https://archive.org/details/xqWS_shvetashvatara-upanishad
+[131/135] ✓ 200 https://archive.org/stream/AmaraKosha/amara_english_colebrook_djvu.txt
+[132/135] ✓ 200 https://archive.org/stream/PatanjaliYogaSutraSwamiVivekanandaSanEng/
+[133/135] ✓ 200 https://archive.org/stream/dli.ernet.29470
+[134/135] ✓ 200 https://archive.org/stream/dli.ernet.29470/29470-Descriptive
+[135/135] ✓ 200 https://archive.org/stream/in.ernet.dli.2015.143355
+
+═══════════════════════════════════════
+      VERIFICATION COMPLETE
+═══════════════════════════════════════
+Total URLs:     135
+Successful:     130 (96.3%)
+Failed:         5
+Redirected:     0
+═══════════════════════════════════════
+
+📄 Report saved to: /home/user/dhwani/URL_VERIFICATION_CURL_REPORT.md
+

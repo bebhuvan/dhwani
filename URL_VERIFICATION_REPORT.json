@@ -1,0 +1,556 @@
+{
+  "summary": {
+    "total": 108,
+    "successful": 0,
+    "failed": 108,
+    "redirected": 0,
+    "successRate": "0.0%",
+    "statusCodes": {
+      "ERROR": 108
+    }
+  },
+  "successful": [],
+  "failed": [
+    {
+      "url": "https://archive.org/details/a-sanskrit-english-dictionary_202307",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/b29353397_0012",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/dli.ernet.213575",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/narrativeofjourn03regi",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/swami-venkatesananda-vasisthas-yoga-suny-press-1993",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/Adhyatma_Ramayanam_Kilippattu_Revised_Edition",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/kautilyas-arthashastra",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.386852",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/Brihadaranyaka.Upanishad.Shankara.Bhashya.by.Swami.Madhavananda",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/Shankara.Bhashya-Chandogya.Upanishad-Ganganath.Jha.1942.English",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/TamilSilappadhikaramUVeSa1920",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/GaudapadaKarika",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/HathaYogaPradipika-SanskritTextWithEnglishTranslatlionAndNotes",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/kamasutraofvatsy00vatsuoft",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/kathopanishat_malayalam",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/KenaUpanishadWithShankaraBhasyaAndAnandagiriTika",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/the-mahabharata-of-krishna-dwaipayana-vyasa-complete-18-volumes-kisari-mohan-ganguli_202008",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/manusmriti-ed-1",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/MandukyaUpanishadKarikaWithShankaraBhashya-SwamiNikhilananda",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/MundakaUpanishadWithShankaraBhasyaAndAnandagiriTika",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/narada-bhakti-sutras_202204",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.529050",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/rig-veda-sanhita-volume-vi-h-h-wilson",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/YogaShivaSamhita_201903",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/AitareyataittiriyaUpanishadsWithShankaraBhashya-English",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/the-upanishads-by-swami-nikhilananda",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/vivekachudamani_202101",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/[identifier",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/TheStoryOfMyExperimentsWithTruth-MahatmaGandhi",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/Ramcharitmanasa",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/jTZt_charaka-samhita-sanskrit-of-agnivesha-with-ayurveda-dipika-commentary-ed.-by-vai",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/englishtranslati00susruoft",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/TheGitaGovindaOfJayadeva",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.430258",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/RajaYogaBySwamiVivekananda",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/hindswarajorindi00ganduoft",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/AshtavakraGitaSanskritTextWithEnglishTransliterationTranslation_201506",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/GherandaSamhita_131",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/Vedanta.Panchadasi.with.Kalyana.Piyusa.Vyakhya",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/TheSamkhyaKarikaOfIshvaraKrishnaRadhanathPhukan",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/ArthurAvalonKularnavaTantraEng",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/YogaVasishtaOfValmikiValmiki",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/thevaiasesikasut00kanauoft",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/rDuO_the-nyaya-sutras-of-gautama-with-vatsyayana-bhashya-and-uddyotakara-vartika-engl",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/priyadarsikasans00hars",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.282320",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/RigVedaSamhita",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/sangitaratnakaraofsankasangaradevashringyr.k.vol1mlbd",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.242354",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/ShivaSutras",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/ZlWB_shiv-sutras-jayadev-singh",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/dni.ncaa.IGNCA-TJS_27-AC",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/SiddhantaSiromaniSanskrit",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/siddhanta-siromani-goladhyaya-with-marichi-bhashya-bhaskaracharya-kedar-dutta-joshi",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.340208",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/MEap_siddhanta-shiromani-of-bhaskaracharya-with-surya-prabha-hindi-commentary-by-pt.-",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.312674",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/UQXV_lilavati-of-bhaskaracharya-by-krishnaji-shankara-patwardhan-somashekhara-amrita-",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/The_Aryabhatiya_of_Aryabhata_Clark_1930",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/wg011",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/1874HKERNTheAryabhatiyaOfAryabhattaAryabhataIndianMathematicianAstronomerMathematics",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/aryabhatiya-of-aryabhata-by-kripa-shankar-shukla",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/Aryabhatiya1976",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/baburnamainengli01babuuoft",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/birdsofindiabein03jerd",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.43430",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/dli.ministry.00921",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/economichistoryo01dutt",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/economichistoryo02dutt",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/economichistoryo0001unse_l8l2",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/dli.csl.6404",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/mobot21753000004365",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.448955",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/dli.ministry.00123",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.62938",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/dli.csl.6388",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.110157",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/wg1078",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/portugueseinindi02danv",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.189343",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/danvers-the-portuguese-in-india-v-2",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/cu31924007399342",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/sanskritbuddhistliteratureofnepalrajendralalmitraasiaticsociety1882_543_W",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/sanskritbuddhist00asiauoft",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/travels-of-ibn-battuta",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/travelsofibnbatt01harg",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/travelsofibnbatt02harg",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/travelsofmarcopo0002polo",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/travelsofmarcopo0000polo_e1m4",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/thetravelsofmarc10636gut",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/thetravelsofmarc12410gut",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/thirumanthiram_202404",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/ManojkurupTirumantiram",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/acc.-no.-8927-thirumanthiram-holy-hymns-1979",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/dli.ministry.30908",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/Thiruvaimozhi_201704",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/thiruvaymozhi",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/the-sacred-book-of-four-thousand-01-nalayira-divya-prabandham-sri-rama-bharati-2000",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/Thiruvaimozhi_english_commentry",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/sri-nammalvarula-thiruvaimoli-by-madabushi-ramanujacharyulu-in-telugu",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/TolkappiyamWithEnglishCommentaryPSSSastri",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/aclarch0000106a139",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/TVG27Tolkappiyam",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/vbt-complete-translation",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/vijnana-bhairava-tantra-the-ascent-satsangananda-saraswati-z-lib.org",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/vijnanabhairavtantra",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/vijnana-bhairava-tantra-simplified-practical-approach",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    },
+    {
+      "url": "https://archive.org/details/shaivism_202112",
+      "status": 0,
+      "error": "getaddrinfo EAI_AGAIN archive.org"
+    }
+  ],
+  "redirected": []
+}

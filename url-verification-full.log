@@ -1,0 +1,30 @@
+🔍 Archive.org Links Verification Tool
+========================================
+
+📚 Extracting URLs from verification reports...
+✨ Found 10 unique URLs to verify
+
+🔍 Verifying URLs...
+
+[  1/ 10] ✗ 000 /home/user/dhwani/BATCH_2_VERIFICATION_REPORT.md:https://archive.org/d
+[  2/ 10] ✗ 000 /home/user/dhwani/BATCH_2_VERIFICATION_REPORT.md:https://archive.org/s
+[  3/ 10] ✗ 000 /home/user/dhwani/FINAL_VERIFICATION_SUMMARY.md:https://archive.org/d
+[  4/ 10] ✗ 000 /home/user/dhwani/MASTER_PROGRESS_REPORT.md:https://archive.org/d
+[  5/ 10] ✗ 503 https:///home/user/dhwani/BATCH_2_VERIFICATION_REPORT.md:archive.org/d
+[  6/ 10] ✗ 503 https:///home/user/dhwani/BATCH_2_VERIFICATION_REPORT.md:archive.org/s
+[  7/ 10] ✗ 503 https:///home/user/dhwani/BATCH_3_FINAL_SPRINT.txt:archive.org/d
+[  8/ 10] ✗ 503 https:///home/user/dhwani/BATCH_3_FINAL_SPRINT.txt:archive.org/s
+[  9/ 10] ✗ 503 https:///home/user/dhwani/FINAL_VERIFICATION_SUMMARY.md:archive.org/d
+[ 10/ 10] ✗ 503 https:///home/user/dhwani/MASTER_PROGRESS_REPORT.md:archive.org/d
+
+═══════════════════════════════════════
+      VERIFICATION COMPLETE
+═══════════════════════════════════════
+Total URLs:     10
+Successful:     0 (0.0%)
+Failed:         10
+Redirected:     0
+═══════════════════════════════════════
+
+📄 Report saved to: /home/user/dhwani/URL_VERIFICATION_CURL_REPORT.md
+
