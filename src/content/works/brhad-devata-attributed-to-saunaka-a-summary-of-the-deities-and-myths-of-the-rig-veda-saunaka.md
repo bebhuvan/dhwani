@@ -1,33 +1,44 @@
 ---
 title: 'The Bṛhad-devatā: A Summary of the Deities and Myths of the Rigveda'
 author:
-- Shaunaka
-- Arthur Anthony Macdonell
+  - Shaunaka
+  - Arthur Anthony Macdonell
 year: 1904
 language:
-- English
-- Sanskrit
+  - English
+  - Sanskrit
 genre:
-- Vedic Studies
-- Mythology
-description: |
-  The Bṛhad-devatā represents a pivotal scholarly text from the late Vedic period (circa 600-300 BCE), embodying the sophisticated intellectual tradition of ancient Indian mythological scholarship. Attributed to the sage Shaunaka, this critical work systematically catalogues and interprets the divine entities invoked in the Rigveda's hymns, providing unprecedented insight into the complex theological and mythological landscape of early Vedic religious thought. The text meticulously traces the genealogies, attributes, and narrative associations of Vedic deities, serving as a crucial hermeneutical bridge between oral traditions and emerging systematic textual commentary. Arthur Anthony Macdonell's seminal 1904 translation in the Harvard Oriental Series marked a transformative moment in Indological studies, rendering this intricate Sanskrit text accessible to Western scholarly discourse while preserving its nuanced philosophical and mythological subtleties. By correlating individual deity references across Rigvedic hymns and connecting them to later Puranic mythology, the Bṛhad-devatā illuminates the evolutionary dynamics of Hindu theological conceptualization. Its methodological approach reveals how ancient Indian intellectuals constructed complex interpretive frameworks for understanding religious texts, demonstrating remarkable analytical sophistication in mythological exegesis. The work's significance extends beyond mere cataloguing, offering profound insights into the intellectual genealogy of Hindu religious thought, the symbolic structures of Vedic cosmology, and the intricate mechanisms of mythological interpretation that would profoundly influence subsequent Sanskrit literary and philosophical traditions.
+  - Vedic Studies
+  - Mythology
+description: >-
+  The Bṛhad-devatā represents a pivotal scholarly text from the late Vedic
+  period (circa 600-300 BCE), embodying the sophisticated intellectual tradition
+  of ancient Indian mythological scholarship. Attributed to the sage Shaunaka,
+  this critical work systematically catalogues and interprets the divine
+  entities invoked in the Rigveda's hymns, providing unprecedented insight into
+  the complex theological and mythological landscape of early Vedic religious
+  thought.
 collections:
-- ancient-wisdom
-- spiritual-texts
+  - ancient-wisdom
+  - spiritual-texts
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/brhaddevataattri01saunuoft
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/brhaddevataattri01saunuoft'
+    type: other
 references:
-- name: 'Wikipedia: Arthur Anthony Macdonell'
-  url: https://en.wikipedia.org/wiki/Arthur_Anthony_Macdonell
-  type: wikipedia
-- name: 'Open Library'
-  url: https://openlibrary.org/works/OL10224918W/The_Brhad-Devata
-  type: other
+  - name: 'Wikipedia: Arthur Anthony Macdonell'
+    url: 'https://en.wikipedia.org/wiki/Arthur_Anthony_Macdonell'
+    type: wikipedia
+  - name: Open Library
+    url: 'https://openlibrary.org/works/OL10224918W/The_Brhad-Devata'
+    type: other
 featured: true
-publishDate: 2025-10-02
+publishDate: 2025-10-02T00:00:00.000Z
+---
+## Historical Context
+
+The Bṛhad-devatā represents a pivotal scholarly text from the late Vedic period (circa 600-300 BCE), embodying the sophisticated intellectual tradition of ancient Indian mythological scholarship. Attributed to the sage Shaunaka, this critical work systematically catalogues and interprets the divine entities invoked in the Rigveda's hymns, providing unprecedented insight into the complex theological and mythological landscape of early Vedic religious thought. The text meticulously traces the genealogies, attributes, and narrative associations of Vedic deities, serving as a crucial hermeneutical bridge between oral traditions and emerging systematic textual commentary. Arthur Anthony Macdonell's seminal 1904 translation in the Harvard Oriental Series marked a transformative moment in Indological studies, rendering this intricate Sanskrit text accessible to Western scholarly discourse while preserving its nuanced philosophical and mythological subtleties. By correlating individual deity references across Rigvedic hymns and connecting them to later Puranic mythology, the Bṛhad-devatā illuminates the evolutionary dynamics of Hindu theological conceptualization. Its methodological approach reveals how ancient Indian intellectuals constructed complex interpretive frameworks for understanding religious texts, demonstrating remarkable analytical sophistication in mythological exegesis. The work's significance extends beyond mere cataloguing, offering profound insights into the intellectual genealogy of Hindu religious thought, the symbolic structures of Vedic cosmology, and the intricate mechanisms of mythological interpretation that would profoundly influence subsequent Sanskrit literary and philosophical traditions.
+
 ---
 
 # The Bṛhad-devatā: A Summary of the Deities and Myths of the Rigveda

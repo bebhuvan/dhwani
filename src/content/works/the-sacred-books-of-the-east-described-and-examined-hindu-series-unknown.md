@@ -1,30 +1,42 @@
 ---
 title: 'The sacred books of the East, described and examined ; Hindu series'
-author: ['Unknown']
+author:
+  - Unknown
 year: 1897
 language:
-- English
+  - English
 genre:
-- Religious Anthology
-- Comparative Religion
-- Indological Studies
-description: |
-  The sacred books of the East represents a landmark scholarly compilation of foundational Hindu religious and philosophical texts, published during the late Victorian period of intense Orientalist academic discourse. Emerging at a critical juncture of cross-cultural intellectual exchange, this comprehensive collection systematically translates and analyzes seminal Sanskrit works across three volumes, encompassing the Vedic corpus, philosophical treatises, epic literature, and legal manuscripts. The first volume concentrates on the Vedas and Brahmanas, including the Rig Veda and Atharva-veda, while the second volume explores philosophical and juridical texts such as the Upanishads, Bhagavad Gita, and Laws of Manu. The third volume focuses on epic poetry and Puranic literature, featuring comprehensive translations of the Ramayana, Mahabharata, and Vishnu Purana. Compiled during an era of British colonial scholarly engagement with Indian intellectual traditions, the work represents a significant methodological approach to comparative religious studies, providing Western academics and readers unprecedented access to complex Sanskrit textual traditions. The collection's meticulous translations and scholarly annotations reflect the emergent discipline of Indological studies, bridging cultural and linguistic barriers to illuminate the sophisticated philosophical, theological, and literary dimensions of classical Indian thought. By systematically documenting these texts, the compilation preserved critical elements of Hindu intellectual heritage during a period of significant cultural and academic transformation, offering insights into metaphysical concepts, social structures, mythological narratives, and ethical frameworks that continue to define India's rich cultural landscape.
+  - Religious Anthology
+  - Comparative Religion
+  - Indological Studies
+description: >-
+  The sacred books of the East represents a landmark scholarly compilation of
+  foundational Hindu religious and philosophical texts, published during the
+  late Victorian period of intense Orientalist academic discourse. Emerging at a
+  critical juncture of cross-cultural intellectual exchange, this comprehensive
+  collection systematically translates and analyzes seminal Sanskrit works
+  across three volumes, encompassing the Vedic corpus, philosophical treatises,
+  epic literature, and legal manuscripts.
 collections:
-- religious-texts
-- comparative-religion
-- indology
-- reference-texts
+  - religious-texts
+  - comparative-religion
+  - indology
+  - reference-texts
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/thesacredbooksof03xxxxuoft
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/thesacredbooksof03xxxxuoft'
+    type: other
 references:
-- name: 'Open Library: The sacred books of'
-  url: https://openlibrary.org/search?q=The+sacred+books+of+the+East
-  type: other
+  - name: 'Open Library: The sacred books of'
+    url: 'https://openlibrary.org/search?q=The+sacred+books+of+the+East'
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+The sacred books of the East represents a landmark scholarly compilation of foundational Hindu religious and philosophical texts, published during the late Victorian period of intense Orientalist academic discourse. Emerging at a critical juncture of cross-cultural intellectual exchange, this comprehensive collection systematically translates and analyzes seminal Sanskrit works across three volumes, encompassing the Vedic corpus, philosophical treatises, epic literature, and legal manuscripts. The first volume concentrates on the Vedas and Brahmanas, including the Rig Veda and Atharva-veda, while the second volume explores philosophical and juridical texts such as the Upanishads, Bhagavad Gita, and Laws of Manu. The third volume focuses on epic poetry and Puranic literature, featuring comprehensive translations of the Ramayana, Mahabharata, and Vishnu Purana. Compiled during an era of British colonial scholarly engagement with Indian intellectual traditions, the work represents a significant methodological approach to comparative religious studies, providing Western academics and readers unprecedented access to complex Sanskrit textual traditions. The collection's meticulous translations and scholarly annotations reflect the emergent discipline of Indological studies, bridging cultural and linguistic barriers to illuminate the sophisticated philosophical, theological, and literary dimensions of classical Indian thought. By systematically documenting these texts, the compilation preserved critical elements of Hindu intellectual heritage during a period of significant cultural and academic transformation, offering insights into metaphysical concepts, social structures, mythological narratives, and ethical frameworks that continue to define India's rich cultural landscape.
+
 ---
 
 # The Sacred Books of the East: Hindu Series

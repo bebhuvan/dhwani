@@ -1,63 +1,62 @@
 ---
 title: India Under British Rule from the Foundation of the East India Company
 author:
-- Wheeler, James Talboys
+  - 'Wheeler, James Talboys'
 year: 1882
 language:
-- English
+  - English
 genre:
-- Historical Literature
-description: India Under British Rule from the Foundation of the East India Company"
-  by J. Talboys Wheeler is a historical account written in the late 19th century.
-  The book provides an in-depth exploration of British colonial rule in India, focusing
-  on the formation and evolution of power held by the East India Company and its significant
-  impact on Indian society and politics. The opening of the work introduces the reader
-  to the backdrop of British expansion into India starting from the establishment
-  of the East India Company in the early 17th century. Wheeler outlines the critical
-  interactions between British traders and local rulers, detailing the foundation
-  of settlements such as Madras and Bombay, while also referencing the complex socio-political
-  environment shaped by Hindu and Mohammedan influences. He emphasizes the initial
-  challenges faced by the British as they negotiated power dynamics with the Great
-  Mogul and other regional rulers, leading up to a narrative rich with intrigue, military
-  conflicts, and the gradual establishment of British supremacy. The text hints at
-  deeper discussions on warfare, governance, and the sociopolitical changes that occurred
-  in response to colonial rule, setting the stage for the subsequent chapters that
-  will elaborate on these themes.
+  - Historical Literature
+description: >-
+  India Under British Rule from the Foundation of the East India Company" by J.
+  Talboys Wheeler is a historical account written in the late 19th century.
 collections:
-- classical-literature
+  - classical-literature
 sources:
-- name: Project Gutenberg
-  url: https://www.gutenberg.org/ebooks/46151
-  type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/46151.html.images
-  type: other
-- name: Internet Archive (James Talboys Wheeler India Under British Rule From The
-    Foundation Of The East India Company Macmillan ( 1886))
-  url: https://archive.org/details/james-talboys-wheeler-india-under-british-rule-from-the-foundation-of-the-east-i
-  type: other
-- name: Internet Archive (India under British rule from the foundation of the East
-    India Company)
-  url: https://archive.org/details/indiaunderbriti00wheegoog
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/46151'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/46151.html.images'
+    type: other
+  - name: >-
+      Internet Archive (James Talboys Wheeler India Under British Rule From The
+      Foundation Of The East India Company Macmillan ( 1886))
+    url: >-
+      https://archive.org/details/james-talboys-wheeler-india-under-british-rule-from-the-foundation-of-the-east-i
+    type: other
+  - name: >-
+      Internet Archive (India under British rule from the foundation of the East
+      India Company)
+    url: 'https://archive.org/details/indiaunderbriti00wheegoog'
+    type: other
 references:
-- name: 'Wikipedia: India Under British Rule from the Foundation of the East India
-    Company'
-  url: https://en.wikipedia.org/wiki/India_Under_British_Rule_from_the_Foundation_of_the_East_India_Company
-  type: other
-- name: 'Wikipedia: Wheeler'
-  url: https://en.wikipedia.org/wiki/Wheeler
-  type: other
-- name: 'Open Library: India Under British Rule from the Foundation of the East India
-    Company'
-  url: https://openlibrary.org/search?q=India%20Under%20British%20Rule%20from%20the%20Foundation%20of%20the%20East%20India%20Company%20Wheeler%2C%20James%20Talboys
-  type: other
+  - name: >-
+      Wikipedia: India Under British Rule from the Foundation of the East India
+      Company
+    url: >-
+      https://en.wikipedia.org/wiki/India_Under_British_Rule_from_the_Foundation_of_the_East_India_Company
+    type: other
+  - name: 'Wikipedia: Wheeler'
+    url: 'https://en.wikipedia.org/wiki/Wheeler'
+    type: other
+  - name: >-
+      Open Library: India Under British Rule from the Foundation of the East
+      India Company
+    url: >-
+      https://openlibrary.org/search?q=India%20Under%20British%20Rule%20from%20the%20Foundation%20of%20the%20East%20India%20Company%20Wheeler%2C%20James%20Talboys
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
 tags:
-- public domain
-- India -- History -- British occupation, 1765-1947
-- Wheeler, James Talboys
+  - public domain
+  - 'India -- History -- British occupation, 1765-1947'
+  - 'Wheeler, James Talboys'
+---
+## Historical Context
+
+India Under British Rule from the Foundation of the East India Company" by J. Talboys Wheeler is a historical account written in the late 19th century. The book provides an in-depth exploration of British colonial rule in India, focusing on the formation and evolution of power held by the East India Company and its significant impact on Indian society and politics. The opening of the work introduces the reader to the backdrop of British expansion into India starting from the establishment of the East India Company in the early 17th century. Wheeler outlines the critical interactions between British traders and local rulers, detailing the foundation of settlements such as Madras and Bombay, while also referencing the complex socio-political environment shaped by Hindu and Mohammedan influences. He emphasizes the initial challenges faced by the British as they negotiated power dynamics with the Great Mogul and other regional rulers, leading up to a narrative rich with intrigue, military conflicts, and the gradual establishment of British supremacy. The text hints at deeper discussions on warfare, governance, and the sociopolitical changes that occurred in response to colonial rule, setting the stage for the subsequent chapters that will elaborate on these themes.
+
 ---
 
 # India Under British Rule from the Foundation of the East India Company

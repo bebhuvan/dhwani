@@ -1,31 +1,42 @@
 ---
 title: 'The Sikh Religion: Its Gurus, Sacred Writings and Authors (Six Volumes)'
 author:
-- Max Arthur Macauliffe
+  - Max Arthur Macauliffe
 year: 1909
 language:
-- English
-- Punjabi
+  - English
+  - Punjabi
 genre:
-- Religious History
-- Sacred Texts
-- Biography
-description: |
-  Max Arthur Macauliffe's six-volume work "The Sikh Religion: Its Gurus, Sacred Writings and Authors" is a significant scholarly text on Sikhism published in 1909 during the British colonial period. As an Irish civil servant, Macauliffe conducted an extensive research project translating and analyzing the Guru Granth Sahib, providing comprehensive biographical accounts of the ten Sikh Gurus and detailed explanations of Sikh theological principles. His scholarly approach was distinctive for the period, offering a more nuanced and contextual interpretation of Sikh religious philosophy compared to many contemporary colonial-era academic works. The text systematically documents the theological development, historical progression, and spiritual practices of Sikhism during a complex period of political and cultural transformation under British imperial administration. Macauliffe's work was notable for its methodical translation of primary religious texts and its comprehensive documentation of Sikh theological traditions, which were largely inaccessible to English-speaking academic audiences at the time. By presenting Sikh religious philosophy with substantial scholarly rigor, the text contributed significantly to comparative religious studies and provided crucial historical documentation of Punjabi religious intellectual traditions. The work represents an important scholarly intervention in early 20th-century religious historiography, bridging indigenous theological knowledge with Western academic discourse during a period of profound social and intellectual transition.
+  - Religious History
+  - Sacred Texts
+  - Biography
+description: >-
+  Max Arthur Macauliffe's six-volume work "The Sikh Religion: Its Gurus, Sacred
+  Writings and Authors" is a significant scholarly text on Sikhism published in
+  1909 during the British colonial period. As an Irish civil servant, Macauliffe
+  conducted an extensive research project translating and analyzing the Guru
+  Granth Sahib, providing comprehensive biographical accounts of the ten Sikh
+  Gurus and detailed explanations of Sikh theological principles.
 collections:
-- regional-voices
-- modern-literature
-- spiritual-texts
+  - regional-voices
+  - modern-literature
+  - spiritual-texts
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/thesikhreligion01macauoft
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/thesikhreligion01macauoft'
+    type: other
 references:
-- name: 'Open Library: Sikh Religion Gurus Sacred Writings'
-  url: https://openlibrary.org/search?q=Sikh+Religion+Gurus+Sacred+Writings+Max+Macauliffe
-  type: other
+  - name: 'Open Library: Sikh Religion Gurus Sacred Writings'
+    url: >-
+      https://openlibrary.org/search?q=Sikh+Religion+Gurus+Sacred+Writings+Max+Macauliffe
+    type: other
 featured: true
-publishDate: 2025-10-02
+publishDate: 2025-10-02T00:00:00.000Z
+---
+## Historical Context
+
+Max Arthur Macauliffe's six-volume work "The Sikh Religion: Its Gurus, Sacred Writings and Authors" is a significant scholarly text on Sikhism published in 1909 during the British colonial period. As an Irish civil servant, Macauliffe conducted an extensive research project translating and analyzing the Guru Granth Sahib, providing comprehensive biographical accounts of the ten Sikh Gurus and detailed explanations of Sikh theological principles. His scholarly approach was distinctive for the period, offering a more nuanced and contextual interpretation of Sikh religious philosophy compared to many contemporary colonial-era academic works. The text systematically documents the theological development, historical progression, and spiritual practices of Sikhism during a complex period of political and cultural transformation under British imperial administration. Macauliffe's work was notable for its methodical translation of primary religious texts and its comprehensive documentation of Sikh theological traditions, which were largely inaccessible to English-speaking academic audiences at the time. By presenting Sikh religious philosophy with substantial scholarly rigor, the text contributed significantly to comparative religious studies and provided crucial historical documentation of Punjabi religious intellectual traditions. The work represents an important scholarly intervention in early 20th-century religious historiography, bridging indigenous theological knowledge with Western academic discourse during a period of profound social and intellectual transition.
+
 ---
 
 # The Sikh Religion: Its Gurus, Sacred Writings and Authors

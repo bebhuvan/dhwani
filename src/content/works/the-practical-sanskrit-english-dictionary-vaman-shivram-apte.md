@@ -1,25 +1,54 @@
 ---
-title: "The Practical Sanskrit-English Dictionary"
-author: ["Vaman Shivram Apte"]
+title: The Practical Sanskrit-English Dictionary
+author:
+  - Vaman Shivram Apte
 year: 1890
-language: ["English", "Sanskrit"]
-genre: ["Reference", "Lexicography"]
-description: "First published in 1890, Vaman Shivram Apte's *Practical Sanskrit-English Dictionary* represented monumental achievement in Indian Sanskrit scholarship—comprehensive lexicographical work compiled by Indian scholar that rivaled and in some respects surpassed European Sanskrit dictionaries. dictionary compiled by European scholar, Apte's work represented indigenous Indian scholarship reclaiming Sanskrit linguistic authority, combining traditional panditic knowledge with modern lexicographical methods. The dictionary includes extensive quotations from Sanskrit literature illustrating word usage, compound analysis, idiomatic expressions, and cultural context—making it indispensable tool for Sanskrit students, scholars, and translators. Apte's achievement demonstrated Indian scholars' capacity for rigorous academic work matching Western standards while preserving deep cultural and linguistic expertise that outsiders could never fully replicate."
-collections: ["ancient-wisdom", "classical-literature"]
+language:
+  - English
+  - Sanskrit
+genre:
+  - Reference
+  - Lexicography
+description: >-
+  First published in 1890, Vaman Shivram Apte's *Practical Sanskrit-English
+  Dictionary* represented monumental achievement in Indian Sanskrit
+  scholarship—comprehensive lexicographical work compiled by Indian scholar that
+  rivaled and in some respects surpassed European Sanskrit dictionaries.
+  dictionary compiled by European scholar, Apte's work represented indigenous
+  Indian scholarship reclaiming Sanskrit linguistic authority, combining
+  traditional panditic knowledge with modern lexicographical methods.
+collections:
+  - ancient-wisdom
+  - classical-literature
 sources:
-  - name: "Internet Archive"
-    url: "https://archive.org/details/in.ernet.dli.2015.190373"
-    type: "other"
+  - name: Internet Archive
+    url: 'https://archive.org/details/in.ernet.dli.2015.190373'
+    type: other
 references:
-  - name: "Wikipedia: Vaman Shivram Apte"
-    url: "https://en.wikipedia.org/wiki/Vaman_Shivram_Apte"
-    type: "wikipedia"
-  - name: "Open Library"
-    url: "https://openlibrary.org/search?q=The+Practical+Sanskrit-English+dictionary&mode=everything"
-    type: "other"
+  - name: 'Wikipedia: Vaman Shivram Apte'
+    url: 'https://en.wikipedia.org/wiki/Vaman_Shivram_Apte'
+    type: wikipedia
+  - name: Open Library
+    url: >-
+      https://openlibrary.org/search?q=The+Practical+Sanskrit-English+dictionary&mode=everything
+    type: other
 featured: true
-publishDate: 2025-10-02
-tags: ["Sanskrit dictionary", "V.S. Apte", "lexicography", "Sanskrit language", "classical literature", "Indian scholarship", "reference work", "Sanskrit studies", "Vedic language"]
+publishDate: 2025-10-02T00:00:00.000Z
+tags:
+  - Sanskrit dictionary
+  - V.S. Apte
+  - lexicography
+  - Sanskrit language
+  - classical literature
+  - Indian scholarship
+  - reference work
+  - Sanskrit studies
+  - Vedic language
+---
+## Historical Context
+
+First published in 1890, Vaman Shivram Apte's *Practical Sanskrit-English Dictionary* represented monumental achievement in Indian Sanskrit scholarship—comprehensive lexicographical work compiled by Indian scholar that rivaled and in some respects surpassed European Sanskrit dictionaries. dictionary compiled by European scholar, Apte's work represented indigenous Indian scholarship reclaiming Sanskrit linguistic authority, combining traditional panditic knowledge with modern lexicographical methods. The dictionary includes extensive quotations from Sanskrit literature illustrating word usage, compound analysis, idiomatic expressions, and cultural context—making it indispensable tool for Sanskrit students, scholars, and translators. Apte's achievement demonstrated Indian scholars' capacity for rigorous academic work matching Western standards while preserving deep cultural and linguistic expertise that outsiders could never fully replicate.
+
 ---
 
 # The Practical Sanskrit-English Dictionary

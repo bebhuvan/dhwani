@@ -1,32 +1,45 @@
 ---
-title: 'History of Indian and Eastern Architecture'
+title: History of Indian and Eastern Architecture
 author:
-- James Fergusson
-- James Burgess
+  - James Fergusson
+  - James Burgess
 year: 1910
 language:
-- English
+  - English
 genre:
-- Architecture
-- Art History
-description: |
-  James Fergusson's seminal "History of Indian and Eastern Architecture" represents a landmark scholarly examination of subcontinental architectural traditions during the late colonial period, offering a comprehensive systematic analysis of India's built heritage from antiquity through the Mughal era. Published posthumously in 1910 and refined by architectural historian James Burgess, the work emerged during a critical period of imperial archaeological documentation and emerging scholarly interest in Indian cultural patrimony. Fergusson, a pioneering architectural historian trained initially in commerce and botany, approached Indian architecture with a methodical, chronological framework that was revolutionary for its time, meticulously documenting architectural typologies from Buddhist stupas and rock-cut caves to sophisticated temple complexes and Islamic monuments across the Indian subcontinent. The work's significance extends beyond mere architectural description, providing crucial insights into social, religious, and cultural transformations reflected through built environments. By presenting a rigorous chronological and typological study, Fergusson challenged prevailing Eurocentric perspectives and established foundational methodological approaches for understanding Indian architectural evolution. His detailed documentation of structures in regions like Ajanta, Ellora, and Khajuraho illuminated architectural traditions that had been marginalized or misunderstood in contemporary Western scholarship. The two-volume work critically contextualized Indian architectural practices within broader historical and cultural narratives, bridging scholarly understanding between colonial interpretative frameworks and indigenous architectural traditions, thus making an enduring contribution to art historical and archaeological scholarship on the Indian subcontinent.
+  - Architecture
+  - Art History
+description: >-
+  James Fergusson's seminal "History of Indian and Eastern Architecture"
+  represents a landmark scholarly examination of subcontinental architectural
+  traditions during the late colonial period, offering a comprehensive
+  systematic analysis of India's built heritage from antiquity through the
+  Mughal era. Published posthumously in 1910 and refined by architectural
+  historian James Burgess, the work emerged during a critical period of imperial
+  archaeological documentation and emerging scholarly interest in Indian
+  cultural patrimony.
 collections:
-- classical-literature
-- modern-literature
+  - classical-literature
+  - modern-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/historyofindiane01ferguoft
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/historyofindiane01ferguoft'
+    type: other
 references:
-- name: 'Wikipedia: James Fergusson (architect)'
-  url: https://en.wikipedia.org/wiki/James_Fergusson_(architectural_historian)
-  type: wikipedia
-- name: 'Open Library: History of Indian and'
-  url: https://openlibrary.org/search?q=History+of+Indian+and+Eastern+Architecture+James+Fergusson
-  type: other
+  - name: 'Wikipedia: James Fergusson (architect)'
+    url: 'https://en.wikipedia.org/wiki/James_Fergusson_(architectural_historian)'
+    type: wikipedia
+  - name: 'Open Library: History of Indian and'
+    url: >-
+      https://openlibrary.org/search?q=History+of+Indian+and+Eastern+Architecture+James+Fergusson
+    type: other
 featured: true
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+James Fergusson's seminal "History of Indian and Eastern Architecture" represents a landmark scholarly examination of subcontinental architectural traditions during the late colonial period, offering a comprehensive systematic analysis of India's built heritage from antiquity through the Mughal era. Published posthumously in 1910 and refined by architectural historian James Burgess, the work emerged during a critical period of imperial archaeological documentation and emerging scholarly interest in Indian cultural patrimony. Fergusson, a pioneering architectural historian trained initially in commerce and botany, approached Indian architecture with a methodical, chronological framework that was revolutionary for its time, meticulously documenting architectural typologies from Buddhist stupas and rock-cut caves to sophisticated temple complexes and Islamic monuments across the Indian subcontinent. The work's significance extends beyond mere architectural description, providing crucial insights into social, religious, and cultural transformations reflected through built environments. By presenting a rigorous chronological and typological study, Fergusson challenged prevailing Eurocentric perspectives and established foundational methodological approaches for understanding Indian architectural evolution. His detailed documentation of structures in regions like Ajanta, Ellora, and Khajuraho illuminated architectural traditions that had been marginalized or misunderstood in contemporary Western scholarship. The two-volume work critically contextualized Indian architectural practices within broader historical and cultural narratives, bridging scholarly understanding between colonial interpretative frameworks and indigenous architectural traditions, thus making an enduring contribution to art historical and archaeological scholarship on the Indian subcontinent.
+
 ---
 
 # History of Indian and Eastern Architecture

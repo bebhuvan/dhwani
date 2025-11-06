@@ -1,35 +1,49 @@
 ---
-title: 'The Sacred Books and Early Literature of the East, Volumes I-II: Babylonia, Assyria, and Egypt'
+title: >-
+  The Sacred Books and Early Literature of the East, Volumes I-II: Babylonia,
+  Assyria, and Egypt
 author:
-- Charles Francis Horne
-- Morris Jastrow Jr.
-- James Henry Breasted
+  - Charles Francis Horne
+  - Morris Jastrow Jr.
+  - James Henry Breasted
 year: 1917
 language:
-- English
+  - English
 genre:
-- Religious Literature
-- Ancient Literature
-- Reference
-description: |
-  The Sacred Books and Early Literature of the East, a fourteen-volume compendium published in 1917, represents a landmark scholarly endeavor in comparative religious and textual studies during the early 20th-century Orientalist intellectual movement. Compiled by Charles Francis Horne, Morris Jastrow Jr., and James Henry Breasted—prominent scholars in Near Eastern studies—the work emerged during a transformative period of Western academic engagement with ancient cultural archives. While initially focused on Mesopotamian and Egyptian texts, the compilation significantly contributed to the broader scholarly understanding of ancient civilizations, including indirect methodological implications for Indian textual scholarship. The first two volumes systematically translate and contextualize foundational texts such as the Epic of Gilgamesh, Code of Hammurabi, Egyptian Pyramid Texts, and critical historical documents, providing unprecedented access to complex linguistic and cultural narratives. For Indian studies, the work's comparative approach and rigorous translation methodology prefigured later comprehensive approaches to understanding ancient textual traditions, particularly in how complex cultural and religious narratives could be interpreted across linguistic and geographical boundaries. The compilation's scholarly apparatus—including contextual annotations, linguistic translations, and comprehensive historical introductions—established critical methodological precedents for subsequent comparative religious and literary studies. By presenting these ancient texts with scholarly rigor and intellectual nuance, Horne and his colleagues facilitated a more profound cross-cultural understanding, bridging Western academic perspectives with ancient Near Eastern intellectual traditions and indirectly influencing methodological approaches to Indian textual scholarship and comparative religious studies.
+  - Religious Literature
+  - Ancient Literature
+  - Reference
+description: >-
+  The Sacred Books and Early Literature of the East, a fourteen-volume
+  compendium published in 1917, represents a landmark scholarly endeavor in
+  comparative religious and textual studies during the early 20th-century
+  Orientalist intellectual movement. Compiled by Charles Francis Horne, Morris
+  Jastrow Jr., and James Henry Breasted—prominent scholars in Near Eastern
+  studies—the work emerged during a transformative period of Western academic
+  engagement with ancient cultural archives.
 collections:
-- ancient-wisdom
-- spiritual-texts
-- classical-literature
+  - ancient-wisdom
+  - spiritual-texts
+  - classical-literature
 sources:
-- name: 'Internet Archive - Volume I'
-  url: https://archive.org/details/sacredbooksearly01hornuoft
-  type: other
-- name: 'Internet Archive - Volume II'
-  url: https://archive.org/details/sacredbooksearly02hornuoft
-  type: other
+  - name: Internet Archive - Volume I
+    url: 'https://archive.org/details/sacredbooksearly01hornuoft'
+    type: other
+  - name: Internet Archive - Volume II
+    url: 'https://archive.org/details/sacredbooksearly02hornuoft'
+    type: other
 references:
-- name: 'Open Library: Sacred Books Early Literature East'
-  url: https://openlibrary.org/search?q=Sacred+Books+Early+Literature+East+Charles+Horne
-  type: other
+  - name: 'Open Library: Sacred Books Early Literature East'
+    url: >-
+      https://openlibrary.org/search?q=Sacred+Books+Early+Literature+East+Charles+Horne
+    type: other
 featured: true
-publishDate: 2025-10-02
+publishDate: 2025-10-02T00:00:00.000Z
+---
+## Historical Context
+
+The Sacred Books and Early Literature of the East, a fourteen-volume compendium published in 1917, represents a landmark scholarly endeavor in comparative religious and textual studies during the early 20th-century Orientalist intellectual movement. Compiled by Charles Francis Horne, Morris Jastrow Jr., and James Henry Breasted—prominent scholars in Near Eastern studies—the work emerged during a transformative period of Western academic engagement with ancient cultural archives. While initially focused on Mesopotamian and Egyptian texts, the compilation significantly contributed to the broader scholarly understanding of ancient civilizations, including indirect methodological implications for Indian textual scholarship. The first two volumes systematically translate and contextualize foundational texts such as the Epic of Gilgamesh, Code of Hammurabi, Egyptian Pyramid Texts, and critical historical documents, providing unprecedented access to complex linguistic and cultural narratives. For Indian studies, the work's comparative approach and rigorous translation methodology prefigured later comprehensive approaches to understanding ancient textual traditions, particularly in how complex cultural and religious narratives could be interpreted across linguistic and geographical boundaries. The compilation's scholarly apparatus—including contextual annotations, linguistic translations, and comprehensive historical introductions—established critical methodological precedents for subsequent comparative religious and literary studies. By presenting these ancient texts with scholarly rigor and intellectual nuance, Horne and his colleagues facilitated a more profound cross-cultural understanding, bridging Western academic perspectives with ancient Near Eastern intellectual traditions and indirectly influencing methodological approaches to Indian textual scholarship and comparative religious studies.
+
 ---
 
 # The Sacred Books and Early Literature of the East

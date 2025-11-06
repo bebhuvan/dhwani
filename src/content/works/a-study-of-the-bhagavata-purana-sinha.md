@@ -1,33 +1,45 @@
 ---
 title: 'A Study of the Bhagavata Purana; or, Esoteric Hinduism'
 author:
-- Purnendu Narayana Sinha
+  - Purnendu Narayana Sinha
 year: 1901
 language:
-- English
+  - English
 genre:
-- Religious Studies
-- Hindu Philosophy
-- Textual Analysis
-description: |
-  The *Bhagavata Purana*, a seminal Sanskrit text likely composed between the 9th and 10th centuries CE, emerged during the transformative Pratihara-Rashtrakuta period—a critical era of Hindu cultural and philosophical renaissance in medieval India. Produced within the intellectually vibrant Deccan plateau, the text represents a sophisticated articulation of Vaishnava theological thought, reflecting the complex spiritual and philosophical currents of early medieval Hindu scholarship. The work is distinguished by its profound exploration of bhakti (devotional) theology, offering a nuanced philosophical framework that centers on the divine persona of Krishna and the broader narrative of Vishnu's avatars. Its comprehensive cosmological philosophy interweaves mythological narratives with intricate theological discourse, presenting a multilayered understanding of divine manifestation, human spiritual potential, and cosmic order. The text's significance extends beyond religious narrative, functioning as a critical repository of Hindu philosophical and cultural knowledge, encompassing metaphysical speculation, ethical teachings, and social commentary. By elevating Krishna's life and divine play (*lila*) as a central theological paradigm, the *Bhagavata Purana* profoundly influenced subsequent devotional movements across the Indian subcontinent, shaping religious practice, literary expression, and philosophical discourse. Its intricate narrative structure and theological depth have made it a cornerstone text in Hinduism, inspiring generations of scholars, philosophers, and spiritual practitioners, and providing profound insights into the complex intellectual and spiritual landscape of medieval Indian civilization. The work remains a fundamental touchstone for understanding the evolution of Hindu religious thought, devotional practice, and cultural imagination.
+  - Religious Studies
+  - Hindu Philosophy
+  - Textual Analysis
+description: >-
+  The *Bhagavata Purana*, a seminal Sanskrit text likely composed between the
+  9th and 10th centuries CE, emerged during the transformative
+  Pratihara-Rashtrakuta period—a critical era of Hindu cultural and
+  philosophical renaissance in medieval India. Produced within the
+  intellectually vibrant Deccan plateau, the text represents a sophisticated
+  articulation of Vaishnava theological thought, reflecting the complex
+  spiritual and philosophical currents of early medieval Hindu scholarship.
 collections:
-- spiritual-texts
-- modern-literature
-- classical-literature
+  - spiritual-texts
+  - modern-literature
+  - classical-literature
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/39442
-  type: other
-- name: 'Internet Archive'
-  url: https://archive.org/details/astudyofthebhaga00sinhuoft
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/39442'
+    type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/astudyofthebhaga00sinhuoft'
+    type: other
 references:
-- name: 'Open Library: A Study of the Bhagavata Purana'
-  url: https://openlibrary.org/search?q=A+study+of+the+Bhagavata+Purana&mode=everything
-  type: other
+  - name: 'Open Library: A Study of the Bhagavata Purana'
+    url: >-
+      https://openlibrary.org/search?q=A+study+of+the+Bhagavata+Purana&mode=everything
+    type: other
 featured: false
-publishDate: 2025-10-04
+publishDate: 2025-10-04T00:00:00.000Z
+---
+## Historical Context
+
+The *Bhagavata Purana*, a seminal Sanskrit text likely composed between the 9th and 10th centuries CE, emerged during the transformative Pratihara-Rashtrakuta period—a critical era of Hindu cultural and philosophical renaissance in medieval India. Produced within the intellectually vibrant Deccan plateau, the text represents a sophisticated articulation of Vaishnava theological thought, reflecting the complex spiritual and philosophical currents of early medieval Hindu scholarship. The work is distinguished by its profound exploration of bhakti (devotional) theology, offering a nuanced philosophical framework that centers on the divine persona of Krishna and the broader narrative of Vishnu's avatars. Its comprehensive cosmological philosophy interweaves mythological narratives with intricate theological discourse, presenting a multilayered understanding of divine manifestation, human spiritual potential, and cosmic order. The text's significance extends beyond religious narrative, functioning as a critical repository of Hindu philosophical and cultural knowledge, encompassing metaphysical speculation, ethical teachings, and social commentary. By elevating Krishna's life and divine play (*lila*) as a central theological paradigm, the *Bhagavata Purana* profoundly influenced subsequent devotional movements across the Indian subcontinent, shaping religious practice, literary expression, and philosophical discourse. Its intricate narrative structure and theological depth have made it a cornerstone text in Hinduism, inspiring generations of scholars, philosophers, and spiritual practitioners, and providing profound insights into the complex intellectual and spiritual landscape of medieval Indian civilization. The work remains a fundamental touchstone for understanding the evolution of Hindu religious thought, devotional practice, and cultural imagination.
+
 ---
 
 # A Study of the Bhagavata Purana; or, Esoteric Hinduism

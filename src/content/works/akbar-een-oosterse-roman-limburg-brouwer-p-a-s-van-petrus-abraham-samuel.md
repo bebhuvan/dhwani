@@ -1,37 +1,48 @@
 ---
 title: 'Akbar: een oosterse roman'
 author:
-- Limburg Brouwer, P. A. S. van (Petrus Abraham Samuel)
+  - 'Limburg Brouwer, P. A. S. van (Petrus Abraham Samuel)'
 year: 1858
 language:
-- English
+  - English
 genre:
-- Fiction
-- Religious Literature
-description: |
-  "Akbar: een oosterse roman" is a significant mid-19th century Dutch literary work exploring the historical and cultural landscape of Mughal India through a fictional narrative centered on Emperor Akbar. Written by Petrus Abraham Samuel van Limburg Brouwer in 1858, the novel represents an important example of European literary engagement with Indian historical and cultural themes during the colonial period. Set during the expansive reign of Akbar the Great (1556-1605), a period marked by significant cultural synthesis and religious tolerance, the work offers a nuanced exploration of cross-cultural interactions, religious pluralism, and imperial dynamics in the Mughal Empire. Van Limburg Brouwer, a Dutch scholar and diplomat with extensive knowledge of Eastern cultures, crafted the novel as an intellectual meditation on religious understanding and political governance. The narrative likely examines Akbar's renowned policy of Din-i-Ilahi, a syncretic religious approach that sought to blend elements from multiple faith traditions, reflecting the emperor's commitment to religious dialogue and cultural integration. By presenting a sophisticated fictional account of this complex historical period, the work contributes to European scholarly discourse on Indian civilization, challenging contemporary orientalist perspectives and providing a more nuanced representation of Mughal cultural complexity. As a literary artifact, the novel represents an important intersection between European literary traditions and Indian historical imagination, offering insights into cross-cultural perceptions and interpretations of Indian history during the 19th century's colonial intellectual environment.
+  - Fiction
+  - Religious Literature
+description: >-
+  "Akbar: een oosterse roman" is a significant mid-19th century Dutch literary
+  work exploring the historical and cultural landscape of Mughal India through a
+  fictional narrative centered on Emperor Akbar. Written by Petrus Abraham
+  Samuel van Limburg Brouwer in 1858, the novel represents an important example
+  of European literary engagement with Indian historical and cultural themes
+  during the colonial period.
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/6712
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/6712.html.images
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/6712'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/6712.html.images'
+    type: other
 references:
-- name: 'Wikipedia: Akbar'
-  url: https://en.wikipedia.org/wiki/Akbar
-  type: other
-- name: 'Wikipedia: Limburg Brouwer'
-  url: https://en.wikipedia.org/wiki/Limburg_Brouwer
-  type: other
-- name: 'Open Library: Akbar: een oosterse roman'
-  url: https://openlibrary.org/search?q=Akbar%3A%20een%20oosterse%20roman%20Limburg%20Brouwer%2C%20P.%20A.%20S.%20van%20%28Petrus%20Abraham%20Samuel%29
-  type: other
-- name: 'Open Library: Akbar een oosterse roman'
-  url: https://openlibrary.org/search?q=Akbar+oosterse+roman+Limburg+Brouwer
-  type: other
+  - name: 'Wikipedia: Akbar'
+    url: 'https://en.wikipedia.org/wiki/Akbar'
+    type: other
+  - name: 'Wikipedia: Limburg Brouwer'
+    url: 'https://en.wikipedia.org/wiki/Limburg_Brouwer'
+    type: other
+  - name: 'Open Library: Akbar: een oosterse roman'
+    url: >-
+      https://openlibrary.org/search?q=Akbar%3A%20een%20oosterse%20roman%20Limburg%20Brouwer%2C%20P.%20A.%20S.%20van%20%28Petrus%20Abraham%20Samuel%29
+    type: other
+  - name: 'Open Library: Akbar een oosterse roman'
+    url: 'https://openlibrary.org/search?q=Akbar+oosterse+roman+Limburg+Brouwer'
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+"Akbar: een oosterse roman" is a significant mid-19th century Dutch literary work exploring the historical and cultural landscape of Mughal India through a fictional narrative centered on Emperor Akbar. Written by Petrus Abraham Samuel van Limburg Brouwer in 1858, the novel represents an important example of European literary engagement with Indian historical and cultural themes during the colonial period. Set during the expansive reign of Akbar the Great (1556-1605), a period marked by significant cultural synthesis and religious tolerance, the work offers a nuanced exploration of cross-cultural interactions, religious pluralism, and imperial dynamics in the Mughal Empire. Van Limburg Brouwer, a Dutch scholar and diplomat with extensive knowledge of Eastern cultures, crafted the novel as an intellectual meditation on religious understanding and political governance. The narrative likely examines Akbar's renowned policy of Din-i-Ilahi, a syncretic religious approach that sought to blend elements from multiple faith traditions, reflecting the emperor's commitment to religious dialogue and cultural integration. By presenting a sophisticated fictional account of this complex historical period, the work contributes to European scholarly discourse on Indian civilization, challenging contemporary orientalist perspectives and providing a more nuanced representation of Mughal cultural complexity. As a literary artifact, the novel represents an important intersection between European literary traditions and Indian historical imagination, offering insights into cross-cultural perceptions and interpretations of Indian history during the 19th century's colonial intellectual environment.
+
 ---
 
 # Akbar: een oosterse roman (Dutch Version)

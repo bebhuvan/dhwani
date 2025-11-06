@@ -1,40 +1,52 @@
 ---
-title: 'Kautilya Arthashastra Hindi Anubad'
+title: Kautilya Arthashastra Hindi Anubad
 author:
-- Kautilya
-- Vidya Bhashker
-- Udayabeer Shastri
+  - Kautilya
+  - Vidya Bhashker
+  - Udayabeer Shastri
 year: 1925
 language:
-- Hindi
+  - Hindi
 genre:
-- Philosophy
-- Political Science
-- Economics
-description: |
-  Kautilya's Arthashastra, translated into Hindi by scholars Vidya Bhashker and Professor Udayabeer Shastri in 1925, represents a critical preservation of classical Indian political philosophy during the late colonial period. Composed around 300 BCE during the Mauryan Empire, the original Sanskrit text is a comprehensive treatise on statecraft, economic administration, and strategic governance, attributed to the influential advisor Chanakya (also known as Kautilya). This 1925 Hindi translation emerged at a pivotal moment in Indian intellectual history, when scholars were actively recuperating and reinterpreting ancient texts to articulate indigenous political and administrative knowledge systems. The translated work comprises fifteen books covering diverse domains including state administration, diplomatic strategies, military organization, economic policy, legal frameworks, and social management. By rendering this complex text accessible to Hindi-speaking scholars and intellectuals, Bhashker and Shastri facilitated broader engagement with classical Indian political thought during a period of intense national self-reflection and emerging independence movements. The Arthashastra offers profound insights into sophisticated pre-colonial governance mechanisms, challenging colonial narratives about Indian administrative capabilities. Its systematic exploration of state craft, economic principles, and ethical governance demonstrates the advanced theoretical and practical understanding of political science in ancient Indian civilization. This translation significantly contributed to scholarly discourse by making Kautilya's nuanced perspectives on statecraft, economic management, and diplomatic strategy available to a wider intellectual audience, thus reinforcing the intellectual heritage of Indian political philosophy during a transformative historical period.
+  - Philosophy
+  - Political Science
+  - Economics
+description: >-
+  Kautilya's Arthashastra, translated into Hindi by scholars Vidya Bhashker and
+  Professor Udayabeer Shastri in 1925, represents a critical preservation of
+  classical Indian political philosophy during the late colonial period.
+  Composed around 300 BCE during the Mauryan Empire, the original Sanskrit text
+  is a comprehensive treatise on statecraft, economic administration, and
+  strategic governance, attributed to the influential advisor Chanakya (also
+  known as Kautilya).
 collections:
-- philosophy
-- political-philosophy
+  - philosophy
+  - political-philosophy
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.ernet.dli.2015.481978
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/in.ernet.dli.2015.481978'
+    type: other
 references:
-- name: 'Wikipedia: Arthashastra'
-  url: https://en.wikipedia.org/wiki/Arthashastra
-  type: wikipedia
-- name: 'Wikisource: Kautilya'
-  url: https://en.wikisource.org/wiki/Author:Kautilya
-  type: other
-- name: 'Britannica: Artha-shastra'
-  url: https://www.britannica.com/topic/Artha-shastra
-  type: other
-- name: 'Open Library: Kautilya Arthashastra Hindi Anubad year'
-  url: https://openlibrary.org/search?q=Kautilya+Arthashastra+Hindi+Anubad+year+1925+Kautilya
-  type: other
+  - name: 'Wikipedia: Arthashastra'
+    url: 'https://en.wikipedia.org/wiki/Arthashastra'
+    type: wikipedia
+  - name: 'Wikisource: Kautilya'
+    url: 'https://en.wikisource.org/wiki/Author:Kautilya'
+    type: other
+  - name: 'Britannica: Artha-shastra'
+    url: 'https://www.britannica.com/topic/Artha-shastra'
+    type: other
+  - name: 'Open Library: Kautilya Arthashastra Hindi Anubad year'
+    url: >-
+      https://openlibrary.org/search?q=Kautilya+Arthashastra+Hindi+Anubad+year+1925+Kautilya
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+Kautilya's Arthashastra, translated into Hindi by scholars Vidya Bhashker and Professor Udayabeer Shastri in 1925, represents a critical preservation of classical Indian political philosophy during the late colonial period. Composed around 300 BCE during the Mauryan Empire, the original Sanskrit text is a comprehensive treatise on statecraft, economic administration, and strategic governance, attributed to the influential advisor Chanakya (also known as Kautilya). This 1925 Hindi translation emerged at a pivotal moment in Indian intellectual history, when scholars were actively recuperating and reinterpreting ancient texts to articulate indigenous political and administrative knowledge systems. The translated work comprises fifteen books covering diverse domains including state administration, diplomatic strategies, military organization, economic policy, legal frameworks, and social management. By rendering this complex text accessible to Hindi-speaking scholars and intellectuals, Bhashker and Shastri facilitated broader engagement with classical Indian political thought during a period of intense national self-reflection and emerging independence movements. The Arthashastra offers profound insights into sophisticated pre-colonial governance mechanisms, challenging colonial narratives about Indian administrative capabilities. Its systematic exploration of state craft, economic principles, and ethical governance demonstrates the advanced theoretical and practical understanding of political science in ancient Indian civilization. This translation significantly contributed to scholarly discourse by making Kautilya's nuanced perspectives on statecraft, economic management, and diplomatic strategy available to a wider intellectual audience, thus reinforcing the intellectual heritage of Indian political philosophy during a transformative historical period.
+
 ---
 
 # Kautilya Arthashastra Hindi Anubad

@@ -1,37 +1,63 @@
 ---
-title: "Matsya Purana"
-author: ["Vyasa (attributed)"]
+title: Matsya Purana
+author:
+  - Vyasa (attributed)
 year: 300
-language: ["Sanskrit", "English"]
-genre: ["Religious Texts", "Mythology", "Classical Literature"]
-description: "The Matsya Purana ranks among the earliest and most authoritative of the eighteen Mahapuranas, comprising approximately 14,000 verses across 291 chapters presenting encyclopedic coverage of Hindu mythology, temple architecture, sacred geography, and spiritual practice. Composed between 3rd-5th centuries CE with continuous revisions through the second millennium, this voluminous work derives its name from the Matsya (fish) avatar of Vishnu, who saves humanity from cosmic deluge in the text's foundational narrative. The Matsya Purana provides one of the earliest definitions of Puranic literature itself—'a history written with five characteristics' encompassing cosmogony, chronological cycles, genealogy, Manvantaras (cosmic eras), and royal dynasties. Despite its Vaishnavite naming, the text maintains theological balance between Vishnu, Shiva, and Shakti traditions, earning classification as a mixed or Tamas Purana. The text's remarkable scope extends beyond mythology into technical domains: twenty temple architectural styles using square-grid mandala principles, Vastu-shastra house design, multiple yoga systems, festival observances, governance principles, and construction techniques. Extensive mahatmya (glorification) sections function as medieval pilgrimage guides to Narmada river temples, Prayaga's Kumbh Mela, Varanasi sacred sites, and Goddess pilgrimage centers across India. The Matsya Purana's architectural guidelines profoundly influenced first-millennium temple construction across the subcontinent, establishing design principles—east-facing orientations, human-body-based proportions, 64-square mandalas for major structures—still evident in surviving monuments. M. Winternitz recognized it as 'one of the older works of Purana literature,' whose encyclopedic character preserves invaluable historical, technical, and spiritual knowledge spanning multiple centuries of composition and continuous cultural relevance."
-collections: ['religious-texts', 'classical-literature', 'devotional-literature', 'ancient-wisdom']
+language:
+  - Sanskrit
+  - English
+genre:
+  - Religious Texts
+  - Mythology
+  - Classical Literature
+description: >-
+  The Matsya Purana ranks among the earliest and most authoritative of the
+  eighteen Mahapuranas, comprising approximately 14,000 verses across 291
+  chapters presenting encyclopedic coverage of Hindu mythology, temple
+  architecture, sacred geography, and spiritual practice. Composed between
+  3rd-5th centuries CE with continuous revisions through the second millennium,
+  this voluminous work derives its name from the Matsya (fish) avatar of Vishnu,
+  who saves humanity from cosmic deluge in the text's foundational narrative.
+collections:
+  - religious-texts
+  - classical-literature
+  - devotional-literature
+  - ancient-wisdom
 sources:
-  - name: "Internet Archive (various editions)"
-    url: "https://archive.org/details/matsyapurana00sanskrit"
-    type: "other"
-  - name: "Sacred Texts (Various sections)"
-    url: "https://www.sacred-texts.com/hin/index.htm"
-    type: "other"
+  - name: Internet Archive (various editions)
+    url: 'https://archive.org/details/matsyapurana00sanskrit'
+    type: other
+  - name: Sacred Texts (Various sections)
+    url: 'https://www.sacred-texts.com/hin/index.htm'
+    type: other
 references:
-  - name: "Wikipedia: Matsya Purana"
-    url: "https://en.wikipedia.org/wiki/Matsya_Purana"
-    type: "wikipedia"
-  - name: "Wikipedia: Puranas"
-    url: "https://en.wikipedia.org/wiki/Puranas"
-    type: "wikipedia"
-  - name: "Wikipedia: Matsya"
-    url: "https://en.wikipedia.org/wiki/Matsya"
-    type: "wikipedia"
-  - name: "Wikipedia: Hindu temple architecture"
-    url: "https://en.wikipedia.org/wiki/Hindu_temple_architecture"
-    type: "wikipedia"
-  - name: "Open Library: Matsya Purana"
-    url: "https://openlibrary.org/search?q=Matsya+Purana+year+300+language+Sanskrit+Vyasa+attributed"
-    type: "other"
+  - name: 'Wikipedia: Matsya Purana'
+    url: 'https://en.wikipedia.org/wiki/Matsya_Purana'
+    type: wikipedia
+  - name: 'Wikipedia: Puranas'
+    url: 'https://en.wikipedia.org/wiki/Puranas'
+    type: wikipedia
+  - name: 'Wikipedia: Matsya'
+    url: 'https://en.wikipedia.org/wiki/Matsya'
+    type: wikipedia
+  - name: 'Wikipedia: Hindu temple architecture'
+    url: 'https://en.wikipedia.org/wiki/Hindu_temple_architecture'
+    type: wikipedia
+  - name: 'Open Library: Matsya Purana'
+    url: >-
+      https://openlibrary.org/search?q=Matsya+Purana+year+300+language+Sanskrit+Vyasa+attributed
+    type: other
 featured: false
-publishDate: 2025-11-02
-tags: ['classical-literature', 'religious', 'purana']
+publishDate: 2025-11-02T00:00:00.000Z
+tags:
+  - classical-literature
+  - religious
+  - purana
+---
+## Historical Context
+
+The Matsya Purana ranks among the earliest and most authoritative of the eighteen Mahapuranas, comprising approximately 14,000 verses across 291 chapters presenting encyclopedic coverage of Hindu mythology, temple architecture, sacred geography, and spiritual practice. Composed between 3rd-5th centuries CE with continuous revisions through the second millennium, this voluminous work derives its name from the Matsya (fish) avatar of Vishnu, who saves humanity from cosmic deluge in the text's foundational narrative. The Matsya Purana provides one of the earliest definitions of Puranic literature itself—'a history written with five characteristics' encompassing cosmogony, chronological cycles, genealogy, Manvantaras (cosmic eras), and royal dynasties. Despite its Vaishnavite naming, the text maintains theological balance between Vishnu, Shiva, and Shakti traditions, earning classification as a mixed or Tamas Purana. The text's remarkable scope extends beyond mythology into technical domains: twenty temple architectural styles using square-grid mandala principles, Vastu-shastra house design, multiple yoga systems, festival observances, governance principles, and construction techniques. Extensive mahatmya (glorification) sections function as medieval pilgrimage guides to Narmada river temples, Prayaga's Kumbh Mela, Varanasi sacred sites, and Goddess pilgrimage centers across India. The Matsya Purana's architectural guidelines profoundly influenced first-millennium temple construction across the subcontinent, establishing design principles—east-facing orientations, human-body-based proportions, 64-square mandalas for major structures—still evident in surviving monuments. M. Winternitz recognized it as 'one of the older works of Purana literature,' whose encyclopedic character preserves invaluable historical, technical, and spiritual knowledge spanning multiple centuries of composition and continuous cultural relevance.
+
 ---
 
 ## Composition History and Scholarly Dating

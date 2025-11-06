@@ -1,51 +1,62 @@
 ---
-title: 'Dnyaneshwari (Bhāvārtha Dīpikā)'
+title: Dnyaneshwari (Bhāvārtha Dīpikā)
 author:
-- Sant Dnyaneshwar
+  - Sant Dnyaneshwar
 year: 1290
 language:
-- Marathi
+  - Marathi
 genre:
-- Religious Literature
-- Philosophy
-- Devotional Poetry
-description: |
-  The Dnyaneshwari (Bhāvārtha Dīpikā) represents a pivotal scholarly and devotional text in medieval Marathi literature, composed in 1290 CE by Sant Dnyaneshwar during the late 13th-century Yadava period of Maharashtra. Written when the author was just sixteen years old, this profound commentary on the Bhagavad Gita revolutionized philosophical discourse by translating complex Sanskrit Vedantic concepts into accessible Marathi vernacular verse using the ovi metrical form. Synthesizing Advaita Vedanta's non-dualistic philosophy with passionate bhakti devotionalism, the text comprises 9,032 verses that critically interpret and elaborate upon Krishna's spiritual teachings to Arjuna. Dnyaneshwar's work emerged during a critical period of regional cultural transformation, when regional languages were challenging Sanskrit's scholarly monopoly and religious knowledge was becoming more democratically accessible. The text not only established Marathi as a sophisticated literary and philosophical language but also catalyzed the Varkari bhakti movement, which emphasized personal spiritual experience and egalitarian religious practice. By rendering philosophical abstractions in vivid, emotive language, Dnyaneshwar created a template for subsequent Marathi saint-poetry that bridged intellectual and emotional spiritual understanding. The Dnyaneshwari's enduring significance lies in its innovative hermeneutic approach, linguistic sophistication, and profound contribution to Maharashtra's spiritual-literary heritage, representing a landmark moment in India's vernacular philosophical and devotional traditions.
+  - Religious Literature
+  - Philosophy
+  - Devotional Poetry
+description: >-
+  The Dnyaneshwari (Bhāvārtha Dīpikā) represents a pivotal scholarly and
+  devotional text in medieval Marathi literature, composed in 1290 CE by Sant
+  Dnyaneshwar during the late 13th-century Yadava period of Maharashtra. Written
+  when the author was just sixteen years old, this profound commentary on the
+  Bhagavad Gita revolutionized philosophical discourse by translating complex
+  Sanskrit Vedantic concepts into accessible Marathi vernacular verse using the
+  ovi metrical form.
 collections:
-- religious-texts
-- classical-literature
-- devotional-poetry
+  - religious-texts
+  - classical-literature
+  - devotional-poetry
 sources:
-- name: 'Internet Archive (Complete Marathi Edition)'
-  url: https://archive.org/details/dnyaneshwari-marathi-complete
-  type: other
-- name: 'Internet Archive (English Translation)'
-  url: https://archive.org/details/in.ernet.dli.2015.458906
-  type: other
-- name: 'Internet Archive (DLI Collection)'
-  url: https://archive.org/details/dli.bengal.10689.14587
-  type: other
-- name: 'Internet Archive (Scholarly Edition)'
-  url: https://archive.org/details/in.ernet.dli.2015.547339
-  type: other
+  - name: Internet Archive (Complete Marathi Edition)
+    url: 'https://archive.org/details/dnyaneshwari-marathi-complete'
+    type: other
+  - name: Internet Archive (English Translation)
+    url: 'https://archive.org/details/in.ernet.dli.2015.458906'
+    type: other
+  - name: Internet Archive (DLI Collection)
+    url: 'https://archive.org/details/dli.bengal.10689.14587'
+    type: other
+  - name: Internet Archive (Scholarly Edition)
+    url: 'https://archive.org/details/in.ernet.dli.2015.547339'
+    type: other
 references:
-- name: 'Wikipedia: Dnyaneshwar'
-  url: https://en.wikipedia.org/wiki/Dnyaneshwar
-  type: wikipedia
-- name: 'Wikipedia: Dnyaneshwari'
-  url: https://en.wikipedia.org/wiki/Dnyaneshwari
-  type: wikipedia
-- name: 'Wikipedia: Varkari'
-  url: https://en.wikipedia.org/wiki/Varkari
-  type: wikipedia
-- name: 'Marathi Wikisource'
-  url: https://mr.wikisource.org/wiki/ज्ञानेश्वरी
-  type: wikisource
-- name: 'OpenLibrary'
-  url: https://openlibrary.org/search?q=Dnyaneshwari+Jnaneshwari
-  type: other
+  - name: 'Wikipedia: Dnyaneshwar'
+    url: 'https://en.wikipedia.org/wiki/Dnyaneshwar'
+    type: wikipedia
+  - name: 'Wikipedia: Dnyaneshwari'
+    url: 'https://en.wikipedia.org/wiki/Dnyaneshwari'
+    type: wikipedia
+  - name: 'Wikipedia: Varkari'
+    url: 'https://en.wikipedia.org/wiki/Varkari'
+    type: wikipedia
+  - name: Marathi Wikisource
+    url: 'https://mr.wikisource.org/wiki/ज्ञानेश्वरी'
+    type: wikisource
+  - name: OpenLibrary
+    url: 'https://openlibrary.org/search?q=Dnyaneshwari+Jnaneshwari'
+    type: other
 featured: false
-publishDate: 2025-01-25
+publishDate: 2025-01-25T00:00:00.000Z
+---
+## Historical Context
+
+The Dnyaneshwari (Bhāvārtha Dīpikā) represents a pivotal scholarly and devotional text in medieval Marathi literature, composed in 1290 CE by Sant Dnyaneshwar during the late 13th-century Yadava period of Maharashtra. Written when the author was just sixteen years old, this profound commentary on the Bhagavad Gita revolutionized philosophical discourse by translating complex Sanskrit Vedantic concepts into accessible Marathi vernacular verse using the ovi metrical form. Synthesizing Advaita Vedanta's non-dualistic philosophy with passionate bhakti devotionalism, the text comprises 9,032 verses that critically interpret and elaborate upon Krishna's spiritual teachings to Arjuna. Dnyaneshwar's work emerged during a critical period of regional cultural transformation, when regional languages were challenging Sanskrit's scholarly monopoly and religious knowledge was becoming more democratically accessible. The text not only established Marathi as a sophisticated literary and philosophical language but also catalyzed the Varkari bhakti movement, which emphasized personal spiritual experience and egalitarian religious practice. By rendering philosophical abstractions in vivid, emotive language, Dnyaneshwar created a template for subsequent Marathi saint-poetry that bridged intellectual and emotional spiritual understanding. The Dnyaneshwari's enduring significance lies in its innovative hermeneutic approach, linguistic sophistication, and profound contribution to Maharashtra's spiritual-literary heritage, representing a landmark moment in India's vernacular philosophical and devotional traditions.
+
 ---
 
 # Dnyaneshwari (Bhāvārtha Dīpikā)

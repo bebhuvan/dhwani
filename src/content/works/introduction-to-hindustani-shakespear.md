@@ -1,38 +1,51 @@
 ---
-title: 'An Introduction to the Hindustani Language'
+title: An Introduction to the Hindustani Language
 author:
-- John Shakespear
+  - John Shakespear
 year: 1845
 language:
-- English
-- Hindustani
+  - English
+  - Hindustani
 genre:
-- Language Learning
-- Grammar
-- Reference
-description: |
-  Published in 1845 during the pivotal mid-19th century period of British colonial administration in India, John Shakespear's "An Introduction to the Hindustani Language" represents a significant scholarly intervention in linguistic documentation and cross-cultural communication. As a British colonial administrator and linguist serving in the East India Company, Shakespear produced a comprehensive linguistic resource that simultaneously reflected colonial administrative needs and contributed to scholarly understanding of Hindustani language structures. The work emerged during a critical period of linguistic exchange, when British colonial officials were systematically documenting and standardizing Indian languages to facilitate governance and cultural interpretation. Shakespear's text offers a meticulously crafted grammatical framework, including detailed instructional sections on syntax, morphology, and lexical usage, with bilingual vocabulary entries spanning Persian and Nagari script variations. Beyond its immediate administrative utility, the work provides nuanced insights into the linguistic complexities of Hindustani, capturing the rich syntactical and lexical diversity of the language during a transformative historical moment. The text includes innovative elements such as military terminology, dialogues, and short narrative passages that illuminate contemporary linguistic practices and cultural interactions. For contemporary scholars of Indian linguistic heritage, the work serves as a critical historical document, offering a detailed lens into language documentation practices, colonial linguistic epistemologies, and the complex communicative landscapes of 19th-century South Asia. Shakespear's systematic approach and comprehensive documentation make this work an important scholarly resource for understanding language evolution, colonial linguistic encounters, and the intricate processes of cultural translation during a pivotal period of Indian colonial history.
+  - Language Learning
+  - Grammar
+  - Reference
+description: >-
+  Published in 1845 during the pivotal mid-19th century period of British
+  colonial administration in India, John Shakespear's "An Introduction to the
+  Hindustani Language" represents a significant scholarly intervention in
+  linguistic documentation and cross-cultural communication. As a British
+  colonial administrator and linguist serving in the East India Company,
+  Shakespear produced a comprehensive linguistic resource that simultaneously
+  reflected colonial administrative needs and contributed to scholarly
+  understanding of Hindustani language structures.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/introductiontohi00shakrich
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/introductiontohi00shakrich'
+    type: other
 references:
-- name: 'Wikipedia: John Shakespear'
-  url: https://en.wikipedia.org/wiki/John_Shakespear
-  type: wikipedia
-- name: 'Wikipedia: Hindustani language'
-  url: https://en.wikipedia.org/wiki/Hindustani_language
-  type: wikipedia
-- name: 'OpenLibrary Search'
-  url: https://openlibrary.org/search?q=Introduction+to+the+Hindustani+Language+John+Shakespear
-  type: other
-- name: 'Wikidata: John Shakespear'
-  url: https://www.wikidata.org/wiki/Q18810952
-  type: other
+  - name: 'Wikipedia: John Shakespear'
+    url: 'https://en.wikipedia.org/wiki/John_Shakespear'
+    type: wikipedia
+  - name: 'Wikipedia: Hindustani language'
+    url: 'https://en.wikipedia.org/wiki/Hindustani_language'
+    type: wikipedia
+  - name: OpenLibrary Search
+    url: >-
+      https://openlibrary.org/search?q=Introduction+to+the+Hindustani+Language+John+Shakespear
+    type: other
+  - name: 'Wikidata: John Shakespear'
+    url: 'https://www.wikidata.org/wiki/Q18810952'
+    type: other
 featured: false
-publishDate: 2025-01-22
+publishDate: 2025-01-22T00:00:00.000Z
+---
+## Historical Context
+
+Published in 1845 during the pivotal mid-19th century period of British colonial administration in India, John Shakespear's "An Introduction to the Hindustani Language" represents a significant scholarly intervention in linguistic documentation and cross-cultural communication. As a British colonial administrator and linguist serving in the East India Company, Shakespear produced a comprehensive linguistic resource that simultaneously reflected colonial administrative needs and contributed to scholarly understanding of Hindustani language structures. The work emerged during a critical period of linguistic exchange, when British colonial officials were systematically documenting and standardizing Indian languages to facilitate governance and cultural interpretation. Shakespear's text offers a meticulously crafted grammatical framework, including detailed instructional sections on syntax, morphology, and lexical usage, with bilingual vocabulary entries spanning Persian and Nagari script variations. Beyond its immediate administrative utility, the work provides nuanced insights into the linguistic complexities of Hindustani, capturing the rich syntactical and lexical diversity of the language during a transformative historical moment. The text includes innovative elements such as military terminology, dialogues, and short narrative passages that illuminate contemporary linguistic practices and cultural interactions. For contemporary scholars of Indian linguistic heritage, the work serves as a critical historical document, offering a detailed lens into language documentation practices, colonial linguistic epistemologies, and the complex communicative landscapes of 19th-century South Asia. Shakespear's systematic approach and comprehensive documentation make this work an important scholarly resource for understanding language evolution, colonial linguistic encounters, and the intricate processes of cultural translation during a pivotal period of Indian colonial history.
+
 ---
 
 # An Introduction to the Hindustani Language

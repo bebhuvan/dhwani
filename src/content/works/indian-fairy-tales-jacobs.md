@@ -1,38 +1,50 @@
 ---
-title: 'Indian Fairy Tales'
+title: Indian Fairy Tales
 author:
-- Joseph Jacobs
+  - Joseph Jacobs
 year: 1892
 language:
-- English
+  - English
 genre:
-- Folklore
-- Fairy Tales
-- Colonial Literature
-description: |
-  Joseph Jacobs' "Indian Fairy Tales" represents a seminal late-nineteenth-century scholarly compilation of traditional narrative traditions, critically situated within the complex intellectual landscape of British colonial anthropological and folkloric research. Published in 1892 during the height of colonial ethnographic documentation, the collection comprises 29 meticulously selected tales drawn from diverse Sanskrit, Pali, and regional oral storytelling traditions, carefully translated and annotated to render these narratives accessible to English-speaking audiences. Illustrated by John Dickson Batten, the collection reflects contemporary scholarly methodologies of cultural translation, positioning Indian narrative traditions as fundamental to understanding global folkloric interconnections. Jacobs, a prominent folklorist and cultural historian, approached the compilation with a comparative methodology, demonstrating how Indian narrative structures and motifs significantly influenced European storytelling traditions. The collection includes key narrative forms such as Jataka tales—Buddhist didactic narratives—alongside fairy tales, animal fables, and mythological accounts that reveal intricate philosophical and moral frameworks endemic to Indian cultural consciousness. Critically, the work serves as both a scholarly document and a mediating text, simultaneously preserving indigenous narrative traditions while presenting them through a colonial interpretive lens. The tales illuminate complex social structures, ethical principles, and cosmological understandings embedded in pre-colonial Indian intellectual traditions, offering scholarly and general readers profound insights into the narrative architectures of Indian cultural heritage. Jacobs' compilation remains a significant historical document, representing an important moment in cross-cultural scholarly engagement and comparative mythology studies.
+  - Folklore
+  - Fairy Tales
+  - Colonial Literature
+description: >-
+  Joseph Jacobs' "Indian Fairy Tales" represents a seminal
+  late-nineteenth-century scholarly compilation of traditional narrative
+  traditions, critically situated within the complex intellectual landscape of
+  British colonial anthropological and folkloric research. Published in 1892
+  during the height of colonial ethnographic documentation, the collection
+  comprises 29 meticulously selected tales drawn from diverse Sanskrit, Pali,
+  and regional oral storytelling traditions, carefully translated and annotated
+  to render these narratives accessible to English-speaking audiences.
 collections:
-- folklore
-- colonial-india
+  - folklore
+  - colonial-india
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/7128
-  type: other
-- name: 'Internet Archive'
-  url: https://archive.org/details/indianfairytales00jose
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/7128'
+    type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/indianfairytales00jose'
+    type: other
 references:
-- name: 'Wikipedia: Joseph Jacobs'
-  url: https://en.wikipedia.org/wiki/Joseph_Jacobs
-  type: wikipedia
-- name: 'Wikipedia: Jataka tales'
-  url: https://en.wikipedia.org/wiki/Jataka_tales
-  type: wikipedia
-- name: 'Wikipedia: Folklore'
-  url: https://en.wikipedia.org/wiki/Folklore
-  type: wikipedia
+  - name: 'Wikipedia: Joseph Jacobs'
+    url: 'https://en.wikipedia.org/wiki/Joseph_Jacobs'
+    type: wikipedia
+  - name: 'Wikipedia: Jataka tales'
+    url: 'https://en.wikipedia.org/wiki/Jataka_tales'
+    type: wikipedia
+  - name: 'Wikipedia: Folklore'
+    url: 'https://en.wikipedia.org/wiki/Folklore'
+    type: wikipedia
 featured: false
-publishDate: 2025-11-02
+publishDate: 2025-11-02T00:00:00.000Z
+---
+## Historical Context
+
+Joseph Jacobs' "Indian Fairy Tales" represents a seminal late-nineteenth-century scholarly compilation of traditional narrative traditions, critically situated within the complex intellectual landscape of British colonial anthropological and folkloric research. Published in 1892 during the height of colonial ethnographic documentation, the collection comprises 29 meticulously selected tales drawn from diverse Sanskrit, Pali, and regional oral storytelling traditions, carefully translated and annotated to render these narratives accessible to English-speaking audiences. Illustrated by John Dickson Batten, the collection reflects contemporary scholarly methodologies of cultural translation, positioning Indian narrative traditions as fundamental to understanding global folkloric interconnections. Jacobs, a prominent folklorist and cultural historian, approached the compilation with a comparative methodology, demonstrating how Indian narrative structures and motifs significantly influenced European storytelling traditions. The collection includes key narrative forms such as Jataka tales—Buddhist didactic narratives—alongside fairy tales, animal fables, and mythological accounts that reveal intricate philosophical and moral frameworks endemic to Indian cultural consciousness. Critically, the work serves as both a scholarly document and a mediating text, simultaneously preserving indigenous narrative traditions while presenting them through a colonial interpretive lens. The tales illuminate complex social structures, ethical principles, and cosmological understandings embedded in pre-colonial Indian intellectual traditions, offering scholarly and general readers profound insights into the narrative architectures of Indian cultural heritage. Jacobs' compilation remains a significant historical document, representing an important moment in cross-cultural scholarly engagement and comparative mythology studies.
+
 ---
 
 # Indian Fairy Tales

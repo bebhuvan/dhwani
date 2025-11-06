@@ -1,28 +1,35 @@
 ---
 title: 'The Dance of Siva: Fourteen Indian Essays'
 author:
-- Ananda K. Coomaraswamy
+  - Ananda K. Coomaraswamy
 year: 1918
 language:
-- English
+  - English
 genre:
-- Art History
-- Cultural Studies
-- Philosophy
-description: |
-  Published in 1918, *The Dance of Siva: Fourteen Indian Essays* represents a seminal scholarly intervention in Western understanding of Indian artistic and philosophical traditions during the late colonial period. Written by Ananda K. Coomaraswamy, a Ceylon-born scholar of Tamil and Indian descent trained in both Western art history and Eastern metaphysical traditions, the work critically examined Indian aesthetic theory, religious iconography, and cultural symbolism at a moment of profound intellectual exchange between Eastern and Western scholarly discourse. The collection of fourteen essays bridges multiple disciplines, offering nuanced interpretations of Indian art, mythology, and philosophical concepts that challenged prevailing Orientalist perspectives of the early 20th century. Coomaraswamy meticulously analyzed the spiritual and philosophical underpinnings of Indian artistic expression, with particular emphasis on classical Hindu and Buddhist aesthetic principles, iconographic representations, and the metaphysical significance of artistic creation. Central to the work is an exploration of divine symbolism, particularly the iconic image of Siva Nataraja—the cosmic dancer representing creation, preservation, and destruction—which Coomaraswamy used as a profound metaphor for understanding broader philosophical and aesthetic principles in Indian cultural heritage. By presenting sophisticated, scholarly translations of complex cultural concepts, the text became a groundbreaking resource for Western academics, museum professionals, and intellectuals seeking authentic comprehension of Indian artistic and philosophical traditions beyond colonial-era stereotypes. Coomaraswamy's rigorous scholarship established foundational methodological approaches for comparative cultural studies and significantly contributed to developing cross-cultural aesthetic understanding in early 20th-century humanities scholarship.
+  - Art History
+  - Cultural Studies
+  - Philosophy
+description: >-
+  Published in 1918, *The Dance of Siva: Fourteen Indian Essays* represents a
+  seminal scholarly intervention in Western understanding of Indian artistic and
+  philosophical traditions during the late colonial period. Written by Ananda K.
 collections:
-- spiritual-texts
+  - spiritual-texts
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/danceofsivafourt00coomiala
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/danceofsivafourt00coomiala'
+    type: other
 references:
-- name: 'Open Library: Dance of Siva'
-  url: https://openlibrary.org/search?q=Dance+of+Siva+Ananda+Coomaraswamy
-  type: other
+  - name: 'Open Library: Dance of Siva'
+    url: 'https://openlibrary.org/search?q=Dance+of+Siva+Ananda+Coomaraswamy'
+    type: other
 featured: true
-publishDate: 2025-10-02
+publishDate: 2025-10-02T00:00:00.000Z
+---
+## Historical Context
+
+Published in 1918, *The Dance of Siva: Fourteen Indian Essays* represents a seminal scholarly intervention in Western understanding of Indian artistic and philosophical traditions during the late colonial period. Written by Ananda K. Coomaraswamy, a Ceylon-born scholar of Tamil and Indian descent trained in both Western art history and Eastern metaphysical traditions, the work critically examined Indian aesthetic theory, religious iconography, and cultural symbolism at a moment of profound intellectual exchange between Eastern and Western scholarly discourse. The collection of fourteen essays bridges multiple disciplines, offering nuanced interpretations of Indian art, mythology, and philosophical concepts that challenged prevailing Orientalist perspectives of the early 20th century. Coomaraswamy meticulously analyzed the spiritual and philosophical underpinnings of Indian artistic expression, with particular emphasis on classical Hindu and Buddhist aesthetic principles, iconographic representations, and the metaphysical significance of artistic creation. Central to the work is an exploration of divine symbolism, particularly the iconic image of Siva Nataraja—the cosmic dancer representing creation, preservation, and destruction—which Coomaraswamy used as a profound metaphor for understanding broader philosophical and aesthetic principles in Indian cultural heritage. By presenting sophisticated, scholarly translations of complex cultural concepts, the text became a groundbreaking resource for Western academics, museum professionals, and intellectuals seeking authentic comprehension of Indian artistic and philosophical traditions beyond colonial-era stereotypes. Coomaraswamy's rigorous scholarship established foundational methodological approaches for comparative cultural studies and significantly contributed to developing cross-cultural aesthetic understanding in early 20th-century humanities scholarship.
+
 ---
 
 # The Dance of Siva: Fourteen Indian Essays

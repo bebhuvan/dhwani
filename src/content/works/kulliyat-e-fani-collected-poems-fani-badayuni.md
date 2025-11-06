@@ -1,40 +1,50 @@
 ---
-title: 'Kulliyat-e-Fani (Collected Poems)'
+title: Kulliyat-e-Fani (Collected Poems)
 author:
-- Fani Badayuni
+  - Fani Badayuni
 year: 1992
 language:
-- Urdu
+  - Urdu
 genre:
-- Poetry
-- Ghazal
-- Nazm
-description: |
-  The Kulliyat-e-Fani represents a pivotal collection of Urdu poetry embodying the literary and cultural transitions of early twentieth-century North Indian Muslim intellectual discourse. Compiled by Mirza Fazl Ali 'Fani' Badayuni (1879–1961), a distinguished poet from the Badayun region of Uttar Pradesh, the compilation integrates classical Urdu poetic traditions with emerging modernist sensibilities. The work predominantly features ghazals constructed with meticulous attention to classical radif-qafiya prosodic structures, reflecting the sophisticated poetic inheritance from Mirza Ghalib and contemporaneous Urdu literary masters. Beyond formal aesthetic achievements, the collection's nazms offer nuanced sociocultural commentaries, exploring ethical introspection, communal dynamics, and emerging nationalist sentiments during a critical period of colonial Indian transformation. Fani Badayuni's poetic voice emerges as a sophisticated mediator between traditional Persianate-Urdu poetic conventions and the emergent reformist intellectual currents of the early twentieth century. His poems critically engage with social reforms, religious interpretations, and the complex identity negotiations facing North Indian Muslim intellectuals during an era of significant political and cultural reconfiguration. The Kulliyat-e-Fani thus functions not merely as a literary artifact but as a profound textual representation of cultural memory, intellectual discourse, and aesthetic innovation within the rich tapestry of Urdu literary heritage. Scholars of South Asian literature, cultural studies, and postcolonial humanities recognize this work as an essential document illuminating the intricate linguistic, philosophical, and emotional landscapes of a transformative historical moment.
+  - Poetry
+  - Ghazal
+  - Nazm
+description: >-
+  The Kulliyat-e-Fani represents a pivotal collection of Urdu poetry embodying
+  the literary and cultural transitions of early twentieth-century North Indian
+  Muslim intellectual discourse. Compiled by Mirza Fazl Ali 'Fani' Badayuni
+  (1879–1961), a distinguished poet from the Badayun region of Uttar Pradesh,
+  the compilation integrates classical Urdu poetic traditions with emerging
+  modernist sensibilities.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/KulliyatEFani
-  type: other
-- name: 'Rekhta eBooks'
-  url: https://www.rekhta.org/ebooks/detail/kulliyat-e-fani-ebooks-2
-  type: other
-- name: 'Rekhta - Fani Badayuni Collection'
-  url: https://www.rekhta.org/Poets/fani-badayuni/ebooks
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/KulliyatEFani'
+    type: other
+  - name: Rekhta eBooks
+    url: 'https://www.rekhta.org/ebooks/detail/kulliyat-e-fani-ebooks-2'
+    type: other
+  - name: Rekhta - Fani Badayuni Collection
+    url: 'https://www.rekhta.org/Poets/fani-badayuni/ebooks'
+    type: other
 references:
-- name: 'Wikipedia: Fani Badayuni'
-  url: https://en.wikipedia.org/wiki/Fani_Badayuni
-  type: wikipedia
-- name: 'Open Library search'
-  url: https://openlibrary.org/search?q=Kulliyat-e-Fani%20Fani%20Badayuni
-  type: openlibrary
-- name: 'Project Gutenberg search'
-  url: https://www.gutenberg.org/ebooks/search/?query=Fani%20Badayuni
-  type: other
+  - name: 'Wikipedia: Fani Badayuni'
+    url: 'https://en.wikipedia.org/wiki/Fani_Badayuni'
+    type: wikipedia
+  - name: Open Library search
+    url: 'https://openlibrary.org/search?q=Kulliyat-e-Fani%20Fani%20Badayuni'
+    type: openlibrary
+  - name: Project Gutenberg search
+    url: 'https://www.gutenberg.org/ebooks/search/?query=Fani%20Badayuni'
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+The Kulliyat-e-Fani represents a pivotal collection of Urdu poetry embodying the literary and cultural transitions of early twentieth-century North Indian Muslim intellectual discourse. Compiled by Mirza Fazl Ali 'Fani' Badayuni (1879–1961), a distinguished poet from the Badayun region of Uttar Pradesh, the compilation integrates classical Urdu poetic traditions with emerging modernist sensibilities. The work predominantly features ghazals constructed with meticulous attention to classical radif-qafiya prosodic structures, reflecting the sophisticated poetic inheritance from Mirza Ghalib and contemporaneous Urdu literary masters. Beyond formal aesthetic achievements, the collection's nazms offer nuanced sociocultural commentaries, exploring ethical introspection, communal dynamics, and emerging nationalist sentiments during a critical period of colonial Indian transformation. Fani Badayuni's poetic voice emerges as a sophisticated mediator between traditional Persianate-Urdu poetic conventions and the emergent reformist intellectual currents of the early twentieth century. His poems critically engage with social reforms, religious interpretations, and the complex identity negotiations facing North Indian Muslim intellectuals during an era of significant political and cultural reconfiguration. The Kulliyat-e-Fani thus functions not merely as a literary artifact but as a profound textual representation of cultural memory, intellectual discourse, and aesthetic innovation within the rich tapestry of Urdu literary heritage. Scholars of South Asian literature, cultural studies, and postcolonial humanities recognize this work as an essential document illuminating the intricate linguistic, philosophical, and emotional landscapes of a transformative historical moment.
+
 ---
 
 # Kulliyat-e-Fani (Collected Poems)

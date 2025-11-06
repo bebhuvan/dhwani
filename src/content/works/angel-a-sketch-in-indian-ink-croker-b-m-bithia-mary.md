@@ -1,37 +1,48 @@
 ---
 title: 'Angel: A sketch in Indian ink'
 author:
-- Croker, B. M. (Bithia Mary)
+  - 'Croker, B. M. (Bithia Mary)'
 year: 1905
 language:
-- English
+  - English
 genre:
-- Fiction
-- Historical Literature
-description: |
-  "Angel: A sketch in Indian ink" represents a significant literary artifact from the early 20th-century Anglo-Indian literary tradition, authored by Bithia Mary Croker in 1905 during the late colonial period in India. As a prominent British woman writer who extensively documented colonial experiences, Croker produced nuanced narratives exploring cultural intersections between British colonial society and indigenous Indian contexts. This particular work exemplifies the complex narrative strategies employed by European writers engaging with Indian social landscapes, reflecting the intricate power dynamics and cultural perceptions of the imperial era. The text likely examines interpersonal relationships, social hierarchies, and cross-cultural encounters characteristic of the colonial administrative and social milieu, providing critical insights into the psychological and sociological dimensions of British imperial presence in India. Croker's writing demonstrates sophisticated narrative techniques that simultaneously critique and reproduce colonial perspectives, making her work valuable for postcolonial literary studies and historical analysis. Her representation of Indian characters, social structures, and cultural contexts offers scholars a sophisticated textual resource for understanding European literary representations of colonial India. The work's historical significance extends beyond mere narrative, serving as a critical document illuminating the intellectual and cultural negotiations occurring during a transformative period of Indo-British interactions. By presenting a nuanced portrayal of colonial social dynamics through a literary lens, "Angel: A sketch in Indian ink" contributes substantially to understanding the complex textual productions emerging from India's colonial experience, making it an important text for scholars of imperial literature, cultural studies, and transnational literary histories.
+  - Fiction
+  - Historical Literature
+description: >-
+  "Angel: A sketch in Indian ink" represents a significant literary artifact
+  from the early 20th-century Anglo-Indian literary tradition, authored by
+  Bithia Mary Croker in 1905 during the late colonial period in India. As a
+  prominent British woman writer who extensively documented colonial
+  experiences, Croker produced nuanced narratives exploring cultural
+  intersections between British colonial society and indigenous Indian contexts.
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/68996
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/68996.html.images
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/68996'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/68996.html.images'
+    type: other
 references:
-- name: 'Wikipedia: Angel'
-  url: https://en.wikipedia.org/wiki/Angel
-  type: other
-- name: 'Wikipedia: Croker'
-  url: https://en.wikipedia.org/wiki/Croker
-  type: other
-- name: 'Open Library: Angel: A sketch in Indian ink'
-  url: https://openlibrary.org/search?q=Angel%3A%20A%20sketch%20in%20Indian%20ink%20Croker%2C%20B.%20M.%20%28Bithia%20Mary%29
-  type: other
-- name: 'Open Library: Angel A Sketch in Indian Ink'
-  url: https://openlibrary.org/search?q=Angel+Sketch+Indian+Ink+Croker
-  type: other
+  - name: 'Wikipedia: Angel'
+    url: 'https://en.wikipedia.org/wiki/Angel'
+    type: other
+  - name: 'Wikipedia: Croker'
+    url: 'https://en.wikipedia.org/wiki/Croker'
+    type: other
+  - name: 'Open Library: Angel: A sketch in Indian ink'
+    url: >-
+      https://openlibrary.org/search?q=Angel%3A%20A%20sketch%20in%20Indian%20ink%20Croker%2C%20B.%20M.%20%28Bithia%20Mary%29
+    type: other
+  - name: 'Open Library: Angel A Sketch in Indian Ink'
+    url: 'https://openlibrary.org/search?q=Angel+Sketch+Indian+Ink+Croker'
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+"Angel: A sketch in Indian ink" represents a significant literary artifact from the early 20th-century Anglo-Indian literary tradition, authored by Bithia Mary Croker in 1905 during the late colonial period in India. As a prominent British woman writer who extensively documented colonial experiences, Croker produced nuanced narratives exploring cultural intersections between British colonial society and indigenous Indian contexts. This particular work exemplifies the complex narrative strategies employed by European writers engaging with Indian social landscapes, reflecting the intricate power dynamics and cultural perceptions of the imperial era. The text likely examines interpersonal relationships, social hierarchies, and cross-cultural encounters characteristic of the colonial administrative and social milieu, providing critical insights into the psychological and sociological dimensions of British imperial presence in India. Croker's writing demonstrates sophisticated narrative techniques that simultaneously critique and reproduce colonial perspectives, making her work valuable for postcolonial literary studies and historical analysis. Her representation of Indian characters, social structures, and cultural contexts offers scholars a sophisticated textual resource for understanding European literary representations of colonial India. The work's historical significance extends beyond mere narrative, serving as a critical document illuminating the intellectual and cultural negotiations occurring during a transformative period of Indo-British interactions. By presenting a nuanced portrayal of colonial social dynamics through a literary lens, "Angel: A sketch in Indian ink" contributes substantially to understanding the complex textual productions emerging from India's colonial experience, making it an important text for scholars of imperial literature, cultural studies, and transnational literary histories.
+
 ---
 
 # Angel: A Sketch in Indian Ink

@@ -1,36 +1,48 @@
 ---
 title: 'Vikram and the Vampire; or, Tales of Hindu Devilry'
 author:
-- Richard Francis Burton
+  - Richard Francis Burton
 year: 1870
 language:
-- English
-- Sanskrit
+  - English
+  - Sanskrit
 genre:
-- Folklore
-- Frame Narrative
-- Translation
-description: |
-  Sir Richard Francis Burton's 1870 translation of *Vikram and the Vampire* represents a crucial scholarly intervention in late 19th-century comparative literature and cultural translation, presenting a nuanced exploration of Indian folkloric narrative traditions through the frame of the *Baital Pachisi* (Twenty-Five Tales of a Vampire). This work emerges during a complex period of colonial intellectual exchange, when British Oriental scholars were systematically documenting and interpreting indigenous narrative structures. Burton, renowned for his linguistic expertise and anthropological sensitivities, produced a translation that goes beyond mere linguistic transposition, offering Victorian English readers a sophisticated window into the sophisticated narrative techniques of classical Indian storytelling. The text centers on King Vikramaditya's supernatural encounters with a witty, shape-shifting vampire-like being (*vetala*), who challenges the king through a series of intricate moral and philosophical parables. These embedded narratives illuminate complex social dynamics, ethical dilemmas, and philosophical contemplations characteristic of Sanskrit literary traditions. Burton's meticulous translation preserves the original's narrative complexity, demonstrating the intricate storytelling mechanisms of Indian literary heritage. More than a mere linguistic exercise, the work represents a significant scholarly bridge between Indian narrative traditions and Western academic discourse, revealing the profound narrative sophistication of Sanskrit literary culture. By rendering these tales accessible to a broader scholarly audience, Burton contributed significantly to cross-cultural understanding and comparative literary studies, challenging contemporary Orientalist perspectives through a nuanced, respectful translation that highlighted the intellectual depth of Indian folklore.
+  - Folklore
+  - Frame Narrative
+  - Translation
+description: >-
+  Sir Richard Francis Burton's 1870 translation of *Vikram and the Vampire*
+  represents a crucial scholarly intervention in late 19th-century comparative
+  literature and cultural translation, presenting a nuanced exploration of
+  Indian folkloric narrative traditions through the frame of the *Baital
+  Pachisi* (Twenty-Five Tales of a Vampire). This work emerges during a complex
+  period of colonial intellectual exchange, when British Oriental scholars were
+  systematically documenting and interpreting indigenous narrative structures.
 collections:
-- classical-literature
-- regional-voices
+  - classical-literature
+  - regional-voices
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/48511
-  type: other
-- name: 'Internet Archive'
-  url: https://archive.org/details/vikramvampireort00burtrich
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/48511'
+    type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/vikramvampireort00burtrich'
+    type: other
 references:
-- name: 'Wikipedia: Richard Francis Burton'
-  url: https://en.wikipedia.org/wiki/Richard_Francis_Burton
-  type: wikipedia
-- name: 'Open Library: Vikram and the Vampire'
-  url: https://openlibrary.org/works/OL7989179W/Vikram_and_the_Vampire?edition=key%3A/books/OL51733513M
-  type: other
+  - name: 'Wikipedia: Richard Francis Burton'
+    url: 'https://en.wikipedia.org/wiki/Richard_Francis_Burton'
+    type: wikipedia
+  - name: 'Open Library: Vikram and the Vampire'
+    url: >-
+      https://openlibrary.org/works/OL7989179W/Vikram_and_the_Vampire?edition=key%3A/books/OL51733513M
+    type: other
 featured: true
-publishDate: 2025-10-04
+publishDate: 2025-10-04T00:00:00.000Z
+---
+## Historical Context
+
+Sir Richard Francis Burton's 1870 translation of *Vikram and the Vampire* represents a crucial scholarly intervention in late 19th-century comparative literature and cultural translation, presenting a nuanced exploration of Indian folkloric narrative traditions through the frame of the *Baital Pachisi* (Twenty-Five Tales of a Vampire). This work emerges during a complex period of colonial intellectual exchange, when British Oriental scholars were systematically documenting and interpreting indigenous narrative structures. Burton, renowned for his linguistic expertise and anthropological sensitivities, produced a translation that goes beyond mere linguistic transposition, offering Victorian English readers a sophisticated window into the sophisticated narrative techniques of classical Indian storytelling. The text centers on King Vikramaditya's supernatural encounters with a witty, shape-shifting vampire-like being (*vetala*), who challenges the king through a series of intricate moral and philosophical parables. These embedded narratives illuminate complex social dynamics, ethical dilemmas, and philosophical contemplations characteristic of Sanskrit literary traditions. Burton's meticulous translation preserves the original's narrative complexity, demonstrating the intricate storytelling mechanisms of Indian literary heritage. More than a mere linguistic exercise, the work represents a significant scholarly bridge between Indian narrative traditions and Western academic discourse, revealing the profound narrative sophistication of Sanskrit literary culture. By rendering these tales accessible to a broader scholarly audience, Burton contributed significantly to cross-cultural understanding and comparative literary studies, challenging contemporary Orientalist perspectives through a nuanced, respectful translation that highlighted the intellectual depth of Indian folklore.
+
 ---
 
 # Vikram and the Vampire; or, Tales of Hindu Devilry

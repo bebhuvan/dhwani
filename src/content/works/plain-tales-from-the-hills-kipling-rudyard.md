@@ -1,78 +1,78 @@
 ---
 title: Plain Tales from the Hills
 author:
-- Kipling, Rudyard
+  - 'Kipling, Rudyard'
 year: 1888
 language:
-- English
+  - English
 genre:
-- Fiction
-- Short Stories
-- Colonial Literature
-description: Rudyard Kipling's first published book, 'Plain Tales from the Hills'
-  (1888), collects forty short stories originally written for the 'Civil and Military
-  Gazette' of Lahore, offering sharply observed, often sardonic sketches of Anglo-Indian
-  society in the hill station of Simla (now Shimla), the summer capital of the British
-  Raj, where colonial officials, military officers, and their wives retreated from
-  the plains' heat to conduct flirtations, advance careers, and navigate the rigid
-  social hierarchies of imperial life. Written when Kipling was barely twenty-one,
-  these compressed narratives—written under severe space constraints for newspaper
-  publication—demonstrate his precocious mastery of the short story form through cynical
-  tales of adultery, social climbing, cross-cultural misunderstanding, and the moral
-  compromises of colonial existence, establishing themes and techniques that would
-  define his later work while revealing both his intimate knowledge of Anglo-Indian
-  life and his complex, often contradictory attitudes toward empire, race, and cultural
-  difference.
+  - Fiction
+  - Short Stories
+  - Colonial Literature
+description: >-
+  Rudyard Kipling's first published book, 'Plain Tales from the Hills' (1888),
+  collects forty short stories originally written for the 'Civil and Military
+  Gazette' of Lahore, offering sharply observed, often sardonic sketches of
+  Anglo-Indian society in the hill station of Simla (now Shimla), the summer
+  capital of the British Raj, where colonial officials, military officers, and
+  their wives retreated from the plains' heat to conduct flirtations, advance
+  careers, and navigate the rigid social hierarchies of imperial life.
 collections:
-- classical-literature
-- modern-literature
-- classical-literature
-- classical-literature
+  - classical-literature
+  - modern-literature
+  - classical-literature
+  - classical-literature
 sources:
-- name: Project Gutenberg
-  url: https://www.gutenberg.org/ebooks/1858
-  type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/1858.html.images
-  type: other
-- name: Internet Archive (Plain Tales from the Hills)
-  url: https://archive.org/details/dli.ministry.18638
-  type: other
-- name: Internet Archive (Alternative Edition)
-  url: https://archive.org/details/plaintalesfromhi00kipl_3
-  type: other
-- name: Internet Archive - Plain Tales from the Hills (1888)
-  url: https://archive.org/details/plaintalesfromhi00kipl
-  type: other
-- name: Internet Archive - Plain Tales (First Edition)
-  url: https://archive.org/details/plaintalesfromhi00kipliala
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/1858'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/1858.html.images'
+    type: other
+  - name: Internet Archive (Plain Tales from the Hills)
+    url: 'https://archive.org/details/dli.ministry.18638'
+    type: other
+  - name: Internet Archive (Alternative Edition)
+    url: 'https://archive.org/details/plaintalesfromhi00kipl_3'
+    type: other
+  - name: Internet Archive - Plain Tales from the Hills (1888)
+    url: 'https://archive.org/details/plaintalesfromhi00kipl'
+    type: other
+  - name: Internet Archive - Plain Tales (First Edition)
+    url: 'https://archive.org/details/plaintalesfromhi00kipliala'
+    type: other
 references:
-- name: 'Wikisource: Plain Tales From The Hills Kipling Rudyard'
-  url: https://en.wikisource.org/wiki/Plain_Tales_from_the_Hills
-  type: other
-- name: 'Wikipedia: Plain Tales from the Hills'
-  url: https://en.wikipedia.org/wiki/Plain_Tales_from_the_Hills
-  type: other
-- name: 'Wikipedia: Rudyard Kipling'
-  url: https://en.wikipedia.org/wiki/Rudyard_Kipling
-  type: other
-- name: 'Wikipedia: Simla'
-  url: https://en.wikipedia.org/wiki/Shimla
-  type: other
-- name: 'Open Library: Plain Tales from the Hills'
-  url: https://openlibrary.org/search?q=Plain%20Tales%20from%20the%20Hills%20Kipling
-  type: other
+  - name: 'Wikisource: Plain Tales From The Hills Kipling Rudyard'
+    url: 'https://en.wikisource.org/wiki/Plain_Tales_from_the_Hills'
+    type: other
+  - name: 'Wikipedia: Plain Tales from the Hills'
+    url: 'https://en.wikipedia.org/wiki/Plain_Tales_from_the_Hills'
+    type: other
+  - name: 'Wikipedia: Rudyard Kipling'
+    url: 'https://en.wikipedia.org/wiki/Rudyard_Kipling'
+    type: other
+  - name: 'Wikipedia: Simla'
+    url: 'https://en.wikipedia.org/wiki/Shimla'
+    type: other
+  - name: 'Open Library: Plain Tales from the Hills'
+    url: >-
+      https://openlibrary.org/search?q=Plain%20Tales%20from%20the%20Hills%20Kipling
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
 tags:
-- public domain
-- British -- India -- Fiction
-- India -- History -- British occupation, 1765-1947 -- Fiction
-- Anglo-Indian society
-- Simla fiction
-- Short story collection
-- Colonial social satire
+  - public domain
+  - British -- India -- Fiction
+  - 'India -- History -- British occupation, 1765-1947 -- Fiction'
+  - Anglo-Indian society
+  - Simla fiction
+  - Short story collection
+  - Colonial social satire
+---
+## Historical Context
+
+Rudyard Kipling's first published book, 'Plain Tales from the Hills' (1888), collects forty short stories originally written for the 'Civil and Military Gazette' of Lahore, offering sharply observed, often sardonic sketches of Anglo-Indian society in the hill station of Simla (now Shimla), the summer capital of the British Raj, where colonial officials, military officers, and their wives retreated from the plains' heat to conduct flirtations, advance careers, and navigate the rigid social hierarchies of imperial life. Written when Kipling was barely twenty-one, these compressed narratives—written under severe space constraints for newspaper publication—demonstrate his precocious mastery of the short story form through cynical tales of adultery, social climbing, cross-cultural misunderstanding, and the moral compromises of colonial existence, establishing themes and techniques that would define his later work while revealing both his intimate knowledge of Anglo-Indian life and his complex, often contradictory attitudes toward empire, race, and cultural difference.
+
 ---
 
 # Plain Tales from the Hills

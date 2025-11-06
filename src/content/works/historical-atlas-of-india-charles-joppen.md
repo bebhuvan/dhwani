@@ -1,31 +1,46 @@
 ---
-title: 'Historical Atlas of India'
+title: Historical Atlas of India
 author:
-- Charles Joppen
+  - Charles Joppen
 year: 1907
 language:
-- English
+  - English
 genre:
-- Historical Literature
-- Travel Literature
-description: |
-  The Historical Atlas of India by Charles Joppen represents a significant cartographic and scholarly work produced during the late British colonial period, offering a comprehensive geographical and historical documentation of the Indian subcontinent at the beginning of the 20th century. Published in two editions (1907 and 1914), the atlas emerged during a critical transitional period of Indian history, characterized by growing nationalist movements and increasing scholarly interest in documenting the region's complex territorial transformations. Joppen's work meticulously charts the geographical, political, and administrative boundaries of British India, providing detailed maps that capture the intricate regional configurations across different historical periods, from ancient kingdoms to contemporary colonial administrative divisions. The atlas is particularly valuable for its nuanced representation of regional diversities, tribal territories, and complex administrative boundaries that existed during the late colonial era. While created from a colonial administrative perspective, the work simultaneously offers critical insights into the complex spatial and political landscape of the Indian subcontinent during a period of significant socio-political upheaval. Scholars of Indian history, cartography, and colonial studies find the atlas an essential primary source for understanding territorial configurations, administrative structures, and the geopolitical complexities of pre-independence India. Its comprehensive mapping techniques and detailed geographical annotations make it an important scholarly resource for understanding the spatial dynamics of the Indian subcontinent during a transformative historical moment. The atlas not only serves as a historical document but also provides contemporary researchers with a sophisticated cartographic representation of India's complex regional and administrative heritage during the twilight of British colonial rule.
+  - Historical Literature
+  - Travel Literature
+description: >-
+  The Historical Atlas of India by Charles Joppen represents a significant
+  cartographic and scholarly work produced during the late British colonial
+  period, offering a comprehensive geographical and historical documentation of
+  the Indian subcontinent at the beginning of the 20th century. Published in two
+  editions (1907 and 1914), the atlas emerged during a critical transitional
+  period of Indian history, characterized by growing nationalist movements and
+  increasing scholarly interest in documenting the region's complex territorial
+  transformations.
 collections:
-- regional-voices
-- modern-literature
+  - regional-voices
+  - modern-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/historicalatlaso00jopprich; https://archive.org/details/cu31924022983567
-  type: other
+  - name: Internet Archive
+    url: >-
+      https://archive.org/details/historicalatlaso00jopprich;
+      https://archive.org/details/cu31924022983567
+    type: other
 references:
-- name: 'Wikipedia: Historical atlas'
-  url: https://en.wikipedia.org/wiki/Historical_atlas
-  type: wikipedia
-- name: 'Open Library: Historical Atlas of India year'
-  url: https://openlibrary.org/search?q=Historical+Atlas+of+India+year+1907+Charles+Joppen
-  type: other
+  - name: 'Wikipedia: Historical atlas'
+    url: 'https://en.wikipedia.org/wiki/Historical_atlas'
+    type: wikipedia
+  - name: 'Open Library: Historical Atlas of India year'
+    url: >-
+      https://openlibrary.org/search?q=Historical+Atlas+of+India+year+1907+Charles+Joppen
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+The Historical Atlas of India by Charles Joppen represents a significant cartographic and scholarly work produced during the late British colonial period, offering a comprehensive geographical and historical documentation of the Indian subcontinent at the beginning of the 20th century. Published in two editions (1907 and 1914), the atlas emerged during a critical transitional period of Indian history, characterized by growing nationalist movements and increasing scholarly interest in documenting the region's complex territorial transformations. Joppen's work meticulously charts the geographical, political, and administrative boundaries of British India, providing detailed maps that capture the intricate regional configurations across different historical periods, from ancient kingdoms to contemporary colonial administrative divisions. The atlas is particularly valuable for its nuanced representation of regional diversities, tribal territories, and complex administrative boundaries that existed during the late colonial era. While created from a colonial administrative perspective, the work simultaneously offers critical insights into the complex spatial and political landscape of the Indian subcontinent during a period of significant socio-political upheaval. Scholars of Indian history, cartography, and colonial studies find the atlas an essential primary source for understanding territorial configurations, administrative structures, and the geopolitical complexities of pre-independence India. Its comprehensive mapping techniques and detailed geographical annotations make it an important scholarly resource for understanding the spatial dynamics of the Indian subcontinent during a transformative historical moment. The atlas not only serves as a historical document but also provides contemporary researchers with a sophisticated cartographic representation of India's complex regional and administrative heritage during the twilight of British colonial rule.
+
 ---
 
 ## Historical Atlas of India by Charles Joppen

@@ -1,56 +1,67 @@
 ---
-title: 'Ramayana'
+title: Ramayana
 author:
-- Valmiki
+  - Valmiki
 year: -400
 language:
-- Sanskrit
-- English
+  - Sanskrit
+  - English
 genre:
-- Epic Poetry
-- Religious Literature
-- Classical Literature
-description: |
-  Valmiki's Ramayana represents the seminal Sanskrit epic that fundamentally shaped classical Indian literary, philosophical, and cultural discourse, emerging during the transitional period between the Vedic and Classical Sanskrit eras (circa 7th-5th centuries BCE). Traditionally attributed to the sage Valmiki, considered the "first poet" (adi-kavi), the text comprises approximately 24,000 verses across seven narrative sections (kandas), chronicling the life, exile, and heroic journey of Prince Rama of Ayodhya. Beyond its narrative complexity, the epic articulates sophisticated philosophical principles of dharma (ethical and cosmic order), ideal kingship, familial duty, and individual moral responsibility. The work innovatively introduced the shloka metrical form and established narrative techniques that profoundly influenced subsequent literary traditions across Hindu, Buddhist, and Jain textual landscapes. Its core narrative—depicting Rama's righteous struggle against the demon-king Ravana, punctuated by his wife Sita's abduction and eventual rescue—transcends mere mythological recounting, serving as a profound allegorical exploration of human ethical challenges, divine intervention, and societal ideals. The Ramayana's intellectual and cultural significance extends far beyond its original Sanskrit composition, having been translated, reinterpreted, and performed across multiple languages and performance traditions throughout South and Southeast Asia. Its characters—particularly Rama, Sita, Hanuman, and Ravana—have become archetypes embodying complex moral and social principles, continuously reinterpreted through centuries of artistic, philosophical, and performative traditions, thereby maintaining its dynamic relevance in Indian intellectual and cultural consciousness.
+  - Epic Poetry
+  - Religious Literature
+  - Classical Literature
+description: >-
+  Valmiki's Ramayana represents the seminal Sanskrit epic that fundamentally
+  shaped classical Indian literary, philosophical, and cultural discourse,
+  emerging during the transitional period between the Vedic and Classical
+  Sanskrit eras (circa 7th-5th centuries BCE). Traditionally attributed to the
+  sage Valmiki, considered the "first poet" (adi-kavi), the text comprises
+  approximately 24,000 verses across seven narrative sections (kandas),
+  chronicling the life, exile, and heroic journey of Prince Rama of Ayodhya.
 collections:
-- classical-literature
-- epic-poetry
-- devotional-literature
-- religious-texts
+  - classical-literature
+  - epic-poetry
+  - devotional-literature
+  - religious-texts
 sources:
-- name: 'Internet Archive - Critical Edition (Baroda Oriental Institute)'
-  url: https://archive.org/details/the-ramayana-of-valmiki-2022-critical-edition
-  type: other
-- name: 'Internet Archive - Valmiki Ramayana Vol I'
-  url: https://archive.org/details/in.ernet.dli.2015.485534
-  type: other
-- name: 'Internet Archive - Balakanda Critical Edition'
-  url: https://archive.org/details/RmyaaCriticalEdition1EDGHBhatt1960
-  type: other
-- name: 'IITK Valmiki Ramayanam Digital'
-  url: https://www.valmiki.iitk.ac.in/
-  type: other
-- name: 'Project Gutenberg - English Translations'
-  url: https://www.gutenberg.org/ebooks/search/?query=ramayana
-  type: other
+  - name: Internet Archive - Critical Edition (Baroda Oriental Institute)
+    url: 'https://archive.org/details/the-ramayana-of-valmiki-2022-critical-edition'
+    type: other
+  - name: Internet Archive - Valmiki Ramayana Vol I
+    url: 'https://archive.org/details/in.ernet.dli.2015.485534'
+    type: other
+  - name: Internet Archive - Balakanda Critical Edition
+    url: 'https://archive.org/details/RmyaaCriticalEdition1EDGHBhatt1960'
+    type: other
+  - name: IITK Valmiki Ramayanam Digital
+    url: 'https://www.valmiki.iitk.ac.in/'
+    type: other
+  - name: Project Gutenberg - English Translations
+    url: 'https://www.gutenberg.org/ebooks/search/?query=ramayana'
+    type: other
 references:
-- name: 'Wikipedia: Ramayana'
-  url: https://en.wikipedia.org/wiki/Ramayana
-  type: wikipedia
-- name: 'Wikipedia: Valmiki'
-  url: https://en.wikipedia.org/wiki/Valmiki
-  type: wikipedia
-- name: 'Wikipedia: Versions of the Ramayana'
-  url: https://en.wikipedia.org/wiki/Versions_of_the_Ramayana
-  type: wikipedia
-- name: 'Wikipedia: Sanskrit prosody'
-  url: https://en.wikipedia.org/wiki/Sanskrit_meter
-  type: wikipedia
-- name: 'Open Library: Ramayana Valmiki'
-  url: https://openlibrary.org/search?q=Ramayana+Valmiki
-  type: other
+  - name: 'Wikipedia: Ramayana'
+    url: 'https://en.wikipedia.org/wiki/Ramayana'
+    type: wikipedia
+  - name: 'Wikipedia: Valmiki'
+    url: 'https://en.wikipedia.org/wiki/Valmiki'
+    type: wikipedia
+  - name: 'Wikipedia: Versions of the Ramayana'
+    url: 'https://en.wikipedia.org/wiki/Versions_of_the_Ramayana'
+    type: wikipedia
+  - name: 'Wikipedia: Sanskrit prosody'
+    url: 'https://en.wikipedia.org/wiki/Sanskrit_meter'
+    type: wikipedia
+  - name: 'Open Library: Ramayana Valmiki'
+    url: 'https://openlibrary.org/search?q=Ramayana+Valmiki'
+    type: other
 featured: true
-publishDate: 2025-11-02
+publishDate: 2025-11-02T00:00:00.000Z
+---
+## Historical Context
+
+Valmiki's Ramayana represents the seminal Sanskrit epic that fundamentally shaped classical Indian literary, philosophical, and cultural discourse, emerging during the transitional period between the Vedic and Classical Sanskrit eras (circa 7th-5th centuries BCE). Traditionally attributed to the sage Valmiki, considered the "first poet" (adi-kavi), the text comprises approximately 24,000 verses across seven narrative sections (kandas), chronicling the life, exile, and heroic journey of Prince Rama of Ayodhya. Beyond its narrative complexity, the epic articulates sophisticated philosophical principles of dharma (ethical and cosmic order), ideal kingship, familial duty, and individual moral responsibility. The work innovatively introduced the shloka metrical form and established narrative techniques that profoundly influenced subsequent literary traditions across Hindu, Buddhist, and Jain textual landscapes. Its core narrative—depicting Rama's righteous struggle against the demon-king Ravana, punctuated by his wife Sita's abduction and eventual rescue—transcends mere mythological recounting, serving as a profound allegorical exploration of human ethical challenges, divine intervention, and societal ideals. The Ramayana's intellectual and cultural significance extends far beyond its original Sanskrit composition, having been translated, reinterpreted, and performed across multiple languages and performance traditions throughout South and Southeast Asia. Its characters—particularly Rama, Sita, Hanuman, and Ravana—have become archetypes embodying complex moral and social principles, continuously reinterpreted through centuries of artistic, philosophical, and performative traditions, thereby maintaining its dynamic relevance in Indian intellectual and cultural consciousness.
+
 ---
 
 ## Overview

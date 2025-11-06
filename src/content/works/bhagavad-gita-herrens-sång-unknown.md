@@ -1,36 +1,49 @@
 ---
 title: 'Bhagavad-Gita: Herrens Sång'
 author:
-- Unknown
+  - Unknown
 year: 1900
 language:
-- Swedish
+  - Swedish
 genre:
-- Poetry
-- Religious Literature
-- Sanskrit Literature
-description: |
-  Here's the expanded description:
-  
-  The Bhagavad-Gita: Herrens Sång represents a foundational Swedish translation of one of the most significant philosophical and spiritual texts in the Sanskrit literary canon, originating from the ancient Indian epic Mahabharata. Composed approximately between 400 BCE and 200 CE, this philosophical discourse occurs within a narrative framework of a dialogue between Prince Arjuna and Lord Krishna on the battlefield of Kurukshetra, exploring profound metaphysical, ethical, and existential questions. This particular 1900 Swedish translation contributes to the broader European scholarly engagement with Indian philosophical traditions during the late 19th and early 20th centuries, when Western intellectual circles were increasingly exploring Eastern philosophical and religious texts. The work explores fundamental concepts of dharma (moral duty), karma (action and consequence), and moksha (spiritual liberation), presenting a sophisticated philosophical framework that integrates contemplative wisdom with practical ethical conduct. Krishna's teachings emphasize the importance of detached action, spiritual self-realization, and transcendence of ego-driven motivations, representing a nuanced synthesis of metaphysical inquiry and practical life guidance. As a seminal text in Hindu philosophy, the Bhagavad-Gita has profoundly influenced Indian intellectual and spiritual thought, offering insights into the complex relationship between individual consciousness, cosmic order, and spiritual practice. This Swedish translation signifies an important moment in cross-cultural philosophical transmission, making these sophisticated Indian philosophical concepts accessible to Nordic scholarly and cultural audiences during a period of increasing global intellectual exchange.
+  - Poetry
+  - Religious Literature
+  - Sanskrit Literature
+description: >-
+  Here's the expanded description: The Bhagavad-Gita: Herrens Sång represents a
+  foundational Swedish translation of one of the most significant philosophical
+  and spiritual texts in the Sanskrit literary canon, originating from the
+  ancient Indian epic Mahabharata. Composed approximately between 400 BCE and
+  200 CE, this philosophical discourse occurs within a narrative framework of a
+  dialogue between Prince Arjuna and Lord Krishna on the battlefield of
+  Kurukshetra, exploring profound metaphysical, ethical, and existential
+  questions.
 collections:
-- religious-texts
+  - religious-texts
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/48854
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/48854.html.images
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/48854'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/48854.html.images'
+    type: other
 references:
-- name: 'Wikipedia: Bhagavad-Gita'
-  url: https://en.wikipedia.org/wiki/Bhagavad-Gita
-  type: other
-- name: 'Open Library: Bhagavad-Gita: Herrens Sång'
-  url: https://openlibrary.org/search?q=Bhagavad-Gita%3A%20Herrens%20S%C3%A5ng%20Unknown
-  type: other
+  - name: 'Wikipedia: Bhagavad-Gita'
+    url: 'https://en.wikipedia.org/wiki/Bhagavad-Gita'
+    type: other
+  - name: 'Open Library: Bhagavad-Gita: Herrens Sång'
+    url: >-
+      https://openlibrary.org/search?q=Bhagavad-Gita%3A%20Herrens%20S%C3%A5ng%20Unknown
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+Here's the expanded description:
+
+The Bhagavad-Gita: Herrens Sång represents a foundational Swedish translation of one of the most significant philosophical and spiritual texts in the Sanskrit literary canon, originating from the ancient Indian epic Mahabharata. Composed approximately between 400 BCE and 200 CE, this philosophical discourse occurs within a narrative framework of a dialogue between Prince Arjuna and Lord Krishna on the battlefield of Kurukshetra, exploring profound metaphysical, ethical, and existential questions. This particular 1900 Swedish translation contributes to the broader European scholarly engagement with Indian philosophical traditions during the late 19th and early 20th centuries, when Western intellectual circles were increasingly exploring Eastern philosophical and religious texts. The work explores fundamental concepts of dharma (moral duty), karma (action and consequence), and moksha (spiritual liberation), presenting a sophisticated philosophical framework that integrates contemplative wisdom with practical ethical conduct. Krishna's teachings emphasize the importance of detached action, spiritual self-realization, and transcendence of ego-driven motivations, representing a nuanced synthesis of metaphysical inquiry and practical life guidance. As a seminal text in Hindu philosophy, the Bhagavad-Gita has profoundly influenced Indian intellectual and spiritual thought, offering insights into the complex relationship between individual consciousness, cosmic order, and spiritual practice. This Swedish translation signifies an important moment in cross-cultural philosophical transmission, making these sophisticated Indian philosophical concepts accessible to Nordic scholarly and cultural audiences during a period of increasing global intellectual exchange.
+
 ---
 
 # Bhagavad-Gita: Herrens Sång

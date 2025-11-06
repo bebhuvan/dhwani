@@ -1,37 +1,66 @@
 ---
-title: "Natya Shastra (Treatise on the Performing Arts)"
-author: ["Bharata Muni"]
+title: Natya Shastra (Treatise on the Performing Arts)
+author:
+  - Bharata Muni
 year: 0
-language: ["Sanskrit", "English"]
-genre: ["Performing Arts", "Aesthetics", "Classical Literature"]
-description: "The Natya Shastra represents ancient India's encyclopedic treatise on the performing arts, systematizing dramaturgy, dance, music, and aesthetic theory through approximately 6,000 verses across 36 chapters. Composed between 200 BCE and 200 CE and attributed to sage Bharata Muni, this foundational text establishes comprehensive frameworks for theatrical production—from stage architecture and actor training to the revolutionary rasa theory of aesthetic experience that positions art as transformative rather than merely representational. The work's sophisticated treatment of the four abhinaya types (physical, verbal, costume-based, and psychological expression), systematic codification of 108 karanas as fundamental dance units, detailed exposition of musical scales and instruments, and philosophical analysis of how staged emotions generate transcendent aesthetic relish in spectators profoundly influenced all subsequent Indian classical arts, shaping Bharatanatyam, Kathak, Odissi dance traditions, temple sculpture iconography, and comparative aesthetic philosophy."
-collections: ['arts-texts', 'classical-literature', 'ancient-wisdom', 'philosophy']
+language:
+  - Sanskrit
+  - English
+genre:
+  - Performing Arts
+  - Aesthetics
+  - Classical Literature
+description: >-
+  The Natya Shastra represents ancient India's encyclopedic treatise on the
+  performing arts, systematizing dramaturgy, dance, music, and aesthetic theory
+  through approximately 6,000 verses across 36 chapters. Composed between 200
+  BCE and 200 CE and attributed to sage Bharata Muni, this foundational text
+  establishes comprehensive frameworks for theatrical production—from stage
+  architecture and actor training to the revolutionary rasa theory of aesthetic
+  experience that positions art as transformative rather than merely
+  representational.
+collections:
+  - arts-texts
+  - classical-literature
+  - ancient-wisdom
+  - philosophy
 sources:
-  - name: "Internet Archive (Manomohan Ghosh translation, 1950)"
-    url: "https://archive.org/details/in.ernet.dli.2015.37549"
-    type: "other"
-  - name: "Internet Archive (Natyashastra Vol 1)"
-    url: "https://archive.org/details/natyashastra01bharuoft"
-    type: "other"
+  - name: 'Internet Archive (Manomohan Ghosh translation, 1950)'
+    url: 'https://archive.org/details/in.ernet.dli.2015.37549'
+    type: other
+  - name: Internet Archive (Natyashastra Vol 1)
+    url: 'https://archive.org/details/natyashastra01bharuoft'
+    type: other
 references:
-  - name: "Wikipedia: Natya Shastra"
-    url: "https://en.wikipedia.org/wiki/Natya_Shastra"
-    type: "wikipedia"
-  - name: "Wikipedia: Bharata (sage)"
-    url: "https://en.wikipedia.org/wiki/Bharata_(sage)"
-    type: "wikipedia"
-  - name: "Wikipedia: Rasa (aesthetics)"
-    url: "https://en.wikipedia.org/wiki/Rasa_(aesthetics)"
-    type: "wikipedia"
-  - name: "Wikipedia: Indian classical dance"
-    url: "https://en.wikipedia.org/wiki/Indian_classical_dance"
-    type: "wikipedia"
-  - name: "Open Library: Natya Shastra"
-    url: "https://openlibrary.org/search?q=Natya+Shastra+Bharata+Muni"
-    type: "other"
+  - name: 'Wikipedia: Natya Shastra'
+    url: 'https://en.wikipedia.org/wiki/Natya_Shastra'
+    type: wikipedia
+  - name: 'Wikipedia: Bharata (sage)'
+    url: 'https://en.wikipedia.org/wiki/Bharata_(sage)'
+    type: wikipedia
+  - name: 'Wikipedia: Rasa (aesthetics)'
+    url: 'https://en.wikipedia.org/wiki/Rasa_(aesthetics)'
+    type: wikipedia
+  - name: 'Wikipedia: Indian classical dance'
+    url: 'https://en.wikipedia.org/wiki/Indian_classical_dance'
+    type: wikipedia
+  - name: 'Open Library: Natya Shastra'
+    url: 'https://openlibrary.org/search?q=Natya+Shastra+Bharata+Muni'
+    type: other
 featured: true
-publishDate: 2025-11-02
-tags: ['classical-literature', 'performing-arts', 'aesthetics', 'dramaturgy', 'dance', 'music']
+publishDate: 2025-11-02T00:00:00.000Z
+tags:
+  - classical-literature
+  - performing-arts
+  - aesthetics
+  - dramaturgy
+  - dance
+  - music
+---
+## Historical Context
+
+The Natya Shastra represents ancient India's encyclopedic treatise on the performing arts, systematizing dramaturgy, dance, music, and aesthetic theory through approximately 6,000 verses across 36 chapters. Composed between 200 BCE and 200 CE and attributed to sage Bharata Muni, this foundational text establishes comprehensive frameworks for theatrical production—from stage architecture and actor training to the revolutionary rasa theory of aesthetic experience that positions art as transformative rather than merely representational. The work's sophisticated treatment of the four abhinaya types (physical, verbal, costume-based, and psychological expression), systematic codification of 108 karanas as fundamental dance units, detailed exposition of musical scales and instruments, and philosophical analysis of how staged emotions generate transcendent aesthetic relish in spectators profoundly influenced all subsequent Indian classical arts, shaping Bharatanatyam, Kathak, Odissi dance traditions, temple sculpture iconography, and comparative aesthetic philosophy.
+
 ---
 
 # Natya Shastra (Treatise on the Performing Arts)

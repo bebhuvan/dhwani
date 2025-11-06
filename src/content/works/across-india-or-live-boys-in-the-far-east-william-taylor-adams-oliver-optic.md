@@ -1,29 +1,40 @@
 ---
 title: 'Across India; or, Live Boys in the Far East'
 author:
-- William Taylor Adams (Oliver Optic)
+  - William Taylor Adams (Oliver Optic)
 year: 1887
 language:
-- English
+  - English
 genre:
-- Literature
-description: |
-  William Taylor Adams' "Across India; or, Live Boys in the Far East" represents a significant literary artifact from the late nineteenth-century colonial period, offering a nuanced perspective on cross-cultural interactions during the British Raj. Published in 1887, the work emerges from the literary tradition of young adult adventure narratives that simultaneously documented and interpreted colonial experiences. Adams, writing under the pseudonym Oliver Optic, was a prolific American author known for educational and travel-oriented fiction that bridged geographical and cultural understanding for young readers. The text navigates the complex terrain of colonial encounter, providing contemporary insights into Western perceptions of Indian society, landscape, and cultural practices during a transformative historical moment. Through the narrative lens of youthful protagonists, the work explores themes of cultural exploration, imperial geography, and cross-cultural communication, reflecting the intellectual and imaginative frameworks of late-nineteenth-century transnational literature. While produced from an external colonial perspective, the text contributes to the broader discourse of literary representations of India, serving as a critical historical document that illuminates metropolitan understanding of Indian society. Its significance extends beyond mere narrative, functioning as a valuable primary source for scholars examining cultural representations, educational literature, and the discursive formations of imperial knowledge production. The work's preservation and digital accessibility enable contemporary researchers to analyze the nuanced textual negotiations of cultural difference, imperial imagination, and young adult literary conventions of the late nineteenth century, making it an important resource for postcolonial studies, literary history, and cultural anthropology.
+  - Literature
+description: >-
+  William Taylor Adams' "Across India; or, Live Boys in the Far East" represents
+  a significant literary artifact from the late nineteenth-century colonial
+  period, offering a nuanced perspective on cross-cultural interactions during
+  the British Raj. Published in 1887, the work emerges from the literary
+  tradition of young adult adventure narratives that simultaneously documented
+  and interpreted colonial experiences.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/15540
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/15540'
+    type: other
 references:
-- name: 'Wikipedia: William Taylor Adams'
-  url: https://en.wikipedia.org/wiki/William_Taylor_Adams
-  type: wikipedia
-- name: 'Open Library: Across India; or, Live'
-  url: https://openlibrary.org/search?q=Across+India+or+Live+Boys+in+William+Taylor+Adams+Oliver+Optic
-  type: other
+  - name: 'Wikipedia: William Taylor Adams'
+    url: 'https://en.wikipedia.org/wiki/William_Taylor_Adams'
+    type: wikipedia
+  - name: 'Open Library: Across India; or, Live'
+    url: >-
+      https://openlibrary.org/search?q=Across+India+or+Live+Boys+in+William+Taylor+Adams+Oliver+Optic
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+William Taylor Adams' "Across India; or, Live Boys in the Far East" represents a significant literary artifact from the late nineteenth-century colonial period, offering a nuanced perspective on cross-cultural interactions during the British Raj. Published in 1887, the work emerges from the literary tradition of young adult adventure narratives that simultaneously documented and interpreted colonial experiences. Adams, writing under the pseudonym Oliver Optic, was a prolific American author known for educational and travel-oriented fiction that bridged geographical and cultural understanding for young readers. The text navigates the complex terrain of colonial encounter, providing contemporary insights into Western perceptions of Indian society, landscape, and cultural practices during a transformative historical moment. Through the narrative lens of youthful protagonists, the work explores themes of cultural exploration, imperial geography, and cross-cultural communication, reflecting the intellectual and imaginative frameworks of late-nineteenth-century transnational literature. While produced from an external colonial perspective, the text contributes to the broader discourse of literary representations of India, serving as a critical historical document that illuminates metropolitan understanding of Indian society. Its significance extends beyond mere narrative, functioning as a valuable primary source for scholars examining cultural representations, educational literature, and the discursive formations of imperial knowledge production. The work's preservation and digital accessibility enable contemporary researchers to analyze the nuanced textual negotiations of cultural difference, imperial imagination, and young adult literary conventions of the late nineteenth century, making it an important resource for postcolonial studies, literary history, and cultural anthropology.
+
 ---
 
 ## Author and Historical Context

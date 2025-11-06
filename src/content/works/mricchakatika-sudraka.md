@@ -1,50 +1,60 @@
 ---
-title: 'Mricchakatika (The Little Clay Cart)'
+title: Mricchakatika (The Little Clay Cart)
 author:
-- Sudraka
+  - Sudraka
 year: 400
 language:
-- Sanskrit
-- English
+  - Sanskrit
+  - English
 genre:
-- Drama
-- Classical Literature
-- Sanskrit Drama
-- Romantic Drama
-- Comedy
-description: |
-  Sanskrit drama's most socially conscious masterpiece, a ten-act nataka (heroic romance) chronicling the love between impoverished merchant Charudatta and courtesan Vasantasena. Composed around the 4th-5th century CE by Sudraka, this sophisticated drama transcends conventional aristocratic settings to feature merchants, courtesans, thieves, and servants as complex protagonists, pioneering social realism in Sanskrit theater. Created during the Gupta Empire's golden age—a period of remarkable cultural and artistic flowering in classical Indian civilization—the work reflects the era's sophisticated urban social dynamics and emerging literary experiments that challenged rigid social hierarchies. Sudraka, likely a Brahmin playwright and royal court member, composed the drama during a time of significant cultural transformation, when Sanskrit literary traditions were expanding to include more nuanced representations of social complexity and interpersonal relationships beyond traditional epic narratives.
+  - Drama
+  - Classical Literature
+  - Sanskrit Drama
+  - Romantic Drama
+  - Comedy
+description: >-
+  Sanskrit drama's most socially conscious masterpiece, a ten-act nataka (heroic
+  romance) chronicling the love between impoverished merchant Charudatta and
+  courtesan Vasantasena. Composed around the 4th-5th century CE by Sudraka, this
+  sophisticated drama transcends conventional aristocratic settings to feature
+  merchants, courtesans, thieves, and servants as complex protagonists,
+  pioneering social realism in Sanskrit theater.
 collections:
-- sanskrit-drama
-- classical-literature
+  - sanskrit-drama
+  - classical-literature
 sources:
-- name: "Internet Archive (Śūdraka's Mṛcchakatika with Sanskrit text)"
-  url: https://archive.org/details/littleclaycartmr00sudruoft
-  type: other
-- name: 'Project Gutenberg (English translation)'
-  url: https://www.gutenberg.org/ebooks/21020
-  type: other
-- name: 'Internet Archive (M.R. Kale edition with commentary)'
-  url: https://archive.org/details/mrichhakatikaoft
-  type: other
+  - name: Internet Archive (Śūdraka's Mṛcchakatika with Sanskrit text)
+    url: 'https://archive.org/details/littleclaycartmr00sudruoft'
+    type: other
+  - name: Project Gutenberg (English translation)
+    url: 'https://www.gutenberg.org/ebooks/21020'
+    type: other
+  - name: Internet Archive (M.R. Kale edition with commentary)
+    url: 'https://archive.org/details/mrichhakatikaoft'
+    type: other
 references:
-- name: 'Wikipedia: Mṛcchakatika'
-  url: https://en.wikipedia.org/wiki/M%E1%B9%9Bcchakatika
-  type: wikipedia
-- name: 'Wikipedia: Sudraka'
-  url: https://en.wikipedia.org/wiki/Sudraka
-  type: wikipedia
-- name: 'Wikipedia: Sanskrit drama'
-  url: https://en.wikipedia.org/wiki/Sanskrit_drama
-  type: wikipedia
-- name: 'Wikipedia: Vasantasena'
-  url: https://en.wikipedia.org/wiki/Vasantasena
-  type: wikipedia
-- name: 'Wikipedia: Ujjain'
-  url: https://en.wikipedia.org/wiki/Ujjain
-  type: wikipedia
+  - name: 'Wikipedia: Mṛcchakatika'
+    url: 'https://en.wikipedia.org/wiki/M%E1%B9%9Bcchakatika'
+    type: wikipedia
+  - name: 'Wikipedia: Sudraka'
+    url: 'https://en.wikipedia.org/wiki/Sudraka'
+    type: wikipedia
+  - name: 'Wikipedia: Sanskrit drama'
+    url: 'https://en.wikipedia.org/wiki/Sanskrit_drama'
+    type: wikipedia
+  - name: 'Wikipedia: Vasantasena'
+    url: 'https://en.wikipedia.org/wiki/Vasantasena'
+    type: wikipedia
+  - name: 'Wikipedia: Ujjain'
+    url: 'https://en.wikipedia.org/wiki/Ujjain'
+    type: wikipedia
 featured: true
-publishDate: 2025-11-02
+publishDate: 2025-11-02T00:00:00.000Z
+---
+## Historical Context
+
+Sanskrit drama's most socially conscious masterpiece, a ten-act nataka (heroic romance) chronicling the love between impoverished merchant Charudatta and courtesan Vasantasena. Composed around the 4th-5th century CE by Sudraka, this sophisticated drama transcends conventional aristocratic settings to feature merchants, courtesans, thieves, and servants as complex protagonists, pioneering social realism in Sanskrit theater. Created during the Gupta Empire's golden age—a period of remarkable cultural and artistic flowering in classical Indian civilization—the work reflects the era's sophisticated urban social dynamics and emerging literary experiments that challenged rigid social hierarchies. Sudraka, likely a Brahmin playwright and royal court member, composed the drama during a time of significant cultural transformation, when Sanskrit literary traditions were expanding to include more nuanced representations of social complexity and interpersonal relationships beyond traditional epic narratives.
+
 ---
 
 ## Overview

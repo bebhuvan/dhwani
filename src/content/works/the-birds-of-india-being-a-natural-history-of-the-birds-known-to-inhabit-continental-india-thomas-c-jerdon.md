@@ -1,30 +1,44 @@
 ---
-title: 'The Birds of India, Being a Natural History of the Birds Known to Inhabit Continental India'
+title: >-
+  The Birds of India, Being a Natural History of the Birds Known to Inhabit
+  Continental India
 author:
-- Thomas C. Jerdon
+  - Thomas C. Jerdon
 year: 1862
 language:
-- English
+  - English
 genre:
-- Historical Literature
-- Scientific Literature
-description: |
-  Thomas C. Jerdon's "The Birds of India, Being a Natural History of the Birds Known to Inhabit Continental India" represents a seminal scholarly work produced during the British colonial period, embodying the intricate scientific and naturalist documentation emerging from the British Raj's systematic environmental and zoological research. Published between 1862 and 1864, this comprehensive ornithological compendium meticulously catalogues avian species across the Indian subcontinent, providing unprecedented taxonomic detail and geographic distribution insights during a period of intense imperial scientific exploration. Jerdon, a surgeon and naturalist working with the British East India Company, conducted extensive field research across diverse Indian ecological zones, systematically documenting bird species with remarkable precision and contributing significantly to the emerging disciplines of zoology and biodiversity documentation. The work is particularly notable for its rigorous methodology, detailed species descriptions, and comprehensive geographic coverage, which encompassed regions from the Himalayan foothills to peninsular India, including contemporary territories of India, Pakistan, Bangladesh, and Sri Lanka. Jerdon's documentation not only advanced European scientific understanding but also preserved critical ecological knowledge about Indian wildlife during a transformative historical period. By combining empirical observation with systematic classification, the work represents an important intersection of colonial scientific practice and indigenous natural history, serving as a crucial reference for subsequent ornithological research and environmental documentation in the Indian subcontinent. Its scholarly approach and comprehensive scope established methodological standards for future naturalist studies in the region.
+  - Historical Literature
+  - Scientific Literature
+description: >-
+  Thomas C. Jerdon's "The Birds of India, Being a Natural History of the Birds
+  Known to Inhabit Continental India" represents a seminal scholarly work
+  produced during the British colonial period, embodying the intricate
+  scientific and naturalist documentation emerging from the British Raj's
+  systematic environmental and zoological research.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/birdsofindiabein21jerd; https://archive.org/details/McGillLibrary-rbsc_blackerwood_birds-india-jerdon_QL69114J471862a_v4-20238
-  type: other
+  - name: Internet Archive
+    url: >-
+      https://archive.org/details/birdsofindiabein21jerd;
+      https://archive.org/details/McGillLibrary-rbsc_blackerwood_birds-india-jerdon_QL69114J471862a_v4-20238
+    type: other
 references:
-- name: 'Wikipedia: Thomas C. Jerdon'
-  url: https://en.wikipedia.org/wiki/Thomas_C._Jerdon
-  type: wikipedia
-- name: 'Open Library: The Birds of India,'
-  url: https://openlibrary.org/search?q=The+Birds+of+India+Being+a+Thomas+C+Jerdon
-  type: other
+  - name: 'Wikipedia: Thomas C. Jerdon'
+    url: 'https://en.wikipedia.org/wiki/Thomas_C._Jerdon'
+    type: wikipedia
+  - name: 'Open Library: The Birds of India,'
+    url: >-
+      https://openlibrary.org/search?q=The+Birds+of+India+Being+a+Thomas+C+Jerdon
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+Thomas C. Jerdon's "The Birds of India, Being a Natural History of the Birds Known to Inhabit Continental India" represents a seminal scholarly work produced during the British colonial period, embodying the intricate scientific and naturalist documentation emerging from the British Raj's systematic environmental and zoological research. Published between 1862 and 1864, this comprehensive ornithological compendium meticulously catalogues avian species across the Indian subcontinent, providing unprecedented taxonomic detail and geographic distribution insights during a period of intense imperial scientific exploration. Jerdon, a surgeon and naturalist working with the British East India Company, conducted extensive field research across diverse Indian ecological zones, systematically documenting bird species with remarkable precision and contributing significantly to the emerging disciplines of zoology and biodiversity documentation. The work is particularly notable for its rigorous methodology, detailed species descriptions, and comprehensive geographic coverage, which encompassed regions from the Himalayan foothills to peninsular India, including contemporary territories of India, Pakistan, Bangladesh, and Sri Lanka. Jerdon's documentation not only advanced European scientific understanding but also preserved critical ecological knowledge about Indian wildlife during a transformative historical period. By combining empirical observation with systematic classification, the work represents an important intersection of colonial scientific practice and indigenous natural history, serving as a crucial reference for subsequent ornithological research and environmental documentation in the Indian subcontinent. Its scholarly approach and comprehensive scope established methodological standards for future naturalist studies in the region.
+
 ---
 
 # The Birds of India, Being a Natural History of the Birds Known to Inhabit Continental India

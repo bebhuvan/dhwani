@@ -1,36 +1,46 @@
 ---
-title: 'Koti ja maailma'
+title: Koti ja maailma
 author:
-- Tagore, Rabindranath
+  - 'Tagore, Rabindranath'
 year: 1926
 language:
-- English
+  - English
 genre:
-- Fiction
-- Historical Literature
-description: |
-  Published in 1926 during the critical period of India's independence movement, Rabindranath Tagore's seminal novel represents a profound exploration of the complex sociopolitical dynamics of early 20th-century colonial India. Set against the backdrop of the Bengal Renaissance and the emerging nationalist consciousness, the work critically examines the intricate relationships between individual agency, social transformation, and political resistance. Through the narrative of Bimala, a woman navigating the tensions between traditional domestic roles and emerging nationalist ideologies, Tagore offers a nuanced critique of gender dynamics, colonial power structures, and the psychological landscape of a society in profound transition. The novel emerges from Tagore's unique intellectual position as both a cultural reformer and a cosmopolitan thinker, reflecting the Bengal intellectual tradition's engagement with questions of personal liberation and collective political consciousness. By dramatizing the internal conflicts of his characters, Tagore illuminates the broader struggle for cultural and political autonomy, exploring how personal transformations intersect with larger social movements. The work is particularly significant in its sophisticated treatment of women's subjectivity, presenting Bimala as a complex agent of her own narrative rather than a passive historical subject. Rooted in the literary and philosophical traditions of Bengal, the novel contributes to a critical understanding of nationalism not as an abstract political concept, but as a deeply lived experience shaped by personal relationships, cultural negotiations, and individual moral choices. Tagore's narrative thus becomes a profound meditation on the intersections of personal and political liberation during a pivotal moment in Indian cultural history.
+  - Fiction
+  - Historical Literature
+description: >-
+  Published in 1926 during the critical period of India's independence movement,
+  Rabindranath Tagore's seminal novel represents a profound exploration of the
+  complex sociopolitical dynamics of early 20th-century colonial India. Set
+  against the backdrop of the Bengal Renaissance and the emerging nationalist
+  consciousness, the work critically examines the intricate relationships
+  between individual agency, social transformation, and political resistance.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/70057
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/70057.html.images
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/70057'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/70057.html.images'
+    type: other
 references:
-- name: 'Open Library: The Home and the World'
-  url: https://openlibrary.org/search?q=Home+and+the+World+Tagore
-  type: other
-- name: 'Wikipedia: Rabindranath Tagore'
-  url: https://en.wikipedia.org/wiki/Rabindranath_Tagore
-  type: other
-- name: 'Wikipedia: The Home and the World'
-  url: https://en.wikipedia.org/wiki/The_Home_and_the_World
-  type: other
+  - name: 'Open Library: The Home and the World'
+    url: 'https://openlibrary.org/search?q=Home+and+the+World+Tagore'
+    type: other
+  - name: 'Wikipedia: Rabindranath Tagore'
+    url: 'https://en.wikipedia.org/wiki/Rabindranath_Tagore'
+    type: other
+  - name: 'Wikipedia: The Home and the World'
+    url: 'https://en.wikipedia.org/wiki/The_Home_and_the_World'
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+Published in 1926 during the critical period of India's independence movement, Rabindranath Tagore's seminal novel represents a profound exploration of the complex sociopolitical dynamics of early 20th-century colonial India. Set against the backdrop of the Bengal Renaissance and the emerging nationalist consciousness, the work critically examines the intricate relationships between individual agency, social transformation, and political resistance. Through the narrative of Bimala, a woman navigating the tensions between traditional domestic roles and emerging nationalist ideologies, Tagore offers a nuanced critique of gender dynamics, colonial power structures, and the psychological landscape of a society in profound transition. The novel emerges from Tagore's unique intellectual position as both a cultural reformer and a cosmopolitan thinker, reflecting the Bengal intellectual tradition's engagement with questions of personal liberation and collective political consciousness. By dramatizing the internal conflicts of his characters, Tagore illuminates the broader struggle for cultural and political autonomy, exploring how personal transformations intersect with larger social movements. The work is particularly significant in its sophisticated treatment of women's subjectivity, presenting Bimala as a complex agent of her own narrative rather than a passive historical subject. Rooted in the literary and philosophical traditions of Bengal, the novel contributes to a critical understanding of nationalism not as an abstract political concept, but as a deeply lived experience shaped by personal relationships, cultural negotiations, and individual moral choices. Tagore's narrative thus becomes a profound meditation on the intersections of personal and political liberation during a pivotal moment in Indian cultural history.
+
 ---
 
 # Koti ja maailma

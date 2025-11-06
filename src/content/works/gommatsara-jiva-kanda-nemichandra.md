@@ -1,37 +1,49 @@
 ---
-title: 'Gommatsara Jīva-kāṇḍa (Volume 5)'
+title: Gommatsara Jīva-kāṇḍa (Volume 5)
 author:
-- Shri Nemichandra Siddhanta Chakravarti (10th century)
-- Translated by J. L. Jaini
+  - Shri Nemichandra Siddhanta Chakravarti (10th century)
+  - Translated by J. L. Jaini
 year: 1927
 language:
-- English
-- Prakrit
+  - English
+  - Prakrit
 genre:
-- Jain Philosophy
-- Karma Theory
-- Soteriology
-description: |
-  In the intellectually vibrant medieval Deccan plateau during the 9th-11th centuries, a critical period of Jain philosophical systematization, Nemichandra Siddhanta Chakravarti produced the Gommatsara Jīva-kāṇḍa, a foundational text that encapsulates the sophisticated metaphysical discourse of the Digambara scholarly tradition. As a prominent scholar associated with the renowned Moodbidri and Karnatak intellectual centers, Nemichandra synthesized complex philosophical investigations into the nature of consciousness, soul dynamics, and karmic mechanics. The work represents a pivotal scholarly achievement in medieval Indian philosophical thought, offering a comprehensive exploration of jiva (soul) and karma theory that goes beyond mere theological speculation to provide a nuanced phenomenological framework for understanding spiritual transformation. Volume 5 specifically delves into advanced topics of Jain psychology and soteriology, meticulously detailing the gunasthanas (stages of spiritual development), intricate taxonomies of karmic bondage, and the progressive purification of consciousness. By articulating a systematic exposition of soul transmigration and liberation, Nemichandra created a sophisticated 'manual' of spiritual mechanics that illuminates the Digambara tradition's profound understanding of consciousness, embodiment, and transcendence. The text's rigorous conceptual architecture not only advances Jain philosophical discourse but also contributes significantly to broader Indian intellectual traditions, demonstrating the remarkable analytical depth and metaphysical complexity of medieval Indian philosophical scholarship. Its enduring significance lies in its meticulous mapping of spiritual progression, offering insights into the intricate relationships between consciousness, action, and ultimate liberation that remain intellectually compelling across centuries.
+  - Jain Philosophy
+  - Karma Theory
+  - Soteriology
+description: >-
+  In the intellectually vibrant medieval Deccan plateau during the 9th-11th
+  centuries, a critical period of Jain philosophical systematization,
+  Nemichandra Siddhanta Chakravarti produced the Gommatsara Jīva-kāṇḍa, a
+  foundational text that encapsulates the sophisticated metaphysical discourse
+  of the Digambara scholarly tradition. As a prominent scholar associated with
+  the renowned Moodbidri and Karnatak intellectual centers, Nemichandra
+  synthesized complex philosophical investigations into the nature of
+  consciousness, soul dynamics, and karmic mechanics.
 collections:
-- ancient-wisdom
-- jain-texts
+  - ancient-wisdom
+  - jain-texts
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.ernet.dli.2015.24370
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/in.ernet.dli.2015.24370'
+    type: other
 references:
-- name: 'Wikipedia: Nemichandra'
-  url: https://en.wikipedia.org/wiki/Nemichandra
-  type: wikipedia
-- name: 'Wikipedia: Jain karma theory'
-  url: https://en.wikipedia.org/wiki/Karma_in_Jainism
-  type: wikipedia
-- name: 'Open Library'
-  url: https://openlibrary.org/search?q=Gommatsara+Nemichandra&mode=everything
-  type: other
+  - name: 'Wikipedia: Nemichandra'
+    url: 'https://en.wikipedia.org/wiki/Nemichandra'
+    type: wikipedia
+  - name: 'Wikipedia: Jain karma theory'
+    url: 'https://en.wikipedia.org/wiki/Karma_in_Jainism'
+    type: wikipedia
+  - name: Open Library
+    url: 'https://openlibrary.org/search?q=Gommatsara+Nemichandra&mode=everything'
+    type: other
 featured: false
-publishDate: 2025-10-26
+publishDate: 2025-10-26T00:00:00.000Z
+---
+## Historical Context
+
+In the intellectually vibrant medieval Deccan plateau during the 9th-11th centuries, a critical period of Jain philosophical systematization, Nemichandra Siddhanta Chakravarti produced the Gommatsara Jīva-kāṇḍa, a foundational text that encapsulates the sophisticated metaphysical discourse of the Digambara scholarly tradition. As a prominent scholar associated with the renowned Moodbidri and Karnatak intellectual centers, Nemichandra synthesized complex philosophical investigations into the nature of consciousness, soul dynamics, and karmic mechanics. The work represents a pivotal scholarly achievement in medieval Indian philosophical thought, offering a comprehensive exploration of jiva (soul) and karma theory that goes beyond mere theological speculation to provide a nuanced phenomenological framework for understanding spiritual transformation. Volume 5 specifically delves into advanced topics of Jain psychology and soteriology, meticulously detailing the gunasthanas (stages of spiritual development), intricate taxonomies of karmic bondage, and the progressive purification of consciousness. By articulating a systematic exposition of soul transmigration and liberation, Nemichandra created a sophisticated 'manual' of spiritual mechanics that illuminates the Digambara tradition's profound understanding of consciousness, embodiment, and transcendence. The text's rigorous conceptual architecture not only advances Jain philosophical discourse but also contributes significantly to broader Indian intellectual traditions, demonstrating the remarkable analytical depth and metaphysical complexity of medieval Indian philosophical scholarship. Its enduring significance lies in its meticulous mapping of spiritual progression, offering insights into the intricate relationships between consciousness, action, and ultimate liberation that remain intellectually compelling across centuries.
+
 ---
 
 # Gommatsara Jīva-kāṇḍa (Volume 5)

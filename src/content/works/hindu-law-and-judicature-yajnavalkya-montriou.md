@@ -1,38 +1,47 @@
 ---
-title: 'Hindu Law and Judicature from the Dharma-Śāstra of Yājñavalkya'
+title: Hindu Law and Judicature from the Dharma-Śāstra of Yājñavalkya
 author:
-- Yājñavalkya
-- Edward Röer (translator)
-- W. A. Montriou (co-translator)
+  - Yājñavalkya
+  - Edward Röer (translator)
+  - W. A. Montriou (co-translator)
 year: 1859
 language:
-- English
-- Sanskrit
+  - English
+  - Sanskrit
 genre:
-- Legal Text
-- Religious Literature
-- Translation
-description: |
-  Edward Röer and W.A. Montriou's 1859 translation of the Yājñavalkya Smṛti represents a critical scholarly intervention at the intersection of Sanskrit legal scholarship and colonial administrative discourse during the late Mughal and early British colonial period in India. Composed circa 200-400 CE during the Gupta Empire's intellectual zenith, this dharmaśāstra text systematizes complex Hindu legal and ethical principles, offering a sophisticated framework of social regulation, jurisprudence, and normative behavior. The text comprehensively addresses multiple domains of social governance, including inheritance law, judicial procedures, contractual obligations, and familial responsibilities, reflecting the intricate legal sophistication of classical Indian civilization. Yājñavalkya's work distinguishes itself through its methodical organization and nuanced treatment of legal casuistry, providing detailed prescriptions for resolving social conflicts, adjudicating disputes, and maintaining societal equilibrium. The translation emerges during a pivotal moment of colonial knowledge production, when British administrators and scholars were actively documenting indigenous legal traditions to facilitate administrative control while simultaneously preserving and analytically reframing traditional knowledge systems. By rendering this foundational text accessible to European scholarly audiences, Röer and Montriou contributed to a broader cross-cultural scholarly dialogue about legal philosophy, demonstrating the intellectual complexity of pre-colonial Indian legal thought. The Yājñavalkya Smṛti remains a seminal text for understanding the philosophical, ethical, and procedural dimensions of classical Hindu jurisprudence, offering contemporary scholars crucial insights into the normative structures that governed social interactions in ancient and medieval Indian societies.
+  - Legal Text
+  - Religious Literature
+  - Translation
+description: >-
+  Edward Röer and W.A. Montriou's 1859 translation of the Yājñavalkya Smṛti
+  represents a critical scholarly intervention at the intersection of Sanskrit
+  legal scholarship and colonial administrative discourse during the late Mughal
+  and early British colonial period in India.
 collections:
-- classical-literature
-- ancient-wisdom
+  - classical-literature
+  - ancient-wisdom
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/21918
-  type: other
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.ernet.dli.2015.292556
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/21918'
+    type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/in.ernet.dli.2015.292556'
+    type: other
 references:
-- name: 'Open Library: Hindu Law and Judicature'
-  url: https://openlibrary.org/search?q=Hindu+Law+and+Judicature&mode=everything
-  type: other
-- name: 'Online Books: W.A. Montriou'
-  url: https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Montriou%2C%20W%2E%20A%2E%20%28William%20Austin%29%2C%201810%2D
-  type: other
+  - name: 'Open Library: Hindu Law and Judicature'
+    url: 'https://openlibrary.org/search?q=Hindu+Law+and+Judicature&mode=everything'
+    type: other
+  - name: 'Online Books: W.A. Montriou'
+    url: >-
+      https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Montriou%2C%20W%2E%20A%2E%20%28William%20Austin%29%2C%201810%2D
+    type: other
 featured: false
-publishDate: 2025-10-04
+publishDate: 2025-10-04T00:00:00.000Z
+---
+## Historical Context
+
+Edward Röer and W.A. Montriou's 1859 translation of the Yājñavalkya Smṛti represents a critical scholarly intervention at the intersection of Sanskrit legal scholarship and colonial administrative discourse during the late Mughal and early British colonial period in India. Composed circa 200-400 CE during the Gupta Empire's intellectual zenith, this dharmaśāstra text systematizes complex Hindu legal and ethical principles, offering a sophisticated framework of social regulation, jurisprudence, and normative behavior. The text comprehensively addresses multiple domains of social governance, including inheritance law, judicial procedures, contractual obligations, and familial responsibilities, reflecting the intricate legal sophistication of classical Indian civilization. Yājñavalkya's work distinguishes itself through its methodical organization and nuanced treatment of legal casuistry, providing detailed prescriptions for resolving social conflicts, adjudicating disputes, and maintaining societal equilibrium. The translation emerges during a pivotal moment of colonial knowledge production, when British administrators and scholars were actively documenting indigenous legal traditions to facilitate administrative control while simultaneously preserving and analytically reframing traditional knowledge systems. By rendering this foundational text accessible to European scholarly audiences, Röer and Montriou contributed to a broader cross-cultural scholarly dialogue about legal philosophy, demonstrating the intellectual complexity of pre-colonial Indian legal thought. The Yājñavalkya Smṛti remains a seminal text for understanding the philosophical, ethical, and procedural dimensions of classical Hindu jurisprudence, offering contemporary scholars crucial insights into the normative structures that governed social interactions in ancient and medieval Indian societies.
+
 ---
 
 # Hindu Law and Judicature from the Dharma-Śāstra of Yājñavalkya

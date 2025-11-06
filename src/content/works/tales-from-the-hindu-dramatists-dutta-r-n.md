@@ -1,58 +1,50 @@
 ---
 title: Tales from the Hindu Dramatists
 author:
-- Dutta, R. N.
+  - 'Dutta, R. N.'
 year: 1912
 language:
-- English
-- Sanskrit
+  - English
+  - Sanskrit
 genre:
-- Drama
-- Sanskrit Literature
-description: Tales from the Hindu Dramatists" by R. N. Dutta is a collection of stories
-  derived from classical Hindu dramas, likely written in the early 20th century. The
-  work encapsulates various narratives from significant epics and texts like the Ramayana
-  and Mahabharata, tailored for a younger audience to spark interest in India's rich
-  cultural heritage and theatrical tradition. This compilation aims to engage readers
-  with tales filled with love, valor, and moral dilemmas, adapting the stories for
-  educational purposes. The opening of this collection introduces the tale of "Sakuntala
-  or The Lost Ring," where the story begins with King Dushyanta, who encounters the
-  beautiful maiden Sakuntala in the forest while on a hunting expedition. Their instant,
-  heavy mutual attraction leads to a romantic union, celebrated in the form of a Gandharva
-  marriage, and the exchange of a ring as a token of recognition. However, complications
-  arise due to a curse from a visiting sage when Sakuntala subsequently forgets her
-  husband. As the tale unfolds, it touches on themes of love, loss, and fate, ultimately
-  leading to the king's journey to reconcile with Sakuntala and embrace their long-lost
-  bond, a narrative filled with emotional depth and cultural significance.
+  - Drama
+  - Sanskrit Literature
+description: Tales from the Hindu Dramatists" by R. N.
 collections:
-- classical-literature
-- sanskrit-drama
+  - classical-literature
+  - sanskrit-drama
 sources:
-- name: Project Gutenberg
-  url: https://www.gutenberg.org/ebooks/18285
-  type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/18285.html.images
-  type: other
-- name: Internet Archive (Tales from the Hindu Dramatists)
-  url: https://archive.org/details/talesfromthehind18285gut
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/18285'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/18285.html.images'
+    type: other
+  - name: Internet Archive (Tales from the Hindu Dramatists)
+    url: 'https://archive.org/details/talesfromthehind18285gut'
+    type: other
 references:
-- name: 'Wikipedia: Tales from the Hindu Dramatists'
-  url: https://en.wikipedia.org/wiki/Tales_from_the_Hindu_Dramatists
-  type: other
-- name: 'Wikipedia: Dutta'
-  url: https://en.wikipedia.org/wiki/Dutta
-  type: other
-- name: 'Open Library: Tales from the Hindu Dramatists'
-  url: https://openlibrary.org/search?q=Tales%20from%20the%20Hindu%20Dramatists%20Dutta%2C%20R.%20N.
-  type: other
+  - name: 'Wikipedia: Tales from the Hindu Dramatists'
+    url: 'https://en.wikipedia.org/wiki/Tales_from_the_Hindu_Dramatists'
+    type: other
+  - name: 'Wikipedia: Dutta'
+    url: 'https://en.wikipedia.org/wiki/Dutta'
+    type: other
+  - name: 'Open Library: Tales from the Hindu Dramatists'
+    url: >-
+      https://openlibrary.org/search?q=Tales%20from%20the%20Hindu%20Dramatists%20Dutta%2C%20R.%20N.
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
 tags:
-- public domain
-- Sanskrit drama -- Adaptations
-- Dutta, R. N.
+  - public domain
+  - Sanskrit drama -- Adaptations
+  - 'Dutta, R. N.'
+---
+## Historical Context
+
+Tales from the Hindu Dramatists" by R. N. Dutta is a collection of stories derived from classical Hindu dramas, likely written in the early 20th century. The work encapsulates various narratives from significant epics and texts like the Ramayana and Mahabharata, tailored for a younger audience to spark interest in India's rich cultural heritage and theatrical tradition. This compilation aims to engage readers with tales filled with love, valor, and moral dilemmas, adapting the stories for educational purposes. The opening of this collection introduces the tale of "Sakuntala or The Lost Ring," where the story begins with King Dushyanta, who encounters the beautiful maiden Sakuntala in the forest while on a hunting expedition. Their instant, heavy mutual attraction leads to a romantic union, celebrated in the form of a Gandharva marriage, and the exchange of a ring as a token of recognition. However, complications arise due to a curse from a visiting sage when Sakuntala subsequently forgets her husband. As the tale unfolds, it touches on themes of love, loss, and fate, ultimately leading to the king's journey to reconcile with Sakuntala and embrace their long-lost bond, a narrative filled with emotional depth and cultural significance.
+
 ---
 
 # Tales from the Hindu Dramatists

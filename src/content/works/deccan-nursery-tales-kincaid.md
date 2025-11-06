@@ -1,38 +1,48 @@
 ---
 title: 'Deccan Nursery Tales; or, Fairy Tales from the South'
 author:
-- C. A. Kincaid
+  - C. A. Kincaid
 year: 1914
 language:
-- English
+  - English
 genre:
-- Folklore
-- Nursery Tales
-- Colonial Literature
-description: |
-  Charles Augustus Kincaid's "Deccan Nursery Tales; or, Fairy Tales from the South" represents a significant early 20th-century documentation of Marathi oral storytelling traditions during the late colonial period. Published in 1914, the collection captures the intricate folkloric narratives of the Deccan region, providing a nuanced ethnographic lens into indigenous storytelling practices. Translated directly from local oral traditions and initially serialized in the Times of India, the compilation features twelve interconnected tales that reveal complex cultural cosmologies, particularly highlighting the intrinsic relationship between celestial phenomena and cultural mythology. The first six stories, traditionally narrated by Deccan mothers during the sacred Shravan month, explore symbolic connections between heavenly bodies and weekly chronology, demonstrating the sophisticated mythological understanding embedded in regional narrative traditions. Illustrated by prominent Marathi artist M. V. Dhurandhar, the collection not only preserves linguistic and cultural knowledge but also represents an important intersection of colonial scholarly documentation and indigenous narrative heritage. Kincaid's translation approach, while mediated through colonial perspectives, nonetheless provides remarkable fidelity to original narrative structures, capturing the religious and metaphysical undertones characteristic of Maharashtrian folklore. The work contributes significantly to understanding pre-modern Indian oral storytelling traditions, revealing complex cultural epistemologies that interweave mythological explanation, moral instruction, and cosmological understanding. By rendering these narratives accessible to English-speaking audiences, Kincaid facilitated crucial cross-cultural literary understanding during a transformative historical moment of cultural exchange and documentation.
+  - Folklore
+  - Nursery Tales
+  - Colonial Literature
+description: >-
+  Charles Augustus Kincaid's "Deccan Nursery Tales; or, Fairy Tales from the
+  South" represents a significant early 20th-century documentation of Marathi
+  oral storytelling traditions during the late colonial period. Published in
+  1914, the collection captures the intricate folkloric narratives of the Deccan
+  region, providing a nuanced ethnographic lens into indigenous storytelling
+  practices.
 collections:
-- folklore
-- colonial-india
+  - folklore
+  - colonial-india
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/11167
-  type: other
-- name: 'Internet Archive'
-  url: https://archive.org/details/deccannurserytal00kinc
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/11167'
+    type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/deccannurserytal00kinc'
+    type: other
 references:
-- name: 'Wikipedia: Marathi literature'
-  url: https://en.wikipedia.org/wiki/Marathi_literature
-  type: wikipedia
-- name: 'Wikipedia: Deccan Plateau'
-  url: https://en.wikipedia.org/wiki/Deccan_Plateau
-  type: wikipedia
-- name: 'Wikipedia: Folklore of India'
-  url: https://en.wikipedia.org/wiki/Indian_folklore
-  type: wikipedia
+  - name: 'Wikipedia: Marathi literature'
+    url: 'https://en.wikipedia.org/wiki/Marathi_literature'
+    type: wikipedia
+  - name: 'Wikipedia: Deccan Plateau'
+    url: 'https://en.wikipedia.org/wiki/Deccan_Plateau'
+    type: wikipedia
+  - name: 'Wikipedia: Folklore of India'
+    url: 'https://en.wikipedia.org/wiki/Indian_folklore'
+    type: wikipedia
 featured: false
-publishDate: 2025-11-02
+publishDate: 2025-11-02T00:00:00.000Z
+---
+## Historical Context
+
+Charles Augustus Kincaid's "Deccan Nursery Tales; or, Fairy Tales from the South" represents a significant early 20th-century documentation of Marathi oral storytelling traditions during the late colonial period. Published in 1914, the collection captures the intricate folkloric narratives of the Deccan region, providing a nuanced ethnographic lens into indigenous storytelling practices. Translated directly from local oral traditions and initially serialized in the Times of India, the compilation features twelve interconnected tales that reveal complex cultural cosmologies, particularly highlighting the intrinsic relationship between celestial phenomena and cultural mythology. The first six stories, traditionally narrated by Deccan mothers during the sacred Shravan month, explore symbolic connections between heavenly bodies and weekly chronology, demonstrating the sophisticated mythological understanding embedded in regional narrative traditions. Illustrated by prominent Marathi artist M. V. Dhurandhar, the collection not only preserves linguistic and cultural knowledge but also represents an important intersection of colonial scholarly documentation and indigenous narrative heritage. Kincaid's translation approach, while mediated through colonial perspectives, nonetheless provides remarkable fidelity to original narrative structures, capturing the religious and metaphysical undertones characteristic of Maharashtrian folklore. The work contributes significantly to understanding pre-modern Indian oral storytelling traditions, revealing complex cultural epistemologies that interweave mythological explanation, moral instruction, and cosmological understanding. By rendering these narratives accessible to English-speaking audiences, Kincaid facilitated crucial cross-cultural literary understanding during a transformative historical moment of cultural exchange and documentation.
+
 ---
 
 # Deccan Nursery Tales; or, Fairy Tales from the South

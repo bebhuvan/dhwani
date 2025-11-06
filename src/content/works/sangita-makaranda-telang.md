@@ -1,35 +1,46 @@
 ---
-title: 'Saṅgīta-makaranda (Essence of Music)'
+title: Saṅgīta-makaranda (Essence of Music)
 author:
-- Edited/Translated by Mangesh Ramakrishna Telang
+  - Edited/Translated by Mangesh Ramakrishna Telang
 year: 1920
 language:
-- Sanskrit
+  - Sanskrit
 genre:
-- Musicology
-- Technical Manual
-- Classical Arts
-description: |
-  Saṅgīta-makaranda represents a critical Sanskrit musicological treatise emerging during the late medieval Deccan period (14th-16th centuries), a transformative epoch of cultural and intellectual synthesis across the Indian subcontinent. Situated within the complex musical scholarship of the Bahmani Sultanate and Vijayanagara Empire, this work exemplifies the sophisticated intellectual exchanges between Persian, Arabic, and indigenous Indian musical traditions that characterized the region's rich cultural landscape. The treatise systematically addresses fundamental concepts of Hindustani classical music, including detailed examinations of ragas (melodic frameworks), talas (rhythmic structures), and intricate theoretical constructs of sangita shastra (musical science). By meticulously documenting performance techniques, theoretical principles, and aesthetic frameworks, the text serves as a critical archival document preserving sophisticated musical knowledge systems that might otherwise have been lost to historical transition. Its comprehensive approach reflects the period's intellectual rigor, demonstrating how musical scholarship functioned as a critical domain of cultural transmission and philosophical exploration. The work's significance extends beyond mere technical documentation, offering profound insights into the epistemological approaches of medieval Indian musicians and theoreticians who conceived music as a deeply philosophical and metaphysical practice. As a technical manual for practitioners and scholars, Saṅgīta-makaranda provides an invaluable window into the complex musical ontologies of pre-colonial India, capturing a moment of remarkable cultural convergence and intellectual dynamism that shaped the foundations of subsequent classical music traditions across the subcontinent.
+  - Musicology
+  - Technical Manual
+  - Classical Arts
+description: >-
+  Saṅgīta-makaranda represents a critical Sanskrit musicological treatise
+  emerging during the late medieval Deccan period (14th-16th centuries), a
+  transformative epoch of cultural and intellectual synthesis across the Indian
+  subcontinent. Situated within the complex musical scholarship of the Bahmani
+  Sultanate and Vijayanagara Empire, this work exemplifies the sophisticated
+  intellectual exchanges between Persian, Arabic, and indigenous Indian musical
+  traditions that characterized the region's rich cultural landscape.
 collections:
-- arts-texts
-- musicology
+  - arts-texts
+  - musicology
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.ernet.dli.2015.310999
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/in.ernet.dli.2015.310999'
+    type: other
 references:
-- name: 'Wikipedia: Raga'
-  url: https://en.wikipedia.org/wiki/Raga
-  type: wikipedia
-- name: 'Wikipedia: Hindustani classical music'
-  url: https://en.wikipedia.org/wiki/Hindustani_classical_music
-  type: wikipedia
-- name: 'Open Library'
-  url: https://openlibrary.org/search?q=Sangita+makaranda&mode=everything
-  type: other
+  - name: 'Wikipedia: Raga'
+    url: 'https://en.wikipedia.org/wiki/Raga'
+    type: wikipedia
+  - name: 'Wikipedia: Hindustani classical music'
+    url: 'https://en.wikipedia.org/wiki/Hindustani_classical_music'
+    type: wikipedia
+  - name: Open Library
+    url: 'https://openlibrary.org/search?q=Sangita+makaranda&mode=everything'
+    type: other
 featured: false
-publishDate: 2025-10-26
+publishDate: 2025-10-26T00:00:00.000Z
+---
+## Historical Context
+
+Saṅgīta-makaranda represents a critical Sanskrit musicological treatise emerging during the late medieval Deccan period (14th-16th centuries), a transformative epoch of cultural and intellectual synthesis across the Indian subcontinent. Situated within the complex musical scholarship of the Bahmani Sultanate and Vijayanagara Empire, this work exemplifies the sophisticated intellectual exchanges between Persian, Arabic, and indigenous Indian musical traditions that characterized the region's rich cultural landscape. The treatise systematically addresses fundamental concepts of Hindustani classical music, including detailed examinations of ragas (melodic frameworks), talas (rhythmic structures), and intricate theoretical constructs of sangita shastra (musical science). By meticulously documenting performance techniques, theoretical principles, and aesthetic frameworks, the text serves as a critical archival document preserving sophisticated musical knowledge systems that might otherwise have been lost to historical transition. Its comprehensive approach reflects the period's intellectual rigor, demonstrating how musical scholarship functioned as a critical domain of cultural transmission and philosophical exploration. The work's significance extends beyond mere technical documentation, offering profound insights into the epistemological approaches of medieval Indian musicians and theoreticians who conceived music as a deeply philosophical and metaphysical practice. As a technical manual for practitioners and scholars, Saṅgīta-makaranda provides an invaluable window into the complex musical ontologies of pre-colonial India, capturing a moment of remarkable cultural convergence and intellectual dynamism that shaped the foundations of subsequent classical music traditions across the subcontinent.
+
 ---
 
 # Saṅgīta-makaranda (Essence of Music)

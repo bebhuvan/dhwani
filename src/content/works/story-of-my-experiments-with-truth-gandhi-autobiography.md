@@ -1,33 +1,45 @@
 ---
-title: 'The Story of My Experiments with Truth (Autobiography)'
+title: The Story of My Experiments with Truth (Autobiography)
 author:
-- Mohandas K. Gandhi
+  - Mohandas K. Gandhi
 year: 1927
 language:
-- English
-- Gujarati
+  - English
+  - Gujarati
 genre:
-- Autobiography
-- Spiritual Literature
-- Political Memoir
-description: |
-  Mahatma Gandhi's seminal autobiography, "The Story of My Experiments with Truth," emerges as a foundational text in early 20th-century Indian intellectual and political discourse, chronicling his personal and philosophical evolution during a pivotal period of colonial resistance. Written during the complex interwar period of British India, the work spans Gandhi's formative years from childhood through 1921, capturing the intellectual and moral transformations that would shape the Indian independence movement. Originally serialized in Gujarati in his journal Navjivan between 1925-1929 and subsequently translated into English, the autobiography represents a profound exploration of satyagraha (truth-force) philosophy, presenting personal narrative as a mode of political and spiritual inquiry. Gandhi meticulously documents his intellectual and moral experiments, revealing how personal ethical development became intrinsically linked to broader social and political transformation. The work provides unprecedented insight into the development of nonviolent resistance as a strategic political methodology, detailing Gandhi's philosophical encounters with truth, self-discipline, and social justice. By candidly examining his own failures, doubts, and gradual self-realization, Gandhi establishes a unique narrative form that blends personal introspection with collective nationalist aspiration. The autobiography transcends mere biographical account, functioning as a critical philosophical text that interrogates colonial power structures, individual moral responsibility, and the potential for social change through principled, nonviolent action. Its significance extends beyond historical documentation, offering a nuanced understanding of Indian anticolonial thought, spiritual philosophy, and the complex negotiations of identity during a transformative period of national self-definition.
+  - Autobiography
+  - Spiritual Literature
+  - Political Memoir
+description: >-
+  Mahatma Gandhi's seminal autobiography, "The Story of My Experiments with
+  Truth," emerges as a foundational text in early 20th-century Indian
+  intellectual and political discourse, chronicling his personal and
+  philosophical evolution during a pivotal period of colonial resistance.
+  Written during the complex interwar period of British India, the work spans
+  Gandhi's formative years from childhood through 1921, capturing the
+  intellectual and moral transformations that would shape the Indian
+  independence movement.
 collections:
-- modern-literature
-- spiritual-texts
+  - modern-literature
+  - spiritual-texts
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/autobiographyors00gand
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/autobiographyors00gand'
+    type: other
 references:
-- name: 'Wikisource'
-  url: https://en.wikisource.org/wiki/The_Story_of_My_Experiments_with_Truth
-  type: wikisource
-- name: 'Wikipedia'
-  url: https://en.wikipedia.org/wiki/The_Story_of_My_Experiments_with_Truth
-  type: other
+  - name: Wikisource
+    url: 'https://en.wikisource.org/wiki/The_Story_of_My_Experiments_with_Truth'
+    type: wikisource
+  - name: Wikipedia
+    url: 'https://en.wikipedia.org/wiki/The_Story_of_My_Experiments_with_Truth'
+    type: other
 featured: false
-publishDate: 2025-09-28
+publishDate: 2025-09-28T00:00:00.000Z
+---
+## Historical Context
+
+Mahatma Gandhi's seminal autobiography, "The Story of My Experiments with Truth," emerges as a foundational text in early 20th-century Indian intellectual and political discourse, chronicling his personal and philosophical evolution during a pivotal period of colonial resistance. Written during the complex interwar period of British India, the work spans Gandhi's formative years from childhood through 1921, capturing the intellectual and moral transformations that would shape the Indian independence movement. Originally serialized in Gujarati in his journal Navjivan between 1925-1929 and subsequently translated into English, the autobiography represents a profound exploration of satyagraha (truth-force) philosophy, presenting personal narrative as a mode of political and spiritual inquiry. Gandhi meticulously documents his intellectual and moral experiments, revealing how personal ethical development became intrinsically linked to broader social and political transformation. The work provides unprecedented insight into the development of nonviolent resistance as a strategic political methodology, detailing Gandhi's philosophical encounters with truth, self-discipline, and social justice. By candidly examining his own failures, doubts, and gradual self-realization, Gandhi establishes a unique narrative form that blends personal introspection with collective nationalist aspiration. The autobiography transcends mere biographical account, functioning as a critical philosophical text that interrogates colonial power structures, individual moral responsibility, and the potential for social change through principled, nonviolent action. Its significance extends beyond historical documentation, offering a nuanced understanding of Indian anticolonial thought, spiritual philosophy, and the complex negotiations of identity during a transformative period of national self-definition.
+
 ---
 
 ## Publication History and Serialization

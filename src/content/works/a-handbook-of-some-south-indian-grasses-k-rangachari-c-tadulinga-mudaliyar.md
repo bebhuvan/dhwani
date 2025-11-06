@@ -1,40 +1,49 @@
 ---
-title: 'A Handbook of Some South Indian Grasses'
+title: A Handbook of Some South Indian Grasses
 author:
-- K. Rangachari
-- C. Tadulinga Mudaliyar
+  - K. Rangachari
+  - C. Tadulinga Mudaliyar
 year: 1921
 language:
-- English
+  - English
 genre:
-- Reference Work
-- Scientific Literature
-description: |
-  "A Handbook of Some South Indian Grasses" represents a pivotal scholarly contribution from the early 20th century, situated within the complex scientific and botanical landscape of Colonial India during the British Raj. Published in 1921 by K. Rangachari and C. Tadulinga Mudaliyar, the work exemplifies the sophisticated indigenous scientific scholarship emerging during a period of intense colonial knowledge production. The handbook meticulously documents and categorizes grass species native to South India, reflecting both European taxonomical methodologies and local botanical expertise. By systematically describing regional grass varieties, the authors contribute significantly to understanding the ecological diversity of the Madras Presidency and broader South Indian botanical environments. The work is particularly noteworthy for bridging indigenous natural knowledge traditions with emerging Western scientific taxonomical approaches, demonstrating the intellectual sophistication of Indian scholars during a transformative historical period. Its comprehensive documentation preserves critical botanical information about grass species that were integral to agricultural practices, ecological systems, and local environmental knowledge. The handbook's methodological precision and detailed observations provide contemporary researchers with invaluable historical ecological and botanical documentation, offering insights into early 20th-century South Indian natural environments. Beyond its scientific significance, the work represents an important intellectual artifact demonstrating Indian scholars' expertise and systematic approach to natural sciences during the colonial era, challenging prevailing colonial narratives about indigenous intellectual capabilities. As a digitally preserved text, it remains a crucial resource for botanical researchers, environmental historians, and scholars exploring the intersections of colonial science, indigenous knowledge, and natural history documentation.
+  - Reference Work
+  - Scientific Literature
+description: >-
+  "A Handbook of Some South Indian Grasses" represents a pivotal scholarly
+  contribution from the early 20th century, situated within the complex
+  scientific and botanical landscape of Colonial India during the British Raj.
+  Published in 1921 by K.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/24063
-  type: other
-- name: 'Internet Archive'
-  url: https://archive.org/details/handbookofsomeso1921rang
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/24063'
+    type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/handbookofsomeso1921rang'
+    type: other
 references:
-- name: 'Wikipedia: K. Rangachari'
-  url: https://en.wikipedia.org/wiki/K._Rangachari
-  type: wikipedia
-- name: 'Wikipedia: C. Tadulinga Mudaliar'
-  url: https://en.wikipedia.org/wiki/C._Tadulinga_Mudaliar
-  type: wikipedia
-- name: 'Wikipedia: Botany'
-  url: https://en.wikipedia.org/wiki/Botany#India
-  type: wikipedia
-- name: 'Open Library: A Handbook of Some'
-  url: https://openlibrary.org/search?q=A+Handbook+of+Some+South+Indian+K+Rangachari
-  type: other
+  - name: 'Wikipedia: K. Rangachari'
+    url: 'https://en.wikipedia.org/wiki/K._Rangachari'
+    type: wikipedia
+  - name: 'Wikipedia: C. Tadulinga Mudaliar'
+    url: 'https://en.wikipedia.org/wiki/C._Tadulinga_Mudaliar'
+    type: wikipedia
+  - name: 'Wikipedia: Botany'
+    url: 'https://en.wikipedia.org/wiki/Botany#India'
+    type: wikipedia
+  - name: 'Open Library: A Handbook of Some'
+    url: >-
+      https://openlibrary.org/search?q=A+Handbook+of+Some+South+Indian+K+Rangachari
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+"A Handbook of Some South Indian Grasses" represents a pivotal scholarly contribution from the early 20th century, situated within the complex scientific and botanical landscape of Colonial India during the British Raj. Published in 1921 by K. Rangachari and C. Tadulinga Mudaliyar, the work exemplifies the sophisticated indigenous scientific scholarship emerging during a period of intense colonial knowledge production. The handbook meticulously documents and categorizes grass species native to South India, reflecting both European taxonomical methodologies and local botanical expertise. By systematically describing regional grass varieties, the authors contribute significantly to understanding the ecological diversity of the Madras Presidency and broader South Indian botanical environments. The work is particularly noteworthy for bridging indigenous natural knowledge traditions with emerging Western scientific taxonomical approaches, demonstrating the intellectual sophistication of Indian scholars during a transformative historical period. Its comprehensive documentation preserves critical botanical information about grass species that were integral to agricultural practices, ecological systems, and local environmental knowledge. The handbook's methodological precision and detailed observations provide contemporary researchers with invaluable historical ecological and botanical documentation, offering insights into early 20th-century South Indian natural environments. Beyond its scientific significance, the work represents an important intellectual artifact demonstrating Indian scholars' expertise and systematic approach to natural sciences during the colonial era, challenging prevailing colonial narratives about indigenous intellectual capabilities. As a digitally preserved text, it remains a crucial resource for botanical researchers, environmental historians, and scholars exploring the intersections of colonial science, indigenous knowledge, and natural history documentation.
+
 ---
 
 # A Handbook of Some South Indian Grasses

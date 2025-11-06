@@ -1,33 +1,45 @@
 ---
-title: 'La jeune Inde'
+title: La jeune Inde
 author:
-- Gandhi, Mahatma
+  - 'Gandhi, Mahatma'
 year: 1933
 language:
-- French
+  - French
 genre:
-- Historical Literature
-- Political Writing
-description: |
-  "La jeune Inde" emerges as a pivotal textual manifestation of Mahatma Gandhi's political philosophy during the critical interwar period of Indian anti-colonial resistance, published in 1933 when nationalist movements were intensifying their challenge to British imperial governance. Written in French and representing a strategic internationalization of India's struggle, the work compiles Gandhi's political writings, addresses, and reflections on non-violent resistance (Satyagraha), economic self-sufficiency (Swadeshi), and communal harmony. Contextualized within the broader landscape of India's independence movement, the text articulates Gandhi's nuanced approach to anti-colonial struggle, emphasizing ethical transformation over violent confrontation. The work synthesizes complex philosophical principles of civil disobedience, drawing from both Indian philosophical traditions and global anti-colonial discourse, while offering a sophisticated critique of colonial power structures. Gandhi's analysis transcends mere political treatise, presenting a comprehensive worldview that integrates spiritual ethics with political praxis, challenging both colonial administrative frameworks and traditional nationalist rhetoric. By advocating for Hindu-Muslim unity and proposing a radical reimagining of social and political relationships, the text represents a critical intervention in early 20th-century anti-colonial thought. Its significance extends beyond immediate political objectives, providing a profound philosophical blueprint for non-violent social change that would influence global civil rights movements in subsequent decades. The work stands as a seminal document in understanding India's intellectual and political evolution during a transformative historical moment, embodying the complex negotiations of cultural identity, political sovereignty, and ethical resistance characteristic of India's independence struggle.
+  - Historical Literature
+  - Political Writing
+description: >-
+  "La jeune Inde" emerges as a pivotal textual manifestation of Mahatma Gandhi's
+  political philosophy during the critical interwar period of Indian
+  anti-colonial resistance, published in 1933 when nationalist movements were
+  intensifying their challenge to British imperial governance. Written in French
+  and representing a strategic internationalization of India's struggle, the
+  work compiles Gandhi's political writings, addresses, and reflections on
+  non-violent resistance (Satyagraha), economic self-sufficiency (Swadeshi), and
+  communal harmony.
 collections:
-- classical-literature
+  - classical-literature
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/76145
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/76145.html.images
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/76145'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/76145.html.images'
+    type: other
 references:
-- name: 'Open Library: Young India'
-  url: https://openlibrary.org/search?q=Young+India+Gandhi
-  type: other
-- name: 'Wikipedia: Mahatma Gandhi'
-  url: https://en.wikipedia.org/wiki/Mahatma_Gandhi
-  type: other
+  - name: 'Open Library: Young India'
+    url: 'https://openlibrary.org/search?q=Young+India+Gandhi'
+    type: other
+  - name: 'Wikipedia: Mahatma Gandhi'
+    url: 'https://en.wikipedia.org/wiki/Mahatma_Gandhi'
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+"La jeune Inde" emerges as a pivotal textual manifestation of Mahatma Gandhi's political philosophy during the critical interwar period of Indian anti-colonial resistance, published in 1933 when nationalist movements were intensifying their challenge to British imperial governance. Written in French and representing a strategic internationalization of India's struggle, the work compiles Gandhi's political writings, addresses, and reflections on non-violent resistance (Satyagraha), economic self-sufficiency (Swadeshi), and communal harmony. Contextualized within the broader landscape of India's independence movement, the text articulates Gandhi's nuanced approach to anti-colonial struggle, emphasizing ethical transformation over violent confrontation. The work synthesizes complex philosophical principles of civil disobedience, drawing from both Indian philosophical traditions and global anti-colonial discourse, while offering a sophisticated critique of colonial power structures. Gandhi's analysis transcends mere political treatise, presenting a comprehensive worldview that integrates spiritual ethics with political praxis, challenging both colonial administrative frameworks and traditional nationalist rhetoric. By advocating for Hindu-Muslim unity and proposing a radical reimagining of social and political relationships, the text represents a critical intervention in early 20th-century anti-colonial thought. Its significance extends beyond immediate political objectives, providing a profound philosophical blueprint for non-violent social change that would influence global civil rights movements in subsequent decades. The work stands as a seminal document in understanding India's intellectual and political evolution during a transformative historical moment, embodying the complex negotiations of cultural identity, political sovereignty, and ethical resistance characteristic of India's independence struggle.
+
 ---
 
 # La jeune Inde

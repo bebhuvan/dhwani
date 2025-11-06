@@ -1,40 +1,64 @@
 ---
-title: "Soundarya Lahari"
-author: ["Adi Shankara"]
+title: Soundarya Lahari
+author:
+  - Adi Shankara
 year: 800
-language: ["Sanskrit"]
-genre: ["Devotional Poetry", "Tantric Literature", "Philosophical Poetry"]
-description: "Soundarya Lahari (Waves of Beauty) comprises 103 Sanskrit verses celebrating goddess Parvati as Tripura Sundari, the supreme manifestation of divine feminine energy. Traditionally attributed to both Pushpadanta and Adi Shankara, this masterwork synthesizes Tantric practice, Shakta philosophy, and sublime poetic expression. The text divides conceptually into Ananda Lahari (verses 1-41), focusing on esoteric Tantric rituals, yantras, mantras, and kundalini yoga, and Soundarya Lahari proper (verses 42-103), describing the goddess's transcendent beauty and grace. Beyond devotional poetry, the work functions as practical Tantra textbook detailing Sri Yantra worship, puja methods, and spiritual techniques for awakening consciousness. Emphasizing Shakti (divine feminine power) as the active transformative force and Shiva as consciousness, the text presents non-dualistic philosophy through sensory beauty and ritual instruction. Its 36 Sanskrit commentaries and translations into numerous languages attest to enduring theological, literary, and spiritual significance within Hindu traditions and beyond."
-collections: ['devotional-literature', 'classical-literature', 'religious-texts', 'philosophical-works']
+language:
+  - Sanskrit
+genre:
+  - Devotional Poetry
+  - Tantric Literature
+  - Philosophical Poetry
+description: >-
+  Soundarya Lahari (Waves of Beauty) comprises 103 Sanskrit verses celebrating
+  goddess Parvati as Tripura Sundari, the supreme manifestation of divine
+  feminine energy. Traditionally attributed to both Pushpadanta and Adi
+  Shankara, this masterwork synthesizes Tantric practice, Shakta philosophy, and
+  sublime poetic expression.
+collections:
+  - devotional-literature
+  - classical-literature
+  - religious-texts
+  - philosophical-works
 sources:
-  - name: "Internet Archive: Soundarya Lahari (Multiple editions)"
-    url: "https://archive.org/search?query=soundarya+lahari"
-    type: "other"
-  - name: "Sacred Texts: Ananda Lahari"
-    url: "https://www.sacred-texts.com/hin/sha/index.htm"
-    type: "other"
-  - name: "Sanskrit Documents: Soundarya Lahari"
-    url: "http://sanskritdocuments.org/sites/giirvaani/giirvaani/sl/saundaryalahari.htm"
-    type: "other"
+  - name: 'Internet Archive: Soundarya Lahari (Multiple editions)'
+    url: 'https://archive.org/search?query=soundarya+lahari'
+    type: other
+  - name: 'Sacred Texts: Ananda Lahari'
+    url: 'https://www.sacred-texts.com/hin/sha/index.htm'
+    type: other
+  - name: 'Sanskrit Documents: Soundarya Lahari'
+    url: >-
+      http://sanskritdocuments.org/sites/giirvaani/giirvaani/sl/saundaryalahari.htm
+    type: other
 references:
-  - name: "Wikipedia: Soundarya Lahari"
-    url: "https://en.wikipedia.org/wiki/Soundarya_Lahari"
-    type: "wikipedia"
-  - name: "Wikipedia: Adi Shankara"
-    url: "https://en.wikipedia.org/wiki/Adi_Shankara"
-    type: "wikipedia"
-  - name: "Wikipedia: Shakta"
-    url: "https://en.wikipedia.org/wiki/Shaktism"
-    type: "wikipedia"
-  - name: "Wikipedia: Tantra"
-    url: "https://en.wikipedia.org/wiki/Tantra"
-    type: "wikipedia"
-  - name: "Wikipedia: Sri Yantra"
-    url: "https://en.wikipedia.org/wiki/Sri_Yantra"
-    type: "wikipedia"
+  - name: 'Wikipedia: Soundarya Lahari'
+    url: 'https://en.wikipedia.org/wiki/Soundarya_Lahari'
+    type: wikipedia
+  - name: 'Wikipedia: Adi Shankara'
+    url: 'https://en.wikipedia.org/wiki/Adi_Shankara'
+    type: wikipedia
+  - name: 'Wikipedia: Shakta'
+    url: 'https://en.wikipedia.org/wiki/Shaktism'
+    type: wikipedia
+  - name: 'Wikipedia: Tantra'
+    url: 'https://en.wikipedia.org/wiki/Tantra'
+    type: wikipedia
+  - name: 'Wikipedia: Sri Yantra'
+    url: 'https://en.wikipedia.org/wiki/Sri_Yantra'
+    type: wikipedia
 featured: false
-publishDate: 2025-11-02
-tags: ['classical-literature', 'poetry-collection', 'religious', 'tantric']
+publishDate: 2025-11-02T00:00:00.000Z
+tags:
+  - classical-literature
+  - poetry-collection
+  - religious
+  - tantric
+---
+## Historical Context
+
+Soundarya Lahari (Waves of Beauty) comprises 103 Sanskrit verses celebrating goddess Parvati as Tripura Sundari, the supreme manifestation of divine feminine energy. Traditionally attributed to both Pushpadanta and Adi Shankara, this masterwork synthesizes Tantric practice, Shakta philosophy, and sublime poetic expression. The text divides conceptually into Ananda Lahari (verses 1-41), focusing on esoteric Tantric rituals, yantras, mantras, and kundalini yoga, and Soundarya Lahari proper (verses 42-103), describing the goddess's transcendent beauty and grace. Beyond devotional poetry, the work functions as practical Tantra textbook detailing Sri Yantra worship, puja methods, and spiritual techniques for awakening consciousness. Emphasizing Shakti (divine feminine power) as the active transformative force and Shiva as consciousness, the text presents non-dualistic philosophy through sensory beauty and ritual instruction. Its 36 Sanskrit commentaries and translations into numerous languages attest to enduring theological, literary, and spiritual significance within Hindu traditions and beyond.
+
 ---
 
 # Soundarya Lahari

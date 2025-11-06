@@ -1,27 +1,42 @@
 ---
-title: 'A comparative grammar of the Sanskrit, Zend, Greek, Latin, Lithuanian, Gothic, German, and Slavonic languages'
+title: >-
+  A comparative grammar of the Sanskrit, Zend, Greek, Latin, Lithuanian, Gothic,
+  German, and Slavonic languages
 author:
-- Bopp, Franz, 1791-1867
-- Eastwick, Edward Backhouse, 1814-1883
+  - 'Bopp, Franz, 1791-1867'
+  - 'Eastwick, Edward Backhouse, 1814-1883'
 year: 1885
 language:
-- English
+  - English
 genre:
-- Linguistics
-description: |
-  Franz Bopp's seminal comparative linguistic work represents a critical scholarly intervention in 19th-century philological research, situated within the complex intellectual landscape of European colonial scholarship and emerging comparative linguistics. Published in 1885, the comprehensive grammar systematically examines linguistic structures across Sanskrit, Avestan, Greek, Latin, Lithuanian, Gothic, German, and Slavonic languages, establishing rigorous methodological foundations for Indo-European language comparative analysis. Bopp, a prominent German linguist associated with the University of Berlin, meticulously mapped phonological and morphological correspondences that fundamentally transformed understanding of linguistic genealogy and historical language development. By positioning Sanskrit as a pivotal analytical lens, the work critically illuminated historical interconnections between Indo-Iranian and European language families, challenging prevailing European intellectual paradigms about linguistic origins and cultural transmission. The research emerged during an intellectually fertile period characterized by intense scholarly engagement with Indian linguistic and cultural systems, reflecting both the colonial academic enterprise and genuine intellectual curiosity about human linguistic evolution. Bopp's methodology demonstrated sophisticated structural similarities across seemingly disparate language systems, revealing intricate networks of linguistic inheritance that transcended contemporary geopolitical boundaries. For Indian intellectual heritage, this work represented a significant moment of external scholarly recognition, wherein Sanskrit was elevated from a classical language to a sophisticated analytical framework for understanding broader human linguistic communication. Beyond its linguistic contributions, the grammar embodied the era's comparative methodological approaches, simultaneously documenting and interpreting complex cultural-linguistic relationships through a systematic, empirical scholarly lens.
+  - Linguistics
+description: >-
+  Franz Bopp's seminal comparative linguistic work represents a critical
+  scholarly intervention in 19th-century philological research, situated within
+  the complex intellectual landscape of European colonial scholarship and
+  emerging comparative linguistics. Published in 1885, the comprehensive grammar
+  systematically examines linguistic structures across Sanskrit, Avestan, Greek,
+  Latin, Lithuanian, Gothic, German, and Slavonic languages, establishing
+  rigorous methodological foundations for Indo-European language comparative
+  analysis.
 collections:
-- linguistic-works
+  - linguistic-works
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/comparativegramm01boppuoft
-  type: archive
+  - name: Internet Archive
+    url: 'https://archive.org/details/comparativegramm01boppuoft'
+    type: archive
 references:
-- name: 'Open Library: Comparative Grammar Sanskrit Languages'
-  url: https://openlibrary.org/search?q=Comparative+Grammar+Sanskrit+Languages+Franz+Bopp
-  type: other
+  - name: 'Open Library: Comparative Grammar Sanskrit Languages'
+    url: >-
+      https://openlibrary.org/search?q=Comparative+Grammar+Sanskrit+Languages+Franz+Bopp
+    type: other
 featured: false
-publishDate: 2025-01-22
+publishDate: 2025-01-22T00:00:00.000Z
+---
+## Historical Context
+
+Franz Bopp's seminal comparative linguistic work represents a critical scholarly intervention in 19th-century philological research, situated within the complex intellectual landscape of European colonial scholarship and emerging comparative linguistics. Published in 1885, the comprehensive grammar systematically examines linguistic structures across Sanskrit, Avestan, Greek, Latin, Lithuanian, Gothic, German, and Slavonic languages, establishing rigorous methodological foundations for Indo-European language comparative analysis. Bopp, a prominent German linguist associated with the University of Berlin, meticulously mapped phonological and morphological correspondences that fundamentally transformed understanding of linguistic genealogy and historical language development. By positioning Sanskrit as a pivotal analytical lens, the work critically illuminated historical interconnections between Indo-Iranian and European language families, challenging prevailing European intellectual paradigms about linguistic origins and cultural transmission. The research emerged during an intellectually fertile period characterized by intense scholarly engagement with Indian linguistic and cultural systems, reflecting both the colonial academic enterprise and genuine intellectual curiosity about human linguistic evolution. Bopp's methodology demonstrated sophisticated structural similarities across seemingly disparate language systems, revealing intricate networks of linguistic inheritance that transcended contemporary geopolitical boundaries. For Indian intellectual heritage, this work represented a significant moment of external scholarly recognition, wherein Sanskrit was elevated from a classical language to a sophisticated analytical framework for understanding broader human linguistic communication. Beyond its linguistic contributions, the grammar embodied the era's comparative methodological approaches, simultaneously documenting and interpreting complex cultural-linguistic relationships through a systematic, empirical scholarly lens.
+
 ---
 
 # A comparative grammar of the Sanskrit, Zend, Greek, Latin, Lithuanian, Gothic, German, and Slavonic languages;

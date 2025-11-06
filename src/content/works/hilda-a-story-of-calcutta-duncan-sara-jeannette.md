@@ -1,35 +1,46 @@
 ---
 title: 'Hilda: A Story of Calcutta'
 author:
-- Duncan, Sara Jeannette
+  - 'Duncan, Sara Jeannette'
 year: 1907
 language:
-- English
+  - English
 genre:
-- Fiction
-description: |
-  Sara Jeannette Duncan's "Hilda: A Story of Calcutta" (1907) represents a significant literary work situated at the intersection of colonial Indian experience, transnational perspectives, and emerging feminist narratives during the early 20th century. Set in British colonial Calcutta, the novel offers a complex exploration of cultural negotiations, artistic agency, and gendered social expectations through the protagonist Hilda Howe, a professional actress challenging contemporary societal norms. Duncan, a Canadian journalist and novelist with extensive experience in India, provides a nuanced outsider's lens into the intricate social dynamics of Bengal during a period of profound cultural and political transformation. The narrative critically examines the tensions between individual artistic ambition and societal constraints, juxtaposing Hilda's professional aspirations with the religious conviction of Laura Filbert, a Salvation Army missionary, to illuminate the multifaceted dimensions of female identity in colonial urban spaces. By rendering the complexities of cultural belonging, professional mobility, and personal autonomy, the novel contributes to broader discourses on gender, colonialism, and cross-cultural interactions. Duncan's work is particularly significant in Indian literary studies for its sophisticated portrayal of female subjectivity, challenging colonial-era stereotypes and presenting a sophisticated narrative of women's agency. The text serves as an important historical document, reflecting the intellectual and social negotiations occurring in Bengal during a critical period of cultural reconfiguration, and offers scholars valuable insights into the intersections of gender, performance, and colonial modernity in early 20th-century Indian urban contexts.
+  - Fiction
+description: >-
+  Sara Jeannette Duncan's "Hilda: A Story of Calcutta" (1907) represents a
+  significant literary work situated at the intersection of colonial Indian
+  experience, transnational perspectives, and emerging feminist narratives
+  during the early 20th century. Set in British colonial Calcutta, the novel
+  offers a complex exploration of cultural negotiations, artistic agency, and
+  gendered social expectations through the protagonist Hilda Howe, a
+  professional actress challenging contemporary societal norms.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/18051
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/18051.html.images
-  type: other
-- name: 'Internet Archive (Hilda: A Story of Calcutta)'
-  url: https://archive.org/details/hilda18051gut
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/18051'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/18051.html.images'
+    type: other
+  - name: 'Internet Archive (Hilda: A Story of Calcutta)'
+    url: 'https://archive.org/details/hilda18051gut'
+    type: other
 references:
-- name: 'Open Library: Hilda A Story of Calcutta'
-  url: https://openlibrary.org/search?q=Hilda+Story+of+Calcutta+Duncan
-  type: other
-- name: 'Wikipedia: Hilda'
-  url: https://en.wikipedia.org/wiki/Hilda
-  type: other
+  - name: 'Open Library: Hilda A Story of Calcutta'
+    url: 'https://openlibrary.org/search?q=Hilda+Story+of+Calcutta+Duncan'
+    type: other
+  - name: 'Wikipedia: Hilda'
+    url: 'https://en.wikipedia.org/wiki/Hilda'
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+Sara Jeannette Duncan's "Hilda: A Story of Calcutta" (1907) represents a significant literary work situated at the intersection of colonial Indian experience, transnational perspectives, and emerging feminist narratives during the early 20th century. Set in British colonial Calcutta, the novel offers a complex exploration of cultural negotiations, artistic agency, and gendered social expectations through the protagonist Hilda Howe, a professional actress challenging contemporary societal norms. Duncan, a Canadian journalist and novelist with extensive experience in India, provides a nuanced outsider's lens into the intricate social dynamics of Bengal during a period of profound cultural and political transformation. The narrative critically examines the tensions between individual artistic ambition and societal constraints, juxtaposing Hilda's professional aspirations with the religious conviction of Laura Filbert, a Salvation Army missionary, to illuminate the multifaceted dimensions of female identity in colonial urban spaces. By rendering the complexities of cultural belonging, professional mobility, and personal autonomy, the novel contributes to broader discourses on gender, colonialism, and cross-cultural interactions. Duncan's work is particularly significant in Indian literary studies for its sophisticated portrayal of female subjectivity, challenging colonial-era stereotypes and presenting a sophisticated narrative of women's agency. The text serves as an important historical document, reflecting the intellectual and social negotiations occurring in Bengal during a critical period of cultural reconfiguration, and offers scholars valuable insights into the intersections of gender, performance, and colonial modernity in early 20th-century Indian urban contexts.
+
 ---
 
 # Hilda: A Story of Calcutta

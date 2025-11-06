@@ -1,36 +1,50 @@
 ---
-title: 'The Panchatantra: A Collection of Ancient Hindu Tales in the Panchakhyanaka Recension'
+title: >-
+  The Panchatantra: A Collection of Ancient Hindu Tales in the Panchakhyanaka
+  Recension
 author:
-- Purnabhadra
-- Johannes Hertel
+  - Purnabhadra
+  - Johannes Hertel
 year: 1908
 language:
-- Sanskrit
-- English
+  - Sanskrit
+  - English
 genre:
-- Fables
-- Wisdom Literature
-- Ancient Literature
-- Philosophy
-description: |
-  Johannes Hertel's scholarly edition of the Panchatantra provides a definitive examination of this seminal Sanskrit text from the Panchakhyanaka recension, dated to 1199 AD, representing a critical contribution to understanding classical Indian narrative traditions. Originating in the late first millennium CE, likely during the Gupta or early medieval period, the Panchatantra is a sophisticated collection of interconnected animal fables and moral narratives that embody complex philosophical and ethical principles of ancient Indian thought. Traditionally attributed to the brahmin scholar Vishnu Sharma, the text systematically explores human behavior, political strategy, and social dynamics through allegorical animal characters, presenting nuanced philosophical insights into governance, interpersonal relationships, and moral reasoning. Each of the five narrative "books" (tantra) interconnects stories that demonstrate strategic thinking, diplomatic negotiation, and the consequences of individual actions within broader social contexts. The work's remarkable transmission across linguistic and cultural boundaries—influencing storytelling traditions from Arabic adaptations like Kalila wa-Dimna to European folktales—underscores its universal narrative strategies and philosophical sophistication. As a foundational text in Indian intellectual heritage, the Panchatantra represents more than a mere collection of moral tales; it serves as a sophisticated treatise on statecraft, interpersonal dynamics, and ethical decision-making, reflecting the complex intellectual environments of classical Indian scholarly discourse. Hertel's meticulous scholarly edition provides contemporary researchers with unprecedented access to this intricate textual tradition, illuminating the depth and complexity of medieval Indian narrative and philosophical thought.
+  - Fables
+  - Wisdom Literature
+  - Ancient Literature
+  - Philosophy
+description: >-
+  Johannes Hertel's scholarly edition of the Panchatantra provides a definitive
+  examination of this seminal Sanskrit text from the Panchakhyanaka recension,
+  dated to 1199 AD, representing a critical contribution to understanding
+  classical Indian narrative traditions. Originating in the late first
+  millennium CE, likely during the Gupta or early medieval period, the
+  Panchatantra is a sophisticated collection of interconnected animal fables and
+  moral narratives that embody complex philosophical and ethical principles of
+  ancient Indian thought.
 collections:
-- ancient-wisdom
-- spiritual-texts
-- classical-literature
+  - ancient-wisdom
+  - spiritual-texts
+  - classical-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/panchatantracoll00purnuoft
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/panchatantracoll00purnuoft'
+    type: other
 references:
-- name: 'Wikipedia: Panchatantra'
-  url: https://en.wikipedia.org/wiki/Panchatantra
-  type: wikipedia
-- name: 'Open Library'
-  url: https://openlibrary.org/search?q=The+Panchatantra&mode=everything
-  type: other
+  - name: 'Wikipedia: Panchatantra'
+    url: 'https://en.wikipedia.org/wiki/Panchatantra'
+    type: wikipedia
+  - name: Open Library
+    url: 'https://openlibrary.org/search?q=The+Panchatantra&mode=everything'
+    type: other
 featured: false
-publishDate: 2025-09-28
+publishDate: 2025-09-28T00:00:00.000Z
+---
+## Historical Context
+
+Johannes Hertel's scholarly edition of the Panchatantra provides a definitive examination of this seminal Sanskrit text from the Panchakhyanaka recension, dated to 1199 AD, representing a critical contribution to understanding classical Indian narrative traditions. Originating in the late first millennium CE, likely during the Gupta or early medieval period, the Panchatantra is a sophisticated collection of interconnected animal fables and moral narratives that embody complex philosophical and ethical principles of ancient Indian thought. Traditionally attributed to the brahmin scholar Vishnu Sharma, the text systematically explores human behavior, political strategy, and social dynamics through allegorical animal characters, presenting nuanced philosophical insights into governance, interpersonal relationships, and moral reasoning. Each of the five narrative "books" (tantra) interconnects stories that demonstrate strategic thinking, diplomatic negotiation, and the consequences of individual actions within broader social contexts. The work's remarkable transmission across linguistic and cultural boundaries—influencing storytelling traditions from Arabic adaptations like Kalila wa-Dimna to European folktales—underscores its universal narrative strategies and philosophical sophistication. As a foundational text in Indian intellectual heritage, the Panchatantra represents more than a mere collection of moral tales; it serves as a sophisticated treatise on statecraft, interpersonal dynamics, and ethical decision-making, reflecting the complex intellectual environments of classical Indian scholarly discourse. Hertel's meticulous scholarly edition provides contemporary researchers with unprecedented access to this intricate textual tradition, illuminating the depth and complexity of medieval Indian narrative and philosophical thought.
+
 ---
 
 # The Panchatantra: A Collection of Ancient Hindu Tales in the Panchakhyanaka Recension

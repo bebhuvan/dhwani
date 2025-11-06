@@ -1,41 +1,52 @@
 ---
-title: 'The Raghuvamsa of Kalidasa'
+title: The Raghuvamsa of Kalidasa
 author:
-- Kalidasa
-- Mallinatha Suri
-- M. R. Kale
+  - Kalidasa
+  - Mallinatha Suri
+  - M. R. Kale
 year: 1922
 language:
-- Sanskrit
-- English
+  - Sanskrit
+  - English
 genre:
-- Epic Poetry
-- Classical Literature
-description: |
-  Kalidasa's Raghuvamsa represents a quintessential exemplar of classical Sanskrit mahakavya (epic poetry), composed during the culturally efflorescent Gupta period (circa 320-550 CE), a pivotal epoch in Indian intellectual and artistic development. The comprehensive genealogical narrative traces the Solar dynasty's (Raghu dynasty) lineage through 19 meticulously structured cantos, encompassing 1,564 stanzas articulated across 21 sophisticated Sanskrit metrical forms. Beyond its literary sophistication, the text functions as a profound historical and philosophical repository, chronicling royal genealogies, statecraft principles, societal norms, and cultural ideals prevalent in classical Indian civilization. Kalidasa, considered among the most accomplished Sanskrit poets, demonstrates remarkable linguistic virtuosity through intricate poetic techniques, nuanced psychological portraiture, and elegant descriptive passages that interweave mythological narrative with philosophical and ethical discourse. The work's significance extends beyond aesthetic accomplishment, serving as a critical lens into Gupta-era social structures, political configurations, and philosophical conceptualizations. M.R. Kale's seminal 1922 scholarly edition, supplemented by Mallinatha Suri's authoritative 15th-century Sanjivani commentary, has been instrumental in preserving and interpreting this complex textual tradition. Particularly noteworthy are the text's refined descriptions of royal conduct, diplomatic relationships, and the interconnected moral-aesthetic frameworks that characterized classical Indian literary imagination, making the Raghuvamsa an indispensable scholarly resource for understanding the intellectual and cultural dynamics of pre-medieval Indian civilization.
+  - Epic Poetry
+  - Classical Literature
+description: >-
+  Kalidasa's Raghuvamsa represents a quintessential exemplar of classical
+  Sanskrit mahakavya (epic poetry), composed during the culturally efflorescent
+  Gupta period (circa 320-550 CE), a pivotal epoch in Indian intellectual and
+  artistic development. The comprehensive genealogical narrative traces the
+  Solar dynasty's (Raghu dynasty) lineage through 19 meticulously structured
+  cantos, encompassing 1,564 stanzas articulated across 21 sophisticated
+  Sanskrit metrical forms.
 collections:
-- classical-literature
-- poetry-collection
-- ancient-wisdom
+  - classical-literature
+  - poetry-collection
+  - ancient-wisdom
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/raghuvamsaofkali00kliduoft
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/raghuvamsaofkali00kliduoft'
+    type: other
 references:
-- name: 'Wikipedia: Raghuvaṃśa'
-  url: https://en.wikipedia.org/wiki/Raghuvaṃśa
-  type: wikipedia
-- name: 'Wikipedia: Kalidasa'
-  url: https://en.wikipedia.org/wiki/Kalidasa
-  type: wikipedia
-- name: 'Wikipedia: Mallinātha Sūri'
-  url: https://en.wikipedia.org/wiki/Mallinātha_Sūri
-  type: wikipedia
-- name: 'Open Library'
-  url: https://openlibrary.org/search?q=raghuvamsa+kalidasa+kale&mode=everything
-  type: other
+  - name: 'Wikipedia: Raghuvaṃśa'
+    url: 'https://en.wikipedia.org/wiki/Raghuvaṃśa'
+    type: wikipedia
+  - name: 'Wikipedia: Kalidasa'
+    url: 'https://en.wikipedia.org/wiki/Kalidasa'
+    type: wikipedia
+  - name: 'Wikipedia: Mallinātha Sūri'
+    url: 'https://en.wikipedia.org/wiki/Mallinātha_Sūri'
+    type: wikipedia
+  - name: Open Library
+    url: 'https://openlibrary.org/search?q=raghuvamsa+kalidasa+kale&mode=everything'
+    type: other
 featured: false
-publishDate: 2025-10-23
+publishDate: 2025-10-23T00:00:00.000Z
+---
+## Historical Context
+
+Kalidasa's Raghuvamsa represents a quintessential exemplar of classical Sanskrit mahakavya (epic poetry), composed during the culturally efflorescent Gupta period (circa 320-550 CE), a pivotal epoch in Indian intellectual and artistic development. The comprehensive genealogical narrative traces the Solar dynasty's (Raghu dynasty) lineage through 19 meticulously structured cantos, encompassing 1,564 stanzas articulated across 21 sophisticated Sanskrit metrical forms. Beyond its literary sophistication, the text functions as a profound historical and philosophical repository, chronicling royal genealogies, statecraft principles, societal norms, and cultural ideals prevalent in classical Indian civilization. Kalidasa, considered among the most accomplished Sanskrit poets, demonstrates remarkable linguistic virtuosity through intricate poetic techniques, nuanced psychological portraiture, and elegant descriptive passages that interweave mythological narrative with philosophical and ethical discourse. The work's significance extends beyond aesthetic accomplishment, serving as a critical lens into Gupta-era social structures, political configurations, and philosophical conceptualizations. M.R. Kale's seminal 1922 scholarly edition, supplemented by Mallinatha Suri's authoritative 15th-century Sanjivani commentary, has been instrumental in preserving and interpreting this complex textual tradition. Particularly noteworthy are the text's refined descriptions of royal conduct, diplomatic relationships, and the interconnected moral-aesthetic frameworks that characterized classical Indian literary imagination, making the Raghuvamsa an indispensable scholarly resource for understanding the intellectual and cultural dynamics of pre-medieval Indian civilization.
+
 ---
 
 # The Raghuvamsa of Kalidasa

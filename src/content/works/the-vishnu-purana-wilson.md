@@ -1,44 +1,53 @@
 ---
 title: 'The Viṣṇu Purāṇa: A System of Hindu Mythology and Tradition'
 author:
-- Horace Hayman Wilson (translator)
-- Manmatha Nath Dutt (prose version)
+  - Horace Hayman Wilson (translator)
+  - Manmatha Nath Dutt (prose version)
 year: 1840
 language:
-- English
-- Sanskrit
+  - English
+  - Sanskrit
 genre:
-- Mythology
-- Religious Literature
-- Translation
-description: |
-  During the transformative period of early 19th-century colonial scholarship, H.H. Wilson's 1840 translation of the Viṣṇu Purāṇa represented a critical scholarly intervention in understanding classical Hindu intellectual and cosmological traditions. As Oxford University's first Boden Professor of Sanskrit (1832-1860), Wilson was instrumental in bridging Western academic discourse with profound indigenous Indian textual systems. The translation emerged during a complex intellectual moment characterized by the East India Company's expanding administrative and scholarly engagement with Indian cultural knowledge. Wilson's meticulous rendering not only provided the first complete English translation of a major Purana but also systematically decoded intricate Vaishnava theological and mythological frameworks for a Western scholarly audience. The work comprehensively explores divine genealogies, cosmological narratives, philosophical concepts, and religious practices centered around Vishnu, presenting a nuanced representation of Hindu theological complexity. Wilson's extensive scholarly annotations contextualized Hindu conceptual structures, demonstrating sophisticated hermeneutical approaches that went beyond mere linguistic translation to offer deep cultural interpretations. By presenting the Viṣṇu Purāṇa's rich narrative traditions—including creation myths, divine genealogies, and philosophical discourses—Wilson pioneered comparative religious studies and provided critical insights into Sanskrit textual traditions. His translation significantly contributed to emerging Indological scholarship, facilitating cross-cultural understanding and establishing foundational methodological approaches for subsequent generations of scholars studying Indian religious and philosophical texts. The work remains a landmark scholarly achievement in translating and interpreting classical Indian religious literature.
+  - Mythology
+  - Religious Literature
+  - Translation
+description: >-
+  During the transformative period of early 19th-century colonial scholarship,
+  H.H. Wilson's 1840 translation of the Viṣṇu Purāṇa represented a critical
+  scholarly intervention in understanding classical Hindu intellectual and
+  cosmological traditions.
 collections:
-- spiritual-texts
-- classical-literature
-- ancient-wisdom
+  - spiritual-texts
+  - classical-literature
+  - ancient-wisdom
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/66208
-  type: other
-- name: 'Internet Archive'
-  url: https://archive.org/details/dli.csl.8168
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/66208'
+    type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/dli.csl.8168'
+    type: other
 references:
-- name: 'Wikipedia: H. H. Wilson'
-  url: https://en.wikipedia.org/wiki/H._H._Wilson
-  type: wikipedia
-- name: 'Wikipedia: Vishnu Purana'
-  url: https://en.wikipedia.org/wiki/Vishnu_Purana
-  type: wikipedia
-- name: 'Wikipedia: Manmatha Nath Dutt'
-  url: https://en.wikipedia.org/wiki/Manmatha_Nath_Dutt
-  type: wikipedia
-- name: 'Open Library: The Viṣṇu Purāṇa'
-  url: https://openlibrary.org/search?q=The+Viṣṇu+Purāṇa+A+System+of+Horace+Hayman+Wilson+translator
-  type: other
+  - name: 'Wikipedia: H. H. Wilson'
+    url: 'https://en.wikipedia.org/wiki/H._H._Wilson'
+    type: wikipedia
+  - name: 'Wikipedia: Vishnu Purana'
+    url: 'https://en.wikipedia.org/wiki/Vishnu_Purana'
+    type: wikipedia
+  - name: 'Wikipedia: Manmatha Nath Dutt'
+    url: 'https://en.wikipedia.org/wiki/Manmatha_Nath_Dutt'
+    type: wikipedia
+  - name: 'Open Library: The Viṣṇu Purāṇa'
+    url: >-
+      https://openlibrary.org/search?q=The+Viṣṇu+Purāṇa+A+System+of+Horace+Hayman+Wilson+translator
+    type: other
 featured: true
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+During the transformative period of early 19th-century colonial scholarship, H.H. Wilson's 1840 translation of the Viṣṇu Purāṇa represented a critical scholarly intervention in understanding classical Hindu intellectual and cosmological traditions. As Oxford University's first Boden Professor of Sanskrit (1832-1860), Wilson was instrumental in bridging Western academic discourse with profound indigenous Indian textual systems. The translation emerged during a complex intellectual moment characterized by the East India Company's expanding administrative and scholarly engagement with Indian cultural knowledge. Wilson's meticulous rendering not only provided the first complete English translation of a major Purana but also systematically decoded intricate Vaishnava theological and mythological frameworks for a Western scholarly audience. The work comprehensively explores divine genealogies, cosmological narratives, philosophical concepts, and religious practices centered around Vishnu, presenting a nuanced representation of Hindu theological complexity. Wilson's extensive scholarly annotations contextualized Hindu conceptual structures, demonstrating sophisticated hermeneutical approaches that went beyond mere linguistic translation to offer deep cultural interpretations. By presenting the Viṣṇu Purāṇa's rich narrative traditions—including creation myths, divine genealogies, and philosophical discourses—Wilson pioneered comparative religious studies and provided critical insights into Sanskrit textual traditions. His translation significantly contributed to emerging Indological scholarship, facilitating cross-cultural understanding and establishing foundational methodological approaches for subsequent generations of scholars studying Indian religious and philosophical texts. The work remains a landmark scholarly achievement in translating and interpreting classical Indian religious literature.
+
 ---
 
 # The Viṣṇu Purāṇa: A System of Hindu Mythology and Tradition

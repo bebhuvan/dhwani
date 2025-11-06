@@ -1,35 +1,48 @@
 ---
-title: 'Pañcāstikāyasāra (Essence of Five Extended Substances)'
+title: Pañcāstikāyasāra (Essence of Five Extended Substances)
 author:
-- Acharya Kundakunda (c. 2nd century CE)
+  - Acharya Kundakunda (c. 2nd century CE)
 year: 1920
 language:
-- Sanskrit
-- Prakrit
+  - Sanskrit
+  - Prakrit
 genre:
-- Jain Philosophy
-- Metaphysics
-description: |
-  The Pañcāstikāyasāra represents a foundational philosophical text of Digambara Jainism, composed during a critical period of religious systematization in early medieval South India when complex metaphysical frameworks were emerging across Indian intellectual traditions. Authored by Acharya Kundakunda, a pivotal Jain scholar whose precise biographical details remain scholarly debated, the text articulates a sophisticated metaphysical schema exploring the fundamental extended substances (astikayas) that constitute existential reality. By meticulously delineating five ontological categories—jiva (conscious substance), pudgala (matter), dharma (principle of motion), adharma (principle of rest), and akasha (space)—Kundakunda offers a nuanced philosophical analysis that transcends conventional phenomenological understanding. The work's distinctive contribution lies in its rigorous exposition of the nishchaya naya (absolute perspective) and vyavahara naya (conventional perspective), demonstrating sophisticated philosophical methods of interpretation that allow simultaneous engagement with empirical and transcendental realms of understanding. Critically, the text exemplifies the Digambara school's intellectual rigor, representing a sophisticated philosophical discourse that challenges simplistic materialist interpretations of reality while providing a complex epistemological framework for understanding consciousness, materiality, and spiritual liberation. Its 1920 critical edition, which preserves the original Prakrit gathas alongside Sanskrit commentary, makes this seminal work accessible to scholars of Indian philosophy, religious studies, and comparative metaphysics, offering profound insights into the intricate philosophical landscape of medieval Indian intellectual traditions.
+  - Jain Philosophy
+  - Metaphysics
+description: >-
+  The Pañcāstikāyasāra represents a foundational philosophical text of Digambara
+  Jainism, composed during a critical period of religious systematization in
+  early medieval South India when complex metaphysical frameworks were emerging
+  across Indian intellectual traditions. Authored by Acharya Kundakunda, a
+  pivotal Jain scholar whose precise biographical details remain scholarly
+  debated, the text articulates a sophisticated metaphysical schema exploring
+  the fundamental extended substances (astikayas) that constitute existential
+  reality.
 collections:
-- ancient-wisdom
-- jain-texts
+  - ancient-wisdom
+  - jain-texts
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.ernet.dli.2015.322296
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/in.ernet.dli.2015.322296'
+    type: other
 references:
-- name: 'Wikipedia: Kundakunda'
-  url: https://en.wikipedia.org/wiki/Kundakunda
-  type: wikipedia
-- name: 'Wikipedia: Jain cosmology'
-  url: https://en.wikipedia.org/wiki/Jain_cosmology
-  type: wikipedia
-- name: 'Open Library'
-  url: https://openlibrary.org/search?q=Panchastikayasara+Kundakunda&mode=everything
-  type: other
+  - name: 'Wikipedia: Kundakunda'
+    url: 'https://en.wikipedia.org/wiki/Kundakunda'
+    type: wikipedia
+  - name: 'Wikipedia: Jain cosmology'
+    url: 'https://en.wikipedia.org/wiki/Jain_cosmology'
+    type: wikipedia
+  - name: Open Library
+    url: >-
+      https://openlibrary.org/search?q=Panchastikayasara+Kundakunda&mode=everything
+    type: other
 featured: false
-publishDate: 2025-10-26
+publishDate: 2025-10-26T00:00:00.000Z
+---
+## Historical Context
+
+The Pañcāstikāyasāra represents a foundational philosophical text of Digambara Jainism, composed during a critical period of religious systematization in early medieval South India when complex metaphysical frameworks were emerging across Indian intellectual traditions. Authored by Acharya Kundakunda, a pivotal Jain scholar whose precise biographical details remain scholarly debated, the text articulates a sophisticated metaphysical schema exploring the fundamental extended substances (astikayas) that constitute existential reality. By meticulously delineating five ontological categories—jiva (conscious substance), pudgala (matter), dharma (principle of motion), adharma (principle of rest), and akasha (space)—Kundakunda offers a nuanced philosophical analysis that transcends conventional phenomenological understanding. The work's distinctive contribution lies in its rigorous exposition of the nishchaya naya (absolute perspective) and vyavahara naya (conventional perspective), demonstrating sophisticated philosophical methods of interpretation that allow simultaneous engagement with empirical and transcendental realms of understanding. Critically, the text exemplifies the Digambara school's intellectual rigor, representing a sophisticated philosophical discourse that challenges simplistic materialist interpretations of reality while providing a complex epistemological framework for understanding consciousness, materiality, and spiritual liberation. Its 1920 critical edition, which preserves the original Prakrit gathas alongside Sanskrit commentary, makes this seminal work accessible to scholars of Indian philosophy, religious studies, and comparative metaphysics, offering profound insights into the intricate philosophical landscape of medieval Indian intellectual traditions.
+
 ---
 
 # Pañcāstikāyasāra (Essence of Five Extended Substances)

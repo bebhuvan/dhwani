@@ -1,33 +1,41 @@
 ---
-title: 'A History of the Maratha People (Volume I)'
+title: A History of the Maratha People (Volume I)
 author:
-- C. A. Kincaid and Rao Bahadur D. B. Parasnis
+  - C. A. Kincaid and Rao Bahadur D. B. Parasnis
 year: 1918
 language:
-- English
+  - English
 genre:
-- Literature
-description: |
-  A History of the Maratha People (Volume I) emerges as a seminal scholarly work situated within the late colonial period of Indian historiography, offering a comprehensive examination of the Maratha Empire's complex political, cultural, and social landscape. Published in 1918 by C. A. Kincaid, a British colonial administrator and historian, and Rao Bahadur D. B. Parasnis, a prominent Maharashtrian scholar, the text represents a collaborative effort to document the trajectory of one of India's most significant regional powers. The work critically explores the Maratha civilization from its emergence in the mid-17th century through its zenith of territorial and political influence, providing nuanced insights into the region's administrative structures, military strategies, and sociopolitical transformations. Drawing from extensive archival research, primary sources, and regional chronicles, the authors meticulously reconstruct the Maratha people's historical narrative, capturing the intricate dynamics of leadership, particularly under influential figures like Chhatrapati Shivaji Maharaj and subsequent Peshwa administrators. The text is particularly noteworthy for its balanced approach, offering perspectives that bridge colonial scholarly traditions with indigenous historical understanding. By contextualizing the Maratha Empire's regional significance within broader Indian historical developments, Kincaid and Parasnis contribute a foundational scholarly intervention that transcends mere chronological documentation, instead presenting a rich, multilayered exploration of cultural identity, political resistance, and societal evolution during a transformative period in Indian history. The work remains a critical reference for understanding the complex interactions between regional power structures, cultural resilience, and colonial historical documentation.
+  - Literature
+description: >-
+  A History of the Maratha People (Volume I) emerges as a seminal scholarly work
+  situated within the late colonial period of Indian historiography, offering a
+  comprehensive examination of the Maratha Empire's complex political, cultural,
+  and social landscape. Published in 1918 by C.
 sources:
-- name: 'Internet Archive (Volume 1)'
-  url: https://archive.org/details/historyofmaratha01kincuoft
-  type: other
-- name: 'Internet Archive (Complete work - Digital Library of India)'
-  url: https://archive.org/details/in.ernet.dli.2015.81318
-  type: other
+  - name: Internet Archive (Volume 1)
+    url: 'https://archive.org/details/historyofmaratha01kincuoft'
+    type: other
+  - name: Internet Archive (Complete work - Digital Library of India)
+    url: 'https://archive.org/details/in.ernet.dli.2015.81318'
+    type: other
 references:
-- name: 'Wikipedia: Maratha Empire'
-  url: https://en.wikipedia.org/wiki/Maratha_Empire
-  type: other
-- name: 'Wikipedia: Charles Augustus Kincaid'
-  url: https://en.wikipedia.org/wiki/Charles_Augustus_Kincaid
-  type: other
-- name: 'Open Library: A History of the Maratha People'
-  url: https://openlibrary.org/search?q=History+Maratha+People+Kincaid
-  type: other
+  - name: 'Wikipedia: Maratha Empire'
+    url: 'https://en.wikipedia.org/wiki/Maratha_Empire'
+    type: other
+  - name: 'Wikipedia: Charles Augustus Kincaid'
+    url: 'https://en.wikipedia.org/wiki/Charles_Augustus_Kincaid'
+    type: other
+  - name: 'Open Library: A History of the Maratha People'
+    url: 'https://openlibrary.org/search?q=History+Maratha+People+Kincaid'
+    type: other
 featured: false
-publishDate: 2025-11-03 00:00:00+00:00
+publishDate: 2025-11-03T00:00:00.000Z
+---
+## Historical Context
+
+A History of the Maratha People (Volume I) emerges as a seminal scholarly work situated within the late colonial period of Indian historiography, offering a comprehensive examination of the Maratha Empire's complex political, cultural, and social landscape. Published in 1918 by C. A. Kincaid, a British colonial administrator and historian, and Rao Bahadur D. B. Parasnis, a prominent Maharashtrian scholar, the text represents a collaborative effort to document the trajectory of one of India's most significant regional powers. The work critically explores the Maratha civilization from its emergence in the mid-17th century through its zenith of territorial and political influence, providing nuanced insights into the region's administrative structures, military strategies, and sociopolitical transformations. Drawing from extensive archival research, primary sources, and regional chronicles, the authors meticulously reconstruct the Maratha people's historical narrative, capturing the intricate dynamics of leadership, particularly under influential figures like Chhatrapati Shivaji Maharaj and subsequent Peshwa administrators. The text is particularly noteworthy for its balanced approach, offering perspectives that bridge colonial scholarly traditions with indigenous historical understanding. By contextualizing the Maratha Empire's regional significance within broader Indian historical developments, Kincaid and Parasnis contribute a foundational scholarly intervention that transcends mere chronological documentation, instead presenting a rich, multilayered exploration of cultural identity, political resistance, and societal evolution during a transformative period in Indian history. The work remains a critical reference for understanding the complex interactions between regional power structures, cultural resilience, and colonial historical documentation.
+
 ---
 
 # A History of the Maratha People (Volume I)

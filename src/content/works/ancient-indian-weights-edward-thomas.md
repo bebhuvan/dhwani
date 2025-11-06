@@ -1,34 +1,45 @@
 ---
-title: 'Ancient Indian Weights'
+title: Ancient Indian Weights
 author:
-- Edward Thomas
+  - Edward Thomas
 year: 1874
 language:
-- English
+  - English
 genre:
-- Numismatics
-- History
-- Metrology
-description: |
-  Edward Thomas's pioneering 1874 monograph "Ancient Indian Weights" represents a critical scholarly investigation into the intricate metrological systems of the Indian subcontinent from the Vedic through the Gupta periods (circa 1500 BCE-550 CE). Published in the International Numismata Orientalia series, this comprehensive study meticulously reconstructs weight standards by synthesizing numismatic evidence, archaeological artifacts, and textual sources from Sanskrit and Prakrit manuscripts. Thomas, a British East India Company civil servant and accomplished Orientalist, demonstrates how standardized measurement systems were fundamental to the administrative, economic, and political infrastructures of ancient Indian kingdoms. By analyzing coins, inscriptions, and contemporary textual references, the work reveals how precise weight measurements facilitated complex commercial transactions, enabled sophisticated taxation mechanisms, and reflected the administrative sophistication of successive regional powers. The study illuminates how measurement standards were not merely technical systems but profound markers of political authority and economic organization, showing how rulers from the Mauryan, Satavahana, and Gupta empires used standardized weights to assert territorial control and economic legitimacy. Thomas's methodology exemplifies the emerging comparative historical scholarship of the late 19th century, bridging archaeological evidence with textual analysis to provide nuanced insights into pre-colonial Indian socio-economic structures. His work remains a foundational text for understanding the technological and administrative developments in the Indian subcontinent, offering scholars a detailed perspective on the economic sophistication of ancient Indian civilizations and their complex systems of measurement and exchange.
+  - Numismatics
+  - History
+  - Metrology
+description: >-
+  Edward Thomas's pioneering 1874 monograph "Ancient Indian Weights" represents
+  a critical scholarly investigation into the intricate metrological systems of
+  the Indian subcontinent from the Vedic through the Gupta periods (circa 1500
+  BCE-550 CE). Published in the International Numismata Orientalia series, this
+  comprehensive study meticulously reconstructs weight standards by synthesizing
+  numismatic evidence, archaeological artifacts, and textual sources from
+  Sanskrit and Prakrit manuscripts.
 collections:
-- ancient-wisdom
+  - ancient-wisdom
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/ancientindianwei00thomrich
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/ancientindianwei00thomrich'
+    type: other
 references:
-- name: 'Wikipedia: Edward Thomas (antiquarian)'
-  url: https://en.wikipedia.org/wiki/Edward_Thomas_(antiquarian)
-  type: wikipedia
-- name: 'OpenLibrary Search'
-  url: https://openlibrary.org/search?q=Ancient+Indian+Weights+Edward+Thomas
-  type: other
-- name: 'Wikidata: Edward Thomas'
-  url: https://www.wikidata.org/wiki/Q17627089
-  type: other
+  - name: 'Wikipedia: Edward Thomas (antiquarian)'
+    url: 'https://en.wikipedia.org/wiki/Edward_Thomas_(antiquarian)'
+    type: wikipedia
+  - name: OpenLibrary Search
+    url: 'https://openlibrary.org/search?q=Ancient+Indian+Weights+Edward+Thomas'
+    type: other
+  - name: 'Wikidata: Edward Thomas'
+    url: 'https://www.wikidata.org/wiki/Q17627089'
+    type: other
 featured: false
-publishDate: 2025-01-22
+publishDate: 2025-01-22T00:00:00.000Z
+---
+## Historical Context
+
+Edward Thomas's pioneering 1874 monograph "Ancient Indian Weights" represents a critical scholarly investigation into the intricate metrological systems of the Indian subcontinent from the Vedic through the Gupta periods (circa 1500 BCE-550 CE). Published in the International Numismata Orientalia series, this comprehensive study meticulously reconstructs weight standards by synthesizing numismatic evidence, archaeological artifacts, and textual sources from Sanskrit and Prakrit manuscripts. Thomas, a British East India Company civil servant and accomplished Orientalist, demonstrates how standardized measurement systems were fundamental to the administrative, economic, and political infrastructures of ancient Indian kingdoms. By analyzing coins, inscriptions, and contemporary textual references, the work reveals how precise weight measurements facilitated complex commercial transactions, enabled sophisticated taxation mechanisms, and reflected the administrative sophistication of successive regional powers. The study illuminates how measurement standards were not merely technical systems but profound markers of political authority and economic organization, showing how rulers from the Mauryan, Satavahana, and Gupta empires used standardized weights to assert territorial control and economic legitimacy. Thomas's methodology exemplifies the emerging comparative historical scholarship of the late 19th century, bridging archaeological evidence with textual analysis to provide nuanced insights into pre-colonial Indian socio-economic structures. His work remains a foundational text for understanding the technological and administrative developments in the Indian subcontinent, offering scholars a detailed perspective on the economic sophistication of ancient Indian civilizations and their complex systems of measurement and exchange.
+
 ---
 
 # Ancient Indian Weights

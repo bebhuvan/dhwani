@@ -1,38 +1,49 @@
 ---
 title: 'Gora II : Romaani'
 author:
-- Tagore, Rabindranath
+  - 'Tagore, Rabindranath'
 year: 1926
 language:
-- English
+  - English
 genre:
-- Fiction
-- Historical Literature
-- Religious Literature
-description: |
-  Published in 1926 during the late colonial period of British India, Gora II represents a profound literary exploration of identity, social reformation, and cultural negotiation within the complex intellectual landscape of the Bengal Renaissance. Authored by Rabindranath Tagore, a Nobel Laureate and pivotal intellectual figure, the novel emerges from a transformative historical moment characterized by intense anticolonial discourse, religious reform movements, and emerging nationalist consciousness. Tagore, a polymath who significantly influenced modern Bengali literature and Indian intellectual thought, crafts a nuanced narrative that interrogates the intersections of individual agency, social constraints, and cultural belonging. The work critically examines the tensions between traditional societal structures and emerging modernist sensibilities, particularly through the protagonist Sutšarita's personal journey of negotiating individual freedom within deeply entrenched social frameworks. By presenting complex interpersonal dynamics and psychological interiority, Tagore illuminates the broader sociopolitical struggles of early 20th-century India, where personal choices were intrinsically linked to collective cultural transformations. The novel serves as a critical text in understanding the intellectual and social negotiations of the period, reflecting the Bengal Renaissance's commitment to social reform, religious reinterpretation, and progressive reimagining of cultural identity. As a continuation of Tagore's earlier explorations of social critique, Gora II contributes significantly to understanding the intellectual genealogy of Indian modernist literature, offering profound insights into the psychological and social complexities of a society in profound transition between colonial subjugation and emerging national consciousness.
+  - Fiction
+  - Historical Literature
+  - Religious Literature
+description: >-
+  Published in 1926 during the late colonial period of British India, Gora II
+  represents a profound literary exploration of identity, social reformation,
+  and cultural negotiation within the complex intellectual landscape of the
+  Bengal Renaissance. Authored by Rabindranath Tagore, a Nobel Laureate and
+  pivotal intellectual figure, the novel emerges from a transformative
+  historical moment characterized by intense anticolonial discourse, religious
+  reform movements, and emerging nationalist consciousness.
 collections:
-- devotional-literature
-- modern-literature
+  - devotional-literature
+  - modern-literature
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/70177
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/70177.html.images
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/70177'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/70177.html.images'
+    type: other
 references:
-- name: 'Open Library: Gora'
-  url: https://openlibrary.org/search?q=Gora+Tagore
-  type: other
-- name: 'Wikipedia: Rabindranath Tagore'
-  url: https://en.wikipedia.org/wiki/Rabindranath_Tagore
-  type: other
-- name: 'Wikipedia: Gora (novel)'
-  url: https://en.wikipedia.org/wiki/Gora_(novel)
-  type: other
+  - name: 'Open Library: Gora'
+    url: 'https://openlibrary.org/search?q=Gora+Tagore'
+    type: other
+  - name: 'Wikipedia: Rabindranath Tagore'
+    url: 'https://en.wikipedia.org/wiki/Rabindranath_Tagore'
+    type: other
+  - name: 'Wikipedia: Gora (novel)'
+    url: 'https://en.wikipedia.org/wiki/Gora_(novel)'
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+Published in 1926 during the late colonial period of British India, Gora II represents a profound literary exploration of identity, social reformation, and cultural negotiation within the complex intellectual landscape of the Bengal Renaissance. Authored by Rabindranath Tagore, a Nobel Laureate and pivotal intellectual figure, the novel emerges from a transformative historical moment characterized by intense anticolonial discourse, religious reform movements, and emerging nationalist consciousness. Tagore, a polymath who significantly influenced modern Bengali literature and Indian intellectual thought, crafts a nuanced narrative that interrogates the intersections of individual agency, social constraints, and cultural belonging. The work critically examines the tensions between traditional societal structures and emerging modernist sensibilities, particularly through the protagonist Sutšarita's personal journey of negotiating individual freedom within deeply entrenched social frameworks. By presenting complex interpersonal dynamics and psychological interiority, Tagore illuminates the broader sociopolitical struggles of early 20th-century India, where personal choices were intrinsically linked to collective cultural transformations. The novel serves as a critical text in understanding the intellectual and social negotiations of the period, reflecting the Bengal Renaissance's commitment to social reform, religious reinterpretation, and progressive reimagining of cultural identity. As a continuation of Tagore's earlier explorations of social critique, Gora II contributes significantly to understanding the intellectual genealogy of Indian modernist literature, offering profound insights into the psychological and social complexities of a society in profound transition between colonial subjugation and emerging national consciousness.
+
 ---
 
 # Gora II : Romaani

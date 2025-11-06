@@ -1,58 +1,52 @@
 ---
 title: Rambles and Recollections of an Indian Official
 author:
-- Sleeman, W. H. (William Henry), Sir
+  - 'Sleeman, W. H. (William Henry), Sir'
 year: 1844
 language:
-- English
+  - English
 genre:
-- Historical Literature
-- Travel Literature
-description: Rambles and Recollections of an Indian Official" by Major-General Sir
-  W. H. Sleeman is a historical account likely written in the mid-19th century. The
-  work reflects Sleeman's experiences and observations during his time as an official
-  in India, blending rich descriptions of local culture, religion, and society with
-  personal anecdotes. It delves into various topics, including the customs and beliefs
-  of the Hindus, as well as the author's reflections on the complexities of Indian
-  life during British colonial rule. The opening of the book presents an invitation
-  to journey with Sleeman to the Nerbudda River, where he describes an annual Hindu
-  fair, characterized by a blend of festivity and spirituality. He vividly depicts
-  the scene, noting the large congregations of people seeking purification through
-  bathing and participating in rituals while highlighting the peaceful atmosphere
-  that allows families to enjoy the gatherings safely. Moreover, Sleeman draws attention
-  to the local legends connected to the geographical features around the Nerbudda,
-  illustrating the deep interweaving of mythology and daily life in India.
+  - Historical Literature
+  - Travel Literature
+description: Rambles and Recollections of an Indian Official" by Major-General Sir W. H.
 collections:
-- classical-literature
+  - classical-literature
 sources:
-- name: Project Gutenberg
-  url: https://www.gutenberg.org/ebooks/15483
-  type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/15483.html.images
-  type: other
-- name: Internet Archive (Rambles and recollections of an Indian official)
-  url: https://archive.org/details/ramblesandrecol01sleegoog
-  type: other
-- name: Internet Archive (Rambles and recollections of an Indian official)
-  url: https://archive.org/details/ramblesandrecol00sleegoog
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/15483'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/15483.html.images'
+    type: other
+  - name: Internet Archive (Rambles and recollections of an Indian official)
+    url: 'https://archive.org/details/ramblesandrecol01sleegoog'
+    type: other
+  - name: Internet Archive (Rambles and recollections of an Indian official)
+    url: 'https://archive.org/details/ramblesandrecol00sleegoog'
+    type: other
 references:
-- name: 'Wikipedia: Rambles and Recollections of an Indian Official'
-  url: https://en.wikipedia.org/wiki/Rambles_and_Recollections_of_an_Indian_Official
-  type: other
-- name: 'Wikipedia: Sleeman'
-  url: https://en.wikipedia.org/wiki/Sleeman
-  type: other
-- name: 'Open Library: Rambles and Recollections of an Indian Official'
-  url: https://openlibrary.org/search?q=Rambles%20and%20Recollections%20of%20an%20Indian%20Official%20Sleeman%2C%20W.%20H.%20%28William%20Henry%29%2C%20Sir
-  type: other
+  - name: 'Wikipedia: Rambles and Recollections of an Indian Official'
+    url: >-
+      https://en.wikipedia.org/wiki/Rambles_and_Recollections_of_an_Indian_Official
+    type: other
+  - name: 'Wikipedia: Sleeman'
+    url: 'https://en.wikipedia.org/wiki/Sleeman'
+    type: other
+  - name: 'Open Library: Rambles and Recollections of an Indian Official'
+    url: >-
+      https://openlibrary.org/search?q=Rambles%20and%20Recollections%20of%20an%20Indian%20Official%20Sleeman%2C%20W.%20H.%20%28William%20Henry%29%2C%20Sir
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
 tags:
-- public domain
-- India -- Description and travel
-- Sleeman, W. H. (William Henry), Sir
+  - public domain
+  - India -- Description and travel
+  - 'Sleeman, W. H. (William Henry), Sir'
+---
+## Historical Context
+
+Rambles and Recollections of an Indian Official" by Major-General Sir W. H. Sleeman is a historical account likely written in the mid-19th century. The work reflects Sleeman's experiences and observations during his time as an official in India, blending rich descriptions of local culture, religion, and society with personal anecdotes. It delves into various topics, including the customs and beliefs of the Hindus, as well as the author's reflections on the complexities of Indian life during British colonial rule. The opening of the book presents an invitation to journey with Sleeman to the Nerbudda River, where he describes an annual Hindu fair, characterized by a blend of festivity and spirituality. He vividly depicts the scene, noting the large congregations of people seeking purification through bathing and participating in rituals while highlighting the peaceful atmosphere that allows families to enjoy the gatherings safely. Moreover, Sleeman draws attention to the local legends connected to the geographical features around the Nerbudda, illustrating the deep interweaving of mythology and daily life in India.
+
 ---
 
 # Rambles and Recollections of an Indian Official

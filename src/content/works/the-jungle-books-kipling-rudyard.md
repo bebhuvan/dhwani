@@ -1,87 +1,84 @@
 ---
 title: The Jungle Books
 author:
-- Kipling, Rudyard
+  - 'Kipling, Rudyard'
 year: 1894
 language:
-- English
+  - English
 genre:
-- Fiction
-- Children's Literature
-- Animal Stories
-description: First published in 1894, Rudyard Kipling's 'The Jungle Book' comprises
-  seven stories (only three centered on Mowgli, the human child raised by wolves)
-  that have become foundational texts of children's literature while embodying the
-  complex tensions of Victorian colonial fiction. The Mowgli stories—'Mowgli's Brothers,'
-  'Kaa's Hunting,' and 'Tiger! Tiger!'—introduce the 'man-cub' who learns the 'Law
-  of the Jungle' from his animal mentors Baloo the bear and Bagheera the panther while
-  facing the threat of the tiger Shere Khan, narratives praised for their vivid characterization
-  and animal psychology yet critiqued for allegorizing colonial hierarchies and British
-  rule as natural law. The collection's enduring literary legacy—inspiring countless
-  adaptations from Disney films to stage productions—exists in tension with scholarly
-  recognition that Kipling's jungle, with its rigid codes, hierarchical order, and
-  the ultimate necessity of Mowgli's return to human civilization, reflects and reinforces
-  imperial ideology even as it captivates readers with its imaginative power and emotional
-  resonance. This entry includes links to both The Jungle Book (1894) and The Second
-  Jungle Book (1895).
+  - Fiction
+  - Children's Literature
+  - Animal Stories
+description: >-
+  First published in 1894, Rudyard Kipling's 'The Jungle Book' comprises seven
+  stories (only three centered on Mowgli, the human child raised by wolves) that
+  have become foundational texts of children's literature while embodying the
+  complex tensions of Victorian colonial fiction. The Mowgli stories—'Mowgli's
+  Brothers,' 'Kaa's Hunting,' and 'Tiger!
 collections:
-- classical-literature
-- classical-literature
-- classical-literature
-- classical-literature
+  - classical-literature
+  - classical-literature
+  - classical-literature
+  - classical-literature
 sources:
-- name: Project Gutenberg - The Jungle Book
-  url: https://www.gutenberg.org/ebooks/35997
-  type: other
-- name: Project Gutenberg (HTML) - The Jungle Book
-  url: https://www.gutenberg.org/ebooks/35997.html.images
-  type: other
-- name: Internet Archive (The Jungle Book) - The Jungle Book
-  url: https://archive.org/details/junglebook200kipl
-  type: other
-- name: Internet Archive - The Jungle Book (1894 First Edition) - The Jungle Book
-  url: https://archive.org/details/junglebook00kipl
-  type: other
-- name: Internet Archive - The Jungle Book (Macmillan, 1894) - The Jungle Book
-  url: https://archive.org/details/junglebook00kipliala
-  type: other
-- name: 'Internet Archive - Digital Library of India: The Jungle Book - The Jungle
-    Book'
-  url: https://archive.org/details/in.ernet.dli.2015.149966
-  type: other
-- name: Project Gutenberg - The Second Jungle Book
-  url: https://www.gutenberg.org/ebooks/37364
-  type: other
-- name: Project Gutenberg (HTML) - The Second Jungle Book
-  url: https://www.gutenberg.org/ebooks/37364.html.images
-  type: other
+  - name: Project Gutenberg - The Jungle Book
+    url: 'https://www.gutenberg.org/ebooks/35997'
+    type: other
+  - name: Project Gutenberg (HTML) - The Jungle Book
+    url: 'https://www.gutenberg.org/ebooks/35997.html.images'
+    type: other
+  - name: Internet Archive (The Jungle Book) - The Jungle Book
+    url: 'https://archive.org/details/junglebook200kipl'
+    type: other
+  - name: Internet Archive - The Jungle Book (1894 First Edition) - The Jungle Book
+    url: 'https://archive.org/details/junglebook00kipl'
+    type: other
+  - name: 'Internet Archive - The Jungle Book (Macmillan, 1894) - The Jungle Book'
+    url: 'https://archive.org/details/junglebook00kipliala'
+    type: other
+  - name: >-
+      Internet Archive - Digital Library of India: The Jungle Book - The Jungle
+      Book
+    url: 'https://archive.org/details/in.ernet.dli.2015.149966'
+    type: other
+  - name: Project Gutenberg - The Second Jungle Book
+    url: 'https://www.gutenberg.org/ebooks/37364'
+    type: other
+  - name: Project Gutenberg (HTML) - The Second Jungle Book
+    url: 'https://www.gutenberg.org/ebooks/37364.html.images'
+    type: other
 references:
-- name: 'Wikisource: The Jungle Book'
-  url: https://en.wikisource.org/wiki/The_Jungle_Book
-  type: other
-- name: 'Wikipedia: The Jungle Book'
-  url: https://en.wikipedia.org/wiki/The_Jungle_Book
-  type: other
-- name: 'Wikipedia: Rudyard Kipling'
-  url: https://en.wikipedia.org/wiki/Rudyard_Kipling
-  type: other
-- name: 'Wikipedia: Mowgli'
-  url: https://en.wikipedia.org/wiki/Mowgli
-  type: other
-- name: 'Open Library: The Jungle Book'
-  url: https://openlibrary.org/search?q=The%20Jungle%20Book%20Kipling
-  type: other
+  - name: 'Wikisource: The Jungle Book'
+    url: 'https://en.wikisource.org/wiki/The_Jungle_Book'
+    type: other
+  - name: 'Wikipedia: The Jungle Book'
+    url: 'https://en.wikipedia.org/wiki/The_Jungle_Book'
+    type: other
+  - name: 'Wikipedia: Rudyard Kipling'
+    url: 'https://en.wikipedia.org/wiki/Rudyard_Kipling'
+    type: other
+  - name: 'Wikipedia: Mowgli'
+    url: 'https://en.wikipedia.org/wiki/Mowgli'
+    type: other
+  - name: 'Open Library: The Jungle Book'
+    url: 'https://openlibrary.org/search?q=The%20Jungle%20Book%20Kipling'
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
 tags:
-- public domain
-- India -- Fiction
-- Animal stories
-- Children's classics
-- Coming of age
-- Colonial allegory
-- Law of the Jungle
-- Mowgli
+  - public domain
+  - India -- Fiction
+  - Animal stories
+  - Children's classics
+  - Coming of age
+  - Colonial allegory
+  - Law of the Jungle
+  - Mowgli
+---
+## Historical Context
+
+First published in 1894, Rudyard Kipling's 'The Jungle Book' comprises seven stories (only three centered on Mowgli, the human child raised by wolves) that have become foundational texts of children's literature while embodying the complex tensions of Victorian colonial fiction. The Mowgli stories—'Mowgli's Brothers,' 'Kaa's Hunting,' and 'Tiger! Tiger!'—introduce the 'man-cub' who learns the 'Law of the Jungle' from his animal mentors Baloo the bear and Bagheera the panther while facing the threat of the tiger Shere Khan, narratives praised for their vivid characterization and animal psychology yet critiqued for allegorizing colonial hierarchies and British rule as natural law. The collection's enduring literary legacy—inspiring countless adaptations from Disney films to stage productions—exists in tension with scholarly recognition that Kipling's jungle, with its rigid codes, hierarchical order, and the ultimate necessity of Mowgli's return to human civilization, reflects and reinforces imperial ideology even as it captivates readers with its imaginative power and emotional resonance. This entry includes links to both The Jungle Book (1894) and The Second Jungle Book (1895).
+
 ---
 
 # The Jungle Book

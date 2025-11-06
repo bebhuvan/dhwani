@@ -1,37 +1,68 @@
 ---
-title: "Panchatantra"
-author: ["Vishnu Sharma"]
+title: Panchatantra
+author:
+  - Vishnu Sharma
 year: 200
-language: ["Sanskrit", "English"]
-genre: ["Classical Literature", "Fables", "Didactic Literature"]
-description: "The Panchatantra stands as ancient India's most influential contribution to world fable literature, comprising five books (tantras) of interrelated animal fables designed to teach practical wisdom (niti) through entertaining narratives. Attributed to Vishnu Sharma and composed between 200 BCE-300 CE, this Sanskrit collection employs sophisticated frame narratives, embedding stories within stories to illustrate principles of governance, diplomacy, and worldly conduct. Translated into over 50 languages through intermediary versions like the Arabic Kalila wa Dimna and the Latin Directorium Humanae Vitae, the Panchatantra influenced global literature from The Arabian Nights to Chaucer's Canterbury Tales, making it arguably the most widely disseminated literary product of India."
-collections: ['classical-literature', 'folklore', 'philosophical-works']
+language:
+  - Sanskrit
+  - English
+genre:
+  - Classical Literature
+  - Fables
+  - Didactic Literature
+description: >-
+  The Panchatantra stands as ancient India's most influential contribution to
+  world fable literature, comprising five books (tantras) of interrelated animal
+  fables designed to teach practical wisdom (niti) through entertaining
+  narratives. Attributed to Vishnu Sharma and composed between 200 BCE-300 CE,
+  this Sanskrit collection employs sophisticated frame narratives, embedding
+  stories within stories to illustrate principles of governance, diplomacy, and
+  worldly conduct.
+collections:
+  - classical-literature
+  - folklore
+  - philosophical-works
 sources:
-  - name: "Internet Archive (Sanskrit editions)"
-    url: "https://archive.org/search.php?query=panchatantra+sanskrit"
-    type: "other"
-  - name: "Project Gutenberg (various translations)"
-    url: "https://www.gutenberg.org/ebooks/search/?query=panchatantra"
-    type: "other"
+  - name: Internet Archive (Sanskrit editions)
+    url: 'https://archive.org/search.php?query=panchatantra+sanskrit'
+    type: other
+  - name: Project Gutenberg (various translations)
+    url: 'https://www.gutenberg.org/ebooks/search/?query=panchatantra'
+    type: other
 references:
-  - name: "Wikipedia: Panchatantra"
-    url: "https://en.wikipedia.org/wiki/Panchatantra"
-    type: "wikipedia"
-  - name: "Wikipedia: Vishnu Sharma"
-    url: "https://en.wikipedia.org/wiki/Vishnu_Sharma"
-    type: "wikipedia"
-  - name: "Wikipedia: Kalila wa Dimna"
-    url: "https://en.wikipedia.org/wiki/Kalila_wa_Dimna"
-    type: "wikipedia"
-  - name: "Wikipedia: Frame story"
-    url: "https://en.wikipedia.org/wiki/Frame_story"
-    type: "wikipedia"
-  - name: "Open Library: Panchatantra"
-    url: "https://openlibrary.org/search?q=Panchatantra+Vishnu+Sharma"
-    type: "other"
+  - name: 'Wikipedia: Panchatantra'
+    url: 'https://en.wikipedia.org/wiki/Panchatantra'
+    type: wikipedia
+  - name: 'Wikipedia: Vishnu Sharma'
+    url: 'https://en.wikipedia.org/wiki/Vishnu_Sharma'
+    type: wikipedia
+  - name: 'Wikipedia: Kalila wa Dimna'
+    url: 'https://en.wikipedia.org/wiki/Kalila_wa_Dimna'
+    type: wikipedia
+  - name: 'Wikipedia: Frame story'
+    url: 'https://en.wikipedia.org/wiki/Frame_story'
+    type: wikipedia
+  - name: 'Open Library: Panchatantra'
+    url: 'https://openlibrary.org/search?q=Panchatantra+Vishnu+Sharma'
+    type: other
 featured: false
-publishDate: 2025-11-02
-tags: ['classical-literature', 'fables', 'niti-shastra', 'panchatantra', 'vishnu-sharma', 'animal-fables', 'sanskrit-literature', 'world-literature', 'kalila-wa-dimna', 'didactic-literature']
+publishDate: 2025-11-02T00:00:00.000Z
+tags:
+  - classical-literature
+  - fables
+  - niti-shastra
+  - panchatantra
+  - vishnu-sharma
+  - animal-fables
+  - sanskrit-literature
+  - world-literature
+  - kalila-wa-dimna
+  - didactic-literature
+---
+## Historical Context
+
+The Panchatantra stands as ancient India's most influential contribution to world fable literature, comprising five books (tantras) of interrelated animal fables designed to teach practical wisdom (niti) through entertaining narratives. Attributed to Vishnu Sharma and composed between 200 BCE-300 CE, this Sanskrit collection employs sophisticated frame narratives, embedding stories within stories to illustrate principles of governance, diplomacy, and worldly conduct. Translated into over 50 languages through intermediary versions like the Arabic Kalila wa Dimna and the Latin Directorium Humanae Vitae, the Panchatantra influenced global literature from The Arabian Nights to Chaucer's Canterbury Tales, making it arguably the most widely disseminated literary product of India.
+
 ---
 
 # The Panchatantra

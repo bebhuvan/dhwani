@@ -1,51 +1,62 @@
 ---
-title: 'Yoga Vasistha (The Supreme Yoga)'
+title: Yoga Vasistha (The Supreme Yoga)
 author:
-- Valmiki (attributed)
+  - Valmiki (attributed)
 year: 1000
 language:
-- Sanskrit
-- English
+  - Sanskrit
+  - English
 genre:
-- Philosophy
-- Spiritual Texts
-- Classical Literature
-description: |
-  The Yoga Vasistha is a philosophical text representing Advaita Vedanta's non-dualistic philosophical tradition, comprising approximately 32,000 verses across six books and traditionally attributed to Valmiki. Composed between the 6th and 14th centuries CE (scholarly dates remain contested), the text presents philosophical principles through a narrative instruction framework where sage Vasistha teaches Prince Rama. Its pedagogical structure employs embedded narratives, philosophical dialogues, and a systematic progression from conventional understanding toward metaphysical realization.
-  
-  Structurally, the text analyzes consciousness as fundamental reality, conceptualizing the world as a mental projection and exploring liberation through understanding reality's intrinsic nature. Its philosophical approach integrates detailed phenomenological examination of consciousness states with practical meditation techniques. Methodologically, the work distinguishes itself through an sophisticated psychological analysis of mental processes and a comprehensive exploration of consciousness beyond traditional metaphysical treatises.
-  
-  Scholarly research indicates significant historical influence on Hindu philosophical traditions, particularly evident in its reception within Kashmir Shaivism, Neo-Vedanta philosophical developments, and subsequent spiritual interpretations. The text's distinctive contribution lies in its narrative approach to complex philosophical concepts, demonstrating how non-dualistic philosophy can be communicated through storytelling and dialogic instruction rather than exclusively abstract philosophical discourse.
-  
-  Academically, the Yoga Vasistha represents an important textual example of medieval Indian philosophical literature, offering insights into the transmission of philosophical knowledge through narrative pedagogical strategies.
+  - Philosophy
+  - Spiritual Texts
+  - Classical Literature
+description: >-
+  The Yoga Vasistha is a philosophical text representing Advaita Vedanta's
+  non-dualistic philosophical tradition, comprising approximately 32,000 verses
+  across six books and traditionally attributed to Valmiki. Composed between the
+  6th and 14th centuries CE (scholarly dates remain contested), the text
+  presents philosophical principles through a narrative instruction framework
+  where sage Vasistha teaches Prince Rama.
 collections:
-- philosophy
-- spiritual-texts
-- philosophy
-- classical-literature
-- devotional-poetry
+  - philosophy
+  - spiritual-texts
+  - philosophy
+  - classical-literature
+  - devotional-poetry
 sources:
-- name: 'Internet Archive (Swami Venkatesananda abridged translation)'
-  url: https://archive.org/details/YogaVasisthaOfValmiki
-  type: other
+  - name: Internet Archive (Swami Venkatesananda abridged translation)
+    url: 'https://archive.org/details/YogaVasisthaOfValmiki'
+    type: other
 references:
-- name: 'Wikipedia: Yoga Vasistha'
-  url: https://en.wikipedia.org/wiki/Yoga_Vasistha
-  type: wikipedia
-- name: 'Wikipedia: Vasistha'
-  url: https://en.wikipedia.org/wiki/Vasistha
-  type: wikipedia
-- name: 'Wikipedia: Advaita Vedanta'
-  url: https://en.wikipedia.org/wiki/Advaita_Vedanta
-  type: wikipedia
-- name: 'Wikipedia: Rama'
-  url: https://en.wikipedia.org/wiki/Rama
-  type: wikipedia
-- name: 'Open Library: Yoga Vasistha (The Supreme'
-  url: https://openlibrary.org/search?q=Yoga+Vasistha+The+Supreme+Yoga+year+Valmiki+attributed
-  type: other
+  - name: 'Wikipedia: Yoga Vasistha'
+    url: 'https://en.wikipedia.org/wiki/Yoga_Vasistha'
+    type: wikipedia
+  - name: 'Wikipedia: Vasistha'
+    url: 'https://en.wikipedia.org/wiki/Vasistha'
+    type: wikipedia
+  - name: 'Wikipedia: Advaita Vedanta'
+    url: 'https://en.wikipedia.org/wiki/Advaita_Vedanta'
+    type: wikipedia
+  - name: 'Wikipedia: Rama'
+    url: 'https://en.wikipedia.org/wiki/Rama'
+    type: wikipedia
+  - name: 'Open Library: Yoga Vasistha (The Supreme'
+    url: >-
+      https://openlibrary.org/search?q=Yoga+Vasistha+The+Supreme+Yoga+year+Valmiki+attributed
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+The Yoga Vasistha is a philosophical text representing Advaita Vedanta's non-dualistic philosophical tradition, comprising approximately 32,000 verses across six books and traditionally attributed to Valmiki. Composed between the 6th and 14th centuries CE (scholarly dates remain contested), the text presents philosophical principles through a narrative instruction framework where sage Vasistha teaches Prince Rama. Its pedagogical structure employs embedded narratives, philosophical dialogues, and a systematic progression from conventional understanding toward metaphysical realization.
+
+Structurally, the text analyzes consciousness as fundamental reality, conceptualizing the world as a mental projection and exploring liberation through understanding reality's intrinsic nature. Its philosophical approach integrates detailed phenomenological examination of consciousness states with practical meditation techniques. Methodologically, the work distinguishes itself through an sophisticated psychological analysis of mental processes and a comprehensive exploration of consciousness beyond traditional metaphysical treatises.
+
+Scholarly research indicates significant historical influence on Hindu philosophical traditions, particularly evident in its reception within Kashmir Shaivism, Neo-Vedanta philosophical developments, and subsequent spiritual interpretations. The text's distinctive contribution lies in its narrative approach to complex philosophical concepts, demonstrating how non-dualistic philosophy can be communicated through storytelling and dialogic instruction rather than exclusively abstract philosophical discourse.
+
+Academically, the Yoga Vasistha represents an important textual example of medieval Indian philosophical literature, offering insights into the transmission of philosophical knowledge through narrative pedagogical strategies.
+
 ---
 
 # Yoga Vasistha (The Supreme Yoga)

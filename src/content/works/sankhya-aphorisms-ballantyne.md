@@ -1,39 +1,52 @@
 ---
-title: 'The Sankhya Aphorisms of Kapila'
+title: The Sankhya Aphorisms of Kapila
 author:
-- Kapila
-- tr. James R. Ballantyne
+  - Kapila
+  - tr. James R. Ballantyne
 year: 1852
 language:
-- English
-- Sanskrit
+  - English
+  - Sanskrit
 genre:
-- Philosophy
-- Religious Texts
-- Translation
-description: |
-  Sankhya emerges as a seminal philosophical tradition within classical Indian intellectual discourse, representing one of the six orthodox (astika) philosophical systems that fundamentally shaped metaphysical understanding in ancient India. Attributed to the legendary sage Kapila, traditionally dated to approximately 500 BCE, the Sankhya tradition articulates a sophisticated dualistic metaphysical framework that distinguishes between purusha (conscious principle) and prakriti (material nature), offering a complex ontological explanation of cosmic and individual existence. Ballantyne's 1852 translation of the Sankhya Aphorisms provides critical access to this foundational text, which systematically explores epistemological and metaphysical questions central to Hindu philosophical inquiry. The work's significance extends beyond mere philosophical speculation, representing a sophisticated attempt to comprehend consciousness, material reality, and the mechanisms of spiritual liberation through rigorous analytical methodology. Sankhya's conceptual innovations profoundly influenced subsequent philosophical and religious traditions, including Yoga, Vedanta, and Buddhist metaphysical constructions, serving as a critical intellectual bridge between early Vedic thought and later systematic philosophical developments. Its nuanced exploration of causality, consciousness, and the nature of embodied experience offered an alternative to monistic and idealistic philosophical models, emphasizing empirical observation and rational analysis. By presenting a naturalistic yet spiritually oriented worldview, Sankhya contributed significantly to India's intellectual heritage, demonstrating the remarkable philosophical sophistication of classical Indian thought and its enduring capacity to interrogate fundamental questions of existence, knowledge, and human potential.
+  - Philosophy
+  - Religious Texts
+  - Translation
+description: >-
+  Sankhya emerges as a seminal philosophical tradition within classical Indian
+  intellectual discourse, representing one of the six orthodox (astika)
+  philosophical systems that fundamentally shaped metaphysical understanding in
+  ancient India. Attributed to the legendary sage Kapila, traditionally dated to
+  approximately 500 BCE, the Sankhya tradition articulates a sophisticated
+  dualistic metaphysical framework that distinguishes between purusha (conscious
+  principle) and prakriti (material nature), offering a complex ontological
+  explanation of cosmic and individual existence.
 collections:
-- ancient-wisdom
+  - ancient-wisdom
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/sankhya-aphorisms-ed-1
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/sankhya-aphorisms-ed-1'
+    type: other
 references:
-- name: 'Wikipedia: Samkhya'
-  url: https://en.wikipedia.org/wiki/Samkhya
-  type: wikipedia
-- name: 'Wikipedia: Kapila'
-  url: https://en.wikipedia.org/wiki/Kapila
-  type: wikipedia
-- name: 'Wikipedia: James Ballantyne (Orientalist)'
-  url: https://en.wikipedia.org/wiki/James_Ballantyne_(Orientalist)
-  type: wikipedia
-- name: 'Open Library'
-  url: https://openlibrary.org/search?q=Sankhya+Aphorisms+Kapila+Ballantyne&mode=everything
-  type: other
+  - name: 'Wikipedia: Samkhya'
+    url: 'https://en.wikipedia.org/wiki/Samkhya'
+    type: wikipedia
+  - name: 'Wikipedia: Kapila'
+    url: 'https://en.wikipedia.org/wiki/Kapila'
+    type: wikipedia
+  - name: 'Wikipedia: James Ballantyne (Orientalist)'
+    url: 'https://en.wikipedia.org/wiki/James_Ballantyne_(Orientalist)'
+    type: wikipedia
+  - name: Open Library
+    url: >-
+      https://openlibrary.org/search?q=Sankhya+Aphorisms+Kapila+Ballantyne&mode=everything
+    type: other
 featured: true
-publishDate: 2025-10-22
+publishDate: 2025-10-22T00:00:00.000Z
+---
+## Historical Context
+
+Sankhya emerges as a seminal philosophical tradition within classical Indian intellectual discourse, representing one of the six orthodox (astika) philosophical systems that fundamentally shaped metaphysical understanding in ancient India. Attributed to the legendary sage Kapila, traditionally dated to approximately 500 BCE, the Sankhya tradition articulates a sophisticated dualistic metaphysical framework that distinguishes between purusha (conscious principle) and prakriti (material nature), offering a complex ontological explanation of cosmic and individual existence. Ballantyne's 1852 translation of the Sankhya Aphorisms provides critical access to this foundational text, which systematically explores epistemological and metaphysical questions central to Hindu philosophical inquiry. The work's significance extends beyond mere philosophical speculation, representing a sophisticated attempt to comprehend consciousness, material reality, and the mechanisms of spiritual liberation through rigorous analytical methodology. Sankhya's conceptual innovations profoundly influenced subsequent philosophical and religious traditions, including Yoga, Vedanta, and Buddhist metaphysical constructions, serving as a critical intellectual bridge between early Vedic thought and later systematic philosophical developments. Its nuanced exploration of causality, consciousness, and the nature of embodied experience offered an alternative to monistic and idealistic philosophical models, emphasizing empirical observation and rational analysis. By presenting a naturalistic yet spiritually oriented worldview, Sankhya contributed significantly to India's intellectual heritage, demonstrating the remarkable philosophical sophistication of classical Indian thought and its enduring capacity to interrogate fundamental questions of existence, knowledge, and human potential.
+
 ---
 
 # The Sankhya Aphorisms of Kapila

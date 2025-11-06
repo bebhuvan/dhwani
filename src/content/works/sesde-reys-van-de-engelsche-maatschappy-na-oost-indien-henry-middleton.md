@@ -1,34 +1,49 @@
 ---
-title: 'Sesde reys van de Engelsche Maatschappy na Oost-Indien'
+title: Sesde reys van de Engelsche Maatschappy na Oost-Indien
 author:
-- Sir Henry Middleton
-- Nicholas Downton
+  - Sir Henry Middleton
+  - Nicholas Downton
 year: 1707
 language:
-- Dutch
+  - Dutch
 genre:
-- Voyage Narrative
-- Maritime History
-description: |
-  Pieter van der Aa's 1707 Dutch translation of the sixth voyage narrative of the English East India Company represents a critical cartographic and documentary record of early 17th-century maritime exploration in the Indian Ocean region, offering nuanced insights into European colonial interactions with Indian maritime networks. The text, derived from Sir Henry Middleton's expedition logs and Nicholas Downton's maritime records, provides a comprehensive account of English commercial and navigational strategies in the Red Sea and Arabian Sea theaters between 1605-1607. This work illuminates the complex geopolitical dynamics of the emerging global trading systems, particularly the intricate commercial negotiations surrounding the lucrative Mocha coffee trade, which was pivotal in connecting Arabian, Indian, and European mercantile networks. Middleton's expedition, documented in meticulous maritime detail, captures the technological and navigational challenges of transoceanic voyages during the early stages of European maritime expansion. The text offers substantial ethnographic observations about coastal trading communities, maritime infrastructure, and intercultural commercial practices in regions including Gujarat, the Malabar Coast, and the Arabian Peninsula. Van der Aa's Dutch translation further demonstrates the transnational circulation of maritime knowledge, highlighting how European maritime powers rapidly shared and translated navigational intelligence. Beyond its immediate commercial context, the narrative provides valuable historical documentation of early 17th-century maritime technologies, diplomatic protocols, and cross-cultural interactions, serving as a critical primary source for understanding the intricate mechanisms of emergent global trade networks and European colonial penetration of Indian Ocean maritime spaces.
+  - Voyage Narrative
+  - Maritime History
+description: >-
+  Pieter van der Aa's 1707 Dutch translation of the sixth voyage narrative of
+  the English East India Company represents a critical cartographic and
+  documentary record of early 17th-century maritime exploration in the Indian
+  Ocean region, offering nuanced insights into European colonial interactions
+  with Indian maritime networks. The text, derived from Sir Henry Middleton's
+  expedition logs and Nicholas Downton's maritime records, provides a
+  comprehensive account of English commercial and navigational strategies in the
+  Red Sea and Arabian Sea theaters between 1605-1607.
 collections:
-- ancient-wisdom
+  - ancient-wisdom
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/sesdereysvandeen00midd
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/sesdereysvandeen00midd'
+    type: other
 references:
-- name: 'Wikipedia: Henry Middleton (East India Company)'
-  url: https://en.wikipedia.org/wiki/Henry_Middleton_(East_India_Company)
-  type: wikipedia
-- name: 'Wikipedia: Nicholas Downton'
-  url: https://en.wikipedia.org/wiki/Nicholas_Downton
-  type: wikipedia
-- name: 'Open Library search: Sesde reys van de Engelsche Maatschappy na Oost-Indien'
-  url: https://openlibrary.org/search?q=Sesde+reys+van+de+Engelsche+Maatschappy+na+Oost-Indien&mode=everything
-  type: other
+  - name: 'Wikipedia: Henry Middleton (East India Company)'
+    url: 'https://en.wikipedia.org/wiki/Henry_Middleton_(East_India_Company)'
+    type: wikipedia
+  - name: 'Wikipedia: Nicholas Downton'
+    url: 'https://en.wikipedia.org/wiki/Nicholas_Downton'
+    type: wikipedia
+  - name: >-
+      Open Library search: Sesde reys van de Engelsche Maatschappy na
+      Oost-Indien
+    url: >-
+      https://openlibrary.org/search?q=Sesde+reys+van+de+Engelsche+Maatschappy+na+Oost-Indien&mode=everything
+    type: other
 featured: false
-publishDate: 2025-10-22
+publishDate: 2025-10-22T00:00:00.000Z
+---
+## Historical Context
+
+Pieter van der Aa's 1707 Dutch translation of the sixth voyage narrative of the English East India Company represents a critical cartographic and documentary record of early 17th-century maritime exploration in the Indian Ocean region, offering nuanced insights into European colonial interactions with Indian maritime networks. The text, derived from Sir Henry Middleton's expedition logs and Nicholas Downton's maritime records, provides a comprehensive account of English commercial and navigational strategies in the Red Sea and Arabian Sea theaters between 1605-1607. This work illuminates the complex geopolitical dynamics of the emerging global trading systems, particularly the intricate commercial negotiations surrounding the lucrative Mocha coffee trade, which was pivotal in connecting Arabian, Indian, and European mercantile networks. Middleton's expedition, documented in meticulous maritime detail, captures the technological and navigational challenges of transoceanic voyages during the early stages of European maritime expansion. The text offers substantial ethnographic observations about coastal trading communities, maritime infrastructure, and intercultural commercial practices in regions including Gujarat, the Malabar Coast, and the Arabian Peninsula. Van der Aa's Dutch translation further demonstrates the transnational circulation of maritime knowledge, highlighting how European maritime powers rapidly shared and translated navigational intelligence. Beyond its immediate commercial context, the narrative provides valuable historical documentation of early 17th-century maritime technologies, diplomatic protocols, and cross-cultural interactions, serving as a critical primary source for understanding the intricate mechanisms of emergent global trade networks and European colonial penetration of Indian Ocean maritime spaces.
+
 ---
 
 # Sesde reys van de Engelsche Maatschappy na Oost-Indien

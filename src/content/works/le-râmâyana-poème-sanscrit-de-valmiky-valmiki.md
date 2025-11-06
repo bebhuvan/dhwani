@@ -1,50 +1,66 @@
 ---
 title: 'Le Râmâyana: Poème sanscrit de Valmiky'
 author:
-- Valmiki
+  - Valmiki
 year: 1900
 language:
-- French
-- Sanskrit
+  - French
+  - Sanskrit
 genre:
-- Fiction
-- Poetry
-- Religious Literature
-- Sanskrit Literature
-description: |
-  Compiled around 500-400 BCE during the post-Vedic period in ancient India, Valmiki's Râmâyana emerged as a seminal work during a transformative era of Sanskrit literary and philosophical development, reflecting the socio-cultural transitions of the early classical Indian civilization. Valmiki, traditionally considered the first Sanskrit poet and often referred to as the "Adi Kavi" (first poet), composed this epic during a time of significant religious and social restructuring, when Brahmanical traditions were being codified and complex philosophical and ethical frameworks were taking shape. Valmiki's Râmâyana, one of the world's greatest epics and a foundational text of Indian literature and Hindu religious tradition, translated into French from the original Sanskrit. This complete work encompasses both volumes (tomes) of the French translation, tracing the entire epic from Rama's divine birth and royal lineage through his exile, Sita's abduction by the demon king Ravana, the formation of alliances with Sugriva and the monkey army, and the climactic battle for Sita's rescue. The epic interweaves mythology, religious instruction, and profound literature, exploring dharma (righteous duty), virtue, and the proper conduct of life while combining lyrical beauty with philosophical depth.
+  - Fiction
+  - Poetry
+  - Religious Literature
+  - Sanskrit Literature
+description: >-
+  Compiled around 500-400 BCE during the post-Vedic period in ancient India,
+  Valmiki's Râmâyana emerged as a seminal work during a transformative era of
+  Sanskrit literary and philosophical development, reflecting the socio-cultural
+  transitions of the early classical Indian civilization. Valmiki, traditionally
+  considered the first Sanskrit poet and often referred to as the "Adi Kavi"
+  (first poet), composed this epic during a time of significant religious and
+  social restructuring, when Brahmanical traditions were being codified and
+  complex philosophical and ethical frameworks were taking shape.
 collections:
-- classical-literature
-- poetry-collection
-- devotional-literature
+  - classical-literature
+  - poetry-collection
+  - devotional-literature
 sources:
-- name: 'Project Gutenberg - Tome premier'
-  url: https://www.gutenberg.org/ebooks/20479
-  type: other
-- name: 'Project Gutenberg (HTML) - Tome premier'
-  url: https://www.gutenberg.org/ebooks/20479.html.images
-  type: other
-- name: 'Project Gutenberg - Tome second'
-  url: https://www.gutenberg.org/ebooks/20640
-  type: other
-- name: 'Project Gutenberg (HTML) - Tome second'
-  url: https://www.gutenberg.org/ebooks/20640.html.images
-  type: other
-- name: 'Internet Archive (Le Râmâyana - tome second Poème sanscrit de Valmiky) - Tome second'
-  url: https://archive.org/details/lermyanatomeseco20640gut
-  type: other
+  - name: Project Gutenberg - Tome premier
+    url: 'https://www.gutenberg.org/ebooks/20479'
+    type: other
+  - name: Project Gutenberg (HTML) - Tome premier
+    url: 'https://www.gutenberg.org/ebooks/20479.html.images'
+    type: other
+  - name: Project Gutenberg - Tome second
+    url: 'https://www.gutenberg.org/ebooks/20640'
+    type: other
+  - name: Project Gutenberg (HTML) - Tome second
+    url: 'https://www.gutenberg.org/ebooks/20640.html.images'
+    type: other
+  - name: >-
+      Internet Archive (Le Râmâyana - tome second Poème sanscrit de Valmiky) -
+      Tome second
+    url: 'https://archive.org/details/lermyanatomeseco20640gut'
+    type: other
 references:
-- name: 'Wikipedia: Valmiki'
-  url: https://en.wikipedia.org/wiki/Valmiki
-  type: other
-- name: 'Open Library: Le Râmâyana - tome premier: Poème sanscrit de Valmiky'
-  url: https://openlibrary.org/search?q=Le+R%C3%A2m%C3%A2yana+-+tome+premier%3A+Po%C3%A8me+sanscrit+de+Valmiky
-  type: other
-- name: 'Open Library: Le Râmâyana - tome second: Poème sanscrit de Valmiky'
-  url: https://openlibrary.org/search?q=Le+R%C3%A2m%C3%A2yana+-+tome+second%3A+Po%C3%A8me+sanscrit+de+Valmiky
-  type: other
+  - name: 'Wikipedia: Valmiki'
+    url: 'https://en.wikipedia.org/wiki/Valmiki'
+    type: other
+  - name: 'Open Library: Le Râmâyana - tome premier: Poème sanscrit de Valmiky'
+    url: >-
+      https://openlibrary.org/search?q=Le+R%C3%A2m%C3%A2yana+-+tome+premier%3A+Po%C3%A8me+sanscrit+de+Valmiky
+    type: other
+  - name: 'Open Library: Le Râmâyana - tome second: Poème sanscrit de Valmiky'
+    url: >-
+      https://openlibrary.org/search?q=Le+R%C3%A2m%C3%A2yana+-+tome+second%3A+Po%C3%A8me+sanscrit+de+Valmiky
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+Compiled around 500-400 BCE during the post-Vedic period in ancient India, Valmiki's Râmâyana emerged as a seminal work during a transformative era of Sanskrit literary and philosophical development, reflecting the socio-cultural transitions of the early classical Indian civilization. Valmiki, traditionally considered the first Sanskrit poet and often referred to as the "Adi Kavi" (first poet), composed this epic during a time of significant religious and social restructuring, when Brahmanical traditions were being codified and complex philosophical and ethical frameworks were taking shape. Valmiki's Râmâyana, one of the world's greatest epics and a foundational text of Indian literature and Hindu religious tradition, translated into French from the original Sanskrit. This complete work encompasses both volumes (tomes) of the French translation, tracing the entire epic from Rama's divine birth and royal lineage through his exile, Sita's abduction by the demon king Ravana, the formation of alliances with Sugriva and the monkey army, and the climactic battle for Sita's rescue. The epic interweaves mythology, religious instruction, and profound literature, exploring dharma (righteous duty), virtue, and the proper conduct of life while combining lyrical beauty with philosophical depth.
+
 ---
 
 # Le Râmâyana: Poème sanscrit de Valmiky

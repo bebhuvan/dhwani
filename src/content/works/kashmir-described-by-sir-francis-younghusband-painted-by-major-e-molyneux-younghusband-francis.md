@@ -1,35 +1,51 @@
 ---
 title: 'Kashmir, described by Sir Francis Younghusband, painted by Major E. Molyneux'
 author:
-- Younghusband, Francis Edward, Sir
+  - 'Younghusband, Francis Edward, Sir'
 year: 1927
 language:
-- English
+  - English
 genre:
-- Travel Literature
-description: |
-  Published in 1927 during the late British colonial period, this seminal work by Sir Francis Younghusband represents a critical scholarly intervention in documenting the complex cultural and geographical landscape of Kashmir. Rooted in the colonial cartographic tradition of the Great Game era, the text emerges from Younghusband's extensive experience as a military explorer, geographer, and imperial administrator who intimately understood the geopolitical and cultural nuances of the Indian subcontinent. The work transcends mere geographical documentation, offering a meticulously detailed ethnographic exploration of Kashmir's natural environments, social structures, and cultural practices during a transformative historical moment. Illustrated by Major E. Molyneux, the text combines scholarly observation with artistic representation, capturing the Valley's intricate ecological and cultural dynamics through a sophisticated imperial lens. Younghusband's narrative provides critical insights into the region's landscape, examining Kashmir's seasonal transformations, indigenous communities, architectural traditions, and socio-economic configurations at a time of significant political and cultural transition. The work is particularly significant for Indian studies as it represents a complex documentary practice that simultaneously reveals colonial perspectives and preserves invaluable ethnographic details about Kashmiri society in the early 20th century. By presenting a comprehensive cartography of Kashmir's physical and cultural terrain, the text contributes to broader scholarly discourses on imperial knowledge production, regional anthropology, and the intricate representations of South Asian landscapes during the twilight of British colonial rule.
+  - Travel Literature
+description: >-
+  Published in 1927 during the late British colonial period, this seminal work
+  by Sir Francis Younghusband represents a critical scholarly intervention in
+  documenting the complex cultural and geographical landscape of Kashmir. Rooted
+  in the colonial cartographic tradition of the Great Game era, the text emerges
+  from Younghusband's extensive experience as a military explorer, geographer,
+  and imperial administrator who intimately understood the geopolitical and
+  cultural nuances of the Indian subcontinent.
 collections:
-- classical-literature
+  - classical-literature
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/39642
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/39642.html.images
-  type: other
-- name: 'Internet Archive (Kashmir, described by Sir Francis Younghusband, painted by Major E. Molyneux)'
-  url: https://archive.org/details/kashmirdescribed39642gut
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/39642'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/39642.html.images'
+    type: other
+  - name: >-
+      Internet Archive (Kashmir, described by Sir Francis Younghusband, painted
+      by Major E. Molyneux)
+    url: 'https://archive.org/details/kashmirdescribed39642gut'
+    type: other
 references:
-- name: 'Wikipedia: Younghusband'
-  url: https://en.wikipedia.org/wiki/Younghusband
-  type: other
-- name: 'Open Library: Kashmir, described by Sir Francis Younghusband, painted by M...'
-  url: https://openlibrary.org/search?q=Kashmir%2C+described+by+Sir+Francis+Younghusband%2C+painted+by+Major+E.+Molyneux
-  type: other
+  - name: 'Wikipedia: Younghusband'
+    url: 'https://en.wikipedia.org/wiki/Younghusband'
+    type: other
+  - name: >-
+      Open Library: Kashmir, described by Sir Francis Younghusband, painted by
+      M...
+    url: >-
+      https://openlibrary.org/search?q=Kashmir%2C+described+by+Sir+Francis+Younghusband%2C+painted+by+Major+E.+Molyneux
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+Published in 1927 during the late British colonial period, this seminal work by Sir Francis Younghusband represents a critical scholarly intervention in documenting the complex cultural and geographical landscape of Kashmir. Rooted in the colonial cartographic tradition of the Great Game era, the text emerges from Younghusband's extensive experience as a military explorer, geographer, and imperial administrator who intimately understood the geopolitical and cultural nuances of the Indian subcontinent. The work transcends mere geographical documentation, offering a meticulously detailed ethnographic exploration of Kashmir's natural environments, social structures, and cultural practices during a transformative historical moment. Illustrated by Major E. Molyneux, the text combines scholarly observation with artistic representation, capturing the Valley's intricate ecological and cultural dynamics through a sophisticated imperial lens. Younghusband's narrative provides critical insights into the region's landscape, examining Kashmir's seasonal transformations, indigenous communities, architectural traditions, and socio-economic configurations at a time of significant political and cultural transition. The work is particularly significant for Indian studies as it represents a complex documentary practice that simultaneously reveals colonial perspectives and preserves invaluable ethnographic details about Kashmiri society in the early 20th century. By presenting a comprehensive cartography of Kashmir's physical and cultural terrain, the text contributes to broader scholarly discourses on imperial knowledge production, regional anthropology, and the intricate representations of South Asian landscapes during the twilight of British colonial rule.
+
 ---
 
 # Kashmir, described by Sir Francis Younghusband, painted by Major E. Molyneux

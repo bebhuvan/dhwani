@@ -1,36 +1,49 @@
 ---
-title: 'The Rāmāyan of Vālmīki (Griffith verse trans.)'
+title: The Rāmāyan of Vālmīki (Griffith verse trans.)
 author:
-- R. T. H. Griffith (translator)
+  - R. T. H. Griffith (translator)
 year: 1895
 language:
-- English
+  - English
 genre:
-- Poetry
-description: |
-  The Rāmāyan of Vālmīki, translated into English verse by Ralph Thomas Horatio Griffith in 1895, represents a pivotal scholarly engagement with one of the most foundational epic narratives of Indian literary and cultural heritage during the late British colonial period. Griffith's translation emerged during a critical moment of cross-cultural intellectual exchange, when British Orientalist scholars were systematically documenting and interpreting classical Indian texts. This English rendition of Vālmīki's Sanskrit epic provides a comprehensive rendering of the canonical narrative of Rāma, an incarnation of the divine Vishnu, whose life story embodies complex philosophical, ethical, and social ideals central to Hindu cultural consciousness. Griffith's meticulous verse translation captures the intricate narrative structure of the original, presenting the epic's seven books (kāṇḍas) that trace Rāma's journey from royal prince to exiled hero, his abduction of his wife Sītā, the subsequent war against the demon king Rāvaṇa, and his ultimate restoration to the throne of Ayodhyā. Beyond its literary merits, the translation served as a crucial scholarly bridge, enabling Western audiences to comprehend the nuanced moral philosophies, social structures, and religious symbolism embedded in the original Sanskrit text. The work exemplifies the scholarly approaches of late 19th-century Indological research, providing contemporary scholars with insights into both the original epic's cultural significance and the intellectual methodologies of colonial-era textual interpretation. Griffith's translation remains an important historical document in the broader discourse of comparative literature and cross-cultural textual transmission.
+  - Poetry
+description: >-
+  The Rāmāyan of Vālmīki, translated into English verse by Ralph Thomas Horatio
+  Griffith in 1895, represents a pivotal scholarly engagement with one of the
+  most foundational epic narratives of Indian literary and cultural heritage
+  during the late British colonial period. Griffith's translation emerged during
+  a critical moment of cross-cultural intellectual exchange, when British
+  Orientalist scholars were systematically documenting and interpreting
+  classical Indian texts.
 collections:
-- modern-literature
-- poetry-collection
+  - modern-literature
+  - poetry-collection
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/24869
-  type: other
-- name: 'Internet Archive'
-  url: https://archive.org/details/ramayanofvlm00valmrich
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/24869'
+    type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/ramayanofvlm00valmrich'
+    type: other
 references:
-- name: 'Wikisource'
-  url: https://en.wikisource.org/wiki/Index:Valmiki_-_Ramayana,_Griffith,_1895.djvu
-  type: wikisource
-- name: 'Wikipedia: Ralph T. H. Griffith'
-  url: https://en.wikipedia.org/wiki/Ralph_T._H._Griffith
-  type: wikipedia
-- name: 'Open Library: The Rāmāyan of Vālmīki'
-  url: https://openlibrary.org/search?q=The+Rāmāyan+of+Vālmīki+Griffith+verse+R+T+H+Griffith+translator
-  type: other
+  - name: Wikisource
+    url: >-
+      https://en.wikisource.org/wiki/Index:Valmiki_-_Ramayana,_Griffith,_1895.djvu
+    type: wikisource
+  - name: 'Wikipedia: Ralph T. H. Griffith'
+    url: 'https://en.wikipedia.org/wiki/Ralph_T._H._Griffith'
+    type: wikipedia
+  - name: 'Open Library: The Rāmāyan of Vālmīki'
+    url: >-
+      https://openlibrary.org/search?q=The+Rāmāyan+of+Vālmīki+Griffith+verse+R+T+H+Griffith+translator
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+The Rāmāyan of Vālmīki, translated into English verse by Ralph Thomas Horatio Griffith in 1895, represents a pivotal scholarly engagement with one of the most foundational epic narratives of Indian literary and cultural heritage during the late British colonial period. Griffith's translation emerged during a critical moment of cross-cultural intellectual exchange, when British Orientalist scholars were systematically documenting and interpreting classical Indian texts. This English rendition of Vālmīki's Sanskrit epic provides a comprehensive rendering of the canonical narrative of Rāma, an incarnation of the divine Vishnu, whose life story embodies complex philosophical, ethical, and social ideals central to Hindu cultural consciousness. Griffith's meticulous verse translation captures the intricate narrative structure of the original, presenting the epic's seven books (kāṇḍas) that trace Rāma's journey from royal prince to exiled hero, his abduction of his wife Sītā, the subsequent war against the demon king Rāvaṇa, and his ultimate restoration to the throne of Ayodhyā. Beyond its literary merits, the translation served as a crucial scholarly bridge, enabling Western audiences to comprehend the nuanced moral philosophies, social structures, and religious symbolism embedded in the original Sanskrit text. The work exemplifies the scholarly approaches of late 19th-century Indological research, providing contemporary scholars with insights into both the original epic's cultural significance and the intellectual methodologies of colonial-era textual interpretation. Griffith's translation remains an important historical document in the broader discourse of comparative literature and cross-cultural textual transmission.
+
 ---
 
 # The Rāmāyan of Vālmīki (Griffith verse trans.)

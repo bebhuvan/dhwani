@@ -1,50 +1,60 @@
 ---
-title: 'Amarakośa (The Immortal Treasury)'
+title: Amarakośa (The Immortal Treasury)
 author:
-- Amarasimha
-- ed. Henry Thomas Colebrooke
+  - Amarasimha
+  - ed. Henry Thomas Colebrooke
 year: 1808
 language:
-- Sanskrit
-- English
+  - Sanskrit
+  - English
 genre:
-- Lexicography
-- Sanskrit Literature
-- Reference
-description: |
-  The Amarakośa, compiled by the renowned Sanskrit scholar Amarasimha during the Gupta period (circa 400-500 CE), represents a pivotal milestone in Sanskrit lexicography and linguistic systematization. This comprehensive thesaurus meticulously organizes Sanskrit vocabulary into three primary sections (kandas): divine beings, earthly phenomena, and grammatical constructions, establishing a groundbreaking semantic approach to lexical classification. Unlike previous linguistic compilations that relied on alphabetical ordering, Amarasimha's work innovatively arranged synonyms by conceptual domains, reflecting sophisticated linguistic and epistemological understanding of Sanskrit. The text's significance extends beyond linguistic documentation, providing profound insights into classical Indian social structures, religious cosmology, and intellectual taxonomies of the period. Its systematic organization illuminates the complex semantic networks within Sanskrit, serving as a critical resource for understanding cultural conceptualizations and linguistic nuances of classical Indian civilization. The 1808 Serampore edition by Henry Thomas Colebrooke marked a transformative moment in Indological scholarship, representing the first printed Sanskrit text using movable type in India and establishing rigorous standards for modern Sanskrit lexicography. Scholars and linguists have since recognized the Amarakośa as an invaluable archaeological document of Sanskrit intellectual traditions, offering unprecedented detailed semantic mapping of vocabulary across domains of celestial, terrestrial, and grammatical knowledge. Its enduring scholarly relevance stems from its meticulous organization, comprehensive scope, and profound representation of classical Indian linguistic and conceptual frameworks.
+  - Lexicography
+  - Sanskrit Literature
+  - Reference
+description: >-
+  The Amarakośa, compiled by the renowned Sanskrit scholar Amarasimha during the
+  Gupta period (circa 400-500 CE), represents a pivotal milestone in Sanskrit
+  lexicography and linguistic systematization. This comprehensive thesaurus
+  meticulously organizes Sanskrit vocabulary into three primary sections
+  (kandas): divine beings, earthly phenomena, and grammatical constructions,
+  establishing a groundbreaking semantic approach to lexical classification.
 collections:
-- classical-literature
-- linguistic-works
-- reference-texts
+  - classical-literature
+  - linguistic-works
+  - reference-texts
 sources:
-- name: 'Internet Archive (English Meanings Edition 2023)'
-  url: https://archive.org/details/amarkosh_english_202311
-  type: other
-- name: 'Internet Archive (Prof. A.A. Ramanathan Edition)'
-  url: https://archive.org/details/in.ernet.dli.2015.495275
-  type: other
-- name: 'Internet Archive (Sardesai & Padhye Edition)'
-  url: https://archive.org/details/AmaraKosha
-  type: other
+  - name: Internet Archive (English Meanings Edition 2023)
+    url: 'https://archive.org/details/amarkosh_english_202311'
+    type: other
+  - name: Internet Archive (Prof. A.A. Ramanathan Edition)
+    url: 'https://archive.org/details/in.ernet.dli.2015.495275'
+    type: other
+  - name: Internet Archive (Sardesai & Padhye Edition)
+    url: 'https://archive.org/details/AmaraKosha'
+    type: other
 references:
-- name: 'Wikipedia: Amarakosha'
-  url: https://en.wikipedia.org/wiki/Amarakosha
-  type: wikipedia
-- name: 'Wikipedia: Amarasimha'
-  url: https://en.wikipedia.org/wiki/Amarasimha
-  type: wikipedia
-- name: 'Wikipedia: Henry Thomas Colebrooke'
-  url: https://en.wikipedia.org/wiki/Henry_Thomas_Colebrooke
-  type: wikipedia
-- name: 'Sanskrit Wikisource'
-  url: https://sa.wikisource.org/wiki/अमरकोशः
-  type: wikisource
-- name: 'OpenLibrary'
-  url: https://openlibrary.org/search?q=Amarakosha+Colebrooke
-  type: other
+  - name: 'Wikipedia: Amarakosha'
+    url: 'https://en.wikipedia.org/wiki/Amarakosha'
+    type: wikipedia
+  - name: 'Wikipedia: Amarasimha'
+    url: 'https://en.wikipedia.org/wiki/Amarasimha'
+    type: wikipedia
+  - name: 'Wikipedia: Henry Thomas Colebrooke'
+    url: 'https://en.wikipedia.org/wiki/Henry_Thomas_Colebrooke'
+    type: wikipedia
+  - name: Sanskrit Wikisource
+    url: 'https://sa.wikisource.org/wiki/अमरकोशः'
+    type: wikisource
+  - name: OpenLibrary
+    url: 'https://openlibrary.org/search?q=Amarakosha+Colebrooke'
+    type: other
 featured: false
-publishDate: 2025-01-25
+publishDate: 2025-01-25T00:00:00.000Z
+---
+## Historical Context
+
+The Amarakośa, compiled by the renowned Sanskrit scholar Amarasimha during the Gupta period (circa 400-500 CE), represents a pivotal milestone in Sanskrit lexicography and linguistic systematization. This comprehensive thesaurus meticulously organizes Sanskrit vocabulary into three primary sections (kandas): divine beings, earthly phenomena, and grammatical constructions, establishing a groundbreaking semantic approach to lexical classification. Unlike previous linguistic compilations that relied on alphabetical ordering, Amarasimha's work innovatively arranged synonyms by conceptual domains, reflecting sophisticated linguistic and epistemological understanding of Sanskrit. The text's significance extends beyond linguistic documentation, providing profound insights into classical Indian social structures, religious cosmology, and intellectual taxonomies of the period. Its systematic organization illuminates the complex semantic networks within Sanskrit, serving as a critical resource for understanding cultural conceptualizations and linguistic nuances of classical Indian civilization. The 1808 Serampore edition by Henry Thomas Colebrooke marked a transformative moment in Indological scholarship, representing the first printed Sanskrit text using movable type in India and establishing rigorous standards for modern Sanskrit lexicography. Scholars and linguists have since recognized the Amarakośa as an invaluable archaeological document of Sanskrit intellectual traditions, offering unprecedented detailed semantic mapping of vocabulary across domains of celestial, terrestrial, and grammatical knowledge. Its enduring scholarly relevance stems from its meticulous organization, comprehensive scope, and profound representation of classical Indian linguistic and conceptual frameworks.
+
 ---
 
 # Amarakośa (The Immortal Treasury)

@@ -1,48 +1,59 @@
 ---
-title: 'Kiratarjuniya (Arjuna and the Mountain-Dweller)'
+title: Kiratarjuniya (Arjuna and the Mountain-Dweller)
 author:
-- Bharavi
+  - Bharavi
 year: 550
 language:
-- Sanskrit
-- English
+  - Sanskrit
+  - English
 genre:
-- Epic Poetry
-- Mahakavya
-- Classical Literature
-description: |
-  The Kiratarjuniya, a masterful Sanskrit mahakavya (epic poem) composed by Bharavi around 550 CE, represents a pinnacle of classical Indian literary achievement during the post-Gupta period. Set against the backdrop of a brief episode from the Mahabharata, the work dramatically expands a narrative moment where the warrior-prince Arjuna encounters Lord Shiva disguised as a mountain hunter (kirata), engaging in a profound philosophical and martial confrontation. Bharavi's extraordinary composition transforms this mythological encounter into a complex exploration of dharma, heroism, spiritual devotion, and poetic virtuosity. The eighteen-canto epic demonstrates unprecedented linguistic sophistication, featuring intricate verses constructed through remarkable technical challenges such as single-consonant compositions, palindromic structures, and elaborate metrical innovations that showcase the author's extraordinary command of Sanskrit prosody. Scholarly analysis suggests the work significantly influenced subsequent Sanskrit literary traditions, serving as a model of narrative complexity and poetic technique. Beyond its aesthetic achievements, the Kiratarjuniya provides critical insights into medieval Indian philosophical and cultural paradigms, particularly the intricate relationships between human agency, divine intervention, and spiritual transformation. The text eloquently illustrates core Hindu philosophical concepts of karma, divine manifestation, and the potential for transcendence through disciplined action and spiritual recognition. As a canonical text in Sanskrit literature, the Kiratarjuniya continues to be studied for its sophisticated narrative strategies, linguistic brilliance, and profound philosophical undercurrents, representing a remarkable synthesis of mythological storytelling, philosophical discourse, and aesthetic innovation characteristic of classical Indian literary traditions.
+  - Epic Poetry
+  - Mahakavya
+  - Classical Literature
+description: >-
+  The Kiratarjuniya, a masterful Sanskrit mahakavya (epic poem) composed by
+  Bharavi around 550 CE, represents a pinnacle of classical Indian literary
+  achievement during the post-Gupta period. Set against the backdrop of a brief
+  episode from the Mahabharata, the work dramatically expands a narrative moment
+  where the warrior-prince Arjuna encounters Lord Shiva disguised as a mountain
+  hunter (kirata), engaging in a profound philosophical and martial
+  confrontation.
 collections:
-- classical-literature
-- epic-poetry
+  - classical-literature
+  - epic-poetry
 sources:
-- name: 'Internet Archive (Kiratarjuniya - Sanskrit text with commentary)'
-  url: https://archive.org/details/kiratarjuniya00bhar
-  type: other
-- name: 'Internet Archive (English translation)'
-  url: https://archive.org/details/kiratarjuniyaorb00bhar
-  type: other
-- name: 'Digital Library of India'
-  url: https://archive.org/details/in.ernet.dli.2015.408333
-  type: other
+  - name: Internet Archive (Kiratarjuniya - Sanskrit text with commentary)
+    url: 'https://archive.org/details/kiratarjuniya00bhar'
+    type: other
+  - name: Internet Archive (English translation)
+    url: 'https://archive.org/details/kiratarjuniyaorb00bhar'
+    type: other
+  - name: Digital Library of India
+    url: 'https://archive.org/details/in.ernet.dli.2015.408333'
+    type: other
 references:
-- name: 'Wikipedia: Kiratarjuniya'
-  url: https://en.wikipedia.org/wiki/Kir%C4%81t%C4%81rjun%C4%ABya
-  type: wikipedia
-- name: 'Wikipedia: Bharavi'
-  url: https://en.wikipedia.org/wiki/Bharavi
-  type: wikipedia
-- name: 'Wikipedia: Mahakavya'
-  url: https://en.wikipedia.org/wiki/Mahakavya
-  type: wikipedia
-- name: 'Wikipedia: Mahabharata'
-  url: https://en.wikipedia.org/wiki/Mahabharata
-  type: wikipedia
-- name: 'Open Library: Kiratarjuniya'
-  url: https://openlibrary.org/search?q=Kiratarjuniya+Bharavi
-  type: other
+  - name: 'Wikipedia: Kiratarjuniya'
+    url: 'https://en.wikipedia.org/wiki/Kir%C4%81t%C4%81rjun%C4%ABya'
+    type: wikipedia
+  - name: 'Wikipedia: Bharavi'
+    url: 'https://en.wikipedia.org/wiki/Bharavi'
+    type: wikipedia
+  - name: 'Wikipedia: Mahakavya'
+    url: 'https://en.wikipedia.org/wiki/Mahakavya'
+    type: wikipedia
+  - name: 'Wikipedia: Mahabharata'
+    url: 'https://en.wikipedia.org/wiki/Mahabharata'
+    type: wikipedia
+  - name: 'Open Library: Kiratarjuniya'
+    url: 'https://openlibrary.org/search?q=Kiratarjuniya+Bharavi'
+    type: other
 featured: true
-publishDate: 2025-11-02
+publishDate: 2025-11-02T00:00:00.000Z
+---
+## Historical Context
+
+The Kiratarjuniya, a masterful Sanskrit mahakavya (epic poem) composed by Bharavi around 550 CE, represents a pinnacle of classical Indian literary achievement during the post-Gupta period. Set against the backdrop of a brief episode from the Mahabharata, the work dramatically expands a narrative moment where the warrior-prince Arjuna encounters Lord Shiva disguised as a mountain hunter (kirata), engaging in a profound philosophical and martial confrontation. Bharavi's extraordinary composition transforms this mythological encounter into a complex exploration of dharma, heroism, spiritual devotion, and poetic virtuosity. The eighteen-canto epic demonstrates unprecedented linguistic sophistication, featuring intricate verses constructed through remarkable technical challenges such as single-consonant compositions, palindromic structures, and elaborate metrical innovations that showcase the author's extraordinary command of Sanskrit prosody. Scholarly analysis suggests the work significantly influenced subsequent Sanskrit literary traditions, serving as a model of narrative complexity and poetic technique. Beyond its aesthetic achievements, the Kiratarjuniya provides critical insights into medieval Indian philosophical and cultural paradigms, particularly the intricate relationships between human agency, divine intervention, and spiritual transformation. The text eloquently illustrates core Hindu philosophical concepts of karma, divine manifestation, and the potential for transcendence through disciplined action and spiritual recognition. As a canonical text in Sanskrit literature, the Kiratarjuniya continues to be studied for its sophisticated narrative strategies, linguistic brilliance, and profound philosophical undercurrents, representing a remarkable synthesis of mythological storytelling, philosophical discourse, and aesthetic innovation characteristic of classical Indian literary traditions.
+
 ---
 
 ## Overview

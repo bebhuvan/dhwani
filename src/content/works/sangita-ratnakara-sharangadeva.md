@@ -1,46 +1,59 @@
 ---
-title: 'Sangita Ratnakara (Ocean of Music)'
+title: Sangita Ratnakara (Ocean of Music)
 author:
-- Sharangadeva
+  - Sharangadeva
 year: 1240
 language:
-- Sanskrit
-- English
+  - Sanskrit
+  - English
 genre:
-- Musicology
-- Arts Texts
-- Technical Manuals
-- Classical Literature
-description: |
-  Sharangadeva's Sangita Ratnakara is a comprehensive musicological treatise composed in 1240 CE at the Yadava court in Devagiri (modern Daulatabad), providing a detailed systematic exploration of musical theory during a critical transitional period before the divergence of Hindustani and Carnatic traditions. The text, organized into seven adhyayas (chapters), comprehensively documents musical elements including svara (notes), microtonal variations (shrutis), raga classification, tala (rhythmic) systems, musical instruments, dance, and performance aesthetics. Notably, the work catalogs 264 ragas, many of which are no longer practiced, and provides extensive technical documentation of instrument construction and performance techniques for instruments such as veena and mridangam. Scholarly significance lies in its sophisticated analytical approach, particularly its application of rasa theory to musical performance and its nuanced exploration of performer-audience dynamics. The treatise offers critical insights into pre-Islamic musical practices and represents an important historical record of musical theory and performance practice. Its methodological approach and comprehensive documentation significantly influenced subsequent musicological scholarship in both Hindustani and Carnatic traditions, serving as a foundational text for understanding medieval Indian musical epistemology. Sharangadeva's work demonstrates the complex theoretical and aesthetic frameworks underlying Indian classical music during the 13th century, providing contemporary researchers with a detailed ethnomusicological resource.
+  - Musicology
+  - Arts Texts
+  - Technical Manuals
+  - Classical Literature
+description: >-
+  Sharangadeva's Sangita Ratnakara is a comprehensive musicological treatise
+  composed in 1240 CE at the Yadava court in Devagiri (modern Daulatabad),
+  providing a detailed systematic exploration of musical theory during a
+  critical transitional period before the divergence of Hindustani and Carnatic
+  traditions. The text, organized into seven adhyayas (chapters),
+  comprehensively documents musical elements including svara (notes), microtonal
+  variations (shrutis), raga classification, tala (rhythmic) systems, musical
+  instruments, dance, and performance aesthetics.
 collections:
-- musicology
-- arts-texts
-- technical-manuals
-- classical-literature
-- medieval-india
+  - musicology
+  - arts-texts
+  - technical-manuals
+  - classical-literature
+  - medieval-india
 sources:
-- name: 'Internet Archive (Sanskrit editions)'
-  url: https://archive.org/details/sangitaratnakara00sharuoft
-  type: other
+  - name: Internet Archive (Sanskrit editions)
+    url: 'https://archive.org/details/sangitaratnakara00sharuoft'
+    type: other
 references:
-- name: 'Wikipedia: Sangita Ratnakara'
-  url: https://en.wikipedia.org/wiki/Sangita_Ratnakara
-  type: wikipedia
-- name: 'Wikipedia: Sharangadeva'
-  url: https://en.wikipedia.org/wiki/Sharangadeva
-  type: wikipedia
-- name: 'Wikipedia: Indian classical music'
-  url: https://en.wikipedia.org/wiki/Indian_classical_music
-  type: wikipedia
-- name: 'Wikipedia: Raga'
-  url: https://en.wikipedia.org/wiki/Raga
-  type: wikipedia
-- name: 'Open Library: Sangita Ratnakara (Ocean of'
-  url: https://openlibrary.org/search?q=Sangita+Ratnakara+Ocean+of+Music+year+Sharangadeva
-  type: other
+  - name: 'Wikipedia: Sangita Ratnakara'
+    url: 'https://en.wikipedia.org/wiki/Sangita_Ratnakara'
+    type: wikipedia
+  - name: 'Wikipedia: Sharangadeva'
+    url: 'https://en.wikipedia.org/wiki/Sharangadeva'
+    type: wikipedia
+  - name: 'Wikipedia: Indian classical music'
+    url: 'https://en.wikipedia.org/wiki/Indian_classical_music'
+    type: wikipedia
+  - name: 'Wikipedia: Raga'
+    url: 'https://en.wikipedia.org/wiki/Raga'
+    type: wikipedia
+  - name: 'Open Library: Sangita Ratnakara (Ocean of'
+    url: >-
+      https://openlibrary.org/search?q=Sangita+Ratnakara+Ocean+of+Music+year+Sharangadeva
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+Sharangadeva's Sangita Ratnakara is a comprehensive musicological treatise composed in 1240 CE at the Yadava court in Devagiri (modern Daulatabad), providing a detailed systematic exploration of musical theory during a critical transitional period before the divergence of Hindustani and Carnatic traditions. The text, organized into seven adhyayas (chapters), comprehensively documents musical elements including svara (notes), microtonal variations (shrutis), raga classification, tala (rhythmic) systems, musical instruments, dance, and performance aesthetics. Notably, the work catalogs 264 ragas, many of which are no longer practiced, and provides extensive technical documentation of instrument construction and performance techniques for instruments such as veena and mridangam. Scholarly significance lies in its sophisticated analytical approach, particularly its application of rasa theory to musical performance and its nuanced exploration of performer-audience dynamics. The treatise offers critical insights into pre-Islamic musical practices and represents an important historical record of musical theory and performance practice. Its methodological approach and comprehensive documentation significantly influenced subsequent musicological scholarship in both Hindustani and Carnatic traditions, serving as a foundational text for understanding medieval Indian musical epistemology. Sharangadeva's work demonstrates the complex theoretical and aesthetic frameworks underlying Indian classical music during the 13th century, providing contemporary researchers with a detailed ethnomusicological resource.
+
 ---
 
 # Sangita Ratnakara (Ocean of Music)

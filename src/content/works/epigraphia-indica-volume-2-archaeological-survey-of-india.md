@@ -1,36 +1,49 @@
 ---
 title: 'Epigraphia Indica, Volume 2'
 author:
-- Archaeological Survey of India
-- Devadatta Ramakrishna Bhandarkar
+  - Archaeological Survey of India
+  - Devadatta Ramakrishna Bhandarkar
 year: 1891
 language:
-- English
-- Sanskrit
-- Prakrit
+  - English
+  - Sanskrit
+  - Prakrit
 genre:
-- Epigraphy
-- Reference
-description: |
-  During the late 19th century, when British colonial scholarship intensively documented India's archaeological heritage, *Epigraphia Indica, Volume 2* represented a critical scholarly intervention in understanding the subcontinent's complex historical landscape. Compiled under the leadership of pioneering epigraphist Devadatta Ramakrishna Bhandarkar and published by the Archaeological Survey of India in 1891, this volume systematically transliterated, translated, and analyzed Sanskrit and Prakrit inscriptions from northern India, providing unprecedented documentary evidence of regional dynastic histories, religious practices, and sociopolitical transformations. Bhandarkar, a distinguished scholar trained in the emerging disciplinary methodologies of historical linguistics and archaeological interpretation, applied rigorous philological techniques to decode inscriptional texts that had previously remained obscure or misunderstood. The work's meticulous transcriptions and scholarly commentaries not only preserved critical historical records but also inaugurated a more sophisticated approach to interpreting India's epigraphical patrimony, challenging prevailing colonial narratives about indigenous cultural development. By presenting verbatim inscriptional texts alongside sophisticated linguistic and contextual analysis, the volume illuminated intricate details of political succession, religious patronage, administrative structures, and cultural exchanges across multiple kingdoms and historical periods. For scholars of Indian history, religion, and linguistics, this publication represented a landmark scholarly achievement, transforming understanding of pre-colonial Indian societies through systematic archaeological documentation and sophisticated textual interpretation, thereby bridging indigenous historical knowledge with emerging comparative scholarly methodologies of the late 19th century.
+  - Epigraphy
+  - Reference
+description: >-
+  During the late 19th century, when British colonial scholarship intensively
+  documented India's archaeological heritage, *Epigraphia Indica, Volume 2*
+  represented a critical scholarly intervention in understanding the
+  subcontinent's complex historical landscape. Compiled under the leadership of
+  pioneering epigraphist Devadatta Ramakrishna Bhandarkar and published by the
+  Archaeological Survey of India in 1891, this volume systematically
+  transliterated, translated, and analyzed Sanskrit and Prakrit inscriptions
+  from northern India, providing unprecedented documentary evidence of regional
+  dynastic histories, religious practices, and sociopolitical transformations.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Internet Archive (University of California Libraries)'
-  url: https://archive.org/details/epigraphiaindica02bhan
-  type: other
+  - name: Internet Archive (University of California Libraries)
+    url: 'https://archive.org/details/epigraphiaindica02bhan'
+    type: other
 references:
-- name: 'Wikipedia: Archaeological Survey of India'
-  url: https://en.wikipedia.org/wiki/Archaeological_Survey_of_India
-  type: wikipedia
-- name: 'Wikipedia: Devadatta Ramakrishna Bhandarkar'
-  url: https://en.wikipedia.org/wiki/Devadatta_Ramakrishna_Bhandarkar
-  type: wikipedia
-- name: 'Open Library Search'
-  url: https://openlibrary.org/search?q=Epigraphia+Indica+Volume+2
-  type: other
+  - name: 'Wikipedia: Archaeological Survey of India'
+    url: 'https://en.wikipedia.org/wiki/Archaeological_Survey_of_India'
+    type: wikipedia
+  - name: 'Wikipedia: Devadatta Ramakrishna Bhandarkar'
+    url: 'https://en.wikipedia.org/wiki/Devadatta_Ramakrishna_Bhandarkar'
+    type: wikipedia
+  - name: Open Library Search
+    url: 'https://openlibrary.org/search?q=Epigraphia+Indica+Volume+2'
+    type: other
 featured: false
-publishDate: 2025-10-22
+publishDate: 2025-10-22T00:00:00.000Z
+---
+## Historical Context
+
+During the late 19th century, when British colonial scholarship intensively documented India's archaeological heritage, *Epigraphia Indica, Volume 2* represented a critical scholarly intervention in understanding the subcontinent's complex historical landscape. Compiled under the leadership of pioneering epigraphist Devadatta Ramakrishna Bhandarkar and published by the Archaeological Survey of India in 1891, this volume systematically transliterated, translated, and analyzed Sanskrit and Prakrit inscriptions from northern India, providing unprecedented documentary evidence of regional dynastic histories, religious practices, and sociopolitical transformations. Bhandarkar, a distinguished scholar trained in the emerging disciplinary methodologies of historical linguistics and archaeological interpretation, applied rigorous philological techniques to decode inscriptional texts that had previously remained obscure or misunderstood. The work's meticulous transcriptions and scholarly commentaries not only preserved critical historical records but also inaugurated a more sophisticated approach to interpreting India's epigraphical patrimony, challenging prevailing colonial narratives about indigenous cultural development. By presenting verbatim inscriptional texts alongside sophisticated linguistic and contextual analysis, the volume illuminated intricate details of political succession, religious patronage, administrative structures, and cultural exchanges across multiple kingdoms and historical periods. For scholars of Indian history, religion, and linguistics, this publication represented a landmark scholarly achievement, transforming understanding of pre-colonial Indian societies through systematic archaeological documentation and sophisticated textual interpretation, thereby bridging indigenous historical knowledge with emerging comparative scholarly methodologies of the late 19th century.
+
 ---
 
 # Epigraphia Indica, Volume 2

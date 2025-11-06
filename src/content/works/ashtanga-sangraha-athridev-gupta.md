@@ -1,32 +1,44 @@
 ---
-title: 'Ashtanga Sangraha'
+title: Ashtanga Sangraha
 author:
-- Athridev_gupta
+  - Athridev_gupta
 year: 1951
 language:
-- Sanskrit
+  - Sanskrit
 genre:
-- SV
-description: |
-  The Aṣṭāṅgasaṅgraha represents a seminal Sanskrit medical compendium emerging during the classical period of Ayurvedic medicine, specifically situated in the early medieval era around the 7th century CE. Traditionally attributed to Vagbhata, a scholarly physician from the kingdom of Sindh during the Chalukya period, this text is a sophisticated systematization of contemporary medical knowledge, integrating complex physiological understanding, diagnostic techniques, and therapeutic interventions. As a foundational text within the Brhat Trayi (Three Great Texts) of Ayurvedic scholarship, the Aṣṭāṅgasaṅgraha comprehensively explores eight primary branches of medical practice: internal medicine, surgery, ophthalmology, pediatrics, toxicology, geriatric care, reproductive health, and spiritual/psychological healing. The work distinguishes itself through its meticulous organization, presenting detailed descriptions of anatomical structures, pathological conditions, herbal pharmacology, and holistic treatment methodologies that reflect the sophisticated medical epistemologies of classical Indian civilization. Its profound influence extended beyond immediate medical practice, embodying broader philosophical principles of holistic health that interconnect physiological, psychological, and spiritual dimensions of human wellness. The text's methodology demonstrates remarkable empirical observation, integrating theoretical knowledge with practical clinical insights, and represents a critical intellectual milestone in the development of systematic medical scholarship in the Indian subcontinent. By synthesizing diverse medical traditions and establishing standardized diagnostic and therapeutic protocols, the Aṣṭāṅgasaṅgraha significantly contributed to the advancement of medical understanding and practice, serving as a foundational reference for subsequent generations of physicians and medical scholars across South Asia.
+  - SV
+description: >-
+  The Aṣṭāṅgasaṅgraha represents a seminal Sanskrit medical compendium emerging
+  during the classical period of Ayurvedic medicine, specifically situated in
+  the early medieval era around the 7th century CE. Traditionally attributed to
+  Vagbhata, a scholarly physician from the kingdom of Sindh during the Chalukya
+  period, this text is a sophisticated systematization of contemporary medical
+  knowledge, integrating complex physiological understanding, diagnostic
+  techniques, and therapeutic interventions.
 collections:
-- classical-literature
+  - classical-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.ernet.dli.2015.383455
-  type: archive
+  - name: Internet Archive
+    url: 'https://archive.org/details/in.ernet.dli.2015.383455'
+    type: archive
 references:
-- name: 'Wikipedia: Ashtanga Sangraha'
-  url: https://en.wikipedia.org/wiki/Ashtāṅgasaṅgraha
-  type: wikipedia
-- name: 'Wikidata: Ashtanga Sangraha'
-  url: https://www.wikidata.org/wiki/Q4805175
-  type: other
-- name: 'Open Library: Ashtanga Sangraha year'
-  url: https://openlibrary.org/search?q=Ashtanga+Sangraha+year+1951+language+genre+Athridev_gupta
-  type: other
+  - name: 'Wikipedia: Ashtanga Sangraha'
+    url: 'https://en.wikipedia.org/wiki/Ashtāṅgasaṅgraha'
+    type: wikipedia
+  - name: 'Wikidata: Ashtanga Sangraha'
+    url: 'https://www.wikidata.org/wiki/Q4805175'
+    type: other
+  - name: 'Open Library: Ashtanga Sangraha year'
+    url: >-
+      https://openlibrary.org/search?q=Ashtanga+Sangraha+year+1951+language+genre+Athridev_gupta
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+The Aṣṭāṅgasaṅgraha represents a seminal Sanskrit medical compendium emerging during the classical period of Ayurvedic medicine, specifically situated in the early medieval era around the 7th century CE. Traditionally attributed to Vagbhata, a scholarly physician from the kingdom of Sindh during the Chalukya period, this text is a sophisticated systematization of contemporary medical knowledge, integrating complex physiological understanding, diagnostic techniques, and therapeutic interventions. As a foundational text within the Brhat Trayi (Three Great Texts) of Ayurvedic scholarship, the Aṣṭāṅgasaṅgraha comprehensively explores eight primary branches of medical practice: internal medicine, surgery, ophthalmology, pediatrics, toxicology, geriatric care, reproductive health, and spiritual/psychological healing. The work distinguishes itself through its meticulous organization, presenting detailed descriptions of anatomical structures, pathological conditions, herbal pharmacology, and holistic treatment methodologies that reflect the sophisticated medical epistemologies of classical Indian civilization. Its profound influence extended beyond immediate medical practice, embodying broader philosophical principles of holistic health that interconnect physiological, psychological, and spiritual dimensions of human wellness. The text's methodology demonstrates remarkable empirical observation, integrating theoretical knowledge with practical clinical insights, and represents a critical intellectual milestone in the development of systematic medical scholarship in the Indian subcontinent. By synthesizing diverse medical traditions and establishing standardized diagnostic and therapeutic protocols, the Aṣṭāṅgasaṅgraha significantly contributed to the advancement of medical understanding and practice, serving as a foundational reference for subsequent generations of physicians and medical scholars across South Asia.
+
 ---
 
 ## Ashtanga Sangraha: A Foundational Text of Classical Ayurveda

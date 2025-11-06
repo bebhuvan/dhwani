@@ -1,32 +1,45 @@
 ---
-title: 'Path to God'
+title: Path to God
 author:
-- Mohandas K. Gandhi
+  - Mohandas K. Gandhi
 year: 1971
 language:
-- English
+  - English
 genre:
-- Spiritual Literature
-- Philosophy
-- Religious Studies
-description: |
-  Written during the pivotal decades of India's independence struggle, "Path to God" represents a profound intellectual and spiritual compilation of Mahatma Gandhi's philosophical reflections, compiled posthumously in 1971 and capturing the transformative intellectual landscape of early 20th-century anti-colonial India. Emerging from Gandhi's extensive writings and public discourse, the work synthesizes traditional Hindu philosophical thought with innovative ethical frameworks, articulating a nuanced understanding of spiritual realization deeply intertwined with social justice and collective liberation. The text explores Gandhi's foundational concept of satyagraha—a sophisticated philosophical and practical approach to nonviolent resistance that emerged from complex interactions between indigenous Indian philosophical traditions and contemporary global intellectual currents. By integrating principles of dharma, universal religious ethics, and pragmatic moral action, Gandhi develops a comprehensive worldview that challenges both colonial epistemologies and traditional religious orthodoxies. Drawing from Vedantic philosophy, Bhakti devotional traditions, and his own lived experiences of political resistance, the work presents a radical reimagining of spiritual practice as a dynamic, socially engaged endeavor. Gandhi's writings illuminate the intricate connections between individual spiritual transformation and collective political emancipation, positioning moral and ethical development as crucial mechanisms for challenging systemic oppression. As a critical text in Indian intellectual history, "Path to God" represents a landmark contribution to understanding how indigenous philosophical frameworks can generate powerful strategies of resistance, self-realization, and social reconstruction during periods of profound cultural and political transition.
+  - Spiritual Literature
+  - Philosophy
+  - Religious Studies
+description: >-
+  Written during the pivotal decades of India's independence struggle, "Path to
+  God" represents a profound intellectual and spiritual compilation of Mahatma
+  Gandhi's philosophical reflections, compiled posthumously in 1971 and
+  capturing the transformative intellectual landscape of early 20th-century
+  anti-colonial India. Emerging from Gandhi's extensive writings and public
+  discourse, the work synthesizes traditional Hindu philosophical thought with
+  innovative ethical frameworks, articulating a nuanced understanding of
+  spiritual realization deeply intertwined with social justice and collective
+  liberation.
 collections:
-- modern-literature
-- spiritual-texts
+  - modern-literature
+  - spiritual-texts
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/pathtogod00gand
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/pathtogod00gand'
+    type: other
 references:
-- name: 'Gandhi Heritage Portal'
-  url: https://www.gandhiheritageportal.org/
-  type: other
-- name: 'Wikipedia'
-  url: https://en.wikipedia.org/wiki/Mohandas_Karamchand_Gandhi
-  type: other
+  - name: Gandhi Heritage Portal
+    url: 'https://www.gandhiheritageportal.org/'
+    type: other
+  - name: Wikipedia
+    url: 'https://en.wikipedia.org/wiki/Mohandas_Karamchand_Gandhi'
+    type: other
 featured: false
-publishDate: 2025-09-28
+publishDate: 2025-09-28T00:00:00.000Z
+---
+## Historical Context
+
+Written during the pivotal decades of India's independence struggle, "Path to God" represents a profound intellectual and spiritual compilation of Mahatma Gandhi's philosophical reflections, compiled posthumously in 1971 and capturing the transformative intellectual landscape of early 20th-century anti-colonial India. Emerging from Gandhi's extensive writings and public discourse, the work synthesizes traditional Hindu philosophical thought with innovative ethical frameworks, articulating a nuanced understanding of spiritual realization deeply intertwined with social justice and collective liberation. The text explores Gandhi's foundational concept of satyagraha—a sophisticated philosophical and practical approach to nonviolent resistance that emerged from complex interactions between indigenous Indian philosophical traditions and contemporary global intellectual currents. By integrating principles of dharma, universal religious ethics, and pragmatic moral action, Gandhi develops a comprehensive worldview that challenges both colonial epistemologies and traditional religious orthodoxies. Drawing from Vedantic philosophy, Bhakti devotional traditions, and his own lived experiences of political resistance, the work presents a radical reimagining of spiritual practice as a dynamic, socially engaged endeavor. Gandhi's writings illuminate the intricate connections between individual spiritual transformation and collective political emancipation, positioning moral and ethical development as crucial mechanisms for challenging systemic oppression. As a critical text in Indian intellectual history, "Path to God" represents a landmark contribution to understanding how indigenous philosophical frameworks can generate powerful strategies of resistance, self-realization, and social reconstruction during periods of profound cultural and political transition.
+
 ---
 
 ## Compilation History and Structure

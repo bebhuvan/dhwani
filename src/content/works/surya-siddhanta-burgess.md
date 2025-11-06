@@ -1,36 +1,46 @@
 ---
-title: 'Translation of the Surya-Siddhanta'
+title: Translation of the Surya-Siddhanta
 author:
-- Lāṭadeva
-- Ebenezer Burgess
+  - Lāṭadeva
+  - Ebenezer Burgess
 year: 1858
 language:
-- English
-- Sanskrit
+  - English
+  - Sanskrit
 genre:
-- Astronomy
-- Ancient Science
-description: |
-  The Surya Siddhanta represents a cornerstone of classical Indian astronomical scholarship, embodying the sophisticated mathematical and cosmological understanding developed during the Gupta period (320-550 CE). Comprising fourteen detailed chapters, this Sanskrit treatise provides a comprehensive geocentric model of planetary motions, eclipse predictions, trigonometric calculations, and sophisticated time measurement techniques. Rooted in the intellectual traditions of Indian mathematical astronomy, the text demonstrates remarkable computational precision, presenting complex astronomical calculations that predated European scientific methodologies by several centuries. Its contents explore celestial mechanics through a blend of empirical observation and theoretical mathematical modeling, including advanced trigonometric functions, geometric principles, and astronomical algorithms that reveal the profound scientific sophistication of classical Indian scholars. The text's systematic approach to understanding celestial phenomena reflects broader Hindu cosmological perspectives, integrating astronomical knowledge with philosophical and religious conceptualizations of the universe. Scholars like Rev. Ebenezer Burgess, through his seminal 1858 translation, helped introduce this critical work to Western academic discourse, highlighting the global significance of Indian scientific contributions. The Surya Siddhanta's influence extends beyond astronomical research, serving as a critical document in understanding the intellectual heritage of India, the mathematical innovations of the Gupta era, and the sophisticated scientific methodologies developed in the subcontinent during a period of remarkable cultural and intellectual flourishing. Its preservation and translation represent an important milestone in recognizing the depth and complexity of pre-modern Indian scientific scholarship.
+  - Astronomy
+  - Ancient Science
+description: >-
+  The Surya Siddhanta represents a cornerstone of classical Indian astronomical
+  scholarship, embodying the sophisticated mathematical and cosmological
+  understanding developed during the Gupta period (320-550 CE). Comprising
+  fourteen detailed chapters, this Sanskrit treatise provides a comprehensive
+  geocentric model of planetary motions, eclipse predictions, trigonometric
+  calculations, and sophisticated time measurement techniques.
 collections:
-- ancient-wisdom
-- classical-literature
+  - ancient-wisdom
+  - classical-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/dli.csl.6555
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/dli.csl.6555'
+    type: other
 references:
-- name: 'Wikipedia: Surya Siddhanta'
-  url: https://en.wikipedia.org/wiki/Surya_Siddhanta
-  type: wikipedia
-- name: 'Wikisource: Ebenezer Burgess'
-  url: https://en.wikisource.org/wiki/Author:Ebenezer_Burgess
-  type: wikisource
-- name: 'Open Library'
-  url: https://openlibrary.org/search?q=Surya+Siddhanta+Burgess&mode=everything
-  type: other
+  - name: 'Wikipedia: Surya Siddhanta'
+    url: 'https://en.wikipedia.org/wiki/Surya_Siddhanta'
+    type: wikipedia
+  - name: 'Wikisource: Ebenezer Burgess'
+    url: 'https://en.wikisource.org/wiki/Author:Ebenezer_Burgess'
+    type: wikisource
+  - name: Open Library
+    url: 'https://openlibrary.org/search?q=Surya+Siddhanta+Burgess&mode=everything'
+    type: other
 featured: false
-publishDate: 2025-10-23
+publishDate: 2025-10-23T00:00:00.000Z
+---
+## Historical Context
+
+The Surya Siddhanta represents a cornerstone of classical Indian astronomical scholarship, embodying the sophisticated mathematical and cosmological understanding developed during the Gupta period (320-550 CE). Comprising fourteen detailed chapters, this Sanskrit treatise provides a comprehensive geocentric model of planetary motions, eclipse predictions, trigonometric calculations, and sophisticated time measurement techniques. Rooted in the intellectual traditions of Indian mathematical astronomy, the text demonstrates remarkable computational precision, presenting complex astronomical calculations that predated European scientific methodologies by several centuries. Its contents explore celestial mechanics through a blend of empirical observation and theoretical mathematical modeling, including advanced trigonometric functions, geometric principles, and astronomical algorithms that reveal the profound scientific sophistication of classical Indian scholars. The text's systematic approach to understanding celestial phenomena reflects broader Hindu cosmological perspectives, integrating astronomical knowledge with philosophical and religious conceptualizations of the universe. Scholars like Rev. Ebenezer Burgess, through his seminal 1858 translation, helped introduce this critical work to Western academic discourse, highlighting the global significance of Indian scientific contributions. The Surya Siddhanta's influence extends beyond astronomical research, serving as a critical document in understanding the intellectual heritage of India, the mathematical innovations of the Gupta era, and the sophisticated scientific methodologies developed in the subcontinent during a period of remarkable cultural and intellectual flourishing. Its preservation and translation represent an important milestone in recognizing the depth and complexity of pre-modern Indian scientific scholarship.
+
 ---
 
 # Translation of the Surya-Siddhanta

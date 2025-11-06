@@ -1,49 +1,62 @@
 ---
-title: 'The Wheel of Fortune'
+title: The Wheel of Fortune
 author:
-- Gandhi, Mahatma
+  - 'Gandhi, Mahatma'
 year: 1922
 language:
-- English
+  - English
 genre:
-- Political Philosophy
-- Economics
-- Social Reform
-description: |
-  In the tumultuous aftermath of World War I and during the intensifying Indian independence movement, Mahatma Gandhi's 'The Wheel of Fortune' emerged as a profound manifesto of anti-colonial resistance during a critical period of British imperial control in India. Published in 1922 at the height of the Non-Cooperation Movement and just two years after the devastating Jallianwala Bagh massacre, the work reflected Gandhi's strategic pivot toward economic and cultural self-determination during a transformative decade when Indian nationalists were challenging British colonial economic and political hegemony. Published in 1922 by Ganesh of Madras, 'The Wheel of Fortune' compiles Mahatma Gandhi's writings from 1920-21 on the charkha (spinning wheel) and the Swadeshi movement, representing a pivotal moment when Gandhi transformed a simple domestic implement into the symbol of Indian independence and economic self-reliance. These essays articulate Gandhi's revolutionary vision that political freedom (Swaraj) could only be achieved through economic independence from British manufactured goods, particularly textiles, and that every Indian's participation in hand-spinning and weaving would simultaneously address rural poverty, restore dignity to manual labor, create decentralized economic power, and forge national unity across class and caste divisions—a philosophy he summarized by declaring 'I stake my all on it,' making the humble charkha one of history's most powerful symbols of nonviolent resistance.
+  - Political Philosophy
+  - Economics
+  - Social Reform
+description: >-
+  In the tumultuous aftermath of World War I and during the intensifying Indian
+  independence movement, Mahatma Gandhi's 'The Wheel of Fortune' emerged as a
+  profound manifesto of anti-colonial resistance during a critical period of
+  British imperial control in India. Published in 1922 at the height of the
+  Non-Cooperation Movement and just two years after the devastating Jallianwala
+  Bagh massacre, the work reflected Gandhi's strategic pivot toward economic and
+  cultural self-determination during a transformative decade when Indian
+  nationalists were challenging British colonial economic and political
+  hegemony.
 collections:
-- classical-literature
-- political-philosophy
-- classical-literature
-- classical-literature
+  - classical-literature
+  - political-philosophy
+  - classical-literature
+  - classical-literature
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/41954
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/41954.html.images
-  type: other
-- name: 'Internet Archive (1922 Ganesh Edition)'
-  url: https://archive.org/details/dli.ministry.24609
-  type: other
-- name: 'Internet Archive (Alternative Copy)'
-  url: https://archive.org/details/in.ernet.dli.2015.79131
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/41954'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/41954.html.images'
+    type: other
+  - name: Internet Archive (1922 Ganesh Edition)
+    url: 'https://archive.org/details/dli.ministry.24609'
+    type: other
+  - name: Internet Archive (Alternative Copy)
+    url: 'https://archive.org/details/in.ernet.dli.2015.79131'
+    type: other
 references:
-- name: 'Wikipedia: Charkha'
-  url: https://en.wikipedia.org/wiki/Charkha
-  type: other
-- name: 'Wikipedia: Swadeshi Movement'
-  url: https://en.wikipedia.org/wiki/Swadeshi_movement
-  type: other
-- name: 'Wikipedia: Mahatma Gandhi'
-  url: https://en.wikipedia.org/wiki/Mahatma_Gandhi
-  type: other
-- name: 'Open Library: The Wheel of Fortune'
-  url: https://openlibrary.org/search?q=The%20Wheel%20of%20Fortune%20Gandhi
-  type: other
+  - name: 'Wikipedia: Charkha'
+    url: 'https://en.wikipedia.org/wiki/Charkha'
+    type: other
+  - name: 'Wikipedia: Swadeshi Movement'
+    url: 'https://en.wikipedia.org/wiki/Swadeshi_movement'
+    type: other
+  - name: 'Wikipedia: Mahatma Gandhi'
+    url: 'https://en.wikipedia.org/wiki/Mahatma_Gandhi'
+    type: other
+  - name: 'Open Library: The Wheel of Fortune'
+    url: 'https://openlibrary.org/search?q=The%20Wheel%20of%20Fortune%20Gandhi'
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+In the tumultuous aftermath of World War I and during the intensifying Indian independence movement, Mahatma Gandhi's 'The Wheel of Fortune' emerged as a profound manifesto of anti-colonial resistance during a critical period of British imperial control in India. Published in 1922 at the height of the Non-Cooperation Movement and just two years after the devastating Jallianwala Bagh massacre, the work reflected Gandhi's strategic pivot toward economic and cultural self-determination during a transformative decade when Indian nationalists were challenging British colonial economic and political hegemony. Published in 1922 by Ganesh of Madras, 'The Wheel of Fortune' compiles Mahatma Gandhi's writings from 1920-21 on the charkha (spinning wheel) and the Swadeshi movement, representing a pivotal moment when Gandhi transformed a simple domestic implement into the symbol of Indian independence and economic self-reliance. These essays articulate Gandhi's revolutionary vision that political freedom (Swaraj) could only be achieved through economic independence from British manufactured goods, particularly textiles, and that every Indian's participation in hand-spinning and weaving would simultaneously address rural poverty, restore dignity to manual labor, create decentralized economic power, and forge national unity across class and caste divisions—a philosophy he summarized by declaring 'I stake my all on it,' making the humble charkha one of history's most powerful symbols of nonviolent resistance.
+
 ---
 
 # The Wheel of Fortune

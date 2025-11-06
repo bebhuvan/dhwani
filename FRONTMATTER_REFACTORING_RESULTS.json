@@ -1,0 +1,5113 @@
+{
+  "total": 698,
+  "refactored": 458,
+  "skipped": 240,
+  "errors": 0,
+  "totalReduction": 78025,
+  "files": [
+    {
+      "file": "1-bhikshu-pratimoksha-2-bhikshuna-pratimoksha-3-mahabagga-4-chullabagga-sanskrityan-rahul.md",
+      "status": "skipped",
+      "reason": "already_concise",
+      "wordCount": 67
+    },
+    {
+      "file": "a-bibliography-of-the-sanskrit-drama-montgomery-schuyler.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 224
+    },
+    {
+      "file": "a-bottle-in-the-smoke-a-tale-of-anglo-indian-life-rae-janet-milne.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 243
+    },
+    {
+      "file": "a-brief-history-of-the-3rd-battalion-1st-punjab-regiment-b-formerly-76th-punjabis-16th-madras.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 289
+    },
+    {
+      "file": "a-comparative-grammar-of-the-dravidian-or-south-indian-family-of-languages-robert-caldwell.md",
+      "status": "refactored",
+      "oldWordCount": 228,
+      "newWordCount": 59,
+      "reduction": 169,
+      "reductionPercent": 74
+    },
+    {
+      "file": "a-comparative-grammar-of-the-sanskrit-zend-greek-latin-lithuanian-gothic-german-and-slavonic-languages-bopp.md",
+      "status": "refactored",
+      "oldWordCount": 231,
+      "newWordCount": 59,
+      "reduction": 172,
+      "reductionPercent": 74
+    },
+    {
+      "file": "a-compendium-of-the-comparative-grammar-of-the-indo-european-sanskrit-greek-and-latin-languages-schleicher.md",
+      "status": "refactored",
+      "oldWordCount": 227,
+      "newWordCount": 59,
+      "reduction": 168,
+      "reductionPercent": 74
+    },
+    {
+      "file": "a-concordance-to-the-greek-testament-according-to-the-texts-of-westcott-and-hort-tischendorf-and-the-english-revisers-moulton.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 230
+    },
+    {
+      "file": "a-diary-kept-by-mrs-r-c-germon-at-lucknow-between-the-months-of-may-and-december-1857-germon-maria.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 245
+    },
+    {
+      "file": "a-digest-of-the-hindu-law-of-inheritance-partition-and-adoption-embodying-the-replies-of-the-sstris-with-introductions-and-notes-1832-1912-sir-raymond-west.md",
+      "status": "refactored",
+      "oldWordCount": 237,
+      "newWordCount": 64,
+      "reduction": 173,
+      "reductionPercent": 73
+    },
+    {
+      "file": "a-fascinating-traitor-an-anglo-indian-story-savage-richard.md",
+      "status": "refactored",
+      "oldWordCount": 251,
+      "newWordCount": 59,
+      "reduction": 192,
+      "reductionPercent": 76
+    },
+    {
+      "file": "a-forgotten-empire-vijayanagar-a-contribution-to-the-history-of-india-1845-1925-robert-sewell.md",
+      "status": "refactored",
+      "oldWordCount": 236,
+      "newWordCount": 65,
+      "reduction": 171,
+      "reductionPercent": 72
+    },
+    {
+      "file": "a-glossary-of-judicial-and-revenue-terms-h-h-wilson.md",
+      "status": "refactored",
+      "oldWordCount": 238,
+      "newWordCount": 72,
+      "reduction": 166,
+      "reductionPercent": 70
+    },
+    {
+      "file": "a-grammar-of-the-bengal-language-nathaniel-brassey-halhed.md",
+      "status": "refactored",
+      "oldWordCount": 249,
+      "newWordCount": 56,
+      "reduction": 193,
+      "reductionPercent": 78
+    },
+    {
+      "file": "a-grammar-of-the-hindustani-language-john-shakespear.md",
+      "status": "refactored",
+      "oldWordCount": 252,
+      "newWordCount": 51,
+      "reduction": 201,
+      "reductionPercent": 80
+    },
+    {
+      "file": "a-guide-to-nalanda-ghosh.md",
+      "status": "refactored",
+      "oldWordCount": 232,
+      "newWordCount": 30,
+      "reduction": 202,
+      "reductionPercent": 87
+    },
+    {
+      "file": "a-handbook-of-some-south-indian-grasses-k-rangachari-c-tadulinga-mudaliyar.md",
+      "status": "refactored",
+      "oldWordCount": 244,
+      "newWordCount": 37,
+      "reduction": 207,
+      "reductionPercent": 85
+    },
+    {
+      "file": "a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale-m-r.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 246
+    },
+    {
+      "file": "a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 213
+    },
+    {
+      "file": "a-history-of-architecture-in-all-countries-from-the-earliest-times-to-the-present-day-fergusson.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 231
+    },
+    {
+      "file": "a-history-of-hindi-literature-keay.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 252
+    },
+    {
+      "file": "a-history-of-indian-philosophy-volume-1-dasgupta-surendranath.md",
+      "status": "refactored",
+      "oldWordCount": 219,
+      "newWordCount": 48,
+      "reduction": 171,
+      "reductionPercent": 78
+    },
+    {
+      "file": "a-history-of-sanskrit-literature-macdonell.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 80,
+      "reduction": 145,
+      "reductionPercent": 64
+    },
+    {
+      "file": "a-history-of-the-mahrattas-3-vols-james-grant-duff.md",
+      "status": "refactored",
+      "oldWordCount": 240,
+      "newWordCount": 60,
+      "reduction": 180,
+      "reductionPercent": 75
+    },
+    {
+      "file": "a-history-of-the-maratha-people-voli-c-a-kincaid.md",
+      "status": "refactored",
+      "oldWordCount": 237,
+      "newWordCount": 42,
+      "reduction": 195,
+      "reductionPercent": 82
+    },
+    {
+      "file": "a-journey-from-madras-through-the-countries-of-mysore-canara-and-malabar-1762-1829-francis-buchanan-hamilton.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 231
+    },
+    {
+      "file": "a-letter-to-a-hindu-tolstoy-leo-graf.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 215
+    },
+    {
+      "file": "a-new-hindustani-english-dictionary-fallon-s.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 233
+    },
+    {
+      "file": "a-prose-english-translation-of-vishnupuranam-based-on-professor-h-h-wilsons-translation-unknown.md",
+      "status": "refactored",
+      "oldWordCount": 231,
+      "newWordCount": 66,
+      "reduction": 165,
+      "reductionPercent": 71
+    },
+    {
+      "file": "a-record-of-buddhistic-kingdoms-faxian-james-legge.md",
+      "status": "refactored",
+      "oldWordCount": 247,
+      "newWordCount": 66,
+      "reduction": 181,
+      "reductionPercent": 73
+    },
+    {
+      "file": "a-sanskrit-english-dictionary-being-a-practical-handbook-with-transliteration-accentuation-and-etymological-analysis-throughout-macdonell.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 33,
+      "reduction": 192,
+      "reductionPercent": 85
+    },
+    {
+      "file": "a-sanskrit-grammar-for-beginners-macdonell.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 60,
+      "reduction": 165,
+      "reductionPercent": 73
+    },
+    {
+      "file": "a-sanskrit-grammar-including-both-the-classical-language-and-the-older-dialects-of-veda-and-brahmana-william-dwight-whitney.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 219
+    },
+    {
+      "file": "a-sanskrit-manual-for-high-schools-antoine-robert-1914.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 250
+    },
+    {
+      "file": "a-sanskrit-manual-for-high-schools-antoine.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 233
+    },
+    {
+      "file": "a-sanskritenglish-dictionary-enlarged-ed-monier-monier-williams.md",
+      "status": "refactored",
+      "oldWordCount": 231,
+      "newWordCount": 60,
+      "reduction": 171,
+      "reductionPercent": 74
+    },
+    {
+      "file": "a-short-guide-to-buddhist-remains-at-nalanda-kuraishi.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 240
+    },
+    {
+      "file": "a-soldiers-experience-or-a-voice-from-the-ranks-showing-the-cost-of-war-in-blood-and-treasure-a.md",
+      "status": "refactored",
+      "oldWordCount": 237,
+      "newWordCount": 40,
+      "reduction": 197,
+      "reductionPercent": 83
+    },
+    {
+      "file": "a-study-of-the-bhagavata-purana-sinha.md",
+      "status": "refactored",
+      "oldWordCount": 234,
+      "newWordCount": 62,
+      "reduction": 172,
+      "reductionPercent": 74
+    },
+    {
+      "file": "a-study-of-the-textile-art-in-its-relation-to-the-development-of-form-and-ornament-sixth-annual.md",
+      "status": "refactored",
+      "oldWordCount": 231,
+      "newWordCount": 61,
+      "reduction": 170,
+      "reductionPercent": 74
+    },
+    {
+      "file": "a-tibetan-english-dictionary-heinrich-august-jaschke.md",
+      "status": "refactored",
+      "oldWordCount": 213,
+      "newWordCount": 65,
+      "reduction": 148,
+      "reductionPercent": 69
+    },
+    {
+      "file": "a-vedic-reader-for-students-arthur-anthony-macdonell.md",
+      "status": "refactored",
+      "oldWordCount": 238,
+      "newWordCount": 66,
+      "reduction": 172,
+      "reductionPercent": 72
+    },
+    {
+      "file": "a-voyage-to-new-guinea-and-the-moluccas-thomas-forrest.md",
+      "status": "refactored",
+      "oldWordCount": 251,
+      "newWordCount": 70,
+      "reduction": 181,
+      "reductionPercent": 72
+    },
+    {
+      "file": "abhijnana-shakuntalam-kalidasa.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 158
+    },
+    {
+      "file": "acharanga-sutra.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 202
+    },
+    {
+      "file": "across-india-or-live-boys-in-the-far-east-william-taylor-adams-oliver-optic.md",
+      "status": "refactored",
+      "oldWordCount": 241,
+      "newWordCount": 56,
+      "reduction": 185,
+      "reductionPercent": 77
+    },
+    {
+      "file": "adhyatma-ramayanam-kilippattu-ezhuthachan-malayalam.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 230
+    },
+    {
+      "file": "aitareya-upanishad.md",
+      "status": "refactored",
+      "oldWordCount": 153,
+      "newWordCount": 69,
+      "reduction": 84,
+      "reductionPercent": 55
+    },
+    {
+      "file": "akbar-an-eastern-romance-limburg-brouwer-p-a-s-van-petrus-abraham-samuel.md",
+      "status": "refactored",
+      "oldWordCount": 216,
+      "newWordCount": 31,
+      "reduction": 185,
+      "reductionPercent": 86
+    },
+    {
+      "file": "akbar-een-oosterse-roman-limburg-brouwer-p-a-s-van-petrus-abraham-samuel.md",
+      "status": "refactored",
+      "oldWordCount": 226,
+      "newWordCount": 59,
+      "reduction": 167,
+      "reductionPercent": 74
+    },
+    {
+      "file": "akbar-emperor-of-india-richard-garbe.md",
+      "status": "refactored",
+      "oldWordCount": 241,
+      "newWordCount": 57,
+      "reduction": 184,
+      "reductionPercent": 76
+    },
+    {
+      "file": "akbar-the-great-mogul-1542-1605-smith.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 75,
+      "reduction": 154,
+      "reductionPercent": 67
+    },
+    {
+      "file": "akuntal-or-the-lost-ring-klidsa-tr-monier-monier-williams.md",
+      "status": "refactored",
+      "oldWordCount": 233,
+      "newWordCount": 60,
+      "reduction": 173,
+      "reductionPercent": 74
+    },
+    {
+      "file": "alberunis-india.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 199
+    },
+    {
+      "file": "algebra-arithmetic-mensuration-brahmegupta-bhaskara-colebrooke.md",
+      "status": "refactored",
+      "oldWordCount": 215,
+      "newWordCount": 67,
+      "reduction": 148,
+      "reductionPercent": 69
+    },
+    {
+      "file": "amarakosha-amarasimha-colebrooke-ed.md",
+      "status": "refactored",
+      "oldWordCount": 214,
+      "newWordCount": 53,
+      "reduction": 161,
+      "reductionPercent": 75
+    },
+    {
+      "file": "american-architect-and-architecture-unknown.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 225
+    },
+    {
+      "file": "among-the-wild-tribes-of-the-afghan-frontier-a-record-of-sixteen-years-close-intercourse-with-the.md",
+      "status": "refactored",
+      "oldWordCount": 255,
+      "newWordCount": 12,
+      "reduction": 243,
+      "reductionPercent": 95
+    },
+    {
+      "file": "an-alphabetical-list-of-jaina-mss-belonging-to-government-in-the-oriental-library-of-the-asiatic-society-of-bengal-asiatic-society-calcutta.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 249
+    },
+    {
+      "file": "an-avesta-grammar-in-comparison-with-sanskrit-jackson.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 227
+    },
+    {
+      "file": "an-encyclopaedia-of-hindu-architecture-prasanna-kumar-acharya.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 232
+    },
+    {
+      "file": "an-english-translation-of-the-satyarth-prakash-literally-expose-of-right-sense-of-vedic-religion-of-maharshi-swami-dayanand-saraswati-the-luther-of-india-being-a-guide-to-vedic-hermeneutics-dayananda-sarasvati.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 241
+    },
+    {
+      "file": "an-historical-disquisition-concerning-the-knowledge-which-the-ancients-had-of-india-william-robertson.md",
+      "status": "refactored",
+      "oldWordCount": 227,
+      "newWordCount": 60,
+      "reduction": 167,
+      "reductionPercent": 74
+    },
+    {
+      "file": "an-historical-sketch-of-the-native-states-of-india-g-b-malleson.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 249
+    },
+    {
+      "file": "anandamath-the-abbey-of-bliss-english-translations-bankim-chandra-chattopadhyay-tr-n-c-sengupta-tr-sri-aurobindo-b-k-ghosh-tr-b-k-roy.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 241
+    },
+    {
+      "file": "ancient-ballads-and-legends-of-hindustan-toru-dutt.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 56,
+      "reduction": 173,
+      "reductionPercent": 76
+    },
+    {
+      "file": "ancient-india-2000-bc-800-ad-romesh-dutt.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 229
+    },
+    {
+      "file": "ancient-india-as-described-by-megasthenes-and-arrian-j-w-mccrindle.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 225
+    },
+    {
+      "file": "ancient-india-as-described-by-ptolemy-being-a-translation-of-the-chapters-which-describe-india-and-central-and-eastern-asia-in-the-treatise-on-geography-written-by-klaudios-ptolemaios-the-celebrated-astronomer-jw-mccrindle.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 218
+    },
+    {
+      "file": "ancient-indian-historical-tradition-f-e-pargiter.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 63,
+      "reduction": 166,
+      "reductionPercent": 72
+    },
+    {
+      "file": "ancient-indian-weights-edward-thomas.md",
+      "status": "refactored",
+      "oldWordCount": 228,
+      "newWordCount": 61,
+      "reduction": 167,
+      "reductionPercent": 73
+    },
+    {
+      "file": "andhra-mahabharatamu-nannaya-telugu.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 233
+    },
+    {
+      "file": "angel-a-sketch-in-indian-ink-croker-b-m-bithia-mary.md",
+      "status": "refactored",
+      "oldWordCount": 244,
+      "newWordCount": 58,
+      "reduction": 186,
+      "reductionPercent": 76
+    },
+    {
+      "file": "annals-and-antiquities-of-rajasthan-james-tod.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 230
+    },
+    {
+      "file": "annals-and-antiquities-of-rajasthan-tod.md",
+      "status": "refactored",
+      "oldWordCount": 126,
+      "newWordCount": 83,
+      "reduction": 43,
+      "reductionPercent": 34
+    },
+    {
+      "file": "annual-address-delivered-to-the-asiatic-society-of-bengal-caluctta-2nd-february-1898-hoernle.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 242
+    },
+    {
+      "file": "antiche-relazioni-dell-indie-e-della-china-abu-zayd-hasan-al-sirafi.md",
+      "status": "skipped",
+      "reason": "already_concise",
+      "wordCount": 90
+    },
+    {
+      "file": "art-manufactures-of-india-mukharji.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 237
+    },
+    {
+      "file": "art-of-india-kramrisch.md",
+      "status": "refactored",
+      "oldWordCount": 238,
+      "newWordCount": 56,
+      "reduction": 182,
+      "reductionPercent": 76
+    },
+    {
+      "file": "arthashastra-kautilya.md",
+      "status": "refactored",
+      "oldWordCount": 230,
+      "newWordCount": 77,
+      "reduction": 153,
+      "reductionPercent": 67
+    },
+    {
+      "file": "aryabhatiya-aryabhata.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 122
+    },
+    {
+      "file": "ashtadhyayi-panini-grammar.md",
+      "status": "refactored",
+      "oldWordCount": 138,
+      "newWordCount": 62,
+      "reduction": 76,
+      "reductionPercent": 55
+    },
+    {
+      "file": "ashtadhyayi-translated-into-english-by-srisa-chandra-vasu-panini.md",
+      "status": "refactored",
+      "oldWordCount": 110,
+      "newWordCount": 37,
+      "reduction": 73,
+      "reductionPercent": 66
+    },
+    {
+      "file": "ashtanga-sangraha-athridev-gupta.md",
+      "status": "refactored",
+      "oldWordCount": 228,
+      "newWordCount": 63,
+      "reduction": 165,
+      "reductionPercent": 72
+    },
+    {
+      "file": "ashtavakra-gita.md",
+      "status": "refactored",
+      "oldWordCount": 815,
+      "newWordCount": 62,
+      "reduction": 753,
+      "reductionPercent": 92
+    },
+    {
+      "file": "asoka-the-buddhist-emperor-of-india-smith.md",
+      "status": "refactored",
+      "oldWordCount": 227,
+      "newWordCount": 71,
+      "reduction": 156,
+      "reductionPercent": 69
+    },
+    {
+      "file": "atharva-veda-described-ralph-griffith.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 226
+    },
+    {
+      "file": "atharvaveda-saunaka-visha-bandhu-2.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 216
+    },
+    {
+      "file": "atmatattvaviveka-udayanacharya.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 220
+    },
+    {
+      "file": "autobiography-of-a-yogi-yogananda-paramahansa.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 67,
+      "reduction": 158,
+      "reductionPercent": 70
+    },
+    {
+      "file": "baburnama-memoirs-of-babur-zahir-ud-din-muhammad-babur.md",
+      "status": "refactored",
+      "oldWordCount": 231,
+      "newWordCount": 70,
+      "reduction": 161,
+      "reductionPercent": 70
+    },
+    {
+      "file": "bakhshali-manuscript-ancient-mathematics-rudolf-hoernle.md",
+      "status": "refactored",
+      "oldWordCount": 215,
+      "newWordCount": 60,
+      "reduction": 155,
+      "reductionPercent": 72
+    },
+    {
+      "file": "beast-and-man-in-india-a-popular-sketch-of-indian-animals-in-their-relations-with-the-people.md",
+      "status": "refactored",
+      "oldWordCount": 239,
+      "newWordCount": 57,
+      "reduction": 182,
+      "reductionPercent": 76
+    },
+    {
+      "file": "beginnings-of-buddhist-art-and-other-essays-in-indian-and-central-asian-archaeology-foucher.md",
+      "status": "refactored",
+      "oldWordCount": 246,
+      "newWordCount": 55,
+      "reduction": 191,
+      "reductionPercent": 78
+    },
+    {
+      "file": "bhagavad-gita-christian-literature-society-1899.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 68,
+      "reduction": 157,
+      "reductionPercent": 70
+    },
+    {
+      "file": "bhagavad-gita-herrens-sång-unknown.md",
+      "status": "refactored",
+      "oldWordCount": 227,
+      "newWordCount": 72,
+      "reduction": 155,
+      "reductionPercent": 68
+    },
+    {
+      "file": "bhagavadgita-des-erhabenen-sang-schroeder.md",
+      "status": "refactored",
+      "oldWordCount": 217,
+      "newWordCount": 60,
+      "reduction": 157,
+      "reductionPercent": 72
+    },
+    {
+      "file": "bhagavata-purana-vyasa.md",
+      "status": "refactored",
+      "oldWordCount": 153,
+      "newWordCount": 70,
+      "reduction": 83,
+      "reductionPercent": 54
+    },
+    {
+      "file": "bharatendu-ke-nibandh-bharatendu-harishchandra.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 232
+    },
+    {
+      "file": "bhartiya-jyotish-vigyan-ravindra-kumar-dubey.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 227
+    },
+    {
+      "file": "bhartiya-shasan-and-rajniti-jain-pukhraj.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 73,
+      "reduction": 156,
+      "reductionPercent": 68
+    },
+    {
+      "file": "bhartrhari-shatakas.md",
+      "status": "refactored",
+      "oldWordCount": 975,
+      "newWordCount": 74,
+      "reduction": 901,
+      "reductionPercent": 92
+    },
+    {
+      "file": "bibliotheca-indica-volume-96.md",
+      "status": "refactored",
+      "oldWordCount": 235,
+      "newWordCount": 53,
+      "reduction": 182,
+      "reductionPercent": 77
+    },
+    {
+      "file": "bikhre-moti-subhadra-kumari-chauhan.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 248
+    },
+    {
+      "file": "bodhicharyavatara-shantideva.md",
+      "status": "refactored",
+      "oldWordCount": 122,
+      "newWordCount": 78,
+      "reduction": 44,
+      "reductionPercent": 36
+    },
+    {
+      "file": "brahma-sutras-badarayana.md",
+      "status": "refactored",
+      "oldWordCount": 135,
+      "newWordCount": 71,
+      "reduction": 64,
+      "reductionPercent": 47
+    },
+    {
+      "file": "brahmanda-purana.md",
+      "status": "refactored",
+      "oldWordCount": 203,
+      "newWordCount": 49,
+      "reduction": 154,
+      "reductionPercent": 76
+    },
+    {
+      "file": "brhad-devata-attributed-to-saunaka-a-summary-of-the-deities-and-myths-of-the-rig-veda-saunaka.md",
+      "status": "refactored",
+      "oldWordCount": 212,
+      "newWordCount": 60,
+      "reduction": 152,
+      "reductionPercent": 72
+    },
+    {
+      "file": "brhati-prabhakara-misra.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 224
+    },
+    {
+      "file": "brihadaranyaka-upanishad.md",
+      "status": "refactored",
+      "oldWordCount": 134,
+      "newWordCount": 76,
+      "reduction": 58,
+      "reductionPercent": 43
+    },
+    {
+      "file": "buddhacharita-ashvaghosa.md",
+      "status": "refactored",
+      "oldWordCount": 152,
+      "newWordCount": 61,
+      "reduction": 91,
+      "reductionPercent": 60
+    },
+    {
+      "file": "buddhacharita-asvaghosha-cowell.md",
+      "status": "refactored",
+      "oldWordCount": 223,
+      "newWordCount": 60,
+      "reduction": 163,
+      "reductionPercent": 73
+    },
+    {
+      "file": "buddhism-in-its-connexion-with-brahmanism-and-hinduism-and-in-its-contrast-with-christianity-monier.md",
+      "status": "refactored",
+      "oldWordCount": 248,
+      "newWordCount": 75,
+      "reduction": 173,
+      "reductionPercent": 70
+    },
+    {
+      "file": "buddhism-in-translations.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 224
+    },
+    {
+      "file": "buddhism-its-history-and-literature-t-w-rhys-davids.md",
+      "status": "refactored",
+      "oldWordCount": 226,
+      "newWordCount": 32,
+      "reduction": 194,
+      "reductionPercent": 86
+    },
+    {
+      "file": "buddhist-and-christian-gospels.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 229
+    },
+    {
+      "file": "buddhist-art-in-india-grünwedel.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 247
+    },
+    {
+      "file": "buddhist-birth-stories-jataka-tales-rhys-davids.md",
+      "status": "refactored",
+      "oldWordCount": 242,
+      "newWordCount": 44,
+      "reduction": 198,
+      "reductionPercent": 82
+    },
+    {
+      "file": "buddhist-india-rhys-davids.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 220
+    },
+    {
+      "file": "buddhist-mahayana-texts.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 246
+    },
+    {
+      "file": "by-ways-of-bombay-edwardes-s-m-stephen-meredyth.md",
+      "status": "refactored",
+      "oldWordCount": 241,
+      "newWordCount": 65,
+      "reduction": 176,
+      "reductionPercent": 73
+    },
+    {
+      "file": "cambridge-history-india-volume-1-ancient-india-ej-rapson.md",
+      "status": "refactored",
+      "oldWordCount": 230,
+      "newWordCount": 28,
+      "reduction": 202,
+      "reductionPercent": 88
+    },
+    {
+      "file": "campaign-of-the-indus-in-a-series-of-letters-from-an-officer-of-the-bombay-division-holdsworth-t-w-e.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 222
+    },
+    {
+      "file": "campaigns-on-the-north-west-frontier-h-l-nevill.md",
+      "status": "refactored",
+      "oldWordCount": 243,
+      "newWordCount": 8,
+      "reduction": 235,
+      "reductionPercent": 97
+    },
+    {
+      "file": "castes-and-tribes-of-southern-india-edgar-thurston.md",
+      "status": "refactored",
+      "oldWordCount": 184,
+      "newWordCount": 81,
+      "reduction": 103,
+      "reductionPercent": 56
+    },
+    {
+      "file": "castes-and-tribes-of-southern-india-vol-1-of-7-thurston-edgar.md",
+      "status": "refactored",
+      "oldWordCount": 430,
+      "newWordCount": 74,
+      "reduction": 356,
+      "reductionPercent": 83
+    },
+    {
+      "file": "catalogue-coins-numismatic-cabinet-da-cunha.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 233
+    },
+    {
+      "file": "catalogue-of-coins-indian-museum-calcutta.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 86,
+      "reduction": 139,
+      "reductionPercent": 62
+    },
+    {
+      "file": "caurapancashika-bilhana.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 141
+    },
+    {
+      "file": "chandogya-upanishad.md",
+      "status": "refactored",
+      "oldWordCount": 153,
+      "newWordCount": 37,
+      "reduction": 116,
+      "reductionPercent": 76
+    },
+    {
+      "file": "chandrakanta-devaki-nandan-khatri.md",
+      "status": "refactored",
+      "oldWordCount": 243,
+      "newWordCount": 57,
+      "reduction": 186,
+      "reductionPercent": 77
+    },
+    {
+      "file": "charaka-samhita-ayurveda-english-translation.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 236
+    },
+    {
+      "file": "charaka-samhita-ayurveda.md",
+      "status": "refactored",
+      "oldWordCount": 146,
+      "newWordCount": 82,
+      "reduction": 64,
+      "reductionPercent": 44
+    },
+    {
+      "file": "cheitharol-kumbaba-manipur-chronicle.md",
+      "status": "refactored",
+      "oldWordCount": 232,
+      "newWordCount": 57,
+      "reduction": 175,
+      "reductionPercent": 75
+    },
+    {
+      "file": "classical-dictionary-hindu-mythology-religion-geography-history-literature-john-dowson.md",
+      "status": "refactored",
+      "oldWordCount": 241,
+      "newWordCount": 57,
+      "reduction": 184,
+      "reductionPercent": 76
+    },
+    {
+      "file": "commemorative-essays-presented-sir-ramkrishna-gopal-bhandarkar.md",
+      "status": "refactored",
+      "oldWordCount": 228,
+      "newWordCount": 69,
+      "reduction": 159,
+      "reductionPercent": 70
+    },
+    {
+      "file": "complete-poems-subramania-bharati.md",
+      "status": "refactored",
+      "oldWordCount": 191,
+      "newWordCount": 72,
+      "reduction": 119,
+      "reductionPercent": 62
+    },
+    {
+      "file": "conference-of-orientalists-simla-1911.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 243
+    },
+    {
+      "file": "confessions-of-a-thug-meadows-taylor.md",
+      "status": "refactored",
+      "oldWordCount": 235,
+      "newWordCount": 82,
+      "reduction": 153,
+      "reductionPercent": 65
+    },
+    {
+      "file": "contributions-of-sanskrit-inscriptions-to-lexicography-tewari-s-p-1944.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 226
+    },
+    {
+      "file": "contributions-of-sanskrit-inscriptions-to-lexicography-tewari.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 226
+    },
+    {
+      "file": "creative-unity-tagore.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 234
+    },
+    {
+      "file": "critical-word-index-of-the-bhagavadgita-divanji-prahlad-c.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 229
+    },
+    {
+      "file": "critical-word-index-of-the-bhagavadgita-divanji.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 226
+    },
+    {
+      "file": "cunninghams-history-of-the-sikhs-joseph-davey-cunningham.md",
+      "status": "refactored",
+      "oldWordCount": 239,
+      "newWordCount": 51,
+      "reduction": 188,
+      "reductionPercent": 79
+    },
+    {
+      "file": "dabistan-mohsin-fani-tr-shea-troyer-1843.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 230
+    },
+    {
+      "file": "dance-of-siva-fourteen-indian-essays-coomaraswamy.md",
+      "status": "refactored",
+      "oldWordCount": 235,
+      "newWordCount": 33,
+      "reduction": 202,
+      "reductionPercent": 86
+    },
+    {
+      "file": "dardistan-leitner.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 235
+    },
+    {
+      "file": "das-heim-und-die-welt-tagore-rabindranath.md",
+      "status": "refactored",
+      "oldWordCount": 235,
+      "newWordCount": 75,
+      "reduction": 160,
+      "reductionPercent": 68
+    },
+    {
+      "file": "dasbodh-samarth-ramdas-marathi-1654.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 220
+    },
+    {
+      "file": "de-hoovenier-tagore-rabindranath.md",
+      "status": "refactored",
+      "oldWordCount": 236,
+      "newWordCount": 56,
+      "reduction": 180,
+      "reductionPercent": 76
+    },
+    {
+      "file": "debate-at-a-general-court-of-east-india-stock-1813.md",
+      "status": "refactored",
+      "oldWordCount": 239,
+      "newWordCount": 60,
+      "reduction": 179,
+      "reductionPercent": 75
+    },
+    {
+      "file": "deccan-nursery-tales-kincaid.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 51,
+      "reduction": 174,
+      "reductionPercent": 77
+    },
+    {
+      "file": "departmental-ditties-and-ballads-and-barrack-room-ballads-kipling-rudyard.md",
+      "status": "refactored",
+      "oldWordCount": 232,
+      "newWordCount": 69,
+      "reduction": 163,
+      "reductionPercent": 70
+    },
+    {
+      "file": "der-gärtner-tagore-rabindranath.md",
+      "status": "refactored",
+      "oldWordCount": 231,
+      "newWordCount": 60,
+      "reduction": 171,
+      "reductionPercent": 74
+    },
+    {
+      "file": "der-könig-der-dunklen-kammer-tagore-rabindranath.md",
+      "status": "refactored",
+      "oldWordCount": 236,
+      "newWordCount": 62,
+      "reduction": 174,
+      "reductionPercent": 74
+    },
+    {
+      "file": "descriptive-ethnology-of-bengal-edward-tuite-dalton.md",
+      "status": "refactored",
+      "oldWordCount": 230,
+      "newWordCount": 60,
+      "reduction": 170,
+      "reductionPercent": 74
+    },
+    {
+      "file": "devi-mahatmya-markandeya.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 148
+    },
+    {
+      "file": "devotional-poems-mirabai.md",
+      "status": "refactored",
+      "oldWordCount": 142,
+      "newWordCount": 25,
+      "reduction": 117,
+      "reductionPercent": 82
+    },
+    {
+      "file": "dhammapada-buddha.md",
+      "status": "refactored",
+      "oldWordCount": 130,
+      "newWordCount": 70,
+      "reduction": 60,
+      "reductionPercent": 46
+    },
+    {
+      "file": "diary-of-a-pedestrian-in-cashmere-and-thibet-knight-w-h-william-henry.md",
+      "status": "refactored",
+      "oldWordCount": 233,
+      "newWordCount": 78,
+      "reduction": 155,
+      "reductionPercent": 67
+    },
+    {
+      "file": "diary-of-richard-cocks-volume-1-cape-merchant-in-the-english-factory-in-japan-1615-1622-with.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 238
+    },
+    {
+      "file": "die-nacht-der-erfüllung-erzählungen-tagore-rabindranath.md",
+      "status": "refactored",
+      "oldWordCount": 241,
+      "newWordCount": 66,
+      "reduction": 175,
+      "reductionPercent": 73
+    },
+    {
+      "file": "dnyaneshwari-sant-dnyaneshwar-marathi-1290.md",
+      "status": "refactored",
+      "oldWordCount": 199,
+      "newWordCount": 65,
+      "reduction": 134,
+      "reductionPercent": 67
+    },
+    {
+      "file": "dr-scudders-tales-for-little-readers-about-the-heathen-scudder-john.md",
+      "status": "skipped",
+      "reason": "already_concise",
+      "wordCount": 99
+    },
+    {
+      "file": "early-history-of-india-smith-edwardes.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 44,
+      "reduction": 181,
+      "reductionPercent": 80
+    },
+    {
+      "file": "east-india-trade-17th-century-shafaat-ahmad-khan.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 231
+    },
+    {
+      "file": "economic-change-in-rural-india-neale.md",
+      "status": "refactored",
+      "oldWordCount": 239,
+      "newWordCount": 42,
+      "reduction": 197,
+      "reductionPercent": 82
+    },
+    {
+      "file": "el-libro-de-las-tierras-vírgenes-kipling-rudyard.md",
+      "status": "refactored",
+      "oldWordCount": 216,
+      "newWordCount": 60,
+      "reduction": 156,
+      "reductionPercent": 72
+    },
+    {
+      "file": "encyclopaedia-britannica-eleventh-edition-india-hinduism.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 66,
+      "reduction": 163,
+      "reductionPercent": 71
+    },
+    {
+      "file": "english-and-tamil-dictionary-joseph-knight-levi-spaulding.md",
+      "status": "refactored",
+      "oldWordCount": 235,
+      "newWordCount": 63,
+      "reduction": 172,
+      "reductionPercent": 73
+    },
+    {
+      "file": "epic-mythology-hopkins.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 228
+    },
+    {
+      "file": "epigraphia-carnatica-b-lewis-rice.md",
+      "status": "refactored",
+      "oldWordCount": 203,
+      "newWordCount": 24,
+      "reduction": 179,
+      "reductionPercent": 88
+    },
+    {
+      "file": "epigraphia-carnatica-volume-4-b-lewis-rice.md",
+      "status": "refactored",
+      "oldWordCount": 235,
+      "newWordCount": 40,
+      "reduction": 195,
+      "reductionPercent": 83
+    },
+    {
+      "file": "epigraphia-indica-volume-2-archaeological-survey-of-india.md",
+      "status": "refactored",
+      "oldWordCount": 217,
+      "newWordCount": 77,
+      "reduction": 140,
+      "reductionPercent": 65
+    },
+    {
+      "file": "etat-civil-politique-et-commercant-du-bengale-william-bolts.md",
+      "status": "refactored",
+      "oldWordCount": 171,
+      "newWordCount": 50,
+      "reduction": 121,
+      "reductionPercent": 71
+    },
+    {
+      "file": "ethnography-castes-and-tribes-baines.md",
+      "status": "refactored",
+      "oldWordCount": 244,
+      "newWordCount": 72,
+      "reduction": 172,
+      "reductionPercent": 70
+    },
+    {
+      "file": "famous-fights-of-indian-native-regiments-hodder-reginald.md",
+      "status": "refactored",
+      "oldWordCount": 230,
+      "newWordCount": 61,
+      "reduction": 169,
+      "reductionPercent": 73
+    },
+    {
+      "file": "flowers-and-flower-gardens-with-an-appendix-of-practical-instructions-and-useful-information.md",
+      "status": "refactored",
+      "oldWordCount": 232,
+      "newWordCount": 65,
+      "reduction": 167,
+      "reductionPercent": 72
+    },
+    {
+      "file": "folk-literature-of-bengal-dinesh-chandra-sen.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 232
+    },
+    {
+      "file": "folk-lore-notes-vol-igujarat-jackson-a-m-t-arthur-mason-tippetts.md",
+      "status": "refactored",
+      "oldWordCount": 253,
+      "newWordCount": 4,
+      "reduction": 249,
+      "reductionPercent": 98
+    },
+    {
+      "file": "folk-tales-of-bengal-day-lal-behari.md",
+      "status": "refactored",
+      "oldWordCount": 864,
+      "newWordCount": 63,
+      "reduction": 801,
+      "reductionPercent": 93
+    },
+    {
+      "file": "folk-tales-of-kashmir-jh-knowles-1893.md",
+      "status": "refactored",
+      "oldWordCount": 233,
+      "newWordCount": 23,
+      "reduction": 210,
+      "reductionPercent": 90
+    },
+    {
+      "file": "folk-tales-of-sind-and-guzarat-kincaid-c-a-charles-augustus.md",
+      "status": "refactored",
+      "oldWordCount": 233,
+      "newWordCount": 70,
+      "reduction": 163,
+      "reductionPercent": 70
+    },
+    {
+      "file": "folklore-santal-parganas-bompas.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 224
+    },
+    {
+      "file": "freedoms-battle-being-a-comprehensive-collection-of-writings-and-speeches-on-the-present-situation.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 240
+    },
+    {
+      "file": "fruit-gathering-tagore-rabindranath.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 119
+    },
+    {
+      "file": "gaikwads-baroda-vol1-pilaji-damaji.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 226
+    },
+    {
+      "file": "gandhi-and-anarchy-c-sankaran-nair.md",
+      "status": "refactored",
+      "oldWordCount": 222,
+      "newWordCount": 29,
+      "reduction": 193,
+      "reductionPercent": 87
+    },
+    {
+      "file": "gandhi-azad-and-nationalism-shakir.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 230
+    },
+    {
+      "file": "garuda-purana.md",
+      "status": "refactored",
+      "oldWordCount": 186,
+      "newWordCount": 75,
+      "reduction": 111,
+      "reductionPercent": 60
+    },
+    {
+      "file": "gazetteer-of-the-bombay-presidency-government-of-bombay.md",
+      "status": "refactored",
+      "oldWordCount": 235,
+      "newWordCount": 78,
+      "reduction": 157,
+      "reductionPercent": 67
+    },
+    {
+      "file": "geet-govinda-jayadeva.md",
+      "status": "refactored",
+      "oldWordCount": 222,
+      "newWordCount": 67,
+      "reduction": 155,
+      "reductionPercent": 70
+    },
+    {
+      "file": "gheranda-samhita-yoga.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 140
+    },
+    {
+      "file": "girish-chandra-ghosh-plays-girish-granthabali.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 256
+    },
+    {
+      "file": "gita-govinda-jayadeva.md",
+      "status": "refactored",
+      "oldWordCount": 129,
+      "newWordCount": 63,
+      "reduction": 66,
+      "reductionPercent": 51
+    },
+    {
+      "file": "gitanjali-sangesopfer-tagore-rabindranath.md",
+      "status": "refactored",
+      "oldWordCount": 213,
+      "newWordCount": 66,
+      "reduction": 147,
+      "reductionPercent": 69
+    },
+    {
+      "file": "gitanjali-song-offerings-rabindranath-tagore.md",
+      "status": "refactored",
+      "oldWordCount": 227,
+      "newWordCount": 59,
+      "reduction": 168,
+      "reductionPercent": 74
+    },
+    {
+      "file": "gitanjali-tagore-rabindranath.md",
+      "status": "refactored",
+      "oldWordCount": 226,
+      "newWordCount": 63,
+      "reduction": 163,
+      "reductionPercent": 72
+    },
+    {
+      "file": "glimpses-of-bengal-selected-from-the-letters-of-sir-rabindranath-tagore-1885-to-1895-tagore.md",
+      "status": "refactored",
+      "oldWordCount": 231,
+      "newWordCount": 59,
+      "reduction": 172,
+      "reductionPercent": 74
+    },
+    {
+      "file": "godan-premchand.md",
+      "status": "refactored",
+      "oldWordCount": 235,
+      "newWordCount": 77,
+      "reduction": 158,
+      "reductionPercent": 67
+    },
+    {
+      "file": "gold-sport-and-coffee-planting-in-mysore-with-chapters-on-coffee-planting-in-coorg-the-mysore.md",
+      "status": "refactored",
+      "oldWordCount": 108,
+      "newWordCount": 64,
+      "reduction": 44,
+      "reductionPercent": 41
+    },
+    {
+      "file": "gommatsara-jiva-kanda-nemichandra.md",
+      "status": "refactored",
+      "oldWordCount": 228,
+      "newWordCount": 67,
+      "reduction": 161,
+      "reductionPercent": 71
+    },
+    {
+      "file": "gopal-bhar.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 246
+    },
+    {
+      "file": "gora-i-b-romaani-tagore-rabindranath.md",
+      "status": "refactored",
+      "oldWordCount": 228,
+      "newWordCount": 59,
+      "reduction": 169,
+      "reductionPercent": 74
+    },
+    {
+      "file": "gora-ii-b-romaani-tagore-rabindranath.md",
+      "status": "refactored",
+      "oldWordCount": 230,
+      "newWordCount": 65,
+      "reduction": 165,
+      "reductionPercent": 72
+    },
+    {
+      "file": "grammar-of-persian-william-jones.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 60,
+      "reduction": 165,
+      "reductionPercent": 73
+    },
+    {
+      "file": "grihya-sutras-rules-vedic-domestic-ceremonies-hermann-oldenberg.md",
+      "status": "refactored",
+      "oldWordCount": 222,
+      "newWordCount": 54,
+      "reduction": 168,
+      "reductionPercent": 76
+    },
+    {
+      "file": "guide-to-taxila-john-marshall.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 73,
+      "reduction": 156,
+      "reductionPercent": 68
+    },
+    {
+      "file": "harshacharita-banabhatta.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 135
+    },
+    {
+      "file": "hilda-a-story-of-calcutta-duncan-sara-jeannette.md",
+      "status": "refactored",
+      "oldWordCount": 232,
+      "newWordCount": 65,
+      "reduction": 167,
+      "reductionPercent": 72
+    },
+    {
+      "file": "hind-swaraj-indian-home-rule-gandhi.md",
+      "status": "refactored",
+      "oldWordCount": 227,
+      "newWordCount": 59,
+      "reduction": 168,
+      "reductionPercent": 74
+    },
+    {
+      "file": "hindoo-tales-or-the-adventures-of-ten-princes-dandin-active-7th-century.md",
+      "status": "refactored",
+      "oldWordCount": 239,
+      "newWordCount": 64,
+      "reduction": 175,
+      "reductionPercent": 73
+    },
+    {
+      "file": "hindu-astronomy-w-brennand.md",
+      "status": "refactored",
+      "oldWordCount": 236,
+      "newWordCount": 30,
+      "reduction": 206,
+      "reductionPercent": 87
+    },
+    {
+      "file": "hindu-law-and-judicature-yajnavalkya-montriou.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 38,
+      "reduction": 191,
+      "reductionPercent": 83
+    },
+    {
+      "file": "hindu-law-treatise-administered-british-courts-india-herbert-cowell.md",
+      "status": "refactored",
+      "oldWordCount": 241,
+      "newWordCount": 72,
+      "reduction": 169,
+      "reductionPercent": 70
+    },
+    {
+      "file": "hindu-literature-wilson.md",
+      "status": "refactored",
+      "oldWordCount": 232,
+      "newWordCount": 53,
+      "reduction": 179,
+      "reductionPercent": 77
+    },
+    {
+      "file": "hindu-manners-customs-ceremonies-abbe-dubois-1897.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 216
+    },
+    {
+      "file": "hindu-religious-year-muriel-underhill.md",
+      "status": "refactored",
+      "oldWordCount": 238,
+      "newWordCount": 66,
+      "reduction": 172,
+      "reductionPercent": 72
+    },
+    {
+      "file": "hindu-superiority-attempt-determine-position-hindu-race-scale-nations-har-bilas-sarda.md",
+      "status": "refactored",
+      "oldWordCount": 207,
+      "newWordCount": 61,
+      "reduction": 146,
+      "reductionPercent": 71
+    },
+    {
+      "file": "hindu-tales-from-the-sanskrit-unknown.md",
+      "status": "refactored",
+      "oldWordCount": 124,
+      "newWordCount": 26,
+      "reduction": 98,
+      "reductionPercent": 79
+    },
+    {
+      "file": "hindu-widow-re-marriage-other-tracts-mohandas-gandhi.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 35,
+      "reduction": 190,
+      "reductionPercent": 84
+    },
+    {
+      "file": "hinduism-and-buddhism-an-historical-sketch-eliot-charles.md",
+      "status": "refactored",
+      "oldWordCount": 237,
+      "newWordCount": 55,
+      "reduction": 182,
+      "reductionPercent": 77
+    },
+    {
+      "file": "hindustani-lyrics-inayat-khan-jessie-d-westbrook.md",
+      "status": "refactored",
+      "oldWordCount": 235,
+      "newWordCount": 63,
+      "reduction": 172,
+      "reductionPercent": 73
+    },
+    {
+      "file": "historical-atlas-of-india-charles-joppen.md",
+      "status": "refactored",
+      "oldWordCount": 253,
+      "newWordCount": 74,
+      "reduction": 179,
+      "reductionPercent": 71
+    },
+    {
+      "file": "historical-fragments-of-the-mogul-empire-robert-orme.md",
+      "status": "refactored",
+      "oldWordCount": 232,
+      "newWordCount": 78,
+      "reduction": 154,
+      "reductionPercent": 66
+    },
+    {
+      "file": "historical-view-of-plans-for-the-government-of-british-india-john-bruce.md",
+      "status": "refactored",
+      "oldWordCount": 237,
+      "newWordCount": 65,
+      "reduction": 172,
+      "reductionPercent": 73
+    },
+    {
+      "file": "history-of-ancient-sanskrit-literature-max-muller.md",
+      "status": "refactored",
+      "oldWordCount": 238,
+      "newWordCount": 62,
+      "reduction": 176,
+      "reductionPercent": 74
+    },
+    {
+      "file": "history-of-aurangzib-vol-i-j-n-sarkar.md",
+      "status": "refactored",
+      "oldWordCount": 104,
+      "newWordCount": 61,
+      "reduction": 43,
+      "reductionPercent": 41
+    },
+    {
+      "file": "history-of-bengali-language-and-literature-dinesh-chandra-sen.md",
+      "status": "refactored",
+      "oldWordCount": 235,
+      "newWordCount": 69,
+      "reduction": 166,
+      "reductionPercent": 71
+    },
+    {
+      "file": "history-of-bengali-literature-nineteenth-century-sushil-kumar-de.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 227
+    },
+    {
+      "file": "history-of-gujarát-gazetteer-of-the-bombay-presidency-volume-i-part-i-campbell-james-m.md",
+      "status": "refactored",
+      "oldWordCount": 223,
+      "newWordCount": 47,
+      "reduction": 176,
+      "reductionPercent": 79
+    },
+    {
+      "file": "history-of-india-1862-1937-ed-abraham-valentine-williams-jackson.md",
+      "status": "refactored",
+      "oldWordCount": 245,
+      "newWordCount": 69,
+      "reduction": 176,
+      "reductionPercent": 72
+    },
+    {
+      "file": "history-of-india-grolier-society-collection.md",
+      "status": "refactored",
+      "oldWordCount": 233,
+      "newWordCount": 87,
+      "reduction": 146,
+      "reductionPercent": 63
+    },
+    {
+      "file": "history-of-indian-and-eastern-architecture-1808-1886-james-fergusson.md",
+      "status": "refactored",
+      "oldWordCount": 223,
+      "newWordCount": 68,
+      "reduction": 155,
+      "reductionPercent": 70
+    },
+    {
+      "file": "history-of-indian-philosophy-dasgupta.md",
+      "status": "refactored",
+      "oldWordCount": 204,
+      "newWordCount": 50,
+      "reduction": 154,
+      "reductionPercent": 75
+    },
+    {
+      "file": "history-of-the-indian-mutiny-charles-ball.md",
+      "status": "refactored",
+      "oldWordCount": 226,
+      "newWordCount": 59,
+      "reduction": 167,
+      "reductionPercent": 74
+    },
+    {
+      "file": "history-of-the-rise-of-the-mahomedan-power-in-india-muammad-qsim-firishta-tr-john-briggs.md",
+      "status": "refactored",
+      "oldWordCount": 234,
+      "newWordCount": 83,
+      "reduction": 151,
+      "reductionPercent": 65
+    },
+    {
+      "file": "hitopadesa-narayana.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 234
+    },
+    {
+      "file": "hitopadesha-narayana.md",
+      "status": "refactored",
+      "oldWordCount": 136,
+      "newWordCount": 62,
+      "reduction": 74,
+      "reductionPercent": 54
+    },
+    {
+      "file": "hobson-jobson-a-glossary-of-colloquial-anglo-indian-words-and-phrases-and-of-kindred-terms.md",
+      "status": "refactored",
+      "oldWordCount": 221,
+      "newWordCount": 51,
+      "reduction": 170,
+      "reductionPercent": 77
+    },
+    {
+      "file": "hobson-jobson-a-glossary-of-colloquial-anglo-indian-words-and-phrases-henry-yule-a-c-burnell-rev-william-crooke.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 230
+    },
+    {
+      "file": "hutchinsons-story-of-the-nations.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 104
+    },
+    {
+      "file": "hymns-from-the-rigveda-macdonell.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 73,
+      "reduction": 152,
+      "reductionPercent": 68
+    },
+    {
+      "file": "hymns-from-the-rigveda-selected-and-metrically-translated-griffith.md",
+      "status": "refactored",
+      "oldWordCount": 245,
+      "newWordCount": 3,
+      "reduction": 242,
+      "reductionPercent": 99
+    },
+    {
+      "file": "hymns-of-the-atharvaveda-griffith.md",
+      "status": "refactored",
+      "oldWordCount": 238,
+      "newWordCount": 3,
+      "reduction": 235,
+      "reductionPercent": 99
+    },
+    {
+      "file": "hymns-of-the-samaveda-griffith.md",
+      "status": "refactored",
+      "oldWordCount": 234,
+      "newWordCount": 3,
+      "reduction": 231,
+      "reductionPercent": 99
+    },
+    {
+      "file": "imperial-gazetteer-of-india-volume-16.md",
+      "status": "refactored",
+      "oldWordCount": 238,
+      "newWordCount": 67,
+      "reduction": 171,
+      "reductionPercent": 72
+    },
+    {
+      "file": "in-clives-command-a-story-of-the-fight-for-india-strang-herbert.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 231
+    },
+    {
+      "file": "in-old-madras-croker-b-m-bithia-mary.md",
+      "status": "refactored",
+      "oldWordCount": 245,
+      "newWordCount": 14,
+      "reduction": 231,
+      "reductionPercent": 94
+    },
+    {
+      "file": "india-and-the-indians-elwin-edward-fenton.md",
+      "status": "refactored",
+      "oldWordCount": 244,
+      "newWordCount": 67,
+      "reduction": 177,
+      "reductionPercent": 73
+    },
+    {
+      "file": "india-and-tibet-a-history-of-the-relations-which-have-subsisted-between-the-two-countries-from-the.md",
+      "status": "refactored",
+      "oldWordCount": 235,
+      "newWordCount": 66,
+      "reduction": 169,
+      "reductionPercent": 72
+    },
+    {
+      "file": "india-for-indians-enlarged-edition-das-chitta-ranjan.md",
+      "status": "refactored",
+      "oldWordCount": 247,
+      "newWordCount": 71,
+      "reduction": 176,
+      "reductionPercent": 71
+    },
+    {
+      "file": "india-in-1880-richard-temple.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 62,
+      "reduction": 163,
+      "reductionPercent": 72
+    },
+    {
+      "file": "india-through-the-ages-steel.md",
+      "status": "refactored",
+      "oldWordCount": 221,
+      "newWordCount": 62,
+      "reduction": 159,
+      "reductionPercent": 72
+    },
+    {
+      "file": "india-under-british-rule-from-the-foundation-of-the-east-india-company-wheeler-james-talboys.md",
+      "status": "refactored",
+      "oldWordCount": 197,
+      "newWordCount": 26,
+      "reduction": 171,
+      "reductionPercent": 87
+    },
+    {
+      "file": "india-what-can-it-teach-us-a-course-of-lectures-delivered-before-the-university-of-cambridge-müller.md",
+      "status": "refactored",
+      "oldWordCount": 219,
+      "newWordCount": 33,
+      "reduction": 186,
+      "reductionPercent": 85
+    },
+    {
+      "file": "indian-antiquary-journal-vol1-1872.md",
+      "status": "refactored",
+      "oldWordCount": 235,
+      "newWordCount": 59,
+      "reduction": 176,
+      "reductionPercent": 75
+    },
+    {
+      "file": "indian-architecture-buddhist-and-hindu-periods-percy-brown.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 217
+    },
+    {
+      "file": "indian-architecture-its-psychology-structure-and-history-from-the-first-muhannadan-invasion-to-the-present-day-havell.md",
+      "status": "refactored",
+      "oldWordCount": 232,
+      "newWordCount": 60,
+      "reduction": 172,
+      "reductionPercent": 74
+    },
+    {
+      "file": "indian-calendar-sewell-dikshit-schram.md",
+      "status": "refactored",
+      "oldWordCount": 231,
+      "newWordCount": 61,
+      "reduction": 170,
+      "reductionPercent": 74
+    },
+    {
+      "file": "indian-currency-and-finance-keynes.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 252
+    },
+    {
+      "file": "indian-fairy-tales-jacobs.md",
+      "status": "refactored",
+      "oldWordCount": 227,
+      "newWordCount": 68,
+      "reduction": 159,
+      "reductionPercent": 70
+    },
+    {
+      "file": "indian-fairy-tales-joseph-jacobs.md",
+      "status": "refactored",
+      "oldWordCount": 235,
+      "newWordCount": 35,
+      "reduction": 200,
+      "reductionPercent": 85
+    },
+    {
+      "file": "indian-home-rule-gandhi-hind-swaraj.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 38,
+      "reduction": 191,
+      "reductionPercent": 83
+    },
+    {
+      "file": "indian-home-rule-gandhi-mahatma.md",
+      "status": "refactored",
+      "oldWordCount": 224,
+      "newWordCount": 62,
+      "reduction": 162,
+      "reductionPercent": 72
+    },
+    {
+      "file": "indian-home-rule-reprinted-with-a-new-foreword-by-the-author-gandhi.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 246
+    },
+    {
+      "file": "indian-myth-and-legend-mackenzie.md",
+      "status": "refactored",
+      "oldWordCount": 228,
+      "newWordCount": 33,
+      "reduction": 195,
+      "reductionPercent": 86
+    },
+    {
+      "file": "indian-speeches-19071909-john-morley.md",
+      "status": "refactored",
+      "oldWordCount": 223,
+      "newWordCount": 60,
+      "reduction": 163,
+      "reductionPercent": 73
+    },
+    {
+      "file": "indian-tales-kipling-rudyard.md",
+      "status": "refactored",
+      "oldWordCount": 234,
+      "newWordCount": 69,
+      "reduction": 165,
+      "reductionPercent": 71
+    },
+    {
+      "file": "indian-unrest-valentine-chirol.md",
+      "status": "refactored",
+      "oldWordCount": 254,
+      "newWordCount": 64,
+      "reduction": 190,
+      "reductionPercent": 75
+    },
+    {
+      "file": "indian-wisdom-monier-williams.md",
+      "status": "refactored",
+      "oldWordCount": 220,
+      "newWordCount": 52,
+      "reduction": 168,
+      "reductionPercent": 76
+    },
+    {
+      "file": "indias-problem-krishna-or-christ-jones-john-p-john-peter.md",
+      "status": "refactored",
+      "oldWordCount": 107,
+      "newWordCount": 38,
+      "reduction": 69,
+      "reductionPercent": 64
+    },
+    {
+      "file": "indica-megasthenes.md",
+      "status": "refactored",
+      "oldWordCount": 241,
+      "newWordCount": 61,
+      "reduction": 180,
+      "reductionPercent": 75
+    },
+    {
+      "file": "indigo-and-its-enemies-1861-delta.md",
+      "status": "refactored",
+      "oldWordCount": 242,
+      "newWordCount": 68,
+      "reduction": 174,
+      "reductionPercent": 72
+    },
+    {
+      "file": "interpretation-ancient-hindu-medicine-chandra-chakraberty.md",
+      "status": "refactored",
+      "oldWordCount": 234,
+      "newWordCount": 76,
+      "reduction": 158,
+      "reductionPercent": 68
+    },
+    {
+      "file": "introduction-to-hindustani-shakespear.md",
+      "status": "refactored",
+      "oldWordCount": 246,
+      "newWordCount": 68,
+      "reduction": 178,
+      "reductionPercent": 72
+    },
+    {
+      "file": "isha-upanishad.md",
+      "status": "refactored",
+      "oldWordCount": 170,
+      "newWordCount": 39,
+      "reduction": 131,
+      "reductionPercent": 77
+    },
+    {
+      "file": "islam-in-india-qanun-i-islam-jafar-sharif.md",
+      "status": "refactored",
+      "oldWordCount": 239,
+      "newWordCount": 61,
+      "reduction": 178,
+      "reductionPercent": 74
+    },
+    {
+      "file": "jaimini-sutras-purva-mimamsa.md",
+      "status": "refactored",
+      "oldWordCount": 224,
+      "newWordCount": 58,
+      "reduction": 166,
+      "reductionPercent": 74
+    },
+    {
+      "file": "jataka-tales-animal-stories-ellen-babbitt.md",
+      "status": "refactored",
+      "oldWordCount": 217,
+      "newWordCount": 29,
+      "reduction": 188,
+      "reductionPercent": 87
+    },
+    {
+      "file": "jatakas-tales-of-the-buddha.md",
+      "status": "refactored",
+      "oldWordCount": 234,
+      "newWordCount": 67,
+      "reduction": 167,
+      "reductionPercent": 71
+    },
+    {
+      "file": "jnâna-yoga-part-ii-seven-lectures-vivekananda-swami.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 145
+    },
+    {
+      "file": "journael-van-de-reysen-naar-oost-indien-thomas-roe.md",
+      "status": "refactored",
+      "oldWordCount": 240,
+      "newWordCount": 44,
+      "reduction": 196,
+      "reductionPercent": 82
+    },
+    {
+      "file": "kabir-granthavali-gupta-mataprasad.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 233
+    },
+    {
+      "file": "kabir-granthavali-gupta.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 232
+    },
+    {
+      "file": "kabir-granthawali-kabir.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 251
+    },
+    {
+      "file": "kadambari-banabhatta.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 120
+    },
+    {
+      "file": "kalpa-sutra.md",
+      "status": "refactored",
+      "oldWordCount": 210,
+      "newWordCount": 62,
+      "reduction": 148,
+      "reductionPercent": 70
+    },
+    {
+      "file": "kama-sutra-vatsyayana.md",
+      "status": "refactored",
+      "oldWordCount": 162,
+      "newWordCount": 57,
+      "reduction": 105,
+      "reductionPercent": 65
+    },
+    {
+      "file": "kamba-ramayanam.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 226
+    },
+    {
+      "file": "kashidasi-mahabharat-কশদস-মহভরত-kashiram-das.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 240
+    },
+    {
+      "file": "kashmir-described-by-sir-francis-younghusband-painted-by-major-e-molyneux-younghusband-francis.md",
+      "status": "refactored",
+      "oldWordCount": 222,
+      "newWordCount": 69,
+      "reduction": 153,
+      "reductionPercent": 69
+    },
+    {
+      "file": "katha-upanishad.md",
+      "status": "refactored",
+      "oldWordCount": 141,
+      "newWordCount": 54,
+      "reduction": 87,
+      "reductionPercent": 62
+    },
+    {
+      "file": "kathasaritsagara-ocean-of-streams-of-story.md",
+      "status": "refactored",
+      "oldWordCount": 231,
+      "newWordCount": 55,
+      "reduction": 176,
+      "reductionPercent": 76
+    },
+    {
+      "file": "kathasaritsagara-somadeva.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 183
+    },
+    {
+      "file": "kauilyas-arthastra-shamasastry-tr-kauilya-cakya-tr-r-shamasastry.md",
+      "status": "refactored",
+      "oldWordCount": 110,
+      "newWordCount": 14,
+      "reduction": 96,
+      "reductionPercent": 87
+    },
+    {
+      "file": "kautilya-arthasastra-vidhyalankara-pranath.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 224
+    },
+    {
+      "file": "kautilya-arthasastra-vidhyalankara.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 233
+    },
+    {
+      "file": "kautilya-arthashastra-hindi-anubad-kautilya.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 62,
+      "reduction": 167,
+      "reductionPercent": 73
+    },
+    {
+      "file": "kavitavali-tulsidas.md",
+      "status": "refactored",
+      "oldWordCount": 218,
+      "newWordCount": 63,
+      "reduction": 155,
+      "reductionPercent": 71
+    },
+    {
+      "file": "kena-upanishad.md",
+      "status": "refactored",
+      "oldWordCount": 215,
+      "newWordCount": 63,
+      "reduction": 152,
+      "reductionPercent": 71
+    },
+    {
+      "file": "kenopanishad.md",
+      "status": "refactored",
+      "oldWordCount": 172,
+      "newWordCount": 41,
+      "reduction": 131,
+      "reductionPercent": 76
+    },
+    {
+      "file": "kim-kipling-rudyard.md",
+      "status": "refactored",
+      "oldWordCount": 130,
+      "newWordCount": 62,
+      "reduction": 68,
+      "reductionPercent": 52
+    },
+    {
+      "file": "king-of-the-khyber-rifles-a-romance-of-adventure-mundy-talbot.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 227
+    },
+    {
+      "file": "kiratarjuniya-bharavi-durga-prasad.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 216
+    },
+    {
+      "file": "kiratarjuniya-bharavi.md",
+      "status": "refactored",
+      "oldWordCount": 232,
+      "newWordCount": 65,
+      "reduction": 167,
+      "reductionPercent": 72
+    },
+    {
+      "file": "koti-ja-maailma-tagore-rabindranath.md",
+      "status": "refactored",
+      "oldWordCount": 246,
+      "newWordCount": 57,
+      "reduction": 189,
+      "reductionPercent": 77
+    },
+    {
+      "file": "krishnakanter-will-bankimchandra-chattopadhyay.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 219
+    },
+    {
+      "file": "krtyaratnakara-chandesvara-thakkura.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 221
+    },
+    {
+      "file": "kularnava-tantra.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 150
+    },
+    {
+      "file": "kulliyat-e-fani-collected-poems-fani-badayuni.md",
+      "status": "refactored",
+      "oldWordCount": 222,
+      "newWordCount": 52,
+      "reduction": 170,
+      "reductionPercent": 77
+    },
+    {
+      "file": "kumarasambhava-kalidasa.md",
+      "status": "refactored",
+      "oldWordCount": 107,
+      "newWordCount": 48,
+      "reduction": 59,
+      "reductionPercent": 55
+    },
+    {
+      "file": "kurma-purana.md",
+      "status": "refactored",
+      "oldWordCount": 204,
+      "newWordCount": 75,
+      "reduction": 129,
+      "reductionPercent": 63
+    },
+    {
+      "file": "kāñcippurāṇam-civañāna-munivar.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 216
+    },
+    {
+      "file": "kāñcippurāṇam-civañāṇa-muṉivar-active-18th-century.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 231
+    },
+    {
+      "file": "la-jeune-inde-gandhi-mahatma.md",
+      "status": "refactored",
+      "oldWordCount": 233,
+      "newWordCount": 67,
+      "reduction": 166,
+      "reductionPercent": 71
+    },
+    {
+      "file": "laghu-siddhantakaumudi-varadarāja-varadarāja.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 216
+    },
+    {
+      "file": "lankavatara-sutra-nanjio.md",
+      "status": "refactored",
+      "oldWordCount": 227,
+      "newWordCount": 63,
+      "reduction": 164,
+      "reductionPercent": 72
+    },
+    {
+      "file": "laws-of-manu-manusmriti-georg-buhler-translation.md",
+      "status": "refactored",
+      "oldWordCount": 237,
+      "newWordCount": 76,
+      "reduction": 161,
+      "reductionPercent": 68
+    },
+    {
+      "file": "le-jardinier-damour-tagore-rabindranath.md",
+      "status": "refactored",
+      "oldWordCount": 101,
+      "newWordCount": 67,
+      "reduction": 34,
+      "reductionPercent": 34
+    },
+    {
+      "file": "le-livre-de-la-jungle-kipling-rudyard.md",
+      "status": "refactored",
+      "oldWordCount": 239,
+      "newWordCount": 70,
+      "reduction": 169,
+      "reductionPercent": 71
+    },
+    {
+      "file": "le-râmâyana-poème-sanscrit-de-valmiky-valmiki.md",
+      "status": "refactored",
+      "oldWordCount": 184,
+      "newWordCount": 82,
+      "reduction": 102,
+      "reductionPercent": 55
+    },
+    {
+      "file": "lectures-on-the-ancient-history-of-india-d-r-bhandarkar.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 215
+    },
+    {
+      "file": "lekhmalanukramani-rakhaldas-bandyopadhyay.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 241
+    },
+    {
+      "file": "life-in-an-indian-outpost-casserly-gordon.md",
+      "status": "refactored",
+      "oldWordCount": 231,
+      "newWordCount": 64,
+      "reduction": 167,
+      "reductionPercent": 72
+    },
+    {
+      "file": "life-in-ancient-india-with-a-map-manning.md",
+      "status": "refactored",
+      "oldWordCount": 227,
+      "newWordCount": 75,
+      "reduction": 152,
+      "reductionPercent": 67
+    },
+    {
+      "file": "lifes-handicap-being-stories-of-mine-own-people-kipling-rudyard.md",
+      "status": "skipped",
+      "reason": "already_concise",
+      "wordCount": 96
+    },
+    {
+      "file": "linga-purana.md",
+      "status": "refactored",
+      "oldWordCount": 214,
+      "newWordCount": 35,
+      "reduction": 179,
+      "reductionPercent": 84
+    },
+    {
+      "file": "linguistic-society-of-india-not-available.md",
+      "status": "refactored",
+      "oldWordCount": 233,
+      "newWordCount": 73,
+      "reduction": 160,
+      "reductionPercent": 69
+    },
+    {
+      "file": "literary-history-ancient-india-chakraberty.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 235
+    },
+    {
+      "file": "literary-history-of-sanskrit-buddhism-nariman.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 219
+    },
+    {
+      "file": "little-clay-cart-mricchakatika-shudraka.md",
+      "status": "refactored",
+      "oldWordCount": 243,
+      "newWordCount": 34,
+      "reduction": 209,
+      "reductionPercent": 86
+    },
+    {
+      "file": "little-clay-cart-sudraka.md",
+      "status": "refactored",
+      "oldWordCount": 255,
+      "newWordCount": 81,
+      "reduction": 174,
+      "reductionPercent": 68
+    },
+    {
+      "file": "lushei-kuki-clans-shakespear.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 218
+    },
+    {
+      "file": "maha-bharata-the-epic-of-ancient-india-condensed-into-english-verse-unknown.md",
+      "status": "refactored",
+      "oldWordCount": 244,
+      "newWordCount": 73,
+      "reduction": 171,
+      "reductionPercent": 70
+    },
+    {
+      "file": "mahabhashya-patanjali.md",
+      "status": "refactored",
+      "oldWordCount": 192,
+      "newWordCount": 57,
+      "reduction": 135,
+      "reductionPercent": 70
+    },
+    {
+      "file": "malatimadhava-bhavabhuti.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 225
+    },
+    {
+      "file": "malavikagnimitra-kalidasa-1875.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 58,
+      "reduction": 167,
+      "reductionPercent": 74
+    },
+    {
+      "file": "mandukya-upanishad.md",
+      "status": "refactored",
+      "oldWordCount": 158,
+      "newWordCount": 84,
+      "reduction": 74,
+      "reductionPercent": 47
+    },
+    {
+      "file": "manimekalai-sittalai-sattanar.md",
+      "status": "refactored",
+      "oldWordCount": 152,
+      "newWordCount": 60,
+      "reduction": 92,
+      "reductionPercent": 61
+    },
+    {
+      "file": "manusmriti-laws-of-manu.md",
+      "status": "refactored",
+      "oldWordCount": 143,
+      "newWordCount": 67,
+      "reduction": 76,
+      "reductionPercent": 53
+    },
+    {
+      "file": "maratha-rajas-tanjore-subramanian.md",
+      "status": "refactored",
+      "oldWordCount": 236,
+      "newWordCount": 2,
+      "reduction": 234,
+      "reductionPercent": 99
+    },
+    {
+      "file": "markandeya-purana-devi-mahatmya.md",
+      "status": "refactored",
+      "oldWordCount": 190,
+      "newWordCount": 40,
+      "reduction": 150,
+      "reductionPercent": 79
+    },
+    {
+      "file": "markandeya-purana-pargiter.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 54,
+      "reduction": 175,
+      "reductionPercent": 76
+    },
+    {
+      "file": "marma-vijnj-aan-paathak-raamarakshh-1.md",
+      "status": "refactored",
+      "oldWordCount": 215,
+      "newWordCount": 53,
+      "reduction": 162,
+      "reductionPercent": 75
+    },
+    {
+      "file": "mashi-and-other-stories-tagore-rabindranath.md",
+      "status": "refactored",
+      "oldWordCount": 251,
+      "newWordCount": 71,
+      "reduction": 180,
+      "reductionPercent": 72
+    },
+    {
+      "file": "matsya-purana.md",
+      "status": "refactored",
+      "oldWordCount": 238,
+      "newWordCount": 70,
+      "reduction": 168,
+      "reductionPercent": 71
+    },
+    {
+      "file": "mauryan-polity-dikshitar.md",
+      "status": "refactored",
+      "oldWordCount": 220,
+      "newWordCount": 30,
+      "reduction": 190,
+      "reductionPercent": 86
+    },
+    {
+      "file": "medieval-indian-sculpture-in-the-british-museum-ramaprasad-chanda.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 230
+    },
+    {
+      "file": "meghaduta-kalidasa.md",
+      "status": "refactored",
+      "oldWordCount": 162,
+      "newWordCount": 81,
+      "reduction": 81,
+      "reductionPercent": 50
+    },
+    {
+      "file": "meghnad-badh-kavya-michael-madhusudan-dutt.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 218
+    },
+    {
+      "file": "meghnadbadh-kavya-michael-madhusudan-dutt.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 190
+    },
+    {
+      "file": "memoir-of-the-services-of-the-bengal-artillery-from-the-formation-of-the-corps-to-the-present-time.md",
+      "status": "refactored",
+      "oldWordCount": 249,
+      "newWordCount": 61,
+      "reduction": 188,
+      "reductionPercent": 76
+    },
+    {
+      "file": "memoirs-of-the-right-rev-daniel-corrie-lld-first-bishop-of-madras-corrie-daniel.md",
+      "status": "refactored",
+      "oldWordCount": 237,
+      "newWordCount": 57,
+      "reduction": 180,
+      "reductionPercent": 76
+    },
+    {
+      "file": "memoirs-on-the-history-folk-lore-and-distribution-of-the-races-of-the-north-western-provinces-henry-miers-elliot-john-beames.md",
+      "status": "refactored",
+      "oldWordCount": 234,
+      "newWordCount": 55,
+      "reduction": 179,
+      "reductionPercent": 76
+    },
+    {
+      "file": "memorial-on-behalf-of-the-king-of-tanjore-rajah-tulaji.md",
+      "status": "refactored",
+      "oldWordCount": 248,
+      "newWordCount": 69,
+      "reduction": 179,
+      "reductionPercent": 72
+    },
+    {
+      "file": "men-and-events-of-my-time-in-india-richard-temple.md",
+      "status": "refactored",
+      "oldWordCount": 250,
+      "newWordCount": 70,
+      "reduction": 180,
+      "reductionPercent": 72
+    },
+    {
+      "file": "milinda-panha.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 210
+    },
+    {
+      "file": "mimamsa-sutras-jaimini.md",
+      "status": "refactored",
+      "oldWordCount": 145,
+      "newWordCount": 54,
+      "reduction": 91,
+      "reductionPercent": 63
+    },
+    {
+      "file": "miscellaneous-notices-relating-to-china-and-our-commercial-intercourse-with-that-country-part-the-second-staunton.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 243
+    },
+    {
+      "file": "modern-religious-movements-in-india-j-n-farquhar.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 212
+    },
+    {
+      "file": "mool-ramayana-ramnathlal-1.md",
+      "status": "refactored",
+      "oldWordCount": 227,
+      "newWordCount": 68,
+      "reduction": 159,
+      "reductionPercent": 70
+    },
+    {
+      "file": "more-jataka-tales-ellen-babbitt.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 33,
+      "reduction": 192,
+      "reductionPercent": 85
+    },
+    {
+      "file": "mricchakatika-sudraka.md",
+      "status": "refactored",
+      "oldWordCount": 127,
+      "newWordCount": 52,
+      "reduction": 75,
+      "reductionPercent": 59
+    },
+    {
+      "file": "mudrarakshasa-vishakhadatta.md",
+      "status": "refactored",
+      "oldWordCount": 209,
+      "newWordCount": 53,
+      "reduction": 156,
+      "reductionPercent": 75
+    },
+    {
+      "file": "mundaka-upanishad.md",
+      "status": "refactored",
+      "oldWordCount": 152,
+      "newWordCount": 72,
+      "reduction": 80,
+      "reductionPercent": 53
+    },
+    {
+      "file": "mutiny-memoirs-being-personal-reminiscences-of-the-great-sepoy-revolt-of-1857-mackenzie-a-r-d.md",
+      "status": "refactored",
+      "oldWordCount": 250,
+      "newWordCount": 36,
+      "reduction": 214,
+      "reductionPercent": 86
+    },
+    {
+      "file": "my-reminiscences-tagore-rabindranath.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 131
+    },
+    {
+      "file": "mysore-a-gazetteer-b-lewis-rice.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 34,
+      "reduction": 195,
+      "reductionPercent": 85
+    },
+    {
+      "file": "myths-hindus-buddhists-sister-nivedita-ananda-coomaraswamy.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 70,
+      "reduction": 159,
+      "reductionPercent": 69
+    },
+    {
+      "file": "nagananda-harsha.md",
+      "status": "refactored",
+      "oldWordCount": 218,
+      "newWordCount": 75,
+      "reduction": 143,
+      "reductionPercent": 66
+    },
+    {
+      "file": "nala-and-damayanti-and-other-poems-henry-hart-milman.md",
+      "status": "refactored",
+      "oldWordCount": 220,
+      "newWordCount": 82,
+      "reduction": 138,
+      "reductionPercent": 63
+    },
+    {
+      "file": "nalanda-and-its-epigraphic-material-shastri.md",
+      "status": "refactored",
+      "oldWordCount": 223,
+      "newWordCount": 36,
+      "reduction": 187,
+      "reductionPercent": 84
+    },
+    {
+      "file": "nalopkhyanam-story-of-nala-an-episode-of-the-mahbhrata-the-sanskrit-text-with-a-copious-vocabulary-and-an-improved-version-of-dean-milmans-translation-1819-1899-sir-monier-monier-williams.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 54,
+      "reduction": 175,
+      "reductionPercent": 76
+    },
+    {
+      "file": "naradiya-shiksha-kunte.md",
+      "status": "refactored",
+      "oldWordCount": 116,
+      "newWordCount": 61,
+      "reduction": 55,
+      "reductionPercent": 47
+    },
+    {
+      "file": "narrative-of-a-journey-through-the-upper-provinces-of-india-reginald-heber.md",
+      "status": "refactored",
+      "oldWordCount": 235,
+      "newWordCount": 72,
+      "reduction": 163,
+      "reductionPercent": 69
+    },
+    {
+      "file": "nationalism-rabindranath-tagore.md",
+      "status": "refactored",
+      "oldWordCount": 241,
+      "newWordCount": 64,
+      "reduction": 177,
+      "reductionPercent": 73
+    },
+    {
+      "file": "nationalismus-tagore-rabindranath.md",
+      "status": "refactored",
+      "oldWordCount": 239,
+      "newWordCount": 61,
+      "reduction": 178,
+      "reductionPercent": 74
+    },
+    {
+      "file": "natives-of-northern-india-crooke.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 230
+    },
+    {
+      "file": "natya-shastra-bharata-muni.md",
+      "status": "refactored",
+      "oldWordCount": 134,
+      "newWordCount": 70,
+      "reduction": 64,
+      "reductionPercent": 48
+    },
+    {
+      "file": "natyashastra-bharata-muni.md",
+      "status": "refactored",
+      "oldWordCount": 193,
+      "newWordCount": 55,
+      "reduction": 138,
+      "reductionPercent": 72
+    },
+    {
+      "file": "newton-forster-or-the-merchant-service-marryat-frederick.md",
+      "status": "refactored",
+      "oldWordCount": 243,
+      "newWordCount": 59,
+      "reduction": 184,
+      "reductionPercent": 76
+    },
+    {
+      "file": "nil-darpan-or-the-indigo-planting-mirror-a-drama-translated-from-the-bengali-by-a-native-mitra.md",
+      "status": "refactored",
+      "oldWordCount": 239,
+      "newWordCount": 73,
+      "reduction": 166,
+      "reductionPercent": 69
+    },
+    {
+      "file": "nitisara-kamandaki-tr-mn-dutt-1896.md",
+      "status": "refactored",
+      "oldWordCount": 222,
+      "newWordCount": 60,
+      "reduction": 162,
+      "reductionPercent": 73
+    },
+    {
+      "file": "nityacarapradipah-narasimha-vajapeyee.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 220
+    },
+    {
+      "file": "notes-of-an-overland-journey-through-france-and-egypt-to-bombay-roberts-emma.md",
+      "status": "refactored",
+      "oldWordCount": 241,
+      "newWordCount": 69,
+      "reduction": 172,
+      "reductionPercent": 71
+    },
+    {
+      "file": "nyaya-sutras-akshapada-gautama.md",
+      "status": "refactored",
+      "oldWordCount": 133,
+      "newWordCount": 62,
+      "reduction": 71,
+      "reductionPercent": 53
+    },
+    {
+      "file": "nyaya-sutras-gautama.md",
+      "status": "refactored",
+      "oldWordCount": 150,
+      "newWordCount": 87,
+      "reduction": 63,
+      "reductionPercent": 42
+    },
+    {
+      "file": "nyaya-sutras-of-gotama.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 61,
+      "reduction": 168,
+      "reductionPercent": 73
+    },
+    {
+      "file": "nyayatatparyadipika-jayasimha-suri.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 223
+    },
+    {
+      "file": "observations-on-the-disturbances-in-the-madras-army-in-1809-malcolm-john.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 184
+    },
+    {
+      "file": "old-deccan-days-or-hindoo-fairy-legends-current-in-southern-india-unknown.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 204
+    },
+    {
+      "file": "on-the-face-of-the-waters-a-tale-of-the-mutiny-steel-flora-annie-webster.md",
+      "status": "refactored",
+      "oldWordCount": 648,
+      "newWordCount": 70,
+      "reduction": 578,
+      "reductionPercent": 89
+    },
+    {
+      "file": "on-the-indian-sect-of-the-jainas-bühler-georg.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 200
+    },
+    {
+      "file": "one-of-clives-heroes-a-story-of-the-fight-for-india-strang-herbert.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 214
+    },
+    {
+      "file": "open-letters-to-lord-curzon-romesh-dutt.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 241
+    },
+    {
+      "file": "oriental-religions-and-christianity-a-course-of-lectures-delivered-on-the-ely-foundation-before-the.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 188
+    },
+    {
+      "file": "our-educational-problem-dayal.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 341
+    },
+    {
+      "file": "outlines-history-hindu-law-partition-inheritance-adoption-julius-jolly.md",
+      "status": "refactored",
+      "oldWordCount": 248,
+      "newWordCount": 61,
+      "reduction": 187,
+      "reductionPercent": 75
+    },
+    {
+      "file": "outlines-of-indian-philosophy-paul-deussen.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 240
+    },
+    {
+      "file": "oxford-history-of-india-from-the-earliest-times-to-the-end-of-1911-1848-1920-vincent-arthur-smith.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 227
+    },
+    {
+      "file": "padma-purana.md",
+      "status": "refactored",
+      "oldWordCount": 198,
+      "newWordCount": 30,
+      "reduction": 168,
+      "reductionPercent": 85
+    },
+    {
+      "file": "pampa-bharatam-vikramarjuna-vijaya-kannada.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 216
+    },
+    {
+      "file": "panchadasi-vidyaranya.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 149
+    },
+    {
+      "file": "panchastikayasara-kundakunda.md",
+      "status": "refactored",
+      "oldWordCount": 208,
+      "newWordCount": 65,
+      "reduction": 143,
+      "reductionPercent": 69
+    },
+    {
+      "file": "panchatantra-collection-ancient-hindu-tales-panchakhyanaka-purnabhadra-johannes-hertel.md",
+      "status": "refactored",
+      "oldWordCount": 228,
+      "newWordCount": 73,
+      "reduction": 155,
+      "reductionPercent": 68
+    },
+    {
+      "file": "panchatantra-vishnu-sharma.md",
+      "status": "refactored",
+      "oldWordCount": 104,
+      "newWordCount": 60,
+      "reduction": 44,
+      "reductionPercent": 42
+    },
+    {
+      "file": "panjab-castes-1847-1908-sir-denzil-ibbetson.md",
+      "status": "refactored",
+      "oldWordCount": 234,
+      "newWordCount": 76,
+      "reduction": 158,
+      "reductionPercent": 68
+    },
+    {
+      "file": "papers-sanskrit-manuscript-preservation-gough.md",
+      "status": "refactored",
+      "oldWordCount": 245,
+      "newWordCount": 57,
+      "reduction": 188,
+      "reductionPercent": 77
+    },
+    {
+      "file": "patanjali-yoga-sutras.md",
+      "status": "refactored",
+      "oldWordCount": 224,
+      "newWordCount": 51,
+      "reduction": 173,
+      "reductionPercent": 77
+    },
+    {
+      "file": "path-of-purity-visuddhimagga-buddhaghosa-pe-maung-tin.md",
+      "status": "refactored",
+      "oldWordCount": 212,
+      "newWordCount": 65,
+      "reduction": 147,
+      "reductionPercent": 69
+    },
+    {
+      "file": "path-to-god-gandhi.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 73,
+      "reduction": 152,
+      "reductionPercent": 68
+    },
+    {
+      "file": "pather-panchali-bibhutibhushan-bandyopadhyay.md",
+      "status": "refactored",
+      "oldWordCount": 242,
+      "newWordCount": 65,
+      "reduction": 177,
+      "reductionPercent": 73
+    },
+    {
+      "file": "periplus-of-the-erythraean-sea.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 243
+    },
+    {
+      "file": "periya-puranam-sekkizhar.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 214
+    },
+    {
+      "file": "personal-and-geographical-names-in-gupta-inscriptions-tej-ram-sharma.md",
+      "status": "refactored",
+      "oldWordCount": 227,
+      "newWordCount": 38,
+      "reduction": 189,
+      "reductionPercent": 83
+    },
+    {
+      "file": "phallic-miscellanies-facts-and-phases-of-ancient-and-modern-sex-worship-as-illustrated-chiefly-in.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 193
+    },
+    {
+      "file": "philosophy-upanishads-ancient-indian-metaphysics-archibald-gough.md",
+      "status": "refactored",
+      "oldWordCount": 243,
+      "newWordCount": 55,
+      "reduction": 188,
+      "reductionPercent": 77
+    },
+    {
+      "file": "plain-tales-from-the-hills-kipling-rudyard.md",
+      "status": "refactored",
+      "oldWordCount": 147,
+      "newWordCount": 76,
+      "reduction": 71,
+      "reductionPercent": 48
+    },
+    {
+      "file": "poems-by-toru-dutt.md",
+      "status": "refactored",
+      "oldWordCount": 232,
+      "newWordCount": 52,
+      "reduction": 180,
+      "reductionPercent": 78
+    },
+    {
+      "file": "political-history-of-ancient-india-hem-chandra-raychaudhuri.md",
+      "status": "refactored",
+      "oldWordCount": 224,
+      "newWordCount": 63,
+      "reduction": 161,
+      "reductionPercent": 72
+    },
+    {
+      "file": "prabandhacintamani-merutunga-tr-tawney-1899-1901.md",
+      "status": "refactored",
+      "oldWordCount": 234,
+      "newWordCount": 73,
+      "reduction": 161,
+      "reductionPercent": 69
+    },
+    {
+      "file": "pralay-sachindranath-sengupta.md",
+      "status": "refactored",
+      "oldWordCount": 231,
+      "newWordCount": 58,
+      "reduction": 173,
+      "reductionPercent": 75
+    },
+    {
+      "file": "prashna-upanishad.md",
+      "status": "refactored",
+      "oldWordCount": 148,
+      "newWordCount": 48,
+      "reduction": 100,
+      "reductionPercent": 68
+    },
+    {
+      "file": "private-life-of-warren-hastings-lawson.md",
+      "status": "refactored",
+      "oldWordCount": 239,
+      "newWordCount": 76,
+      "reduction": 163,
+      "reductionPercent": 68
+    },
+    {
+      "file": "priyadarsika-harsha.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 69,
+      "reduction": 156,
+      "reductionPercent": 69
+    },
+    {
+      "file": "punjabi-musalmans-j-m-wikeley.md",
+      "status": "refactored",
+      "oldWordCount": 231,
+      "newWordCount": 13,
+      "reduction": 218,
+      "reductionPercent": 94
+    },
+    {
+      "file": "puranic-encyclopaedia-vettam-mani.md",
+      "status": "refactored",
+      "oldWordCount": 217,
+      "newWordCount": 61,
+      "reduction": 156,
+      "reductionPercent": 72
+    },
+    {
+      "file": "purohit-darpaned25-bhattacharya-surendramohan-comp.md",
+      "status": "refactored",
+      "oldWordCount": 233,
+      "newWordCount": 61,
+      "reduction": 172,
+      "reductionPercent": 74
+    },
+    {
+      "file": "racial-history-india-chakraberty.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 237
+    },
+    {
+      "file": "raghudayamu-telugu-venkata-suryaprasada.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 230
+    },
+    {
+      "file": "raghuvamsa-kalidasa.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 232
+    },
+    {
+      "file": "raja-yoga-swami-vivekananda.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 242
+    },
+    {
+      "file": "rajatarangini-kalhana.md",
+      "status": "refactored",
+      "oldWordCount": 121,
+      "newWordCount": 61,
+      "reduction": 60,
+      "reductionPercent": 50
+    },
+    {
+      "file": "ramacharitamanasa-tulsidas.md",
+      "status": "refactored",
+      "oldWordCount": 222,
+      "newWordCount": 66,
+      "reduction": 156,
+      "reductionPercent": 70
+    },
+    {
+      "file": "ramakrishna-kathamrita.md",
+      "status": "refactored",
+      "oldWordCount": 230,
+      "newWordCount": 63,
+      "reduction": 167,
+      "reductionPercent": 73
+    },
+    {
+      "file": "ramayana-valmiki.md",
+      "status": "refactored",
+      "oldWordCount": 219,
+      "newWordCount": 67,
+      "reduction": 152,
+      "reductionPercent": 69
+    },
+    {
+      "file": "rambles-and-recollections-of-an-indian-official-sleeman-w-h-william-henry-sir.md",
+      "status": "refactored",
+      "oldWordCount": 169,
+      "newWordCount": 12,
+      "reduction": 157,
+      "reductionPercent": 93
+    },
+    {
+      "file": "rasendra-sar-sanghra-bhaskara-basak.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 242
+    },
+    {
+      "file": "ratnavali-harsha.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 233
+    },
+    {
+      "file": "recollections-of-a-military-life-adye-john-sir.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 175
+    },
+    {
+      "file": "recollections-of-calcutta-for-over-half-a-century-massey-montague.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 164
+    },
+    {
+      "file": "recollections-of-thirty-nine-years-in-the-army-gwalior-and-the-battle-of-maharajpore-1843-the-gold.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 182
+    },
+    {
+      "file": "reminiscences-of-the-great-mutiny-1857-59-including-the-relief-siege-and-capture-of-lucknow-and-the.md",
+      "status": "refactored",
+      "oldWordCount": 188,
+      "newWordCount": 47,
+      "reduction": 141,
+      "reductionPercent": 75
+    },
+    {
+      "file": "report-excavations-pataliputra-waddell.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 231
+    },
+    {
+      "file": "report-of-the-silk-panel-chairman-1947-navaratna-rama-rao.md",
+      "status": "refactored",
+      "oldWordCount": 241,
+      "newWordCount": 72,
+      "reduction": 169,
+      "reductionPercent": 70
+    },
+    {
+      "file": "reports-tour-bundelkhand-rewa-malwa-gwalior-alexander-cunningham.md",
+      "status": "refactored",
+      "oldWordCount": 233,
+      "newWordCount": 70,
+      "reduction": 163,
+      "reductionPercent": 70
+    },
+    {
+      "file": "research-methodology-bm-jain-1.md",
+      "status": "refactored",
+      "oldWordCount": 231,
+      "newWordCount": 25,
+      "reduction": 206,
+      "reductionPercent": 89
+    },
+    {
+      "file": "rig-veda-samhita-books-14-wilson.md",
+      "status": "refactored",
+      "oldWordCount": 214,
+      "newWordCount": 35,
+      "reduction": 179,
+      "reductionPercent": 84
+    },
+    {
+      "file": "rig-veda-sanhit-english-translation-h-h-wilson.md",
+      "status": "refactored",
+      "oldWordCount": 245,
+      "newWordCount": 6,
+      "reduction": 239,
+      "reductionPercent": 98
+    },
+    {
+      "file": "rig-veda-sanhita-volume-i-wilson.md",
+      "status": "refactored",
+      "oldWordCount": 233,
+      "newWordCount": 75,
+      "reduction": 158,
+      "reductionPercent": 68
+    },
+    {
+      "file": "riyaz-us-salatin-history-of-bengal.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 56,
+      "reduction": 173,
+      "reductionPercent": 76
+    },
+    {
+      "file": "rujub-the-juggler-henty-g-a-george-alfred.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 205
+    },
+    {
+      "file": "rulers-of-india-akbar-malleson-g-b-george-bruce.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 181
+    },
+    {
+      "file": "rulers-of-india-lord-clive-malleson-g-b-george-bruce.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 164
+    },
+    {
+      "file": "ruth-fielding-in-the-great-northwest-or-the-indian-girl-star-of-the-movies-emerson-alice-b.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 210
+    },
+    {
+      "file": "sacred-books-and-early-literature-of-the-east-with-an-historical-survey-and-descriptions-horne.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 64,
+      "reduction": 165,
+      "reductionPercent": 72
+    },
+    {
+      "file": "sacred-books-early-literature-volume-10.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 215
+    },
+    {
+      "file": "sacred-books-of-the-east-hindu-series-volume-3.md",
+      "status": "refactored",
+      "oldWordCount": 218,
+      "newWordCount": 81,
+      "reduction": 137,
+      "reductionPercent": 63
+    },
+    {
+      "file": "sacred-books-of-the-east-unknown-author.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 236
+    },
+    {
+      "file": "sacred-laws-aryas-apastamba-gautama-vasishtha-baudhayana-georg-buhler.md",
+      "status": "refactored",
+      "oldWordCount": 201,
+      "newWordCount": 41,
+      "reduction": 160,
+      "reductionPercent": 80
+    },
+    {
+      "file": "sadhana-the-realisation-of-life-tagore-rabindranath.md",
+      "status": "refactored",
+      "oldWordCount": 312,
+      "newWordCount": 61,
+      "reduction": 251,
+      "reductionPercent": 80
+    },
+    {
+      "file": "sakhi-suryakant-tripathi-nirala.md",
+      "status": "refactored",
+      "oldWordCount": 206,
+      "newWordCount": 58,
+      "reduction": 148,
+      "reductionPercent": 72
+    },
+    {
+      "file": "sakoontala-or-the-lost-ring-an-indian-drama-kalidasa.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 197
+    },
+    {
+      "file": "samkhya-karika-ishvarakrishna.md",
+      "status": "refactored",
+      "oldWordCount": 970,
+      "newWordCount": 76,
+      "reduction": 894,
+      "reductionPercent": 92
+    },
+    {
+      "file": "sangita-makaranda-telang.md",
+      "status": "refactored",
+      "oldWordCount": 221,
+      "newWordCount": 63,
+      "reduction": 158,
+      "reductionPercent": 71
+    },
+    {
+      "file": "sangita-raga-kalpadruma-vol1.md",
+      "status": "refactored",
+      "oldWordCount": 218,
+      "newWordCount": 52,
+      "reduction": 166,
+      "reductionPercent": 76
+    },
+    {
+      "file": "sangita-ratnakara-sarangadeva.md",
+      "status": "refactored",
+      "oldWordCount": 222,
+      "newWordCount": 61,
+      "reduction": 161,
+      "reductionPercent": 73
+    },
+    {
+      "file": "sangita-ratnakara-sharangadeva.md",
+      "status": "refactored",
+      "oldWordCount": 198,
+      "newWordCount": 69,
+      "reduction": 129,
+      "reductionPercent": 65
+    },
+    {
+      "file": "sankhya-aphorisms-ballantyne.md",
+      "status": "refactored",
+      "oldWordCount": 220,
+      "newWordCount": 70,
+      "reduction": 150,
+      "reductionPercent": 68
+    },
+    {
+      "file": "sankirtan-annamayya.md",
+      "status": "refactored",
+      "oldWordCount": 236,
+      "newWordCount": 62,
+      "reduction": 174,
+      "reductionPercent": 74
+    },
+    {
+      "file": "sant-tukaram-gatha-marathi-abhanga.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 205
+    },
+    {
+      "file": "sarala-mahabharata-odia-sarala-dasa.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 222
+    },
+    {
+      "file": "sarva-darsana-samgraha-madhava-tr-cowell-gough-1882.md",
+      "status": "refactored",
+      "oldWordCount": 243,
+      "newWordCount": 64,
+      "reduction": 179,
+      "reductionPercent": 74
+    },
+    {
+      "file": "sarva-darsana-samgraha-review-different-systems-hindu-philosophy-madhavacharya-cowell-gough.md",
+      "status": "refactored",
+      "oldWordCount": 201,
+      "newWordCount": 57,
+      "reduction": 144,
+      "reductionPercent": 72
+    },
+    {
+      "file": "satapathabrahmana-eggeling-translation.md",
+      "status": "refactored",
+      "oldWordCount": 207,
+      "newWordCount": 55,
+      "reduction": 152,
+      "reductionPercent": 73
+    },
+    {
+      "file": "science-of-breath-philosophy-tattvas-rama-prasada.md",
+      "status": "refactored",
+      "oldWordCount": 236,
+      "newWordCount": 66,
+      "reduction": 170,
+      "reductionPercent": 72
+    },
+    {
+      "file": "sesde-reys-van-de-engelsche-maatschappy-na-oost-indien-henry-middleton.md",
+      "status": "refactored",
+      "oldWordCount": 236,
+      "newWordCount": 80,
+      "reduction": 156,
+      "reductionPercent": 66
+    },
+    {
+      "file": "shaddarsana-samuchchaya-haribhadra.md",
+      "status": "refactored",
+      "oldWordCount": 218,
+      "newWordCount": 50,
+      "reduction": 168,
+      "reductionPercent": 77
+    },
+    {
+      "file": "shishupalavadha-magha.md",
+      "status": "refactored",
+      "oldWordCount": 210,
+      "newWordCount": 64,
+      "reduction": 146,
+      "reductionPercent": 70
+    },
+    {
+      "file": "shiva-mahapurana.md",
+      "status": "refactored",
+      "oldWordCount": 224,
+      "newWordCount": 56,
+      "reduction": 168,
+      "reductionPercent": 75
+    },
+    {
+      "file": "shiva-purana.md",
+      "status": "refactored",
+      "oldWordCount": 926,
+      "newWordCount": 75,
+      "reduction": 851,
+      "reductionPercent": 92
+    },
+    {
+      "file": "shiva-sutras-vasugupta.md",
+      "status": "refactored",
+      "oldWordCount": 148,
+      "newWordCount": 72,
+      "reduction": 76,
+      "reductionPercent": 51
+    },
+    {
+      "file": "shivaji-and-his-times-jadunath-sarkar.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 233
+    },
+    {
+      "file": "short-report-hindu-mahasabha-relief-activities-calcutta-noakhali.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 122
+    },
+    {
+      "file": "shvetashvatara-upanishad.md",
+      "status": "refactored",
+      "oldWordCount": 160,
+      "newWordCount": 41,
+      "reduction": 119,
+      "reductionPercent": 74
+    },
+    {
+      "file": "si-yu-ki-buddhist-records-of-the-western-world-xuanzang-samuel-beal.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 236
+    },
+    {
+      "file": "siddhanta-shiromani-bhaskara.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 123
+    },
+    {
+      "file": "siddhanta-siromani-bhaskaracharya-tr-wilkinson-1861.md",
+      "status": "refactored",
+      "oldWordCount": 197,
+      "newWordCount": 49,
+      "reduction": 148,
+      "reductionPercent": 75
+    },
+    {
+      "file": "siddhartha-hermann-hesse.md",
+      "status": "refactored",
+      "oldWordCount": 182,
+      "newWordCount": 48,
+      "reduction": 134,
+      "reductionPercent": 74
+    },
+    {
+      "file": "sikh-religion-its-gurus-sacred-writings-and-authors-macauliffe.md",
+      "status": "refactored",
+      "oldWordCount": 203,
+      "newWordCount": 63,
+      "reduction": 140,
+      "reductionPercent": 69
+    },
+    {
+      "file": "silappatikaram-ilango-adigal.md",
+      "status": "refactored",
+      "oldWordCount": 156,
+      "newWordCount": 77,
+      "reduction": 79,
+      "reductionPercent": 51
+    },
+    {
+      "file": "simla-village-tales-or-folk-tales-from-the-himalayas-dracott-alice.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 178
+    },
+    {
+      "file": "siraj-ul-wahhaj-sirajuddin-ali-khan-arzu.md",
+      "status": "refactored",
+      "oldWordCount": 235,
+      "newWordCount": 59,
+      "reduction": 176,
+      "reductionPercent": 75
+    },
+    {
+      "file": "skanda-purana.md",
+      "status": "refactored",
+      "oldWordCount": 248,
+      "newWordCount": 61,
+      "reduction": 187,
+      "reductionPercent": 75
+    },
+    {
+      "file": "soundarya-lahari-adi-shankara.md",
+      "status": "refactored",
+      "oldWordCount": 142,
+      "newWordCount": 41,
+      "reduction": 101,
+      "reductionPercent": 71
+    },
+    {
+      "file": "south-indian-images-of-gods-and-goddesses-krishna-sastri.md",
+      "status": "refactored",
+      "oldWordCount": 245,
+      "newWordCount": 38,
+      "reduction": 207,
+      "reductionPercent": 84
+    },
+    {
+      "file": "south-indian-inscriptions-vol-i-archaeological-survey-of-india.md",
+      "status": "refactored",
+      "oldWordCount": 234,
+      "newWordCount": 35,
+      "reduction": 199,
+      "reductionPercent": 85
+    },
+    {
+      "file": "storia-do-mogor-mogul-india-1653-1708-niccolo-manucci-william-irvine.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 242
+    },
+    {
+      "file": "stories-from-tagore-tagore-rabindranath.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 290
+    },
+    {
+      "file": "story-of-my-experiments-with-truth-gandhi-autobiography.md",
+      "status": "refactored",
+      "oldWordCount": 236,
+      "newWordCount": 69,
+      "reduction": 167,
+      "reductionPercent": 71
+    },
+    {
+      "file": "stray-birds-tagore-rabindranath.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 125
+    },
+    {
+      "file": "studies-in-mughal-india.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 231
+    },
+    {
+      "file": "sukasaptati-seventy-tales-parrot.md",
+      "status": "refactored",
+      "oldWordCount": 142,
+      "newWordCount": 82,
+      "reduction": 60,
+      "reductionPercent": 42
+    },
+    {
+      "file": "sursagar-surdas.md",
+      "status": "refactored",
+      "oldWordCount": 171,
+      "newWordCount": 38,
+      "reduction": 133,
+      "reductionPercent": 78
+    },
+    {
+      "file": "surya-siddhanta-burgess.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 49,
+      "reduction": 176,
+      "reductionPercent": 78
+    },
+    {
+      "file": "sushrut-sanhita-ambikadatt-1.md",
+      "status": "refactored",
+      "oldWordCount": 237,
+      "newWordCount": 57,
+      "reduction": 180,
+      "reductionPercent": 76
+    },
+    {
+      "file": "sushruta-samhita-ayurveda.md",
+      "status": "refactored",
+      "oldWordCount": 145,
+      "newWordCount": 70,
+      "reduction": 75,
+      "reductionPercent": 52
+    },
+    {
+      "file": "sushruta-samhita-english-translation.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 188
+    },
+    {
+      "file": "sutrakritanga.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 235
+    },
+    {
+      "file": "sva-george-c-m-birdwood.md",
+      "status": "refactored",
+      "oldWordCount": 224,
+      "newWordCount": 3,
+      "reduction": 221,
+      "reductionPercent": 99
+    },
+    {
+      "file": "swetashvatara-upanishad.md",
+      "status": "refactored",
+      "oldWordCount": 211,
+      "newWordCount": 61,
+      "reduction": 150,
+      "reductionPercent": 71
+    },
+    {
+      "file": "syntax-of-the-hebrew-language-of-the-old-testament-ewald.md",
+      "status": "refactored",
+      "oldWordCount": 236,
+      "newWordCount": 71,
+      "reduction": 165,
+      "reductionPercent": 70
+    },
+    {
+      "file": "taittiriya-upanishad.md",
+      "status": "refactored",
+      "oldWordCount": 165,
+      "newWordCount": 56,
+      "reduction": 109,
+      "reductionPercent": 66
+    },
+    {
+      "file": "taittriya-upanishad.md",
+      "status": "refactored",
+      "oldWordCount": 213,
+      "newWordCount": 69,
+      "reduction": 144,
+      "reductionPercent": 68
+    },
+    {
+      "file": "tales-from-the-hindu-dramatists-dutta-r-n.md",
+      "status": "refactored",
+      "oldWordCount": 196,
+      "newWordCount": 8,
+      "reduction": 188,
+      "reductionPercent": 96
+    },
+    {
+      "file": "tales-from-the-indian-epics-kincaid.md",
+      "status": "refactored",
+      "oldWordCount": 232,
+      "newWordCount": 70,
+      "reduction": 162,
+      "reductionPercent": 70
+    },
+    {
+      "file": "tales-of-bengal-banerjea-s-b.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 164
+    },
+    {
+      "file": "tales-of-the-punjab-folklore-of-india-steel-flora-annie-webster.md",
+      "status": "refactored",
+      "oldWordCount": 940,
+      "newWordCount": 69,
+      "reduction": 871,
+      "reductionPercent": 93
+    },
+    {
+      "file": "tantra-yukti-neelmegh-bhishagacharya.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 227
+    },
+    {
+      "file": "tateyo-indo-yone-noguchi.md",
+      "status": "refactored",
+      "oldWordCount": 234,
+      "newWordCount": 71,
+      "reduction": 163,
+      "reductionPercent": 70
+    },
+    {
+      "file": "tattvakaumudi-vacaspatimisra.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 215
+    },
+    {
+      "file": "tattvartha-sutra-umasvati.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 138
+    },
+    {
+      "file": "the-administration-of-the-east-india-company-john-william-kaye.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 258
+    },
+    {
+      "file": "the-adventures-of-akbar-steel-flora-annie-webster.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 200
+    },
+    {
+      "file": "the-ao-nagas-jp-mills.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 235
+    },
+    {
+      "file": "the-aryabhatiya-of-aryabhata-clark.md",
+      "status": "refactored",
+      "oldWordCount": 238,
+      "newWordCount": 58,
+      "reduction": 180,
+      "reductionPercent": 76
+    },
+    {
+      "file": "the-autobiography-of-an-indian-princess-sunity-devee-maharani-of-cooch-behar.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 218
+    },
+    {
+      "file": "the-babur-nama-in-english-memoirs-of-babur-babur.md",
+      "status": "refactored",
+      "oldWordCount": 237,
+      "newWordCount": 69,
+      "reduction": 168,
+      "reductionPercent": 71
+    },
+    {
+      "file": "the-babur-nma-memoirs-of-babur-english-translation-ahr-ud-dn-muhammad-babur-tr-annette-susannah-beveridge.md",
+      "status": "refactored",
+      "oldWordCount": 234,
+      "newWordCount": 63,
+      "reduction": 171,
+      "reductionPercent": 73
+    },
+    {
+      "file": "the-bengal-tenancy-act-annotated-edition-r-f-rampini.md",
+      "status": "refactored",
+      "oldWordCount": 232,
+      "newWordCount": 18,
+      "reduction": 214,
+      "reductionPercent": 92
+    },
+    {
+      "file": "the-bhagavad-gita-vyasa.md",
+      "status": "refactored",
+      "oldWordCount": 237,
+      "newWordCount": 52,
+      "reduction": 185,
+      "reductionPercent": 78
+    },
+    {
+      "file": "the-birds-of-india-being-a-natural-history-of-the-birds-known-to-inhabit-continental-india-thomas-c-jerdon.md",
+      "status": "refactored",
+      "oldWordCount": 231,
+      "newWordCount": 47,
+      "reduction": 184,
+      "reductionPercent": 80
+    },
+    {
+      "file": "the-birth-of-the-war-god-a-poem-by-kálidása-kalidasa.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 163
+    },
+    {
+      "file": "the-bombay-city-police-a-historical-sketch-1672-1916-edwardes-s-m-stephen-meredyth.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 192
+    },
+    {
+      "file": "the-bridge-builders-kipling-rudyard.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 291
+    },
+    {
+      "file": "the-buddhavamsa-and-the-cariya-pitaka.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 214
+    },
+    {
+      "file": "the-bābur-nāma-in-english-memoirs-of-bābur-babur-emperor-of-hindustan.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 207
+    },
+    {
+      "file": "the-cambridge-history-of-india-edward-james-rapson.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 222
+    },
+    {
+      "file": "the-case-for-india-annie-besant.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 240
+    },
+    {
+      "file": "the-commerce-and-navigation-of-the-erythræan-sea-being-a-translation-of-the-periplus-maris-erythræi.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 175
+    },
+    {
+      "file": "the-complete-revenue-guide-for-imports-and-exports-peter-j-hodgson.md",
+      "status": "refactored",
+      "oldWordCount": 240,
+      "newWordCount": 41,
+      "reduction": 199,
+      "reductionPercent": 83
+    },
+    {
+      "file": "the-conquest-of-canada-warburton-george.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 200
+    },
+    {
+      "file": "the-cycle-of-spring-tagore-rabindranath.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 214
+    },
+    {
+      "file": "the-defence-of-lucknow-a-diary-recording-the-daily-events-during-the-siege-of-the-european.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 179
+    },
+    {
+      "file": "the-descent-of-the-sun-bain.md",
+      "status": "refactored",
+      "oldWordCount": 230,
+      "newWordCount": 78,
+      "reduction": 152,
+      "reductionPercent": 66
+    },
+    {
+      "file": "the-dhammapada-max-muller.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 207
+    },
+    {
+      "file": "the-diary-of-a-hunter-from-the-punjab-to-the-karakorum-mountains-irby-augustus-henry.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 185
+    },
+    {
+      "file": "the-east-india-gazetteer-walter-hamilton.md",
+      "status": "refactored",
+      "oldWordCount": 246,
+      "newWordCount": 71,
+      "reduction": 175,
+      "reductionPercent": 71
+    },
+    {
+      "file": "the-east-india-vade-mecum-volume-1-of-2-or-complete-guide-to-gentlemen-intended-for-the-civil.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 190
+    },
+    {
+      "file": "the-economic-history-of-india-romesh-chunder-dutt.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 243
+    },
+    {
+      "file": "the-embassy-of-sir-thomas-roe-to-the-court-of-the-great-mogul-16151619-sir-thomas-roe-ed-william-foster.md",
+      "status": "refactored",
+      "oldWordCount": 248,
+      "newWordCount": 65,
+      "reduction": 183,
+      "reductionPercent": 74
+    },
+    {
+      "file": "the-english-urdu-translators-companion-durga-prasad.md",
+      "status": "refactored",
+      "oldWordCount": 147,
+      "newWordCount": 55,
+      "reduction": 92,
+      "reductionPercent": 63
+    },
+    {
+      "file": "the-fall-of-the-moghul-empire-of-hindustan-h-g-keene.md",
+      "status": "refactored",
+      "oldWordCount": 244,
+      "newWordCount": 2,
+      "reduction": 242,
+      "reductionPercent": 99
+    },
+    {
+      "file": "the-flora-of-british-india-joseph-dalton-hooker-ed-with-collaborators.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 68,
+      "reduction": 157,
+      "reductionPercent": 70
+    },
+    {
+      "file": "the-gardener-tagore-rabindranath.md",
+      "status": "refactored",
+      "oldWordCount": 261,
+      "newWordCount": 60,
+      "reduction": 201,
+      "reductionPercent": 77
+    },
+    {
+      "file": "the-golden-book-of-india-roper-lethbridge.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 69,
+      "reduction": 160,
+      "reductionPercent": 70
+    },
+    {
+      "file": "the-golden-threshold-sarojini-naidu.md",
+      "status": "refactored",
+      "oldWordCount": 241,
+      "newWordCount": 60,
+      "reduction": 181,
+      "reductionPercent": 75
+    },
+    {
+      "file": "the-great-epic-of-india-its-character-and-origin-hopkins.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 246
+    },
+    {
+      "file": "the-highlands-of-central-india-james-forsyth.md",
+      "status": "refactored",
+      "oldWordCount": 230,
+      "newWordCount": 80,
+      "reduction": 150,
+      "reductionPercent": 65
+    },
+    {
+      "file": "the-hindu-arabic-numerals-smith-karpinski.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 226
+    },
+    {
+      "file": "the-hindu-yogi-science-of-breath-atkinson-william-walker.md",
+      "status": "refactored",
+      "oldWordCount": 218,
+      "newWordCount": 64,
+      "reduction": 154,
+      "reductionPercent": 71
+    },
+    {
+      "file": "the-history-and-management-of-the-east-india-company-vol-1-james-macpherson.md",
+      "status": "refactored",
+      "oldWordCount": 253,
+      "newWordCount": 81,
+      "reduction": 172,
+      "reductionPercent": 68
+    },
+    {
+      "file": "the-history-of-india-as-told-by-its-own-historians-h-m-elliot-completed-by-john-dowson.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 227
+    },
+    {
+      "file": "the-history-of-the-bengali-language-bijay-chandra-majumdar.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 221
+    },
+    {
+      "file": "the-history-of-the-indian-revolt-and-of-the-expeditions-to-persia-china-and-japan-1856-7-8-dodd.md",
+      "status": "refactored",
+      "oldWordCount": 191,
+      "newWordCount": 57,
+      "reduction": 134,
+      "reductionPercent": 70
+    },
+    {
+      "file": "the-holy-bible-a-facsimile-in-a-reduced-size-of-the-authorized-version-published-in-the-year-1611-alfred-w-pollard.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 236
+    },
+    {
+      "file": "the-home-and-the-world-tagore-rabindranath.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 138
+    },
+    {
+      "file": "the-hungry-stones-and-other-stories-tagore-rabindranath.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 210
+    },
+    {
+      "file": "the-imperial-gazetteer-of-india-new-edition-government-of-india.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 238
+    },
+    {
+      "file": "the-indian-craftsman-coomaraswamy.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 237
+    },
+    {
+      "file": "the-indian-empire-its-peoples-history-and-products-w-w-hunter.md",
+      "status": "refactored",
+      "oldWordCount": 228,
+      "newWordCount": 2,
+      "reduction": 226,
+      "reductionPercent": 99
+    },
+    {
+      "file": "the-indian-musalmans-are-they-bound-in-conscience-to-rebel-against-the-queen-w-w-hunter.md",
+      "status": "refactored",
+      "oldWordCount": 232,
+      "newWordCount": 66,
+      "reduction": 166,
+      "reductionPercent": 72
+    },
+    {
+      "file": "the-influence-of-india-and-persia-on-the-poetry-of-germany-remy-arthur-f-j.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 238
+    },
+    {
+      "file": "the-jungle-books-kipling-rudyard.md",
+      "status": "refactored",
+      "oldWordCount": 169,
+      "newWordCount": 48,
+      "reduction": 121,
+      "reductionPercent": 72
+    },
+    {
+      "file": "the-kalpa-sutra-and-nava-tatva-stevenson.md",
+      "status": "refactored",
+      "oldWordCount": 223,
+      "newWordCount": 58,
+      "reduction": 165,
+      "reductionPercent": 74
+    },
+    {
+      "file": "the-kathá-sarit-ságara-or-ocean-of-the-streams-of-story-somadeva-bhatta-active-11th-century.md",
+      "status": "refactored",
+      "oldWordCount": 240,
+      "newWordCount": 62,
+      "reduction": 178,
+      "reductionPercent": 74
+    },
+    {
+      "file": "the-king-of-the-dark-chamber-tagore-rabindranath.md",
+      "status": "refactored",
+      "oldWordCount": 224,
+      "newWordCount": 65,
+      "reduction": 159,
+      "reductionPercent": 71
+    },
+    {
+      "file": "the-kipling-reader-selections-from-the-books-of-rudyard-kipling-kipling-rudyard.md",
+      "status": "refactored",
+      "oldWordCount": 231,
+      "newWordCount": 54,
+      "reduction": 177,
+      "reductionPercent": 77
+    },
+    {
+      "file": "the-land-systems-of-british-india-vol-1-baden-henry-baden-powell.md",
+      "status": "refactored",
+      "oldWordCount": 236,
+      "newWordCount": 63,
+      "reduction": 173,
+      "reductionPercent": 73
+    },
+    {
+      "file": "the-law-relating-to-india-and-the-east-india-company-1855-compilation.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 51,
+      "reduction": 174,
+      "reductionPercent": 77
+    },
+    {
+      "file": "the-lhota-nagas-jp-mills.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 233
+    },
+    {
+      "file": "the-life-of-shivaji-maharaj-k-a-keluskar-n-s-takakhav.md",
+      "status": "refactored",
+      "oldWordCount": 230,
+      "newWordCount": 8,
+      "reduction": 222,
+      "reductionPercent": 97
+    },
+    {
+      "file": "the-lotus-of-the-true-law.md",
+      "status": "refactored",
+      "oldWordCount": 207,
+      "newWordCount": 57,
+      "reduction": 150,
+      "reductionPercent": 72
+    },
+    {
+      "file": "the-loves-of-krishna-archer.md",
+      "status": "refactored",
+      "oldWordCount": 247,
+      "newWordCount": 33,
+      "reduction": 214,
+      "reductionPercent": 87
+    },
+    {
+      "file": "the-lusiad-or-the-discovery-of-india-an-epic-poem-camões.md",
+      "status": "refactored",
+      "oldWordCount": 243,
+      "newWordCount": 78,
+      "reduction": 165,
+      "reductionPercent": 68
+    },
+    {
+      "file": "the-mahabharata-of-krishna-dwaipayana-vyasa-ganguli-tr-kisari-mohan-ganguli-translator-p-c-roy-publisher.md",
+      "status": "refactored",
+      "oldWordCount": 231,
+      "newWordCount": 54,
+      "reduction": 177,
+      "reductionPercent": 77
+    },
+    {
+      "file": "the-milindapanha.md",
+      "status": "refactored",
+      "oldWordCount": 215,
+      "newWordCount": 62,
+      "reduction": 153,
+      "reductionPercent": 71
+    },
+    {
+      "file": "the-mystery-of-cloomber-doyle-arthur-conan.md",
+      "status": "refactored",
+      "oldWordCount": 244,
+      "newWordCount": 71,
+      "reduction": 173,
+      "reductionPercent": 71
+    },
+    {
+      "file": "the-n-i-akbar-english-translation-abul-fazl-tr-henry-blochmann-tr-h-s-jarrett.md",
+      "status": "refactored",
+      "oldWordCount": 221,
+      "newWordCount": 62,
+      "reduction": 159,
+      "reductionPercent": 72
+    },
+    {
+      "file": "the-natural-history-of-the-mammalia-of-india-and-ceylon-r-a-sterndale.md",
+      "status": "refactored",
+      "oldWordCount": 247,
+      "newWordCount": 2,
+      "reduction": 245,
+      "reductionPercent": 99
+    },
+    {
+      "file": "the-ocean-of-story-being-ch-tawneys-translation-of-somadevas-katha-sarit-sagara-somadeva-bhatta.md",
+      "status": "refactored",
+      "oldWordCount": 162,
+      "newWordCount": 32,
+      "reduction": 130,
+      "reductionPercent": 80
+    },
+    {
+      "file": "the-old-east-indiamen-chatterton-e-keble-edward-keble.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 230
+    },
+    {
+      "file": "the-panchasiddhantika-varahamihira.md",
+      "status": "refactored",
+      "oldWordCount": 200,
+      "newWordCount": 51,
+      "reduction": 149,
+      "reductionPercent": 75
+    },
+    {
+      "file": "the-panjab-north-west-frontier-province-and-kashmir-douie-james-mccrone-sir.md",
+      "status": "refactored",
+      "oldWordCount": 242,
+      "newWordCount": 79,
+      "reduction": 163,
+      "reductionPercent": 67
+    },
+    {
+      "file": "the-peoples-of-india-anderson-j-d-james-drummond.md",
+      "status": "refactored",
+      "oldWordCount": 227,
+      "newWordCount": 55,
+      "reduction": 172,
+      "reductionPercent": 76
+    },
+    {
+      "file": "the-pirates-of-malabar-and-an-englishwoman-in-india-two-hundred-years-ago-biddulph-j-john.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 232
+    },
+    {
+      "file": "the-poison-tree-a-tale-of-hindu-life-in-bengal-cattopadhyaya-bankimacandra.md",
+      "status": "refactored",
+      "oldWordCount": 250,
+      "newWordCount": 63,
+      "reduction": 187,
+      "reductionPercent": 75
+    },
+    {
+      "file": "the-poison-tree-bankim-chandra.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 237
+    },
+    {
+      "file": "the-popular-religion-and-folk-lore-of-northern-india-crooke-william.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 86,
+      "reduction": 139,
+      "reductionPercent": 62
+    },
+    {
+      "file": "the-popular-religion-and-folk-lore-of-northern-india-crooke.md",
+      "status": "refactored",
+      "oldWordCount": 235,
+      "newWordCount": 63,
+      "reduction": 172,
+      "reductionPercent": 73
+    },
+    {
+      "file": "the-portuguese-in-india-frederic-charles-danvers.md",
+      "status": "refactored",
+      "oldWordCount": 232,
+      "newWordCount": 64,
+      "reduction": 168,
+      "reductionPercent": 72
+    },
+    {
+      "file": "the-post-office-tagore-rabindranath.md",
+      "status": "refactored",
+      "oldWordCount": 362,
+      "newWordCount": 68,
+      "reduction": 294,
+      "reductionPercent": 81
+    },
+    {
+      "file": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte-vaman-shivaram-1858-1892.md",
+      "status": "refactored",
+      "oldWordCount": 228,
+      "newWordCount": 51,
+      "reduction": 177,
+      "reductionPercent": 78
+    },
+    {
+      "file": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 215
+    },
+    {
+      "file": "the-practical-sanskrit-english-dictionary-vaman-shivram-apte.md",
+      "status": "refactored",
+      "oldWordCount": 109,
+      "newWordCount": 56,
+      "reduction": 53,
+      "reductionPercent": 49
+    },
+    {
+      "file": "the-raghuvamsa-of-kalidasa-kale.md",
+      "status": "refactored",
+      "oldWordCount": 205,
+      "newWordCount": 57,
+      "reduction": 148,
+      "reductionPercent": 72
+    },
+    {
+      "file": "the-raghuvamsa-of-kalidasa-with-the-commentary-the-samjivani-of-mallinatha-kalidasa.md",
+      "status": "refactored",
+      "oldWordCount": 217,
+      "newWordCount": 65,
+      "reduction": 152,
+      "reductionPercent": 70
+    },
+    {
+      "file": "the-red-year-a-story-of-the-indian-mutiny-tracy-louis.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 250
+    },
+    {
+      "file": "the-religions-of-india-edward-washburn-hopkins.md",
+      "status": "refactored",
+      "oldWordCount": 223,
+      "newWordCount": 47,
+      "reduction": 176,
+      "reductionPercent": 79
+    },
+    {
+      "file": "the-rmyan-of-vlmki-griffith-verse-trans-r-t-h-griffith-translator.md",
+      "status": "refactored",
+      "oldWordCount": 233,
+      "newWordCount": 63,
+      "reduction": 170,
+      "reductionPercent": 73
+    },
+    {
+      "file": "the-rámáyan-of-válmíki-translated-into-english-verse-valmiki.md",
+      "status": "refactored",
+      "oldWordCount": 241,
+      "newWordCount": 65,
+      "reduction": 176,
+      "reductionPercent": 73
+    },
+    {
+      "file": "the-rāmāyana-valmiki.md",
+      "status": "refactored",
+      "oldWordCount": 201,
+      "newWordCount": 81,
+      "reduction": 120,
+      "reductionPercent": 60
+    },
+    {
+      "file": "the-sacred-books-of-the-east-described-and-examined-hindu-series-unknown.md",
+      "status": "refactored",
+      "oldWordCount": 227,
+      "newWordCount": 62,
+      "reduction": 165,
+      "reductionPercent": 73
+    },
+    {
+      "file": "the-samkhya-philosophy-containing-samkhya-pravachana-sutram-nandalal-sinha.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 223
+    },
+    {
+      "file": "the-sanskrit-buddhist-literature-of-nepal-mitra.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 249
+    },
+    {
+      "file": "the-sepoy-candler-edmund.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 225
+    },
+    {
+      "file": "the-silappadikaram-v-r-ramachandra-dikshitar.md",
+      "status": "refactored",
+      "oldWordCount": 228,
+      "newWordCount": 76,
+      "reduction": 152,
+      "reductionPercent": 67
+    },
+    {
+      "file": "the-song-celestial-or-bhagavad-gîtâ-from-the-mahâbhârata-being-a-discourse-between-arjuna-prince-of.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 183
+    },
+    {
+      "file": "the-story-of-madras-barlow-glyn.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 307
+    },
+    {
+      "file": "the-story-of-the-gadsbys-kipling-rudyard.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 282
+    },
+    {
+      "file": "the-tale-of-the-great-mutiny-fitchett-w-h-william-henry.md",
+      "status": "refactored",
+      "oldWordCount": 674,
+      "newWordCount": 2,
+      "reduction": 672,
+      "reductionPercent": 100
+    },
+    {
+      "file": "the-tiger-of-mysore-a-story-of-the-war-with-tippoo-saib-henty-g-a-george-alfred.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 287
+    },
+    {
+      "file": "the-travels-of-ibn-battuta.md",
+      "status": "refactored",
+      "oldWordCount": 217,
+      "newWordCount": 66,
+      "reduction": 151,
+      "reductionPercent": 70
+    },
+    {
+      "file": "the-travels-of-marco-polo-india-sections.md",
+      "status": "refactored",
+      "oldWordCount": 254,
+      "newWordCount": 71,
+      "reduction": 183,
+      "reductionPercent": 72
+    },
+    {
+      "file": "the-tribes-and-castes-of-bengal-anthropometric-data-ethnographic-glossary-h-h-risley.md",
+      "status": "refactored",
+      "oldWordCount": 228,
+      "newWordCount": 2,
+      "reduction": 226,
+      "reductionPercent": 99
+    },
+    {
+      "file": "the-tribes-and-castes-of-the-central-provinces-of-india-russell-r-v-robert-vane.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 43,
+      "reduction": 186,
+      "reductionPercent": 81
+    },
+    {
+      "file": "the-tribes-and-castes-of-the-north-western-provinces-and-oudh-volume-1-of-4-crooke-william.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 216
+    },
+    {
+      "file": "the-trident-the-crescent-and-the-cross-vaughan.md",
+      "status": "refactored",
+      "oldWordCount": 233,
+      "newWordCount": 37,
+      "reduction": 196,
+      "reductionPercent": 84
+    },
+    {
+      "file": "the-tuzuk-i-jahangiri-or-memoirs-of-jahangir-jahangir-emperor-of-hindustan.md",
+      "status": "refactored",
+      "oldWordCount": 221,
+      "newWordCount": 66,
+      "reduction": 155,
+      "reductionPercent": 70
+    },
+    {
+      "file": "the-university-of-nalanda-sankalia.md",
+      "status": "refactored",
+      "oldWordCount": 239,
+      "newWordCount": 35,
+      "reduction": 204,
+      "reductionPercent": 85
+    },
+    {
+      "file": "the-vaisesika-sutras-of-kanada-translated-by-nandalal-sinha-kanada.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 217
+    },
+    {
+      "file": "the-vedanta-sutras-thibaut.md",
+      "status": "refactored",
+      "oldWordCount": 193,
+      "newWordCount": 54,
+      "reduction": 139,
+      "reductionPercent": 72
+    },
+    {
+      "file": "the-vishnu-purana-wilson.md",
+      "status": "refactored",
+      "oldWordCount": 222,
+      "newWordCount": 30,
+      "reduction": 192,
+      "reductionPercent": 86
+    },
+    {
+      "file": "the-wheel-of-fortune-gandhi-mahatma.md",
+      "status": "refactored",
+      "oldWordCount": 210,
+      "newWordCount": 85,
+      "reduction": 125,
+      "reductionPercent": 60
+    },
+    {
+      "file": "the-yoga-sutras-of-patanjali-johnston.md",
+      "status": "refactored",
+      "oldWordCount": 226,
+      "newWordCount": 56,
+      "reduction": 170,
+      "reductionPercent": 75
+    },
+    {
+      "file": "things-indian-william-crooke.md",
+      "status": "refactored",
+      "oldWordCount": 244,
+      "newWordCount": 54,
+      "reduction": 190,
+      "reductionPercent": 78
+    },
+    {
+      "file": "third-class-in-indian-railways-m-k-gandhi.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 237
+    },
+    {
+      "file": "thirteen-plays-bhasa.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 131
+    },
+    {
+      "file": "thirteen-principal-upanishads-robert-ernest-hume.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 57,
+      "reduction": 168,
+      "reductionPercent": 75
+    },
+    {
+      "file": "thirty-minor-upanishads-narayanasvami-aiyar.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 228
+    },
+    {
+      "file": "thirukkural-thiruvalluvar.md",
+      "status": "refactored",
+      "oldWordCount": 150,
+      "newWordCount": 68,
+      "reduction": 82,
+      "reductionPercent": 55
+    },
+    {
+      "file": "thirukkural-tiruvalluvar-tr-gu-pope-1886.md",
+      "status": "refactored",
+      "oldWordCount": 229,
+      "newWordCount": 69,
+      "reduction": 160,
+      "reductionPercent": 70
+    },
+    {
+      "file": "three-frenchmen-in-bengal-the-commercial-ruin-of-the-french-settlements-in-1757-hill-samuel-charles.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 308
+    },
+    {
+      "file": "through-the-sikh-war-a-tale-of-the-conquest-of-the-punjaub-henty-g-a-george-alfred.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 291
+    },
+    {
+      "file": "tibetan-tales-derived-from-indian-sources-unknown.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 312
+    },
+    {
+      "file": "tikapatthana-abhidhamma-pitaka.md",
+      "status": "refactored",
+      "oldWordCount": 218,
+      "newWordCount": 53,
+      "reduction": 165,
+      "reductionPercent": 76
+    },
+    {
+      "file": "tirumantiram-tirumular.md",
+      "status": "refactored",
+      "oldWordCount": 149,
+      "newWordCount": 73,
+      "reduction": 76,
+      "reductionPercent": 51
+    },
+    {
+      "file": "tiruppavai-nachiyar-tirumozhi-andal.md",
+      "status": "refactored",
+      "oldWordCount": 186,
+      "newWordCount": 78,
+      "reduction": 108,
+      "reductionPercent": 58
+    },
+    {
+      "file": "tiruvaimozhi-nammalvar.md",
+      "status": "refactored",
+      "oldWordCount": 187,
+      "newWordCount": 54,
+      "reduction": 133,
+      "reductionPercent": 71
+    },
+    {
+      "file": "tolkappiyam-tamil-grammar.md",
+      "status": "refactored",
+      "oldWordCount": 130,
+      "newWordCount": 69,
+      "reduction": 61,
+      "reductionPercent": 47
+    },
+    {
+      "file": "translations-of-shakuntala-and-other-works-kalidasa.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 245
+    },
+    {
+      "file": "travels-in-india-jeanbaptiste-tavernier-tr-v-ball.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 225
+    },
+    {
+      "file": "travels-in-the-mogul-empire-ad-1656-1668-francois-bernier.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 234
+    },
+    {
+      "file": "travels-into-bokhara-burnes-alexander.md",
+      "status": "refactored",
+      "oldWordCount": 230,
+      "newWordCount": 65,
+      "reduction": 165,
+      "reductionPercent": 72
+    },
+    {
+      "file": "tribes-castes-of-bengal-hh-risley-1891.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 221
+    },
+    {
+      "file": "tripura-rahasya-gopi-nath-kaviraja.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 230
+    },
+    {
+      "file": "tulu-english-and-english-tulu-dictionary-a-maenner.md",
+      "status": "refactored",
+      "oldWordCount": 240,
+      "newWordCount": 34,
+      "reduction": 206,
+      "reductionPercent": 86
+    },
+    {
+      "file": "tuzuk-i-jahangiri-memoirs-of-jahangir-alexander-rogers-henry-beveridge.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 222
+    },
+    {
+      "file": "twelve-years-of-a-soldiers-life-in-india-being-extracts-from-the-letters-of-the-late-major-w-s-r.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 298
+    },
+    {
+      "file": "twenty-two-goblins-translated-from-the-sanskrit-unknown.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 242
+    },
+    {
+      "file": "two-old-faiths-b-essays-on-the-religions-of-the-hindus-and-the-mohammedans-mitchell-j-murray-john.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 295
+    },
+    {
+      "file": "uhrilauluja-tagore-rabindranath.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 302
+    },
+    {
+      "file": "upanishads-sri-sankara-commentary-isa-kena-mundaka-sitarama-sastri.md",
+      "status": "refactored",
+      "oldWordCount": 108,
+      "newWordCount": 30,
+      "reduction": 78,
+      "reductionPercent": 72
+    },
+    {
+      "file": "uttara-rama-charita-bhavabhuti-belvalkar.md",
+      "status": "skipped",
+      "reason": "already_concise",
+      "wordCount": 98
+    },
+    {
+      "file": "uttara-rama-charita-bhavabhuti.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 155
+    },
+    {
+      "file": "vaisheshika-sutras-kanada.md",
+      "status": "refactored",
+      "oldWordCount": 145,
+      "newWordCount": 78,
+      "reduction": 67,
+      "reductionPercent": 46
+    },
+    {
+      "file": "varahamihira-horasastram-aiyangar.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 226
+    },
+    {
+      "file": "vedanta-philosophy-swami-abhedananda.md",
+      "status": "refactored",
+      "oldWordCount": 243,
+      "newWordCount": 79,
+      "reduction": 164,
+      "reductionPercent": 67
+    },
+    {
+      "file": "vedantasara-sadananda-yogindra.md",
+      "status": "refactored",
+      "oldWordCount": 240,
+      "newWordCount": 61,
+      "reduction": 179,
+      "reductionPercent": 75
+    },
+    {
+      "file": "vedic-grammar-arthur-anthony-macdonell.md",
+      "status": "refactored",
+      "oldWordCount": 315,
+      "newWordCount": 41,
+      "reduction": 274,
+      "reductionPercent": 87
+    },
+    {
+      "file": "vedic-mythology-macdonell.md",
+      "status": "refactored",
+      "oldWordCount": 225,
+      "newWordCount": 73,
+      "reduction": 152,
+      "reductionPercent": 68
+    },
+    {
+      "file": "velugoti-vari-vamsavali-telugu.md",
+      "status": "refactored",
+      "oldWordCount": 241,
+      "newWordCount": 44,
+      "reduction": 197,
+      "reductionPercent": 82
+    },
+    {
+      "file": "venisamhara-bhatta-narayana.md",
+      "status": "refactored",
+      "oldWordCount": 205,
+      "newWordCount": 51,
+      "reduction": 154,
+      "reductionPercent": 75
+    },
+    {
+      "file": "verses-1889-1896-kipling-rudyard.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 259
+    },
+    {
+      "file": "vidyapati-songs-maithili.md",
+      "status": "refactored",
+      "oldWordCount": 126,
+      "newWordCount": 65,
+      "reduction": 61,
+      "reductionPercent": 48
+    },
+    {
+      "file": "vijnana-bhairava-tantra.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 146
+    },
+    {
+      "file": "vikram-and-the-vampire-burton.md",
+      "status": "refactored",
+      "oldWordCount": 231,
+      "newWordCount": 68,
+      "reduction": 163,
+      "reductionPercent": 71
+    },
+    {
+      "file": "vikram-and-the-vampire-classic-hindu-tales-of-adventure-magic-and-romance-burton-richard-francis-sir.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 247
+    },
+    {
+      "file": "vikramorvasiyam-kalidasa-1879-pandit-ed.md",
+      "status": "refactored",
+      "oldWordCount": 214,
+      "newWordCount": 60,
+      "reduction": 154,
+      "reductionPercent": 72
+    },
+    {
+      "file": "village-gods-south-india-henry-whitehead.md",
+      "status": "refactored",
+      "oldWordCount": 243,
+      "newWordCount": 78,
+      "reduction": 165,
+      "reductionPercent": 68
+    },
+    {
+      "file": "vishnu-purana-wilson.md",
+      "status": "refactored",
+      "oldWordCount": 193,
+      "newWordCount": 53,
+      "reduction": 140,
+      "reductionPercent": 73
+    },
+    {
+      "file": "vishnudharmottara-part3-kramrisch.md",
+      "status": "refactored",
+      "oldWordCount": 238,
+      "newWordCount": 69,
+      "reduction": 169,
+      "reductionPercent": 71
+    },
+    {
+      "file": "vivekachudamani-shankaracharya.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 141
+    },
+    {
+      "file": "wahrhaftige-ausfuhrliche-beschreibung-ostindischen-kusten-philippus-baldaeus.md",
+      "status": "refactored",
+      "oldWordCount": 234,
+      "newWordCount": 69,
+      "reduction": 165,
+      "reductionPercent": 71
+    },
+    {
+      "file": "warren-hastings-in-bengal-mary-evelyn-jones.md",
+      "status": "refactored",
+      "oldWordCount": 235,
+      "newWordCount": 74,
+      "reduction": 161,
+      "reductionPercent": 69
+    },
+    {
+      "file": "with-clive-in-india-or-the-beginnings-of-an-empire-g-a-henty.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 257
+    },
+    {
+      "file": "women-in-ancient-india-clarisse-bader.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 214
+    },
+    {
+      "file": "works-of-sir-william-jones-volume-1.md",
+      "status": "refactored",
+      "oldWordCount": 233,
+      "newWordCount": 59,
+      "reduction": 174,
+      "reductionPercent": 75
+    },
+    {
+      "file": "yajnavalkya-smriti-with-mitaksara-commentary.md",
+      "status": "refactored",
+      "oldWordCount": 208,
+      "newWordCount": 62,
+      "reduction": 146,
+      "reductionPercent": 70
+    },
+    {
+      "file": "yasastilaka-somadeva-suri.md",
+      "status": "refactored",
+      "oldWordCount": 134,
+      "newWordCount": 63,
+      "reduction": 71,
+      "reductionPercent": 53
+    },
+    {
+      "file": "yashvantrai-mahakavya-marathi-khare.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 214
+    },
+    {
+      "file": "yoga-sastra-the-yoga-sutras-of-patenjali-examined-with-a-notice-of-swami-vivekanandas-yoga-philosophy-patañjali-christian-literature-society-for-india-murdoch.md",
+      "status": "refactored",
+      "oldWordCount": 130,
+      "newWordCount": 53,
+      "reduction": 77,
+      "reductionPercent": 59
+    },
+    {
+      "file": "yoga-system-of-patanjali-woods-translation.md",
+      "status": "refactored",
+      "oldWordCount": 244,
+      "newWordCount": 59,
+      "reduction": 185,
+      "reductionPercent": 76
+    },
+    {
+      "file": "yoga-vasistha-valmiki.md",
+      "status": "refactored",
+      "oldWordCount": 213,
+      "newWordCount": 53,
+      "reduction": 160,
+      "reductionPercent": 75
+    },
+    {
+      "file": "अषटधयय-1897-पणन.md",
+      "status": "skipped",
+      "reason": "already_has_context",
+      "wordCount": 220
+    },
+    {
+      "file": "తలగ-ఇగలష-నఘటవ-telugu-english-dictionary-ప-శకరనరయణ.md",
+      "status": "refactored",
+      "oldWordCount": 231,
+      "newWordCount": 46,
+      "reduction": 185,
+      "reductionPercent": 80
+    }
+  ]
+}

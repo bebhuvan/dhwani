@@ -1,39 +1,48 @@
 ---
-title: 'Personal and Geographical Names in the Gupta Inscriptions'
+title: Personal and Geographical Names in the Gupta Inscriptions
 author:
-- Tej Ram Sharma
+  - Tej Ram Sharma
 year: 1978
 language:
-- English
-- Sanskrit
+  - English
+  - Sanskrit
 genre:
-- Epigraphy
-- Linguistics
-- History
-description: |
-  Tej Ram Sharma's comprehensive onomastic study provides a rigorous examination of personal and geographical nomenclature derived from Gupta period inscriptions (c. 320-550 CE), a critical epoch in classical Indian history marked by significant cultural, political, and linguistic developments. This scholarly monograph meticulously analyzes hundreds of epigraphic sources, systematically documenting naming conventions across social strata, religious affiliations, and geographical domains of the expansive Gupta imperial network. By methodically categorizing theophoric elements, patronymic structures, and regional appellations, Sharma illuminates complex social hierarchies, religious practices, and linguistic transformations characteristic of this foundational period in Indian cultural history.
-  
-  The work demonstrates remarkable scholarly precision in decoding the intricate naming practices that reflect deeper sociocultural dynamics. Inscriptional names reveal nuanced insights into Sanskrit linguistic evolution, religious syncretism, and administrative structures during a period widely recognized as the classical renaissance of Indian civilization. Sharma's methodology integrates linguistic analysis, historical contextualization, and epigraphic interpretation, offering scholars unprecedented access to granular details of social organization, religious devotion, and imperial administrative mechanisms.
-  
-  Beyond its linguistic significance, the study provides crucial evidence for understanding social mobility, regional interactions, and cultural transmission during the Gupta era. By meticulously documenting name formations across brahmanical, Buddhist, and emerging regional traditions, the work bridges textual and material evidence, making an essential contribution to understanding the complex tapestry of early medieval Indian society and its sophisticated systems of cultural and linguistic expression.
+  - Epigraphy
+  - Linguistics
+  - History
+description: >-
+  Tej Ram Sharma's comprehensive onomastic study provides a rigorous examination
+  of personal and geographical nomenclature derived from Gupta period
+  inscriptions (c. 320-550 CE), a critical epoch in classical Indian history
+  marked by significant cultural, political, and linguistic developments.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/personalgeograph00sharuoft
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/personalgeograph00sharuoft'
+    type: other
 references:
-- name: 'Wikipedia: Gupta Empire'
-  url: https://en.wikipedia.org/wiki/Gupta_Empire
-  type: wikipedia
-- name: 'Wikipedia: Indian inscriptions'
-  url: https://en.wikipedia.org/wiki/Indian_inscriptions
-  type: wikipedia
-- name: 'Open Library'
-  url: https://openlibrary.org/search?q=Personal+Geographical+Names+Gupta+Inscriptions+Sharma&mode=everything
-  type: other
+  - name: 'Wikipedia: Gupta Empire'
+    url: 'https://en.wikipedia.org/wiki/Gupta_Empire'
+    type: wikipedia
+  - name: 'Wikipedia: Indian inscriptions'
+    url: 'https://en.wikipedia.org/wiki/Indian_inscriptions'
+    type: wikipedia
+  - name: Open Library
+    url: >-
+      https://openlibrary.org/search?q=Personal+Geographical+Names+Gupta+Inscriptions+Sharma&mode=everything
+    type: other
 featured: true
-publishDate: 2025-10-21
+publishDate: 2025-10-21T00:00:00.000Z
+---
+## Historical Context
+
+Tej Ram Sharma's comprehensive onomastic study provides a rigorous examination of personal and geographical nomenclature derived from Gupta period inscriptions (c. 320-550 CE), a critical epoch in classical Indian history marked by significant cultural, political, and linguistic developments. This scholarly monograph meticulously analyzes hundreds of epigraphic sources, systematically documenting naming conventions across social strata, religious affiliations, and geographical domains of the expansive Gupta imperial network. By methodically categorizing theophoric elements, patronymic structures, and regional appellations, Sharma illuminates complex social hierarchies, religious practices, and linguistic transformations characteristic of this foundational period in Indian cultural history.
+
+The work demonstrates remarkable scholarly precision in decoding the intricate naming practices that reflect deeper sociocultural dynamics. Inscriptional names reveal nuanced insights into Sanskrit linguistic evolution, religious syncretism, and administrative structures during a period widely recognized as the classical renaissance of Indian civilization. Sharma's methodology integrates linguistic analysis, historical contextualization, and epigraphic interpretation, offering scholars unprecedented access to granular details of social organization, religious devotion, and imperial administrative mechanisms.
+
+Beyond its linguistic significance, the study provides crucial evidence for understanding social mobility, regional interactions, and cultural transmission during the Gupta era. By meticulously documenting name formations across brahmanical, Buddhist, and emerging regional traditions, the work bridges textual and material evidence, making an essential contribution to understanding the complex tapestry of early medieval Indian society and its sophisticated systems of cultural and linguistic expression.
+
 ---
 
 # Personal and Geographical Names in the Gupta Inscriptions

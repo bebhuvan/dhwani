@@ -1,30 +1,43 @@
 ---
-title: 'Bhartiya Shasan And Rajniti'
+title: Bhartiya Shasan And Rajniti
 author:
-- Jain Pukhraj
+  - Jain Pukhraj
 year: 1990
 language:
-- Hindi
+  - Hindi
 genre:
-- Political Science
-- Constitutional Studies
-description: |
-  Jain Pukhraj's "Bhartiya Shasan And Rajniti" emerges as a comprehensive scholarly examination of India's governmental and political structures during the critical post-independence period, offering a nuanced exploration of the nation's constitutional framework and political evolution. Published in 1990 by Sahitya Bhawan in Agra, this 858-page treatise represents a significant contribution to Hindi-language political science scholarship, providing an extensive systematic analysis of India's governance mechanisms in the decades following the country's independence in 1947. The work comprehensively addresses constitutional structures, institutional mechanisms, federal and state-level political processes, and the complex dynamics of India's democratic experiment. Pukhraj's text meticulously examines the constitutional foundations established by the Constitutional Assembly, detailing the intricate balance between parliamentary democracy, federal principles, and the multicultural complexities of the Indian polity. By presenting a detailed exploration of political institutions, electoral systems, administrative machinery, and the evolution of governance practices, the work serves as a critical pedagogical resource for university students and scholars seeking to understand the intricate political landscape of modern India. The text is particularly valuable for its indigenous perspective, offering insights into governmental processes through a distinctly Indian analytical lens, which distinguishes it from colonial-era political narratives. Its comprehensive coverage spans constitutional development, political representation, administrative structures, and the challenges of governance in a diverse, rapidly transforming national context, making it an essential reference for understanding the institutional and political foundations of contemporary Indian democracy.
+  - Political Science
+  - Constitutional Studies
+description: >-
+  Jain Pukhraj's "Bhartiya Shasan And Rajniti" emerges as a comprehensive
+  scholarly examination of India's governmental and political structures during
+  the critical post-independence period, offering a nuanced exploration of the
+  nation's constitutional framework and political evolution. Published in 1990
+  by Sahitya Bhawan in Agra, this 858-page treatise represents a significant
+  contribution to Hindi-language political science scholarship, providing an
+  extensive systematic analysis of India's governance mechanisms in the decades
+  following the country's independence in 1947.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.ernet.dli.2015.545189
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/in.ernet.dli.2015.545189'
+    type: other
 references:
-- name: 'Sahitya Bhawan Publications'
-  url: https://sahityabhawanpublications.com/
-  type: other
-- name: 'Open Library: Bhartiya Shasan And Rajniti'
-  url: https://openlibrary.org/search?q=Bhartiya+Shasan+And+Rajniti+year+1990+Jain+Pukhraj
-  type: other
+  - name: Sahitya Bhawan Publications
+    url: 'https://sahityabhawanpublications.com/'
+    type: other
+  - name: 'Open Library: Bhartiya Shasan And Rajniti'
+    url: >-
+      https://openlibrary.org/search?q=Bhartiya+Shasan+And+Rajniti+year+1990+Jain+Pukhraj
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+Jain Pukhraj's "Bhartiya Shasan And Rajniti" emerges as a comprehensive scholarly examination of India's governmental and political structures during the critical post-independence period, offering a nuanced exploration of the nation's constitutional framework and political evolution. Published in 1990 by Sahitya Bhawan in Agra, this 858-page treatise represents a significant contribution to Hindi-language political science scholarship, providing an extensive systematic analysis of India's governance mechanisms in the decades following the country's independence in 1947. The work comprehensively addresses constitutional structures, institutional mechanisms, federal and state-level political processes, and the complex dynamics of India's democratic experiment. Pukhraj's text meticulously examines the constitutional foundations established by the Constitutional Assembly, detailing the intricate balance between parliamentary democracy, federal principles, and the multicultural complexities of the Indian polity. By presenting a detailed exploration of political institutions, electoral systems, administrative machinery, and the evolution of governance practices, the work serves as a critical pedagogical resource for university students and scholars seeking to understand the intricate political landscape of modern India. The text is particularly valuable for its indigenous perspective, offering insights into governmental processes through a distinctly Indian analytical lens, which distinguishes it from colonial-era political narratives. Its comprehensive coverage spans constitutional development, political representation, administrative structures, and the challenges of governance in a diverse, rapidly transforming national context, making it an essential reference for understanding the institutional and political foundations of contemporary Indian democracy.
+
 ---
 
 # Bhartiya Shasan And Rajniti

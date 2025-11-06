@@ -1,31 +1,43 @@
 ---
-title: 'Descriptive Ethnology of Bengal'
+title: Descriptive Ethnology of Bengal
 author:
-- Edward Tuite Dalton
+  - Edward Tuite Dalton
 year: 1872
 language:
-- English
+  - English
 genre:
-- Ethnography
-- Colonial Science
-description: |
-  Edward Tuite Dalton's "Descriptive Ethnology of Bengal" represents a critical scholarly intervention in late 19th-century colonial ethnographic documentation, capturing the complex anthropological landscape of Bengal during a transformative historical moment. Published in 1872, the work emerged during a period of intense imperial knowledge production, when British colonial administrators systematically catalogued and interpreted Indigenous populations as part of broader governance strategies. Dalton, a military officer and colonial administrator with extensive field experience in Bengal, conducted comprehensive research documenting tribal and caste communities through meticulous anthropometric measurements, cultural analysis, and detailed sociological observations. The work provides unprecedented insights into the social structures, customary practices, linguistic diversities, and material cultures of Bengal's numerous ethnic groups, including Santhal, Munda, Oraon, and other marginalized communities often overlooked in contemporary colonial narratives. While inherently embedded within problematic colonial epistemological frameworks that emphasized racial classification and hierarchical understanding, Dalton's text simultaneously preserves crucial ethnographic data that would have otherwise been lost to historical documentation. The work's significance extends beyond its colonial origins, serving as an invaluable archival resource for contemporary scholars of Indian anthropology, social history, and cultural studies. By systematically recording intricate details of community organization, religious practices, economic systems, and interpersonal relationships, Dalton's ethnology offers a nuanced, if culturally mediated, window into the complex social fabric of 19th-century Bengal, making it an essential reference for understanding the region's rich cultural heritage and transformative historical transitions.
+  - Ethnography
+  - Colonial Science
+description: >-
+  Edward Tuite Dalton's "Descriptive Ethnology of Bengal" represents a critical
+  scholarly intervention in late 19th-century colonial ethnographic
+  documentation, capturing the complex anthropological landscape of Bengal
+  during a transformative historical moment. Published in 1872, the work emerged
+  during a period of intense imperial knowledge production, when British
+  colonial administrators systematically catalogued and interpreted Indigenous
+  populations as part of broader governance strategies.
 collections:
-- regional-voices
-- ethnography
+  - regional-voices
+  - ethnography
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/descriptiveethno00daltuoft
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/descriptiveethno00daltuoft'
+    type: other
 references:
-- name: 'Wikipedia: Edward Tuite Dalton'
-  url: https://en.wikipedia.org/wiki/Edward_Tuite_Dalton
-  type: wikipedia
-- name: 'Open Library: Descriptive Ethnology of Bengal year'
-  url: https://openlibrary.org/search?q=Descriptive+Ethnology+of+Bengal+year+1872+Edward+Tuite+Dalton
-  type: other
+  - name: 'Wikipedia: Edward Tuite Dalton'
+    url: 'https://en.wikipedia.org/wiki/Edward_Tuite_Dalton'
+    type: wikipedia
+  - name: 'Open Library: Descriptive Ethnology of Bengal year'
+    url: >-
+      https://openlibrary.org/search?q=Descriptive+Ethnology+of+Bengal+year+1872+Edward+Tuite+Dalton
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+Edward Tuite Dalton's "Descriptive Ethnology of Bengal" represents a critical scholarly intervention in late 19th-century colonial ethnographic documentation, capturing the complex anthropological landscape of Bengal during a transformative historical moment. Published in 1872, the work emerged during a period of intense imperial knowledge production, when British colonial administrators systematically catalogued and interpreted Indigenous populations as part of broader governance strategies. Dalton, a military officer and colonial administrator with extensive field experience in Bengal, conducted comprehensive research documenting tribal and caste communities through meticulous anthropometric measurements, cultural analysis, and detailed sociological observations. The work provides unprecedented insights into the social structures, customary practices, linguistic diversities, and material cultures of Bengal's numerous ethnic groups, including Santhal, Munda, Oraon, and other marginalized communities often overlooked in contemporary colonial narratives. While inherently embedded within problematic colonial epistemological frameworks that emphasized racial classification and hierarchical understanding, Dalton's text simultaneously preserves crucial ethnographic data that would have otherwise been lost to historical documentation. The work's significance extends beyond its colonial origins, serving as an invaluable archival resource for contemporary scholars of Indian anthropology, social history, and cultural studies. By systematically recording intricate details of community organization, religious practices, economic systems, and interpersonal relationships, Dalton's ethnology offers a nuanced, if culturally mediated, window into the complex social fabric of 19th-century Bengal, making it an essential reference for understanding the region's rich cultural heritage and transformative historical transitions.
+
 ---
 
 ## Colonial Ethnographer and Professional Context

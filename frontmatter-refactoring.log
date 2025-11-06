@@ -1,0 +1,933 @@
+
+=== FRONTMATTER REFACTORING ===
+
+Mode: LIVE (will modify files)
+
+✓ [5/698] a-comparative-grammar-of-the-dravidian-or-south-indian-family-of-languages-robert-caldwell.md
+  228 → 59 words (-74%)
+✓ [6/698] a-comparative-grammar-of-the-sanskrit-zend-greek-latin-lithuanian-gothic-german-and-slavonic-languages-bopp.md
+  231 → 59 words (-74%)
+✓ [7/698] a-compendium-of-the-comparative-grammar-of-the-indo-european-sanskrit-greek-and-latin-languages-schleicher.md
+  227 → 59 words (-74%)
+✓ [10/698] a-digest-of-the-hindu-law-of-inheritance-partition-and-adoption-embodying-the-replies-of-the-sstris-with-introductions-and-notes-1832-1912-sir-raymond-west.md
+  237 → 64 words (-73%)
+✓ [11/698] a-fascinating-traitor-an-anglo-indian-story-savage-richard.md
+  251 → 59 words (-76%)
+✓ [12/698] a-forgotten-empire-vijayanagar-a-contribution-to-the-history-of-india-1845-1925-robert-sewell.md
+  236 → 65 words (-72%)
+✓ [13/698] a-glossary-of-judicial-and-revenue-terms-h-h-wilson.md
+  238 → 72 words (-70%)
+✓ [14/698] a-grammar-of-the-bengal-language-nathaniel-brassey-halhed.md
+  249 → 56 words (-78%)
+✓ [15/698] a-grammar-of-the-hindustani-language-john-shakespear.md
+  252 → 51 words (-80%)
+✓ [16/698] a-guide-to-nalanda-ghosh.md
+  232 → 30 words (-87%)
+✓ [17/698] a-handbook-of-some-south-indian-grasses-k-rangachari-c-tadulinga-mudaliyar.md
+  244 → 37 words (-85%)
+✓ [22/698] a-history-of-indian-philosophy-volume-1-dasgupta-surendranath.md
+  219 → 48 words (-78%)
+✓ [23/698] a-history-of-sanskrit-literature-macdonell.md
+  225 → 80 words (-64%)
+✓ [24/698] a-history-of-the-mahrattas-3-vols-james-grant-duff.md
+  240 → 60 words (-75%)
+✓ [25/698] a-history-of-the-maratha-people-voli-c-a-kincaid.md
+  237 → 42 words (-82%)
+✓ [29/698] a-prose-english-translation-of-vishnupuranam-based-on-professor-h-h-wilsons-translation-unknown.md
+  231 → 66 words (-71%)
+✓ [30/698] a-record-of-buddhistic-kingdoms-faxian-james-legge.md
+  247 → 66 words (-73%)
+✓ [31/698] a-sanskrit-english-dictionary-being-a-practical-handbook-with-transliteration-accentuation-and-etymological-analysis-throughout-macdonell.md
+  225 → 33 words (-85%)
+✓ [32/698] a-sanskrit-grammar-for-beginners-macdonell.md
+  225 → 60 words (-73%)
+✓ [36/698] a-sanskritenglish-dictionary-enlarged-ed-monier-monier-williams.md
+  231 → 60 words (-74%)
+✓ [38/698] a-soldiers-experience-or-a-voice-from-the-ranks-showing-the-cost-of-war-in-blood-and-treasure-a.md
+  237 → 40 words (-83%)
+✓ [39/698] a-study-of-the-bhagavata-purana-sinha.md
+  234 → 62 words (-74%)
+✓ [40/698] a-study-of-the-textile-art-in-its-relation-to-the-development-of-form-and-ornament-sixth-annual.md
+  231 → 61 words (-74%)
+✓ [41/698] a-tibetan-english-dictionary-heinrich-august-jaschke.md
+  213 → 65 words (-69%)
+✓ [42/698] a-vedic-reader-for-students-arthur-anthony-macdonell.md
+  238 → 66 words (-72%)
+✓ [43/698] a-voyage-to-new-guinea-and-the-moluccas-thomas-forrest.md
+  251 → 70 words (-72%)
+✓ [46/698] across-india-or-live-boys-in-the-far-east-william-taylor-adams-oliver-optic.md
+  241 → 56 words (-77%)
+✓ [48/698] aitareya-upanishad.md
+  153 → 69 words (-55%)
+✓ [49/698] akbar-an-eastern-romance-limburg-brouwer-p-a-s-van-petrus-abraham-samuel.md
+  216 → 31 words (-86%)
+✓ [50/698] akbar-een-oosterse-roman-limburg-brouwer-p-a-s-van-petrus-abraham-samuel.md
+  226 → 59 words (-74%)
+✓ [51/698] akbar-emperor-of-india-richard-garbe.md
+  241 → 57 words (-76%)
+✓ [52/698] akbar-the-great-mogul-1542-1605-smith.md
+  229 → 75 words (-67%)
+✓ [53/698] akuntal-or-the-lost-ring-klidsa-tr-monier-monier-williams.md
+  233 → 60 words (-74%)
+✓ [55/698] algebra-arithmetic-mensuration-brahmegupta-bhaskara-colebrooke.md
+  215 → 67 words (-69%)
+✓ [56/698] amarakosha-amarasimha-colebrooke-ed.md
+  214 → 53 words (-75%)
+✓ [58/698] among-the-wild-tribes-of-the-afghan-frontier-a-record-of-sixteen-years-close-intercourse-with-the.md
+  255 → 12 words (-95%)
+✓ [63/698] an-historical-disquisition-concerning-the-knowledge-which-the-ancients-had-of-india-william-robertson.md
+  227 → 60 words (-74%)
+✓ [66/698] ancient-ballads-and-legends-of-hindustan-toru-dutt.md
+  229 → 56 words (-76%)
+✓ [70/698] ancient-indian-historical-tradition-f-e-pargiter.md
+  229 → 63 words (-72%)
+✓ [71/698] ancient-indian-weights-edward-thomas.md
+  228 → 61 words (-73%)
+✓ [73/698] angel-a-sketch-in-indian-ink-croker-b-m-bithia-mary.md
+  244 → 58 words (-76%)
+✓ [75/698] annals-and-antiquities-of-rajasthan-tod.md
+  126 → 83 words (-34%)
+✓ [79/698] art-of-india-kramrisch.md
+  238 → 56 words (-76%)
+✓ [80/698] arthashastra-kautilya.md
+  230 → 77 words (-67%)
+✓ [82/698] ashtadhyayi-panini-grammar.md
+  138 → 62 words (-55%)
+✓ [83/698] ashtadhyayi-translated-into-english-by-srisa-chandra-vasu-panini.md
+  110 → 37 words (-66%)
+✓ [84/698] ashtanga-sangraha-athridev-gupta.md
+  228 → 63 words (-72%)
+✓ [85/698] ashtavakra-gita.md
+  815 → 62 words (-92%)
+✓ [86/698] asoka-the-buddhist-emperor-of-india-smith.md
+  227 → 71 words (-69%)
+✓ [90/698] autobiography-of-a-yogi-yogananda-paramahansa.md
+  225 → 67 words (-70%)
+✓ [91/698] baburnama-memoirs-of-babur-zahir-ud-din-muhammad-babur.md
+  231 → 70 words (-70%)
+✓ [92/698] bakhshali-manuscript-ancient-mathematics-rudolf-hoernle.md
+  215 → 60 words (-72%)
+✓ [93/698] beast-and-man-in-india-a-popular-sketch-of-indian-animals-in-their-relations-with-the-people.md
+  239 → 57 words (-76%)
+✓ [94/698] beginnings-of-buddhist-art-and-other-essays-in-indian-and-central-asian-archaeology-foucher.md
+  246 → 55 words (-78%)
+✓ [95/698] bhagavad-gita-christian-literature-society-1899.md
+  225 → 68 words (-70%)
+✓ [96/698] bhagavad-gita-herrens-sång-unknown.md
+  227 → 72 words (-68%)
+✓ [97/698] bhagavadgita-des-erhabenen-sang-schroeder.md
+  217 → 60 words (-72%)
+✓ [98/698] bhagavata-purana-vyasa.md
+  153 → 70 words (-54%)
+✓ [101/698] bhartiya-shasan-and-rajniti-jain-pukhraj.md
+  229 → 73 words (-68%)
+✓ [102/698] bhartrhari-shatakas.md
+  975 → 74 words (-92%)
+✓ [103/698] bibliotheca-indica-volume-96.md
+  235 → 53 words (-77%)
+✓ [105/698] bodhicharyavatara-shantideva.md
+  122 → 78 words (-36%)
+✓ [106/698] brahma-sutras-badarayana.md
+  135 → 71 words (-47%)
+✓ [107/698] brahmanda-purana.md
+  203 → 49 words (-76%)
+✓ [108/698] brhad-devata-attributed-to-saunaka-a-summary-of-the-deities-and-myths-of-the-rig-veda-saunaka.md
+  212 → 60 words (-72%)
+✓ [110/698] brihadaranyaka-upanishad.md
+  134 → 76 words (-43%)
+✓ [111/698] buddhacharita-ashvaghosa.md
+  152 → 61 words (-60%)
+✓ [112/698] buddhacharita-asvaghosha-cowell.md
+  223 → 60 words (-73%)
+✓ [113/698] buddhism-in-its-connexion-with-brahmanism-and-hinduism-and-in-its-contrast-with-christianity-monier.md
+  248 → 75 words (-70%)
+✓ [115/698] buddhism-its-history-and-literature-t-w-rhys-davids.md
+  226 → 32 words (-86%)
+✓ [118/698] buddhist-birth-stories-jataka-tales-rhys-davids.md
+  242 → 44 words (-82%)
+✓ [121/698] by-ways-of-bombay-edwardes-s-m-stephen-meredyth.md
+  241 → 65 words (-73%)
+✓ [122/698] cambridge-history-india-volume-1-ancient-india-ej-rapson.md
+  230 → 28 words (-88%)
+✓ [124/698] campaigns-on-the-north-west-frontier-h-l-nevill.md
+  243 → 8 words (-97%)
+✓ [125/698] castes-and-tribes-of-southern-india-edgar-thurston.md
+  184 → 81 words (-56%)
+✓ [126/698] castes-and-tribes-of-southern-india-vol-1-of-7-thurston-edgar.md
+  430 → 74 words (-83%)
+✓ [128/698] catalogue-of-coins-indian-museum-calcutta.md
+  225 → 86 words (-62%)
+✓ [130/698] chandogya-upanishad.md
+  153 → 37 words (-76%)
+✓ [131/698] chandrakanta-devaki-nandan-khatri.md
+  243 → 57 words (-77%)
+✓ [133/698] charaka-samhita-ayurveda.md
+  146 → 82 words (-44%)
+✓ [134/698] cheitharol-kumbaba-manipur-chronicle.md
+  232 → 57 words (-75%)
+✓ [135/698] classical-dictionary-hindu-mythology-religion-geography-history-literature-john-dowson.md
+  241 → 57 words (-76%)
+✓ [136/698] commemorative-essays-presented-sir-ramkrishna-gopal-bhandarkar.md
+  228 → 69 words (-70%)
+✓ [137/698] complete-poems-subramania-bharati.md
+  191 → 72 words (-62%)
+✓ [139/698] confessions-of-a-thug-meadows-taylor.md
+  235 → 82 words (-65%)
+✓ [145/698] cunninghams-history-of-the-sikhs-joseph-davey-cunningham.md
+  239 → 51 words (-79%)
+✓ [147/698] dance-of-siva-fourteen-indian-essays-coomaraswamy.md
+  235 → 33 words (-86%)
+✓ [149/698] das-heim-und-die-welt-tagore-rabindranath.md
+  235 → 75 words (-68%)
+✓ [151/698] de-hoovenier-tagore-rabindranath.md
+  236 → 56 words (-76%)
+✓ [152/698] debate-at-a-general-court-of-east-india-stock-1813.md
+  239 → 60 words (-75%)
+✓ [153/698] deccan-nursery-tales-kincaid.md
+  225 → 51 words (-77%)
+✓ [154/698] departmental-ditties-and-ballads-and-barrack-room-ballads-kipling-rudyard.md
+  232 → 69 words (-70%)
+✓ [155/698] der-gärtner-tagore-rabindranath.md
+  231 → 60 words (-74%)
+✓ [156/698] der-könig-der-dunklen-kammer-tagore-rabindranath.md
+  236 → 62 words (-74%)
+✓ [157/698] descriptive-ethnology-of-bengal-edward-tuite-dalton.md
+  230 → 60 words (-74%)
+✓ [159/698] devotional-poems-mirabai.md
+  142 → 25 words (-82%)
+✓ [160/698] dhammapada-buddha.md
+  130 → 70 words (-46%)
+✓ [161/698] diary-of-a-pedestrian-in-cashmere-and-thibet-knight-w-h-william-henry.md
+  233 → 78 words (-67%)
+✓ [163/698] die-nacht-der-erfüllung-erzählungen-tagore-rabindranath.md
+  241 → 66 words (-73%)
+✓ [164/698] dnyaneshwari-sant-dnyaneshwar-marathi-1290.md
+  199 → 65 words (-67%)
+✓ [166/698] early-history-of-india-smith-edwardes.md
+  225 → 44 words (-80%)
+✓ [168/698] economic-change-in-rural-india-neale.md
+  239 → 42 words (-82%)
+✓ [169/698] el-libro-de-las-tierras-vírgenes-kipling-rudyard.md
+  216 → 60 words (-72%)
+✓ [170/698] encyclopaedia-britannica-eleventh-edition-india-hinduism.md
+  229 → 66 words (-71%)
+✓ [171/698] english-and-tamil-dictionary-joseph-knight-levi-spaulding.md
+  235 → 63 words (-73%)
+✓ [173/698] epigraphia-carnatica-b-lewis-rice.md
+  203 → 24 words (-88%)
+✓ [174/698] epigraphia-carnatica-volume-4-b-lewis-rice.md
+  235 → 40 words (-83%)
+✓ [175/698] epigraphia-indica-volume-2-archaeological-survey-of-india.md
+  217 → 77 words (-65%)
+✓ [176/698] etat-civil-politique-et-commercant-du-bengale-william-bolts.md
+  171 → 50 words (-71%)
+✓ [177/698] ethnography-castes-and-tribes-baines.md
+  244 → 72 words (-70%)
+✓ [178/698] famous-fights-of-indian-native-regiments-hodder-reginald.md
+  230 → 61 words (-73%)
+✓ [179/698] flowers-and-flower-gardens-with-an-appendix-of-practical-instructions-and-useful-information.md
+  232 → 65 words (-72%)
+✓ [181/698] folk-lore-notes-vol-igujarat-jackson-a-m-t-arthur-mason-tippetts.md
+  253 → 4 words (-98%)
+✓ [182/698] folk-tales-of-bengal-day-lal-behari.md
+  864 → 63 words (-93%)
+✓ [183/698] folk-tales-of-kashmir-jh-knowles-1893.md
+  233 → 23 words (-90%)
+✓ [184/698] folk-tales-of-sind-and-guzarat-kincaid-c-a-charles-augustus.md
+  233 → 70 words (-70%)
+✓ [189/698] gandhi-and-anarchy-c-sankaran-nair.md
+  222 → 29 words (-87%)
+✓ [191/698] garuda-purana.md
+  186 → 75 words (-60%)
+✓ [192/698] gazetteer-of-the-bombay-presidency-government-of-bombay.md
+  235 → 78 words (-67%)
+✓ [193/698] geet-govinda-jayadeva.md
+  222 → 67 words (-70%)
+✓ [196/698] gita-govinda-jayadeva.md
+  129 → 63 words (-51%)
+✓ [197/698] gitanjali-sangesopfer-tagore-rabindranath.md
+  213 → 66 words (-69%)
+✓ [198/698] gitanjali-song-offerings-rabindranath-tagore.md
+  227 → 59 words (-74%)
+✓ [199/698] gitanjali-tagore-rabindranath.md
+  226 → 63 words (-72%)
+✓ [200/698] glimpses-of-bengal-selected-from-the-letters-of-sir-rabindranath-tagore-1885-to-1895-tagore.md
+  231 → 59 words (-74%)
+✓ [201/698] godan-premchand.md
+  235 → 77 words (-67%)
+✓ [202/698] gold-sport-and-coffee-planting-in-mysore-with-chapters-on-coffee-planting-in-coorg-the-mysore.md
+  108 → 64 words (-41%)
+✓ [203/698] gommatsara-jiva-kanda-nemichandra.md
+  228 → 67 words (-71%)
+✓ [205/698] gora-i-b-romaani-tagore-rabindranath.md
+  228 → 59 words (-74%)
+✓ [206/698] gora-ii-b-romaani-tagore-rabindranath.md
+  230 → 65 words (-72%)
+✓ [207/698] grammar-of-persian-william-jones.md
+  225 → 60 words (-73%)
+✓ [208/698] grihya-sutras-rules-vedic-domestic-ceremonies-hermann-oldenberg.md
+  222 → 54 words (-76%)
+✓ [209/698] guide-to-taxila-john-marshall.md
+  229 → 73 words (-68%)
+✓ [211/698] hilda-a-story-of-calcutta-duncan-sara-jeannette.md
+  232 → 65 words (-72%)
+✓ [212/698] hind-swaraj-indian-home-rule-gandhi.md
+  227 → 59 words (-74%)
+✓ [213/698] hindoo-tales-or-the-adventures-of-ten-princes-dandin-active-7th-century.md
+  239 → 64 words (-73%)
+✓ [214/698] hindu-astronomy-w-brennand.md
+  236 → 30 words (-87%)
+✓ [215/698] hindu-law-and-judicature-yajnavalkya-montriou.md
+  229 → 38 words (-83%)
+✓ [216/698] hindu-law-treatise-administered-british-courts-india-herbert-cowell.md
+  241 → 72 words (-70%)
+✓ [217/698] hindu-literature-wilson.md
+  232 → 53 words (-77%)
+✓ [219/698] hindu-religious-year-muriel-underhill.md
+  238 → 66 words (-72%)
+✓ [220/698] hindu-superiority-attempt-determine-position-hindu-race-scale-nations-har-bilas-sarda.md
+  207 → 61 words (-71%)
+✓ [221/698] hindu-tales-from-the-sanskrit-unknown.md
+  124 → 26 words (-79%)
+✓ [222/698] hindu-widow-re-marriage-other-tracts-mohandas-gandhi.md
+  225 → 35 words (-84%)
+✓ [223/698] hinduism-and-buddhism-an-historical-sketch-eliot-charles.md
+  237 → 55 words (-77%)
+✓ [224/698] hindustani-lyrics-inayat-khan-jessie-d-westbrook.md
+  235 → 63 words (-73%)
+✓ [225/698] historical-atlas-of-india-charles-joppen.md
+  253 → 74 words (-71%)
+✓ [226/698] historical-fragments-of-the-mogul-empire-robert-orme.md
+  232 → 78 words (-66%)
+✓ [227/698] historical-view-of-plans-for-the-government-of-british-india-john-bruce.md
+  237 → 65 words (-73%)
+✓ [228/698] history-of-ancient-sanskrit-literature-max-muller.md
+  238 → 62 words (-74%)
+✓ [229/698] history-of-aurangzib-vol-i-j-n-sarkar.md
+  104 → 61 words (-41%)
+✓ [230/698] history-of-bengali-language-and-literature-dinesh-chandra-sen.md
+  235 → 69 words (-71%)
+✓ [232/698] history-of-gujarát-gazetteer-of-the-bombay-presidency-volume-i-part-i-campbell-james-m.md
+  223 → 47 words (-79%)
+✓ [233/698] history-of-india-1862-1937-ed-abraham-valentine-williams-jackson.md
+  245 → 69 words (-72%)
+✓ [234/698] history-of-india-grolier-society-collection.md
+  233 → 87 words (-63%)
+✓ [235/698] history-of-indian-and-eastern-architecture-1808-1886-james-fergusson.md
+  223 → 68 words (-70%)
+✓ [236/698] history-of-indian-philosophy-dasgupta.md
+  204 → 50 words (-75%)
+✓ [237/698] history-of-the-indian-mutiny-charles-ball.md
+  226 → 59 words (-74%)
+✓ [238/698] history-of-the-rise-of-the-mahomedan-power-in-india-muammad-qsim-firishta-tr-john-briggs.md
+  234 → 83 words (-65%)
+✓ [240/698] hitopadesha-narayana.md
+  136 → 62 words (-54%)
+✓ [241/698] hobson-jobson-a-glossary-of-colloquial-anglo-indian-words-and-phrases-and-of-kindred-terms.md
+  221 → 51 words (-77%)
+✓ [244/698] hymns-from-the-rigveda-macdonell.md
+  225 → 73 words (-68%)
+✓ [245/698] hymns-from-the-rigveda-selected-and-metrically-translated-griffith.md
+  245 → 3 words (-99%)
+✓ [246/698] hymns-of-the-atharvaveda-griffith.md
+  238 → 3 words (-99%)
+✓ [247/698] hymns-of-the-samaveda-griffith.md
+  234 → 3 words (-99%)
+✓ [248/698] imperial-gazetteer-of-india-volume-16.md
+  238 → 67 words (-72%)
+✓ [250/698] in-old-madras-croker-b-m-bithia-mary.md
+  245 → 14 words (-94%)
+✓ [251/698] india-and-the-indians-elwin-edward-fenton.md
+  244 → 67 words (-73%)
+✓ [252/698] india-and-tibet-a-history-of-the-relations-which-have-subsisted-between-the-two-countries-from-the.md
+  235 → 66 words (-72%)
+✓ [253/698] india-for-indians-enlarged-edition-das-chitta-ranjan.md
+  247 → 71 words (-71%)
+✓ [254/698] india-in-1880-richard-temple.md
+  225 → 62 words (-72%)
+✓ [255/698] india-through-the-ages-steel.md
+  221 → 62 words (-72%)
+✓ [256/698] india-under-british-rule-from-the-foundation-of-the-east-india-company-wheeler-james-talboys.md
+  197 → 26 words (-87%)
+✓ [257/698] india-what-can-it-teach-us-a-course-of-lectures-delivered-before-the-university-of-cambridge-müller.md
+  219 → 33 words (-85%)
+✓ [258/698] indian-antiquary-journal-vol1-1872.md
+  235 → 59 words (-75%)
+✓ [260/698] indian-architecture-its-psychology-structure-and-history-from-the-first-muhannadan-invasion-to-the-present-day-havell.md
+  232 → 60 words (-74%)
+✓ [261/698] indian-calendar-sewell-dikshit-schram.md
+  231 → 61 words (-74%)
+✓ [263/698] indian-fairy-tales-jacobs.md
+  227 → 68 words (-70%)
+✓ [264/698] indian-fairy-tales-joseph-jacobs.md
+  235 → 35 words (-85%)
+✓ [265/698] indian-home-rule-gandhi-hind-swaraj.md
+  229 → 38 words (-83%)
+✓ [266/698] indian-home-rule-gandhi-mahatma.md
+  224 → 62 words (-72%)
+✓ [268/698] indian-myth-and-legend-mackenzie.md
+  228 → 33 words (-86%)
+✓ [269/698] indian-speeches-19071909-john-morley.md
+  223 → 60 words (-73%)
+✓ [270/698] indian-tales-kipling-rudyard.md
+  234 → 69 words (-71%)
+✓ [271/698] indian-unrest-valentine-chirol.md
+  254 → 64 words (-75%)
+✓ [272/698] indian-wisdom-monier-williams.md
+  220 → 52 words (-76%)
+✓ [273/698] indias-problem-krishna-or-christ-jones-john-p-john-peter.md
+  107 → 38 words (-64%)
+✓ [274/698] indica-megasthenes.md
+  241 → 61 words (-75%)
+✓ [275/698] indigo-and-its-enemies-1861-delta.md
+  242 → 68 words (-72%)
+✓ [276/698] interpretation-ancient-hindu-medicine-chandra-chakraberty.md
+  234 → 76 words (-68%)
+✓ [277/698] introduction-to-hindustani-shakespear.md
+  246 → 68 words (-72%)
+✓ [278/698] isha-upanishad.md
+  170 → 39 words (-77%)
+✓ [279/698] islam-in-india-qanun-i-islam-jafar-sharif.md
+  239 → 61 words (-74%)
+✓ [280/698] jaimini-sutras-purva-mimamsa.md
+  224 → 58 words (-74%)
+✓ [281/698] jataka-tales-animal-stories-ellen-babbitt.md
+  217 → 29 words (-87%)
+✓ [282/698] jatakas-tales-of-the-buddha.md
+  234 → 67 words (-71%)
+✓ [284/698] journael-van-de-reysen-naar-oost-indien-thomas-roe.md
+  240 → 44 words (-82%)
+✓ [289/698] kalpa-sutra.md
+  210 → 62 words (-70%)
+✓ [290/698] kama-sutra-vatsyayana.md
+  162 → 57 words (-65%)
+✓ [293/698] kashmir-described-by-sir-francis-younghusband-painted-by-major-e-molyneux-younghusband-francis.md
+  222 → 69 words (-69%)
+✓ [294/698] katha-upanishad.md
+  141 → 54 words (-62%)
+✓ [295/698] kathasaritsagara-ocean-of-streams-of-story.md
+  231 → 55 words (-76%)
+✓ [297/698] kauilyas-arthastra-shamasastry-tr-kauilya-cakya-tr-r-shamasastry.md
+  110 → 14 words (-87%)
+✓ [300/698] kautilya-arthashastra-hindi-anubad-kautilya.md
+  229 → 62 words (-73%)
+✓ [301/698] kavitavali-tulsidas.md
+  218 → 63 words (-71%)
+✓ [302/698] kena-upanishad.md
+  215 → 63 words (-71%)
+✓ [303/698] kenopanishad.md
+  172 → 41 words (-76%)
+✓ [304/698] kim-kipling-rudyard.md
+  130 → 62 words (-52%)
+✓ [307/698] kiratarjuniya-bharavi.md
+  232 → 65 words (-72%)
+✓ [308/698] koti-ja-maailma-tagore-rabindranath.md
+  246 → 57 words (-77%)
+✓ [312/698] kulliyat-e-fani-collected-poems-fani-badayuni.md
+  222 → 52 words (-77%)
+✓ [313/698] kumarasambhava-kalidasa.md
+  107 → 48 words (-55%)
+✓ [314/698] kurma-purana.md
+  204 → 75 words (-63%)
+✓ [317/698] la-jeune-inde-gandhi-mahatma.md
+  233 → 67 words (-71%)
+✓ [319/698] lankavatara-sutra-nanjio.md
+  227 → 63 words (-72%)
+✓ [320/698] laws-of-manu-manusmriti-georg-buhler-translation.md
+  237 → 76 words (-68%)
+✓ [321/698] le-jardinier-damour-tagore-rabindranath.md
+  101 → 67 words (-34%)
+✓ [322/698] le-livre-de-la-jungle-kipling-rudyard.md
+  239 → 70 words (-71%)
+✓ [323/698] le-râmâyana-poème-sanscrit-de-valmiky-valmiki.md
+  184 → 82 words (-55%)
+✓ [326/698] life-in-an-indian-outpost-casserly-gordon.md
+  231 → 64 words (-72%)
+✓ [327/698] life-in-ancient-india-with-a-map-manning.md
+  227 → 75 words (-67%)
+✓ [329/698] linga-purana.md
+  214 → 35 words (-84%)
+✓ [330/698] linguistic-society-of-india-not-available.md
+  233 → 73 words (-69%)
+✓ [333/698] little-clay-cart-mricchakatika-shudraka.md
+  243 → 34 words (-86%)
+✓ [334/698] little-clay-cart-sudraka.md
+  255 → 81 words (-68%)
+✓ [336/698] maha-bharata-the-epic-of-ancient-india-condensed-into-english-verse-unknown.md
+  244 → 73 words (-70%)
+✓ [337/698] mahabhashya-patanjali.md
+  192 → 57 words (-70%)
+✓ [339/698] malavikagnimitra-kalidasa-1875.md
+  225 → 58 words (-74%)
+✓ [340/698] mandukya-upanishad.md
+  158 → 84 words (-47%)
+✓ [341/698] manimekalai-sittalai-sattanar.md
+  152 → 60 words (-61%)
+✓ [342/698] manusmriti-laws-of-manu.md
+  143 → 67 words (-53%)
+✓ [343/698] maratha-rajas-tanjore-subramanian.md
+  236 → 2 words (-99%)
+✓ [344/698] markandeya-purana-devi-mahatmya.md
+  190 → 40 words (-79%)
+✓ [345/698] markandeya-purana-pargiter.md
+  229 → 54 words (-76%)
+✓ [346/698] marma-vijnj-aan-paathak-raamarakshh-1.md
+  215 → 53 words (-75%)
+✓ [347/698] mashi-and-other-stories-tagore-rabindranath.md
+  251 → 71 words (-72%)
+✓ [348/698] matsya-purana.md
+  238 → 70 words (-71%)
+✓ [349/698] mauryan-polity-dikshitar.md
+  220 → 30 words (-86%)
+✓ [351/698] meghaduta-kalidasa.md
+  162 → 81 words (-50%)
+✓ [354/698] memoir-of-the-services-of-the-bengal-artillery-from-the-formation-of-the-corps-to-the-present-time.md
+  249 → 61 words (-76%)
+✓ [355/698] memoirs-of-the-right-rev-daniel-corrie-lld-first-bishop-of-madras-corrie-daniel.md
+  237 → 57 words (-76%)
+✓ [356/698] memoirs-on-the-history-folk-lore-and-distribution-of-the-races-of-the-north-western-provinces-henry-miers-elliot-john-beames.md
+  234 → 55 words (-76%)
+✓ [357/698] memorial-on-behalf-of-the-king-of-tanjore-rajah-tulaji.md
+  248 → 69 words (-72%)
+✓ [358/698] men-and-events-of-my-time-in-india-richard-temple.md
+  250 → 70 words (-72%)
+✓ [360/698] mimamsa-sutras-jaimini.md
+  145 → 54 words (-63%)
+✓ [363/698] mool-ramayana-ramnathlal-1.md
+  227 → 68 words (-70%)
+✓ [364/698] more-jataka-tales-ellen-babbitt.md
+  225 → 33 words (-85%)
+✓ [365/698] mricchakatika-sudraka.md
+  127 → 52 words (-59%)
+✓ [366/698] mudrarakshasa-vishakhadatta.md
+  209 → 53 words (-75%)
+✓ [367/698] mundaka-upanishad.md
+  152 → 72 words (-53%)
+✓ [368/698] mutiny-memoirs-being-personal-reminiscences-of-the-great-sepoy-revolt-of-1857-mackenzie-a-r-d.md
+  250 → 36 words (-86%)
+✓ [370/698] mysore-a-gazetteer-b-lewis-rice.md
+  229 → 34 words (-85%)
+✓ [371/698] myths-hindus-buddhists-sister-nivedita-ananda-coomaraswamy.md
+  229 → 70 words (-69%)
+✓ [372/698] nagananda-harsha.md
+  218 → 75 words (-66%)
+✓ [373/698] nala-and-damayanti-and-other-poems-henry-hart-milman.md
+  220 → 82 words (-63%)
+✓ [374/698] nalanda-and-its-epigraphic-material-shastri.md
+  223 → 36 words (-84%)
+✓ [375/698] nalopkhyanam-story-of-nala-an-episode-of-the-mahbhrata-the-sanskrit-text-with-a-copious-vocabulary-and-an-improved-version-of-dean-milmans-translation-1819-1899-sir-monier-monier-williams.md
+  229 → 54 words (-76%)
+✓ [376/698] naradiya-shiksha-kunte.md
+  116 → 61 words (-47%)
+✓ [377/698] narrative-of-a-journey-through-the-upper-provinces-of-india-reginald-heber.md
+  235 → 72 words (-69%)
+✓ [378/698] nationalism-rabindranath-tagore.md
+  241 → 64 words (-73%)
+✓ [379/698] nationalismus-tagore-rabindranath.md
+  239 → 61 words (-74%)
+✓ [381/698] natya-shastra-bharata-muni.md
+  134 → 70 words (-48%)
+✓ [382/698] natyashastra-bharata-muni.md
+  193 → 55 words (-72%)
+✓ [383/698] newton-forster-or-the-merchant-service-marryat-frederick.md
+  243 → 59 words (-76%)
+✓ [384/698] nil-darpan-or-the-indigo-planting-mirror-a-drama-translated-from-the-bengali-by-a-native-mitra.md
+  239 → 73 words (-69%)
+✓ [385/698] nitisara-kamandaki-tr-mn-dutt-1896.md
+  222 → 60 words (-73%)
+✓ [387/698] notes-of-an-overland-journey-through-france-and-egypt-to-bombay-roberts-emma.md
+  241 → 69 words (-71%)
+✓ [388/698] nyaya-sutras-akshapada-gautama.md
+  133 → 62 words (-53%)
+✓ [389/698] nyaya-sutras-gautama.md
+  150 → 87 words (-42%)
+✓ [390/698] nyaya-sutras-of-gotama.md
+  229 → 61 words (-73%)
+✓ [394/698] on-the-face-of-the-waters-a-tale-of-the-mutiny-steel-flora-annie-webster.md
+  648 → 70 words (-89%)
+✓ [400/698] outlines-history-hindu-law-partition-inheritance-adoption-julius-jolly.md
+  248 → 61 words (-75%)
+✓ [403/698] padma-purana.md
+  198 → 30 words (-85%)
+✓ [406/698] panchastikayasara-kundakunda.md
+  208 → 65 words (-69%)
+✓ [407/698] panchatantra-collection-ancient-hindu-tales-panchakhyanaka-purnabhadra-johannes-hertel.md
+  228 → 73 words (-68%)
+✓ [408/698] panchatantra-vishnu-sharma.md
+  104 → 60 words (-42%)
+✓ [409/698] panjab-castes-1847-1908-sir-denzil-ibbetson.md
+  234 → 76 words (-68%)
+✓ [410/698] papers-sanskrit-manuscript-preservation-gough.md
+  245 → 57 words (-77%)
+✓ [411/698] patanjali-yoga-sutras.md
+  224 → 51 words (-77%)
+✓ [412/698] path-of-purity-visuddhimagga-buddhaghosa-pe-maung-tin.md
+  212 → 65 words (-69%)
+✓ [413/698] path-to-god-gandhi.md
+  225 → 73 words (-68%)
+✓ [414/698] pather-panchali-bibhutibhushan-bandyopadhyay.md
+  242 → 65 words (-73%)
+✓ [417/698] personal-and-geographical-names-in-gupta-inscriptions-tej-ram-sharma.md
+  227 → 38 words (-83%)
+✓ [419/698] philosophy-upanishads-ancient-indian-metaphysics-archibald-gough.md
+  243 → 55 words (-77%)
+✓ [420/698] plain-tales-from-the-hills-kipling-rudyard.md
+  147 → 76 words (-48%)
+✓ [421/698] poems-by-toru-dutt.md
+  232 → 52 words (-78%)
+✓ [422/698] political-history-of-ancient-india-hem-chandra-raychaudhuri.md
+  224 → 63 words (-72%)
+✓ [423/698] prabandhacintamani-merutunga-tr-tawney-1899-1901.md
+  234 → 73 words (-69%)
+✓ [424/698] pralay-sachindranath-sengupta.md
+  231 → 58 words (-75%)
+✓ [425/698] prashna-upanishad.md
+  148 → 48 words (-68%)
+✓ [426/698] private-life-of-warren-hastings-lawson.md
+  239 → 76 words (-68%)
+✓ [427/698] priyadarsika-harsha.md
+  225 → 69 words (-69%)
+✓ [428/698] punjabi-musalmans-j-m-wikeley.md
+  231 → 13 words (-94%)
+✓ [429/698] puranic-encyclopaedia-vettam-mani.md
+  217 → 61 words (-72%)
+✓ [430/698] purohit-darpaned25-bhattacharya-surendramohan-comp.md
+  233 → 61 words (-74%)
+✓ [435/698] rajatarangini-kalhana.md
+  121 → 61 words (-50%)
+✓ [436/698] ramacharitamanasa-tulsidas.md
+  222 → 66 words (-70%)
+✓ [437/698] ramakrishna-kathamrita.md
+  230 → 63 words (-73%)
+✓ [438/698] ramayana-valmiki.md
+  219 → 67 words (-69%)
+✓ [439/698] rambles-and-recollections-of-an-indian-official-sleeman-w-h-william-henry-sir.md
+  169 → 12 words (-93%)
+✓ [445/698] reminiscences-of-the-great-mutiny-1857-59-including-the-relief-siege-and-capture-of-lucknow-and-the.md
+  188 → 47 words (-75%)
+✓ [447/698] report-of-the-silk-panel-chairman-1947-navaratna-rama-rao.md
+  241 → 72 words (-70%)
+✓ [448/698] reports-tour-bundelkhand-rewa-malwa-gwalior-alexander-cunningham.md
+  233 → 70 words (-70%)
+✓ [449/698] research-methodology-bm-jain-1.md
+  231 → 25 words (-89%)
+✓ [450/698] rig-veda-samhita-books-14-wilson.md
+  214 → 35 words (-84%)
+✓ [451/698] rig-veda-sanhit-english-translation-h-h-wilson.md
+  245 → 6 words (-98%)
+✓ [452/698] rig-veda-sanhita-volume-i-wilson.md
+  233 → 75 words (-68%)
+✓ [453/698] riyaz-us-salatin-history-of-bengal.md
+  229 → 56 words (-76%)
+✓ [458/698] sacred-books-and-early-literature-of-the-east-with-an-historical-survey-and-descriptions-horne.md
+  229 → 64 words (-72%)
+✓ [460/698] sacred-books-of-the-east-hindu-series-volume-3.md
+  218 → 81 words (-63%)
+✓ [462/698] sacred-laws-aryas-apastamba-gautama-vasishtha-baudhayana-georg-buhler.md
+  201 → 41 words (-80%)
+✓ [463/698] sadhana-the-realisation-of-life-tagore-rabindranath.md
+  312 → 61 words (-80%)
+✓ [464/698] sakhi-suryakant-tripathi-nirala.md
+  206 → 58 words (-72%)
+✓ [466/698] samkhya-karika-ishvarakrishna.md
+  970 → 76 words (-92%)
+✓ [467/698] sangita-makaranda-telang.md
+  221 → 63 words (-71%)
+✓ [468/698] sangita-raga-kalpadruma-vol1.md
+  218 → 52 words (-76%)
+✓ [469/698] sangita-ratnakara-sarangadeva.md
+  222 → 61 words (-73%)
+✓ [470/698] sangita-ratnakara-sharangadeva.md
+  198 → 69 words (-65%)
+✓ [471/698] sankhya-aphorisms-ballantyne.md
+  220 → 70 words (-68%)
+✓ [472/698] sankirtan-annamayya.md
+  236 → 62 words (-74%)
+✓ [475/698] sarva-darsana-samgraha-madhava-tr-cowell-gough-1882.md
+  243 → 64 words (-74%)
+✓ [476/698] sarva-darsana-samgraha-review-different-systems-hindu-philosophy-madhavacharya-cowell-gough.md
+  201 → 57 words (-72%)
+✓ [477/698] satapathabrahmana-eggeling-translation.md
+  207 → 55 words (-73%)
+✓ [478/698] science-of-breath-philosophy-tattvas-rama-prasada.md
+  236 → 66 words (-72%)
+✓ [479/698] sesde-reys-van-de-engelsche-maatschappy-na-oost-indien-henry-middleton.md
+  236 → 80 words (-66%)
+✓ [480/698] shaddarsana-samuchchaya-haribhadra.md
+  218 → 50 words (-77%)
+✓ [481/698] shishupalavadha-magha.md
+  210 → 64 words (-70%)
+✓ [482/698] shiva-mahapurana.md
+  224 → 56 words (-75%)
+✓ [483/698] shiva-purana.md
+  926 → 75 words (-92%)
+✓ [484/698] shiva-sutras-vasugupta.md
+  148 → 72 words (-51%)
+✓ [487/698] shvetashvatara-upanishad.md
+  160 → 41 words (-74%)
+✓ [490/698] siddhanta-siromani-bhaskaracharya-tr-wilkinson-1861.md
+  197 → 49 words (-75%)
+✓ [491/698] siddhartha-hermann-hesse.md
+  182 → 48 words (-74%)
+✓ [492/698] sikh-religion-its-gurus-sacred-writings-and-authors-macauliffe.md
+  203 → 63 words (-69%)
+✓ [493/698] silappatikaram-ilango-adigal.md
+  156 → 77 words (-51%)
+✓ [495/698] siraj-ul-wahhaj-sirajuddin-ali-khan-arzu.md
+  235 → 59 words (-75%)
+✓ [496/698] skanda-purana.md
+  248 → 61 words (-75%)
+✓ [497/698] soundarya-lahari-adi-shankara.md
+  142 → 41 words (-71%)
+✓ [498/698] south-indian-images-of-gods-and-goddesses-krishna-sastri.md
+  245 → 38 words (-84%)
+✓ [499/698] south-indian-inscriptions-vol-i-archaeological-survey-of-india.md
+  234 → 35 words (-85%)
+✓ [502/698] story-of-my-experiments-with-truth-gandhi-autobiography.md
+  236 → 69 words (-71%)
+✓ [505/698] sukasaptati-seventy-tales-parrot.md
+  142 → 82 words (-42%)
+✓ [506/698] sursagar-surdas.md
+  171 → 38 words (-78%)
+✓ [507/698] surya-siddhanta-burgess.md
+  225 → 49 words (-78%)
+✓ [508/698] sushrut-sanhita-ambikadatt-1.md
+  237 → 57 words (-76%)
+✓ [509/698] sushruta-samhita-ayurveda.md
+  145 → 70 words (-52%)
+✓ [512/698] sva-george-c-m-birdwood.md
+  224 → 3 words (-99%)
+✓ [513/698] swetashvatara-upanishad.md
+  211 → 61 words (-71%)
+✓ [514/698] syntax-of-the-hebrew-language-of-the-old-testament-ewald.md
+  236 → 71 words (-70%)
+✓ [515/698] taittiriya-upanishad.md
+  165 → 56 words (-66%)
+✓ [516/698] taittriya-upanishad.md
+  213 → 69 words (-68%)
+✓ [517/698] tales-from-the-hindu-dramatists-dutta-r-n.md
+  196 → 8 words (-96%)
+✓ [518/698] tales-from-the-indian-epics-kincaid.md
+  232 → 70 words (-70%)
+✓ [520/698] tales-of-the-punjab-folklore-of-india-steel-flora-annie-webster.md
+  940 → 69 words (-93%)
+✓ [522/698] tateyo-indo-yone-noguchi.md
+  234 → 71 words (-70%)
+✓ [528/698] the-aryabhatiya-of-aryabhata-clark.md
+  238 → 58 words (-76%)
+✓ [530/698] the-babur-nama-in-english-memoirs-of-babur-babur.md
+  237 → 69 words (-71%)
+✓ [531/698] the-babur-nma-memoirs-of-babur-english-translation-ahr-ud-dn-muhammad-babur-tr-annette-susannah-beveridge.md
+  234 → 63 words (-73%)
+✓ [532/698] the-bengal-tenancy-act-annotated-edition-r-f-rampini.md
+  232 → 18 words (-92%)
+✓ [533/698] the-bhagavad-gita-vyasa.md
+  237 → 52 words (-78%)
+✓ [534/698] the-birds-of-india-being-a-natural-history-of-the-birds-known-to-inhabit-continental-india-thomas-c-jerdon.md
+  231 → 47 words (-80%)
+✓ [543/698] the-complete-revenue-guide-for-imports-and-exports-peter-j-hodgson.md
+  240 → 41 words (-83%)
+✓ [547/698] the-descent-of-the-sun-bain.md
+  230 → 78 words (-66%)
+✓ [550/698] the-east-india-gazetteer-walter-hamilton.md
+  246 → 71 words (-71%)
+✓ [553/698] the-embassy-of-sir-thomas-roe-to-the-court-of-the-great-mogul-16151619-sir-thomas-roe-ed-william-foster.md
+  248 → 65 words (-74%)
+✓ [554/698] the-english-urdu-translators-companion-durga-prasad.md
+  147 → 55 words (-63%)
+✓ [555/698] the-fall-of-the-moghul-empire-of-hindustan-h-g-keene.md
+  244 → 2 words (-99%)
+✓ [556/698] the-flora-of-british-india-joseph-dalton-hooker-ed-with-collaborators.md
+  225 → 68 words (-70%)
+✓ [557/698] the-gardener-tagore-rabindranath.md
+  261 → 60 words (-77%)
+✓ [558/698] the-golden-book-of-india-roper-lethbridge.md
+  229 → 69 words (-70%)
+✓ [559/698] the-golden-threshold-sarojini-naidu.md
+  241 → 60 words (-75%)
+✓ [561/698] the-highlands-of-central-india-james-forsyth.md
+  230 → 80 words (-65%)
+✓ [563/698] the-hindu-yogi-science-of-breath-atkinson-william-walker.md
+  218 → 64 words (-71%)
+✓ [564/698] the-history-and-management-of-the-east-india-company-vol-1-james-macpherson.md
+  253 → 81 words (-68%)
+✓ [567/698] the-history-of-the-indian-revolt-and-of-the-expeditions-to-persia-china-and-japan-1856-7-8-dodd.md
+  191 → 57 words (-70%)
+✓ [573/698] the-indian-empire-its-peoples-history-and-products-w-w-hunter.md
+  228 → 2 words (-99%)
+✓ [574/698] the-indian-musalmans-are-they-bound-in-conscience-to-rebel-against-the-queen-w-w-hunter.md
+  232 → 66 words (-72%)
+✓ [576/698] the-jungle-books-kipling-rudyard.md
+  169 → 48 words (-72%)
+✓ [577/698] the-kalpa-sutra-and-nava-tatva-stevenson.md
+  223 → 58 words (-74%)
+✓ [578/698] the-kathá-sarit-ságara-or-ocean-of-the-streams-of-story-somadeva-bhatta-active-11th-century.md
+  240 → 62 words (-74%)
+✓ [579/698] the-king-of-the-dark-chamber-tagore-rabindranath.md
+  224 → 65 words (-71%)
+✓ [580/698] the-kipling-reader-selections-from-the-books-of-rudyard-kipling-kipling-rudyard.md
+  231 → 54 words (-77%)
+✓ [581/698] the-land-systems-of-british-india-vol-1-baden-henry-baden-powell.md
+  236 → 63 words (-73%)
+✓ [582/698] the-law-relating-to-india-and-the-east-india-company-1855-compilation.md
+  225 → 51 words (-77%)
+✓ [584/698] the-life-of-shivaji-maharaj-k-a-keluskar-n-s-takakhav.md
+  230 → 8 words (-97%)
+✓ [585/698] the-lotus-of-the-true-law.md
+  207 → 57 words (-72%)
+✓ [586/698] the-loves-of-krishna-archer.md
+  247 → 33 words (-87%)
+✓ [587/698] the-lusiad-or-the-discovery-of-india-an-epic-poem-camões.md
+  243 → 78 words (-68%)
+✓ [588/698] the-mahabharata-of-krishna-dwaipayana-vyasa-ganguli-tr-kisari-mohan-ganguli-translator-p-c-roy-publisher.md
+  231 → 54 words (-77%)
+✓ [589/698] the-milindapanha.md
+  215 → 62 words (-71%)
+✓ [590/698] the-mystery-of-cloomber-doyle-arthur-conan.md
+  244 → 71 words (-71%)
+✓ [591/698] the-n-i-akbar-english-translation-abul-fazl-tr-henry-blochmann-tr-h-s-jarrett.md
+  221 → 62 words (-72%)
+✓ [592/698] the-natural-history-of-the-mammalia-of-india-and-ceylon-r-a-sterndale.md
+  247 → 2 words (-99%)
+✓ [593/698] the-ocean-of-story-being-ch-tawneys-translation-of-somadevas-katha-sarit-sagara-somadeva-bhatta.md
+  162 → 32 words (-80%)
+✓ [595/698] the-panchasiddhantika-varahamihira.md
+  200 → 51 words (-75%)
+✓ [596/698] the-panjab-north-west-frontier-province-and-kashmir-douie-james-mccrone-sir.md
+  242 → 79 words (-67%)
+✓ [597/698] the-peoples-of-india-anderson-j-d-james-drummond.md
+  227 → 55 words (-76%)
+✓ [599/698] the-poison-tree-a-tale-of-hindu-life-in-bengal-cattopadhyaya-bankimacandra.md
+  250 → 63 words (-75%)
+✓ [601/698] the-popular-religion-and-folk-lore-of-northern-india-crooke-william.md
+  225 → 86 words (-62%)
+✓ [602/698] the-popular-religion-and-folk-lore-of-northern-india-crooke.md
+  235 → 63 words (-73%)
+✓ [603/698] the-portuguese-in-india-frederic-charles-danvers.md
+  232 → 64 words (-72%)
+✓ [604/698] the-post-office-tagore-rabindranath.md
+  362 → 68 words (-81%)
+✓ [605/698] the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte-vaman-shivaram-1858-1892.md
+  228 → 51 words (-78%)
+✓ [607/698] the-practical-sanskrit-english-dictionary-vaman-shivram-apte.md
+  109 → 56 words (-49%)
+✓ [608/698] the-raghuvamsa-of-kalidasa-kale.md
+  205 → 57 words (-72%)
+✓ [609/698] the-raghuvamsa-of-kalidasa-with-the-commentary-the-samjivani-of-mallinatha-kalidasa.md
+  217 → 65 words (-70%)
+✓ [611/698] the-religions-of-india-edward-washburn-hopkins.md
+  223 → 47 words (-79%)
+✓ [612/698] the-rmyan-of-vlmki-griffith-verse-trans-r-t-h-griffith-translator.md
+  233 → 63 words (-73%)
+✓ [613/698] the-rámáyan-of-válmíki-translated-into-english-verse-valmiki.md
+  241 → 65 words (-73%)
+✓ [614/698] the-rāmāyana-valmiki.md
+  201 → 81 words (-60%)
+✓ [615/698] the-sacred-books-of-the-east-described-and-examined-hindu-series-unknown.md
+  227 → 62 words (-73%)
+✓ [619/698] the-silappadikaram-v-r-ramachandra-dikshitar.md
+  228 → 76 words (-67%)
+✓ [623/698] the-tale-of-the-great-mutiny-fitchett-w-h-william-henry.md
+  674 → 2 words (-100%)
+✓ [625/698] the-travels-of-ibn-battuta.md
+  217 → 66 words (-70%)
+✓ [626/698] the-travels-of-marco-polo-india-sections.md
+  254 → 71 words (-72%)
+✓ [627/698] the-tribes-and-castes-of-bengal-anthropometric-data-ethnographic-glossary-h-h-risley.md
+  228 → 2 words (-99%)
+✓ [628/698] the-tribes-and-castes-of-the-central-provinces-of-india-russell-r-v-robert-vane.md
+  229 → 43 words (-81%)
+✓ [630/698] the-trident-the-crescent-and-the-cross-vaughan.md
+  233 → 37 words (-84%)
+✓ [631/698] the-tuzuk-i-jahangiri-or-memoirs-of-jahangir-jahangir-emperor-of-hindustan.md
+  221 → 66 words (-70%)
+✓ [632/698] the-university-of-nalanda-sankalia.md
+  239 → 35 words (-85%)
+✓ [634/698] the-vedanta-sutras-thibaut.md
+  193 → 54 words (-72%)
+✓ [635/698] the-vishnu-purana-wilson.md
+  222 → 30 words (-86%)
+✓ [636/698] the-wheel-of-fortune-gandhi-mahatma.md
+  210 → 85 words (-60%)
+✓ [637/698] the-yoga-sutras-of-patanjali-johnston.md
+  226 → 56 words (-75%)
+✓ [638/698] things-indian-william-crooke.md
+  244 → 54 words (-78%)
+✓ [641/698] thirteen-principal-upanishads-robert-ernest-hume.md
+  225 → 57 words (-75%)
+✓ [643/698] thirukkural-thiruvalluvar.md
+  150 → 68 words (-55%)
+✓ [644/698] thirukkural-tiruvalluvar-tr-gu-pope-1886.md
+  229 → 69 words (-70%)
+✓ [648/698] tikapatthana-abhidhamma-pitaka.md
+  218 → 53 words (-76%)
+✓ [649/698] tirumantiram-tirumular.md
+  149 → 73 words (-51%)
+✓ [650/698] tiruppavai-nachiyar-tirumozhi-andal.md
+  186 → 78 words (-58%)
+✓ [651/698] tiruvaimozhi-nammalvar.md
+  187 → 54 words (-71%)
+✓ [652/698] tolkappiyam-tamil-grammar.md
+  130 → 69 words (-47%)
+✓ [656/698] travels-into-bokhara-burnes-alexander.md
+  230 → 65 words (-72%)
+✓ [659/698] tulu-english-and-english-tulu-dictionary-a-maenner.md
+  240 → 34 words (-86%)
+✓ [665/698] upanishads-sri-sankara-commentary-isa-kena-mundaka-sitarama-sastri.md
+  108 → 30 words (-72%)
+✓ [668/698] vaisheshika-sutras-kanada.md
+  145 → 78 words (-46%)
+✓ [670/698] vedanta-philosophy-swami-abhedananda.md
+  243 → 79 words (-67%)
+✓ [671/698] vedantasara-sadananda-yogindra.md
+  240 → 61 words (-75%)
+✓ [672/698] vedic-grammar-arthur-anthony-macdonell.md
+  315 → 41 words (-87%)
+✓ [673/698] vedic-mythology-macdonell.md
+  225 → 73 words (-68%)
+✓ [674/698] velugoti-vari-vamsavali-telugu.md
+  241 → 44 words (-82%)
+✓ [675/698] venisamhara-bhatta-narayana.md
+  205 → 51 words (-75%)
+✓ [677/698] vidyapati-songs-maithili.md
+  126 → 65 words (-48%)
+✓ [679/698] vikram-and-the-vampire-burton.md
+  231 → 68 words (-71%)
+✓ [681/698] vikramorvasiyam-kalidasa-1879-pandit-ed.md
+  214 → 60 words (-72%)
+✓ [682/698] village-gods-south-india-henry-whitehead.md
+  243 → 78 words (-68%)
+✓ [683/698] vishnu-purana-wilson.md
+  193 → 53 words (-73%)
+✓ [684/698] vishnudharmottara-part3-kramrisch.md
+  238 → 69 words (-71%)
+✓ [686/698] wahrhaftige-ausfuhrliche-beschreibung-ostindischen-kusten-philippus-baldaeus.md
+  234 → 69 words (-71%)
+✓ [687/698] warren-hastings-in-bengal-mary-evelyn-jones.md
+  235 → 74 words (-69%)
+✓ [690/698] works-of-sir-william-jones-volume-1.md
+  233 → 59 words (-75%)
+✓ [691/698] yajnavalkya-smriti-with-mitaksara-commentary.md
+  208 → 62 words (-70%)
+✓ [692/698] yasastilaka-somadeva-suri.md
+  134 → 63 words (-53%)
+✓ [694/698] yoga-sastra-the-yoga-sutras-of-patenjali-examined-with-a-notice-of-swami-vivekanandas-yoga-philosophy-patañjali-christian-literature-society-for-india-murdoch.md
+  130 → 53 words (-59%)
+✓ [695/698] yoga-system-of-patanjali-woods-translation.md
+  244 → 59 words (-76%)
+✓ [696/698] yoga-vasistha-valmiki.md
+  213 → 53 words (-75%)
+✓ [698/698] తలగ-ఇగలష-నఘటవ-telugu-english-dictionary-ప-శకరనరయణ.md
+  231 → 46 words (-80%)
+
+=== SUMMARY ===
+
+Total files: 698
+Refactored: 458
+Skipped: 240
+Errors: 0
+Total word reduction: 78025 words
+Average reduction per file: 170 words
+
+Detailed results saved to: /home/user/dhwani/FRONTMATTER_REFACTORING_RESULTS.json
+

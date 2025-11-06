@@ -1,30 +1,34 @@
 ---
-title: 'Punjabi Musalmans'
+title: Punjabi Musalmans
 author:
-- J. M. Wikeley
+  - J. M. Wikeley
 language:
-- English
+  - English
 genre:
-- Ethnography
-- History
-description: |
-  During the late British colonial period of the early 20th century, J. M. Wikeley's "Punjabi Musalmans" represents a seminal ethnographic study that emerged from the complex intersection of colonial administrative documentation and anthropological research in Punjab. Writing in the aftermath of the 1857 Indian Rebellion, Wikeley meticulously compiled comprehensive data on Muslim communities, drawing from colonial census records, military archives, and regimental documentation to provide an intricate sociological portrait of Punjabi Muslim social structures, military service, and community dynamics. The work critically illuminates the British colonial administration's systematic approach to understanding and categorizing minority populations, particularly in the context of military recruitment and administrative governance. Wikeley's research captures a pivotal transitional moment in South Asian social history, documenting the complex interactions between colonial bureaucratic mechanisms and indigenous community formations. His detailed examination explores critical themes of social organization, military participation, demographic composition, and cultural identity among Punjabi Muslim communities during a period of profound political and social transformation. The study serves as an important historical document that provides contemporary scholars with nuanced insights into the socio-cultural landscape of Punjab during the late colonial era, offering a sophisticated ethnographic lens that transcends simplistic colonial narratives. By meticulously recording community structures, migration patterns, and military contributions, Wikeley's work becomes an invaluable archival resource for understanding the intricate social fabric of Punjabi Muslim societies during a critical period of imperial documentation and cultural negotiation.
+  - Ethnography
+  - History
+description: 'During the late British colonial period of the early 20th century, J. M.'
 collections:
-- modern-literature
-- regional-voices
+  - modern-literature
+  - regional-voices
 sources:
-- name: 'Internet Archive (University of Toronto)'
-  url: https://archive.org/details/punjabimusalmans00wikeuoft
-  type: other
+  - name: Internet Archive (University of Toronto)
+    url: 'https://archive.org/details/punjabimusalmans00wikeuoft'
+    type: other
 references:
-- name: 'Wikipedia: Punjabi Muslims'
-  url: https://en.wikipedia.org/wiki/Punjabi_Muslims
-  type: wikipedia
-- name: 'Open Library Search'
-  url: https://openlibrary.org/search?q=Punjabi+Musalmans
-  type: other
+  - name: 'Wikipedia: Punjabi Muslims'
+    url: 'https://en.wikipedia.org/wiki/Punjabi_Muslims'
+    type: wikipedia
+  - name: Open Library Search
+    url: 'https://openlibrary.org/search?q=Punjabi+Musalmans'
+    type: other
 featured: false
-publishDate: 2025-10-22
+publishDate: 2025-10-22T00:00:00.000Z
+---
+## Historical Context
+
+During the late British colonial period of the early 20th century, J. M. Wikeley's "Punjabi Musalmans" represents a seminal ethnographic study that emerged from the complex intersection of colonial administrative documentation and anthropological research in Punjab. Writing in the aftermath of the 1857 Indian Rebellion, Wikeley meticulously compiled comprehensive data on Muslim communities, drawing from colonial census records, military archives, and regimental documentation to provide an intricate sociological portrait of Punjabi Muslim social structures, military service, and community dynamics. The work critically illuminates the British colonial administration's systematic approach to understanding and categorizing minority populations, particularly in the context of military recruitment and administrative governance. Wikeley's research captures a pivotal transitional moment in South Asian social history, documenting the complex interactions between colonial bureaucratic mechanisms and indigenous community formations. His detailed examination explores critical themes of social organization, military participation, demographic composition, and cultural identity among Punjabi Muslim communities during a period of profound political and social transformation. The study serves as an important historical document that provides contemporary scholars with nuanced insights into the socio-cultural landscape of Punjab during the late colonial era, offering a sophisticated ethnographic lens that transcends simplistic colonial narratives. By meticulously recording community structures, migration patterns, and military contributions, Wikeley's work becomes an invaluable archival resource for understanding the intricate social fabric of Punjabi Muslim societies during a critical period of imperial documentation and cultural negotiation.
+
 ---
 
 # Punjabi Musalmans

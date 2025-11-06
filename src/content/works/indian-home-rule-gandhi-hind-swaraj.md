@@ -1,33 +1,41 @@
 ---
-title: 'Indian Home Rule (Hind Swaraj)'
+title: Indian Home Rule (Hind Swaraj)
 author:
-- Mohandas K. Gandhi
+  - Mohandas K. Gandhi
 year: 1909
 language:
-- English
-- Gujarati
+  - English
+  - Gujarati
 genre:
-- Political Philosophy
-- Social Criticism
-- Nationalist Literature
-description: |
-  Hind Swaraj (Indian Home Rule), composed by Mohandas K. Gandhi in 1909, represents a profound intellectual critique of colonial modernity and a radical reimagining of Indian political and social transformation during a pivotal moment in the nationalist movement. Written during his voyage from London to South Africa, the text emerges from Gandhi's direct experiences of racial discrimination and imperial oppression, presenting a dialogic exploration between an Editor and Reader that systematically deconstructs Western technological civilization and colonial governance. Gandhi articulates a revolutionary conceptualization of swaraj (self-rule) not merely as political independence, but as a comprehensive moral, spiritual, and economic regeneration of Indian society. The work challenges prevailing nationalist narratives by critiquing both British imperial structures and the uncritical emulation of Western institutional models by Indian elites. Gandhi argues that true liberation requires a fundamental rejection of industrial civilization's mechanistic worldview, advocating instead for indigenous self-reliance, nonviolent resistance, and a holistic understanding of social transformation rooted in spiritual and ethical principles. By positioning traditional Indian communal values and philosophical traditions as alternatives to Western developmental paradigms, Hind Swaraj becomes a seminal text in postcolonial thought, offering a sophisticated critique of technological rationality and imperial power. Its enduring significance lies in its radical reconceptualization of political agency, presenting swaraj as a profound process of individual and collective self-realization that transcends narrow political instrumentalism and envisions a more humanistic, interconnected social order.
+  - Political Philosophy
+  - Social Criticism
+  - Nationalist Literature
+description: >-
+  Hind Swaraj (Indian Home Rule), composed by Mohandas K. Gandhi in 1909,
+  represents a profound intellectual critique of colonial modernity and a
+  radical reimagining of Indian political and social transformation during a
+  pivotal moment in the nationalist movement.
 collections:
-- modern-literature
-- political-philosophy
+  - modern-literature
+  - political-philosophy
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/hindiswarajind00gand
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/hindiswarajind00gand'
+    type: other
 references:
-- name: 'Wikisource'
-  url: https://en.wikisource.org/wiki/Hind_Swaraj_or_Indian_Home_Rule
-  type: wikisource
-- name: 'Wikipedia'
-  url: https://en.wikipedia.org/wiki/Hind_Swaraj
-  type: other
+  - name: Wikisource
+    url: 'https://en.wikisource.org/wiki/Hind_Swaraj_or_Indian_Home_Rule'
+    type: wikisource
+  - name: Wikipedia
+    url: 'https://en.wikipedia.org/wiki/Hind_Swaraj'
+    type: other
 featured: false
-publishDate: 2025-09-28
+publishDate: 2025-09-28T00:00:00.000Z
+---
+## Historical Context
+
+Hind Swaraj (Indian Home Rule), composed by Mohandas K. Gandhi in 1909, represents a profound intellectual critique of colonial modernity and a radical reimagining of Indian political and social transformation during a pivotal moment in the nationalist movement. Written during his voyage from London to South Africa, the text emerges from Gandhi's direct experiences of racial discrimination and imperial oppression, presenting a dialogic exploration between an Editor and Reader that systematically deconstructs Western technological civilization and colonial governance. Gandhi articulates a revolutionary conceptualization of swaraj (self-rule) not merely as political independence, but as a comprehensive moral, spiritual, and economic regeneration of Indian society. The work challenges prevailing nationalist narratives by critiquing both British imperial structures and the uncritical emulation of Western institutional models by Indian elites. Gandhi argues that true liberation requires a fundamental rejection of industrial civilization's mechanistic worldview, advocating instead for indigenous self-reliance, nonviolent resistance, and a holistic understanding of social transformation rooted in spiritual and ethical principles. By positioning traditional Indian communal values and philosophical traditions as alternatives to Western developmental paradigms, Hind Swaraj becomes a seminal text in postcolonial thought, offering a sophisticated critique of technological rationality and imperial power. Its enduring significance lies in its radical reconceptualization of political agency, presenting swaraj as a profound process of individual and collective self-realization that transcends narrow political instrumentalism and envisions a more humanistic, interconnected social order.
+
 ---
 
 # Indian Home Rule (Hind Swaraj)

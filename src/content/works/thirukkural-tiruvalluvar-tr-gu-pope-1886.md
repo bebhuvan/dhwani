@@ -1,53 +1,64 @@
 ---
-title: 'Tirukkuṟaḷ (The Sacred Kural)'
+title: Tirukkuṟaḷ (The Sacred Kural)
 author:
-- Thiruvalluvar
-- tr. George Uglow Pope
+  - Thiruvalluvar
+  - tr. George Uglow Pope
 year: 1886
 language:
-- English
-- Tamil
+  - English
+  - Tamil
 genre:
-- Poetry
-- Ethics
-- Philosophy
-description: |
-  The Tirukkuṟaḷ (The Sacred Kural) is a seminal work of classical Tamil literature, representing a profound philosophical and ethical treatise composed during the Sangam period between 300 BCE and 500 CE. Traditionally attributed to Thiruvalluvar, a poet-philosopher whose biographical details remain largely speculative, the text comprises 1,330 concise couplets (kurals) systematically organized into 133 chapters spanning three primary domains of human experience: virtue (aram), wealth (porul), and love (inbam). Distinguished by its secular philosophical approach, the work transcends religious boundaries, offering universal ethical principles that reflect the sophisticated intellectual traditions of classical Tamil civilization. George Uglow Pope's 1886 English translation represents a landmark scholarly intervention, introducing the text's profound wisdom to global readership through meticulous translation and extensive scholarly annotation. The Tirukkuṟaḷ's enduring significance lies in its nuanced exploration of human conduct, social relationships, statecraft, and personal ethics, presenting a holistic worldview that integrates practical wisdom with philosophical depth. Its aphoristic structure allows complex moral and social principles to be conveyed with remarkable linguistic economy, demonstrating the remarkable intellectual sophistication of classical Tamil literary traditions. Considered a cornerstone of Tamil literary heritage, the text has been translated into numerous languages and continues to be studied as a critical source of philosophical and ethical insights, embodying the intellectual richness of pre-colonial Indian philosophical thought and serving as a testament to the depth and complexity of Tamil cultural and literary expression.
+  - Poetry
+  - Ethics
+  - Philosophy
+description: >-
+  The Tirukkuṟaḷ (The Sacred Kural) is a seminal work of classical Tamil
+  literature, representing a profound philosophical and ethical treatise
+  composed during the Sangam period between 300 BCE and 500 CE. Traditionally
+  attributed to Thiruvalluvar, a poet-philosopher whose biographical details
+  remain largely speculative, the text comprises 1,330 concise couplets (kurals)
+  systematically organized into 133 chapters spanning three primary domains of
+  human experience: virtue (aram), wealth (porul), and love (inbam).
 collections:
-- classical-literature
-- poetry-collection
-- ancient-wisdom
+  - classical-literature
+  - poetry-collection
+  - ancient-wisdom
 sources:
-- name: 'Internet Archive (University of Toronto)'
-  url: https://archive.org/details/tiruvalluvanayan00tiruuoft
-  type: other
-- name: 'Internet Archive (Complete Edition)'
-  url: https://archive.org/details/tirukkural-tiruvalluvar
-  type: other
-- name: 'Internet Archive (Pope Translation)'
-  url: https://archive.org/details/tirukkuralenglishtranslationgupope_655_j
-  type: other
+  - name: Internet Archive (University of Toronto)
+    url: 'https://archive.org/details/tiruvalluvanayan00tiruuoft'
+    type: other
+  - name: Internet Archive (Complete Edition)
+    url: 'https://archive.org/details/tirukkural-tiruvalluvar'
+    type: other
+  - name: Internet Archive (Pope Translation)
+    url: 'https://archive.org/details/tirukkuralenglishtranslationgupope_655_j'
+    type: other
 references:
-- name: 'Wikipedia: Kural'
-  url: https://en.wikipedia.org/wiki/Kural
-  type: wikipedia
-- name: 'Wikipedia: Thiruvalluvar'
-  url: https://en.wikipedia.org/wiki/Thiruvalluvar
-  type: wikipedia
-- name: 'Wikipedia: George Uglow Pope'
-  url: https://en.wikipedia.org/wiki/George_Uglow_Pope
-  type: wikipedia
-- name: 'Wikisource: Tirukural'
-  url: https://en.wikisource.org/wiki/Tirukural
-  type: wikisource
-- name: 'Tamil Wikisource'
-  url: https://ta.wikisource.org/wiki/திருக்குறள்
-  type: wikisource
-- name: 'OpenLibrary'
-  url: https://openlibrary.org/search?q=Thirukkural+Pope+1886
-  type: other
+  - name: 'Wikipedia: Kural'
+    url: 'https://en.wikipedia.org/wiki/Kural'
+    type: wikipedia
+  - name: 'Wikipedia: Thiruvalluvar'
+    url: 'https://en.wikipedia.org/wiki/Thiruvalluvar'
+    type: wikipedia
+  - name: 'Wikipedia: George Uglow Pope'
+    url: 'https://en.wikipedia.org/wiki/George_Uglow_Pope'
+    type: wikipedia
+  - name: 'Wikisource: Tirukural'
+    url: 'https://en.wikisource.org/wiki/Tirukural'
+    type: wikisource
+  - name: Tamil Wikisource
+    url: 'https://ta.wikisource.org/wiki/திருக்குறள்'
+    type: wikisource
+  - name: OpenLibrary
+    url: 'https://openlibrary.org/search?q=Thirukkural+Pope+1886'
+    type: other
 featured: false
-publishDate: 2025-01-24
+publishDate: 2025-01-24T00:00:00.000Z
+---
+## Historical Context
+
+The Tirukkuṟaḷ (The Sacred Kural) is a seminal work of classical Tamil literature, representing a profound philosophical and ethical treatise composed during the Sangam period between 300 BCE and 500 CE. Traditionally attributed to Thiruvalluvar, a poet-philosopher whose biographical details remain largely speculative, the text comprises 1,330 concise couplets (kurals) systematically organized into 133 chapters spanning three primary domains of human experience: virtue (aram), wealth (porul), and love (inbam). Distinguished by its secular philosophical approach, the work transcends religious boundaries, offering universal ethical principles that reflect the sophisticated intellectual traditions of classical Tamil civilization. George Uglow Pope's 1886 English translation represents a landmark scholarly intervention, introducing the text's profound wisdom to global readership through meticulous translation and extensive scholarly annotation. The Tirukkuṟaḷ's enduring significance lies in its nuanced exploration of human conduct, social relationships, statecraft, and personal ethics, presenting a holistic worldview that integrates practical wisdom with philosophical depth. Its aphoristic structure allows complex moral and social principles to be conveyed with remarkable linguistic economy, demonstrating the remarkable intellectual sophistication of classical Tamil literary traditions. Considered a cornerstone of Tamil literary heritage, the text has been translated into numerous languages and continues to be studied as a critical source of philosophical and ethical insights, embodying the intellectual richness of pre-colonial Indian philosophical thought and serving as a testament to the depth and complexity of Tamil cultural and literary expression.
+
 ---
 
 # Tirukkuṟaḷ (The Sacred Kural)

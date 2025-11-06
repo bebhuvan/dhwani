@@ -1,47 +1,61 @@
 ---
-title: 'Autobiography of a Yogi'
+title: Autobiography of a Yogi
 author:
-- Yogananda, Paramahansa
+  - 'Yogananda, Paramahansa'
 year: 1937
 language:
-- English
+  - English
 genre:
-- Classical Literature
-description: |
-  Paramahansa Yogananda's "Autobiography of a Yogi" represents a seminal work bridging Indian spiritual traditions with Western intellectual and spiritual landscapes during the critical period of India's independence movement and global cultural transformation. Published initially in 1937 and gaining widespread international recognition after 1946, the text emerges from the complex intellectual milieu of early 20th-century Bengal, where traditional yogic knowledge confronted colonial epistemologies and emerging transnational philosophical discourses. Yogananda, born in Bengal in 1893 and trained in classical yoga and Vedanta philosophies, crafts a nuanced narrative that simultaneously documents personal spiritual evolution and systematically introduces complex yogic metaphysical concepts to Western audiences. The autobiography chronicles Yogananda's spiritual journey, detailing encounters with significant Indian spiritual masters like Sri Yukteswar Giri and Lahiri Mahasaya, while explicating Kriya Yoga's sophisticated meditation techniques and philosophical foundations. Beyond personal narrative, the work represents a critical intervention in cross-cultural spiritual transmission, meticulously presenting yogic phenomenology as a rigorous contemplative science rather than exotic mysticism. By presenting miraculous spiritual experiences within a framework of empirical observation, Yogananda challenged prevailing Western epistemological assumptions about consciousness, religious experience, and human potential. The text's significance extends beyond individual spiritual biography, functioning as a pivotal document in the global circulation of Indian philosophical knowledge, instrumental in establishing yoga's intellectual legitimacy and facilitating deeper intercultural philosophical exchange during a transformative historical moment of decolonization and global intellectual reconfiguration.
+  - Classical Literature
+description: >-
+  Paramahansa Yogananda's "Autobiography of a Yogi" represents a seminal work
+  bridging Indian spiritual traditions with Western intellectual and spiritual
+  landscapes during the critical period of India's independence movement and
+  global cultural transformation. Published initially in 1937 and gaining
+  widespread international recognition after 1946, the text emerges from the
+  complex intellectual milieu of early 20th-century Bengal, where traditional
+  yogic knowledge confronted colonial epistemologies and emerging transnational
+  philosophical discourses.
 collections:
-- classical-literature
+  - classical-literature
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/7452
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/7452.html.images
-  type: other
-- name: 'Internet Archive (Autobiography Of A Yogi By Paramahansa Yogananda 422p)'
-  url: https://archive.org/details/autobiography-of-a-yogi-by-paramahansa-yogananda-422p
-  type: other
-- name: 'Internet Archive (Class 6)'
-  url: https://archive.org/details/ojo51tsnaums9seedjaw8jkuztpkozpdrzlp31gh
-  type: other
-- name: 'Internet Archive - Autobiography of a Yogi (1946)'
-  url: https://archive.org/details/autobiographyofa00yoga
-  type: other
-- name: 'Internet Archive - Autobiography of a Yogi (Complete)'
-  url: https://archive.org/details/autobiographyofa0000yoga
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/7452'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/7452.html.images'
+    type: other
+  - name: Internet Archive (Autobiography Of A Yogi By Paramahansa Yogananda 422p)
+    url: >-
+      https://archive.org/details/autobiography-of-a-yogi-by-paramahansa-yogananda-422p
+    type: other
+  - name: Internet Archive (Class 6)
+    url: 'https://archive.org/details/ojo51tsnaums9seedjaw8jkuztpkozpdrzlp31gh'
+    type: other
+  - name: Internet Archive - Autobiography of a Yogi (1946)
+    url: 'https://archive.org/details/autobiographyofa00yoga'
+    type: other
+  - name: Internet Archive - Autobiography of a Yogi (Complete)
+    url: 'https://archive.org/details/autobiographyofa0000yoga'
+    type: other
 references:
-- name: 'Wikipedia: Autobiography of a Yogi'
-  url: https://en.wikipedia.org/wiki/Autobiography_of_a_Yogi
-  type: other
-- name: 'Wikipedia: Yogananda'
-  url: https://en.wikipedia.org/wiki/Yogananda
-  type: other
-- name: 'Open Library: Autobiography of a Yogi'
-  url: https://openlibrary.org/search?q=Autobiography%20of%20a%20Yogi%20Yogananda%2C%20Paramahansa
-  type: other
+  - name: 'Wikipedia: Autobiography of a Yogi'
+    url: 'https://en.wikipedia.org/wiki/Autobiography_of_a_Yogi'
+    type: other
+  - name: 'Wikipedia: Yogananda'
+    url: 'https://en.wikipedia.org/wiki/Yogananda'
+    type: other
+  - name: 'Open Library: Autobiography of a Yogi'
+    url: >-
+      https://openlibrary.org/search?q=Autobiography%20of%20a%20Yogi%20Yogananda%2C%20Paramahansa
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+Paramahansa Yogananda's "Autobiography of a Yogi" represents a seminal work bridging Indian spiritual traditions with Western intellectual and spiritual landscapes during the critical period of India's independence movement and global cultural transformation. Published initially in 1937 and gaining widespread international recognition after 1946, the text emerges from the complex intellectual milieu of early 20th-century Bengal, where traditional yogic knowledge confronted colonial epistemologies and emerging transnational philosophical discourses. Yogananda, born in Bengal in 1893 and trained in classical yoga and Vedanta philosophies, crafts a nuanced narrative that simultaneously documents personal spiritual evolution and systematically introduces complex yogic metaphysical concepts to Western audiences. The autobiography chronicles Yogananda's spiritual journey, detailing encounters with significant Indian spiritual masters like Sri Yukteswar Giri and Lahiri Mahasaya, while explicating Kriya Yoga's sophisticated meditation techniques and philosophical foundations. Beyond personal narrative, the work represents a critical intervention in cross-cultural spiritual transmission, meticulously presenting yogic phenomenology as a rigorous contemplative science rather than exotic mysticism. By presenting miraculous spiritual experiences within a framework of empirical observation, Yogananda challenged prevailing Western epistemological assumptions about consciousness, religious experience, and human potential. The text's significance extends beyond individual spiritual biography, functioning as a pivotal document in the global circulation of Indian philosophical knowledge, instrumental in establishing yoga's intellectual legitimacy and facilitating deeper intercultural philosophical exchange during a transformative historical moment of decolonization and global intellectual reconfiguration.
+
 ---
 
 # Autobiography of a Yogi

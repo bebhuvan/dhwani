@@ -1,34 +1,66 @@
 ---
-title: "Priyadarsika (The Dear One)"
-author: ["Harsha", "Harshavardhana"]
+title: Priyadarsika (The Dear One)
+author:
+  - Harsha
+  - Harshavardhana
 year: 640
-language: ["Sanskrit", "English"]
-genre: ["Drama", "Classical Literature", "Sanskrit Drama", "Romantic Comedy"]
-description: "Harsha's Priyadarsika represents the third jewel in his dramatic trilogy, a four-act natika (minor drama) continuing the King Udayana cycle with sophisticated exploration of jealousy, domestic politics, and reconciliation within polygamous marriage. Composed by Emperor Harshavardhana alongside Ratnavali and Nagananda, this romantic comedy focuses on Queen Aranyika's jealousy when King Udayana becomes infatuated with the captive princess Priyadarsika, creating triangular tension resolved through clever manipulation and eventual harmonious coexistence. The plot centers on Udayana, already married to Aranyika (daughter of the King of Anga), who captures the beautiful princess Priyadarsika (sometimes called Kaumudi) during warfare and becomes enamored despite political complications. Aranyika's jealousy drives the dramatic conflict as she oscillates between wifely duty, personal hurt, and strategic calculation, while the minister Yaugandharayana and vidushaka Vasantaka engineer situations revealing truth and facilitating reconciliation. Through mistaken letters, overheard conversations, theatrical performances within the play (play-within-play device), and strategic revelation, the drama resolves with Udayana marrying Priyadarsika while maintaining harmonious relations with Aranyika, validating both romantic desire and domestic stability. The play demonstrates Harsha's mature dramatic vision: nuanced female psychology (Aranyika's complex emotional journey), sophisticated use of theatrical illusion and reality, integration of shringara (romantic) and hasya (comic) rasas, and exploration of marriage politics within royal households. Priyadarsika influenced later domestic dramas, established conventions for jealousy narratives, and revealed Sanskrit comedy's capacity for psychological realism within conventional structures."
-collections: ['sanskrit-drama', 'classical-literature']
+language:
+  - Sanskrit
+  - English
+genre:
+  - Drama
+  - Classical Literature
+  - Sanskrit Drama
+  - Romantic Comedy
+description: >-
+  Harsha's Priyadarsika represents the third jewel in his dramatic trilogy, a
+  four-act natika (minor drama) continuing the King Udayana cycle with
+  sophisticated exploration of jealousy, domestic politics, and reconciliation
+  within polygamous marriage. Composed by Emperor Harshavardhana alongside
+  Ratnavali and Nagananda, this romantic comedy focuses on Queen Aranyika's
+  jealousy when King Udayana becomes infatuated with the captive princess
+  Priyadarsika, creating triangular tension resolved through clever manipulation
+  and eventual harmonious coexistence.
+collections:
+  - sanskrit-drama
+  - classical-literature
 sources:
-  - name: "Internet Archive (Sanskrit text with commentary)"
-    url: "https://archive.org/details/priyadarsikaofki00hars"
-    type: "other"
-  - name: "Internet Archive (Various editions)"
-    url: "https://archive.org/details/in.ernet.dli.2015.406807"
-    type: "other"
+  - name: Internet Archive (Sanskrit text with commentary)
+    url: 'https://archive.org/details/priyadarsikaofki00hars'
+    type: other
+  - name: Internet Archive (Various editions)
+    url: 'https://archive.org/details/in.ernet.dli.2015.406807'
+    type: other
 references:
-  - name: "Wikipedia: Priyadarsika"
-    url: "https://en.wikipedia.org/wiki/Priyadarsika"
-    type: "wikipedia"
-  - name: "Wikipedia: Harsha"
-    url: "https://en.wikipedia.org/wiki/Harsha"
-    type: "wikipedia"
-  - name: "Wikipedia: Sanskrit drama"
-    url: "https://en.wikipedia.org/wiki/Sanskrit_drama"
-    type: "wikipedia"
-  - name: "Wikipedia: Udayana"
-    url: "https://en.wikipedia.org/wiki/Udayana"
-    type: "wikipedia"
+  - name: 'Wikipedia: Priyadarsika'
+    url: 'https://en.wikipedia.org/wiki/Priyadarsika'
+    type: wikipedia
+  - name: 'Wikipedia: Harsha'
+    url: 'https://en.wikipedia.org/wiki/Harsha'
+    type: wikipedia
+  - name: 'Wikipedia: Sanskrit drama'
+    url: 'https://en.wikipedia.org/wiki/Sanskrit_drama'
+    type: wikipedia
+  - name: 'Wikipedia: Udayana'
+    url: 'https://en.wikipedia.org/wiki/Udayana'
+    type: wikipedia
 featured: true
-publishDate: 2025-11-02
-tags: ["Priyadarsika", "Harsha", "Sanskrit drama", "classical literature", "romantic comedy", "Indian drama", "Udayana", "jealousy", "public domain"]
+publishDate: 2025-11-02T00:00:00.000Z
+tags:
+  - Priyadarsika
+  - Harsha
+  - Sanskrit drama
+  - classical literature
+  - romantic comedy
+  - Indian drama
+  - Udayana
+  - jealousy
+  - public domain
+---
+## Historical Context
+
+Harsha's Priyadarsika represents the third jewel in his dramatic trilogy, a four-act natika (minor drama) continuing the King Udayana cycle with sophisticated exploration of jealousy, domestic politics, and reconciliation within polygamous marriage. Composed by Emperor Harshavardhana alongside Ratnavali and Nagananda, this romantic comedy focuses on Queen Aranyika's jealousy when King Udayana becomes infatuated with the captive princess Priyadarsika, creating triangular tension resolved through clever manipulation and eventual harmonious coexistence. The plot centers on Udayana, already married to Aranyika (daughter of the King of Anga), who captures the beautiful princess Priyadarsika (sometimes called Kaumudi) during warfare and becomes enamored despite political complications. Aranyika's jealousy drives the dramatic conflict as she oscillates between wifely duty, personal hurt, and strategic calculation, while the minister Yaugandharayana and vidushaka Vasantaka engineer situations revealing truth and facilitating reconciliation. Through mistaken letters, overheard conversations, theatrical performances within the play (play-within-play device), and strategic revelation, the drama resolves with Udayana marrying Priyadarsika while maintaining harmonious relations with Aranyika, validating both romantic desire and domestic stability. The play demonstrates Harsha's mature dramatic vision: nuanced female psychology (Aranyika's complex emotional journey), sophisticated use of theatrical illusion and reality, integration of shringara (romantic) and hasya (comic) rasas, and exploration of marriage politics within royal households. Priyadarsika influenced later domestic dramas, established conventions for jealousy narratives, and revealed Sanskrit comedy's capacity for psychological realism within conventional structures.
+
 ---
 
 # Priyadarsika (The Dear One)

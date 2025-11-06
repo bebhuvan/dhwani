@@ -1,36 +1,47 @@
 ---
-title: 'Markandeya Purana'
+title: Markandeya Purana
 author:
-- F. Eden Pargiter
+  - F. Eden Pargiter
 year: 1904
 language:
-- English
-- Sanskrit
+  - English
+  - Sanskrit
 genre:
-- Religious Texts
-- Mythology
-description: |
-  The Markandeya Purana represents a pivotal textual monument of early medieval Indian philosophical and religious discourse, emerging during a critical period of intellectual transformation between the 6th and 8th centuries CE. Situated within the complex landscape of Brahmanical philosophical traditions, this canonical text exemplifies the sophisticated theological and cosmological thinking characteristic of its era. Comprising approximately 6,900 verses across 137 chapters, the work distinguishes itself through a remarkably non-sectarian approach that prioritizes philosophical exposition over devotional narrative. Its scholarly significance is particularly pronounced in its incorporation of the Devi Mahatmya (chapters 81-93), widely recognized as the earliest comprehensive Sanskrit treatise exploring the Goddess as Supreme Creator and fundamental cosmic principle. The text's composition is attributed to an unknown author, likely a learned Brahmin scholar from the Deccan region, reflecting the period's intellectual syncretism and complex religious dialogues. Beyond its mythological content, the Markandeya Purana offers profound insights into social structures, cosmological theories, and philosophical concepts that were foundational to evolving Hindu thought. Its systematic treatment of metaphysical themes, including creation narratives, genealogical accounts, and philosophical discourse, provides contemporary scholars with a nuanced window into the intellectual and spiritual transformations of early medieval India. The text's enduring scholarly importance lies in its sophisticated integration of mythological narrative with philosophical abstraction, representing a critical juncture in the development of Hindu philosophical and religious conceptualizations that would profoundly influence subsequent intellectual traditions.
+  - Religious Texts
+  - Mythology
+description: >-
+  The Markandeya Purana represents a pivotal textual monument of early medieval
+  Indian philosophical and religious discourse, emerging during a critical
+  period of intellectual transformation between the 6th and 8th centuries CE.
+  Situated within the complex landscape of Brahmanical philosophical traditions,
+  this canonical text exemplifies the sophisticated theological and cosmological
+  thinking characteristic of its era.
 collections:
-- spiritual-texts
-- ancient-wisdom
-- classical-literature
+  - spiritual-texts
+  - ancient-wisdom
+  - classical-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.ernet.dli.2015.188841
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/in.ernet.dli.2015.188841'
+    type: other
 references:
-- name: 'Wikipedia: Markandeya Purana'
-  url: https://en.wikipedia.org/wiki/Markandeya_Purana
-  type: wikipedia
-- name: 'Wikipedia: F. E. Pargiter'
-  url: https://en.wikipedia.org/wiki/F._E._Pargiter
-  type: wikipedia
-- name: 'Open Library'
-  url: https://openlibrary.org/search?q=Markandeya+Purana+Pargiter&mode=everything
-  type: other
+  - name: 'Wikipedia: Markandeya Purana'
+    url: 'https://en.wikipedia.org/wiki/Markandeya_Purana'
+    type: wikipedia
+  - name: 'Wikipedia: F. E. Pargiter'
+    url: 'https://en.wikipedia.org/wiki/F._E._Pargiter'
+    type: wikipedia
+  - name: Open Library
+    url: >-
+      https://openlibrary.org/search?q=Markandeya+Purana+Pargiter&mode=everything
+    type: other
 featured: false
-publishDate: 2025-10-23
+publishDate: 2025-10-23T00:00:00.000Z
+---
+## Historical Context
+
+The Markandeya Purana represents a pivotal textual monument of early medieval Indian philosophical and religious discourse, emerging during a critical period of intellectual transformation between the 6th and 8th centuries CE. Situated within the complex landscape of Brahmanical philosophical traditions, this canonical text exemplifies the sophisticated theological and cosmological thinking characteristic of its era. Comprising approximately 6,900 verses across 137 chapters, the work distinguishes itself through a remarkably non-sectarian approach that prioritizes philosophical exposition over devotional narrative. Its scholarly significance is particularly pronounced in its incorporation of the Devi Mahatmya (chapters 81-93), widely recognized as the earliest comprehensive Sanskrit treatise exploring the Goddess as Supreme Creator and fundamental cosmic principle. The text's composition is attributed to an unknown author, likely a learned Brahmin scholar from the Deccan region, reflecting the period's intellectual syncretism and complex religious dialogues. Beyond its mythological content, the Markandeya Purana offers profound insights into social structures, cosmological theories, and philosophical concepts that were foundational to evolving Hindu thought. Its systematic treatment of metaphysical themes, including creation narratives, genealogical accounts, and philosophical discourse, provides contemporary scholars with a nuanced window into the intellectual and spiritual transformations of early medieval India. The text's enduring scholarly importance lies in its sophisticated integration of mythological narrative with philosophical abstraction, representing a critical juncture in the development of Hindu philosophical and religious conceptualizations that would profoundly influence subsequent intellectual traditions.
+
 ---
 
 # Markandeya Purana

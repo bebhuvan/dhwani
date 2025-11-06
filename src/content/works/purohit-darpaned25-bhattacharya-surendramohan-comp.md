@@ -1,26 +1,38 @@
 ---
 title: 'Purohit-darpan,ed.25'
 author:
-- Bhattacharya, surendramohan Comp.
+  - 'Bhattacharya, surendramohan Comp.'
 year: 1933
 language:
-- Bengali
+  - Bengali
 genre:
-- C-DAK
-description: |
-  Purohit-darpan, edited by Surendramohan Bhattacharya in its 25th edition, represents a critical scholarly compilation exploring the intricate role of Purohitas (Hindu priests) within the complex socio-religious infrastructure of early 20th-century Bengal. Published in 1933, this comprehensive work emerges during a pivotal period of cultural preservation and intellectual revival in colonial India, when traditional knowledge systems were being systematically documented and analyzed. The text meticulously delineates the multifaceted responsibilities, ritualistic practices, genealogical knowledge, and societal positioning of Brahmin priests across different regional contexts. By cataloging intricate details of priestly protocols, ceremonial procedures, and theological interpretations, Bhattacharya's compilation serves as an essential anthropological and ethnographic resource for understanding the nuanced dynamics of Hindu religious practice. The work systematically examines the Purohita's role not merely as a religious functionary, but as a critical knowledge-keeper transmitting cultural memory, performing complex ritualistic functions across lifecycle events, and maintaining intricate social hierarchies. Significantly, it provides granular insights into the adaptation of traditional priesthood during a period of significant social transformation, capturing the interface between colonial modernity and enduring religious traditions. For scholars of South Asian studies, religious anthropology, and cultural history, Purohit-darpan offers a sophisticated, detailed window into the sophisticated institutional mechanisms that sustained Hindu social and religious structures during a pivotal transitional period in Indian intellectual and cultural history, making it an invaluable primary source for understanding the complex negotiations between tradition and change in early 20th-century Bengal.
+  - C-DAK
+description: >-
+  Purohit-darpan, edited by Surendramohan Bhattacharya in its 25th edition,
+  represents a critical scholarly compilation exploring the intricate role of
+  Purohitas (Hindu priests) within the complex socio-religious infrastructure of
+  early 20th-century Bengal. Published in 1933, this comprehensive work emerges
+  during a pivotal period of cultural preservation and intellectual revival in
+  colonial India, when traditional knowledge systems were being systematically
+  documented and analyzed.
 collections:
-- classical-literature
+  - classical-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.ernet.dli.2015.358085
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/in.ernet.dli.2015.358085'
+    type: other
 references:
-- name: 'Open Library: Purohit-darpan,ed.25 year'
-  url: https://openlibrary.org/search?q=Purohit-darpaned25+year+1933+language+Bengali+genre+Bhattacharya
-  type: other
+  - name: 'Open Library: Purohit-darpan,ed.25 year'
+    url: >-
+      https://openlibrary.org/search?q=Purohit-darpaned25+year+1933+language+Bengali+genre+Bhattacharya
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+Purohit-darpan, edited by Surendramohan Bhattacharya in its 25th edition, represents a critical scholarly compilation exploring the intricate role of Purohitas (Hindu priests) within the complex socio-religious infrastructure of early 20th-century Bengal. Published in 1933, this comprehensive work emerges during a pivotal period of cultural preservation and intellectual revival in colonial India, when traditional knowledge systems were being systematically documented and analyzed. The text meticulously delineates the multifaceted responsibilities, ritualistic practices, genealogical knowledge, and societal positioning of Brahmin priests across different regional contexts. By cataloging intricate details of priestly protocols, ceremonial procedures, and theological interpretations, Bhattacharya's compilation serves as an essential anthropological and ethnographic resource for understanding the nuanced dynamics of Hindu religious practice. The work systematically examines the Purohita's role not merely as a religious functionary, but as a critical knowledge-keeper transmitting cultural memory, performing complex ritualistic functions across lifecycle events, and maintaining intricate social hierarchies. Significantly, it provides granular insights into the adaptation of traditional priesthood during a period of significant social transformation, capturing the interface between colonial modernity and enduring religious traditions. For scholars of South Asian studies, religious anthropology, and cultural history, Purohit-darpan offers a sophisticated, detailed window into the sophisticated institutional mechanisms that sustained Hindu social and religious structures during a pivotal transitional period in Indian intellectual and cultural history, making it an invaluable primary source for understanding the complex negotiations between tradition and change in early 20th-century Bengal.
+
 ---
 
 # Purohit-darpan: A Bengali Ritual Handbook for Hindu Priests

@@ -1,42 +1,54 @@
 ---
-title: 'The Buddhacharita (Life of Buddha)'
+title: The Buddhacharita (Life of Buddha)
 author:
-- Aśvaghoṣa
-- Edward Byles Cowell
+  - Aśvaghoṣa
+  - Edward Byles Cowell
 year: 1894
 language:
-- English
-- Sanskrit
+  - English
+  - Sanskrit
 genre:
-- Epic Poetry
-- Buddhist Literature
-- Biography
-description: |
-  The Buddhacharita (Acts of the Buddha) represents a pivotal literary achievement in early classical Sanskrit literature, emerging during the critical Kushan period when Buddhism experienced profound intellectual and cultural transformation across North India. Composed by Aśvaghoṣa, a sophisticated scholar-poet associated with the Mahayana Buddhist intellectual tradition, this epic mahakavya illuminates the life trajectory of Gautama Buddha through exquisite poetic narrative. Written in the 2nd century CE, likely during King Kanishka's reign (c. 127-151 CE), the work demonstrates remarkable sophistication in synthesizing philosophical discourse with intricate literary technique. Originally spanning 28 cantos, only the first 14 survive in the original Sanskrit, with complete versions preserved through Chinese and Tibetan translations. Aśvaghoṣa's nuanced portrayal transcends hagiographic conventions, presenting Buddha's spiritual journey with psychological complexity and profound philosophical insight. The text explores themes of renunciation, spiritual transformation, and the universal human quest for understanding, reflecting broader Buddhist contemplative traditions while maintaining sophisticated aesthetic standards of classical Sanskrit literature. Critically, the Buddhacharita represents a landmark moment in Indian intellectual history, bridging religious narrative, philosophical exploration, and refined literary expression. Its significance extends beyond religious biography, offering a sophisticated meditation on human consciousness, societal structures, and individual spiritual potential. As a literary monument, it exemplifies the remarkable intellectual dynamism of early Indian Buddhist scholarly traditions, demonstrating how complex philosophical ideas could be communicated through elegant, accessible poetic form.
+  - Epic Poetry
+  - Buddhist Literature
+  - Biography
+description: >-
+  The Buddhacharita (Acts of the Buddha) represents a pivotal literary
+  achievement in early classical Sanskrit literature, emerging during the
+  critical Kushan period when Buddhism experienced profound intellectual and
+  cultural transformation across North India. Composed by Aśvaghoṣa, a
+  sophisticated scholar-poet associated with the Mahayana Buddhist intellectual
+  tradition, this epic mahakavya illuminates the life trajectory of Gautama
+  Buddha through exquisite poetic narrative.
 collections:
-- spiritual-texts
-- ancient-wisdom
-- classical-literature
-- poetry-collection
+  - spiritual-texts
+  - ancient-wisdom
+  - classical-literature
+  - poetry-collection
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.ernet.dli.2015.22115
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/in.ernet.dli.2015.22115'
+    type: other
 references:
-- name: 'Wikipedia: Buddhacharita'
-  url: https://en.wikipedia.org/wiki/Buddhacharita
-  type: wikipedia
-- name: 'Wikipedia: Aśvaghoṣa'
-  url: https://en.wikipedia.org/wiki/Aśvaghoṣa
-  type: wikipedia
-- name: 'Wikipedia: Edward Byles Cowell'
-  url: https://en.wikipedia.org/wiki/Edward_Byles_Cowell
-  type: wikipedia
-- name: 'Open Library'
-  url: https://openlibrary.org/search?q=Buddha-karita+Asvaghosha+Cowell&mode=everything
-  type: other
+  - name: 'Wikipedia: Buddhacharita'
+    url: 'https://en.wikipedia.org/wiki/Buddhacharita'
+    type: wikipedia
+  - name: 'Wikipedia: Aśvaghoṣa'
+    url: 'https://en.wikipedia.org/wiki/Aśvaghoṣa'
+    type: wikipedia
+  - name: 'Wikipedia: Edward Byles Cowell'
+    url: 'https://en.wikipedia.org/wiki/Edward_Byles_Cowell'
+    type: wikipedia
+  - name: Open Library
+    url: >-
+      https://openlibrary.org/search?q=Buddha-karita+Asvaghosha+Cowell&mode=everything
+    type: other
 featured: false
-publishDate: 2025-10-23
+publishDate: 2025-10-23T00:00:00.000Z
+---
+## Historical Context
+
+The Buddhacharita (Acts of the Buddha) represents a pivotal literary achievement in early classical Sanskrit literature, emerging during the critical Kushan period when Buddhism experienced profound intellectual and cultural transformation across North India. Composed by Aśvaghoṣa, a sophisticated scholar-poet associated with the Mahayana Buddhist intellectual tradition, this epic mahakavya illuminates the life trajectory of Gautama Buddha through exquisite poetic narrative. Written in the 2nd century CE, likely during King Kanishka's reign (c. 127-151 CE), the work demonstrates remarkable sophistication in synthesizing philosophical discourse with intricate literary technique. Originally spanning 28 cantos, only the first 14 survive in the original Sanskrit, with complete versions preserved through Chinese and Tibetan translations. Aśvaghoṣa's nuanced portrayal transcends hagiographic conventions, presenting Buddha's spiritual journey with psychological complexity and profound philosophical insight. The text explores themes of renunciation, spiritual transformation, and the universal human quest for understanding, reflecting broader Buddhist contemplative traditions while maintaining sophisticated aesthetic standards of classical Sanskrit literature. Critically, the Buddhacharita represents a landmark moment in Indian intellectual history, bridging religious narrative, philosophical exploration, and refined literary expression. Its significance extends beyond religious biography, offering a sophisticated meditation on human consciousness, societal structures, and individual spiritual potential. As a literary monument, it exemplifies the remarkable intellectual dynamism of early Indian Buddhist scholarly traditions, demonstrating how complex philosophical ideas could be communicated through elegant, accessible poetic form.
+
 ---
 
 # The Buddhacharita (Life of Buddha)

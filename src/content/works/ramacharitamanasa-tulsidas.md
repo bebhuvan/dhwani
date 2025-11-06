@@ -1,49 +1,61 @@
 ---
-title: 'Ramcharitmanas'
+title: Ramcharitmanas
 author:
-- Tulsidas
+  - Tulsidas
 year: 1574
 language:
-- Awadhi
-- Hindi
+  - Awadhi
+  - Hindi
 genre:
-- Epic Poetry
-- Religious Literature
-- Devotional Poetry
-description: |
-  Tulsidas's Ramcharitmanas represents a watershed moment in medieval North Indian literary and religious discourse, emerging during a complex period of cultural syncretism under the Mughal Emperor Akbar's reign and the broader Bhakti movement of the late 16th century. Composed between 1574-1577 in Awadhi vernacular, this seminal work reimagines the Sanskrit Ramayana through a profound bhakti (devotional) theological lens, democratizing religious narrative and challenging prevailing social hierarchies. Spanning approximately 12,000 verses across seven kandas (sections), the text transforms the epic from a classical Sanskrit narrative to an accessible, emotionally resonant spiritual text that could be comprehended by diverse social classes. Tulsidas, a Vaishnavite poet-saint from Rajapur, strategically employed Awadhi to make Rama's story immediately intelligible to common people, simultaneously elevating the vernacular language and religious experience. The work presents Rama not merely as a historical figure but as a supreme divine manifestation, embodying ideal righteousness (dharma), familial duty, and spiritual devotion. Its narrative innovations—including psychological depth, emotional nuance, and theological interpretation—profoundly influenced subsequent North Indian literary and religious traditions. Beyond its literary merit, Ramcharitmanas became a crucial cultural text facilitating inter-community dialogue during a period of significant Hindu-Muslim cultural exchange, representing an intellectual bridge between different religious and social domains. Its enduring legacy is evident in its continued ritualistic recitation, performative traditions, and deep resonance in contemporary Hindu spiritual practice across North India.
+  - Epic Poetry
+  - Religious Literature
+  - Devotional Poetry
+description: >-
+  Tulsidas's Ramcharitmanas represents a watershed moment in medieval North
+  Indian literary and religious discourse, emerging during a complex period of
+  cultural syncretism under the Mughal Emperor Akbar's reign and the broader
+  Bhakti movement of the late 16th century. Composed between 1574-1577 in Awadhi
+  vernacular, this seminal work reimagines the Sanskrit Ramayana through a
+  profound bhakti (devotional) theological lens, democratizing religious
+  narrative and challenging prevailing social hierarchies.
 collections:
-- classical-literature
-- epic-poetry
-- devotional-literature
+  - classical-literature
+  - epic-poetry
+  - devotional-literature
 sources:
-- name: 'Internet Archive (Multiple Editions)'
-  url: https://archive.org/details/ramcharitmanas
-  type: other
-- name: 'Sacred Texts Archive'
-  url: https://www.sacred-texts.com/hin/rama/index.htm
-  type: other
-- name: 'Internet Archive (English Translation)'
-  url: https://archive.org/details/TheHolyLakeOfTheActsOfRama
-  type: other
+  - name: Internet Archive (Multiple Editions)
+    url: 'https://archive.org/details/ramcharitmanas'
+    type: other
+  - name: Sacred Texts Archive
+    url: 'https://www.sacred-texts.com/hin/rama/index.htm'
+    type: other
+  - name: Internet Archive (English Translation)
+    url: 'https://archive.org/details/TheHolyLakeOfTheActsOfRama'
+    type: other
 references:
-- name: 'Wikipedia: Tulsidas'
-  url: https://en.wikipedia.org/wiki/Tulsidas
-  type: wikipedia
-- name: 'Wikipedia: Ramcharitmanas'
-  url: https://en.wikipedia.org/wiki/Ramcharitmanas
-  type: wikipedia
-- name: 'Wikipedia: Awadhi literature'
-  url: https://en.wikipedia.org/wiki/Awadhi_literature
-  type: wikipedia
-- name: 'Hindi Wikipedia: Ramcharitmanas'
-  url: https://hi.wikipedia.org/wiki/रामचरितमानस
-  type: wikipedia
-- name: 'Open Library: Ramcharitmanas year'
-  url: https://openlibrary.org/search?q=Ramcharitmanas+year+1574+language+Awadhi+Hindi+Tulsidas
-  type: other
+  - name: 'Wikipedia: Tulsidas'
+    url: 'https://en.wikipedia.org/wiki/Tulsidas'
+    type: wikipedia
+  - name: 'Wikipedia: Ramcharitmanas'
+    url: 'https://en.wikipedia.org/wiki/Ramcharitmanas'
+    type: wikipedia
+  - name: 'Wikipedia: Awadhi literature'
+    url: 'https://en.wikipedia.org/wiki/Awadhi_literature'
+    type: wikipedia
+  - name: 'Hindi Wikipedia: Ramcharitmanas'
+    url: 'https://hi.wikipedia.org/wiki/रामचरितमानस'
+    type: wikipedia
+  - name: 'Open Library: Ramcharitmanas year'
+    url: >-
+      https://openlibrary.org/search?q=Ramcharitmanas+year+1574+language+Awadhi+Hindi+Tulsidas
+    type: other
 featured: true
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+Tulsidas's Ramcharitmanas represents a watershed moment in medieval North Indian literary and religious discourse, emerging during a complex period of cultural syncretism under the Mughal Emperor Akbar's reign and the broader Bhakti movement of the late 16th century. Composed between 1574-1577 in Awadhi vernacular, this seminal work reimagines the Sanskrit Ramayana through a profound bhakti (devotional) theological lens, democratizing religious narrative and challenging prevailing social hierarchies. Spanning approximately 12,000 verses across seven kandas (sections), the text transforms the epic from a classical Sanskrit narrative to an accessible, emotionally resonant spiritual text that could be comprehended by diverse social classes. Tulsidas, a Vaishnavite poet-saint from Rajapur, strategically employed Awadhi to make Rama's story immediately intelligible to common people, simultaneously elevating the vernacular language and religious experience. The work presents Rama not merely as a historical figure but as a supreme divine manifestation, embodying ideal righteousness (dharma), familial duty, and spiritual devotion. Its narrative innovations—including psychological depth, emotional nuance, and theological interpretation—profoundly influenced subsequent North Indian literary and religious traditions. Beyond its literary merit, Ramcharitmanas became a crucial cultural text facilitating inter-community dialogue during a period of significant Hindu-Muslim cultural exchange, representing an intellectual bridge between different religious and social domains. Its enduring legacy is evident in its continued ritualistic recitation, performative traditions, and deep resonance in contemporary Hindu spiritual practice across North India.
+
 ---
 
 # Ramcharitmanas (Lake of the Deeds of Rama)

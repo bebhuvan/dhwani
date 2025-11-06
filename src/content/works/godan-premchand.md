@@ -1,33 +1,44 @@
 ---
-title: 'Godan (The Gift of a Cow)'
+title: Godan (The Gift of a Cow)
 author:
-- Munshi Premchand
+  - Munshi Premchand
 year: 1936
 language:
-- Hindi
+  - Hindi
 genre:
-- Novel
-description: |
-  Godan (The Gift of a Cow), published in 1936 during the late colonial period of British India, stands as a definitive work of Hindi literature that offers a profound sociological examination of rural North Indian society through the lens of economic oppression and social stratification. Munshi Premchand, born Dhanpat Rai Srivastava in Uttar Pradesh, emerged from a middle-class background and became a pivotal figure in Hindi-Urdu literature, using his writing as a critical lens for social transformation. The novel chronicles the life of Hori, a peasant farmer, and his family, meticulously documenting the intricate systems of economic exploitation, caste hierarchies, and rural power dynamics that characterized early 20th-century Indian agrarian society. Through its nuanced narrative, Godan explores complex themes of rural indebtedness, landlord-peasant relationships, gender marginalization, and the intersectional struggles of marginalized communities under colonial and feudal structures. Premchand's work transcends mere narrative by serving as a critical sociological document, revealing the systemic inequities that constrained rural Indian populations while simultaneously capturing the resilience and humanity of individuals trapped within these oppressive frameworks. The novel's significance extends beyond literary representation, functioning as a powerful critique of social institutions and emerging as a foundational text in the progressive literary movement that sought to challenge existing social hierarchies. Its unflinching portrayal of rural realities contributed substantially to the nationalist discourse, highlighting the socioeconomic conditions that fueled anti-colonial sentiment and demands for social restructuring during India's independence movement.
+  - Novel
+description: >-
+  Godan (The Gift of a Cow), published in 1936 during the late colonial period
+  of British India, stands as a definitive work of Hindi literature that offers
+  a profound sociological examination of rural North Indian society through the
+  lens of economic oppression and social stratification. Munshi Premchand, born
+  Dhanpat Rai Srivastava in Uttar Pradesh, emerged from a middle-class
+  background and became a pivotal figure in Hindi-Urdu literature, using his
+  writing as a critical lens for social transformation.
 sources:
-- name: 'Internet Archive (Hindi original)'
-  url: https://archive.org/details/premchand-godan
-  type: other
-- name: 'Internet Archive (English translation - The Gift of the Cow)'
-  url: https://archive.org/details/the-gift-of-a-cow-godan-premchand
-  type: other
+  - name: Internet Archive (Hindi original)
+    url: 'https://archive.org/details/premchand-godan'
+    type: other
+  - name: Internet Archive (English translation - The Gift of the Cow)
+    url: 'https://archive.org/details/the-gift-of-a-cow-godan-premchand'
+    type: other
 references:
-- name: 'Wikipedia: Godan (novel)'
-  url: https://en.wikipedia.org/wiki/Godan_(novel)
-  type: other
-- name: 'Wikipedia: Premchand'
-  url: https://en.wikipedia.org/wiki/Premchand
-  type: other
-- name: 'Open Library: Godan'
-  url: https://openlibrary.org/search?q=Godan+Premchand
-  type: other
+  - name: 'Wikipedia: Godan (novel)'
+    url: 'https://en.wikipedia.org/wiki/Godan_(novel)'
+    type: other
+  - name: 'Wikipedia: Premchand'
+    url: 'https://en.wikipedia.org/wiki/Premchand'
+    type: other
+  - name: 'Open Library: Godan'
+    url: 'https://openlibrary.org/search?q=Godan+Premchand'
+    type: other
 featured: false
-publishDate: 2025-11-03 00:00:00+00:00
+publishDate: 2025-11-03T00:00:00.000Z
+---
+## Historical Context
+
+Godan (The Gift of a Cow), published in 1936 during the late colonial period of British India, stands as a definitive work of Hindi literature that offers a profound sociological examination of rural North Indian society through the lens of economic oppression and social stratification. Munshi Premchand, born Dhanpat Rai Srivastava in Uttar Pradesh, emerged from a middle-class background and became a pivotal figure in Hindi-Urdu literature, using his writing as a critical lens for social transformation. The novel chronicles the life of Hori, a peasant farmer, and his family, meticulously documenting the intricate systems of economic exploitation, caste hierarchies, and rural power dynamics that characterized early 20th-century Indian agrarian society. Through its nuanced narrative, Godan explores complex themes of rural indebtedness, landlord-peasant relationships, gender marginalization, and the intersectional struggles of marginalized communities under colonial and feudal structures. Premchand's work transcends mere narrative by serving as a critical sociological document, revealing the systemic inequities that constrained rural Indian populations while simultaneously capturing the resilience and humanity of individuals trapped within these oppressive frameworks. The novel's significance extends beyond literary representation, functioning as a powerful critique of social institutions and emerging as a foundational text in the progressive literary movement that sought to challenge existing social hierarchies. Its unflinching portrayal of rural realities contributed substantially to the nationalist discourse, highlighting the socioeconomic conditions that fueled anti-colonial sentiment and demands for social restructuring during India's independence movement.
+
 ---
 
 # Godan (गोदान)

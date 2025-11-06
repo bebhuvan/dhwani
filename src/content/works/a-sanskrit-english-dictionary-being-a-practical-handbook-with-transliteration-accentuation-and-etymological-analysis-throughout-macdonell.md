@@ -1,32 +1,40 @@
 ---
-title: 'A Practical Sanskrit-English Dictionary'
+title: A Practical Sanskrit-English Dictionary
 author:
-- Arthur Anthony Macdonell
+  - Arthur Anthony Macdonell
 year: 1893
 language:
-- English
-- Sanskrit
+  - English
+  - Sanskrit
 genre:
-- Reference
-- Lexicography
-description: |
-  A.A. Macdonell's A Practical Sanskrit-English Dictionary (1893, revised 1924) represents a pivotal scholarly achievement in late 19th-century Indological linguistics, emerging during a critical period of European academic engagement with classical Indian textual traditions. As the Boden Professor of Sanskrit at Oxford University, Macdonell produced a comprehensive lexicographic work that systematically documented and analyzed Sanskrit linguistic structures, reflecting the complex scholarly exchanges between European Orientalist scholarship and Indian intellectual systems. The dictionary provides meticulous transliteration, precise accentuation markings, and sophisticated etymological analysis, offering researchers and students a nuanced tool for understanding Sanskrit's intricate grammatical and semantic complexities. Published during the high colonial period, the work simultaneously served academic and colonial knowledge-production objectives, contributing to a broader European project of comprehensively mapping and interpreting Indian cultural and linguistic heritage. Macdonell's rigorous methodology incorporated extensive textual research across Vedic, classical, and philosophical Sanskrit corpora, making significant contributions to understanding linguistic evolution, semantic transformations, and the rich intellectual genealogies embedded in Sanskrit textual traditions. Beyond its immediate lexicographic utility, the dictionary represents an important scholarly intervention in comparative linguistic studies, providing insights into Indo-European language connections and the sophisticated grammatical architectures of classical Indian intellectual systems. For scholars of Indian studies, comparative linguistics, and cultural history, Macdonell's dictionary remains a foundational reference work that bridges European academic methodologies with the profound linguistic and philosophical complexities of Sanskrit textual knowledge.
+  - Reference
+  - Lexicography
+description: >-
+  A.A. Macdonell's A Practical Sanskrit-English Dictionary (1893, revised 1924)
+  represents a pivotal scholarly achievement in late 19th-century Indological
+  linguistics, emerging during a critical period of European academic engagement
+  with classical Indian textual traditions.
 collections:
-- ancient-wisdom
-- classical-literature
+  - ancient-wisdom
+  - classical-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/afr4858.0001.001.umich.edu
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/afr4858.0001.001.umich.edu'
+    type: other
 references:
-- name: 'Wikipedia: Arthur Anthony Macdonell'
-  url: https://en.wikipedia.org/wiki/Arthur_Anthony_Macdonell
-  type: wikipedia
-- name: 'Open Library'
-  url: https://openlibrary.org/works/OL368013W/A_Sanskrit-English_dictionary
-  type: other
+  - name: 'Wikipedia: Arthur Anthony Macdonell'
+    url: 'https://en.wikipedia.org/wiki/Arthur_Anthony_Macdonell'
+    type: wikipedia
+  - name: Open Library
+    url: 'https://openlibrary.org/works/OL368013W/A_Sanskrit-English_dictionary'
+    type: other
 featured: true
-publishDate: 2025-10-02
+publishDate: 2025-10-02T00:00:00.000Z
+---
+## Historical Context
+
+A.A. Macdonell's A Practical Sanskrit-English Dictionary (1893, revised 1924) represents a pivotal scholarly achievement in late 19th-century Indological linguistics, emerging during a critical period of European academic engagement with classical Indian textual traditions. As the Boden Professor of Sanskrit at Oxford University, Macdonell produced a comprehensive lexicographic work that systematically documented and analyzed Sanskrit linguistic structures, reflecting the complex scholarly exchanges between European Orientalist scholarship and Indian intellectual systems. The dictionary provides meticulous transliteration, precise accentuation markings, and sophisticated etymological analysis, offering researchers and students a nuanced tool for understanding Sanskrit's intricate grammatical and semantic complexities. Published during the high colonial period, the work simultaneously served academic and colonial knowledge-production objectives, contributing to a broader European project of comprehensively mapping and interpreting Indian cultural and linguistic heritage. Macdonell's rigorous methodology incorporated extensive textual research across Vedic, classical, and philosophical Sanskrit corpora, making significant contributions to understanding linguistic evolution, semantic transformations, and the rich intellectual genealogies embedded in Sanskrit textual traditions. Beyond its immediate lexicographic utility, the dictionary represents an important scholarly intervention in comparative linguistic studies, providing insights into Indo-European language connections and the sophisticated grammatical architectures of classical Indian intellectual systems. For scholars of Indian studies, comparative linguistics, and cultural history, Macdonell's dictionary remains a foundational reference work that bridges European academic methodologies with the profound linguistic and philosophical complexities of Sanskrit textual knowledge.
+
 ---
 
 # A Practical Sanskrit-English Dictionary

@@ -1,50 +1,62 @@
 ---
-title: 'Mahabhashya (The Great Commentary)'
+title: Mahabhashya (The Great Commentary)
 author:
-- Patanjali
+  - Patanjali
 year: -150
 language:
-- Sanskrit
+  - Sanskrit
 genre:
-- Linguistics
-- Philosophy
-- Classical Literature
-description: |
-  Patanjali's Mahabhashya is a comprehensive linguistic and philosophical commentary composed around 150 BCE, critically analyzing Panini's Ashtadhyayi grammar sutras and Katyayana's annotations. Approximately 250,000 words in length, the text systematically examines grammatical rules through a dialogic format between teacher (acharya) and student (shishya), offering rigorous analysis of each grammatical rule, considering potential objections, and exploring theoretical implications. The work investigates fundamental linguistic philosophical questions, including the relationship between word and meaning, the cognitive processes of linguistic comprehension, the ontological status of linguistic entities, and the epistemological purpose of grammatical study. Methodologically, Patanjali employs a structured approach of presenting a rule, examining potential counter-arguments, providing justifications, and exploring broader theoretical consequences. Historically significant, the Mahabhashya established critical theoretical frameworks that profoundly influenced subsequent Sanskrit grammatical traditions, Mimamsa philosophical discourse, and inter-philosophical debates between Buddhist and Hindu scholars regarding linguistic reference and meaning-making. Beyond technical grammatical analysis, the text engages substantive philosophical problems such as the philosophical tension between universals and particulars, the conceptual dynamics of permanence and impermanence, and the mechanisms of knowledge acquisition. Scholars recognize the Mahabhashya as a pivotal text in Indian intellectual history, bridging linguistic description with broader philosophical inquiry.
+  - Linguistics
+  - Philosophy
+  - Classical Literature
+description: >-
+  Patanjali's Mahabhashya is a comprehensive linguistic and philosophical
+  commentary composed around 150 BCE, critically analyzing Panini's Ashtadhyayi
+  grammar sutras and Katyayana's annotations. Approximately 250,000 words in
+  length, the text systematically examines grammatical rules through a dialogic
+  format between teacher (acharya) and student (shishya), offering rigorous
+  analysis of each grammatical rule, considering potential objections, and
+  exploring theoretical implications.
 collections:
-- linguistic-works
-- philosophy
-- classical-literature
-- ancient-wisdom
-- reference-works
+  - linguistic-works
+  - philosophy
+  - classical-literature
+  - ancient-wisdom
+  - reference-works
 sources:
-- name: 'Internet Archive (Kielhorn edition)'
-  url: https://archive.org/details/in.ernet.dli.2015.319613
-  type: other
-- name: 'Internet Archive (Sanskrit text)'
-  url: https://archive.org/details/vyakarana-mahabhashya-patanjali
-  type: other
+  - name: Internet Archive (Kielhorn edition)
+    url: 'https://archive.org/details/in.ernet.dli.2015.319613'
+    type: other
+  - name: Internet Archive (Sanskrit text)
+    url: 'https://archive.org/details/vyakarana-mahabhashya-patanjali'
+    type: other
 references:
-- name: 'Wikipedia: Mahābhāṣya'
-  url: https://en.wikipedia.org/wiki/Mah%C4%81bh%C4%81%E1%B9%A3ya
-  type: wikipedia
-- name: 'Wikipedia: Patañjali'
-  url: https://en.wikipedia.org/wiki/Pata%C3%B1jali
-  type: wikipedia
-- name: 'Wikipedia: Pāṇini'
-  url: https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini
-  type: wikipedia
-- name: 'Wikipedia: Sanskrit grammar'
-  url: https://en.wikipedia.org/wiki/Sanskrit_grammar
-  type: wikipedia
-- name: 'Wikipedia: Philosophy of language'
-  url: https://en.wikipedia.org/wiki/Philosophy_of_language
-  type: wikipedia
-- name: 'Open Library: Mahabhashya (The Great Commentary) year'
-  url: https://openlibrary.org/search?q=Mahabhashya+The+Great+Commentary+year+-150+Patanjali
-  type: other
+  - name: 'Wikipedia: Mahābhāṣya'
+    url: 'https://en.wikipedia.org/wiki/Mah%C4%81bh%C4%81%E1%B9%A3ya'
+    type: wikipedia
+  - name: 'Wikipedia: Patañjali'
+    url: 'https://en.wikipedia.org/wiki/Pata%C3%B1jali'
+    type: wikipedia
+  - name: 'Wikipedia: Pāṇini'
+    url: 'https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini'
+    type: wikipedia
+  - name: 'Wikipedia: Sanskrit grammar'
+    url: 'https://en.wikipedia.org/wiki/Sanskrit_grammar'
+    type: wikipedia
+  - name: 'Wikipedia: Philosophy of language'
+    url: 'https://en.wikipedia.org/wiki/Philosophy_of_language'
+    type: wikipedia
+  - name: 'Open Library: Mahabhashya (The Great Commentary) year'
+    url: >-
+      https://openlibrary.org/search?q=Mahabhashya+The+Great+Commentary+year+-150+Patanjali
+    type: other
 featured: true
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+Patanjali's Mahabhashya is a comprehensive linguistic and philosophical commentary composed around 150 BCE, critically analyzing Panini's Ashtadhyayi grammar sutras and Katyayana's annotations. Approximately 250,000 words in length, the text systematically examines grammatical rules through a dialogic format between teacher (acharya) and student (shishya), offering rigorous analysis of each grammatical rule, considering potential objections, and exploring theoretical implications. The work investigates fundamental linguistic philosophical questions, including the relationship between word and meaning, the cognitive processes of linguistic comprehension, the ontological status of linguistic entities, and the epistemological purpose of grammatical study. Methodologically, Patanjali employs a structured approach of presenting a rule, examining potential counter-arguments, providing justifications, and exploring broader theoretical consequences. Historically significant, the Mahabhashya established critical theoretical frameworks that profoundly influenced subsequent Sanskrit grammatical traditions, Mimamsa philosophical discourse, and inter-philosophical debates between Buddhist and Hindu scholars regarding linguistic reference and meaning-making. Beyond technical grammatical analysis, the text engages substantive philosophical problems such as the philosophical tension between universals and particulars, the conceptual dynamics of permanence and impermanence, and the mechanisms of knowledge acquisition. Scholars recognize the Mahabhashya as a pivotal text in Indian intellectual history, bridging linguistic description with broader philosophical inquiry.
+
 ---
 
 # Mahabhashya (The Great Commentary)

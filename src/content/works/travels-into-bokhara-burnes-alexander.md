@@ -1,47 +1,58 @@
 ---
-title: 'Travels into Bokhara'
+title: Travels into Bokhara
 author:
-- Burnes, Alexander
+  - 'Burnes, Alexander'
 year: 1834
 language:
-- English
+  - English
 genre:
-- Classical Literature
-description: |
-  Alexander Burnes's "Travels into Bokhara" represents a significant early 19th-century British colonial narrative documenting the geopolitical landscapes of Central and South Asia during the height of the Great Game period. Published in 1834, this multi-volume work emerges from Burnes's diplomatic and exploratory missions across regions including India, Afghanistan, Tartary, and Persia, providing a nuanced British imperial perspective on territories critical to British imperial strategic interests. As a Scottish explorer and intelligence officer, Burnes conducted extensive geographical and cultural investigations that significantly informed British understanding of these complex regions. The work combines meticulous ethnographic observation, geographical documentation, and strategic intelligence gathering, offering detailed accounts of local cultures, political structures, economic systems, and geographical terrains. His narrative critically illuminates the interconnected social and political dynamics of regions spanning from British India's northwestern frontiers to Central Asian territories, presenting intricate insights into cultural interactions, trade routes, and geopolitical transformations. Beyond its immediate colonial context, the text serves as an important historical document for understanding cross-cultural encounters, imperial knowledge production, and the complex networks of interaction between British colonial agents and indigenous societies. For Indian scholarly traditions, Burnes's work provides a valuable external perspective on regional cultural configurations, diplomatic relationships, and territorial interactions during a pivotal transitional period in South Asian history. His observations contribute substantially to understanding the broader anthropological and geopolitical landscapes of the early 19th-century Indian subcontinent and its surrounding regions.
+  - Classical Literature
+description: >-
+  Alexander Burnes's "Travels into Bokhara" represents a significant early
+  19th-century British colonial narrative documenting the geopolitical
+  landscapes of Central and South Asia during the height of the Great Game
+  period. Published in 1834, this multi-volume work emerges from Burnes's
+  diplomatic and exploratory missions across regions including India,
+  Afghanistan, Tartary, and Persia, providing a nuanced British imperial
+  perspective on territories critical to British imperial strategic interests.
 collections:
-- classical-literature
+  - classical-literature
 sources:
-- name: 'Project Gutenberg - Volume 1'
-  url: https://www.gutenberg.org/ebooks/58074
-  type: other
-- name: 'Project Gutenberg (HTML) - Volume 1'
-  url: https://www.gutenberg.org/ebooks/58074.html.images
-  type: other
-- name: 'Project Gutenberg - Volume 2'
-  url: https://www.gutenberg.org/ebooks/64247
-  type: other
-- name: 'Project Gutenberg (HTML) - Volume 2'
-  url: https://www.gutenberg.org/ebooks/64247.html.images
-  type: other
-- name: 'Project Gutenberg - Volume 3'
-  url: https://www.gutenberg.org/ebooks/66386
-  type: other
-- name: 'Project Gutenberg (HTML) - Volume 3'
-  url: https://www.gutenberg.org/ebooks/66386.html.images
-  type: other
+  - name: Project Gutenberg - Volume 1
+    url: 'https://www.gutenberg.org/ebooks/58074'
+    type: other
+  - name: Project Gutenberg (HTML) - Volume 1
+    url: 'https://www.gutenberg.org/ebooks/58074.html.images'
+    type: other
+  - name: Project Gutenberg - Volume 2
+    url: 'https://www.gutenberg.org/ebooks/64247'
+    type: other
+  - name: Project Gutenberg (HTML) - Volume 2
+    url: 'https://www.gutenberg.org/ebooks/64247.html.images'
+    type: other
+  - name: Project Gutenberg - Volume 3
+    url: 'https://www.gutenberg.org/ebooks/66386'
+    type: other
+  - name: Project Gutenberg (HTML) - Volume 3
+    url: 'https://www.gutenberg.org/ebooks/66386.html.images'
+    type: other
 references:
-- name: 'Wikipedia: Alexander Burnes'
-  url: https://en.wikipedia.org/wiki/Alexander_Burnes
-  type: other
-- name: 'Wikipedia: Bukhara'
-  url: https://en.wikipedia.org/wiki/Bukhara
-  type: other
-- name: 'Open Library: Travels into Bokhara'
-  url: https://openlibrary.org/search?q=Travels+into+Bokhara+Alexander+Burnes
-  type: other
+  - name: 'Wikipedia: Alexander Burnes'
+    url: 'https://en.wikipedia.org/wiki/Alexander_Burnes'
+    type: other
+  - name: 'Wikipedia: Bukhara'
+    url: 'https://en.wikipedia.org/wiki/Bukhara'
+    type: other
+  - name: 'Open Library: Travels into Bokhara'
+    url: 'https://openlibrary.org/search?q=Travels+into+Bokhara+Alexander+Burnes'
+    type: other
 featured: false
-publishDate: 2025-11-05
+publishDate: 2025-11-05T00:00:00.000Z
+---
+## Historical Context
+
+Alexander Burnes's "Travels into Bokhara" represents a significant early 19th-century British colonial narrative documenting the geopolitical landscapes of Central and South Asia during the height of the Great Game period. Published in 1834, this multi-volume work emerges from Burnes's diplomatic and exploratory missions across regions including India, Afghanistan, Tartary, and Persia, providing a nuanced British imperial perspective on territories critical to British imperial strategic interests. As a Scottish explorer and intelligence officer, Burnes conducted extensive geographical and cultural investigations that significantly informed British understanding of these complex regions. The work combines meticulous ethnographic observation, geographical documentation, and strategic intelligence gathering, offering detailed accounts of local cultures, political structures, economic systems, and geographical terrains. His narrative critically illuminates the interconnected social and political dynamics of regions spanning from British India's northwestern frontiers to Central Asian territories, presenting intricate insights into cultural interactions, trade routes, and geopolitical transformations. Beyond its immediate colonial context, the text serves as an important historical document for understanding cross-cultural encounters, imperial knowledge production, and the complex networks of interaction between British colonial agents and indigenous societies. For Indian scholarly traditions, Burnes's work provides a valuable external perspective on regional cultural configurations, diplomatic relationships, and territorial interactions during a pivotal transitional period in South Asian history. His observations contribute substantially to understanding the broader anthropological and geopolitical landscapes of the early 19th-century Indian subcontinent and its surrounding regions.
+
 ---
 
 # Travels into Bokhara Volume 1 of 3: Being the Account of a Journey from India to Cabool, Tartary and Persia by Alexander Burnes

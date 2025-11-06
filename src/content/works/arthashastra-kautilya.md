@@ -1,42 +1,55 @@
 ---
-title: 'Arthashastra'
+title: Arthashastra
 author:
-- Kautilya
+  - Kautilya
 year: 300
 language:
-- Sanskrit
-- English
+  - Sanskrit
+  - English
 genre:
-- Classical Literature
-- Political Philosophy
-- Historical Literature
-description: |
-  The Arthashastra by Kautilya represents a comprehensive treatise on statecraft, economic administration, and political philosophy that emerged during the transformative period of the Mauryan Empire (circa 321-185 BCE). Attributed to the renowned polymath and political strategist Chanakya (also known as Kautilya), who served as the chief advisor to Emperor Chandragupta Maurya, the text provides an intricate blueprint for governance that transcends mere administrative manual to become a sophisticated exploration of state management, diplomatic strategy, and social organization. Composed in classical Sanskrit, the work systematically addresses diverse domains including governance, economic policy, military strategy, diplomatic protocols, legal frameworks, and societal administration, reflecting the complex political landscape of ancient India during a period of significant imperial consolidation. The treatise is distinguished by its pragmatic approach, offering nuanced insights into bureaucratic structures, taxation systems, intelligence networks, and interpersonal political dynamics that demonstrate remarkable sophistication for its historical context. Beyond its immediate historical significance, the Arthashastra represents a critical intellectual contribution to understanding early Indian political thought, providing scholars with unprecedented detailed documentation of administrative mechanisms, ethical governance principles, and the intricate relationship between state power and societal welfare. Its comprehensive analysis of statecraft—encompassing economic management, diplomatic negotiations, military preparedness, and judicial administration—has positioned it as a foundational text in understanding the intellectual and administrative achievements of classical Indian civilization, offering contemporary relevance through its systematic exploration of governance, strategic thinking, and institutional design.
+  - Classical Literature
+  - Political Philosophy
+  - Historical Literature
+description: >-
+  The Arthashastra by Kautilya represents a comprehensive treatise on
+  statecraft, economic administration, and political philosophy that emerged
+  during the transformative period of the Mauryan Empire (circa 321-185 BCE).
+  Attributed to the renowned polymath and political strategist Chanakya (also
+  known as Kautilya), who served as the chief advisor to Emperor Chandragupta
+  Maurya, the text provides an intricate blueprint for governance that
+  transcends mere administrative manual to become a sophisticated exploration of
+  state management, diplomatic strategy, and social organization.
 collections:
-- ancient-wisdom
-- classical-literature
+  - ancient-wisdom
+  - classical-literature
 sources:
-- name: 'Wikisource'
-  url: https://en.wikisource.org/wiki/Arthashastra
-  type: other
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.gov.ignca.900
-  type: other
+  - name: Wikisource
+    url: 'https://en.wikisource.org/wiki/Arthashastra'
+    type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/in.gov.ignca.900'
+    type: other
 references:
-- name: 'Wikipedia: R. Shamasastry'
-  url: https://en.wikipedia.org/wiki/R._Shamasastry
-  type: wikipedia
-- name: 'Wikipedia: Arthashastra'
-  url: https://en.wikipedia.org/wiki/Arthashastra
-  type: wikipedia
-- name: 'Wikipedia: Chanakya'
-  url: https://en.wikipedia.org/wiki/Chanakya
-  type: wikipedia
-- name: 'Open Library: Arthashastra year'
-  url: https://openlibrary.org/search?q=Arthashastra+year+300+language+Sanskrit+English+Kautilya
-  type: other
+  - name: 'Wikipedia: R. Shamasastry'
+    url: 'https://en.wikipedia.org/wiki/R._Shamasastry'
+    type: wikipedia
+  - name: 'Wikipedia: Arthashastra'
+    url: 'https://en.wikipedia.org/wiki/Arthashastra'
+    type: wikipedia
+  - name: 'Wikipedia: Chanakya'
+    url: 'https://en.wikipedia.org/wiki/Chanakya'
+    type: wikipedia
+  - name: 'Open Library: Arthashastra year'
+    url: >-
+      https://openlibrary.org/search?q=Arthashastra+year+300+language+Sanskrit+English+Kautilya
+    type: other
 featured: true
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+The Arthashastra by Kautilya represents a comprehensive treatise on statecraft, economic administration, and political philosophy that emerged during the transformative period of the Mauryan Empire (circa 321-185 BCE). Attributed to the renowned polymath and political strategist Chanakya (also known as Kautilya), who served as the chief advisor to Emperor Chandragupta Maurya, the text provides an intricate blueprint for governance that transcends mere administrative manual to become a sophisticated exploration of state management, diplomatic strategy, and social organization. Composed in classical Sanskrit, the work systematically addresses diverse domains including governance, economic policy, military strategy, diplomatic protocols, legal frameworks, and societal administration, reflecting the complex political landscape of ancient India during a period of significant imperial consolidation. The treatise is distinguished by its pragmatic approach, offering nuanced insights into bureaucratic structures, taxation systems, intelligence networks, and interpersonal political dynamics that demonstrate remarkable sophistication for its historical context. Beyond its immediate historical significance, the Arthashastra represents a critical intellectual contribution to understanding early Indian political thought, providing scholars with unprecedented detailed documentation of administrative mechanisms, ethical governance principles, and the intricate relationship between state power and societal welfare. Its comprehensive analysis of statecraft—encompassing economic management, diplomatic negotiations, military preparedness, and judicial administration—has positioned it as a foundational text in understanding the intellectual and administrative achievements of classical Indian civilization, offering contemporary relevance through its systematic exploration of governance, strategic thinking, and institutional design.
+
 ---
 
 ## Overview

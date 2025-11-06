@@ -1,37 +1,49 @@
 ---
-title: 'Sangita Ratnakara'
+title: Sangita Ratnakara
 author:
-- Śārṅgadeva
+  - Śārṅgadeva
 year: 1247
 language:
-- Sanskrit
+  - Sanskrit
 genre:
-- Musicology
-- Classical Music Theory
-description: |
-  The Sangita Ratnakara (Ocean of Music) represents a seminal 13th-century Sanskrit musicological treatise that crystallized centuries of Indian musical scholarship during a pivotal intellectual period of the Yadava dynasty's cultural renaissance. Composed by Śārṅgadeva in 1247 at the royal court of Devagiri (modern-day Daulatabad, Maharashtra), the work comprehensively documents and systematizes the complex theoretical and practical dimensions of Indian classical music. Spanning seven detailed chapters, the treatise meticulously catalogs 253 distinct ragas and 120 regional rhythmic patterns (talas), providing an unprecedented scholarly framework for understanding musical composition, performance practice, and theoretical principles across Hindustani and Carnatic traditions. Beyond its technical musicological significance, the text reflects the sophisticated intellectual environment of medieval Deccan India, where court patronage enabled profound scholarly documentation of artistic traditions. Śārṅgadeve, serving as a court musicologist and theoretician, transformed ephemeral oral musical knowledge into a rigorous, structured academic discipline, bridging ancient performative practices with emerging systematic scholarship. The treatise's significance extends beyond musical theory, offering profound insights into social structures, aesthetic philosophies, and cultural transmission mechanisms of 13th-century Indian intellectual life. Its comprehensive approach to documenting musical systems—including detailed analyses of vocal and instrumental techniques, dance forms, and theoretical classifications—established a foundational template for subsequent musicological research and preservation of classical Indian musical heritage, making it an irreplaceable scholarly resource for understanding the intricate cultural landscape of medieval India.
+  - Musicology
+  - Classical Music Theory
+description: >-
+  The Sangita Ratnakara (Ocean of Music) represents a seminal 13th-century
+  Sanskrit musicological treatise that crystallized centuries of Indian musical
+  scholarship during a pivotal intellectual period of the Yadava dynasty's
+  cultural renaissance. Composed by Śārṅgadeva in 1247 at the royal court of
+  Devagiri (modern-day Daulatabad, Maharashtra), the work comprehensively
+  documents and systematizes the complex theoretical and practical dimensions of
+  Indian classical music.
 collections:
-- ancient-wisdom
-- classical-literature
+  - ancient-wisdom
+  - classical-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/SangitaRatnakara
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/SangitaRatnakara'
+    type: other
 references:
-- name: 'Wikipedia: Sangita Ratnakara'
-  url: https://en.wikipedia.org/wiki/Sangita_Ratnakara
-  type: wikipedia
-- name: 'Wikipedia: Śārṅgadeva'
-  url: https://en.wikipedia.org/wiki/Śārṅgadeva
-  type: wikipedia
-- name: 'Wikisource: Sangita Ratnakara (Sanskrit)'
-  url: https://sa.wikisource.org/wiki/सङ्गीतरत्नाकर
-  type: wikisource
-- name: 'Open Library'
-  url: https://openlibrary.org/search?q=Sangita+Ratnakara+Sarangadeva&mode=everything
-  type: other
+  - name: 'Wikipedia: Sangita Ratnakara'
+    url: 'https://en.wikipedia.org/wiki/Sangita_Ratnakara'
+    type: wikipedia
+  - name: 'Wikipedia: Śārṅgadeva'
+    url: 'https://en.wikipedia.org/wiki/Śārṅgadeva'
+    type: wikipedia
+  - name: 'Wikisource: Sangita Ratnakara (Sanskrit)'
+    url: 'https://sa.wikisource.org/wiki/सङ्गीतरत्नाकर'
+    type: wikisource
+  - name: Open Library
+    url: >-
+      https://openlibrary.org/search?q=Sangita+Ratnakara+Sarangadeva&mode=everything
+    type: other
 featured: false
-publishDate: 2025-10-23
+publishDate: 2025-10-23T00:00:00.000Z
+---
+## Historical Context
+
+The Sangita Ratnakara (Ocean of Music) represents a seminal 13th-century Sanskrit musicological treatise that crystallized centuries of Indian musical scholarship during a pivotal intellectual period of the Yadava dynasty's cultural renaissance. Composed by Śārṅgadeva in 1247 at the royal court of Devagiri (modern-day Daulatabad, Maharashtra), the work comprehensively documents and systematizes the complex theoretical and practical dimensions of Indian classical music. Spanning seven detailed chapters, the treatise meticulously catalogs 253 distinct ragas and 120 regional rhythmic patterns (talas), providing an unprecedented scholarly framework for understanding musical composition, performance practice, and theoretical principles across Hindustani and Carnatic traditions. Beyond its technical musicological significance, the text reflects the sophisticated intellectual environment of medieval Deccan India, where court patronage enabled profound scholarly documentation of artistic traditions. Śārṅgadeve, serving as a court musicologist and theoretician, transformed ephemeral oral musical knowledge into a rigorous, structured academic discipline, bridging ancient performative practices with emerging systematic scholarship. The treatise's significance extends beyond musical theory, offering profound insights into social structures, aesthetic philosophies, and cultural transmission mechanisms of 13th-century Indian intellectual life. Its comprehensive approach to documenting musical systems—including detailed analyses of vocal and instrumental techniques, dance forms, and theoretical classifications—established a foundational template for subsequent musicological research and preservation of classical Indian musical heritage, making it an irreplaceable scholarly resource for understanding the intricate cultural landscape of medieval India.
+
 ---
 
 # Sangita Ratnakara

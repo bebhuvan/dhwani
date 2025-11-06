@@ -1,65 +1,78 @@
 ---
-title: 'Indian Home Rule (Hind Swaraj)'
+title: Indian Home Rule (Hind Swaraj)
 author:
-- Mohandas K. Gandhi
+  - Mohandas K. Gandhi
 year: 1909
 language:
-- English
+  - English
 genre:
-- Political Philosophy
-- Historical Literature
-description: |
-  "Hind Swaraj" represents a pivotal intellectual landmark in India's anti-colonial discourse, articulating Gandhi's comprehensive critique of Western modernization and colonial governance through a radical reimagining of political sovereignty and social transformation. Composed in November 1909 during a transatlantic voyage, the text emerged from Gandhi's profound personal experiences confronting racial discrimination in South Africa and his evolving philosophical understanding of resistance and self-determination. Written originally in Gujarati and immediately self-translated into English, the work confronts fundamental questions about technological civilization, colonial power structures, and indigenous cultural regeneration. Gandhi systematically deconstructs Western institutional models, arguing that mechanical reproduction of European political systems would not genuinely liberate India, but instead perpetuate structural violence and cultural alienation. The text introduces core conceptual frameworks of satyagraha (truth-force) and non-violent resistance that would become fundamental to anti-colonial movements globally, presenting a nuanced critique of modern industrial society, legal institutions, and metropolitan capitalism. More than a political treatise, "Hind Swaraj" represents an intellectual watershed, challenging Enlightenment epistemologies and proposing an alternative philosophical foundation for national liberation rooted in ethical self-governance, communal solidarity, and spiritual renewal. Its sustained influence extends beyond India's independence movement, profoundly impacting global discussions of decolonization, civil resistance, and alternative developmental paradigms. As a seminal text in Indian intellectual history, it continues to provide critical perspectives on technology, power, cultural autonomy, and the complex legacies of colonial encounters.
+  - Political Philosophy
+  - Historical Literature
+description: >-
+  "Hind Swaraj" represents a pivotal intellectual landmark in India's
+  anti-colonial discourse, articulating Gandhi's comprehensive critique of
+  Western modernization and colonial governance through a radical reimagining of
+  political sovereignty and social transformation. Composed in November 1909
+  during a transatlantic voyage, the text emerged from Gandhi's profound
+  personal experiences confronting racial discrimination in South Africa and his
+  evolving philosophical understanding of resistance and self-determination.
 collections:
-- classical-literature
-- political-philosophy
-- political-philosophy
+  - classical-literature
+  - political-philosophy
+  - political-philosophy
 sources:
-- name: 'Internet Archive - Hind Swaraj with Latest Foreword (University of Toronto)'
-  url: https://archive.org/details/hindswarajorindi00ganduoft
-  type: other
-- name: 'Internet Archive - Hind Swaraj (Digital Library of India - 2015.204695)'
-  url: https://archive.org/details/in.ernet.dli.2015.204695
-  type: other
-- name: 'Internet Archive - Hind Swaraj (Digital Library of India - 2015.170524)'
-  url: https://archive.org/details/in.ernet.dli.2015.170524
-  type: other
-- name: 'Internet Archive - Hind Swaraj (Digital Library of India - 2015.61542)'
-  url: https://archive.org/details/in.ernet.dli.2015.61542
-  type: other
-- name: 'Internet Archive - Hind Swaraj or Indian Home Rule'
-  url: https://archive.org/details/hindswarajorindi0000gand
-  type: other
-- name: 'Internet Archive - Indian Home Rule (Ganesh & Co.)'
-  url: https://archive.org/details/indianhomerule00gand
-  type: other
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/40461
-  type: other
-- name: 'Internet Archive - Hind Swaraj (1909)'
-  url: https://archive.org/details/hindswarajorindi00gand
-  type: other
-- name: 'Internet Archive - Indian Home Rule'
-  url: https://archive.org/details/indianhomerule00ganduoft
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/40461.html.images
-  type: other
+  - name: >-
+      Internet Archive - Hind Swaraj with Latest Foreword (University of
+      Toronto)
+    url: 'https://archive.org/details/hindswarajorindi00ganduoft'
+    type: other
+  - name: Internet Archive - Hind Swaraj (Digital Library of India - 2015.204695)
+    url: 'https://archive.org/details/in.ernet.dli.2015.204695'
+    type: other
+  - name: Internet Archive - Hind Swaraj (Digital Library of India - 2015.170524)
+    url: 'https://archive.org/details/in.ernet.dli.2015.170524'
+    type: other
+  - name: Internet Archive - Hind Swaraj (Digital Library of India - 2015.61542)
+    url: 'https://archive.org/details/in.ernet.dli.2015.61542'
+    type: other
+  - name: Internet Archive - Hind Swaraj or Indian Home Rule
+    url: 'https://archive.org/details/hindswarajorindi0000gand'
+    type: other
+  - name: Internet Archive - Indian Home Rule (Ganesh & Co.)
+    url: 'https://archive.org/details/indianhomerule00gand'
+    type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/40461'
+    type: other
+  - name: Internet Archive - Hind Swaraj (1909)
+    url: 'https://archive.org/details/hindswarajorindi00gand'
+    type: other
+  - name: Internet Archive - Indian Home Rule
+    url: 'https://archive.org/details/indianhomerule00ganduoft'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/40461.html.images'
+    type: other
 references:
-- name: 'Wikisource: Indian Home Rule Gandhi Mahatma'
-  url: https://en.wikisource.org/wiki/Hind_Swaraj_or_Indian_Home_Rule
-  type: other
-- name: 'Wikipedia: Hind Swaraj'
-  url: https://en.wikipedia.org/wiki/Hind_Swaraj_or_Indian_Home_Rule
-  type: other
-- name: 'Wikipedia: Mahatma Gandhi'
-  url: https://en.wikipedia.org/wiki/Mahatma_Gandhi
-  type: other
-- name: 'Open Library: Hind Swaraj'
-  url: https://openlibrary.org/search?q=Hind%20Swaraj%20Gandhi
-  type: other
+  - name: 'Wikisource: Indian Home Rule Gandhi Mahatma'
+    url: 'https://en.wikisource.org/wiki/Hind_Swaraj_or_Indian_Home_Rule'
+    type: other
+  - name: 'Wikipedia: Hind Swaraj'
+    url: 'https://en.wikipedia.org/wiki/Hind_Swaraj_or_Indian_Home_Rule'
+    type: other
+  - name: 'Wikipedia: Mahatma Gandhi'
+    url: 'https://en.wikipedia.org/wiki/Mahatma_Gandhi'
+    type: other
+  - name: 'Open Library: Hind Swaraj'
+    url: 'https://openlibrary.org/search?q=Hind%20Swaraj%20Gandhi'
+    type: other
 featured: true
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+"Hind Swaraj" represents a pivotal intellectual landmark in India's anti-colonial discourse, articulating Gandhi's comprehensive critique of Western modernization and colonial governance through a radical reimagining of political sovereignty and social transformation. Composed in November 1909 during a transatlantic voyage, the text emerged from Gandhi's profound personal experiences confronting racial discrimination in South Africa and his evolving philosophical understanding of resistance and self-determination. Written originally in Gujarati and immediately self-translated into English, the work confronts fundamental questions about technological civilization, colonial power structures, and indigenous cultural regeneration. Gandhi systematically deconstructs Western institutional models, arguing that mechanical reproduction of European political systems would not genuinely liberate India, but instead perpetuate structural violence and cultural alienation. The text introduces core conceptual frameworks of satyagraha (truth-force) and non-violent resistance that would become fundamental to anti-colonial movements globally, presenting a nuanced critique of modern industrial society, legal institutions, and metropolitan capitalism. More than a political treatise, "Hind Swaraj" represents an intellectual watershed, challenging Enlightenment epistemologies and proposing an alternative philosophical foundation for national liberation rooted in ethical self-governance, communal solidarity, and spiritual renewal. Its sustained influence extends beyond India's independence movement, profoundly impacting global discussions of decolonization, civil resistance, and alternative developmental paradigms. As a seminal text in Indian intellectual history, it continues to provide critical perspectives on technology, power, cultural autonomy, and the complex legacies of colonial encounters.
+
 ---
 
 # Indian Home Rule (Hind Swaraj)

@@ -1,26 +1,37 @@
 ---
-title: 'Marma Vijnj-aan'
+title: Marma Vijnj-aan
 author:
-- Paat'hak Raamarakshh
+  - Paat'hak Raamarakshh
 year: 1949
 language:
-- Hindi
+  - Hindi
 genre:
-- C-DAC
-description: |
-  Marma Vijnj-aan, published in 1949 by Paat'hak Raamarakshh, represents a critical scholarly exploration of esoteric knowledge systems within mid-20th century Indian intellectual discourse. Emerging during the post-independence period of intense cultural renaissance and scholarly reassessment, the work offers a nuanced examination of hidden knowledge frameworks, bridging traditional epistemological approaches with emerging scientific methodologies. Raamarakshh's text meticulously unpacks complex interpretative models of concealed or secret knowledge ("marma"), drawing from Sanskrit philosophical traditions, Ayurvedic medical understanding, and emerging computational research paradigms associated with C-DAC. The work's significance lies in its sophisticated interdisciplinary approach, demonstrating how traditional Indian conceptual structures can intersect with contemporary analytical frameworks. By systematically exploring epistemological boundaries between manifest and latent knowledge systems, Marma Vijnj-aan contributes substantially to understanding Indian intellectual heritage's dynamic, adaptive nature. The text is particularly notable for its rigorous methodology, synthesizing philosophical speculation with empirical observation—a characteristic approach in advanced Indian scholarly traditions. Its engagement with C-DAC reflects the emerging computational and technological dimensions of Indian scholarly research during the mid-20th century, positioning the work as a pivotal text in understanding knowledge transformation during India's post-colonial intellectual reconstruction. Scholars of Indian intellectual history, computational humanities, and philosophical studies will find this work an invaluable resource for comprehending the complex intersections of traditional and modern knowledge production in the Indian subcontinent.
+  - C-DAC
+description: >-
+  Marma Vijnj-aan, published in 1949 by Paat'hak Raamarakshh, represents a
+  critical scholarly exploration of esoteric knowledge systems within mid-20th
+  century Indian intellectual discourse. Emerging during the post-independence
+  period of intense cultural renaissance and scholarly reassessment, the work
+  offers a nuanced examination of hidden knowledge frameworks, bridging
+  traditional epistemological approaches with emerging scientific methodologies.
 collections:
-- classical-literature
+  - classical-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.ernet.dli.2015.476627
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/in.ernet.dli.2015.476627'
+    type: other
 references:
-- name: 'Open Library: Marma Vijnj-aan year'
-  url: https://openlibrary.org/search?q=Marma+Vijnj-aan+year+1949+language+Hindi+Paathak+Raamarakshh
-  type: other
+  - name: 'Open Library: Marma Vijnj-aan year'
+    url: >-
+      https://openlibrary.org/search?q=Marma+Vijnj-aan+year+1949+language+Hindi+Paathak+Raamarakshh
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+Marma Vijnj-aan, published in 1949 by Paat'hak Raamarakshh, represents a critical scholarly exploration of esoteric knowledge systems within mid-20th century Indian intellectual discourse. Emerging during the post-independence period of intense cultural renaissance and scholarly reassessment, the work offers a nuanced examination of hidden knowledge frameworks, bridging traditional epistemological approaches with emerging scientific methodologies. Raamarakshh's text meticulously unpacks complex interpretative models of concealed or secret knowledge ("marma"), drawing from Sanskrit philosophical traditions, Ayurvedic medical understanding, and emerging computational research paradigms associated with C-DAC. The work's significance lies in its sophisticated interdisciplinary approach, demonstrating how traditional Indian conceptual structures can intersect with contemporary analytical frameworks. By systematically exploring epistemological boundaries between manifest and latent knowledge systems, Marma Vijnj-aan contributes substantially to understanding Indian intellectual heritage's dynamic, adaptive nature. The text is particularly notable for its rigorous methodology, synthesizing philosophical speculation with empirical observation—a characteristic approach in advanced Indian scholarly traditions. Its engagement with C-DAC reflects the emerging computational and technological dimensions of Indian scholarly research during the mid-20th century, positioning the work as a pivotal text in understanding knowledge transformation during India's post-colonial intellectual reconstruction. Scholars of Indian intellectual history, computational humanities, and philosophical studies will find this work an invaluable resource for comprehending the complex intersections of traditional and modern knowledge production in the Indian subcontinent.
+
 ---
 
 ## Introduction to Marma Vijnana

@@ -1,32 +1,47 @@
 ---
-title: 'Reports of a Tour in Bundelkhand and Rewa in 1883-84; and of a Tour in Rewa, Bundelkhand, Malwa, and Gwalior, in 1884-85'
+title: >-
+  Reports of a Tour in Bundelkhand and Rewa in 1883-84; and of a Tour in Rewa,
+  Bundelkhand, Malwa, and Gwalior, in 1884-85
 author:
-- Alexander Cunningham
+  - Alexander Cunningham
 year: 1885
 language:
-- English
+  - English
 genre:
-- Archaeology
-- Historical Literature
-- Travel Literature
-description: |
-  During the late 19th century, when British colonial archaeological scholarship was systematically mapping and documenting India's cultural heritage, Sir Alexander Cunningham's "Reports of a Tour in Bundelkhand and Rewa" emerged as a seminal work in understanding the archaeological and historical landscapes of central India. As the first Archaeological Surveyor of India (serving from 1861-1865), Cunningham represented a critical juncture in imperial knowledge production, bridging military expertise with rigorous archaeological methodologies. His comprehensive documentation of regions including Bundelkhand, Rewa, Malwa, and Gwalior provided unprecedented scholarly insights into the architectural, cultural, and historical complexities of these territories during a transformative period of Indian historical research. The work meticulously documented archaeological sites, inscriptions, architectural remnants, and material culture, offering a systematic approach to understanding the region's historical continuities and cultural transformations. Cunningham's methodology was groundbreaking, combining archaeological observation, historical analysis, and ethnographic documentation, which significantly influenced subsequent archaeological practices in the Indian subcontinent. His research was particularly significant in deciphering the material evidence of complex political formations, religious developments, and cultural exchanges that characterized central Indian regions during medieval and early modern periods. By presenting detailed archaeological surveys, Cunningham not only contributed to colonial knowledge production but also laid foundational frameworks for understanding India's rich archaeological heritage. The volume represents a critical scholarly intervention that transcended mere descriptive documentation, providing nuanced interpretations of archaeological remains that challenged contemporary understanding of Indian historical trajectories and cultural developments.
+  - Archaeology
+  - Historical Literature
+  - Travel Literature
+description: >-
+  During the late 19th century, when British colonial archaeological scholarship
+  was systematically mapping and documenting India's cultural heritage, Sir
+  Alexander Cunningham's "Reports of a Tour in Bundelkhand and Rewa" emerged as
+  a seminal work in understanding the archaeological and historical landscapes
+  of central India. As the first Archaeological Surveyor of India (serving from
+  1861-1865), Cunningham represented a critical juncture in imperial knowledge
+  production, bridging military expertise with rigorous archaeological
+  methodologies.
 collections:
-- regional-voices
-- modern-literature
+  - regional-voices
+  - modern-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/reportsoftourinb21cunn
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/reportsoftourinb21cunn'
+    type: other
 references:
-- name: 'Wikipedia: Alexander Cunningham'
-  url: https://en.wikipedia.org/wiki/Alexander_Cunningham
-  type: wikipedia
-- name: 'Open Library'
-  url: https://openlibrary.org/search?q=Reports+of+a+tour+in+Bundelkhand+and+Rewa&mode=everything
-  type: other
+  - name: 'Wikipedia: Alexander Cunningham'
+    url: 'https://en.wikipedia.org/wiki/Alexander_Cunningham'
+    type: wikipedia
+  - name: Open Library
+    url: >-
+      https://openlibrary.org/search?q=Reports+of+a+tour+in+Bundelkhand+and+Rewa&mode=everything
+    type: other
 featured: false
-publishDate: 2025-09-28
+publishDate: 2025-09-28T00:00:00.000Z
+---
+## Historical Context
+
+During the late 19th century, when British colonial archaeological scholarship was systematically mapping and documenting India's cultural heritage, Sir Alexander Cunningham's "Reports of a Tour in Bundelkhand and Rewa" emerged as a seminal work in understanding the archaeological and historical landscapes of central India. As the first Archaeological Surveyor of India (serving from 1861-1865), Cunningham represented a critical juncture in imperial knowledge production, bridging military expertise with rigorous archaeological methodologies. His comprehensive documentation of regions including Bundelkhand, Rewa, Malwa, and Gwalior provided unprecedented scholarly insights into the architectural, cultural, and historical complexities of these territories during a transformative period of Indian historical research. The work meticulously documented archaeological sites, inscriptions, architectural remnants, and material culture, offering a systematic approach to understanding the region's historical continuities and cultural transformations. Cunningham's methodology was groundbreaking, combining archaeological observation, historical analysis, and ethnographic documentation, which significantly influenced subsequent archaeological practices in the Indian subcontinent. His research was particularly significant in deciphering the material evidence of complex political formations, religious developments, and cultural exchanges that characterized central Indian regions during medieval and early modern periods. By presenting detailed archaeological surveys, Cunningham not only contributed to colonial knowledge production but also laid foundational frameworks for understanding India's rich archaeological heritage. The volume represents a critical scholarly intervention that transcended mere descriptive documentation, providing nuanced interpretations of archaeological remains that challenged contemporary understanding of Indian historical trajectories and cultural developments.
+
 ---
 
 # Reports of a Tour in Bundelkhand and Rewa in 1883-84; and of a Tour in Rewa, Bundelkhand, Malwa, and Gwalior, in 1884-85

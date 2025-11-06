@@ -1,0 +1,4195 @@
+{
+  "total": 698,
+  "needsOptimization": 694,
+  "critical": 562,
+  "analysis": [
+    {
+      "file": "bhartrhari-shatakas.md",
+      "wordCount": 975,
+      "charCount": 7652,
+      "title": "Shatakas of Bhartrhari (Three Centuries)"
+    },
+    {
+      "file": "samkhya-karika-ishvarakrishna.md",
+      "wordCount": 970,
+      "charCount": 8022,
+      "title": "Samkhya Karika (Verses on Enumeration Philosophy)"
+    },
+    {
+      "file": "tales-of-the-punjab-folklore-of-india-steel-flora-annie-webster.md",
+      "wordCount": 940,
+      "charCount": 6997,
+      "title": "Tales of the Punjab: Folklore of India"
+    },
+    {
+      "file": "shiva-purana.md",
+      "wordCount": 926,
+      "charCount": 7591,
+      "title": "Shiva Purana"
+    },
+    {
+      "file": "folk-tales-of-bengal-day-lal-behari.md",
+      "wordCount": 864,
+      "charCount": 6243,
+      "title": "Folk-Tales of Bengal"
+    },
+    {
+      "file": "ashtavakra-gita.md",
+      "wordCount": 815,
+      "charCount": 6516,
+      "title": "Ashtavakra Gita (Song of Ashtavakra)"
+    },
+    {
+      "file": "the-tale-of-the-great-mutiny-fitchett-w-h-william-henry.md",
+      "wordCount": 674,
+      "charCount": 4889,
+      "title": "The Tale of the Great Mutiny"
+    },
+    {
+      "file": "on-the-face-of-the-waters-a-tale-of-the-mutiny-steel-flora-annie-webster.md",
+      "wordCount": 648,
+      "charCount": 4634,
+      "title": "On the Face of the Waters: A Tale of the Mutiny"
+    },
+    {
+      "file": "castes-and-tribes-of-southern-india-vol-1-of-7-thurston-edgar.md",
+      "wordCount": 430,
+      "charCount": 3317,
+      "title": "Castes and Tribes of Southern India, Volume 1 of 7"
+    },
+    {
+      "file": "the-post-office-tagore-rabindranath.md",
+      "wordCount": 362,
+      "charCount": 2506,
+      "title": "The Post Office"
+    },
+    {
+      "file": "our-educational-problem-dayal.md",
+      "wordCount": 341,
+      "charCount": 2681,
+      "title": "Our educational problem"
+    },
+    {
+      "file": "vedic-grammar-arthur-anthony-macdonell.md",
+      "wordCount": 315,
+      "charCount": 2494,
+      "title": "Vedic grammar"
+    },
+    {
+      "file": "sadhana-the-realisation-of-life-tagore-rabindranath.md",
+      "wordCount": 312,
+      "charCount": 2274,
+      "title": "Sadhana: The Realisation of Life"
+    },
+    {
+      "file": "tibetan-tales-derived-from-indian-sources-unknown.md",
+      "wordCount": 312,
+      "charCount": 2552,
+      "title": "Tibetan Tales, Derived from Indian Sources"
+    },
+    {
+      "file": "three-frenchmen-in-bengal-the-commercial-ruin-of-the-french-settlements-in-1757-hill-samuel-charles.md",
+      "wordCount": 308,
+      "charCount": 2383,
+      "title": "Three Frenchmen in Bengal: The Commercial Ruin of the French Settlements in 1757"
+    },
+    {
+      "file": "the-story-of-madras-barlow-glyn.md",
+      "wordCount": 307,
+      "charCount": 2384,
+      "title": "The Story of Madras"
+    },
+    {
+      "file": "uhrilauluja-tagore-rabindranath.md",
+      "wordCount": 302,
+      "charCount": 2443,
+      "title": "Uhrilauluja"
+    },
+    {
+      "file": "twelve-years-of-a-soldiers-life-in-india-being-extracts-from-the-letters-of-the-late-major-w-s-r.md",
+      "wordCount": 298,
+      "charCount": 2330,
+      "title": "Twelve Years of a Soldier's Life in India: Being Extracts from the Letters of the Late Major W. S. R. Hodson, B. A."
+    },
+    {
+      "file": "two-old-faiths-b-essays-on-the-religions-of-the-hindus-and-the-mohammedans-mitchell-j-murray-john.md",
+      "wordCount": 295,
+      "charCount": 2403,
+      "title": "Two old faiths : essays on the religions of the Hindus and the Mohammedans"
+    },
+    {
+      "file": "the-bridge-builders-kipling-rudyard.md",
+      "wordCount": 291,
+      "charCount": 2002,
+      "title": "The Bridge-Builders"
+    },
+    {
+      "file": "through-the-sikh-war-a-tale-of-the-conquest-of-the-punjaub-henty-g-a-george-alfred.md",
+      "wordCount": 291,
+      "charCount": 2314,
+      "title": "Through the Sikh War: A Tale of the Conquest of the Punjaub"
+    },
+    {
+      "file": "stories-from-tagore-tagore-rabindranath.md",
+      "wordCount": 290,
+      "charCount": 1951,
+      "title": "Stories from Tagore"
+    },
+    {
+      "file": "a-brief-history-of-the-3rd-battalion-1st-punjab-regiment-b-formerly-76th-punjabis-16th-madras.md",
+      "wordCount": 289,
+      "charCount": 2312,
+      "title": "A brief history of the 3rd Battalion, 1st Punjab Regiment (formerly 76th Punjabis)"
+    },
+    {
+      "file": "the-tiger-of-mysore-a-story-of-the-war-with-tippoo-saib-henty-g-a-george-alfred.md",
+      "wordCount": 287,
+      "charCount": 2188,
+      "title": "The Tiger of Mysore: A Story of the War with Tippoo Saib"
+    },
+    {
+      "file": "the-story-of-the-gadsbys-kipling-rudyard.md",
+      "wordCount": 282,
+      "charCount": 2084,
+      "title": "The story of the Gadsbys"
+    },
+    {
+      "file": "the-gardener-tagore-rabindranath.md",
+      "wordCount": 261,
+      "charCount": 1797,
+      "title": "The Gardener"
+    },
+    {
+      "file": "verses-1889-1896-kipling-rudyard.md",
+      "wordCount": 259,
+      "charCount": 2026,
+      "title": "Verses 1889-1896"
+    },
+    {
+      "file": "the-administration-of-the-east-india-company-john-william-kaye.md",
+      "wordCount": 258,
+      "charCount": 2102,
+      "title": "The Administration of the East India Company: A History of Indian Progress"
+    },
+    {
+      "file": "with-clive-in-india-or-the-beginnings-of-an-empire-g-a-henty.md",
+      "wordCount": 257,
+      "charCount": 1976,
+      "title": "With Clive in India; or, The Beginnings of an Empire"
+    },
+    {
+      "file": "girish-chandra-ghosh-plays-girish-granthabali.md",
+      "wordCount": 256,
+      "charCount": 2004,
+      "title": "Girish Granthabali (Collected Plays)"
+    },
+    {
+      "file": "among-the-wild-tribes-of-the-afghan-frontier-a-record-of-sixteen-years-close-intercourse-with-the.md",
+      "wordCount": 255,
+      "charCount": 2019,
+      "title": "Among the Wild Tribes of the Afghan Frontier"
+    },
+    {
+      "file": "little-clay-cart-sudraka.md",
+      "wordCount": 255,
+      "charCount": 1883,
+      "title": "The Little Clay Cart (Mrichchhakatika)"
+    },
+    {
+      "file": "indian-unrest-valentine-chirol.md",
+      "wordCount": 254,
+      "charCount": 1990,
+      "title": "Indian Unrest"
+    },
+    {
+      "file": "the-travels-of-marco-polo-india-sections.md",
+      "wordCount": 254,
+      "charCount": 2008,
+      "title": "The Travels of Marco Polo: India Sections"
+    },
+    {
+      "file": "folk-lore-notes-vol-igujarat-jackson-a-m-t-arthur-mason-tippetts.md",
+      "wordCount": 253,
+      "charCount": 1982,
+      "title": "Folk Lore Notes. Vol. I—Gujarat"
+    },
+    {
+      "file": "historical-atlas-of-india-charles-joppen.md",
+      "wordCount": 253,
+      "charCount": 1987,
+      "title": "Historical Atlas of India"
+    },
+    {
+      "file": "the-history-and-management-of-the-east-india-company-vol-1-james-macpherson.md",
+      "wordCount": 253,
+      "charCount": 2012,
+      "title": "The History and Management of the East-India Company (Vol. 1)"
+    },
+    {
+      "file": "a-grammar-of-the-hindustani-language-john-shakespear.md",
+      "wordCount": 252,
+      "charCount": 2029,
+      "title": "A Grammar of the Hindustani Language"
+    },
+    {
+      "file": "a-history-of-hindi-literature-keay.md",
+      "wordCount": 252,
+      "charCount": 1893,
+      "title": "A History of Hindi Literature"
+    },
+    {
+      "file": "indian-currency-and-finance-keynes.md",
+      "wordCount": 252,
+      "charCount": 1950,
+      "title": "Indian Currency and Finance"
+    },
+    {
+      "file": "a-fascinating-traitor-an-anglo-indian-story-savage-richard.md",
+      "wordCount": 251,
+      "charCount": 1908,
+      "title": "A Fascinating Traitor: An Anglo-Indian Story"
+    },
+    {
+      "file": "a-voyage-to-new-guinea-and-the-moluccas-thomas-forrest.md",
+      "wordCount": 251,
+      "charCount": 2069,
+      "title": "A voyage to New Guinea and the Moluccas, from Balambangan"
+    },
+    {
+      "file": "kabir-granthawali-kabir.md",
+      "wordCount": 251,
+      "charCount": 1978,
+      "title": "Kabir-granthawali"
+    },
+    {
+      "file": "mashi-and-other-stories-tagore-rabindranath.md",
+      "wordCount": 251,
+      "charCount": 1964,
+      "title": "Mashi, and Other Stories"
+    },
+    {
+      "file": "a-sanskrit-manual-for-high-schools-antoine-robert-1914.md",
+      "wordCount": 250,
+      "charCount": 2087,
+      "title": "A Sanskrit manual for high schools"
+    },
+    {
+      "file": "men-and-events-of-my-time-in-india-richard-temple.md",
+      "wordCount": 250,
+      "charCount": 1948,
+      "title": "Men and Events of My Time in India"
+    },
+    {
+      "file": "mutiny-memoirs-being-personal-reminiscences-of-the-great-sepoy-revolt-of-1857-mackenzie-a-r-d.md",
+      "wordCount": 250,
+      "charCount": 2053,
+      "title": "Mutiny Memoirs: Being Personal Reminiscences of the Great Sepoy Revolt of 1857"
+    },
+    {
+      "file": "the-poison-tree-a-tale-of-hindu-life-in-bengal-cattopadhyaya-bankimacandra.md",
+      "wordCount": 250,
+      "charCount": 1938,
+      "title": "The Poison Tree: A Tale of Hindu Life in Bengal"
+    },
+    {
+      "file": "the-red-year-a-story-of-the-indian-mutiny-tracy-louis.md",
+      "wordCount": 250,
+      "charCount": 1934,
+      "title": "The Red Year: A Story of the Indian Mutiny"
+    },
+    {
+      "file": "a-grammar-of-the-bengal-language-nathaniel-brassey-halhed.md",
+      "wordCount": 249,
+      "charCount": 1933,
+      "title": "A Grammar of the Bengal Language"
+    },
+    {
+      "file": "an-alphabetical-list-of-jaina-mss-belonging-to-government-in-the-oriental-library-of-the-asiatic-society-of-bengal-asiatic-society-calcutta.md",
+      "wordCount": 249,
+      "charCount": 1947,
+      "title": "An alphabetical list of Jaina MSS, belonging to government in the Oriental Library of the Asiatic Society of Bengal"
+    },
+    {
+      "file": "an-historical-sketch-of-the-native-states-of-india-g-b-malleson.md",
+      "wordCount": 249,
+      "charCount": 1980,
+      "title": "An Historical Sketch of the Native States of India"
+    },
+    {
+      "file": "memoir-of-the-services-of-the-bengal-artillery-from-the-formation-of-the-corps-to-the-present-time.md",
+      "wordCount": 249,
+      "charCount": 2048,
+      "title": "Memoir of the Services of the Bengal Artillery: From the Formation of the Corps to the Present Time, with Some Account of Its Internal Organization"
+    },
+    {
+      "file": "the-sanskrit-buddhist-literature-of-nepal-mitra.md",
+      "wordCount": 249,
+      "charCount": 2027,
+      "title": "The Sanskrit Buddhist Literature of Nepal"
+    },
+    {
+      "file": "bikhre-moti-subhadra-kumari-chauhan.md",
+      "wordCount": 248,
+      "charCount": 1929,
+      "title": "Bikhre Moti (Scattered Pearls)"
+    },
+    {
+      "file": "buddhism-in-its-connexion-with-brahmanism-and-hinduism-and-in-its-contrast-with-christianity-monier.md",
+      "wordCount": 248,
+      "charCount": 2071,
+      "title": "Buddhism, in Its Connexion with Brahmanism and Hinduism, and in Its Contrast with Christianity"
+    },
+    {
+      "file": "memorial-on-behalf-of-the-king-of-tanjore-rajah-tulaji.md",
+      "wordCount": 248,
+      "charCount": 1959,
+      "title": "Memorial on Behalf of the King of Tanjore"
+    },
+    {
+      "file": "outlines-history-hindu-law-partition-inheritance-adoption-julius-jolly.md",
+      "wordCount": 248,
+      "charCount": 1970,
+      "title": "Outlines of an History of the Hindu Law of Partition, Inheritance, and Adoption"
+    },
+    {
+      "file": "skanda-purana.md",
+      "wordCount": 248,
+      "charCount": 1991,
+      "title": "Skanda Purana"
+    },
+    {
+      "file": "the-embassy-of-sir-thomas-roe-to-the-court-of-the-great-mogul-16151619-sir-thomas-roe-ed-william-foster.md",
+      "wordCount": 248,
+      "charCount": 1892,
+      "title": "The Embassy of Sir Thomas Roe to the Court of the Great Mogul, 1615–1619"
+    },
+    {
+      "file": "a-record-of-buddhistic-kingdoms-faxian-james-legge.md",
+      "wordCount": 247,
+      "charCount": 2074,
+      "title": "A Record of Buddhistic Kingdoms"
+    },
+    {
+      "file": "buddhist-art-in-india-grünwedel.md",
+      "wordCount": 247,
+      "charCount": 2028,
+      "title": "Buddhist art in India"
+    },
+    {
+      "file": "india-for-indians-enlarged-edition-das-chitta-ranjan.md",
+      "wordCount": 247,
+      "charCount": 2045,
+      "title": "India for Indians: Enlarged Edition"
+    },
+    {
+      "file": "the-loves-of-krishna-archer.md",
+      "wordCount": 247,
+      "charCount": 1957,
+      "title": "The Loves of Krishna in Indian Painting and Poetry"
+    },
+    {
+      "file": "the-natural-history-of-the-mammalia-of-india-and-ceylon-r-a-sterndale.md",
+      "wordCount": 247,
+      "charCount": 1985,
+      "title": "The Natural History of the Mammalia of India and Ceylon"
+    },
+    {
+      "file": "vikram-and-the-vampire-classic-hindu-tales-of-adventure-magic-and-romance-burton-richard-francis-sir.md",
+      "wordCount": 247,
+      "charCount": 1906,
+      "title": "Vikram and the Vampire: Classic Hindu Tales of Adventure, Magic, and Romance"
+    },
+    {
+      "file": "a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale-m-r.md",
+      "wordCount": 246,
+      "charCount": 2018,
+      "title": "A higher Sanskrit grammar, for the use of schools and colleges"
+    },
+    {
+      "file": "beginnings-of-buddhist-art-and-other-essays-in-indian-and-central-asian-archaeology-foucher.md",
+      "wordCount": 246,
+      "charCount": 2004,
+      "title": "The Beginnings of Buddhist Art and Other Essays in Indian and Central-Asian Archaeology"
+    },
+    {
+      "file": "buddhist-mahayana-texts.md",
+      "wordCount": 246,
+      "charCount": 1998,
+      "title": "Buddhist Mahāyāna Texts"
+    },
+    {
+      "file": "gopal-bhar.md",
+      "wordCount": 246,
+      "charCount": 2030,
+      "title": "Gopal Bhar Tales"
+    },
+    {
+      "file": "indian-home-rule-reprinted-with-a-new-foreword-by-the-author-gandhi.md",
+      "wordCount": 246,
+      "charCount": 2042,
+      "title": "Indian home rule. Reprinted with a new foreword by the author"
+    },
+    {
+      "file": "introduction-to-hindustani-shakespear.md",
+      "wordCount": 246,
+      "charCount": 2000,
+      "title": "An Introduction to the Hindustani Language"
+    },
+    {
+      "file": "koti-ja-maailma-tagore-rabindranath.md",
+      "wordCount": 246,
+      "charCount": 1849,
+      "title": "Koti ja maailma"
+    },
+    {
+      "file": "the-east-india-gazetteer-walter-hamilton.md",
+      "wordCount": 246,
+      "charCount": 2032,
+      "title": "The East India Gazetteer"
+    },
+    {
+      "file": "the-great-epic-of-india-its-character-and-origin-hopkins.md",
+      "wordCount": 246,
+      "charCount": 1986,
+      "title": "The great epic of India; its character and origin"
+    },
+    {
+      "file": "a-diary-kept-by-mrs-r-c-germon-at-lucknow-between-the-months-of-may-and-december-1857-germon-maria.md",
+      "wordCount": 245,
+      "charCount": 1822,
+      "title": "A Diary Kept by Mrs. R. C. Germon, at Lucknow, Between the Months of May and December, 1857"
+    },
+    {
+      "file": "history-of-india-1862-1937-ed-abraham-valentine-williams-jackson.md",
+      "wordCount": 245,
+      "charCount": 2026,
+      "title": "History of India, Volume VI: From Akbar to European Supremacy"
+    },
+    {
+      "file": "hymns-from-the-rigveda-selected-and-metrically-translated-griffith.md",
+      "wordCount": 245,
+      "charCount": 1969,
+      "title": "Hymns from the Rigveda, Selected and Metrically Translated"
+    },
+    {
+      "file": "in-old-madras-croker-b-m-bithia-mary.md",
+      "wordCount": 245,
+      "charCount": 1915,
+      "title": "In Old Madras"
+    },
+    {
+      "file": "papers-sanskrit-manuscript-preservation-gough.md",
+      "wordCount": 245,
+      "charCount": 1961,
+      "title": "Papers Relating to the Collection and Preservation of Ancient Sanskrit Literature in India"
+    },
+    {
+      "file": "rig-veda-sanhit-english-translation-h-h-wilson.md",
+      "wordCount": 245,
+      "charCount": 1961,
+      "title": "Rig-Veda-Sanhitā (English translation)"
+    },
+    {
+      "file": "south-indian-images-of-gods-and-goddesses-krishna-sastri.md",
+      "wordCount": 245,
+      "charCount": 1995,
+      "title": "South Indian Images of Gods and Goddesses"
+    },
+    {
+      "file": "translations-of-shakuntala-and-other-works-kalidasa.md",
+      "wordCount": 245,
+      "charCount": 1916,
+      "title": "Translations of Shakuntala and Other Works"
+    },
+    {
+      "file": "a-handbook-of-some-south-indian-grasses-k-rangachari-c-tadulinga-mudaliyar.md",
+      "wordCount": 244,
+      "charCount": 2014,
+      "title": "A Handbook of Some South Indian Grasses"
+    },
+    {
+      "file": "angel-a-sketch-in-indian-ink-croker-b-m-bithia-mary.md",
+      "wordCount": 244,
+      "charCount": 1942,
+      "title": "Angel: A sketch in Indian ink"
+    },
+    {
+      "file": "ethnography-castes-and-tribes-baines.md",
+      "wordCount": 244,
+      "charCount": 1973,
+      "title": "Ethnography: Castes and Tribes"
+    },
+    {
+      "file": "india-and-the-indians-elwin-edward-fenton.md",
+      "wordCount": 244,
+      "charCount": 1934,
+      "title": "India and the Indians"
+    },
+    {
+      "file": "maha-bharata-the-epic-of-ancient-india-condensed-into-english-verse-unknown.md",
+      "wordCount": 244,
+      "charCount": 1972,
+      "title": "Maha-bharata: The Epic of Ancient India Condensed into English Verse"
+    },
+    {
+      "file": "the-fall-of-the-moghul-empire-of-hindustan-h-g-keene.md",
+      "wordCount": 244,
+      "charCount": 1904,
+      "title": "The Fall of the Moghul Empire of Hindustan"
+    },
+    {
+      "file": "the-mystery-of-cloomber-doyle-arthur-conan.md",
+      "wordCount": 244,
+      "charCount": 2020,
+      "title": "The Mystery of Cloomber"
+    },
+    {
+      "file": "things-indian-william-crooke.md",
+      "wordCount": 244,
+      "charCount": 2004,
+      "title": "Things Indian"
+    },
+    {
+      "file": "yoga-system-of-patanjali-woods-translation.md",
+      "wordCount": 244,
+      "charCount": 2013,
+      "title": "The Yoga-System of Patañjali: Or, The Ancient Hindu Doctrine of Concentration of Mind"
+    },
+    {
+      "file": "a-bottle-in-the-smoke-a-tale-of-anglo-indian-life-rae-janet-milne.md",
+      "wordCount": 243,
+      "charCount": 1784,
+      "title": "A Bottle in the Smoke: A Tale of Anglo-Indian Life"
+    },
+    {
+      "file": "campaigns-on-the-north-west-frontier-h-l-nevill.md",
+      "wordCount": 243,
+      "charCount": 1991,
+      "title": "Campaigns on the North-West Frontier"
+    },
+    {
+      "file": "chandrakanta-devaki-nandan-khatri.md",
+      "wordCount": 243,
+      "charCount": 1911,
+      "title": "Chandrakanta"
+    },
+    {
+      "file": "conference-of-orientalists-simla-1911.md",
+      "wordCount": 243,
+      "charCount": 2148,
+      "title": "Conference of Orientalists: Simla, July 1911"
+    },
+    {
+      "file": "little-clay-cart-mricchakatika-shudraka.md",
+      "wordCount": 243,
+      "charCount": 1884,
+      "title": "The Little Clay Cart (Mṛcchakatika)"
+    },
+    {
+      "file": "miscellaneous-notices-relating-to-china-and-our-commercial-intercourse-with-that-country-part-the-second-staunton.md",
+      "wordCount": 243,
+      "charCount": 1922,
+      "title": "Miscellaneous notices relating to China, and our commercial intercourse with that country. Part the second"
+    },
+    {
+      "file": "newton-forster-or-the-merchant-service-marryat-frederick.md",
+      "wordCount": 243,
+      "charCount": 1888,
+      "title": "Newton Forster; Or, The Merchant Service"
+    },
+    {
+      "file": "periplus-of-the-erythraean-sea.md",
+      "wordCount": 243,
+      "charCount": 1900,
+      "title": "The Periplus of the Erythraean Sea"
+    },
+    {
+      "file": "philosophy-upanishads-ancient-indian-metaphysics-archibald-gough.md",
+      "wordCount": 243,
+      "charCount": 2144,
+      "title": "The Philosophy of the Upanishads and Ancient Indian Metaphysics"
+    },
+    {
+      "file": "sarva-darsana-samgraha-madhava-tr-cowell-gough-1882.md",
+      "wordCount": 243,
+      "charCount": 2059,
+      "title": "Sarva-darśana-saṅgraha (Review of Different Systems of Hindu Philosophy)"
+    },
+    {
+      "file": "the-economic-history-of-india-romesh-chunder-dutt.md",
+      "wordCount": 243,
+      "charCount": 1928,
+      "title": "The Economic History of India"
+    },
+    {
+      "file": "the-lusiad-or-the-discovery-of-india-an-epic-poem-camões.md",
+      "wordCount": 243,
+      "charCount": 1939,
+      "title": "The Lusiad : or, The discovery of India : an epic poem"
+    },
+    {
+      "file": "vedanta-philosophy-swami-abhedananda.md",
+      "wordCount": 243,
+      "charCount": 2069,
+      "title": "Vedânta Philosophy: Three Lectures on Spiritual Unfoldment"
+    },
+    {
+      "file": "village-gods-south-india-henry-whitehead.md",
+      "wordCount": 243,
+      "charCount": 1948,
+      "title": "The Village Gods of South India"
+    },
+    {
+      "file": "annual-address-delivered-to-the-asiatic-society-of-bengal-caluctta-2nd-february-1898-hoernle.md",
+      "wordCount": 242,
+      "charCount": 1993,
+      "title": "Annual address delivered to the Asiatic Society of Bengal, Caluctta, 2nd February, 1898"
+    },
+    {
+      "file": "buddhist-birth-stories-jataka-tales-rhys-davids.md",
+      "wordCount": 242,
+      "charCount": 1868,
+      "title": "Buddhist Birth-Stories (Jataka Tales)"
+    },
+    {
+      "file": "indigo-and-its-enemies-1861-delta.md",
+      "wordCount": 242,
+      "charCount": 1945,
+      "title": "Indigo and Its Enemies"
+    },
+    {
+      "file": "pather-panchali-bibhutibhushan-bandyopadhyay.md",
+      "wordCount": 242,
+      "charCount": 1835,
+      "title": "Pather Panchali"
+    },
+    {
+      "file": "raja-yoga-swami-vivekananda.md",
+      "wordCount": 242,
+      "charCount": 1934,
+      "title": "Raja Yoga"
+    },
+    {
+      "file": "rasendra-sar-sanghra-bhaskara-basak.md",
+      "wordCount": 242,
+      "charCount": 2082,
+      "title": "Rasendra Sar Sanghra (রাসেন্দ্র সার সংগ্রহ) Vol. 1"
+    },
+    {
+      "file": "storia-do-mogor-mogul-india-1653-1708-niccolo-manucci-william-irvine.md",
+      "wordCount": 242,
+      "charCount": 1996,
+      "title": "Storia do Mogor: Mogul India 1653-1708"
+    },
+    {
+      "file": "the-panjab-north-west-frontier-province-and-kashmir-douie-james-mccrone-sir.md",
+      "wordCount": 242,
+      "charCount": 2027,
+      "title": "The Panjab, North-West Frontier Province, and Kashmir"
+    },
+    {
+      "file": "twenty-two-goblins-translated-from-the-sanskrit-unknown.md",
+      "wordCount": 242,
+      "charCount": 1792,
+      "title": "Twenty-Two Goblins. Translated from the Sanskrit"
+    },
+    {
+      "file": "across-india-or-live-boys-in-the-far-east-william-taylor-adams-oliver-optic.md",
+      "wordCount": 241,
+      "charCount": 1911,
+      "title": "Across India; or, Live Boys in the Far East"
+    },
+    {
+      "file": "akbar-emperor-of-india-richard-garbe.md",
+      "wordCount": 241,
+      "charCount": 1948,
+      "title": "Akbar, Emperor of India: A Picture of Life and Customs from the Sixteenth Century"
+    },
+    {
+      "file": "an-english-translation-of-the-satyarth-prakash-literally-expose-of-right-sense-of-vedic-religion-of-maharshi-swami-dayanand-saraswati-the-luther-of-india-being-a-guide-to-vedic-hermeneutics-dayananda-sarasvati.md",
+      "wordCount": 241,
+      "charCount": 1988,
+      "title": "Satyarth Prakash (The Light of Truth): A Guide to Vedic Hermeneutics"
+    },
+    {
+      "file": "anandamath-the-abbey-of-bliss-english-translations-bankim-chandra-chattopadhyay-tr-n-c-sengupta-tr-sri-aurobindo-b-k-ghosh-tr-b-k-roy.md",
+      "wordCount": 241,
+      "charCount": 1889,
+      "title": "Anandamath (The Abbey of Bliss) — English translations"
+    },
+    {
+      "file": "by-ways-of-bombay-edwardes-s-m-stephen-meredyth.md",
+      "wordCount": 241,
+      "charCount": 1903,
+      "title": "By-Ways of Bombay"
+    },
+    {
+      "file": "classical-dictionary-hindu-mythology-religion-geography-history-literature-john-dowson.md",
+      "wordCount": 241,
+      "charCount": 1952,
+      "title": "A Classical Dictionary of Hindu Mythology and Religion, Geography, History, and Literature"
+    },
+    {
+      "file": "die-nacht-der-erfüllung-erzählungen-tagore-rabindranath.md",
+      "wordCount": 241,
+      "charCount": 2040,
+      "title": "Die Nacht der Erfüllung: Erzählungen"
+    },
+    {
+      "file": "hindu-law-treatise-administered-british-courts-india-herbert-cowell.md",
+      "wordCount": 241,
+      "charCount": 1909,
+      "title": "The Hindu Law: Being a Treatise on the Law Administered Exclusively to Hindus by the British Courts in India"
+    },
+    {
+      "file": "indica-megasthenes.md",
+      "wordCount": 241,
+      "charCount": 2027,
+      "title": "Indica"
+    },
+    {
+      "file": "lekhmalanukramani-rakhaldas-bandyopadhyay.md",
+      "wordCount": 241,
+      "charCount": 2128,
+      "title": "Lekhmalanukramani Vol. 1, Part 1"
+    },
+    {
+      "file": "nationalism-rabindranath-tagore.md",
+      "wordCount": 241,
+      "charCount": 1944,
+      "title": "Nationalism"
+    },
+    {
+      "file": "notes-of-an-overland-journey-through-france-and-egypt-to-bombay-roberts-emma.md",
+      "wordCount": 241,
+      "charCount": 1868,
+      "title": "Notes of an Overland Journey Through France and Egypt to Bombay"
+    },
+    {
+      "file": "open-letters-to-lord-curzon-romesh-dutt.md",
+      "wordCount": 241,
+      "charCount": 2013,
+      "title": "Open Letters to Lord Curzon on Famines and Land Assessments in India"
+    },
+    {
+      "file": "report-of-the-silk-panel-chairman-1947-navaratna-rama-rao.md",
+      "wordCount": 241,
+      "charCount": 2050,
+      "title": "Report of the Silk Panel"
+    },
+    {
+      "file": "the-golden-threshold-sarojini-naidu.md",
+      "wordCount": 241,
+      "charCount": 2005,
+      "title": "The Golden Threshold"
+    },
+    {
+      "file": "the-rámáyan-of-válmíki-translated-into-english-verse-valmiki.md",
+      "wordCount": 241,
+      "charCount": 1806,
+      "title": "The Rámáyan of Válmíki, translated into English verse"
+    },
+    {
+      "file": "velugoti-vari-vamsavali-telugu.md",
+      "wordCount": 241,
+      "charCount": 1970,
+      "title": "వెలుగోటివారివంశావళి (Velugoti Vari Vamsavali)"
+    },
+    {
+      "file": "a-history-of-the-mahrattas-3-vols-james-grant-duff.md",
+      "wordCount": 240,
+      "charCount": 2000,
+      "title": "A History of the Mahrattas (3 Volumes)"
+    },
+    {
+      "file": "a-short-guide-to-buddhist-remains-at-nalanda-kuraishi.md",
+      "wordCount": 240,
+      "charCount": 1908,
+      "title": "A Short Guide to the Buddhist Remains Excavated at Nalanda"
+    },
+    {
+      "file": "freedoms-battle-being-a-comprehensive-collection-of-writings-and-speeches-on-the-present-situation.md",
+      "wordCount": 240,
+      "charCount": 1989,
+      "title": "Freedom's Battle: Being a Comprehensive Collection of Writings and Speeches on the Present Situation"
+    },
+    {
+      "file": "journael-van-de-reysen-naar-oost-indien-thomas-roe.md",
+      "wordCount": 240,
+      "charCount": 1825,
+      "title": "Journael van de Reysen naar Oost-Indien"
+    },
+    {
+      "file": "kashidasi-mahabharat-কশদস-মহভরত-kashiram-das.md",
+      "wordCount": 240,
+      "charCount": 1952,
+      "title": "Kashidasi Mahabharat কাশীদাসী মহাভারত"
+    },
+    {
+      "file": "outlines-of-indian-philosophy-paul-deussen.md",
+      "wordCount": 240,
+      "charCount": 1997,
+      "title": "Outlines of Indian Philosophy"
+    },
+    {
+      "file": "the-case-for-india-annie-besant.md",
+      "wordCount": 240,
+      "charCount": 1859,
+      "title": "The Case for India"
+    },
+    {
+      "file": "the-complete-revenue-guide-for-imports-and-exports-peter-j-hodgson.md",
+      "wordCount": 240,
+      "charCount": 1959,
+      "title": "The complete revenue guide for imports and exports"
+    },
+    {
+      "file": "the-kathá-sarit-ságara-or-ocean-of-the-streams-of-story-somadeva-bhatta-active-11th-century.md",
+      "wordCount": 240,
+      "charCount": 1935,
+      "title": "The Kathá Sarit Ságara; or, Ocean of the Streams of Story"
+    },
+    {
+      "file": "tulu-english-and-english-tulu-dictionary-a-maenner.md",
+      "wordCount": 240,
+      "charCount": 1918,
+      "title": "Tulu-English and English-Tulu Dictionary"
+    },
+    {
+      "file": "vedantasara-sadananda-yogindra.md",
+      "wordCount": 240,
+      "charCount": 1946,
+      "title": "Vedāntasāra of Sadānanda"
+    },
+    {
+      "file": "beast-and-man-in-india-a-popular-sketch-of-indian-animals-in-their-relations-with-the-people.md",
+      "wordCount": 239,
+      "charCount": 2024,
+      "title": "Beast and Man in India: A Popular Sketch of Indian Animals in their Relations with the People"
+    },
+    {
+      "file": "cunninghams-history-of-the-sikhs-joseph-davey-cunningham.md",
+      "wordCount": 239,
+      "charCount": 1958,
+      "title": "Cunningham’s History of the Sikhs"
+    },
+    {
+      "file": "debate-at-a-general-court-of-east-india-stock-1813.md",
+      "wordCount": 239,
+      "charCount": 1968,
+      "title": "A debate at a general court of proprietors of East-India stock (14 March 1813)"
+    },
+    {
+      "file": "economic-change-in-rural-india-neale.md",
+      "wordCount": 239,
+      "charCount": 1952,
+      "title": "Economic Change in Rural India: Land Tenure and Reform in Uttar Pradesh, 1800-1955"
+    },
+    {
+      "file": "hindoo-tales-or-the-adventures-of-ten-princes-dandin-active-7th-century.md",
+      "wordCount": 239,
+      "charCount": 2000,
+      "title": "Hindoo Tales; Or, the Adventures of Ten Princes"
+    },
+    {
+      "file": "islam-in-india-qanun-i-islam-jafar-sharif.md",
+      "wordCount": 239,
+      "charCount": 1783,
+      "title": "Islam in India, or The Qānūn-i Islām"
+    },
+    {
+      "file": "le-livre-de-la-jungle-kipling-rudyard.md",
+      "wordCount": 239,
+      "charCount": 1978,
+      "title": "Le livre de la Jungle"
+    },
+    {
+      "file": "nationalismus-tagore-rabindranath.md",
+      "wordCount": 239,
+      "charCount": 1936,
+      "title": "Nationalismus"
+    },
+    {
+      "file": "nil-darpan-or-the-indigo-planting-mirror-a-drama-translated-from-the-bengali-by-a-native-mitra.md",
+      "wordCount": 239,
+      "charCount": 1884,
+      "title": "Nil Darpan; or, The Indigo Planting Mirror, A Drama.: Translated from the Bengali by a Native."
+    },
+    {
+      "file": "private-life-of-warren-hastings-lawson.md",
+      "wordCount": 239,
+      "charCount": 1944,
+      "title": "The Private Life of Warren Hastings: First Governor-General of India"
+    },
+    {
+      "file": "the-university-of-nalanda-sankalia.md",
+      "wordCount": 239,
+      "charCount": 2045,
+      "title": "The University of Nalanda"
+    },
+    {
+      "file": "a-glossary-of-judicial-and-revenue-terms-h-h-wilson.md",
+      "wordCount": 238,
+      "charCount": 1918,
+      "title": "A Glossary of Judicial and Revenue Terms"
+    },
+    {
+      "file": "a-vedic-reader-for-students-arthur-anthony-macdonell.md",
+      "wordCount": 238,
+      "charCount": 1941,
+      "title": "A Vedic Reader for Students"
+    },
+    {
+      "file": "art-of-india-kramrisch.md",
+      "wordCount": 238,
+      "charCount": 1936,
+      "title": "Art of India: Traditions of Indian Sculpture, Painting and Architecture"
+    },
+    {
+      "file": "diary-of-richard-cocks-volume-1-cape-merchant-in-the-english-factory-in-japan-1615-1622-with.md",
+      "wordCount": 238,
+      "charCount": 1961,
+      "title": "Diary of Richard Cocks, Volume 1: Cape-Merchant in the English Factory in Japan, 1615-1622, with Correspondence"
+    },
+    {
+      "file": "hindu-religious-year-muriel-underhill.md",
+      "wordCount": 238,
+      "charCount": 1950,
+      "title": "The Hindu Religious Year"
+    },
+    {
+      "file": "history-of-ancient-sanskrit-literature-max-muller.md",
+      "wordCount": 238,
+      "charCount": 2071,
+      "title": "A History of Ancient Sanskrit Literature So Far As It Illustrates the Primitive Religion of the Brahmans"
+    },
+    {
+      "file": "hymns-of-the-atharvaveda-griffith.md",
+      "wordCount": 238,
+      "charCount": 1977,
+      "title": "The Hymns of the Atharvaveda"
+    },
+    {
+      "file": "imperial-gazetteer-of-india-volume-16.md",
+      "wordCount": 238,
+      "charCount": 1902,
+      "title": "The Imperial Gazetteer of India, Volume 16"
+    },
+    {
+      "file": "matsya-purana.md",
+      "wordCount": 238,
+      "charCount": 1947,
+      "title": "Matsya Purana"
+    },
+    {
+      "file": "the-aryabhatiya-of-aryabhata-clark.md",
+      "wordCount": 238,
+      "charCount": 1980,
+      "title": "The Aryabhatiya of Aryabhata"
+    },
+    {
+      "file": "the-imperial-gazetteer-of-india-new-edition-government-of-india.md",
+      "wordCount": 238,
+      "charCount": 1951,
+      "title": "The Imperial Gazetteer of India (New Edition)"
+    },
+    {
+      "file": "the-influence-of-india-and-persia-on-the-poetry-of-germany-remy-arthur-f-j.md",
+      "wordCount": 238,
+      "charCount": 1914,
+      "title": "The Influence of India and Persia on the Poetry of Germany"
+    },
+    {
+      "file": "vishnudharmottara-part3-kramrisch.md",
+      "wordCount": 238,
+      "charCount": 2064,
+      "title": "The Viṣṇudharmottara Purāṇa (Part III): Painting and Image-Making"
+    },
+    {
+      "file": "a-digest-of-the-hindu-law-of-inheritance-partition-and-adoption-embodying-the-replies-of-the-sstris-with-introductions-and-notes-1832-1912-sir-raymond-west.md",
+      "wordCount": 237,
+      "charCount": 1892,
+      "title": "A Digest of Hindu Law: Inheritance, Partition, and Adoption"
+    },
+    {
+      "file": "a-history-of-the-maratha-people-voli-c-a-kincaid.md",
+      "wordCount": 237,
+      "charCount": 1881,
+      "title": "A History of the Maratha People (Volume I)"
+    },
+    {
+      "file": "a-soldiers-experience-or-a-voice-from-the-ranks-showing-the-cost-of-war-in-blood-and-treasure-a.md",
+      "wordCount": 237,
+      "charCount": 1852,
+      "title": "A Soldier's Experience; or, A Voice from the Ranks"
+    },
+    {
+      "file": "art-manufactures-of-india-mukharji.md",
+      "wordCount": 237,
+      "charCount": 2000,
+      "title": "Art-manufactures of India"
+    },
+    {
+      "file": "hinduism-and-buddhism-an-historical-sketch-eliot-charles.md",
+      "wordCount": 237,
+      "charCount": 1929,
+      "title": "Hinduism and Buddhism, An Historical Sketch,"
+    },
+    {
+      "file": "historical-view-of-plans-for-the-government-of-british-india-john-bruce.md",
+      "wordCount": 237,
+      "charCount": 2019,
+      "title": "Historical View of Plans for the Government of British India"
+    },
+    {
+      "file": "laws-of-manu-manusmriti-georg-buhler-translation.md",
+      "wordCount": 237,
+      "charCount": 1934,
+      "title": "The Laws of Manu (Manusmriti)"
+    },
+    {
+      "file": "memoirs-of-the-right-rev-daniel-corrie-lld-first-bishop-of-madras-corrie-daniel.md",
+      "wordCount": 237,
+      "charCount": 1937,
+      "title": "Memoirs of the Right Rev. Daniel Corrie, LL.D., first Bishop of Madras"
+    },
+    {
+      "file": "racial-history-india-chakraberty.md",
+      "wordCount": 237,
+      "charCount": 2009,
+      "title": "The Racial History of India"
+    },
+    {
+      "file": "sushrut-sanhita-ambikadatt-1.md",
+      "wordCount": 237,
+      "charCount": 1971,
+      "title": "Sushrut Sanhita"
+    },
+    {
+      "file": "the-babur-nama-in-english-memoirs-of-babur-babur.md",
+      "wordCount": 237,
+      "charCount": 1821,
+      "title": "The Babur-nama in English (Memoirs of Babur)"
+    },
+    {
+      "file": "the-bhagavad-gita-vyasa.md",
+      "wordCount": 237,
+      "charCount": 1913,
+      "title": "The Bhagavad Gita"
+    },
+    {
+      "file": "the-indian-craftsman-coomaraswamy.md",
+      "wordCount": 237,
+      "charCount": 1889,
+      "title": "The Indian Craftsman"
+    },
+    {
+      "file": "the-poison-tree-bankim-chandra.md",
+      "wordCount": 237,
+      "charCount": 1820,
+      "title": "The Poison Tree: A Tale of Hindu Life in Bengal"
+    },
+    {
+      "file": "third-class-in-indian-railways-m-k-gandhi.md",
+      "wordCount": 237,
+      "charCount": 2080,
+      "title": "Third Class in Indian Railways"
+    },
+    {
+      "file": "a-forgotten-empire-vijayanagar-a-contribution-to-the-history-of-india-1845-1925-robert-sewell.md",
+      "wordCount": 236,
+      "charCount": 1923,
+      "title": "A Forgotten Empire (Vijayanagar): A Contribution to the History of India"
+    },
+    {
+      "file": "charaka-samhita-ayurveda-english-translation.md",
+      "wordCount": 236,
+      "charCount": 1975,
+      "title": "Charaka Saṃhitā (Compendium of Charaka)"
+    },
+    {
+      "file": "de-hoovenier-tagore-rabindranath.md",
+      "wordCount": 236,
+      "charCount": 1854,
+      "title": "De Hoovenier"
+    },
+    {
+      "file": "der-könig-der-dunklen-kammer-tagore-rabindranath.md",
+      "wordCount": 236,
+      "charCount": 2010,
+      "title": "Der König der dunklen Kammer"
+    },
+    {
+      "file": "hindu-astronomy-w-brennand.md",
+      "wordCount": 236,
+      "charCount": 2023,
+      "title": "Hindu Astronomy"
+    },
+    {
+      "file": "maratha-rajas-tanjore-subramanian.md",
+      "wordCount": 236,
+      "charCount": 1903,
+      "title": "Maratha Rajas of Tanjore"
+    },
+    {
+      "file": "sacred-books-of-the-east-unknown-author.md",
+      "wordCount": 236,
+      "charCount": 1915,
+      "title": "The Sacred Books of the East, Volume I: The Upanishads, Part 1"
+    },
+    {
+      "file": "sankirtan-annamayya.md",
+      "wordCount": 236,
+      "charCount": 2108,
+      "title": "Sankirtan of Annamayya (Selected Compositions)"
+    },
+    {
+      "file": "science-of-breath-philosophy-tattvas-rama-prasada.md",
+      "wordCount": 236,
+      "charCount": 1999,
+      "title": "The Science of Breath and the Philosophy of the Tattvas"
+    },
+    {
+      "file": "sesde-reys-van-de-engelsche-maatschappy-na-oost-indien-henry-middleton.md",
+      "wordCount": 236,
+      "charCount": 1862,
+      "title": "Sesde reys van de Engelsche Maatschappy na Oost-Indien"
+    },
+    {
+      "file": "si-yu-ki-buddhist-records-of-the-western-world-xuanzang-samuel-beal.md",
+      "wordCount": 236,
+      "charCount": 1954,
+      "title": "Si-yu-ki: Buddhist Records of the Western World"
+    },
+    {
+      "file": "story-of-my-experiments-with-truth-gandhi-autobiography.md",
+      "wordCount": 236,
+      "charCount": 1903,
+      "title": "The Story of My Experiments with Truth (Autobiography)"
+    },
+    {
+      "file": "syntax-of-the-hebrew-language-of-the-old-testament-ewald.md",
+      "wordCount": 236,
+      "charCount": 1967,
+      "title": "Syntax of the Hebrew language of the Old Testament;"
+    },
+    {
+      "file": "the-holy-bible-a-facsimile-in-a-reduced-size-of-the-authorized-version-published-in-the-year-1611-alfred-w-pollard.md",
+      "wordCount": 236,
+      "charCount": 1897,
+      "title": "The Holy Bible : a facsimile in a reduced size of the Authorized version published in the year 1611"
+    },
+    {
+      "file": "the-land-systems-of-british-india-vol-1-baden-henry-baden-powell.md",
+      "wordCount": 236,
+      "charCount": 1919,
+      "title": "The Land Systems of British India (Vol. 1)"
+    },
+    {
+      "file": "bibliotheca-indica-volume-96.md",
+      "wordCount": 235,
+      "charCount": 1923,
+      "title": "Bibliotheca Indica, Volume 96"
+    },
+    {
+      "file": "confessions-of-a-thug-meadows-taylor.md",
+      "wordCount": 235,
+      "charCount": 1879,
+      "title": "Confessions of a Thug"
+    },
+    {
+      "file": "dance-of-siva-fourteen-indian-essays-coomaraswamy.md",
+      "wordCount": 235,
+      "charCount": 1939,
+      "title": "The Dance of Siva: Fourteen Indian Essays"
+    },
+    {
+      "file": "dardistan-leitner.md",
+      "wordCount": 235,
+      "charCount": 1923,
+      "title": "Dardistan in 1866, 1886, and 1893"
+    },
+    {
+      "file": "das-heim-und-die-welt-tagore-rabindranath.md",
+      "wordCount": 235,
+      "charCount": 1929,
+      "title": "Das Heim und die Welt"
+    },
+    {
+      "file": "english-and-tamil-dictionary-joseph-knight-levi-spaulding.md",
+      "wordCount": 235,
+      "charCount": 1976,
+      "title": "English and Tamil Dictionary"
+    },
+    {
+      "file": "epigraphia-carnatica-volume-4-b-lewis-rice.md",
+      "wordCount": 235,
+      "charCount": 2018,
+      "title": "Epigraphia Carnatica, Volume 4"
+    },
+    {
+      "file": "gazetteer-of-the-bombay-presidency-government-of-bombay.md",
+      "wordCount": 235,
+      "charCount": 2095,
+      "title": "Gazetteer of the Bombay Presidency"
+    },
+    {
+      "file": "godan-premchand.md",
+      "wordCount": 235,
+      "charCount": 1790,
+      "title": "Godan (The Gift of a Cow)"
+    },
+    {
+      "file": "hindustani-lyrics-inayat-khan-jessie-d-westbrook.md",
+      "wordCount": 235,
+      "charCount": 1885,
+      "title": "Hindustani Lyrics"
+    },
+    {
+      "file": "history-of-bengali-language-and-literature-dinesh-chandra-sen.md",
+      "wordCount": 235,
+      "charCount": 1920,
+      "title": "History of Bengali Language and Literature"
+    },
+    {
+      "file": "india-and-tibet-a-history-of-the-relations-which-have-subsisted-between-the-two-countries-from-the.md",
+      "wordCount": 235,
+      "charCount": 1845,
+      "title": "India and Tibet: A history of the relations which have subsisted between the two countries from the time of Warren Hastings to 1910; with a particular account of the mission to Lhasa of 1904"
+    },
+    {
+      "file": "indian-antiquary-journal-vol1-1872.md",
+      "wordCount": 235,
+      "charCount": 1969,
+      "title": "The Indian Antiquary: A Journal of Oriental Research"
+    },
+    {
+      "file": "indian-fairy-tales-joseph-jacobs.md",
+      "wordCount": 235,
+      "charCount": 1967,
+      "title": "Indian Fairy Tales"
+    },
+    {
+      "file": "literary-history-ancient-india-chakraberty.md",
+      "wordCount": 235,
+      "charCount": 2000,
+      "title": "Literary History of Ancient India, in Relation to its Racial and Linguistic Affiliations"
+    },
+    {
+      "file": "narrative-of-a-journey-through-the-upper-provinces-of-india-reginald-heber.md",
+      "wordCount": 235,
+      "charCount": 1919,
+      "title": "Narrative of a Journey through the Upper Provinces of India"
+    },
+    {
+      "file": "siraj-ul-wahhaj-sirajuddin-ali-khan-arzu.md",
+      "wordCount": 235,
+      "charCount": 1805,
+      "title": "Siraj-ul-Wahhaj (The Brilliant Lamp)"
+    },
+    {
+      "file": "sutrakritanga.md",
+      "wordCount": 235,
+      "charCount": 1901,
+      "title": "Sutrakritanga (The Second Jain Agama)"
+    },
+    {
+      "file": "the-ao-nagas-jp-mills.md",
+      "wordCount": 235,
+      "charCount": 1829,
+      "title": "The Ao Nagas"
+    },
+    {
+      "file": "the-popular-religion-and-folk-lore-of-northern-india-crooke.md",
+      "wordCount": 235,
+      "charCount": 1914,
+      "title": "The Popular Religion and Folk-Lore of Northern India"
+    },
+    {
+      "file": "warren-hastings-in-bengal-mary-evelyn-jones.md",
+      "wordCount": 235,
+      "charCount": 1959,
+      "title": "Warren Hastings in Bengal, 1772-1774"
+    },
+    {
+      "file": "a-study-of-the-bhagavata-purana-sinha.md",
+      "wordCount": 234,
+      "charCount": 1883,
+      "title": "A Study of the Bhagavata Purana; or, Esoteric Hinduism"
+    },
+    {
+      "file": "creative-unity-tagore.md",
+      "wordCount": 234,
+      "charCount": 1885,
+      "title": "Creative Unity"
+    },
+    {
+      "file": "history-of-the-rise-of-the-mahomedan-power-in-india-muammad-qsim-firishta-tr-john-briggs.md",
+      "wordCount": 234,
+      "charCount": 1907,
+      "title": "History of the Rise of the Mahomedan Power in India"
+    },
+    {
+      "file": "hitopadesa-narayana.md",
+      "wordCount": 234,
+      "charCount": 1940,
+      "title": "Hitopadesha"
+    },
+    {
+      "file": "hymns-of-the-samaveda-griffith.md",
+      "wordCount": 234,
+      "charCount": 1928,
+      "title": "Hymns of the Samaveda"
+    },
+    {
+      "file": "indian-tales-kipling-rudyard.md",
+      "wordCount": 234,
+      "charCount": 1858,
+      "title": "Indian Tales"
+    },
+    {
+      "file": "interpretation-ancient-hindu-medicine-chandra-chakraberty.md",
+      "wordCount": 234,
+      "charCount": 2024,
+      "title": "An Interpretation of Ancient Hindu Medicine"
+    },
+    {
+      "file": "jatakas-tales-of-the-buddha.md",
+      "wordCount": 234,
+      "charCount": 1892,
+      "title": "Jataka Tales (Stories of the Buddha's Previous Lives)"
+    },
+    {
+      "file": "memoirs-on-the-history-folk-lore-and-distribution-of-the-races-of-the-north-western-provinces-henry-miers-elliot-john-beames.md",
+      "wordCount": 234,
+      "charCount": 1894,
+      "title": "Memoirs on the History, Folk-Lore, and Distribution of the Races of the North-Western Provinces"
+    },
+    {
+      "file": "panjab-castes-1847-1908-sir-denzil-ibbetson.md",
+      "wordCount": 234,
+      "charCount": 1899,
+      "title": "Panjab castes"
+    },
+    {
+      "file": "prabandhacintamani-merutunga-tr-tawney-1899-1901.md",
+      "wordCount": 234,
+      "charCount": 1946,
+      "title": "Prabandhacintāmaṇi (The Wishing-Stone of Narratives)"
+    },
+    {
+      "file": "south-indian-inscriptions-vol-i-archaeological-survey-of-india.md",
+      "wordCount": 234,
+      "charCount": 1834,
+      "title": "South Indian Inscriptions, Vol. I"
+    },
+    {
+      "file": "tateyo-indo-yone-noguchi.md",
+      "wordCount": 234,
+      "charCount": 1806,
+      "title": "Tateyō Indo (立てよ印度)"
+    },
+    {
+      "file": "the-babur-nma-memoirs-of-babur-english-translation-ahr-ud-dn-muhammad-babur-tr-annette-susannah-beveridge.md",
+      "wordCount": 234,
+      "charCount": 1862,
+      "title": "The Babur-Nāma (Memoirs of Babur) — English Translation"
+    },
+    {
+      "file": "travels-in-the-mogul-empire-ad-1656-1668-francois-bernier.md",
+      "wordCount": 234,
+      "charCount": 1964,
+      "title": "Travels in the Mogul Empire, A.D. 1656-1668"
+    },
+    {
+      "file": "wahrhaftige-ausfuhrliche-beschreibung-ostindischen-kusten-philippus-baldaeus.md",
+      "wordCount": 234,
+      "charCount": 1973,
+      "title": "Wahrhaftige ausfuhrliche Beschreibung der Ostindischen Kusten"
+    },
+    {
+      "file": "a-new-hindustani-english-dictionary-fallon-s.md",
+      "wordCount": 233,
+      "charCount": 1887,
+      "title": "A New Hindustani-english Dictionary"
+    },
+    {
+      "file": "a-sanskrit-manual-for-high-schools-antoine.md",
+      "wordCount": 233,
+      "charCount": 1861,
+      "title": "A Sanskrit manual for high schools"
+    },
+    {
+      "file": "akuntal-or-the-lost-ring-klidsa-tr-monier-monier-williams.md",
+      "wordCount": 233,
+      "charCount": 1860,
+      "title": "Śakuntalā; or, The Lost Ring"
+    },
+    {
+      "file": "andhra-mahabharatamu-nannaya-telugu.md",
+      "wordCount": 233,
+      "charCount": 1887,
+      "title": "Āndhra Mahābhāratamu (The Telugu Mahabharata)"
+    },
+    {
+      "file": "catalogue-coins-numismatic-cabinet-da-cunha.md",
+      "wordCount": 233,
+      "charCount": 1911,
+      "title": "Catalogue of the Coins in the Numismatic Cabinet, Parts I-IV"
+    },
+    {
+      "file": "diary-of-a-pedestrian-in-cashmere-and-thibet-knight-w-h-william-henry.md",
+      "wordCount": 233,
+      "charCount": 1888,
+      "title": "Diary of a Pedestrian in Cashmere and Thibet"
+    },
+    {
+      "file": "folk-tales-of-kashmir-jh-knowles-1893.md",
+      "wordCount": 233,
+      "charCount": 1914,
+      "title": "Folk-tales of Kashmir"
+    },
+    {
+      "file": "folk-tales-of-sind-and-guzarat-kincaid-c-a-charles-augustus.md",
+      "wordCount": 233,
+      "charCount": 1820,
+      "title": "Folk tales of Sind and Guzarat"
+    },
+    {
+      "file": "history-of-india-grolier-society-collection.md",
+      "wordCount": 233,
+      "charCount": 1972,
+      "title": "History of India (Grolier Society Edition)"
+    },
+    {
+      "file": "kabir-granthavali-gupta-mataprasad.md",
+      "wordCount": 233,
+      "charCount": 1826,
+      "title": "Kabir Granthavali"
+    },
+    {
+      "file": "kautilya-arthasastra-vidhyalankara.md",
+      "wordCount": 233,
+      "charCount": 2039,
+      "title": "Kautilya Arthasastra"
+    },
+    {
+      "file": "la-jeune-inde-gandhi-mahatma.md",
+      "wordCount": 233,
+      "charCount": 1940,
+      "title": "La jeune Inde"
+    },
+    {
+      "file": "linguistic-society-of-india-not-available.md",
+      "wordCount": 233,
+      "charCount": 1992,
+      "title": "Linguistic Society Of India"
+    },
+    {
+      "file": "purohit-darpaned25-bhattacharya-surendramohan-comp.md",
+      "wordCount": 233,
+      "charCount": 1914,
+      "title": "Purohit-darpan,ed.25"
+    },
+    {
+      "file": "ratnavali-harsha.md",
+      "wordCount": 233,
+      "charCount": 1933,
+      "title": "Ratnavali (The Pearl Necklace)"
+    },
+    {
+      "file": "reports-tour-bundelkhand-rewa-malwa-gwalior-alexander-cunningham.md",
+      "wordCount": 233,
+      "charCount": 2004,
+      "title": "Reports of a Tour in Bundelkhand and Rewa in 1883-84; and of a Tour in Rewa, Bundelkhand, Malwa, and Gwalior, in 1884-85"
+    },
+    {
+      "file": "rig-veda-sanhita-volume-i-wilson.md",
+      "wordCount": 233,
+      "charCount": 1955,
+      "title": "Rig-Veda Sanhita, Volume I"
+    },
+    {
+      "file": "shivaji-and-his-times-jadunath-sarkar.md",
+      "wordCount": 233,
+      "charCount": 1970,
+      "title": "Shivaji and His Times"
+    },
+    {
+      "file": "the-lhota-nagas-jp-mills.md",
+      "wordCount": 233,
+      "charCount": 1904,
+      "title": "The Lhota Nagas"
+    },
+    {
+      "file": "the-rmyan-of-vlmki-griffith-verse-trans-r-t-h-griffith-translator.md",
+      "wordCount": 233,
+      "charCount": 1745,
+      "title": "The Rāmāyan of Vālmīki (Griffith verse trans.)"
+    },
+    {
+      "file": "the-trident-the-crescent-and-the-cross-vaughan.md",
+      "wordCount": 233,
+      "charCount": 1898,
+      "title": "The Trident, The Crescent and The Cross: A View of the Religious History of India During the Hindu, Buddhist, Mohammedan and Christian Periods"
+    },
+    {
+      "file": "works-of-sir-william-jones-volume-1.md",
+      "wordCount": 233,
+      "charCount": 2004,
+      "title": "The Works of Sir William Jones, Volume I"
+    },
+    {
+      "file": "a-guide-to-nalanda-ghosh.md",
+      "wordCount": 232,
+      "charCount": 1941,
+      "title": "A Guide to Nalanda"
+    },
+    {
+      "file": "an-encyclopaedia-of-hindu-architecture-prasanna-kumar-acharya.md",
+      "wordCount": 232,
+      "charCount": 2023,
+      "title": "An Encyclopaedia of Hindu Architecture"
+    },
+    {
+      "file": "bharatendu-ke-nibandh-bharatendu-harishchandra.md",
+      "wordCount": 232,
+      "charCount": 1974,
+      "title": "Bharatendu Ke Nibandh (Essays of Bharatendu)"
+    },
+    {
+      "file": "cheitharol-kumbaba-manipur-chronicle.md",
+      "wordCount": 232,
+      "charCount": 1932,
+      "title": "Cheitharol Kumbaba (Royal Chronicle of Manipur)"
+    },
+    {
+      "file": "departmental-ditties-and-ballads-and-barrack-room-ballads-kipling-rudyard.md",
+      "wordCount": 232,
+      "charCount": 1892,
+      "title": "Departmental Ditties and Ballads and Barrack-Room Ballads"
+    },
+    {
+      "file": "flowers-and-flower-gardens-with-an-appendix-of-practical-instructions-and-useful-information.md",
+      "wordCount": 232,
+      "charCount": 1949,
+      "title": "Flowers and Flower-Gardens: With an Appendix of Practical Instructions and Useful Information Respecting the Anglo-Indian Flower-Garden"
+    },
+    {
+      "file": "folk-literature-of-bengal-dinesh-chandra-sen.md",
+      "wordCount": 232,
+      "charCount": 1900,
+      "title": "Folk Literature of Bengal"
+    },
+    {
+      "file": "hilda-a-story-of-calcutta-duncan-sara-jeannette.md",
+      "wordCount": 232,
+      "charCount": 1799,
+      "title": "Hilda: A Story of Calcutta"
+    },
+    {
+      "file": "hindu-literature-wilson.md",
+      "wordCount": 232,
+      "charCount": 1929,
+      "title": "Hindu Literature: Comprising The Book of Good Counsels, Nala and Damayanti, The Ramayana, and Sakoontala"
+    },
+    {
+      "file": "historical-fragments-of-the-mogul-empire-robert-orme.md",
+      "wordCount": 232,
+      "charCount": 1824,
+      "title": "Historical Fragments of the Mogul Empire"
+    },
+    {
+      "file": "indian-architecture-its-psychology-structure-and-history-from-the-first-muhannadan-invasion-to-the-present-day-havell.md",
+      "wordCount": 232,
+      "charCount": 1974,
+      "title": "Indian Architecture: Its Psychology, Structure, and History"
+    },
+    {
+      "file": "kabir-granthavali-gupta.md",
+      "wordCount": 232,
+      "charCount": 1827,
+      "title": "Kabir Granthavali"
+    },
+    {
+      "file": "kiratarjuniya-bharavi.md",
+      "wordCount": 232,
+      "charCount": 1930,
+      "title": "Kiratarjuniya (Arjuna and the Mountain-Dweller)"
+    },
+    {
+      "file": "poems-by-toru-dutt.md",
+      "wordCount": 232,
+      "charCount": 1911,
+      "title": "Poems by Toru Dutt"
+    },
+    {
+      "file": "raghuvamsa-kalidasa.md",
+      "wordCount": 232,
+      "charCount": 1873,
+      "title": "Raghuvamsa"
+    },
+    {
+      "file": "tales-from-the-indian-epics-kincaid.md",
+      "wordCount": 232,
+      "charCount": 1985,
+      "title": "Tales from the Indian Epics"
+    },
+    {
+      "file": "the-bengal-tenancy-act-annotated-edition-r-f-rampini.md",
+      "wordCount": 232,
+      "charCount": 1871,
+      "title": "The Bengal Tenancy Act (Annotated Edition)"
+    },
+    {
+      "file": "the-indian-musalmans-are-they-bound-in-conscience-to-rebel-against-the-queen-w-w-hunter.md",
+      "wordCount": 232,
+      "charCount": 1910,
+      "title": "The Indian Musalmans: Are They Bound in Conscience to Rebel Against the Queen?"
+    },
+    {
+      "file": "the-pirates-of-malabar-and-an-englishwoman-in-india-two-hundred-years-ago-biddulph-j-john.md",
+      "wordCount": 232,
+      "charCount": 1789,
+      "title": "The Pirates of Malabar, and an Englishwoman in India Two Hundred Years Ago"
+    },
+    {
+      "file": "the-portuguese-in-india-frederic-charles-danvers.md",
+      "wordCount": 232,
+      "charCount": 1904,
+      "title": "The Portuguese in India"
+    },
+    {
+      "file": "a-comparative-grammar-of-the-sanskrit-zend-greek-latin-lithuanian-gothic-german-and-slavonic-languages-bopp.md",
+      "wordCount": 231,
+      "charCount": 2061,
+      "title": "A comparative grammar of the Sanskrit, Zend, Greek, Latin, Lithuanian, Gothic, German, and Slavonic languages"
+    },
+    {
+      "file": "a-history-of-architecture-in-all-countries-from-the-earliest-times-to-the-present-day-fergusson.md",
+      "wordCount": 231,
+      "charCount": 1981,
+      "title": "A history of architecture in all countries from the earliest times to the present day"
+    },
+    {
+      "file": "a-journey-from-madras-through-the-countries-of-mysore-canara-and-malabar-1762-1829-francis-buchanan-hamilton.md",
+      "wordCount": 231,
+      "charCount": 1933,
+      "title": "A journey from Madras through the countries of Mysore, Canara, and Malabar"
+    },
+    {
+      "file": "a-prose-english-translation-of-vishnupuranam-based-on-professor-h-h-wilsons-translation-unknown.md",
+      "wordCount": 231,
+      "charCount": 1860,
+      "title": "A Prose English Translation of Vishnupuranam: (Based on Professor H. H. Wilson's translation.)"
+    },
+    {
+      "file": "a-sanskritenglish-dictionary-enlarged-ed-monier-monier-williams.md",
+      "wordCount": 231,
+      "charCount": 2036,
+      "title": "A Sanskrit–English Dictionary (enlarged ed.)"
+    },
+    {
+      "file": "a-study-of-the-textile-art-in-its-relation-to-the-development-of-form-and-ornament-sixth-annual.md",
+      "wordCount": 231,
+      "charCount": 1993,
+      "title": "A Study of the Textile Art in Its Relation to the Development of Form and Ornament"
+    },
+    {
+      "file": "baburnama-memoirs-of-babur-zahir-ud-din-muhammad-babur.md",
+      "wordCount": 231,
+      "charCount": 1778,
+      "title": "The Bābur-nāma (Memoirs of Bābur)"
+    },
+    {
+      "file": "der-gärtner-tagore-rabindranath.md",
+      "wordCount": 231,
+      "charCount": 1892,
+      "title": "Der Gärtner"
+    },
+    {
+      "file": "east-india-trade-17th-century-shafaat-ahmad-khan.md",
+      "wordCount": 231,
+      "charCount": 1923,
+      "title": "The East India Trade in the 17th Century"
+    },
+    {
+      "file": "glimpses-of-bengal-selected-from-the-letters-of-sir-rabindranath-tagore-1885-to-1895-tagore.md",
+      "wordCount": 231,
+      "charCount": 1989,
+      "title": "Glimpses of Bengal: Selected from the letters of Sir Rabindranath Tagore, 1885 to 1895"
+    },
+    {
+      "file": "in-clives-command-a-story-of-the-fight-for-india-strang-herbert.md",
+      "wordCount": 231,
+      "charCount": 1898,
+      "title": "In Clive's Command: A Story of the Fight for India"
+    },
+    {
+      "file": "indian-calendar-sewell-dikshit-schram.md",
+      "wordCount": 231,
+      "charCount": 1924,
+      "title": "The Indian Calendar: With Tables for the Conversion of Hindu and Muhammadan into A.D. Dates, and Vice Versâ"
+    },
+    {
+      "file": "kathasaritsagara-ocean-of-streams-of-story.md",
+      "wordCount": 231,
+      "charCount": 1889,
+      "title": "The Kathá Sarit Ságara: Or, Ocean of the Streams of Story"
+    },
+    {
+      "file": "kāñcippurāṇam-civañāṇa-muṉivar-active-18th-century.md",
+      "wordCount": 231,
+      "charCount": 1802,
+      "title": "Kāñcippurāṇam"
+    },
+    {
+      "file": "life-in-an-indian-outpost-casserly-gordon.md",
+      "wordCount": 231,
+      "charCount": 1861,
+      "title": "Life in an Indian Outpost"
+    },
+    {
+      "file": "pralay-sachindranath-sengupta.md",
+      "wordCount": 231,
+      "charCount": 1938,
+      "title": "Pralay"
+    },
+    {
+      "file": "punjabi-musalmans-j-m-wikeley.md",
+      "wordCount": 231,
+      "charCount": 1859,
+      "title": "Punjabi Musalmans"
+    },
+    {
+      "file": "report-excavations-pataliputra-waddell.md",
+      "wordCount": 231,
+      "charCount": 1969,
+      "title": "Report on the Excavations at Pātaliputra (Patna): The Palibothra of the Greeks"
+    },
+    {
+      "file": "research-methodology-bm-jain-1.md",
+      "wordCount": 231,
+      "charCount": 1940,
+      "title": "Research Methodology"
+    },
+    {
+      "file": "studies-in-mughal-india.md",
+      "wordCount": 231,
+      "charCount": 1931,
+      "title": "Studies in Mughal India"
+    },
+    {
+      "file": "the-birds-of-india-being-a-natural-history-of-the-birds-known-to-inhabit-continental-india-thomas-c-jerdon.md",
+      "wordCount": 231,
+      "charCount": 1863,
+      "title": "The Birds of India, Being a Natural History of the Birds Known to Inhabit Continental India"
+    },
+    {
+      "file": "the-kipling-reader-selections-from-the-books-of-rudyard-kipling-kipling-rudyard.md",
+      "wordCount": 231,
+      "charCount": 1924,
+      "title": "The Kipling Reader: Selections from the Books of Rudyard Kipling"
+    },
+    {
+      "file": "the-mahabharata-of-krishna-dwaipayana-vyasa-ganguli-tr-kisari-mohan-ganguli-translator-p-c-roy-publisher.md",
+      "wordCount": 231,
+      "charCount": 1831,
+      "title": "The Mahabharata of Krishna-Dwaipayana Vyasa (Ganguli tr.)"
+    },
+    {
+      "file": "vikram-and-the-vampire-burton.md",
+      "wordCount": 231,
+      "charCount": 1904,
+      "title": "Vikram and the Vampire; or, Tales of Hindu Devilry"
+    },
+    {
+      "file": "తలగ-ఇగలష-నఘటవ-telugu-english-dictionary-ప-శకరనరయణ.md",
+      "wordCount": 231,
+      "charCount": 1902,
+      "title": "తెలుగు-ఇంగ్లీషు నిఘంటువు (Telugu-English Dictionary)"
+    },
+    {
+      "file": "a-concordance-to-the-greek-testament-according-to-the-texts-of-westcott-and-hort-tischendorf-and-the-english-revisers-moulton.md",
+      "wordCount": 230,
+      "charCount": 1873,
+      "title": "A concordance to the Greek Testament : according to the texts of Westcott and Hort, Tischendorf, and the English revisers"
+    },
+    {
+      "file": "adhyatma-ramayanam-kilippattu-ezhuthachan-malayalam.md",
+      "wordCount": 230,
+      "charCount": 1885,
+      "title": "Adhyātma Rāmāyaṇaṃ Kilipattu"
+    },
+    {
+      "file": "annals-and-antiquities-of-rajasthan-james-tod.md",
+      "wordCount": 230,
+      "charCount": 1890,
+      "title": "Annals and Antiquities of Rajasthan"
+    },
+    {
+      "file": "arthashastra-kautilya.md",
+      "wordCount": 230,
+      "charCount": 1944,
+      "title": "Arthashastra"
+    },
+    {
+      "file": "cambridge-history-india-volume-1-ancient-india-ej-rapson.md",
+      "wordCount": 230,
+      "charCount": 2029,
+      "title": "The Cambridge History of India, Volume 1: Ancient India"
+    },
+    {
+      "file": "dabistan-mohsin-fani-tr-shea-troyer-1843.md",
+      "wordCount": 230,
+      "charCount": 1920,
+      "title": "The Dabistán, or School of Manners"
+    },
+    {
+      "file": "descriptive-ethnology-of-bengal-edward-tuite-dalton.md",
+      "wordCount": 230,
+      "charCount": 1941,
+      "title": "Descriptive Ethnology of Bengal"
+    },
+    {
+      "file": "famous-fights-of-indian-native-regiments-hodder-reginald.md",
+      "wordCount": 230,
+      "charCount": 1849,
+      "title": "Famous Fights of Indian Native Regiments"
+    },
+    {
+      "file": "gandhi-azad-and-nationalism-shakir.md",
+      "wordCount": 230,
+      "charCount": 1909,
+      "title": "Gandhi, Azad and nationalism"
+    },
+    {
+      "file": "gora-ii-b-romaani-tagore-rabindranath.md",
+      "wordCount": 230,
+      "charCount": 1863,
+      "title": "Gora II : Romaani"
+    },
+    {
+      "file": "hobson-jobson-a-glossary-of-colloquial-anglo-indian-words-and-phrases-henry-yule-a-c-burnell-rev-william-crooke.md",
+      "wordCount": 230,
+      "charCount": 1857,
+      "title": "Hobson-Jobson: A Glossary of Colloquial Anglo-Indian Words and Phrases"
+    },
+    {
+      "file": "medieval-indian-sculpture-in-the-british-museum-ramaprasad-chanda.md",
+      "wordCount": 230,
+      "charCount": 1908,
+      "title": "Medieval Indian Sculpture in the British Museum"
+    },
+    {
+      "file": "natives-of-northern-india-crooke.md",
+      "wordCount": 230,
+      "charCount": 1873,
+      "title": "Natives of Northern India"
+    },
+    {
+      "file": "raghudayamu-telugu-venkata-suryaprasada.md",
+      "wordCount": 230,
+      "charCount": 1906,
+      "title": "Raghudayamu (రఘూదయము)"
+    },
+    {
+      "file": "ramakrishna-kathamrita.md",
+      "wordCount": 230,
+      "charCount": 1922,
+      "title": "Sri Ramakrishna Kathamrita"
+    },
+    {
+      "file": "the-descent-of-the-sun-bain.md",
+      "wordCount": 230,
+      "charCount": 1926,
+      "title": "The Descent of the Sun: A Cycle of Birth"
+    },
+    {
+      "file": "the-highlands-of-central-india-james-forsyth.md",
+      "wordCount": 230,
+      "charCount": 1873,
+      "title": "The Highlands of Central India"
+    },
+    {
+      "file": "the-life-of-shivaji-maharaj-k-a-keluskar-n-s-takakhav.md",
+      "wordCount": 230,
+      "charCount": 1883,
+      "title": "The Life of Shivaji Maharaj"
+    },
+    {
+      "file": "the-old-east-indiamen-chatterton-e-keble-edward-keble.md",
+      "wordCount": 230,
+      "charCount": 1896,
+      "title": "The Old East Indiamen"
+    },
+    {
+      "file": "travels-into-bokhara-burnes-alexander.md",
+      "wordCount": 230,
+      "charCount": 1912,
+      "title": "Travels into Bokhara"
+    },
+    {
+      "file": "tripura-rahasya-gopi-nath-kaviraja.md",
+      "wordCount": 230,
+      "charCount": 1900,
+      "title": "Tripura Rahasya (The Mystery Beyond the Trinity)"
+    },
+    {
+      "file": "akbar-the-great-mogul-1542-1605-smith.md",
+      "wordCount": 229,
+      "charCount": 1854,
+      "title": "Akbar the Great Mogul, 1542-1605"
+    },
+    {
+      "file": "ancient-ballads-and-legends-of-hindustan-toru-dutt.md",
+      "wordCount": 229,
+      "charCount": 1777,
+      "title": "Ancient Ballads and Legends of Hindustan"
+    },
+    {
+      "file": "ancient-india-2000-bc-800-ad-romesh-dutt.md",
+      "wordCount": 229,
+      "charCount": 2012,
+      "title": "Ancient India, 2000 B.C.-800 A.D."
+    },
+    {
+      "file": "ancient-indian-historical-tradition-f-e-pargiter.md",
+      "wordCount": 229,
+      "charCount": 2012,
+      "title": "Ancient Indian Historical Tradition"
+    },
+    {
+      "file": "bhartiya-shasan-and-rajniti-jain-pukhraj.md",
+      "wordCount": 229,
+      "charCount": 1886,
+      "title": "Bhartiya Shasan And Rajniti"
+    },
+    {
+      "file": "buddhist-and-christian-gospels.md",
+      "wordCount": 229,
+      "charCount": 2043,
+      "title": "Buddhist and Christian Gospels"
+    },
+    {
+      "file": "critical-word-index-of-the-bhagavadgita-divanji-prahlad-c.md",
+      "wordCount": 229,
+      "charCount": 1839,
+      "title": "Critical word index of the Bhagavadgita"
+    },
+    {
+      "file": "encyclopaedia-britannica-eleventh-edition-india-hinduism.md",
+      "wordCount": 229,
+      "charCount": 1990,
+      "title": "Encyclopaedia Britannica, Eleventh Edition: Articles on India and Hinduism"
+    },
+    {
+      "file": "guide-to-taxila-john-marshall.md",
+      "wordCount": 229,
+      "charCount": 1888,
+      "title": "Guide to Taxila"
+    },
+    {
+      "file": "hindu-law-and-judicature-yajnavalkya-montriou.md",
+      "wordCount": 229,
+      "charCount": 1895,
+      "title": "Hindu Law and Judicature from the Dharma-Śāstra of Yājñavalkya"
+    },
+    {
+      "file": "indian-home-rule-gandhi-hind-swaraj.md",
+      "wordCount": 229,
+      "charCount": 1801,
+      "title": "Indian Home Rule (Hind Swaraj)"
+    },
+    {
+      "file": "kautilya-arthashastra-hindi-anubad-kautilya.md",
+      "wordCount": 229,
+      "charCount": 1884,
+      "title": "Kautilya Arthashastra Hindi Anubad"
+    },
+    {
+      "file": "markandeya-purana-pargiter.md",
+      "wordCount": 229,
+      "charCount": 1854,
+      "title": "Markandeya Purana"
+    },
+    {
+      "file": "mysore-a-gazetteer-b-lewis-rice.md",
+      "wordCount": 229,
+      "charCount": 1929,
+      "title": "Mysore: A Gazetteer"
+    },
+    {
+      "file": "myths-hindus-buddhists-sister-nivedita-ananda-coomaraswamy.md",
+      "wordCount": 229,
+      "charCount": 1926,
+      "title": "Myths of the Hindus & Buddhists"
+    },
+    {
+      "file": "nalopkhyanam-story-of-nala-an-episode-of-the-mahbhrata-the-sanskrit-text-with-a-copious-vocabulary-and-an-improved-version-of-dean-milmans-translation-1819-1899-sir-monier-monier-williams.md",
+      "wordCount": 229,
+      "charCount": 1836,
+      "title": "Nalopākhyānam: The Story of Nala from the Mahābhārata"
+    },
+    {
+      "file": "nyaya-sutras-of-gotama.md",
+      "wordCount": 229,
+      "charCount": 1932,
+      "title": "Nyaya Sutras of Gotama (Foundations of Indian Logic)"
+    },
+    {
+      "file": "riyaz-us-salatin-history-of-bengal.md",
+      "wordCount": 229,
+      "charCount": 1903,
+      "title": "Riyaz-us-Salatin: A History of Bengal"
+    },
+    {
+      "file": "sacred-books-and-early-literature-of-the-east-with-an-historical-survey-and-descriptions-horne.md",
+      "wordCount": 229,
+      "charCount": 1923,
+      "title": "The Sacred Books and Early Literature of the East, Volumes I-II: Babylonia, Assyria, and Egypt"
+    },
+    {
+      "file": "the-golden-book-of-india-roper-lethbridge.md",
+      "wordCount": 229,
+      "charCount": 1851,
+      "title": "The Golden Book of India"
+    },
+    {
+      "file": "the-tribes-and-castes-of-the-central-provinces-of-india-russell-r-v-robert-vane.md",
+      "wordCount": 229,
+      "charCount": 1821,
+      "title": "The Tribes and Castes of the Central Provinces of India"
+    },
+    {
+      "file": "thirukkural-tiruvalluvar-tr-gu-pope-1886.md",
+      "wordCount": 229,
+      "charCount": 1779,
+      "title": "Tirukkuṟaḷ (The Sacred Kural)"
+    },
+    {
+      "file": "a-comparative-grammar-of-the-dravidian-or-south-indian-family-of-languages-robert-caldwell.md",
+      "wordCount": 228,
+      "charCount": 1994,
+      "title": "A Comparative Grammar of the Dravidian or South-Indian Family of Languages"
+    },
+    {
+      "file": "ancient-indian-weights-edward-thomas.md",
+      "wordCount": 228,
+      "charCount": 1857,
+      "title": "Ancient Indian Weights"
+    },
+    {
+      "file": "ashtanga-sangraha-athridev-gupta.md",
+      "wordCount": 228,
+      "charCount": 1941,
+      "title": "Ashtanga Sangraha"
+    },
+    {
+      "file": "commemorative-essays-presented-sir-ramkrishna-gopal-bhandarkar.md",
+      "wordCount": 228,
+      "charCount": 1992,
+      "title": "Commemorative Essays Presented to Sir Ramkrishna Gopal Bhandarkar"
+    },
+    {
+      "file": "epic-mythology-hopkins.md",
+      "wordCount": 228,
+      "charCount": 1912,
+      "title": "Epic mythology"
+    },
+    {
+      "file": "gommatsara-jiva-kanda-nemichandra.md",
+      "wordCount": 228,
+      "charCount": 1906,
+      "title": "Gommatsara Jīva-kāṇḍa (Volume 5)"
+    },
+    {
+      "file": "gora-i-b-romaani-tagore-rabindranath.md",
+      "wordCount": 228,
+      "charCount": 1840,
+      "title": "Gora I : Romaani"
+    },
+    {
+      "file": "indian-myth-and-legend-mackenzie.md",
+      "wordCount": 228,
+      "charCount": 2030,
+      "title": "Indian Myth and Legend"
+    },
+    {
+      "file": "panchatantra-collection-ancient-hindu-tales-panchakhyanaka-purnabhadra-johannes-hertel.md",
+      "wordCount": 228,
+      "charCount": 1861,
+      "title": "The Panchatantra: A Collection of Ancient Hindu Tales in the Panchakhyanaka Recension"
+    },
+    {
+      "file": "the-indian-empire-its-peoples-history-and-products-w-w-hunter.md",
+      "wordCount": 228,
+      "charCount": 1892,
+      "title": "The Indian Empire: Its Peoples, History, and Products"
+    },
+    {
+      "file": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte-vaman-shivaram-1858-1892.md",
+      "wordCount": 228,
+      "charCount": 1870,
+      "title": "The Practical Sanskrit-English dictionary containing appendices on Sanskrit prosody and important literary and geogrpahical names of ancient India"
+    },
+    {
+      "file": "the-silappadikaram-v-r-ramachandra-dikshitar.md",
+      "wordCount": 228,
+      "charCount": 1685,
+      "title": "The Silappadikaram"
+    },
+    {
+      "file": "the-tribes-and-castes-of-bengal-anthropometric-data-ethnographic-glossary-h-h-risley.md",
+      "wordCount": 228,
+      "charCount": 1887,
+      "title": "The Tribes and Castes of Bengal — Anthropometric Data & Ethnographic Glossary"
+    },
+    {
+      "file": "thirty-minor-upanishads-narayanasvami-aiyar.md",
+      "wordCount": 228,
+      "charCount": 1946,
+      "title": "Thirty Minor Upanishads"
+    },
+    {
+      "file": "1-bhikshu-pratimoksha-2-bhikshuna-pratimoksha-3-mahabagga-4-chullabagga-sanskrityan-rahul.md",
+      "wordCount": 227,
+      "charCount": 1886,
+      "title": "1. Bhikshu-pratimoksha, 2. Bhikshuna Pratimoksha, 3. Mahabagga, 4. Chullabagga"
+    },
+    {
+      "file": "a-compendium-of-the-comparative-grammar-of-the-indo-european-sanskrit-greek-and-latin-languages-schleicher.md",
+      "wordCount": 227,
+      "charCount": 1998,
+      "title": "A compendium of the comparative grammar of the Indo-European, Sanskrit, Greek, and Latin languages;"
+    },
+    {
+      "file": "an-avesta-grammar-in-comparison-with-sanskrit-jackson.md",
+      "wordCount": 227,
+      "charCount": 1891,
+      "title": "An Avesta grammar in comparison with Sanskrit"
+    },
+    {
+      "file": "an-historical-disquisition-concerning-the-knowledge-which-the-ancients-had-of-india-william-robertson.md",
+      "wordCount": 227,
+      "charCount": 1996,
+      "title": "An Historical Disquisition Concerning the Knowledge Which the Ancients Had of India"
+    },
+    {
+      "file": "asoka-the-buddhist-emperor-of-india-smith.md",
+      "wordCount": 227,
+      "charCount": 1846,
+      "title": "Asoka, the Buddhist Emperor of India"
+    },
+    {
+      "file": "bhagavad-gita-herrens-sång-unknown.md",
+      "wordCount": 227,
+      "charCount": 1815,
+      "title": "Bhagavad-Gita: Herrens Sång"
+    },
+    {
+      "file": "bhartiya-jyotish-vigyan-ravindra-kumar-dubey.md",
+      "wordCount": 227,
+      "charCount": 1999,
+      "title": "Bhartiya Jyotish Vigyan (Indian Astronomical Science)"
+    },
+    {
+      "file": "gitanjali-song-offerings-rabindranath-tagore.md",
+      "wordCount": 227,
+      "charCount": 1829,
+      "title": "Gitanjali (Song Offerings)"
+    },
+    {
+      "file": "hind-swaraj-indian-home-rule-gandhi.md",
+      "wordCount": 227,
+      "charCount": 1839,
+      "title": "Hind Swaraj or Indian Home Rule"
+    },
+    {
+      "file": "history-of-bengali-literature-nineteenth-century-sushil-kumar-de.md",
+      "wordCount": 227,
+      "charCount": 1853,
+      "title": "History of Bengali Literature in the Nineteenth Century, 1800-1825"
+    },
+    {
+      "file": "indian-fairy-tales-jacobs.md",
+      "wordCount": 227,
+      "charCount": 1935,
+      "title": "Indian Fairy Tales"
+    },
+    {
+      "file": "king-of-the-khyber-rifles-a-romance-of-adventure-mundy-talbot.md",
+      "wordCount": 227,
+      "charCount": 1815,
+      "title": "King--of the Khyber Rifles: A Romance of Adventure"
+    },
+    {
+      "file": "lankavatara-sutra-nanjio.md",
+      "wordCount": 227,
+      "charCount": 1881,
+      "title": "Laṅkāvatāra Sūtra"
+    },
+    {
+      "file": "life-in-ancient-india-with-a-map-manning.md",
+      "wordCount": 227,
+      "charCount": 1868,
+      "title": "Life in Ancient India; with a map"
+    },
+    {
+      "file": "mool-ramayana-ramnathlal-1.md",
+      "wordCount": 227,
+      "charCount": 1832,
+      "title": "Mool Ramayana"
+    },
+    {
+      "file": "oxford-history-of-india-from-the-earliest-times-to-the-end-of-1911-1848-1920-vincent-arthur-smith.md",
+      "wordCount": 227,
+      "charCount": 1942,
+      "title": "The Oxford History of India: From the Earliest Times to the End of 1911"
+    },
+    {
+      "file": "personal-and-geographical-names-in-gupta-inscriptions-tej-ram-sharma.md",
+      "wordCount": 227,
+      "charCount": 1926,
+      "title": "Personal and Geographical Names in the Gupta Inscriptions"
+    },
+    {
+      "file": "tantra-yukti-neelmegh-bhishagacharya.md",
+      "wordCount": 227,
+      "charCount": 2019,
+      "title": "Tantra-yukti of Neelmegh Bhishagacharya"
+    },
+    {
+      "file": "the-history-of-india-as-told-by-its-own-historians-h-m-elliot-completed-by-john-dowson.md",
+      "wordCount": 227,
+      "charCount": 1876,
+      "title": "The History of India, as Told by Its Own Historians"
+    },
+    {
+      "file": "the-peoples-of-india-anderson-j-d-james-drummond.md",
+      "wordCount": 227,
+      "charCount": 1870,
+      "title": "The Peoples of India"
+    },
+    {
+      "file": "the-sacred-books-of-the-east-described-and-examined-hindu-series-unknown.md",
+      "wordCount": 227,
+      "charCount": 1801,
+      "title": "The sacred books of the East, described and examined ; Hindu series"
+    },
+    {
+      "file": "akbar-een-oosterse-roman-limburg-brouwer-p-a-s-van-petrus-abraham-samuel.md",
+      "wordCount": 226,
+      "charCount": 1704,
+      "title": "Akbar: een oosterse roman"
+    },
+    {
+      "file": "atharva-veda-described-ralph-griffith.md",
+      "wordCount": 226,
+      "charCount": 1820,
+      "title": "The Atharva-veda Described"
+    },
+    {
+      "file": "buddhism-its-history-and-literature-t-w-rhys-davids.md",
+      "wordCount": 226,
+      "charCount": 1879,
+      "title": "Buddhism: Its History and Literature"
+    },
+    {
+      "file": "contributions-of-sanskrit-inscriptions-to-lexicography-tewari-s-p-1944.md",
+      "wordCount": 226,
+      "charCount": 1959,
+      "title": "Contributions of Sanskrit inscriptions to lexicography"
+    },
+    {
+      "file": "contributions-of-sanskrit-inscriptions-to-lexicography-tewari.md",
+      "wordCount": 226,
+      "charCount": 1876,
+      "title": "Contributions of Sanskrit inscriptions to lexicography"
+    },
+    {
+      "file": "critical-word-index-of-the-bhagavadgita-divanji.md",
+      "wordCount": 226,
+      "charCount": 1866,
+      "title": "Critical word index of the Bhagavadgita"
+    },
+    {
+      "file": "gaikwads-baroda-vol1-pilaji-damaji.md",
+      "wordCount": 226,
+      "charCount": 1863,
+      "title": "The Gaikwads of Baroda: English Documents Vol. I (Pilaji & Damaji Gaikwads 1720-1768)"
+    },
+    {
+      "file": "gitanjali-tagore-rabindranath.md",
+      "wordCount": 226,
+      "charCount": 1866,
+      "title": "Gitanjali"
+    },
+    {
+      "file": "history-of-the-indian-mutiny-charles-ball.md",
+      "wordCount": 226,
+      "charCount": 1797,
+      "title": "The History of the Indian Mutiny"
+    },
+    {
+      "file": "kamba-ramayanam.md",
+      "wordCount": 226,
+      "charCount": 1804,
+      "title": "Kamba Ramayanam"
+    },
+    {
+      "file": "the-hindu-arabic-numerals-smith-karpinski.md",
+      "wordCount": 226,
+      "charCount": 1907,
+      "title": "The Hindu-Arabic Numerals"
+    },
+    {
+      "file": "the-yoga-sutras-of-patanjali-johnston.md",
+      "wordCount": 226,
+      "charCount": 1946,
+      "title": "The Yoga Sutras of Patanjali: The Book of the Spiritual Man"
+    },
+    {
+      "file": "varahamihira-horasastram-aiyangar.md",
+      "wordCount": 226,
+      "charCount": 1978,
+      "title": "Varahamihira Horasastram"
+    },
+    {
+      "file": "a-history-of-sanskrit-literature-macdonell.md",
+      "wordCount": 225,
+      "charCount": 1908,
+      "title": "A History of Sanskrit Literature"
+    },
+    {
+      "file": "a-sanskrit-english-dictionary-being-a-practical-handbook-with-transliteration-accentuation-and-etymological-analysis-throughout-macdonell.md",
+      "wordCount": 225,
+      "charCount": 1964,
+      "title": "A Practical Sanskrit-English Dictionary"
+    },
+    {
+      "file": "a-sanskrit-grammar-for-beginners-macdonell.md",
+      "wordCount": 225,
+      "charCount": 1916,
+      "title": "A Sanskrit Grammar for Beginners"
+    },
+    {
+      "file": "american-architect-and-architecture-unknown.md",
+      "wordCount": 225,
+      "charCount": 1964,
+      "title": "American architect and architecture"
+    },
+    {
+      "file": "ancient-india-as-described-by-megasthenes-and-arrian-j-w-mccrindle.md",
+      "wordCount": 225,
+      "charCount": 1805,
+      "title": "Ancient India As Described By Megasthenes And Arrian"
+    },
+    {
+      "file": "autobiography-of-a-yogi-yogananda-paramahansa.md",
+      "wordCount": 225,
+      "charCount": 1920,
+      "title": "Autobiography of a Yogi"
+    },
+    {
+      "file": "bhagavad-gita-christian-literature-society-1899.md",
+      "wordCount": 225,
+      "charCount": 1817,
+      "title": "The Bhagavad Gita"
+    },
+    {
+      "file": "catalogue-of-coins-indian-museum-calcutta.md",
+      "wordCount": 225,
+      "charCount": 1893,
+      "title": "Catalogue of the Coins in the Indian Museum, Calcutta"
+    },
+    {
+      "file": "deccan-nursery-tales-kincaid.md",
+      "wordCount": 225,
+      "charCount": 1906,
+      "title": "Deccan Nursery Tales; or, Fairy Tales from the South"
+    },
+    {
+      "file": "early-history-of-india-smith-edwardes.md",
+      "wordCount": 225,
+      "charCount": 1915,
+      "title": "Early History of India"
+    },
+    {
+      "file": "grammar-of-persian-william-jones.md",
+      "wordCount": 225,
+      "charCount": 1904,
+      "title": "A Grammar of the Persian Language"
+    },
+    {
+      "file": "hindu-widow-re-marriage-other-tracts-mohandas-gandhi.md",
+      "wordCount": 225,
+      "charCount": 1858,
+      "title": "Hindu Widow Re-marriage and Other Tracts"
+    },
+    {
+      "file": "hymns-from-the-rigveda-macdonell.md",
+      "wordCount": 225,
+      "charCount": 1812,
+      "title": "Hymns from the Rigveda: Selected and Metrically Translated"
+    },
+    {
+      "file": "india-in-1880-richard-temple.md",
+      "wordCount": 225,
+      "charCount": 1949,
+      "title": "India in 1880"
+    },
+    {
+      "file": "malatimadhava-bhavabhuti.md",
+      "wordCount": 225,
+      "charCount": 1915,
+      "title": "Malatimadhava (Malati and Madhava)"
+    },
+    {
+      "file": "malavikagnimitra-kalidasa-1875.md",
+      "wordCount": 225,
+      "charCount": 1800,
+      "title": "Mālavikāgnimitra"
+    },
+    {
+      "file": "more-jataka-tales-ellen-babbitt.md",
+      "wordCount": 225,
+      "charCount": 1850,
+      "title": "More Jataka Tales"
+    },
+    {
+      "file": "path-to-god-gandhi.md",
+      "wordCount": 225,
+      "charCount": 1877,
+      "title": "Path to God"
+    },
+    {
+      "file": "priyadarsika-harsha.md",
+      "wordCount": 225,
+      "charCount": 1848,
+      "title": "Priyadarsika (The Dear One)"
+    },
+    {
+      "file": "surya-siddhanta-burgess.md",
+      "wordCount": 225,
+      "charCount": 1909,
+      "title": "Translation of the Surya-Siddhanta"
+    },
+    {
+      "file": "the-flora-of-british-india-joseph-dalton-hooker-ed-with-collaborators.md",
+      "wordCount": 225,
+      "charCount": 1858,
+      "title": "The Flora of British India"
+    },
+    {
+      "file": "the-law-relating-to-india-and-the-east-india-company-1855-compilation.md",
+      "wordCount": 225,
+      "charCount": 1858,
+      "title": "The Law Relating to India and the East-India Company"
+    },
+    {
+      "file": "the-popular-religion-and-folk-lore-of-northern-india-crooke-william.md",
+      "wordCount": 225,
+      "charCount": 1903,
+      "title": "The Popular Religion and Folk-Lore of Northern India,"
+    },
+    {
+      "file": "the-sepoy-candler-edmund.md",
+      "wordCount": 225,
+      "charCount": 1882,
+      "title": "The Sepoy"
+    },
+    {
+      "file": "thirteen-principal-upanishads-robert-ernest-hume.md",
+      "wordCount": 225,
+      "charCount": 1925,
+      "title": "The Thirteen Principal Upanishads"
+    },
+    {
+      "file": "travels-in-india-jeanbaptiste-tavernier-tr-v-ball.md",
+      "wordCount": 225,
+      "charCount": 1795,
+      "title": "Travels in India"
+    },
+    {
+      "file": "vedic-mythology-macdonell.md",
+      "wordCount": 225,
+      "charCount": 1864,
+      "title": "Vedic Mythology"
+    },
+    {
+      "file": "a-bibliography-of-the-sanskrit-drama-montgomery-schuyler.md",
+      "wordCount": 224,
+      "charCount": 1814,
+      "title": "A Bibliography of the Sanskrit Drama"
+    },
+    {
+      "file": "brhati-prabhakara-misra.md",
+      "wordCount": 224,
+      "charCount": 1952,
+      "title": "Bṛhatī: Commentary on Śābara Bhāṣya"
+    },
+    {
+      "file": "buddhism-in-translations.md",
+      "wordCount": 224,
+      "charCount": 1885,
+      "title": "Buddhism in Translations"
+    },
+    {
+      "file": "folklore-santal-parganas-bompas.md",
+      "wordCount": 224,
+      "charCount": 1719,
+      "title": "Folklore of the Santal Parganas"
+    },
+    {
+      "file": "indian-home-rule-gandhi-mahatma.md",
+      "wordCount": 224,
+      "charCount": 1907,
+      "title": "Indian Home Rule (Hind Swaraj)"
+    },
+    {
+      "file": "jaimini-sutras-purva-mimamsa.md",
+      "wordCount": 224,
+      "charCount": 1878,
+      "title": "Jaimini Sutras: Purva Mimamsa (Vedic Ritual Interpretation)"
+    },
+    {
+      "file": "kautilya-arthasastra-vidhyalankara-pranath.md",
+      "wordCount": 224,
+      "charCount": 1903,
+      "title": "Kautilya Arthasastra"
+    },
+    {
+      "file": "patanjali-yoga-sutras.md",
+      "wordCount": 224,
+      "charCount": 1905,
+      "title": "Yoga Sutras of Patanjali (Classical Foundation of Yoga Philosophy)"
+    },
+    {
+      "file": "political-history-of-ancient-india-hem-chandra-raychaudhuri.md",
+      "wordCount": 224,
+      "charCount": 1937,
+      "title": "Political History of Ancient India"
+    },
+    {
+      "file": "shiva-mahapurana.md",
+      "wordCount": 224,
+      "charCount": 1959,
+      "title": "Shiva Purana (Shiva Mahapurana)"
+    },
+    {
+      "file": "sva-george-c-m-birdwood.md",
+      "wordCount": 224,
+      "charCount": 1815,
+      "title": "Sva"
+    },
+    {
+      "file": "the-king-of-the-dark-chamber-tagore-rabindranath.md",
+      "wordCount": 224,
+      "charCount": 1988,
+      "title": "The King of the Dark Chamber"
+    },
+    {
+      "file": "buddhacharita-asvaghosha-cowell.md",
+      "wordCount": 223,
+      "charCount": 1855,
+      "title": "The Buddhacharita (Life of Buddha)"
+    },
+    {
+      "file": "history-of-gujarát-gazetteer-of-the-bombay-presidency-volume-i-part-i-campbell-james-m.md",
+      "wordCount": 223,
+      "charCount": 1967,
+      "title": "History of Gujarát: Gazetteer of the Bombay Presidency, Volume I, Part I"
+    },
+    {
+      "file": "history-of-indian-and-eastern-architecture-1808-1886-james-fergusson.md",
+      "wordCount": 223,
+      "charCount": 1887,
+      "title": "History of Indian and Eastern Architecture"
+    },
+    {
+      "file": "indian-speeches-19071909-john-morley.md",
+      "wordCount": 223,
+      "charCount": 1899,
+      "title": "Indian Speeches (1907–1909)"
+    },
+    {
+      "file": "nalanda-and-its-epigraphic-material-shastri.md",
+      "wordCount": 223,
+      "charCount": 1929,
+      "title": "Nalanda and Its Epigraphic Material"
+    },
+    {
+      "file": "nyayatatparyadipika-jayasimha-suri.md",
+      "wordCount": 223,
+      "charCount": 1941,
+      "title": "Nyāyatatparyadīpikā: Medieval Logic Commentary"
+    },
+    {
+      "file": "the-kalpa-sutra-and-nava-tatva-stevenson.md",
+      "wordCount": 223,
+      "charCount": 1656,
+      "title": "The Kalpa Sutra and Nava Tatva"
+    },
+    {
+      "file": "the-religions-of-india-edward-washburn-hopkins.md",
+      "wordCount": 223,
+      "charCount": 1976,
+      "title": "The Religions of India"
+    },
+    {
+      "file": "the-samkhya-philosophy-containing-samkhya-pravachana-sutram-nandalal-sinha.md",
+      "wordCount": 223,
+      "charCount": 1878,
+      "title": "The samkhya philosophy; containing samkhya-pravachana sutram"
+    },
+    {
+      "file": "campaign-of-the-indus-in-a-series-of-letters-from-an-officer-of-the-bombay-division-holdsworth-t-w-e.md",
+      "wordCount": 222,
+      "charCount": 1785,
+      "title": "Campaign of the Indus: In a Series of Letters from an Officer of the Bombay Division"
+    },
+    {
+      "file": "gandhi-and-anarchy-c-sankaran-nair.md",
+      "wordCount": 222,
+      "charCount": 1844,
+      "title": "Gandhi and Anarchy"
+    },
+    {
+      "file": "geet-govinda-jayadeva.md",
+      "wordCount": 222,
+      "charCount": 1775,
+      "title": "Geet Govinda"
+    },
+    {
+      "file": "grihya-sutras-rules-vedic-domestic-ceremonies-hermann-oldenberg.md",
+      "wordCount": 222,
+      "charCount": 1848,
+      "title": "The Grihya-sûtras: Rules of Vedic Domestic Ceremonies"
+    },
+    {
+      "file": "kashmir-described-by-sir-francis-younghusband-painted-by-major-e-molyneux-younghusband-francis.md",
+      "wordCount": 222,
+      "charCount": 1770,
+      "title": "Kashmir, described by Sir Francis Younghusband, painted by Major E. Molyneux"
+    },
+    {
+      "file": "kulliyat-e-fani-collected-poems-fani-badayuni.md",
+      "wordCount": 222,
+      "charCount": 1790,
+      "title": "Kulliyat-e-Fani (Collected Poems)"
+    },
+    {
+      "file": "nitisara-kamandaki-tr-mn-dutt-1896.md",
+      "wordCount": 222,
+      "charCount": 1952,
+      "title": "Kāmandakīya Nītisāra (The Elements of Polity)"
+    },
+    {
+      "file": "ramacharitamanasa-tulsidas.md",
+      "wordCount": 222,
+      "charCount": 1763,
+      "title": "Ramcharitmanas"
+    },
+    {
+      "file": "sangita-ratnakara-sarangadeva.md",
+      "wordCount": 222,
+      "charCount": 1868,
+      "title": "Sangita Ratnakara"
+    },
+    {
+      "file": "sarala-mahabharata-odia-sarala-dasa.md",
+      "wordCount": 222,
+      "charCount": 1855,
+      "title": "Sarala Mahābhārata (The Odia Mahabharata)"
+    },
+    {
+      "file": "the-cambridge-history-of-india-edward-james-rapson.md",
+      "wordCount": 222,
+      "charCount": 1882,
+      "title": "The Cambridge history of India"
+    },
+    {
+      "file": "the-vishnu-purana-wilson.md",
+      "wordCount": 222,
+      "charCount": 1924,
+      "title": "The Viṣṇu Purāṇa: A System of Hindu Mythology and Tradition"
+    },
+    {
+      "file": "tuzuk-i-jahangiri-memoirs-of-jahangir-alexander-rogers-henry-beveridge.md",
+      "wordCount": 222,
+      "charCount": 1768,
+      "title": "The Tuzuk-i-Jahāngīrī: Memoirs of Jahangir"
+    },
+    {
+      "file": "hobson-jobson-a-glossary-of-colloquial-anglo-indian-words-and-phrases-and-of-kindred-terms.md",
+      "wordCount": 221,
+      "charCount": 1758,
+      "title": "Hobson-Jobson: A Glossary of Colloquial Anglo-Indian Words and Phrases, and of Kindred Terms, Etymological, Historical, Geographical and Discursive"
+    },
+    {
+      "file": "india-through-the-ages-steel.md",
+      "wordCount": 221,
+      "charCount": 1826,
+      "title": "India Through the Ages: A Popular and Picturesque History of Hindustan"
+    },
+    {
+      "file": "krtyaratnakara-chandesvara-thakkura.md",
+      "wordCount": 221,
+      "charCount": 1876,
+      "title": "Krtyaratnakara (The Jewel Mine of Ritual Duties)"
+    },
+    {
+      "file": "sangita-makaranda-telang.md",
+      "wordCount": 221,
+      "charCount": 1823,
+      "title": "Saṅgīta-makaranda (Essence of Music)"
+    },
+    {
+      "file": "the-history-of-the-bengali-language-bijay-chandra-majumdar.md",
+      "wordCount": 221,
+      "charCount": 1939,
+      "title": "The History of the Bengali Language"
+    },
+    {
+      "file": "the-n-i-akbar-english-translation-abul-fazl-tr-henry-blochmann-tr-h-s-jarrett.md",
+      "wordCount": 221,
+      "charCount": 1837,
+      "title": "The Āʾīn-i-Akbarī (English Translation)"
+    },
+    {
+      "file": "the-tuzuk-i-jahangiri-or-memoirs-of-jahangir-jahangir-emperor-of-hindustan.md",
+      "wordCount": 221,
+      "charCount": 1750,
+      "title": "The Tuzuk-i-Jahangiri or Memoirs of Jahangir"
+    },
+    {
+      "file": "tribes-castes-of-bengal-hh-risley-1891.md",
+      "wordCount": 221,
+      "charCount": 1893,
+      "title": "The Tribes and Castes of Bengal: Ethnographic Glossary"
+    },
+    {
+      "file": "atmatattvaviveka-udayanacharya.md",
+      "wordCount": 220,
+      "charCount": 1812,
+      "title": "Ātmatattva viveka (Discrimination of the Nature of the Self)"
+    },
+    {
+      "file": "buddhist-india-rhys-davids.md",
+      "wordCount": 220,
+      "charCount": 1799,
+      "title": "Buddhist India"
+    },
+    {
+      "file": "dasbodh-samarth-ramdas-marathi-1654.md",
+      "wordCount": 220,
+      "charCount": 1807,
+      "title": "Dasbodh (Spiritual Instruction to a Disciple)"
+    },
+    {
+      "file": "indian-wisdom-monier-williams.md",
+      "wordCount": 220,
+      "charCount": 1898,
+      "title": "Indian Wisdom: Religious, Philosophical and Ethical Doctrines"
+    },
+    {
+      "file": "mauryan-polity-dikshitar.md",
+      "wordCount": 220,
+      "charCount": 1973,
+      "title": "Mauryan Polity"
+    },
+    {
+      "file": "nala-and-damayanti-and-other-poems-henry-hart-milman.md",
+      "wordCount": 220,
+      "charCount": 1775,
+      "title": "Nala and Damayanti, and Other Poems"
+    },
+    {
+      "file": "nityacarapradipah-narasimha-vajapeyee.md",
+      "wordCount": 220,
+      "charCount": 1833,
+      "title": "Nityācarapradīpaḥ (Lamp on Daily Conduct) Vol. 1"
+    },
+    {
+      "file": "sankhya-aphorisms-ballantyne.md",
+      "wordCount": 220,
+      "charCount": 1876,
+      "title": "The Sankhya Aphorisms of Kapila"
+    },
+    {
+      "file": "अषटधयय-1897-पणन.md",
+      "wordCount": 220,
+      "charCount": 1913,
+      "title": "अष्टाध्यायी (1897)"
+    },
+    {
+      "file": "a-history-of-indian-philosophy-volume-1-dasgupta-surendranath.md",
+      "wordCount": 219,
+      "charCount": 1845,
+      "title": "A History of Indian Philosophy, Volume 1"
+    },
+    {
+      "file": "a-sanskrit-grammar-including-both-the-classical-language-and-the-older-dialects-of-veda-and-brahmana-william-dwight-whitney.md",
+      "wordCount": 219,
+      "charCount": 1843,
+      "title": "A Sanskrit grammar; including both the classical language, and the older dialects, of Veda and Brahmana"
+    },
+    {
+      "file": "india-what-can-it-teach-us-a-course-of-lectures-delivered-before-the-university-of-cambridge-müller.md",
+      "wordCount": 219,
+      "charCount": 1876,
+      "title": "India: What Can It Teach Us?: A Course of Lectures Delivered before the University of Cambridge"
+    },
+    {
+      "file": "krishnakanter-will-bankimchandra-chattopadhyay.md",
+      "wordCount": 219,
+      "charCount": 1795,
+      "title": "Krishnakanter Will"
+    },
+    {
+      "file": "literary-history-of-sanskrit-buddhism-nariman.md",
+      "wordCount": 219,
+      "charCount": 1878,
+      "title": "Literary History of Sanskrit Buddhism"
+    },
+    {
+      "file": "ramayana-valmiki.md",
+      "wordCount": 219,
+      "charCount": 1800,
+      "title": "Ramayana"
+    },
+    {
+      "file": "ancient-india-as-described-by-ptolemy-being-a-translation-of-the-chapters-which-describe-india-and-central-and-eastern-asia-in-the-treatise-on-geography-written-by-klaudios-ptolemaios-the-celebrated-astronomer-jw-mccrindle.md",
+      "wordCount": 218,
+      "charCount": 1900,
+      "title": "Ancient India: as described by Ptolemy; being a translation of the chapters which describe India and Central and Eastern Asia in the treatise on geography written by Klaudios Ptolemaios, the celebrated astronomer"
+    },
+    {
+      "file": "kavitavali-tulsidas.md",
+      "wordCount": 218,
+      "charCount": 1760,
+      "title": "Kavitavali"
+    },
+    {
+      "file": "lushei-kuki-clans-shakespear.md",
+      "wordCount": 218,
+      "charCount": 1838,
+      "title": "The Lushei Kuki Clans"
+    },
+    {
+      "file": "meghnad-badh-kavya-michael-madhusudan-dutt.md",
+      "wordCount": 218,
+      "charCount": 1788,
+      "title": "Meghnad Badh Kavya"
+    },
+    {
+      "file": "nagananda-harsha.md",
+      "wordCount": 218,
+      "charCount": 1862,
+      "title": "Nagananda (The Joy of the Serpents)"
+    },
+    {
+      "file": "sacred-books-of-the-east-hindu-series-volume-3.md",
+      "wordCount": 218,
+      "charCount": 1867,
+      "title": "The Sacred Books of the East, Hindu Series, Volume 3"
+    },
+    {
+      "file": "sangita-raga-kalpadruma-vol1.md",
+      "wordCount": 218,
+      "charCount": 1809,
+      "title": "Saṅgīta Rāga-kalpadruma Vol. 1"
+    },
+    {
+      "file": "shaddarsana-samuchchaya-haribhadra.md",
+      "wordCount": 218,
+      "charCount": 1863,
+      "title": "Ṣaḍdarśana-samuccaya (Compendium of Six Philosophical Systems)"
+    },
+    {
+      "file": "the-autobiography-of-an-indian-princess-sunity-devee-maharani-of-cooch-behar.md",
+      "wordCount": 218,
+      "charCount": 1376,
+      "title": "The Autobiography of an Indian Princess"
+    },
+    {
+      "file": "the-hindu-yogi-science-of-breath-atkinson-william-walker.md",
+      "wordCount": 218,
+      "charCount": 1815,
+      "title": "The Hindu-Yogi Science of Breath"
+    },
+    {
+      "file": "tikapatthana-abhidhamma-pitaka.md",
+      "wordCount": 218,
+      "charCount": 1825,
+      "title": "Tikapatthana of the Abhidhamma Pitaka"
+    },
+    {
+      "file": "bhagavadgita-des-erhabenen-sang-schroeder.md",
+      "wordCount": 217,
+      "charCount": 1838,
+      "title": "Bhagavadgītā – Des Erhabenen Sang"
+    },
+    {
+      "file": "epigraphia-indica-volume-2-archaeological-survey-of-india.md",
+      "wordCount": 217,
+      "charCount": 1921,
+      "title": "Epigraphia Indica, Volume 2"
+    },
+    {
+      "file": "indian-architecture-buddhist-and-hindu-periods-percy-brown.md",
+      "wordCount": 217,
+      "charCount": 1853,
+      "title": "Indian Architecture: Buddhist and Hindu Periods"
+    },
+    {
+      "file": "jataka-tales-animal-stories-ellen-babbitt.md",
+      "wordCount": 217,
+      "charCount": 1825,
+      "title": "Jataka Tales: Animal Stories"
+    },
+    {
+      "file": "puranic-encyclopaedia-vettam-mani.md",
+      "wordCount": 217,
+      "charCount": 1804,
+      "title": "Purāṇic Encyclopaedia"
+    },
+    {
+      "file": "the-raghuvamsa-of-kalidasa-with-the-commentary-the-samjivani-of-mallinatha-kalidasa.md",
+      "wordCount": 217,
+      "charCount": 1794,
+      "title": "The Raghuvamsa of Kalidasa : with the commentary (the Samjivani) of Mallinatha"
+    },
+    {
+      "file": "the-travels-of-ibn-battuta.md",
+      "wordCount": 217,
+      "charCount": 1865,
+      "title": "The Travels of Ibn Battuta"
+    },
+    {
+      "file": "the-vaisesika-sutras-of-kanada-translated-by-nandalal-sinha-kanada.md",
+      "wordCount": 217,
+      "charCount": 1853,
+      "title": "The Vaisesika sutras of Kanada. Translated by Nandalal Sinha"
+    },
+    {
+      "file": "akbar-an-eastern-romance-limburg-brouwer-p-a-s-van-petrus-abraham-samuel.md",
+      "wordCount": 216,
+      "charCount": 1672,
+      "title": "Akbar: An Eastern Romance"
+    },
+    {
+      "file": "atharvaveda-saunaka-visha-bandhu-2.md",
+      "wordCount": 216,
+      "charCount": 1774,
+      "title": "Atharvaveda (Saunaka Recension)"
+    },
+    {
+      "file": "el-libro-de-las-tierras-vírgenes-kipling-rudyard.md",
+      "wordCount": 216,
+      "charCount": 1769,
+      "title": "El libro de las tierras vírgenes"
+    },
+    {
+      "file": "hindu-manners-customs-ceremonies-abbe-dubois-1897.md",
+      "wordCount": 216,
+      "charCount": 1791,
+      "title": "Hindu Manners, Customs and Ceremonies"
+    },
+    {
+      "file": "kiratarjuniya-bharavi-durga-prasad.md",
+      "wordCount": 216,
+      "charCount": 1759,
+      "title": "The Kirātārjunīya of Bhāravi"
+    },
+    {
+      "file": "kāñcippurāṇam-civañāna-munivar.md",
+      "wordCount": 216,
+      "charCount": 1740,
+      "title": "Kāñcippurāṇam"
+    },
+    {
+      "file": "laghu-siddhantakaumudi-varadarāja-varadarāja.md",
+      "wordCount": 216,
+      "charCount": 1858,
+      "title": "Laghu-siddhantakaumudi"
+    },
+    {
+      "file": "pampa-bharatam-vikramarjuna-vijaya-kannada.md",
+      "wordCount": 216,
+      "charCount": 1772,
+      "title": "Vikramārjuna Vijaya (Pampa Bhārata)"
+    },
+    {
+      "file": "the-tribes-and-castes-of-the-north-western-provinces-and-oudh-volume-1-of-4-crooke-william.md",
+      "wordCount": 216,
+      "charCount": 1801,
+      "title": "The tribes and castes of the North-Western Provinces and Oudh, Volume 1 (of 4)"
+    },
+    {
+      "file": "a-letter-to-a-hindu-tolstoy-leo-graf.md",
+      "wordCount": 215,
+      "charCount": 1713,
+      "title": "A Letter to a Hindu"
+    },
+    {
+      "file": "algebra-arithmetic-mensuration-brahmegupta-bhaskara-colebrooke.md",
+      "wordCount": 215,
+      "charCount": 1893,
+      "title": "Algebra, with Arithmetic and Mensuration, from the Sanscrit of Brahmegupta and Bháscara"
+    },
+    {
+      "file": "bakhshali-manuscript-ancient-mathematics-rudolf-hoernle.md",
+      "wordCount": 215,
+      "charCount": 1865,
+      "title": "The Bakhshali Manuscript: Ancient Indian Mathematics"
+    },
+    {
+      "file": "kena-upanishad.md",
+      "wordCount": 215,
+      "charCount": 1734,
+      "title": "Kena Upanishad"
+    },
+    {
+      "file": "lectures-on-the-ancient-history-of-india-d-r-bhandarkar.md",
+      "wordCount": 215,
+      "charCount": 1828,
+      "title": "Lectures on the Ancient History of India (650-325 B.C.)"
+    },
+    {
+      "file": "marma-vijnj-aan-paathak-raamarakshh-1.md",
+      "wordCount": 215,
+      "charCount": 1865,
+      "title": "Marma Vijnj-aan"
+    },
+    {
+      "file": "sacred-books-early-literature-volume-10.md",
+      "wordCount": 215,
+      "charCount": 1857,
+      "title": "The Sacred Books and Early Literature of the East, Volume 10: India and Buddhism"
+    },
+    {
+      "file": "tattvakaumudi-vacaspatimisra.md",
+      "wordCount": 215,
+      "charCount": 1873,
+      "title": "Tattvakaumudi (Moonlight of Principles)"
+    },
+    {
+      "file": "the-milindapanha.md",
+      "wordCount": 215,
+      "charCount": 1841,
+      "title": "The Milindapañho"
+    },
+    {
+      "file": "the-practical-sanskrit-english-dictionary-containing-appendices-on-sanskrit-prosody-and-important-literary-and-geogrpahical-names-of-ancient-india-apte.md",
+      "wordCount": 215,
+      "charCount": 1810,
+      "title": "The Practical Sanskrit-English dictionary containing appendices on Sanskrit prosody and important literary and geogrpahical names of ancient India"
+    },
+    {
+      "file": "amarakosha-amarasimha-colebrooke-ed.md",
+      "wordCount": 214,
+      "charCount": 1807,
+      "title": "Amarakośa (The Immortal Treasury)"
+    },
+    {
+      "file": "linga-purana.md",
+      "wordCount": 214,
+      "charCount": 1754,
+      "title": "Linga Purana"
+    },
+    {
+      "file": "one-of-clives-heroes-a-story-of-the-fight-for-india-strang-herbert.md",
+      "wordCount": 214,
+      "charCount": 1328,
+      "title": "One of Clive's Heroes: A Story of the Fight for India"
+    },
+    {
+      "file": "periya-puranam-sekkizhar.md",
+      "wordCount": 214,
+      "charCount": 1754,
+      "title": "Periya Puranam"
+    },
+    {
+      "file": "rig-veda-samhita-books-14-wilson.md",
+      "wordCount": 214,
+      "charCount": 1760,
+      "title": "Rig-Veda Samhita, Books 1-4"
+    },
+    {
+      "file": "the-buddhavamsa-and-the-cariya-pitaka.md",
+      "wordCount": 214,
+      "charCount": 1743,
+      "title": "The Buddhavaṃsa and the Cariyā-piṭaka"
+    },
+    {
+      "file": "the-cycle-of-spring-tagore-rabindranath.md",
+      "wordCount": 214,
+      "charCount": 1311,
+      "title": "The Cycle of Spring"
+    },
+    {
+      "file": "vikramorvasiyam-kalidasa-1879-pandit-ed.md",
+      "wordCount": 214,
+      "charCount": 1771,
+      "title": "Vikramōrvaśīyam (Urvaśī Won by Valour)"
+    },
+    {
+      "file": "women-in-ancient-india-clarisse-bader.md",
+      "wordCount": 214,
+      "charCount": 1826,
+      "title": "Women in Ancient India: Moral and Literary Studies"
+    },
+    {
+      "file": "yashvantrai-mahakavya-marathi-khare.md",
+      "wordCount": 214,
+      "charCount": 1811,
+      "title": "Yashvantrai Mahakavya (यशवंतराय महाकाव्य)"
+    },
+    {
+      "file": "a-higher-sanskrit-grammar-for-the-use-of-schools-and-colleges-kale.md",
+      "wordCount": 213,
+      "charCount": 1911,
+      "title": "A higher Sanskrit grammar, for the use of schools and colleges"
+    },
+    {
+      "file": "a-tibetan-english-dictionary-heinrich-august-jaschke.md",
+      "wordCount": 213,
+      "charCount": 1862,
+      "title": "A Tibetan-English Dictionary"
+    },
+    {
+      "file": "gitanjali-sangesopfer-tagore-rabindranath.md",
+      "wordCount": 213,
+      "charCount": 1834,
+      "title": "Gitanjali (Sangesopfer)"
+    },
+    {
+      "file": "taittriya-upanishad.md",
+      "wordCount": 213,
+      "charCount": 1820,
+      "title": "Taittiriya Upanishad"
+    },
+    {
+      "file": "yoga-vasistha-valmiki.md",
+      "wordCount": 213,
+      "charCount": 1872,
+      "title": "Yoga Vasistha (The Supreme Yoga)"
+    },
+    {
+      "file": "brhad-devata-attributed-to-saunaka-a-summary-of-the-deities-and-myths-of-the-rig-veda-saunaka.md",
+      "wordCount": 212,
+      "charCount": 1739,
+      "title": "The Bṛhad-devatā: A Summary of the Deities and Myths of the Rigveda"
+    },
+    {
+      "file": "modern-religious-movements-in-india-j-n-farquhar.md",
+      "wordCount": 212,
+      "charCount": 1806,
+      "title": "Modern Religious Movements in India"
+    },
+    {
+      "file": "path-of-purity-visuddhimagga-buddhaghosa-pe-maung-tin.md",
+      "wordCount": 212,
+      "charCount": 1805,
+      "title": "The Path of Purity (Visuddhimagga)"
+    },
+    {
+      "file": "swetashvatara-upanishad.md",
+      "wordCount": 211,
+      "charCount": 1828,
+      "title": "Svetasvatara Upanishad"
+    },
+    {
+      "file": "kalpa-sutra.md",
+      "wordCount": 210,
+      "charCount": 1682,
+      "title": "Kalpa Sutra (Scripture on Monastic Discipline and Sacred Biography)"
+    },
+    {
+      "file": "milinda-panha.md",
+      "wordCount": 210,
+      "charCount": 1741,
+      "title": "Milinda Panha (Questions of King Milinda)"
+    },
+    {
+      "file": "ruth-fielding-in-the-great-northwest-or-the-indian-girl-star-of-the-movies-emerson-alice-b.md",
+      "wordCount": 210,
+      "charCount": 1234,
+      "title": "Ruth Fielding in the Great Northwest; Or, The Indian Girl Star of the Movies"
+    },
+    {
+      "file": "shishupalavadha-magha.md",
+      "wordCount": 210,
+      "charCount": 1629,
+      "title": "Shishupalavadha"
+    },
+    {
+      "file": "the-hungry-stones-and-other-stories-tagore-rabindranath.md",
+      "wordCount": 210,
+      "charCount": 1451,
+      "title": "The Hungry Stones, and Other Stories"
+    },
+    {
+      "file": "the-wheel-of-fortune-gandhi-mahatma.md",
+      "wordCount": 210,
+      "charCount": 1518,
+      "title": "The Wheel of Fortune"
+    },
+    {
+      "file": "mudrarakshasa-vishakhadatta.md",
+      "wordCount": 209,
+      "charCount": 1707,
+      "title": "Mudrarakshasa (The Signet Ring of Rakshasa)"
+    },
+    {
+      "file": "panchastikayasara-kundakunda.md",
+      "wordCount": 208,
+      "charCount": 1805,
+      "title": "Pañcāstikāyasāra (Essence of Five Extended Substances)"
+    },
+    {
+      "file": "yajnavalkya-smriti-with-mitaksara-commentary.md",
+      "wordCount": 208,
+      "charCount": 1653,
+      "title": "Yājñavalkya Smṛti with the Commentary Mitākṣarā"
+    },
+    {
+      "file": "hindu-superiority-attempt-determine-position-hindu-race-scale-nations-har-bilas-sarda.md",
+      "wordCount": 207,
+      "charCount": 1716,
+      "title": "Hindu Superiority: An Attempt to Determine the Position of the Hindu Race in the Scale of Nations"
+    },
+    {
+      "file": "satapathabrahmana-eggeling-translation.md",
+      "wordCount": 207,
+      "charCount": 1663,
+      "title": "The Satapatha Brahmana"
+    },
+    {
+      "file": "the-bābur-nāma-in-english-memoirs-of-bābur-babur-emperor-of-hindustan.md",
+      "wordCount": 207,
+      "charCount": 1584,
+      "title": "The Bābur-nāma in English (Memoirs of Bābur)"
+    },
+    {
+      "file": "the-dhammapada-max-muller.md",
+      "wordCount": 207,
+      "charCount": 1749,
+      "title": "The Dhammapada"
+    },
+    {
+      "file": "the-lotus-of-the-true-law.md",
+      "wordCount": 207,
+      "charCount": 1775,
+      "title": "The Saddharma-pundarîka; or, The Lotus of the True Law"
+    },
+    {
+      "file": "sakhi-suryakant-tripathi-nirala.md",
+      "wordCount": 206,
+      "charCount": 1799,
+      "title": "Sakhi"
+    },
+    {
+      "file": "rujub-the-juggler-henty-g-a-george-alfred.md",
+      "wordCount": 205,
+      "charCount": 1276,
+      "title": "Rujub, the Juggler"
+    },
+    {
+      "file": "sant-tukaram-gatha-marathi-abhanga.md",
+      "wordCount": 205,
+      "charCount": 1660,
+      "title": "Tukārām Gāthā (Abhangas of Sant Tukaram)"
+    },
+    {
+      "file": "the-raghuvamsa-of-kalidasa-kale.md",
+      "wordCount": 205,
+      "charCount": 1778,
+      "title": "The Raghuvamsa of Kalidasa"
+    },
+    {
+      "file": "venisamhara-bhatta-narayana.md",
+      "wordCount": 205,
+      "charCount": 1673,
+      "title": "Venisamhara (The Braiding of the Hair)"
+    },
+    {
+      "file": "history-of-indian-philosophy-dasgupta.md",
+      "wordCount": 204,
+      "charCount": 1643,
+      "title": "A History of Indian Philosophy"
+    },
+    {
+      "file": "kurma-purana.md",
+      "wordCount": 204,
+      "charCount": 1670,
+      "title": "Kurma Purana"
+    },
+    {
+      "file": "old-deccan-days-or-hindoo-fairy-legends-current-in-southern-india-unknown.md",
+      "wordCount": 204,
+      "charCount": 1348,
+      "title": "Old Deccan Days; or, Hindoo Fairy Legends Current in Southern India"
+    },
+    {
+      "file": "brahmanda-purana.md",
+      "wordCount": 203,
+      "charCount": 1649,
+      "title": "Brahmanda Purana"
+    },
+    {
+      "file": "epigraphia-carnatica-b-lewis-rice.md",
+      "wordCount": 203,
+      "charCount": 1684,
+      "title": "Epigraphia Carnatica"
+    },
+    {
+      "file": "sikh-religion-its-gurus-sacred-writings-and-authors-macauliffe.md",
+      "wordCount": 203,
+      "charCount": 1589,
+      "title": "The Sikh Religion: Its Gurus, Sacred Writings and Authors (Six Volumes)"
+    },
+    {
+      "file": "acharanga-sutra.md",
+      "wordCount": 202,
+      "charCount": 1652,
+      "title": "Acharanga Sutra (The First Jain Agama)"
+    },
+    {
+      "file": "sacred-laws-aryas-apastamba-gautama-vasishtha-baudhayana-georg-buhler.md",
+      "wordCount": 201,
+      "charCount": 1640,
+      "title": "The Sacred Laws of the Âryas: As Taught in the Schools of Âpastamba, Gautama, Vâsishtha, and Baudhâyana"
+    },
+    {
+      "file": "sarva-darsana-samgraha-review-different-systems-hindu-philosophy-madhavacharya-cowell-gough.md",
+      "wordCount": 201,
+      "charCount": 1709,
+      "title": "The Sarva-Darsana-Samgraha: Review of the Different Systems of Hindu Philosophy"
+    },
+    {
+      "file": "the-rāmāyana-valmiki.md",
+      "wordCount": 201,
+      "charCount": 1460,
+      "title": "The Rāmāyana"
+    },
+    {
+      "file": "on-the-indian-sect-of-the-jainas-bühler-georg.md",
+      "wordCount": 200,
+      "charCount": 1318,
+      "title": "On the Indian Sect of the Jainas"
+    },
+    {
+      "file": "the-adventures-of-akbar-steel-flora-annie-webster.md",
+      "wordCount": 200,
+      "charCount": 1315,
+      "title": "The Adventures of Akbar"
+    },
+    {
+      "file": "the-conquest-of-canada-warburton-george.md",
+      "wordCount": 200,
+      "charCount": 1397,
+      "title": "The Conquest of Canada,"
+    },
+    {
+      "file": "the-panchasiddhantika-varahamihira.md",
+      "wordCount": 200,
+      "charCount": 1849,
+      "title": "The Panchasiddhantika of Varahamihira"
+    },
+    {
+      "file": "alberunis-india.md",
+      "wordCount": 199,
+      "charCount": 1667,
+      "title": "Alberuni's India (Kitab al-Hind)"
+    },
+    {
+      "file": "dnyaneshwari-sant-dnyaneshwar-marathi-1290.md",
+      "wordCount": 199,
+      "charCount": 1619,
+      "title": "Dnyaneshwari (Bhāvārtha Dīpikā)"
+    },
+    {
+      "file": "padma-purana.md",
+      "wordCount": 198,
+      "charCount": 1635,
+      "title": "Padma Purana"
+    },
+    {
+      "file": "sangita-ratnakara-sharangadeva.md",
+      "wordCount": 198,
+      "charCount": 1621,
+      "title": "Sangita Ratnakara (Ocean of Music)"
+    },
+    {
+      "file": "india-under-british-rule-from-the-foundation-of-the-east-india-company-wheeler-james-talboys.md",
+      "wordCount": 197,
+      "charCount": 1281,
+      "title": "India Under British Rule from the Foundation of the East India Company"
+    },
+    {
+      "file": "sakoontala-or-the-lost-ring-an-indian-drama-kalidasa.md",
+      "wordCount": 197,
+      "charCount": 1243,
+      "title": "Sakoontala; Or, The Lost Ring: An Indian Drama"
+    },
+    {
+      "file": "siddhanta-siromani-bhaskaracharya-tr-wilkinson-1861.md",
+      "wordCount": 197,
+      "charCount": 1740,
+      "title": "Siddhānta Śiromaṇi (Crown of Treatises)"
+    },
+    {
+      "file": "tales-from-the-hindu-dramatists-dutta-r-n.md",
+      "wordCount": 196,
+      "charCount": 1253,
+      "title": "Tales from the Hindu Dramatists"
+    },
+    {
+      "file": "natyashastra-bharata-muni.md",
+      "wordCount": 193,
+      "charCount": 1576,
+      "title": "Natyashastra (Treatise on Dramaturgy)"
+    },
+    {
+      "file": "phallic-miscellanies-facts-and-phases-of-ancient-and-modern-sex-worship-as-illustrated-chiefly-in.md",
+      "wordCount": 193,
+      "charCount": 1285,
+      "title": "Phallic Miscellanies: Facts and Phases of Ancient and Modern Sex Worship, as Illustrated Chiefly in the Religions of India"
+    },
+    {
+      "file": "the-vedanta-sutras-thibaut.md",
+      "wordCount": 193,
+      "charCount": 1575,
+      "title": "The Vedānta-Sūtras with Commentaries by Śankarācārya and Rāmānuja"
+    },
+    {
+      "file": "vishnu-purana-wilson.md",
+      "wordCount": 193,
+      "charCount": 1555,
+      "title": "Vishnu Purana"
+    },
+    {
+      "file": "mahabhashya-patanjali.md",
+      "wordCount": 192,
+      "charCount": 1680,
+      "title": "Mahabhashya (The Great Commentary)"
+    },
+    {
+      "file": "the-bombay-city-police-a-historical-sketch-1672-1916-edwardes-s-m-stephen-meredyth.md",
+      "wordCount": 192,
+      "charCount": 1254,
+      "title": "The Bombay City Police: A Historical Sketch, 1672-1916"
+    },
+    {
+      "file": "complete-poems-subramania-bharati.md",
+      "wordCount": 191,
+      "charCount": 1624,
+      "title": "Complete Poems of Subramania Bharati"
+    },
+    {
+      "file": "the-history-of-the-indian-revolt-and-of-the-expeditions-to-persia-china-and-japan-1856-7-8-dodd.md",
+      "wordCount": 191,
+      "charCount": 1285,
+      "title": "The History of the Indian Revolt and of the Expeditions to Persia, China and Japan, 1856-7-8"
+    },
+    {
+      "file": "markandeya-purana-devi-mahatmya.md",
+      "wordCount": 190,
+      "charCount": 1534,
+      "title": "Markandeya Purana (with Devi Mahatmya)"
+    },
+    {
+      "file": "meghnadbadh-kavya-michael-madhusudan-dutt.md",
+      "wordCount": 190,
+      "charCount": 1611,
+      "title": "Meghnadbadh Kavya (The Slaying of Meghnad)"
+    },
+    {
+      "file": "the-east-india-vade-mecum-volume-1-of-2-or-complete-guide-to-gentlemen-intended-for-the-civil.md",
+      "wordCount": 190,
+      "charCount": 1555,
+      "title": "The East India Vade-Mecum, Volume 1 (of 2): or, complete guide to gentlemen intended for the civil, military, or naval service of the East India Company."
+    },
+    {
+      "file": "oriental-religions-and-christianity-a-course-of-lectures-delivered-on-the-ely-foundation-before-the.md",
+      "wordCount": 188,
+      "charCount": 1364,
+      "title": "Oriental Religions and Christianity: A Course of Lectures Delivered on the Ely Foundation Before the; Students of Union Theological Seminary, New York, 1891"
+    },
+    {
+      "file": "reminiscences-of-the-great-mutiny-1857-59-including-the-relief-siege-and-capture-of-lucknow-and-the.md",
+      "wordCount": 188,
+      "charCount": 1274,
+      "title": "Reminiscences of the Great Mutiny 1857-59: Including the relief, siege, and capture of Lucknow, and the campaigns in Rohilcund and Oude"
+    },
+    {
+      "file": "sushruta-samhita-english-translation.md",
+      "wordCount": 188,
+      "charCount": 1558,
+      "title": "An English Translation of the Sushruta Samhita"
+    },
+    {
+      "file": "tiruvaimozhi-nammalvar.md",
+      "wordCount": 187,
+      "charCount": 1621,
+      "title": "Tiruvaimozhi (Tamil Veda)"
+    },
+    {
+      "file": "garuda-purana.md",
+      "wordCount": 186,
+      "charCount": 1454,
+      "title": "Garuda Purana"
+    },
+    {
+      "file": "tiruppavai-nachiyar-tirumozhi-andal.md",
+      "wordCount": 186,
+      "charCount": 1524,
+      "title": "Tiruppavai and Nachiyar Tirumozhi"
+    },
+    {
+      "file": "the-diary-of-a-hunter-from-the-punjab-to-the-karakorum-mountains-irby-augustus-henry.md",
+      "wordCount": 185,
+      "charCount": 1247,
+      "title": "The Diary of a Hunter from the Punjab to the Karakorum Mountains"
+    },
+    {
+      "file": "castes-and-tribes-of-southern-india-edgar-thurston.md",
+      "wordCount": 184,
+      "charCount": 1488,
+      "title": "Castes and Tribes of Southern India"
+    },
+    {
+      "file": "le-râmâyana-poème-sanscrit-de-valmiky-valmiki.md",
+      "wordCount": 184,
+      "charCount": 1303,
+      "title": "Le Râmâyana: Poème sanscrit de Valmiky"
+    },
+    {
+      "file": "observations-on-the-disturbances-in-the-madras-army-in-1809-malcolm-john.md",
+      "wordCount": 184,
+      "charCount": 1263,
+      "title": "Observations on the Disturbances in the Madras Army in 1809"
+    },
+    {
+      "file": "kathasaritsagara-somadeva.md",
+      "wordCount": 183,
+      "charCount": 1569,
+      "title": "Kathasaritsagara (Ocean of the Streams of Story)"
+    },
+    {
+      "file": "the-song-celestial-or-bhagavad-gîtâ-from-the-mahâbhârata-being-a-discourse-between-arjuna-prince-of.md",
+      "wordCount": 183,
+      "charCount": 1445,
+      "title": "The Song Celestial; Or, Bhagavad-Gîtâ (from the Mahâbhârata): Being a discourse between Arjuna, Prince of India, and the Supreme Being under the form of Krishna"
+    },
+    {
+      "file": "recollections-of-thirty-nine-years-in-the-army-gwalior-and-the-battle-of-maharajpore-1843-the-gold.md",
+      "wordCount": 182,
+      "charCount": 1180,
+      "title": "Recollections of Thirty-nine Years in the Army: Gwalior and the Battle of Maharajpore, 1843; the Gold Coast of Africa, 1847-48; the Indian Mutiny, 1857-58; the expedition to China, 1860-61; the Siege of Paris, 1870-71; etc."
+    },
+    {
+      "file": "siddhartha-hermann-hesse.md",
+      "wordCount": 182,
+      "charCount": 1593,
+      "title": "Siddhartha"
+    },
+    {
+      "file": "rulers-of-india-akbar-malleson-g-b-george-bruce.md",
+      "wordCount": 181,
+      "charCount": 1174,
+      "title": "Rulers of India: Akbar"
+    },
+    {
+      "file": "the-defence-of-lucknow-a-diary-recording-the-daily-events-during-the-siege-of-the-european.md",
+      "wordCount": 179,
+      "charCount": 1112,
+      "title": "The Defence of Lucknow: A Diary Recording the Daily Events during the Siege of the European Residency, from 31st May to 25th September, 1857"
+    },
+    {
+      "file": "simla-village-tales-or-folk-tales-from-the-himalayas-dracott-alice.md",
+      "wordCount": 178,
+      "charCount": 1199,
+      "title": "Simla Village Tales; Or, Folk Tales from the Himalayas"
+    },
+    {
+      "file": "recollections-of-a-military-life-adye-john-sir.md",
+      "wordCount": 175,
+      "charCount": 1156,
+      "title": "Recollections of a Military Life"
+    },
+    {
+      "file": "the-commerce-and-navigation-of-the-erythræan-sea-being-a-translation-of-the-periplus-maris-erythræi.md",
+      "wordCount": 175,
+      "charCount": 1165,
+      "title": "The Commerce and Navigation of the Erythræan Sea: Being a Translation of the Periplus Maris Erythræi, by an Anonymous Writer, and of Arrian's Account of the Voyage of Nearkhos, from the Mouth of the Indus to the Head of the Persian Gulf"
+    },
+    {
+      "file": "kenopanishad.md",
+      "wordCount": 172,
+      "charCount": 1248,
+      "title": "Kena Upanishad"
+    },
+    {
+      "file": "etat-civil-politique-et-commercant-du-bengale-william-bolts.md",
+      "wordCount": 171,
+      "charCount": 1347,
+      "title": "État civil, politique et commerçant du Bengale (Volumes 1-2)"
+    },
+    {
+      "file": "sursagar-surdas.md",
+      "wordCount": 171,
+      "charCount": 1395,
+      "title": "Sursagar (Ocean of Sur) - Selected Compositions"
+    },
+    {
+      "file": "isha-upanishad.md",
+      "wordCount": 170,
+      "charCount": 1412,
+      "title": "Isha Upanishad"
+    },
+    {
+      "file": "rambles-and-recollections-of-an-indian-official-sleeman-w-h-william-henry-sir.md",
+      "wordCount": 169,
+      "charCount": 1130,
+      "title": "Rambles and Recollections of an Indian Official"
+    },
+    {
+      "file": "the-jungle-books-kipling-rudyard.md",
+      "wordCount": 169,
+      "charCount": 1195,
+      "title": "The Jungle Books"
+    },
+    {
+      "file": "taittiriya-upanishad.md",
+      "wordCount": 165,
+      "charCount": 1353,
+      "title": "Taittiriya Upanishad"
+    },
+    {
+      "file": "recollections-of-calcutta-for-over-half-a-century-massey-montague.md",
+      "wordCount": 164,
+      "charCount": 1058,
+      "title": "Recollections of Calcutta for over Half a Century"
+    },
+    {
+      "file": "rulers-of-india-lord-clive-malleson-g-b-george-bruce.md",
+      "wordCount": 164,
+      "charCount": 1013,
+      "title": "Rulers of India: Lord Clive"
+    },
+    {
+      "file": "tales-of-bengal-banerjea-s-b.md",
+      "wordCount": 164,
+      "charCount": 1050,
+      "title": "Tales of Bengal"
+    },
+    {
+      "file": "the-birth-of-the-war-god-a-poem-by-kálidása-kalidasa.md",
+      "wordCount": 163,
+      "charCount": 999,
+      "title": "The Birth of the War-God: A Poem by Kálidása"
+    },
+    {
+      "file": "kama-sutra-vatsyayana.md",
+      "wordCount": 162,
+      "charCount": 1272,
+      "title": "Kama Sutra"
+    },
+    {
+      "file": "meghaduta-kalidasa.md",
+      "wordCount": 162,
+      "charCount": 1250,
+      "title": "Meghaduta (The Cloud Messenger)"
+    },
+    {
+      "file": "the-ocean-of-story-being-ch-tawneys-translation-of-somadevas-katha-sarit-sagara-somadeva-bhatta.md",
+      "wordCount": 162,
+      "charCount": 1156,
+      "title": "The ocean of story, being C.H. Tawney's translation of Somadeva's Katha sarit sagara"
+    },
+    {
+      "file": "shvetashvatara-upanishad.md",
+      "wordCount": 160,
+      "charCount": 1346,
+      "title": "Shvetashvatara Upanishad"
+    },
+    {
+      "file": "abhijnana-shakuntalam-kalidasa.md",
+      "wordCount": 158,
+      "charCount": 1260,
+      "title": "Abhijnana Shakuntalam (The Recognition of Shakuntala)"
+    },
+    {
+      "file": "mandukya-upanishad.md",
+      "wordCount": 158,
+      "charCount": 1370,
+      "title": "Mandukya Upanishad"
+    },
+    {
+      "file": "silappatikaram-ilango-adigal.md",
+      "wordCount": 156,
+      "charCount": 1276,
+      "title": "Silappatikaram (The Ankle Bracelet)"
+    },
+    {
+      "file": "uttara-rama-charita-bhavabhuti.md",
+      "wordCount": 155,
+      "charCount": 1154,
+      "title": "Uttara Rama Charita (Rama's Later History)"
+    },
+    {
+      "file": "aitareya-upanishad.md",
+      "wordCount": 153,
+      "charCount": 1262,
+      "title": "Aitareya Upanishad"
+    },
+    {
+      "file": "bhagavata-purana-vyasa.md",
+      "wordCount": 153,
+      "charCount": 1164,
+      "title": "Bhagavata Purana (Srimad Bhagavatam)"
+    },
+    {
+      "file": "chandogya-upanishad.md",
+      "wordCount": 153,
+      "charCount": 1197,
+      "title": "Chandogya Upanishad"
+    },
+    {
+      "file": "buddhacharita-ashvaghosa.md",
+      "wordCount": 152,
+      "charCount": 1342,
+      "title": "Buddhacharita (Acts of the Buddha)"
+    },
+    {
+      "file": "manimekalai-sittalai-sattanar.md",
+      "wordCount": 152,
+      "charCount": 1279,
+      "title": "Manimekalai (The Jeweled Anklet)"
+    },
+    {
+      "file": "mundaka-upanishad.md",
+      "wordCount": 152,
+      "charCount": 1204,
+      "title": "Mundaka Upanishad"
+    },
+    {
+      "file": "kularnava-tantra.md",
+      "wordCount": 150,
+      "charCount": 1304,
+      "title": "Kularnava Tantra (Ocean of Kula Tradition)"
+    },
+    {
+      "file": "nyaya-sutras-gautama.md",
+      "wordCount": 150,
+      "charCount": 1333,
+      "title": "Nyaya Sutras (Foundations of Logic and Epistemology)"
+    },
+    {
+      "file": "thirukkural-thiruvalluvar.md",
+      "wordCount": 150,
+      "charCount": 1204,
+      "title": "Thirukkural"
+    },
+    {
+      "file": "panchadasi-vidyaranya.md",
+      "wordCount": 149,
+      "charCount": 1343,
+      "title": "Panchadasi (Fifteen Chapters on Advaita)"
+    },
+    {
+      "file": "tirumantiram-tirumular.md",
+      "wordCount": 149,
+      "charCount": 1298,
+      "title": "Tirumantiram (Sacred Incantations)"
+    },
+    {
+      "file": "devi-mahatmya-markandeya.md",
+      "wordCount": 148,
+      "charCount": 1279,
+      "title": "Devi Mahatmya (Glory of the Goddess)"
+    },
+    {
+      "file": "prashna-upanishad.md",
+      "wordCount": 148,
+      "charCount": 1276,
+      "title": "Prashna Upanishad"
+    },
+    {
+      "file": "shiva-sutras-vasugupta.md",
+      "wordCount": 148,
+      "charCount": 1358,
+      "title": "Shiva Sutras (Aphorisms of Shiva)"
+    },
+    {
+      "file": "plain-tales-from-the-hills-kipling-rudyard.md",
+      "wordCount": 147,
+      "charCount": 1079,
+      "title": "Plain Tales from the Hills"
+    },
+    {
+      "file": "the-english-urdu-translators-companion-durga-prasad.md",
+      "wordCount": 147,
+      "charCount": 1095,
+      "title": "The English Urdu Translators Companion"
+    },
+    {
+      "file": "charaka-samhita-ayurveda.md",
+      "wordCount": 146,
+      "charCount": 1240,
+      "title": "Charaka Samhita (Compendium of Internal Medicine)"
+    },
+    {
+      "file": "vijnana-bhairava-tantra.md",
+      "wordCount": 146,
+      "charCount": 1327,
+      "title": "Vijnana Bhairava Tantra (Divine Consciousness)"
+    },
+    {
+      "file": "jnâna-yoga-part-ii-seven-lectures-vivekananda-swami.md",
+      "wordCount": 145,
+      "charCount": 973,
+      "title": "Jnâna Yoga, Part II: Seven Lectures"
+    },
+    {
+      "file": "mimamsa-sutras-jaimini.md",
+      "wordCount": 145,
+      "charCount": 1162,
+      "title": "Mimamsa Sutras (Purva Mimamsa Sutras)"
+    },
+    {
+      "file": "sushruta-samhita-ayurveda.md",
+      "wordCount": 145,
+      "charCount": 1238,
+      "title": "Sushruta Samhita (Compendium of Surgery)"
+    },
+    {
+      "file": "vaisheshika-sutras-kanada.md",
+      "wordCount": 145,
+      "charCount": 1341,
+      "title": "Vaisheshika Sutras (Categories and Atomic Theory)"
+    },
+    {
+      "file": "manusmriti-laws-of-manu.md",
+      "wordCount": 143,
+      "charCount": 1190,
+      "title": "Manusmriti (Laws of Manu)"
+    },
+    {
+      "file": "devotional-poems-mirabai.md",
+      "wordCount": 142,
+      "charCount": 1177,
+      "title": "Devotional Poems of Mirabai"
+    },
+    {
+      "file": "soundarya-lahari-adi-shankara.md",
+      "wordCount": 142,
+      "charCount": 1108,
+      "title": "Soundarya Lahari"
+    },
+    {
+      "file": "sukasaptati-seventy-tales-parrot.md",
+      "wordCount": 142,
+      "charCount": 1094,
+      "title": "Sukasaptati (The Seventy Tales of the Parrot)"
+    },
+    {
+      "file": "caurapancashika-bilhana.md",
+      "wordCount": 141,
+      "charCount": 1149,
+      "title": "Caurapancashika (Fifty Stanzas of a Thief)"
+    },
+    {
+      "file": "katha-upanishad.md",
+      "wordCount": 141,
+      "charCount": 1018,
+      "title": "Katha Upanishad"
+    },
+    {
+      "file": "vivekachudamani-shankaracharya.md",
+      "wordCount": 141,
+      "charCount": 1152,
+      "title": "Vivekachudamani (Crest-Jewel of Discrimination)"
+    },
+    {
+      "file": "gheranda-samhita-yoga.md",
+      "wordCount": 140,
+      "charCount": 1254,
+      "title": "Gheranda Samhita (Gheranda's Collection)"
+    },
+    {
+      "file": "ashtadhyayi-panini-grammar.md",
+      "wordCount": 138,
+      "charCount": 1233,
+      "title": "Ashtadhyayi (Eight Chapters)"
+    },
+    {
+      "file": "tattvartha-sutra-umasvati.md",
+      "wordCount": 138,
+      "charCount": 1154,
+      "title": "Tattvartha Sutra (Aphorisms on the Meaning of Principles)"
+    },
+    {
+      "file": "the-home-and-the-world-tagore-rabindranath.md",
+      "wordCount": 138,
+      "charCount": 931,
+      "title": "The Home and the World"
+    },
+    {
+      "file": "hitopadesha-narayana.md",
+      "wordCount": 136,
+      "charCount": 1076,
+      "title": "Hitopadesha (Beneficial Instruction)"
+    },
+    {
+      "file": "brahma-sutras-badarayana.md",
+      "wordCount": 135,
+      "charCount": 1280,
+      "title": "Brahma Sutras (Vedanta Sutras)"
+    },
+    {
+      "file": "harshacharita-banabhatta.md",
+      "wordCount": 135,
+      "charCount": 1097,
+      "title": "Harshacharita"
+    },
+    {
+      "file": "brihadaranyaka-upanishad.md",
+      "wordCount": 134,
+      "charCount": 1128,
+      "title": "Brihadaranyaka Upanishad"
+    },
+    {
+      "file": "natya-shastra-bharata-muni.md",
+      "wordCount": 134,
+      "charCount": 1075,
+      "title": "Natya Shastra (Treatise on the Performing Arts)"
+    },
+    {
+      "file": "yasastilaka-somadeva-suri.md",
+      "wordCount": 134,
+      "charCount": 1087,
+      "title": "Yasastilaka (Ornament of Fame)"
+    },
+    {
+      "file": "nyaya-sutras-akshapada-gautama.md",
+      "wordCount": 133,
+      "charCount": 1063,
+      "title": "Nyaya Sutras (Sutras on Logic)"
+    },
+    {
+      "file": "my-reminiscences-tagore-rabindranath.md",
+      "wordCount": 131,
+      "charCount": 973,
+      "title": "My Reminiscences"
+    },
+    {
+      "file": "thirteen-plays-bhasa.md",
+      "wordCount": 131,
+      "charCount": 1114,
+      "title": "Thirteen Plays of Bhasa"
+    },
+    {
+      "file": "dhammapada-buddha.md",
+      "wordCount": 130,
+      "charCount": 1070,
+      "title": "Dhammapada (Path of Dharma)"
+    },
+    {
+      "file": "kim-kipling-rudyard.md",
+      "wordCount": 130,
+      "charCount": 971,
+      "title": "Kim"
+    },
+    {
+      "file": "tolkappiyam-tamil-grammar.md",
+      "wordCount": 130,
+      "charCount": 1231,
+      "title": "Tolkappiyam (Ancient Tamil Grammar and Poetics)"
+    },
+    {
+      "file": "yoga-sastra-the-yoga-sutras-of-patenjali-examined-with-a-notice-of-swami-vivekanandas-yoga-philosophy-patañjali-christian-literature-society-for-india-murdoch.md",
+      "wordCount": 130,
+      "charCount": 1019,
+      "title": "Yoga Sastra : the Yoga sutras of Patenjali examined : with a notice of Swami Vivekananda's Yoga philosophy"
+    },
+    {
+      "file": "gita-govinda-jayadeva.md",
+      "wordCount": 129,
+      "charCount": 984,
+      "title": "Gita Govinda"
+    },
+    {
+      "file": "mricchakatika-sudraka.md",
+      "wordCount": 127,
+      "charCount": 1012,
+      "title": "Mricchakatika (The Little Clay Cart)"
+    },
+    {
+      "file": "annals-and-antiquities-of-rajasthan-tod.md",
+      "wordCount": 126,
+      "charCount": 925,
+      "title": "Annals and Antiquities of Rajast'han, or The Central and Western Rajput States of India"
+    },
+    {
+      "file": "vidyapati-songs-maithili.md",
+      "wordCount": 126,
+      "charCount": 1062,
+      "title": "Songs of Vidyapati (Bangiya Padabali)"
+    },
+    {
+      "file": "stray-birds-tagore-rabindranath.md",
+      "wordCount": 125,
+      "charCount": 843,
+      "title": "Stray Birds"
+    },
+    {
+      "file": "hindu-tales-from-the-sanskrit-unknown.md",
+      "wordCount": 124,
+      "charCount": 919,
+      "title": "Hindu Tales from the Sanskrit"
+    },
+    {
+      "file": "siddhanta-shiromani-bhaskara.md",
+      "wordCount": 123,
+      "charCount": 1068,
+      "title": "Siddhanta Shiromani (Crown of Treatises)"
+    },
+    {
+      "file": "aryabhatiya-aryabhata.md",
+      "wordCount": 122,
+      "charCount": 933,
+      "title": "Aryabhatiya"
+    },
+    {
+      "file": "bodhicharyavatara-shantideva.md",
+      "wordCount": 122,
+      "charCount": 926,
+      "title": "Bodhicharyavatara (A Guide to the Bodhisattva's Way of Life)"
+    },
+    {
+      "file": "short-report-hindu-mahasabha-relief-activities-calcutta-noakhali.md",
+      "wordCount": 122,
+      "charCount": 895,
+      "title": "Short Report of Hindu Mahasabha Relief Activities During 'Calcutta Killing' and 'Noakhali Carnage"
+    },
+    {
+      "file": "rajatarangini-kalhana.md",
+      "wordCount": 121,
+      "charCount": 1016,
+      "title": "Rajatarangini (River of Kings)"
+    },
+    {
+      "file": "kadambari-banabhatta.md",
+      "wordCount": 120,
+      "charCount": 979,
+      "title": "Kadambari"
+    },
+    {
+      "file": "fruit-gathering-tagore-rabindranath.md",
+      "wordCount": 119,
+      "charCount": 819,
+      "title": "Fruit-Gathering"
+    },
+    {
+      "file": "naradiya-shiksha-kunte.md",
+      "wordCount": 116,
+      "charCount": 857,
+      "title": "Nāradīya Śikṣā (Narada's Treatise on Phonetics and Musical Sound)"
+    },
+    {
+      "file": "ashtadhyayi-translated-into-english-by-srisa-chandra-vasu-panini.md",
+      "wordCount": 110,
+      "charCount": 849,
+      "title": "Panini's Ashtadhyayi: The Sanskrit Grammar"
+    },
+    {
+      "file": "kauilyas-arthastra-shamasastry-tr-kauilya-cakya-tr-r-shamasastry.md",
+      "wordCount": 110,
+      "charCount": 827,
+      "title": "Kauṭilya's Arthaśāstra (Shamasastry tr.)"
+    },
+    {
+      "file": "the-practical-sanskrit-english-dictionary-vaman-shivram-apte.md",
+      "wordCount": 109,
+      "charCount": 953,
+      "title": "The Practical Sanskrit-English Dictionary"
+    },
+    {
+      "file": "gold-sport-and-coffee-planting-in-mysore-with-chapters-on-coffee-planting-in-coorg-the-mysore.md",
+      "wordCount": 108,
+      "charCount": 820,
+      "title": "Gold, Sport, and Coffee Planting in Mysore"
+    },
+    {
+      "file": "upanishads-sri-sankara-commentary-isa-kena-mundaka-sitarama-sastri.md",
+      "wordCount": 108,
+      "charCount": 851,
+      "title": "Upanishads and Sri Sankara's Commentary: Isa, Kena, and Mundaka"
+    },
+    {
+      "file": "indias-problem-krishna-or-christ-jones-john-p-john-peter.md",
+      "wordCount": 107,
+      "charCount": 812,
+      "title": "India's Problem, Krishna or Christ"
+    },
+    {
+      "file": "kumarasambhava-kalidasa.md",
+      "wordCount": 107,
+      "charCount": 791,
+      "title": "Kumarasambhava (The Birth of Kumara)"
+    },
+    {
+      "file": "history-of-aurangzib-vol-i-j-n-sarkar.md",
+      "wordCount": 104,
+      "charCount": 879,
+      "title": "History of Aurangzib (Five Volumes)"
+    },
+    {
+      "file": "hutchinsons-story-of-the-nations.md",
+      "wordCount": 104,
+      "charCount": 793,
+      "title": "Hutchinson's Story of the Nations"
+    },
+    {
+      "file": "panchatantra-vishnu-sharma.md",
+      "wordCount": 104,
+      "charCount": 784,
+      "title": "Panchatantra"
+    },
+    {
+      "file": "le-jardinier-damour-tagore-rabindranath.md",
+      "wordCount": 101,
+      "charCount": 740,
+      "title": "Le jardinier d'amour"
+    },
+    {
+      "file": "dr-scudders-tales-for-little-readers-about-the-heathen-scudder-john.md",
+      "wordCount": 99,
+      "charCount": 734,
+      "title": "Dr. Scudder's Tales for Little Readers, About the Heathen."
+    },
+    {
+      "file": "uttara-rama-charita-bhavabhuti-belvalkar.md",
+      "wordCount": 98,
+      "charCount": 765,
+      "title": "Uttara-Rāma-Charita (Rama's Later History)"
+    },
+    {
+      "file": "lifes-handicap-being-stories-of-mine-own-people-kipling-rudyard.md",
+      "wordCount": 96,
+      "charCount": 650,
+      "title": "Life's Handicap: Being Stories of Mine Own People"
+    },
+    {
+      "file": "antiche-relazioni-dell-indie-e-della-china-abu-zayd-hasan-al-sirafi.md",
+      "wordCount": 90,
+      "charCount": 690,
+      "title": "Antiche relazioni dell'Indie e della China di due maomettani"
+    }
+  ]
+}

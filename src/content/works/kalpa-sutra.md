@@ -1,51 +1,63 @@
 ---
-title: 'Kalpa Sutra (Scripture on Monastic Discipline and Sacred Biography)'
+title: Kalpa Sutra (Scripture on Monastic Discipline and Sacred Biography)
 author:
-- Bhadrabahu
+  - Bhadrabahu
 year: -300
 language:
-- Prakrit
-- Ardhamagadhi
+  - Prakrit
+  - Ardhamagadhi
 genre:
-- Jain Scripture
-- Biography
-- Monastic Rules
-- Religious Literature
-description: |
-  The Kalpa Sutra is a canonical text of Svetambara Jainism, composed during the late Mauryan period (circa 300 BCE), which provides comprehensive documentation of early Jain philosophical and monastic traditions. Traditionally attributed to Acharya Bhadrabahu, a prominent Jain scholar, the text comprises three primary sections that systematically document the lives of the twenty-four Tirthankaras, with detailed biographical accounts of Mahavira and Parshvanatha. Its textual structure includes biographical narratives, spiritual genealogies, and extensive monastic regulatory codes. Historically significant, the manuscript illuminates the socio-religious dynamics of ancient Indian religious practices, particularly through its detailed exposition of Jain ascetic principles and ethical frameworks. The text serves a critical liturgical function, being ceremonially recited during the annual Paryushana festival, a period of religious introspection and spiritual practice for Jain practitioners. Of particular scholarly interest are its precise documentation of monastic regulations, especially those governing the chaturmasa (four-month rainy season retreat), which offer nuanced insights into the organizational structure and disciplinary practices of early Jain monastic communities. Textual analysis reveals the Kalpa Sutra's importance as a primary source for understanding the intellectual, spiritual, and organizational complexities of Jain religious development during a transformative period in the Indian subcontinent's philosophical landscape, providing scholars with a rigorous primary document for studying religious evolution and monastic institutional practices.
+  - Jain Scripture
+  - Biography
+  - Monastic Rules
+  - Religious Literature
+description: >-
+  The Kalpa Sutra is a canonical text of Svetambara Jainism, composed during the
+  late Mauryan period (circa 300 BCE), which provides comprehensive
+  documentation of early Jain philosophical and monastic traditions.
+  Traditionally attributed to Acharya Bhadrabahu, a prominent Jain scholar, the
+  text comprises three primary sections that systematically document the lives
+  of the twenty-four Tirthankaras, with detailed biographical accounts of
+  Mahavira and Parshvanatha.
 collections:
-- jain-texts
-- religious-texts
-- spiritual-texts
-- historical-literature
+  - jain-texts
+  - religious-texts
+  - spiritual-texts
+  - historical-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/kalpasutranavata00stevrich
-  type: other
-- name: 'Sacred Texts'
-  url: https://sacred-texts.com/jai/index.htm
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/kalpasutranavata00stevrich'
+    type: other
+  - name: Sacred Texts
+    url: 'https://sacred-texts.com/jai/index.htm'
+    type: other
 references:
-- name: 'Wikipedia: Kalpa Sutra'
-  url: https://en.wikipedia.org/wiki/Kalpa_S%C5%ABtra
-  type: wikipedia
-- name: 'Wikipedia: Bhadrabahu'
-  url: https://en.wikipedia.org/wiki/Bhadrabahu
-  type: wikipedia
-- name: 'Wikipedia: Mahavira'
-  url: https://en.wikipedia.org/wiki/Mahavira
-  type: wikipedia
-- name: 'Wikipedia: Tirthankara'
-  url: https://en.wikipedia.org/wiki/Tirthankara
-  type: wikipedia
-- name: 'Wikipedia: Paryushana'
-  url: https://en.wikipedia.org/wiki/Paryushana
-  type: wikipedia
-- name: 'Open Library: Kalpa Sutra (Scripture on'
-  url: https://openlibrary.org/search?q=Kalpa+Sutra+Scripture+on+Monastic+Discipline+Bhadrabahu
-  type: other
+  - name: 'Wikipedia: Kalpa Sutra'
+    url: 'https://en.wikipedia.org/wiki/Kalpa_S%C5%ABtra'
+    type: wikipedia
+  - name: 'Wikipedia: Bhadrabahu'
+    url: 'https://en.wikipedia.org/wiki/Bhadrabahu'
+    type: wikipedia
+  - name: 'Wikipedia: Mahavira'
+    url: 'https://en.wikipedia.org/wiki/Mahavira'
+    type: wikipedia
+  - name: 'Wikipedia: Tirthankara'
+    url: 'https://en.wikipedia.org/wiki/Tirthankara'
+    type: wikipedia
+  - name: 'Wikipedia: Paryushana'
+    url: 'https://en.wikipedia.org/wiki/Paryushana'
+    type: wikipedia
+  - name: 'Open Library: Kalpa Sutra (Scripture on'
+    url: >-
+      https://openlibrary.org/search?q=Kalpa+Sutra+Scripture+on+Monastic+Discipline+Bhadrabahu
+    type: other
 featured: true
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+The Kalpa Sutra is a canonical text of Svetambara Jainism, composed during the late Mauryan period (circa 300 BCE), which provides comprehensive documentation of early Jain philosophical and monastic traditions. Traditionally attributed to Acharya Bhadrabahu, a prominent Jain scholar, the text comprises three primary sections that systematically document the lives of the twenty-four Tirthankaras, with detailed biographical accounts of Mahavira and Parshvanatha. Its textual structure includes biographical narratives, spiritual genealogies, and extensive monastic regulatory codes. Historically significant, the manuscript illuminates the socio-religious dynamics of ancient Indian religious practices, particularly through its detailed exposition of Jain ascetic principles and ethical frameworks. The text serves a critical liturgical function, being ceremonially recited during the annual Paryushana festival, a period of religious introspection and spiritual practice for Jain practitioners. Of particular scholarly interest are its precise documentation of monastic regulations, especially those governing the chaturmasa (four-month rainy season retreat), which offer nuanced insights into the organizational structure and disciplinary practices of early Jain monastic communities. Textual analysis reveals the Kalpa Sutra's importance as a primary source for understanding the intellectual, spiritual, and organizational complexities of Jain religious development during a transformative period in the Indian subcontinent's philosophical landscape, providing scholars with a rigorous primary document for studying religious evolution and monastic institutional practices.
+
 ---
 
 ## Authorship and Historical Context

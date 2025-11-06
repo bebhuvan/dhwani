@@ -1,63 +1,66 @@
 ---
-title: 'Reminiscences of the Great Mutiny 1857-59: Including the relief, siege, and
-  capture of Lucknow, and the campaigns in Rohilcund and Oude'
+title: >-
+  Reminiscences of the Great Mutiny 1857-59: Including the relief, siege, and
+  capture of Lucknow, and the campaigns in Rohilcund and Oude
 author:
-- Forbes-Mitchell, William
+  - 'Forbes-Mitchell, William'
 year: 1900
 language:
-- English
+  - English
 genre:
-- Historical Literature
-description: Reminiscences of the Great Mutiny 1857-59" by William Forbes-Mitchell
-  is a historical account written in the late 19th century. The work chronicles the
-  author's personal experiences and observations during the Indian Rebellion, known
-  as the Great Mutiny, focusing particularly on events surrounding the Ninety-Third
-  Sutherland Highlanders' involvement. Forbes-Mitchell provides a first-hand perspective,
-  detailing engagements such as the relief, siege, and capture of Lucknow, while capturing
-  the valor and struggles faced by soldiers and civilians throughout the tumultuous
-  conflict. At the start of the narrative, Forbes-Mitchell reflects on his motivations
-  for writing, highlighting the urgency to document the experiences of those who participated
-  in the Mutiny as they rapidly fade from history. He recounts the Ninety-Third Highlanders'
-  journey to India after being reassigned from a mission to China, only to face the
-  chaos of the rebellion upon arrival. Through vivid anecdotes and observations, he
-  sets the stage for the tales of bravery and the horrors of war that would unfold,
-  providing insight into both personal and collective experiences as the regiment
-  prepared to march into the heart of enemy territory in order to relieve the besieged
-  garrison at Lucknow.
+  - Historical Literature
+description: >-
+  Reminiscences of the Great Mutiny 1857-59" by William Forbes-Mitchell is a
+  historical account written in the late 19th century. The work chronicles the
+  author's personal experiences and observations during the Indian Rebellion,
+  known as the Great Mutiny, focusing particularly on events surrounding the
+  Ninety-Third Sutherland Highlanders' involvement.
 collections:
-- classical-literature
+  - classical-literature
 sources:
-- name: Project Gutenberg
-  url: https://www.gutenberg.org/ebooks/33426
-  type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/33426.html.images
-  type: other
-- name: Internet Archive (Reminiscences of the great mutiny 1857-59, including the
-    relief, siege, and capture of Lucknow, and the campaigns in Rohilcund and Oude)
-  url: https://archive.org/details/reminiscencesofg00forb
-  type: other
-- name: Internet Archive (The relief of Lucknow)
-  url: https://archive.org/details/reliefoflucknow0000forb
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/33426'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/33426.html.images'
+    type: other
+  - name: >-
+      Internet Archive (Reminiscences of the great mutiny 1857-59, including the
+      relief, siege, and capture of Lucknow, and the campaigns in Rohilcund and
+      Oude)
+    url: 'https://archive.org/details/reminiscencesofg00forb'
+    type: other
+  - name: Internet Archive (The relief of Lucknow)
+    url: 'https://archive.org/details/reliefoflucknow0000forb'
+    type: other
 references:
-- name: 'Wikipedia: Reminiscences of the Great Mutiny 1857-59'
-  url: https://en.wikipedia.org/wiki/Reminiscences_of_the_Great_Mutiny_1857-59
-  type: other
-- name: 'Wikipedia: Forbes-Mitchell'
-  url: https://en.wikipedia.org/wiki/Forbes-Mitchell
-  type: other
-- name: 'Open Library: Reminiscences of the Great Mutiny 1857-59: Including the relief,
-    siege, and capture of Lucknow, and the campaigns in Rohilcund and Oude'
-  url: https://openlibrary.org/search?q=Reminiscences%20of%20the%20Great%20Mutiny%201857-59%3A%20Including%20the%20relief%2C%20siege%2C%20and%20capture%20of%20Lucknow%2C%20and%20the%20campaigns%20in%20Rohilcund%20and%20Oude%20Forbes-Mitchell%2C%20William
-  type: other
+  - name: 'Wikipedia: Reminiscences of the Great Mutiny 1857-59'
+    url: 'https://en.wikipedia.org/wiki/Reminiscences_of_the_Great_Mutiny_1857-59'
+    type: other
+  - name: 'Wikipedia: Forbes-Mitchell'
+    url: 'https://en.wikipedia.org/wiki/Forbes-Mitchell'
+    type: other
+  - name: >-
+      Open Library: Reminiscences of the Great Mutiny 1857-59: Including the
+      relief, siege, and capture of Lucknow, and the campaigns in Rohilcund and
+      Oude
+    url: >-
+      https://openlibrary.org/search?q=Reminiscences%20of%20the%20Great%20Mutiny%201857-59%3A%20Including%20the%20relief%2C%20siege%2C%20and%20capture%20of%20Lucknow%2C%20and%20the%20campaigns%20in%20Rohilcund%20and%20Oude%20Forbes-Mitchell%2C%20William
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
 tags:
-- public domain
-- India -- History -- Sepoy Rebellion, 1857-1858 -- Personal narratives, English
-- Lucknow (India) -- History -- Siege, 1857 -- Personal narratives
-- Forbes-Mitchell, William
+  - public domain
+  - >-
+    India -- History -- Sepoy Rebellion, 1857-1858 -- Personal narratives,
+    English
+  - 'Lucknow (India) -- History -- Siege, 1857 -- Personal narratives'
+  - 'Forbes-Mitchell, William'
+---
+## Historical Context
+
+Reminiscences of the Great Mutiny 1857-59" by William Forbes-Mitchell is a historical account written in the late 19th century. The work chronicles the author's personal experiences and observations during the Indian Rebellion, known as the Great Mutiny, focusing particularly on events surrounding the Ninety-Third Sutherland Highlanders' involvement. Forbes-Mitchell provides a first-hand perspective, detailing engagements such as the relief, siege, and capture of Lucknow, while capturing the valor and struggles faced by soldiers and civilians throughout the tumultuous conflict. At the start of the narrative, Forbes-Mitchell reflects on his motivations for writing, highlighting the urgency to document the experiences of those who participated in the Mutiny as they rapidly fade from history. He recounts the Ninety-Third Highlanders' journey to India after being reassigned from a mission to China, only to face the chaos of the rebellion upon arrival. Through vivid anecdotes and observations, he sets the stage for the tales of bravery and the horrors of war that would unfold, providing insight into both personal and collective experiences as the regiment prepared to march into the heart of enemy territory in order to relieve the besieged garrison at Lucknow.
+
 ---
 
 # Reminiscences of the Great Mutiny 1857-59: Including the relief, siege, and capture of Lucknow, and the campaigns in Rohilcund and Oude

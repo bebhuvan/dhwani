@@ -1,44 +1,56 @@
 ---
-title: 'The Bhagavad Gita'
+title: The Bhagavad Gita
 author:
-- Vyasa (Traditional)
-- Unknown Translator
+  - Vyasa (Traditional)
+  - Unknown Translator
 year: 1899
 language:
-- Sanskrit
-- English
+  - Sanskrit
+  - English
 genre:
-- Philosophy
-- Religious Texts
-- Classical Literature
-description: |
-  The Bhagavad Gita, traditionally attributed to the sage Vyasa within the epic Mahabharata, represents a foundational philosophical and spiritual text of Hindu philosophical discourse emerging from the classical Sanskrit literary tradition. This 1899 English translation, published by the Christian Literature Society for India in London and Madras, offers a critical scholarly rendering that situates the text within broader intellectual and theological contexts of late 19th-century comparative religious studies. Composed approximately between 400 BCE and 200 CE, the text presents a profound dialogue between Prince Arjuna and the divine Krishna on the battlefield, exploring fundamental philosophical questions of duty (dharma), ethical action, spiritual liberation, and the nature of existence. The work systematically examines complex philosophical concepts including karma (action), jnana (knowledge), bhakti (devotional practice), and the relationship between individual consciousness and universal divine principles. This translation provides comprehensive explanatory notes that illuminate the text's intricate philosophical and metaphysical arguments, making accessible its nuanced discussions of human moral responsibility, spiritual discipline, and transcendental understanding. As a critical junction between philosophical reflection and spiritual practice, the Bhagavad Gita articulates a sophisticated philosophical framework that has profoundly influenced Indian intellectual traditions, religious thought, and subsequent global philosophical discourse. Its enduring significance lies in its sophisticated synthesis of action, knowledge, and devotional spirituality, offering a nuanced exploration of human potential for spiritual transformation and ethical engagement with the world's complexities.
+  - Philosophy
+  - Religious Texts
+  - Classical Literature
+description: >-
+  The Bhagavad Gita, traditionally attributed to the sage Vyasa within the epic
+  Mahabharata, represents a foundational philosophical and spiritual text of
+  Hindu philosophical discourse emerging from the classical Sanskrit literary
+  tradition. This 1899 English translation, published by the Christian
+  Literature Society for India in London and Madras, offers a critical scholarly
+  rendering that situates the text within broader intellectual and theological
+  contexts of late 19th-century comparative religious studies.
 collections:
-- ancient-wisdom
-- spiritual-texts
-- classical-literature
+  - ancient-wisdom
+  - spiritual-texts
+  - classical-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/bhagavadgitawith00lond
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/bhagavadgitawith00lond'
+    type: other
 references:
-- name: 'Wikipedia: Bhagavad Gita'
-  url: https://en.wikipedia.org/wiki/Bhagavad_Gita
-  type: wikipedia
-- name: 'Wikisource: The Bhagavad Gita'
-  url: https://en.wikisource.org/wiki/The_Bhagavad_Gita
-  type: wikisource
-- name: 'Wikisource: Arnold Translation'
-  url: https://en.wikisource.org/wiki/The_Bhagavad_Gita_(Arnold_translation)
-  type: wikisource
-- name: 'OpenLibrary Search'
-  url: https://openlibrary.org/search?q=Bhagavad+Gita+Christian+Literature+Society+1899
-  type: other
-- name: 'Wikidata: Bhagavad Gita'
-  url: https://www.wikidata.org/wiki/Q46802
-  type: other
+  - name: 'Wikipedia: Bhagavad Gita'
+    url: 'https://en.wikipedia.org/wiki/Bhagavad_Gita'
+    type: wikipedia
+  - name: 'Wikisource: The Bhagavad Gita'
+    url: 'https://en.wikisource.org/wiki/The_Bhagavad_Gita'
+    type: wikisource
+  - name: 'Wikisource: Arnold Translation'
+    url: 'https://en.wikisource.org/wiki/The_Bhagavad_Gita_(Arnold_translation)'
+    type: wikisource
+  - name: OpenLibrary Search
+    url: >-
+      https://openlibrary.org/search?q=Bhagavad+Gita+Christian+Literature+Society+1899
+    type: other
+  - name: 'Wikidata: Bhagavad Gita'
+    url: 'https://www.wikidata.org/wiki/Q46802'
+    type: other
 featured: false
-publishDate: 2025-01-22
+publishDate: 2025-01-22T00:00:00.000Z
+---
+## Historical Context
+
+The Bhagavad Gita, traditionally attributed to the sage Vyasa within the epic Mahabharata, represents a foundational philosophical and spiritual text of Hindu philosophical discourse emerging from the classical Sanskrit literary tradition. This 1899 English translation, published by the Christian Literature Society for India in London and Madras, offers a critical scholarly rendering that situates the text within broader intellectual and theological contexts of late 19th-century comparative religious studies. Composed approximately between 400 BCE and 200 CE, the text presents a profound dialogue between Prince Arjuna and the divine Krishna on the battlefield, exploring fundamental philosophical questions of duty (dharma), ethical action, spiritual liberation, and the nature of existence. The work systematically examines complex philosophical concepts including karma (action), jnana (knowledge), bhakti (devotional practice), and the relationship between individual consciousness and universal divine principles. This translation provides comprehensive explanatory notes that illuminate the text's intricate philosophical and metaphysical arguments, making accessible its nuanced discussions of human moral responsibility, spiritual discipline, and transcendental understanding. As a critical junction between philosophical reflection and spiritual practice, the Bhagavad Gita articulates a sophisticated philosophical framework that has profoundly influenced Indian intellectual traditions, religious thought, and subsequent global philosophical discourse. Its enduring significance lies in its sophisticated synthesis of action, knowledge, and devotional spirituality, offering a nuanced exploration of human potential for spiritual transformation and ethical engagement with the world's complexities.
+
 ---
 
 # The Bhagavad Gita

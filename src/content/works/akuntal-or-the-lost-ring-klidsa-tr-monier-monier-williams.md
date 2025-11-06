@@ -1,36 +1,47 @@
 ---
 title: 'Śakuntalā; or, The Lost Ring'
 author:
-- Kālidāsa
-- tr. Monier Monier-Williams
+  - Kālidāsa
+  - tr. Monier Monier-Williams
 year: 1855
 language:
-- English
+  - English
 genre:
-- Literature
-description: |
-  Śakuntalā; or, The Lost Ring represents a seminal translation of Kālidāsa's classical Sanskrit play, a cornerstone text of ancient Indian literature produced during the Gupta period (circa 4th-5th century CE). This renowned dramatic work, translated by Monier Monier-Williams, exemplifies the sophisticated literary traditions of classical India, offering scholarly audiences critical insights into Sanskrit dramatic conventions, mythological narratives, and cultural expressions. The narrative, originally composed in Sanskrit, centers on the romantic relationship between King Dushyanta and Śakuntalā, a tale drawn from the epic Mahābhārata, exploring themes of love, divine intervention, recognition, and social dynamics within ancient Indian society. Kālidāsa, often referred to as the "Shakespeare of India," crafted a multilayered narrative that interweaves human emotional experience with cosmic spiritual principles characteristic of classical Indian aesthetic and philosophical frameworks. This translation is particularly significant as it emerged during the colonial period, representing an early scholarly engagement with Indian literary heritage by British Orientalist scholarship. Monier-Williams, a prominent linguist and Sanskrit scholar, provided crucial interpretative work that facilitated Western academic understanding of Indian classical literature. The text's publication in 1855 marked an important moment in cross-cultural literary transmission, enabling broader intellectual exchange and appreciation of Indian cultural complexity. As a digitally preserved document, this translation continues to serve as a critical resource for researchers, comparative literature scholars, and students of Indian cultural studies, offering nuanced perspectives on pre-modern Indian social structures, artistic expression, and narrative traditions.
+  - Literature
+description: >-
+  Śakuntalā; or, The Lost Ring represents a seminal translation of Kālidāsa's
+  classical Sanskrit play, a cornerstone text of ancient Indian literature
+  produced during the Gupta period (circa 4th-5th century CE). This renowned
+  dramatic work, translated by Monier Monier-Williams, exemplifies the
+  sophisticated literary traditions of classical India, offering scholarly
+  audiences critical insights into Sanskrit dramatic conventions, mythological
+  narratives, and cultural expressions.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/12169
-  type: other
-- name: 'Internet Archive'
-  url: https://archive.org/details/akoontalorlostr00klgoog
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/12169'
+    type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/akoontalorlostr00klgoog'
+    type: other
 references:
-- name: 'Wikipedia: Abhijnanashakuntalam'
-  url: https://en.wikipedia.org/wiki/Abhijnanashakuntalam
-  type: wikipedia
-- name: 'Wikipedia: Monier Monier-Williams'
-  url: https://en.wikipedia.org/wiki/Monier_Monier-Williams
-  type: wikipedia
-- name: 'Open Library: Śakuntalā; or, The Lost'
-  url: https://openlibrary.org/search?q=Śakuntalā+or+The+Lost+Ring+year+Kālidāsa
-  type: other
+  - name: 'Wikipedia: Abhijnanashakuntalam'
+    url: 'https://en.wikipedia.org/wiki/Abhijnanashakuntalam'
+    type: wikipedia
+  - name: 'Wikipedia: Monier Monier-Williams'
+    url: 'https://en.wikipedia.org/wiki/Monier_Monier-Williams'
+    type: wikipedia
+  - name: 'Open Library: Śakuntalā; or, The Lost'
+    url: 'https://openlibrary.org/search?q=Śakuntalā+or+The+Lost+Ring+year+Kālidāsa'
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+Śakuntalā; or, The Lost Ring represents a seminal translation of Kālidāsa's classical Sanskrit play, a cornerstone text of ancient Indian literature produced during the Gupta period (circa 4th-5th century CE). This renowned dramatic work, translated by Monier Monier-Williams, exemplifies the sophisticated literary traditions of classical India, offering scholarly audiences critical insights into Sanskrit dramatic conventions, mythological narratives, and cultural expressions. The narrative, originally composed in Sanskrit, centers on the romantic relationship between King Dushyanta and Śakuntalā, a tale drawn from the epic Mahābhārata, exploring themes of love, divine intervention, recognition, and social dynamics within ancient Indian society. Kālidāsa, often referred to as the "Shakespeare of India," crafted a multilayered narrative that interweaves human emotional experience with cosmic spiritual principles characteristic of classical Indian aesthetic and philosophical frameworks. This translation is particularly significant as it emerged during the colonial period, representing an early scholarly engagement with Indian literary heritage by British Orientalist scholarship. Monier-Williams, a prominent linguist and Sanskrit scholar, provided crucial interpretative work that facilitated Western academic understanding of Indian classical literature. The text's publication in 1855 marked an important moment in cross-cultural literary transmission, enabling broader intellectual exchange and appreciation of Indian cultural complexity. As a digitally preserved document, this translation continues to serve as a critical resource for researchers, comparative literature scholars, and students of Indian cultural studies, offering nuanced perspectives on pre-modern Indian social structures, artistic expression, and narrative traditions.
+
 ---
 
 ## Overview

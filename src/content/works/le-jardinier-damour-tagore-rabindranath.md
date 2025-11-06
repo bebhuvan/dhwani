@@ -1,32 +1,43 @@
 ---
-title: "Le jardinier d'amour"
+title: Le jardinier d'amour
 author:
-- Tagore, Rabindranath
+  - 'Tagore, Rabindranath'
 year: 1926
 language:
-- French
+  - French
 genre:
-- Poetry
-description: |
-  Written during the twilight of British colonial rule in India and translated into French at a time of growing international literary exchange, "Le jardinier d'amour" emerged from Tagore's prolific period of cross-cultural artistic creation in the 1920s. As the first non-European Nobel laureate in literature (1913), Tagore was instrumental in bridging Indian poetic traditions with global modernist movements, using his multilingual capabilities to communicate complex emotional landscapes. A collection of lyrical poems exploring themes of love, longing, and nature through various poetic voices, Tagore's verses examine the interplay between desire and loss, presenting intimate portraits of romantic relationships and human connection.
+  - Poetry
+description: >-
+  Written during the twilight of British colonial rule in India and translated
+  into French at a time of growing international literary exchange, "Le
+  jardinier d'amour" emerged from Tagore's prolific period of cross-cultural
+  artistic creation in the 1920s. As the first non-European Nobel laureate in
+  literature (1913), Tagore was instrumental in bridging Indian poetic
+  traditions with global modernist movements, using his multilingual
+  capabilities to communicate complex emotional landscapes.
 collections:
-- poetry-collection
+  - poetry-collection
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/62508
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/62508.html.images
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/62508'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/62508.html.images'
+    type: other
 references:
-- name: "Open Library: The Gardener"
-  url: https://openlibrary.org/search?q=The+Gardener+Tagore
-  type: other
-- name: "Wikipedia: Rabindranath Tagore"
-  url: https://en.wikipedia.org/wiki/Rabindranath_Tagore
-  type: other
+  - name: 'Open Library: The Gardener'
+    url: 'https://openlibrary.org/search?q=The+Gardener+Tagore'
+    type: other
+  - name: 'Wikipedia: Rabindranath Tagore'
+    url: 'https://en.wikipedia.org/wiki/Rabindranath_Tagore'
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+Written during the twilight of British colonial rule in India and translated into French at a time of growing international literary exchange, "Le jardinier d'amour" emerged from Tagore's prolific period of cross-cultural artistic creation in the 1920s. As the first non-European Nobel laureate in literature (1913), Tagore was instrumental in bridging Indian poetic traditions with global modernist movements, using his multilingual capabilities to communicate complex emotional landscapes. A collection of lyrical poems exploring themes of love, longing, and nature through various poetic voices, Tagore's verses examine the interplay between desire and loss, presenting intimate portraits of romantic relationships and human connection.
+
 ---
 
 # Le jardinier d'amour

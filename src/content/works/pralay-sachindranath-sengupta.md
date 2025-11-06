@@ -1,40 +1,52 @@
 ---
-title: 'Pralay'
+title: Pralay
 author:
-- Sachindranath Sengupta
+  - Sachindranath Sengupta
 year: 1932
 language:
-- Bengali
+  - Bengali
 genre:
-- Drama
-- Theatre
-- Social Drama
-description: |
-  Pralay, a seminal Bengali social drama written by Sachindranath Sengupta in 1932, emerges as a critical theatrical exploration of the complex socio-political landscape of interwar Bengal during the intensifying Indian nationalist movement. Set against the backdrop of colonial oppression and emerging social transformations, the play critically examines institutional failures, familial tensions, and moral dilemmas confronting Bengali middle-class society. Sengupta, a prominent intellectual and playwright associated with the progressive theatre movement, deploys a sophisticated ensemble technique and compressed dialogic structures to dissect the systemic contradictions underlying contemporary social dynamics. The work strategically uses dramatic representation to interrogate traditional familial hierarchies, gender relations, and the psychological impact of colonial marginalization on indigenous social structures. Through its nuanced narrative, Pralay illuminates the generational conflicts, economic uncertainties, and ideological tensions characteristic of Bengal's evolving intellectual and political consciousness during the 1930s. The drama's significance extends beyond theatrical representation, functioning as a critical social document that captures the psychological and structural negotiations of a society in transition. Its innovative dramatic techniques—characterized by minimal staging, intense interpersonal interactions, and symbolic character archetypes—reflect the experimental aesthetics of Bengal's progressive theatre tradition. By presenting complex human experiences within a rigorous dramatic framework, Pralay contributes substantively to understanding the intricate cultural negotiations of early 20th-century Bengali society, offering profound insights into the intersection of personal struggle and collective social transformation during a pivotal period of Indian cultural and political history.
+  - Drama
+  - Theatre
+  - Social Drama
+description: >-
+  Pralay, a seminal Bengali social drama written by Sachindranath Sengupta in
+  1932, emerges as a critical theatrical exploration of the complex
+  socio-political landscape of interwar Bengal during the intensifying Indian
+  nationalist movement. Set against the backdrop of colonial oppression and
+  emerging social transformations, the play critically examines institutional
+  failures, familial tensions, and moral dilemmas confronting Bengali
+  middle-class society.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Internet Archive (DLI Collection)'
-  url: https://archive.org/details/in.ernet.dli.2015.354377
-  type: other
+  - name: Internet Archive (DLI Collection)
+    url: 'https://archive.org/details/in.ernet.dli.2015.354377'
+    type: other
 references:
-- name: 'Banglapedia: Sachindra Nath Sengupta'
-  url: https://en.banglapedia.org/index.php/Sengupta,_Sachindra_Nath
-  type: other
-- name: 'Indian Etzone'
-  url: https://www.indianetzone.com/33/sachindranath_sengupta_indian_theatre_personality.htm
-  type: other
-- name: 'Wikidata'
-  url: https://www.wikidata.org/wiki/Q7396747
-  type: other
-- name: 'Open Library search'
-  url: https://openlibrary.org/search?q=Pralay%20Sachindranath%20Sengupta
-  type: openlibrary
-- name: 'Project Gutenberg search'
-  url: https://www.gutenberg.org/ebooks/search/?query=Sachindranath%20Sengupta
-  type: other
+  - name: 'Banglapedia: Sachindra Nath Sengupta'
+    url: 'https://en.banglapedia.org/index.php/Sengupta,_Sachindra_Nath'
+    type: other
+  - name: Indian Etzone
+    url: >-
+      https://www.indianetzone.com/33/sachindranath_sengupta_indian_theatre_personality.htm
+    type: other
+  - name: Wikidata
+    url: 'https://www.wikidata.org/wiki/Q7396747'
+    type: other
+  - name: Open Library search
+    url: 'https://openlibrary.org/search?q=Pralay%20Sachindranath%20Sengupta'
+    type: openlibrary
+  - name: Project Gutenberg search
+    url: 'https://www.gutenberg.org/ebooks/search/?query=Sachindranath%20Sengupta'
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+Pralay, a seminal Bengali social drama written by Sachindranath Sengupta in 1932, emerges as a critical theatrical exploration of the complex socio-political landscape of interwar Bengal during the intensifying Indian nationalist movement. Set against the backdrop of colonial oppression and emerging social transformations, the play critically examines institutional failures, familial tensions, and moral dilemmas confronting Bengali middle-class society. Sengupta, a prominent intellectual and playwright associated with the progressive theatre movement, deploys a sophisticated ensemble technique and compressed dialogic structures to dissect the systemic contradictions underlying contemporary social dynamics. The work strategically uses dramatic representation to interrogate traditional familial hierarchies, gender relations, and the psychological impact of colonial marginalization on indigenous social structures. Through its nuanced narrative, Pralay illuminates the generational conflicts, economic uncertainties, and ideological tensions characteristic of Bengal's evolving intellectual and political consciousness during the 1930s. The drama's significance extends beyond theatrical representation, functioning as a critical social document that captures the psychological and structural negotiations of a society in transition. Its innovative dramatic techniques—characterized by minimal staging, intense interpersonal interactions, and symbolic character archetypes—reflect the experimental aesthetics of Bengal's progressive theatre tradition. By presenting complex human experiences within a rigorous dramatic framework, Pralay contributes substantively to understanding the intricate cultural negotiations of early 20th-century Bengali society, offering profound insights into the intersection of personal struggle and collective social transformation during a pivotal period of Indian cultural and political history.
+
 ---
 
 # Pralay

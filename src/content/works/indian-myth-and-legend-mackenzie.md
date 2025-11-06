@@ -1,35 +1,44 @@
 ---
-title: 'Indian Myth and Legend'
+title: Indian Myth and Legend
 author:
-- Donald A. Mackenzie
+  - Donald A. Mackenzie
 year: 1913
 language:
-- English
+  - English
 genre:
-- Mythology
-- Folklore
-- Popular Scholarship
-description: |
-  Donald A. Mackenzie's "Indian Myth and Legend" represents a pivotal scholarly intervention during the early 20th-century British colonial period, synthesizing complex Sanskrit narrative traditions for a Western readership emerging from Victorian-era Orientalist scholarship. Published in 1913, the work emerges from an intellectual milieu characterized by growing European academic interest in comparative mythology and anthropological approaches to non-Western cultural systems. Mackenzie's compendium systematically explores Hindu cosmological narratives, drawing extensively from foundational textual sources including the Vedas, Puranas, and classical epics like the Ramayana and Mahabharata. By rendering intricate theological and philosophical concepts accessible to metropolitan audiences, the text exemplifies contemporary scholarly attempts to translate and interpret Indian intellectual heritage through a comparative hermeneutic lens. The volume's comprehensive approach encompasses divine genealogies, avatar narratives, theological explanations of cosmic cycles, and intricate mythological genealogies, offering European readers a structured introduction to the profound complexity of Hindu mythological discourse. Warwick Goble's accompanying illustrations further contextualize the narratives, providing visual representations that complement Mackenzie's scholarly exposition. Beyond its immediate historical context, the work represents an important moment in cross-cultural intellectual exchange, bridging scholarly understanding between colonial metropolitan centers and Indian philosophical traditions. While inevitably reflecting contemporary Orientalist perspectives, Mackenzie's text simultaneously demonstrated remarkable scholarly rigor in presenting nuanced mythological interpretations that transcended simplistic exoticization, establishing a significant precedent for subsequent comparative mythological studies and contributing to broader academic dialogues about non-Western cultural epistemologies.
+  - Mythology
+  - Folklore
+  - Popular Scholarship
+description: >-
+  Donald A. Mackenzie's "Indian Myth and Legend" represents a pivotal scholarly
+  intervention during the early 20th-century British colonial period,
+  synthesizing complex Sanskrit narrative traditions for a Western readership
+  emerging from Victorian-era Orientalist scholarship.
 collections:
-- classical-literature
-- spiritual-texts
+  - classical-literature
+  - spiritual-texts
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/47228
-  type: other
-- name: 'Internet Archive'
-  url: https://archive.org/details/indianmythlegend01mack/page/n5/mode/2up
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/47228'
+    type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/indianmythlegend01mack/page/n5/mode/2up'
+    type: other
 references:
-- name: 'Wikipedia: Donald Alexander Mackenzie'
-  url: https://en.wikipedia.org/wiki/Donald_Alexander_Mackenzie
-  type: wikipedia
-- name: 'Open Library: Indian Myth and Legend'
-  url: https://openlibrary.org/search?q=Indian+Myth+and+Legend+by+Donald+A.+Mackenzie&mode=everything
-  type: other
+  - name: 'Wikipedia: Donald Alexander Mackenzie'
+    url: 'https://en.wikipedia.org/wiki/Donald_Alexander_Mackenzie'
+    type: wikipedia
+  - name: 'Open Library: Indian Myth and Legend'
+    url: >-
+      https://openlibrary.org/search?q=Indian+Myth+and+Legend+by+Donald+A.+Mackenzie&mode=everything
+    type: other
 featured: false
-publishDate: 2025-10-04
+publishDate: 2025-10-04T00:00:00.000Z
+---
+## Historical Context
+
+Donald A. Mackenzie's "Indian Myth and Legend" represents a pivotal scholarly intervention during the early 20th-century British colonial period, synthesizing complex Sanskrit narrative traditions for a Western readership emerging from Victorian-era Orientalist scholarship. Published in 1913, the work emerges from an intellectual milieu characterized by growing European academic interest in comparative mythology and anthropological approaches to non-Western cultural systems. Mackenzie's compendium systematically explores Hindu cosmological narratives, drawing extensively from foundational textual sources including the Vedas, Puranas, and classical epics like the Ramayana and Mahabharata. By rendering intricate theological and philosophical concepts accessible to metropolitan audiences, the text exemplifies contemporary scholarly attempts to translate and interpret Indian intellectual heritage through a comparative hermeneutic lens. The volume's comprehensive approach encompasses divine genealogies, avatar narratives, theological explanations of cosmic cycles, and intricate mythological genealogies, offering European readers a structured introduction to the profound complexity of Hindu mythological discourse. Warwick Goble's accompanying illustrations further contextualize the narratives, providing visual representations that complement Mackenzie's scholarly exposition. Beyond its immediate historical context, the work represents an important moment in cross-cultural intellectual exchange, bridging scholarly understanding between colonial metropolitan centers and Indian philosophical traditions. While inevitably reflecting contemporary Orientalist perspectives, Mackenzie's text simultaneously demonstrated remarkable scholarly rigor in presenting nuanced mythological interpretations that transcended simplistic exoticization, establishing a significant precedent for subsequent comparative mythological studies and contributing to broader academic dialogues about non-Western cultural epistemologies.
+
 ---
 
 # Indian Myth and Legend

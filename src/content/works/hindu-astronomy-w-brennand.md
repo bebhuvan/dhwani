@@ -1,29 +1,37 @@
 ---
-title: 'Hindu Astronomy'
+title: Hindu Astronomy
 author:
-- W. Brennand
+  - W. Brennand
 year: 1896
 language:
-- English
+  - English
 genre:
-- Scientific Literature
-- Historical Literature
-- Astronomy
-description: |
-  During the late 19th century, W. Brennand's scholarly examination of Hindu astronomy emerged as a critical scholarly intervention within the complex landscape of colonial intellectual discourse and indigenous scientific knowledge. Published in 1896, this comprehensive work represented a significant academic exploration of traditional Indian astronomical practices, methodically documenting the sophisticated mathematical and observational techniques developed by scholars within the Hindu scientific tradition. Set against the backdrop of British colonial scholarship's increasing engagement with indigenous knowledge systems, Brennand's text meticulously analyzed astronomical computational methods, celestial observation techniques, and mathematical frameworks that had been developed across centuries of Indian scientific practice. The work situates Hindu astronomical knowledge within a broader intellectual context, demonstrating the nuanced computational strategies and astronomical modeling techniques that characterized advanced scientific thinking in pre-colonial Indian intellectual traditions. By systematically detailing astronomical instruments, computational algorithms, and cosmological understanding, Brennand provided European scholarly audiences with an unprecedented scholarly assessment of the mathematical and observational sophistication inherent in Hindu astronomical traditions. His documentation importantly preserved and contextualized intricate knowledge systems that might otherwise have been marginalized or overlooked during the colonial period. The text serves not merely as a historical document but as a critical scholarly intervention that acknowledged the intellectual achievements of Indian astronomers, challenging prevailing colonial narratives about scientific development and intellectual capacity in non-European cultural contexts. Brennand's work remains a significant scholarly resource for understanding the depth and complexity of traditional Indian scientific methodologies.
+  - Scientific Literature
+  - Historical Literature
+  - Astronomy
+description: >-
+  During the late 19th century, W. Brennand's scholarly examination of Hindu
+  astronomy emerged as a critical scholarly intervention within the complex
+  landscape of colonial intellectual discourse and indigenous scientific
+  knowledge.
 collections:
-- modern-literature
-- spiritual-texts
+  - modern-literature
+  - spiritual-texts
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/hinduastronomy00brenuoft
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/hinduastronomy00brenuoft'
+    type: other
 references:
-- name: 'Open Library'
-  url: https://openlibrary.org/search?q=Hindu+astronomy&mode=everything
-  type: other
+  - name: Open Library
+    url: 'https://openlibrary.org/search?q=Hindu+astronomy&mode=everything'
+    type: other
 featured: false
-publishDate: 2025-09-28
+publishDate: 2025-09-28T00:00:00.000Z
+---
+## Historical Context
+
+During the late 19th century, W. Brennand's scholarly examination of Hindu astronomy emerged as a critical scholarly intervention within the complex landscape of colonial intellectual discourse and indigenous scientific knowledge. Published in 1896, this comprehensive work represented a significant academic exploration of traditional Indian astronomical practices, methodically documenting the sophisticated mathematical and observational techniques developed by scholars within the Hindu scientific tradition. Set against the backdrop of British colonial scholarship's increasing engagement with indigenous knowledge systems, Brennand's text meticulously analyzed astronomical computational methods, celestial observation techniques, and mathematical frameworks that had been developed across centuries of Indian scientific practice. The work situates Hindu astronomical knowledge within a broader intellectual context, demonstrating the nuanced computational strategies and astronomical modeling techniques that characterized advanced scientific thinking in pre-colonial Indian intellectual traditions. By systematically detailing astronomical instruments, computational algorithms, and cosmological understanding, Brennand provided European scholarly audiences with an unprecedented scholarly assessment of the mathematical and observational sophistication inherent in Hindu astronomical traditions. His documentation importantly preserved and contextualized intricate knowledge systems that might otherwise have been marginalized or overlooked during the colonial period. The text serves not merely as a historical document but as a critical scholarly intervention that acknowledged the intellectual achievements of Indian astronomers, challenging prevailing colonial narratives about scientific development and intellectual capacity in non-European cultural contexts. Brennand's work remains a significant scholarly resource for understanding the depth and complexity of traditional Indian scientific methodologies.
+
 ---
 
 # Hindu Astronomy

@@ -1,40 +1,49 @@
 ---
-title: 'The Little Clay Cart (Mṛcchakatika)'
+title: The Little Clay Cart (Mṛcchakatika)
 author:
-- Śūdraka
+  - Śūdraka
 year: 400
 language:
-- English
-- Sanskrit
+  - English
+  - Sanskrit
 genre:
-- Classical Literature
-- Drama
-- Poetry
-description: |
-  The Little Clay Cart (Mṛcchakatika) by Śūdraka represents a pinnacle of classical Sanskrit dramatic literature from the Gupta period (c. 320-550 CE), a transformative era of intellectual and artistic achievement in Indian cultural history. Composed during a time of remarkable social complexity, the play offers profound insights into urban life in ancient India, particularly the sophisticated social dynamics of Ujjain, a prominent metropolitan center. The ten-act drama explores the nuanced relationship between Cārudatta, an impoverished but noble merchant, and Vasantasenā, a cultured courtesan, whose narrative transcends conventional social boundaries and challenges rigid hierarchical structures. Through intricate characterizations and multilayered dramatic elements, Śūdraka masterfully depicts themes of love, social mobility, moral integrity, and the intricate interpersonal relationships that defined urban Sanskrit society. While little is definitively known about the playwright himself, the work demonstrates extraordinary literary sophistication, blending comedic and tragic elements with remarkable psychological depth. The text is significant not merely as a literary artifact but as a complex sociological document that reveals the intellectual and emotional landscapes of classical Indian urban civilization. Its nuanced portrayal of characters from diverse social strata—merchants, courtesans, criminals, and aristocrats—provides unprecedented anthropological insights into the social fluidity and cultural complexity of the period. The play's enduring importance lies in its humanistic approach, presenting characters as multidimensional individuals whose worth is determined by personal virtue rather than social status, a revolutionary perspective for its time and a testament to the progressive intellectual currents of classical Indian dramatic traditions.
+  - Classical Literature
+  - Drama
+  - Poetry
+description: >-
+  The Little Clay Cart (Mṛcchakatika) by Śūdraka represents a pinnacle of
+  classical Sanskrit dramatic literature from the Gupta period (c. 320-550 CE),
+  a transformative era of intellectual and artistic achievement in Indian
+  cultural history.
 collections:
-- ancient-wisdom
-- poetry-collection
-- classical-literature
+  - ancient-wisdom
+  - poetry-collection
+  - classical-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/littleclaycartmr00sudruoft/page/n7/mode/2up
-  type: other
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/21020
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/littleclaycartmr00sudruoft/page/n7/mode/2up'
+    type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/21020'
+    type: other
 references:
-- name: 'Wikipedia: Mṛcchakatika'
-  url: https://en.wikipedia.org/wiki/M%E1%B9%9Bcchakatika
-  type: wikipedia
-- name: 'Wikipedia: Shudraka'
-  url: https://en.wikipedia.org/wiki/Shudraka
-  type: wikipedia
-- name: 'Open Library: The Little Clay Cart'
-  url: https://openlibrary.org/search?q=The+Little+Clay+Cart+Mṛcchakatika+year+Śūdraka
-  type: other
+  - name: 'Wikipedia: Mṛcchakatika'
+    url: 'https://en.wikipedia.org/wiki/M%E1%B9%9Bcchakatika'
+    type: wikipedia
+  - name: 'Wikipedia: Shudraka'
+    url: 'https://en.wikipedia.org/wiki/Shudraka'
+    type: wikipedia
+  - name: 'Open Library: The Little Clay Cart'
+    url: >-
+      https://openlibrary.org/search?q=The+Little+Clay+Cart+Mṛcchakatika+year+Śūdraka
+    type: other
 featured: true
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+The Little Clay Cart (Mṛcchakatika) by Śūdraka represents a pinnacle of classical Sanskrit dramatic literature from the Gupta period (c. 320-550 CE), a transformative era of intellectual and artistic achievement in Indian cultural history. Composed during a time of remarkable social complexity, the play offers profound insights into urban life in ancient India, particularly the sophisticated social dynamics of Ujjain, a prominent metropolitan center. The ten-act drama explores the nuanced relationship between Cārudatta, an impoverished but noble merchant, and Vasantasenā, a cultured courtesan, whose narrative transcends conventional social boundaries and challenges rigid hierarchical structures. Through intricate characterizations and multilayered dramatic elements, Śūdraka masterfully depicts themes of love, social mobility, moral integrity, and the intricate interpersonal relationships that defined urban Sanskrit society. While little is definitively known about the playwright himself, the work demonstrates extraordinary literary sophistication, blending comedic and tragic elements with remarkable psychological depth. The text is significant not merely as a literary artifact but as a complex sociological document that reveals the intellectual and emotional landscapes of classical Indian urban civilization. Its nuanced portrayal of characters from diverse social strata—merchants, courtesans, criminals, and aristocrats—provides unprecedented anthropological insights into the social fluidity and cultural complexity of the period. The play's enduring importance lies in its humanistic approach, presenting characters as multidimensional individuals whose worth is determined by personal virtue rather than social status, a revolutionary perspective for its time and a testament to the progressive intellectual currents of classical Indian dramatic traditions.
+
 ---
 
 # The Little Clay Cart (Mṛcchakatika)

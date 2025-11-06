@@ -1,47 +1,58 @@
 ---
 title: 'The Kathá Sarit Ságara: Or, Ocean of the Streams of Story'
 author:
-- Somadeva Bhaṭṭa
-- tr. C. H. Tawney
+  - Somadeva Bhaṭṭa
+  - tr. C. H. Tawney
 year: 1880
 language:
-- English
-- Sanskrit
+  - English
+  - Sanskrit
 genre:
-- Classical Literature
-- Folk Tales
-- Mythology
-description: |
-  The Kathasaritsagara, a monumental compilation of Sanskrit narratives by Somadeva Bhatta, represents a pinnacle of medieval Indian literary scholarship from 11th-century Kashmir during the culturally efflorescent Lohara dynasty. Composed as a literary gift for Queen Suryamati, the work synthesizes hundreds of interconnected tales drawn from diverse narrative traditions, including folkloric, mythological, and courtly storytelling genres. Structured as an intricate narrative frame, the text weaves together complex stories of kings, merchants, courtesans, ascetics, and supernatural beings, reflecting the sophisticated intellectual and cultural milieu of medieval Kashmiri royal courts. Somadeva, a court poet and accomplished Sanskrit scholar, demonstrated remarkable narrative skill by creating a cohesive literary tapestry that preserved and reimagined ancient storytelling traditions. The work's significance extends beyond mere entertainment, serving as a critical source for understanding social structures, ethical paradigms, religious practices, and philosophical concepts of medieval Indian society. Its narrative complexity reveals intricate mechanisms of cultural transmission, showcasing how stories functioned as vehicles for moral instruction, philosophical reflection, and social commentary. Drawing from earlier narrative collections like the Brihatkatha and incorporating elements of Sanskrit kavya (poetic) traditions, the Kathasaritsagara represents a sophisticated literary achievement that bridges oral and written storytelling traditions. For scholars of Indian literature, cultural studies, and comparative mythology, this text offers unparalleled insights into the intellectual and imaginative landscape of 11th-century South Asian civilization, demonstrating the remarkable narrative creativity and philosophical depth of medieval Indian intellectual culture.
+  - Classical Literature
+  - Folk Tales
+  - Mythology
+description: >-
+  The Kathasaritsagara, a monumental compilation of Sanskrit narratives by
+  Somadeva Bhatta, represents a pinnacle of medieval Indian literary scholarship
+  from 11th-century Kashmir during the culturally efflorescent Lohara dynasty.
+  Composed as a literary gift for Queen Suryamati, the work synthesizes hundreds
+  of interconnected tales drawn from diverse narrative traditions, including
+  folkloric, mythological, and courtly storytelling genres.
 collections:
-- ancient-wisdom
-- spiritual-texts
-- classical-literature
+  - ancient-wisdom
+  - spiritual-texts
+  - classical-literature
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/40588
-  type: other
-- name: 'Internet Archive (Volume 2)'
-  url: https://archive.org/details/kathsaritsga02somauoft
-  type: other
-- name: 'Internet Archive (DLI Edition)'
-  url: https://archive.org/details/in.ernet.dli.2015.55149
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/40588'
+    type: other
+  - name: Internet Archive (Volume 2)
+    url: 'https://archive.org/details/kathsaritsga02somauoft'
+    type: other
+  - name: Internet Archive (DLI Edition)
+    url: 'https://archive.org/details/in.ernet.dli.2015.55149'
+    type: other
 references:
-- name: 'Wikipedia: Kathasaritsagara'
-  url: https://en.wikipedia.org/wiki/Kathasaritsagara
-  type: wikipedia
-- name: 'Wikipedia: Charles Henry Tawney'
-  url: https://en.wikipedia.org/wiki/Charles_Henry_Tawney
-  type: wikipedia
-- name: 'Wikisource: The Katha Sarit Sagara'
-  url: https://en.wikisource.org/wiki/The_Katha_Sarit_Sagara
-  type: wikisource
-- name: 'Open Library: The Kathá Sarit Ságara'
-  url: https://openlibrary.org/search?q=The+Kathá+Sarit+Ságara+Or+Ocean+Somadeva+Bhaṭṭa
-  type: other
+  - name: 'Wikipedia: Kathasaritsagara'
+    url: 'https://en.wikipedia.org/wiki/Kathasaritsagara'
+    type: wikipedia
+  - name: 'Wikipedia: Charles Henry Tawney'
+    url: 'https://en.wikipedia.org/wiki/Charles_Henry_Tawney'
+    type: wikipedia
+  - name: 'Wikisource: The Katha Sarit Sagara'
+    url: 'https://en.wikisource.org/wiki/The_Katha_Sarit_Sagara'
+    type: wikisource
+  - name: 'Open Library: The Kathá Sarit Ságara'
+    url: >-
+      https://openlibrary.org/search?q=The+Kathá+Sarit+Ságara+Or+Ocean+Somadeva+Bhaṭṭa
+    type: other
 featured: true
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+The Kathasaritsagara, a monumental compilation of Sanskrit narratives by Somadeva Bhatta, represents a pinnacle of medieval Indian literary scholarship from 11th-century Kashmir during the culturally efflorescent Lohara dynasty. Composed as a literary gift for Queen Suryamati, the work synthesizes hundreds of interconnected tales drawn from diverse narrative traditions, including folkloric, mythological, and courtly storytelling genres. Structured as an intricate narrative frame, the text weaves together complex stories of kings, merchants, courtesans, ascetics, and supernatural beings, reflecting the sophisticated intellectual and cultural milieu of medieval Kashmiri royal courts. Somadeva, a court poet and accomplished Sanskrit scholar, demonstrated remarkable narrative skill by creating a cohesive literary tapestry that preserved and reimagined ancient storytelling traditions. The work's significance extends beyond mere entertainment, serving as a critical source for understanding social structures, ethical paradigms, religious practices, and philosophical concepts of medieval Indian society. Its narrative complexity reveals intricate mechanisms of cultural transmission, showcasing how stories functioned as vehicles for moral instruction, philosophical reflection, and social commentary. Drawing from earlier narrative collections like the Brihatkatha and incorporating elements of Sanskrit kavya (poetic) traditions, the Kathasaritsagara represents a sophisticated literary achievement that bridges oral and written storytelling traditions. For scholars of Indian literature, cultural studies, and comparative mythology, this text offers unparalleled insights into the intellectual and imaginative landscape of 11th-century South Asian civilization, demonstrating the remarkable narrative creativity and philosophical depth of medieval Indian intellectual culture.
+
 ---
 
 ## Composition and Historical Context

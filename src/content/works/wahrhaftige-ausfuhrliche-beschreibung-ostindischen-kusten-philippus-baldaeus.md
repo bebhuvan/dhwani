@@ -1,30 +1,43 @@
 ---
-title: 'Wahrhaftige ausfuhrliche Beschreibung der Ostindischen Kusten'
+title: Wahrhaftige ausfuhrliche Beschreibung der Ostindischen Kusten
 author:
-- Philippus Baldaeus
+  - Philippus Baldaeus
 year: 1672
 language:
-- German
+  - German
 genre:
-- Travelogue
-- Ethnography
-description: |
-  Philippus Baldaeus's "Wahrhaftige ausfuhrliche Beschreibung der Ostindischen Kusten" represents a critical documentary work emerging from the complex intercultural exchanges of the mid-17th century Dutch colonial period in South Asia. Published in 1672, the text provides a comprehensive ethnographic and cartographic account of European maritime interactions along the Malabar and Coromandel coastlines, Ceylon (modern Sri Lanka), and adjoining regions during a transformative epoch of global maritime commerce and colonial reconnaissance. As a Dutch Reformed Church missionary and meticulous documentarian, Baldaeus combined theological observations with detailed anthropological documentation, creating a multifaceted narrative that simultaneously reflected European imperial perspectives and captured intricate local cultural dynamics. The work's significance lies in its extensive copperplate engravings and descriptive accounts of regional administrative structures, religious practices, social configurations, and economic systems, offering contemporary scholars a nuanced window into late-17th century Indian coastal societies. Baldaeus's text critically documents the intricate interactions between European commercial interests and indigenous political and cultural frameworks, providing granular insights into trade networks, missionary activities, and cross-cultural encounters. Unlike many contemporary European accounts that emphasized exotic representations, Baldaeus's documentation demonstrates a relatively systematic approach to cultural observation, rendering his work a valuable primary source for understanding the complex transitional period between traditional Indian maritime kingdoms and emerging European colonial infrastructures. The text remains an important historical document for scholars of Indian maritime history, colonial studies, and intercultural anthropological research, capturing a pivotal moment of global cultural transformation.
+  - Travelogue
+  - Ethnography
+description: >-
+  Philippus Baldaeus's "Wahrhaftige ausfuhrliche Beschreibung der Ostindischen
+  Kusten" represents a critical documentary work emerging from the complex
+  intercultural exchanges of the mid-17th century Dutch colonial period in South
+  Asia. Published in 1672, the text provides a comprehensive ethnographic and
+  cartographic account of European maritime interactions along the Malabar and
+  Coromandel coastlines, Ceylon (modern Sri Lanka), and adjoining regions during
+  a transformative epoch of global maritime commerce and colonial
+  reconnaissance.
 collections:
-- ancient-wisdom
+  - ancient-wisdom
 sources:
-- name: 'Internet Archive (University of California Libraries)'
-  url: https://archive.org/details/wahrhaftigeausf00bald
-  type: other
+  - name: Internet Archive (University of California Libraries)
+    url: 'https://archive.org/details/wahrhaftigeausf00bald'
+    type: other
 references:
-- name: 'Wikipedia: Philippus Baldaeus'
-  url: https://en.wikipedia.org/wiki/Philippus_Baldaeus
-  type: wikipedia
-- name: 'Open Library Search'
-  url: https://openlibrary.org/search?q=Wahrhaftige+ausfuhrliche+Beschreibung+der+Ostindischen+Kusten
-  type: other
+  - name: 'Wikipedia: Philippus Baldaeus'
+    url: 'https://en.wikipedia.org/wiki/Philippus_Baldaeus'
+    type: wikipedia
+  - name: Open Library Search
+    url: >-
+      https://openlibrary.org/search?q=Wahrhaftige+ausfuhrliche+Beschreibung+der+Ostindischen+Kusten
+    type: other
 featured: false
-publishDate: 2025-10-22
+publishDate: 2025-10-22T00:00:00.000Z
+---
+## Historical Context
+
+Philippus Baldaeus's "Wahrhaftige ausfuhrliche Beschreibung der Ostindischen Kusten" represents a critical documentary work emerging from the complex intercultural exchanges of the mid-17th century Dutch colonial period in South Asia. Published in 1672, the text provides a comprehensive ethnographic and cartographic account of European maritime interactions along the Malabar and Coromandel coastlines, Ceylon (modern Sri Lanka), and adjoining regions during a transformative epoch of global maritime commerce and colonial reconnaissance. As a Dutch Reformed Church missionary and meticulous documentarian, Baldaeus combined theological observations with detailed anthropological documentation, creating a multifaceted narrative that simultaneously reflected European imperial perspectives and captured intricate local cultural dynamics. The work's significance lies in its extensive copperplate engravings and descriptive accounts of regional administrative structures, religious practices, social configurations, and economic systems, offering contemporary scholars a nuanced window into late-17th century Indian coastal societies. Baldaeus's text critically documents the intricate interactions between European commercial interests and indigenous political and cultural frameworks, providing granular insights into trade networks, missionary activities, and cross-cultural encounters. Unlike many contemporary European accounts that emphasized exotic representations, Baldaeus's documentation demonstrates a relatively systematic approach to cultural observation, rendering his work a valuable primary source for understanding the complex transitional period between traditional Indian maritime kingdoms and emerging European colonial infrastructures. The text remains an important historical document for scholars of Indian maritime history, colonial studies, and intercultural anthropological research, capturing a pivotal moment of global cultural transformation.
+
 ---
 
 # Wahrhaftige ausfuhrliche Beschreibung der Ostindischen Kusten

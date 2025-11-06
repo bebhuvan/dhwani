@@ -1,34 +1,62 @@
 ---
-title: "Sushruta Samhita (Compendium of Surgery)"
-author: ["Sushruta"]
+title: Sushruta Samhita (Compendium of Surgery)
+author:
+  - Sushruta
 year: -200
-language: ["Sanskrit", "English"]
-genre: ["Medical Texts", "Scientific Texts", "Classical Literature", "Technical Manuals"]
-description: "The Sushruta Samhita represents ancient India's supreme surgical treatise and one of foundational Ayurveda texts, systematizing surgical knowledge through approximately 1,120 verses and detailed descriptions of 300+ surgical procedures, 120+ surgical instruments, and comprehensive medical training. Composed around 6th century BCE with later additions, this monumental work of six sthanas (sections) covers: general principles, pathology, diagnosis, therapeutics, and specialized surgery including pioneering rhinoplasty (nasal reconstruction), cataract surgery, lithotomy, and obstetrics. Beyond surgical techniques, Sushruta presents sophisticated medical philosophy: tridosha theory (three humors regulating health), detailed anatomy based on dissection, pharmacology with 700+ medicinal substances, medical ethics, and physician training requiring extensive theoretical study, practical apprenticeship, and surgical practice on models before treating patients. The text influenced Indian, Arabic, and through them European medicine, demonstrating ancient India's advanced surgical knowledge rivaling any contemporary civilization while establishing professional medical standards and ethical principles enduring into modern practice."
-collections: ['medical-texts', 'scientific-texts', 'technical-manuals', 'classical-literature', 'ancient-wisdom']
+language:
+  - Sanskrit
+  - English
+genre:
+  - Medical Texts
+  - Scientific Texts
+  - Classical Literature
+  - Technical Manuals
+description: >-
+  The Sushruta Samhita represents ancient India's supreme surgical treatise and
+  one of foundational Ayurveda texts, systematizing surgical knowledge through
+  approximately 1,120 verses and detailed descriptions of 300+ surgical
+  procedures, 120+ surgical instruments, and comprehensive medical training.
+  Composed around 6th century BCE with later additions, this monumental work of
+  six sthanas (sections) covers: general principles, pathology, diagnosis,
+  therapeutics, and specialized surgery including pioneering rhinoplasty (nasal
+  reconstruction), cataract surgery, lithotomy, and obstetrics.
+collections:
+  - medical-texts
+  - scientific-texts
+  - technical-manuals
+  - classical-literature
+  - ancient-wisdom
 sources:
-  - name: "Internet Archive (Kaviraj Kunja Lal Bhishagratna translation)"
-    url: "https://archive.org/details/SushrutaSamhitaVolume1"
-    type: "other"
+  - name: Internet Archive (Kaviraj Kunja Lal Bhishagratna translation)
+    url: 'https://archive.org/details/SushrutaSamhitaVolume1'
+    type: other
 references:
-  - name: "Wikipedia: Sushruta Samhita"
-    url: "https://en.wikipedia.org/wiki/Sushruta_Samhita"
-    type: "wikipedia"
-  - name: "Wikipedia: Sushruta"
-    url: "https://en.wikipedia.org/wiki/Sushruta"
-    type: "wikipedia"
-  - name: "Wikipedia: Ayurveda"
-    url: "https://en.wikipedia.org/wiki/Ayurveda"
-    type: "wikipedia"
-  - name: "Wikipedia: History of surgery"
-    url: "https://en.wikipedia.org/wiki/History_of_surgery"
-    type: "wikipedia"
-  - name: "Open Library: Sushruta Samhita (Compendium of"
-    url: "https://openlibrary.org/search?q=Sushruta+Samhita+Compendium+of+Surgery+year+Sushruta"
-    type: "other"
+  - name: 'Wikipedia: Sushruta Samhita'
+    url: 'https://en.wikipedia.org/wiki/Sushruta_Samhita'
+    type: wikipedia
+  - name: 'Wikipedia: Sushruta'
+    url: 'https://en.wikipedia.org/wiki/Sushruta'
+    type: wikipedia
+  - name: 'Wikipedia: Ayurveda'
+    url: 'https://en.wikipedia.org/wiki/Ayurveda'
+    type: wikipedia
+  - name: 'Wikipedia: History of surgery'
+    url: 'https://en.wikipedia.org/wiki/History_of_surgery'
+    type: wikipedia
+  - name: 'Open Library: Sushruta Samhita (Compendium of'
+    url: >-
+      https://openlibrary.org/search?q=Sushruta+Samhita+Compendium+of+Surgery+year+Sushruta
+    type: other
 featured: false
-publishDate: 2025-10-30
-tags: ['classical-literature', 'ayurveda']
+publishDate: 2025-10-30T00:00:00.000Z
+tags:
+  - classical-literature
+  - ayurveda
+---
+## Historical Context
+
+The Sushruta Samhita represents ancient India's supreme surgical treatise and one of foundational Ayurveda texts, systematizing surgical knowledge through approximately 1,120 verses and detailed descriptions of 300+ surgical procedures, 120+ surgical instruments, and comprehensive medical training. Composed around 6th century BCE with later additions, this monumental work of six sthanas (sections) covers: general principles, pathology, diagnosis, therapeutics, and specialized surgery including pioneering rhinoplasty (nasal reconstruction), cataract surgery, lithotomy, and obstetrics. Beyond surgical techniques, Sushruta presents sophisticated medical philosophy: tridosha theory (three humors regulating health), detailed anatomy based on dissection, pharmacology with 700+ medicinal substances, medical ethics, and physician training requiring extensive theoretical study, practical apprenticeship, and surgical practice on models before treating patients. The text influenced Indian, Arabic, and through them European medicine, demonstrating ancient India's advanced surgical knowledge rivaling any contemporary civilization while establishing professional medical standards and ethical principles enduring into modern practice.
+
 ---
 
 The Sushruta Samhita stands as ancient India's most comprehensive surgical treatise and ranks among the foundational texts of Ayurveda, alongside the Charaka Samhita, establishing the theoretical and practical foundations of traditional Indian medicine. Attributed to Sushruta (whose name means "well heard" or "renowned"), the text presents itself as narrating the teachings of the physician's guru Divodasa, the King of Varanasi, who was considered an incarnation of Dhanvantari, the Hindu deity of medicine. However, like many ancient medical texts, "Sushruta" likely represents collective authorship across centuries rather than a single historical individual, similar to how "Hippocrates" encompasses multiple contributors in Greek medicine. Scholars suggest the work encompasses multiple historical layers, with composition potentially beginning in the last centuries BCE and completion by the 3rd-4th centuries CE, though the oldest surviving manuscript dates to 878 CE, preserved at Nepal's Kaiser Library.

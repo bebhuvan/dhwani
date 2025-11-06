@@ -1,29 +1,41 @@
 ---
-title: 'Diary of a Pedestrian in Cashmere and Thibet'
+title: Diary of a Pedestrian in Cashmere and Thibet
 author:
-- Knight, W. H. (William Henry)
+  - 'Knight, W. H. (William Henry)'
 year: 1900
 language:
-- English
+  - English
 genre:
-- Travel Literature
-description: |
-  William Henry Knight's "Diary of a Pedestrian in Cashmere and Thibet" represents a pivotal ethnographic narrative emerging from the late Victorian era of imperial exploration, capturing the intricate geographical and cultural landscapes of the Himalayan borderlands during a critical period of British colonial geographical documentation. Published in 1900, the work reflects the scholarly and cartographic impulses of British imperial research, providing a nuanced firsthand account of traversing remote mountainous regions that were then largely unknown to Western audiences. Knight's narrative meticulously documents the complex cultural topographies of Cashmere (Kashmir) and Tibet, offering detailed observations of indigenous societies, traditional practices, geographical terrains, and the lived experiences of communities inhabiting these challenging mountainous environments. The text is particularly significant for its ethnographic documentation, presenting scholarly insights into regional social structures, indigenous knowledge systems, and the intricate human-landscape interactions characteristic of Himalayan societies at the turn of the 20th century. Beyond its immediate value as a travel narrative, the work contributes substantially to the emergent colonial-era anthropological and geographical understanding of the Indian subcontinent's northern frontier regions. Knight's methodical documentation provides critical historical evidence of cultural practices, migration patterns, economic systems, and social dynamics during a transformative period of imperial expansion and cultural encounter. The narrative simultaneously serves as a valuable historical source for understanding the epistemological practices of British imperial exploration and the complex intercultural exchanges occurring in these geographically and politically contested borderland territories.
+  - Travel Literature
+description: >-
+  William Henry Knight's "Diary of a Pedestrian in Cashmere and Thibet"
+  represents a pivotal ethnographic narrative emerging from the late Victorian
+  era of imperial exploration, capturing the intricate geographical and cultural
+  landscapes of the Himalayan borderlands during a critical period of British
+  colonial geographical documentation. Published in 1900, the work reflects the
+  scholarly and cartographic impulses of British imperial research, providing a
+  nuanced firsthand account of traversing remote mountainous regions that were
+  then largely unknown to Western audiences.
 collections:
-- classical-literature
+  - classical-literature
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/3639
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/3639.html.images
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/3639'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/3639.html.images'
+    type: other
 references:
-- name: 'Open Library: Diary of a Pedestrian in Cashmere and Thibet'
-  url: https://openlibrary.org/search?q=Diary+Pedestrian+Cashmere+Thibet+Knight
-  type: other
+  - name: 'Open Library: Diary of a Pedestrian in Cashmere and Thibet'
+    url: 'https://openlibrary.org/search?q=Diary+Pedestrian+Cashmere+Thibet+Knight'
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+William Henry Knight's "Diary of a Pedestrian in Cashmere and Thibet" represents a pivotal ethnographic narrative emerging from the late Victorian era of imperial exploration, capturing the intricate geographical and cultural landscapes of the Himalayan borderlands during a critical period of British colonial geographical documentation. Published in 1900, the work reflects the scholarly and cartographic impulses of British imperial research, providing a nuanced firsthand account of traversing remote mountainous regions that were then largely unknown to Western audiences. Knight's narrative meticulously documents the complex cultural topographies of Cashmere (Kashmir) and Tibet, offering detailed observations of indigenous societies, traditional practices, geographical terrains, and the lived experiences of communities inhabiting these challenging mountainous environments. The text is particularly significant for its ethnographic documentation, presenting scholarly insights into regional social structures, indigenous knowledge systems, and the intricate human-landscape interactions characteristic of Himalayan societies at the turn of the 20th century. Beyond its immediate value as a travel narrative, the work contributes substantially to the emergent colonial-era anthropological and geographical understanding of the Indian subcontinent's northern frontier regions. Knight's methodical documentation provides critical historical evidence of cultural practices, migration patterns, economic systems, and social dynamics during a transformative period of imperial expansion and cultural encounter. The narrative simultaneously serves as a valuable historical source for understanding the epistemological practices of British imperial exploration and the complex intercultural exchanges occurring in these geographically and politically contested borderland territories.
+
 ---
 
 # Diary of a Pedestrian in Cashmere and Thibet

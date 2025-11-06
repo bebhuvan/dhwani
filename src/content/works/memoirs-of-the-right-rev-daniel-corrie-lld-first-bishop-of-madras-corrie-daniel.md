@@ -1,26 +1,39 @@
 ---
 title: 'Memoirs of the Right Rev. Daniel Corrie, LL.D., first Bishop of Madras'
 author:
-- Corrie, Daniel
+  - 'Corrie, Daniel'
 year: 1822
 language:
-- English
+  - English
 genre:
-- Historical Literature
-description: |
-  Daniel Corrie's biographical memoir represents a critical documentary lens into the complex religious and cultural transformations occurring in early 19th-century South India during the British colonial expansion. As the first Anglican Bishop of Madras from 1816 to 1836, Corrie emerged as a significant ecclesiastical figure navigating the intricate intersections of imperial evangelical ambitions and indigenous cultural landscapes. The memoir, meticulously compiled from personal correspondence and journals, provides nuanced insights into the missionary encounters, theological negotiations, and institutional developments characterizing the Madras Presidency during a pivotal period of colonial cultural exchange. Beyond its ecclesiastical narrative, the work offers scholarly perspectives on the intellectual and spiritual dynamics of British imperial interactions with South Indian societies, documenting the processes of religious transmission, cultural negotiation, and institutional transformation. Corrie's documentation reveals the complex mechanisms of Anglican missionary strategies, their engagement with local religious traditions, and the broader sociocultural implications of colonial evangelical endeavors. The memoir serves as a critical historical text for understanding the intellectual, religious, and cultural dialogues that shaped colonial South India, providing scholars with a detailed ethnographic and biographical account of missionary experiences. By presenting a deeply personal yet institutionally significant narrative, Corrie's work contributes substantially to postcolonial studies, religious history, and the understanding of cross-cultural interactions during the early 19th century. It represents a significant historical document illuminating the intellectual and spiritual negotiations that characterized British colonial engagement in the Madras region during a transformative historical moment.
+  - Historical Literature
+description: >-
+  Daniel Corrie's biographical memoir represents a critical documentary lens
+  into the complex religious and cultural transformations occurring in early
+  19th-century South India during the British colonial expansion. As the first
+  Anglican Bishop of Madras from 1816 to 1836, Corrie emerged as a significant
+  ecclesiastical figure navigating the intricate intersections of imperial
+  evangelical ambitions and indigenous cultural landscapes.
 collections:
-- classical-literature
+  - classical-literature
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/75863
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/75863'
+    type: other
 references:
-- name: 'Open Library: Memoirs of the Right Rev. Daniel Corrie, LL.D., first Bishop...'
-  url: https://openlibrary.org/search?q=Memoirs+of+the+Right+Rev.+Daniel+Corrie%2C+LL.D.%2C+first+Bishop+of+Madras+Corrie
-  type: other
+  - name: >-
+      Open Library: Memoirs of the Right Rev. Daniel Corrie, LL.D., first
+      Bishop...
+    url: >-
+      https://openlibrary.org/search?q=Memoirs+of+the+Right+Rev.+Daniel+Corrie%2C+LL.D.%2C+first+Bishop+of+Madras+Corrie
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+Daniel Corrie's biographical memoir represents a critical documentary lens into the complex religious and cultural transformations occurring in early 19th-century South India during the British colonial expansion. As the first Anglican Bishop of Madras from 1816 to 1836, Corrie emerged as a significant ecclesiastical figure navigating the intricate intersections of imperial evangelical ambitions and indigenous cultural landscapes. The memoir, meticulously compiled from personal correspondence and journals, provides nuanced insights into the missionary encounters, theological negotiations, and institutional developments characterizing the Madras Presidency during a pivotal period of colonial cultural exchange. Beyond its ecclesiastical narrative, the work offers scholarly perspectives on the intellectual and spiritual dynamics of British imperial interactions with South Indian societies, documenting the processes of religious transmission, cultural negotiation, and institutional transformation. Corrie's documentation reveals the complex mechanisms of Anglican missionary strategies, their engagement with local religious traditions, and the broader sociocultural implications of colonial evangelical endeavors. The memoir serves as a critical historical text for understanding the intellectual, religious, and cultural dialogues that shaped colonial South India, providing scholars with a detailed ethnographic and biographical account of missionary experiences. By presenting a deeply personal yet institutionally significant narrative, Corrie's work contributes substantially to postcolonial studies, religious history, and the understanding of cross-cultural interactions during the early 19th century. It represents a significant historical document illuminating the intellectual and spiritual negotiations that characterized British colonial engagement in the Madras region during a transformative historical moment.
+
 ---
 
 # Memoirs of the Right Rev. Daniel Corrie, LL.D., first Bishop of Madras

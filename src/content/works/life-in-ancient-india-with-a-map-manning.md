@@ -1,28 +1,40 @@
 ---
-title: 'Life in Ancient India; with a map'
+title: Life in Ancient India; with a map
 author:
-- Manning
-- Charlotte Speir
+  - Manning
+  - Charlotte Speir
 year: 1856
 language:
-- English
+  - English
 genre:
-- History & Culture
-- Social History
-description: |
-  Charlotte Speir Manning's "Life in Ancient India" represents a significant 19th-century scholarly exploration of classical Indian civilization, offering a comprehensive British intellectual perspective on the social, cultural, and institutional frameworks of pre-colonial Indian society. Published in 1856 during the height of British colonial engagement in India, the work draws from contemporary archaeological evidence, textual sources, and emerging anthropological methodologies to construct a nuanced examination of ancient Indian social structures, daily life practices, and cultural dynamics. Manning, a pioneering female scholar who resided in Calcutta and later became the first head of Girton College, approached her subject with a rare combination of academic rigor and progressive intellectual sensibility. Her analysis encompasses diverse domains including family organization, religious practices, economic systems, educational patterns, and gender relationships in ancient Indian contexts, providing European scholarly audiences with a systematically documented understanding of Indian civilization beyond prevailing colonial stereotypes. The work is particularly distinguished by its systematic documentation of social institutions, exploring topics such as marriage customs, vocational hierarchies, educational practices, and domestic arrangements across different historical periods. Manning's scholarly approach notably challenged contemporary Orientalist narratives by presenting Indian social systems as complex, sophisticated cultural constructs rather than primitive or static societal formations. Her meticulous research contributed significantly to early comparative anthropological studies, offering European readers an empirically grounded perspective on Indian cultural complexity during a period of intense colonial intellectual exchange.
+  - History & Culture
+  - Social History
+description: >-
+  Charlotte Speir Manning's "Life in Ancient India" represents a significant
+  19th-century scholarly exploration of classical Indian civilization, offering
+  a comprehensive British intellectual perspective on the social, cultural, and
+  institutional frameworks of pre-colonial Indian society. Published in 1856
+  during the height of British colonial engagement in India, the work draws from
+  contemporary archaeological evidence, textual sources, and emerging
+  anthropological methodologies to construct a nuanced examination of ancient
+  Indian social structures, daily life practices, and cultural dynamics.
 collections:
-- classical-literature
+  - classical-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/lifeinancientind00mann
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/lifeinancientind00mann'
+    type: other
 references:
-- name: 'Open Library: Life in Ancient India;'
-  url: https://openlibrary.org/search?q=Life+in+Ancient+India+with+a+Manning
-  type: other
+  - name: 'Open Library: Life in Ancient India;'
+    url: 'https://openlibrary.org/search?q=Life+in+Ancient+India+with+a+Manning'
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+Charlotte Speir Manning's "Life in Ancient India" represents a significant 19th-century scholarly exploration of classical Indian civilization, offering a comprehensive British intellectual perspective on the social, cultural, and institutional frameworks of pre-colonial Indian society. Published in 1856 during the height of British colonial engagement in India, the work draws from contemporary archaeological evidence, textual sources, and emerging anthropological methodologies to construct a nuanced examination of ancient Indian social structures, daily life practices, and cultural dynamics. Manning, a pioneering female scholar who resided in Calcutta and later became the first head of Girton College, approached her subject with a rare combination of academic rigor and progressive intellectual sensibility. Her analysis encompasses diverse domains including family organization, religious practices, economic systems, educational patterns, and gender relationships in ancient Indian contexts, providing European scholarly audiences with a systematically documented understanding of Indian civilization beyond prevailing colonial stereotypes. The work is particularly distinguished by its systematic documentation of social institutions, exploring topics such as marriage customs, vocational hierarchies, educational practices, and domestic arrangements across different historical periods. Manning's scholarly approach notably challenged contemporary Orientalist narratives by presenting Indian social systems as complex, sophisticated cultural constructs rather than primitive or static societal formations. Her meticulous research contributed significantly to early comparative anthropological studies, offering European readers an empirically grounded perspective on Indian cultural complexity during a period of intense colonial intellectual exchange.
+
 ---
 
 ## Publication Context and Historical Significance

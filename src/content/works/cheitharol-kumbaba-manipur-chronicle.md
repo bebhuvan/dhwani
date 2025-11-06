@@ -1,34 +1,45 @@
 ---
-title: 'Cheitharol Kumbaba (Royal Chronicle of Manipur)'
+title: Cheitharol Kumbaba (Royal Chronicle of Manipur)
 author:
-- Lairenmayum Ibungohal Singh
+  - Lairenmayum Ibungohal Singh
 year: 1969
 language:
-- Manipuri (Meitei)
+  - Manipuri (Meitei)
 genre:
-- Royal Chronicle
-- Court History
-description: |
-  The Cheitharol Kumbaba represents a foundational historical manuscript chronicling the royal lineage and administrative history of the Manipuri Ningthouja dynasty, presenting a continuous narrative from 33 CE through 1955. This meticulously maintained royal chronicle serves as a critical primary source for understanding the complex political, cultural, and social dynamics of northeastern India, particularly the kingdom of Manipur. Compiled by Lairenmayum Ibungohal Singh in 1969, the 722-page document systematically records daily court proceedings, genealogical successions, diplomatic interactions, and significant historical events across 76 successive monarchical reigns. The manuscript captures pivotal transitional moments in Manipuri history, including the cultural exchange with Shan kingdoms during King Kiyamba's reign, which introduced sophisticated chronicle-keeping techniques, and the gradual religious transformation marked by the introduction of Vaishnavism under King Charairongba. Critically, the text provides nuanced insights into the region's geopolitical landscape, documenting complex interactions with neighboring kingdoms like Burma and emerging colonial powers, particularly British imperial administrators. Its detailed documentation offers scholars invaluable perspectives on indigenous governance structures, ritual practices, and sociopolitical negotiations in a region often marginalized in mainstream Indian historical narratives. Beyond its historical significance, the Cheitharol Kumbaba embodies the sophisticated literary and administrative traditions of Manipuri royal courts, demonstrating the intellectual sophistication and record-keeping precision of northeastern Indian kingdoms during pre-colonial and colonial periods. As a linguistic and historical artifact, it remains an essential resource for understanding the multicultural, multilayered heritage of India's northeastern region.
+  - Royal Chronicle
+  - Court History
+description: >-
+  The Cheitharol Kumbaba represents a foundational historical manuscript
+  chronicling the royal lineage and administrative history of the Manipuri
+  Ningthouja dynasty, presenting a continuous narrative from 33 CE through 1955.
+  This meticulously maintained royal chronicle serves as a critical primary
+  source for understanding the complex political, cultural, and social dynamics
+  of northeastern India, particularly the kingdom of Manipur.
 collections:
-- regional-history
-- court-chronicles
+  - regional-history
+  - court-chronicles
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.ernet.dli.2015.465263
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/in.ernet.dli.2015.465263'
+    type: other
 references:
-- name: 'Wikipedia: Cheitharol Kumbaba'
-  url: https://en.wikipedia.org/wiki/Cheitharol_Kumbaba
-  type: wikipedia
-- name: 'Wikipedia: History of Manipur'
-  url: https://en.wikipedia.org/wiki/History_of_Manipur
-  type: wikipedia
-- name: 'Open Library'
-  url: https://openlibrary.org/search?q=Cheitharol+Kumbaba+Manipur&mode=everything
-  type: other
+  - name: 'Wikipedia: Cheitharol Kumbaba'
+    url: 'https://en.wikipedia.org/wiki/Cheitharol_Kumbaba'
+    type: wikipedia
+  - name: 'Wikipedia: History of Manipur'
+    url: 'https://en.wikipedia.org/wiki/History_of_Manipur'
+    type: wikipedia
+  - name: Open Library
+    url: >-
+      https://openlibrary.org/search?q=Cheitharol+Kumbaba+Manipur&mode=everything
+    type: other
 featured: false
-publishDate: 2025-10-26
+publishDate: 2025-10-26T00:00:00.000Z
+---
+## Historical Context
+
+The Cheitharol Kumbaba represents a foundational historical manuscript chronicling the royal lineage and administrative history of the Manipuri Ningthouja dynasty, presenting a continuous narrative from 33 CE through 1955. This meticulously maintained royal chronicle serves as a critical primary source for understanding the complex political, cultural, and social dynamics of northeastern India, particularly the kingdom of Manipur. Compiled by Lairenmayum Ibungohal Singh in 1969, the 722-page document systematically records daily court proceedings, genealogical successions, diplomatic interactions, and significant historical events across 76 successive monarchical reigns. The manuscript captures pivotal transitional moments in Manipuri history, including the cultural exchange with Shan kingdoms during King Kiyamba's reign, which introduced sophisticated chronicle-keeping techniques, and the gradual religious transformation marked by the introduction of Vaishnavism under King Charairongba. Critically, the text provides nuanced insights into the region's geopolitical landscape, documenting complex interactions with neighboring kingdoms like Burma and emerging colonial powers, particularly British imperial administrators. Its detailed documentation offers scholars invaluable perspectives on indigenous governance structures, ritual practices, and sociopolitical negotiations in a region often marginalized in mainstream Indian historical narratives. Beyond its historical significance, the Cheitharol Kumbaba embodies the sophisticated literary and administrative traditions of Manipuri royal courts, demonstrating the intellectual sophistication and record-keeping precision of northeastern Indian kingdoms during pre-colonial and colonial periods. As a linguistic and historical artifact, it remains an essential resource for understanding the multicultural, multilayered heritage of India's northeastern region.
+
 ---
 
 # Cheitharol Kumbaba (Royal Chronicle of Manipur)

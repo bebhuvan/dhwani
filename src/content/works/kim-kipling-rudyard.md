@@ -1,77 +1,77 @@
 ---
 title: Kim
 author:
-- Kipling, Rudyard
+  - 'Kipling, Rudyard'
 year: 1901
 language:
-- English
+  - English
 genre:
-- Fiction
-- Adventure
-- Spy Fiction
-description: Rudyard Kipling's 'Kim' (1901) represents both the pinnacle of his literary
-  achievement and the most complex expression of his engagement with India, offering
-  a richly textured portrait of late nineteenth-century colonial India through the
-  adventures of Kimball O'Hara, an Irish orphan who navigates between British and
-  Indian identities while becoming embroiled in the 'Great Game' of espionage between
-  British India and Russia. Praised for its vivid ethnographic detail, linguistic
-  virtuosity, and sympathetic portrayal of Indian culture—particularly through Kim's
-  relationship with a Tibetan Buddhist lama seeking spiritual enlightenment—the novel
-  simultaneously embodies the tensions and contradictions of colonial literature,
-  as Kipling's genuine affection for India's diversity coexists with assumptions about
-  British imperial superiority, making 'Kim' a work that demands critical engagement
-  with both its literary merits and its ideological commitments to empire.
+  - Fiction
+  - Adventure
+  - Spy Fiction
+description: >-
+  Rudyard Kipling's 'Kim' (1901) represents both the pinnacle of his literary
+  achievement and the most complex expression of his engagement with India,
+  offering a richly textured portrait of late nineteenth-century colonial India
+  through the adventures of Kimball O'Hara, an Irish orphan who navigates
+  between British and Indian identities while becoming embroiled in the 'Great
+  Game' of espionage between British India and Russia.
 collections:
-- classical-literature
-- classical-literature
-- classical-literature
-- classical-literature
+  - classical-literature
+  - classical-literature
+  - classical-literature
+  - classical-literature
 sources:
-- name: Project Gutenberg
-  url: https://www.gutenberg.org/ebooks/35555
-  type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/35555.html.images
-  type: other
-- name: Internet Archive (Writings in Prose and Verse)
-  url: https://archive.org/details/cu31924057346573
-  type: other
-- name: Internet Archive - Kim (1901 First Edition)
-  url: https://archive.org/details/kim01kipluoft
-  type: other
-- name: Internet Archive - Kim (Macmillan, 1901)
-  url: https://archive.org/details/kim00kipliala
-  type: other
-- name: 'Internet Archive - Digital Library of India: Kim'
-  url: https://archive.org/details/in.ernet.dli.2015.127934
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/35555'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/35555.html.images'
+    type: other
+  - name: Internet Archive (Writings in Prose and Verse)
+    url: 'https://archive.org/details/cu31924057346573'
+    type: other
+  - name: Internet Archive - Kim (1901 First Edition)
+    url: 'https://archive.org/details/kim01kipluoft'
+    type: other
+  - name: 'Internet Archive - Kim (Macmillan, 1901)'
+    url: 'https://archive.org/details/kim00kipliala'
+    type: other
+  - name: 'Internet Archive - Digital Library of India: Kim'
+    url: 'https://archive.org/details/in.ernet.dli.2015.127934'
+    type: other
 references:
-- name: 'Wikisource: Kim'
-  url: https://en.wikisource.org/wiki/Kim
-  type: other
-- name: 'Wikipedia: Kim (novel)'
-  url: https://en.wikipedia.org/wiki/Kim_(novel)
-  type: other
-- name: 'Wikipedia: Rudyard Kipling'
-  url: https://en.wikipedia.org/wiki/Rudyard_Kipling
-  type: other
-- name: 'Wikipedia: The Great Game'
-  url: https://en.wikipedia.org/wiki/The_Great_Game
-  type: other
-- name: 'Open Library: Kim'
-  url: https://openlibrary.org/search?q=Kim%20Kipling
-  type: other
+  - name: 'Wikisource: Kim'
+    url: 'https://en.wikisource.org/wiki/Kim'
+    type: other
+  - name: 'Wikipedia: Kim (novel)'
+    url: 'https://en.wikipedia.org/wiki/Kim_(novel)'
+    type: other
+  - name: 'Wikipedia: Rudyard Kipling'
+    url: 'https://en.wikipedia.org/wiki/Rudyard_Kipling'
+    type: other
+  - name: 'Wikipedia: The Great Game'
+    url: 'https://en.wikipedia.org/wiki/The_Great_Game'
+    type: other
+  - name: 'Open Library: Kim'
+    url: 'https://openlibrary.org/search?q=Kim%20Kipling'
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
 tags:
-- public domain
-- India -- Fiction
-- Irish -- India -- Fiction
-- The Great Game
-- Colonial literature
-- Espionage fiction
-- Coming of age
-- Cultural hybridity
+  - public domain
+  - India -- Fiction
+  - Irish -- India -- Fiction
+  - The Great Game
+  - Colonial literature
+  - Espionage fiction
+  - Coming of age
+  - Cultural hybridity
+---
+## Historical Context
+
+Rudyard Kipling's 'Kim' (1901) represents both the pinnacle of his literary achievement and the most complex expression of his engagement with India, offering a richly textured portrait of late nineteenth-century colonial India through the adventures of Kimball O'Hara, an Irish orphan who navigates between British and Indian identities while becoming embroiled in the 'Great Game' of espionage between British India and Russia. Praised for its vivid ethnographic detail, linguistic virtuosity, and sympathetic portrayal of Indian culture—particularly through Kim's relationship with a Tibetan Buddhist lama seeking spiritual enlightenment—the novel simultaneously embodies the tensions and contradictions of colonial literature, as Kipling's genuine affection for India's diversity coexists with assumptions about British imperial superiority, making 'Kim' a work that demands critical engagement with both its literary merits and its ideological commitments to empire.
+
 ---
 
 # Kim

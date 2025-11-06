@@ -1,43 +1,81 @@
 ---
-title: "Nagananda (The Joy of the Serpents)"
-author: ["Harsha", "Harshavardhana"]
+title: Nagananda (The Joy of the Serpents)
+author:
+  - Harsha
+  - Harshavardhana
 year: 640
-language: ["Sanskrit", "English"]
-genre: ["Drama", "Classical Literature", "Sanskrit Drama", "Buddhist Drama", "Religious Drama"]
-description: "Harsha's Nagananda stands as Sanskrit drama's supreme Buddhist-influenced masterpiece, a five-act nataka (heroic romance) depicting Prince Jimutavahana's self-sacrifice to save the Naga (serpent) race from Garuda's predation, exemplifying Mahayana Buddhist ideals of compassionate self-offering (bodhisattva ideal) while integrating these within Hindu dramatic conventions. Composed by Emperor Harshavardhana, who patronized Buddhism extensively despite personal Shaivite inclinations, this sophisticated religious drama transcends sectarian boundaries by presenting Buddhist philosophy through universally accessible narrative about love, sacrifice, and redemption. The plot follows Jimutavahana, prince of Vidyadharas (celestial beings), who renounces royal succession to practice asceticism with his parents in Himalayas, marries the beautiful Malayavati, then discovers that Garuda (divine eagle, Vishnu's vehicle) preys upon Nagas to fulfill ancient agreement whereby one Naga must be sacrificed daily. Moved by compassion (karuna—Buddhist cardinal virtue), Jimutavahana secretly substitutes himself for the designated Naga victim Shankhachuda, enduring Garuda's attack until divine intervention by goddess Gauri prevents death, resurrects Jimutavahana, and converts Garuda from predator to protector, ending the Nagas' persecution. Beyond religious allegory, the play demonstrates Harsha's dramatic mastery: psychologically complex characters, spectacular staging opportunities (aerial beings, supernatural combat, miraculous healing), sophisticated integration of karuna (compassion), vira (heroic), shringara (romantic), adbhuta (marvelous), and shanta (peaceful) rasas, and profound exploration of themes including selflessness, redemption possibility, compassion's transformative power, and religious values' practical application within dramatic form."
-collections: ['sanskrit-drama', 'classical-literature', 'buddhist-texts', 'devotional-literature']
+language:
+  - Sanskrit
+  - English
+genre:
+  - Drama
+  - Classical Literature
+  - Sanskrit Drama
+  - Buddhist Drama
+  - Religious Drama
+description: >-
+  Harsha's Nagananda stands as Sanskrit drama's supreme Buddhist-influenced
+  masterpiece, a five-act nataka (heroic romance) depicting Prince
+  Jimutavahana's self-sacrifice to save the Naga (serpent) race from Garuda's
+  predation, exemplifying Mahayana Buddhist ideals of compassionate
+  self-offering (bodhisattva ideal) while integrating these within Hindu
+  dramatic conventions. Composed by Emperor Harshavardhana, who patronized
+  Buddhism extensively despite personal Shaivite inclinations, this
+  sophisticated religious drama transcends sectarian boundaries by presenting
+  Buddhist philosophy through universally accessible narrative about love,
+  sacrifice, and redemption.
+collections:
+  - sanskrit-drama
+  - classical-literature
+  - buddhist-texts
+  - devotional-literature
 sources:
-  - name: "Internet Archive (Sanskrit text with commentary)"
-    url: "https://archive.org/details/nagananda00hars"
-    type: "other"
-  - name: "Internet Archive (Sanskrit edition with English translation)"
-    url: "https://archive.org/details/in.ernet.dli.2015.406805"
-    type: "other"
-  - name: "Project Gutenberg (English translation)"
-    url: "https://www.gutenberg.org/ebooks/41421"
-    type: "other"
+  - name: Internet Archive (Sanskrit text with commentary)
+    url: 'https://archive.org/details/nagananda00hars'
+    type: other
+  - name: Internet Archive (Sanskrit edition with English translation)
+    url: 'https://archive.org/details/in.ernet.dli.2015.406805'
+    type: other
+  - name: Project Gutenberg (English translation)
+    url: 'https://www.gutenberg.org/ebooks/41421'
+    type: other
 references:
-  - name: "Wikipedia: Nagananda"
-    url: "https://en.wikipedia.org/wiki/Nagananda"
-    type: "wikipedia"
-  - name: "Wikipedia: Harsha"
-    url: "https://en.wikipedia.org/wiki/Harsha"
-    type: "wikipedia"
-  - name: "Wikipedia: Sanskrit drama"
-    url: "https://en.wikipedia.org/wiki/Sanskrit_drama"
-    type: "wikipedia"
-  - name: "Wikipedia: Buddhist drama"
-    url: "https://en.wikipedia.org/wiki/Buddhist_drama"
-    type: "wikipedia"
-  - name: "Wikipedia: Jataka tales"
-    url: "https://en.wikipedia.org/wiki/Jataka_tales"
-    type: "wikipedia"
-  - name: "Wikipedia: Bodhisattva"
-    url: "https://en.wikipedia.org/wiki/Bodhisattva"
-    type: "wikipedia"
+  - name: 'Wikipedia: Nagananda'
+    url: 'https://en.wikipedia.org/wiki/Nagananda'
+    type: wikipedia
+  - name: 'Wikipedia: Harsha'
+    url: 'https://en.wikipedia.org/wiki/Harsha'
+    type: wikipedia
+  - name: 'Wikipedia: Sanskrit drama'
+    url: 'https://en.wikipedia.org/wiki/Sanskrit_drama'
+    type: wikipedia
+  - name: 'Wikipedia: Buddhist drama'
+    url: 'https://en.wikipedia.org/wiki/Buddhist_drama'
+    type: wikipedia
+  - name: 'Wikipedia: Jataka tales'
+    url: 'https://en.wikipedia.org/wiki/Jataka_tales'
+    type: wikipedia
+  - name: 'Wikipedia: Bodhisattva'
+    url: 'https://en.wikipedia.org/wiki/Bodhisattva'
+    type: wikipedia
 featured: true
-publishDate: 2025-11-02
-tags: ["Nagananda", "Harsha", "Sanskrit drama", "Buddhist drama", "classical literature", "religious drama", "bodhisattva", "sacrifice", "compassion", "public domain"]
+publishDate: 2025-11-02T00:00:00.000Z
+tags:
+  - Nagananda
+  - Harsha
+  - Sanskrit drama
+  - Buddhist drama
+  - classical literature
+  - religious drama
+  - bodhisattva
+  - sacrifice
+  - compassion
+  - public domain
+---
+## Historical Context
+
+Harsha's Nagananda stands as Sanskrit drama's supreme Buddhist-influenced masterpiece, a five-act nataka (heroic romance) depicting Prince Jimutavahana's self-sacrifice to save the Naga (serpent) race from Garuda's predation, exemplifying Mahayana Buddhist ideals of compassionate self-offering (bodhisattva ideal) while integrating these within Hindu dramatic conventions. Composed by Emperor Harshavardhana, who patronized Buddhism extensively despite personal Shaivite inclinations, this sophisticated religious drama transcends sectarian boundaries by presenting Buddhist philosophy through universally accessible narrative about love, sacrifice, and redemption. The plot follows Jimutavahana, prince of Vidyadharas (celestial beings), who renounces royal succession to practice asceticism with his parents in Himalayas, marries the beautiful Malayavati, then discovers that Garuda (divine eagle, Vishnu's vehicle) preys upon Nagas to fulfill ancient agreement whereby one Naga must be sacrificed daily. Moved by compassion (karuna—Buddhist cardinal virtue), Jimutavahana secretly substitutes himself for the designated Naga victim Shankhachuda, enduring Garuda's attack until divine intervention by goddess Gauri prevents death, resurrects Jimutavahana, and converts Garuda from predator to protector, ending the Nagas' persecution. Beyond religious allegory, the play demonstrates Harsha's dramatic mastery: psychologically complex characters, spectacular staging opportunities (aerial beings, supernatural combat, miraculous healing), sophisticated integration of karuna (compassion), vira (heroic), shringara (romantic), adbhuta (marvelous), and shanta (peaceful) rasas, and profound exploration of themes including selflessness, redemption possibility, compassion's transformative power, and religious values' practical application within dramatic form.
+
 ---
 
 # Nagananda (The Joy of the Serpents)

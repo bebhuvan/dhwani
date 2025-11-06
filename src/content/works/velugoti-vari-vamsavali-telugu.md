@@ -1,35 +1,44 @@
 ---
-title: 'వెలుగోటివారివంశావళి (Velugoti Vari Vamsavali)'
+title: వెలుగోటివారివంశావళి (Velugoti Vari Vamsavali)
 author:
-- N. Venkata Ramanaiah
+  - N. Venkata Ramanaiah
 year: 1939
 language:
-- Telugu
+  - Telugu
 genre:
-- Dynastic Genealogy
-- Regional History
-- Vamsavali
-description: |
-  The Velugoti Vari Vamsavali represents a critical historical document chronicling the socio-political trajectory of the Velugoti clan, a prominent Velama warrior lineage that played a significant role in the medieval political landscape of coastal Andhra Pradesh during the 13th-15th centuries. Compiled by scholar N. Venkata Ramanaiah in 1939, this genealogical text meticulously reconstructs the clan's military, territorial, and administrative history through a detailed examination of their relationships with major regional powers, including the Kakatiya dynasty, Reddi kingdoms, and Vijayanagara empire. The work emerges during a pivotal moment of historical scholarship in colonial India, when indigenous scholars were systematically recovering and analyzing regional narratives marginalized under British imperial documentation practices. By providing granular details of the Velugoti clan's military campaigns, territorial expansions, and political alliances, the text offers unprecedented insights into the complex hierarchical structures of medieval warrior communities in the eastern Deccan region. Beyond mere genealogical documentation, the vamsavali illuminates broader socio-cultural dynamics, including military strategies, patronage networks, inter-clan relationships, and the sophisticated administrative mechanisms that characterized regional political formations. Ramanaiah's scholarly intervention demonstrates the intricate methodological approaches of early 20th-century Indian historical research, employing rigorous textual analysis, oral histories, and archival sources to reconstruct a nuanced understanding of a regional warrior clan's historical significance. The work is particularly valuable for its contribution to Telugu literary and historical scholarship, preserving critical information about medieval power structures and cultural transformations in a region marked by dynamic political interactions and complex social hierarchies.
+  - Dynastic Genealogy
+  - Regional History
+  - Vamsavali
+description: >-
+  The Velugoti Vari Vamsavali represents a critical historical document
+  chronicling the socio-political trajectory of the Velugoti clan, a prominent
+  Velama warrior lineage that played a significant role in the medieval
+  political landscape of coastal Andhra Pradesh during the 13th-15th centuries.
+  Compiled by scholar N.
 collections:
-- regional-history
-- genealogy
+  - regional-history
+  - genealogy
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.ernet.dli.2015.385453
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/in.ernet.dli.2015.385453'
+    type: other
 references:
-- name: 'Wikipedia: Velama'
-  url: https://en.wikipedia.org/wiki/Velama
-  type: wikipedia
-- name: 'Wikipedia: Kakatiya dynasty'
-  url: https://en.wikipedia.org/wiki/Kakatiya_dynasty
-  type: wikipedia
-- name: 'Open Library'
-  url: https://openlibrary.org/search?q=Velugoti+Vamsavali&mode=everything
-  type: other
+  - name: 'Wikipedia: Velama'
+    url: 'https://en.wikipedia.org/wiki/Velama'
+    type: wikipedia
+  - name: 'Wikipedia: Kakatiya dynasty'
+    url: 'https://en.wikipedia.org/wiki/Kakatiya_dynasty'
+    type: wikipedia
+  - name: Open Library
+    url: 'https://openlibrary.org/search?q=Velugoti+Vamsavali&mode=everything'
+    type: other
 featured: false
-publishDate: 2025-10-26
+publishDate: 2025-10-26T00:00:00.000Z
+---
+## Historical Context
+
+The Velugoti Vari Vamsavali represents a critical historical document chronicling the socio-political trajectory of the Velugoti clan, a prominent Velama warrior lineage that played a significant role in the medieval political landscape of coastal Andhra Pradesh during the 13th-15th centuries. Compiled by scholar N. Venkata Ramanaiah in 1939, this genealogical text meticulously reconstructs the clan's military, territorial, and administrative history through a detailed examination of their relationships with major regional powers, including the Kakatiya dynasty, Reddi kingdoms, and Vijayanagara empire. The work emerges during a pivotal moment of historical scholarship in colonial India, when indigenous scholars were systematically recovering and analyzing regional narratives marginalized under British imperial documentation practices. By providing granular details of the Velugoti clan's military campaigns, territorial expansions, and political alliances, the text offers unprecedented insights into the complex hierarchical structures of medieval warrior communities in the eastern Deccan region. Beyond mere genealogical documentation, the vamsavali illuminates broader socio-cultural dynamics, including military strategies, patronage networks, inter-clan relationships, and the sophisticated administrative mechanisms that characterized regional political formations. Ramanaiah's scholarly intervention demonstrates the intricate methodological approaches of early 20th-century Indian historical research, employing rigorous textual analysis, oral histories, and archival sources to reconstruct a nuanced understanding of a regional warrior clan's historical significance. The work is particularly valuable for its contribution to Telugu literary and historical scholarship, preserving critical information about medieval power structures and cultural transformations in a region marked by dynamic political interactions and complex social hierarchies.
+
 ---
 
 # వెలుగోటివారివంశావళి (Velugoti Vari Vamsavali)

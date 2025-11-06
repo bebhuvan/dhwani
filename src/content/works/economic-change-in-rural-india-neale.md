@@ -1,35 +1,46 @@
 ---
-title: 'Economic Change in Rural India: Land Tenure and Reform in Uttar Pradesh, 1800-1955'
+title: >-
+  Economic Change in Rural India: Land Tenure and Reform in Uttar Pradesh,
+  1800-1955
 author:
-- Walter C. Neale
+  - Walter C. Neale
 year: 1962
 language:
-- English
+  - English
 genre:
-- Economic History
-- Social History
-- Policy Studies
-description: |
-  Walter C. Neale's seminal monograph "Economic Change in Rural India: Land Tenure and Reform in Uttar Pradesh, 1800-1955" represents a critical scholarly intervention in understanding the complex socioeconomic transformations of rural North India during a period of profound political and economic transition. Published in 1962, the work emerges at a crucial juncture in postcolonial India, when scholars were urgently reconstructing historical narratives of economic systems disrupted by colonial administrative practices. Drawing on extensive anthropological fieldwork and archival research, Neale provides a sophisticated longitudinal analysis of land tenure systems in Uttar Pradesh, tracing structural changes from late Mughal administrative frameworks through British colonial revenue mechanisms to the nascent economic policies of independent India. The study meticulously examines how property concepts, agricultural practices, and revenue systems evolved, revealing the intricate interactions between indigenous social structures and external administrative interventions. Neale's interdisciplinary approach—bridging economic anthropology, historical analysis, and policy studies—offers unprecedented insights into the mechanisms of rural economic transformation. By focusing on Uttar Pradesh, a region emblematic of India's agrarian complexity, the work illuminates broader patterns of social and economic adaptation in postcolonial contexts. The research is particularly significant for understanding how traditional land management systems negotiated and transformed under colonial and postcolonial governance, providing scholars and policymakers a nuanced framework for comprehending rural economic dynamics. Neale's sophisticated analysis contributes substantially to understanding India's economic heritage, demonstrating how local communities navigated and resisted structural economic changes while adapting to new political realities.
+  - Economic History
+  - Social History
+  - Policy Studies
+description: >-
+  Walter C. Neale's seminal monograph "Economic Change in Rural India: Land
+  Tenure and Reform in Uttar Pradesh, 1800-1955" represents a critical scholarly
+  intervention in understanding the complex socioeconomic transformations of
+  rural North India during a period of profound political and economic
+  transition.
 collections:
-- modern-literature
-- regional-voices
+  - modern-literature
+  - regional-voices
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/economicchangein0000neal
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/economicchangein0000neal'
+    type: other
 references:
-- name: 'Wikipedia: Land Reform in India'
-  url: https://en.wikipedia.org/wiki/Land_reforms_in_India
-  type: wikipedia
-- name: 'Wikipedia: Uttar Pradesh'
-  url: https://en.wikipedia.org/wiki/Uttar_Pradesh
-  type: wikipedia
-- name: 'OpenLibrary Search'
-  url: https://openlibrary.org/search?q=Economic+Change+Rural+India+Neale
-  type: other
+  - name: 'Wikipedia: Land Reform in India'
+    url: 'https://en.wikipedia.org/wiki/Land_reforms_in_India'
+    type: wikipedia
+  - name: 'Wikipedia: Uttar Pradesh'
+    url: 'https://en.wikipedia.org/wiki/Uttar_Pradesh'
+    type: wikipedia
+  - name: OpenLibrary Search
+    url: 'https://openlibrary.org/search?q=Economic+Change+Rural+India+Neale'
+    type: other
 featured: false
-publishDate: 2025-01-22
+publishDate: 2025-01-22T00:00:00.000Z
+---
+## Historical Context
+
+Walter C. Neale's seminal monograph "Economic Change in Rural India: Land Tenure and Reform in Uttar Pradesh, 1800-1955" represents a critical scholarly intervention in understanding the complex socioeconomic transformations of rural North India during a period of profound political and economic transition. Published in 1962, the work emerges at a crucial juncture in postcolonial India, when scholars were urgently reconstructing historical narratives of economic systems disrupted by colonial administrative practices. Drawing on extensive anthropological fieldwork and archival research, Neale provides a sophisticated longitudinal analysis of land tenure systems in Uttar Pradesh, tracing structural changes from late Mughal administrative frameworks through British colonial revenue mechanisms to the nascent economic policies of independent India. The study meticulously examines how property concepts, agricultural practices, and revenue systems evolved, revealing the intricate interactions between indigenous social structures and external administrative interventions. Neale's interdisciplinary approach—bridging economic anthropology, historical analysis, and policy studies—offers unprecedented insights into the mechanisms of rural economic transformation. By focusing on Uttar Pradesh, a region emblematic of India's agrarian complexity, the work illuminates broader patterns of social and economic adaptation in postcolonial contexts. The research is particularly significant for understanding how traditional land management systems negotiated and transformed under colonial and postcolonial governance, providing scholars and policymakers a nuanced framework for comprehending rural economic dynamics. Neale's sophisticated analysis contributes substantially to understanding India's economic heritage, demonstrating how local communities navigated and resisted structural economic changes while adapting to new political realities.
+
 ---
 
 # Economic Change in Rural India: Land Tenure and Reform in Uttar Pradesh, 1800-1955

@@ -1,31 +1,46 @@
 ---
-title: 'A Sanskrit–English Dictionary (enlarged ed.)'
+title: A Sanskrit–English Dictionary (enlarged ed.)
 author:
-- Monier Monier-Williams
+  - Monier Monier-Williams
 year: 1899
 language:
-- English
+  - English
 genre:
-- Reference Work
-description: |
-  Here's an enhanced scholarly description:
-  
-  Monier Monier-Williams' expanded Sanskrit–English Dictionary represents a pivotal scholarly achievement of late 19th-century Orientalist lexicography, emerging during the complex intellectual landscape of British colonial scholarship in India. Published in 1899, this comprehensive lexicographic work synthesizes extensive linguistic research and philological understanding of Sanskrit, a classical language foundational to numerous Indian literary, philosophical, and cultural traditions. The dictionary comprehensively documents Sanskrit terminology, etymologies, grammatical structures, and semantic nuances, providing unprecedented linguistic documentation that bridged Western academic methodologies with profound indigenous linguistic knowledge. Monier-Williams, a distinguished Oxford Professor of Sanskrit, drew from extensive manuscript collections, collaborative research with Indian scholars, and decades of meticulous linguistic analysis to produce this authoritative reference work. Beyond mere translation, the dictionary offers critical insights into semantic evolutions, philosophical conceptualizations, and cultural meanings embedded within Sanskrit terminology. Its significance extends beyond linguistic scholarship, serving as a crucial interpretive tool for understanding classical Indian texts in domains including literature, religious studies, philosophy, and historical linguistics. The work's methodological rigor and comprehensive scope established critical standards for comparative linguistic research, facilitating deeper cross-cultural understanding during a period of intense colonial academic engagement. For scholars, researchers, and cultural historians, this dictionary remains an indispensable resource for deciphering the intricate linguistic and conceptual landscapes of classical Indian intellectual traditions, preserving and interpreting a rich linguistic heritage at the intersection of colonial academic discourse and indigenous knowledge systems.
+  - Reference Work
+description: >-
+  Here's an enhanced scholarly description: Monier Monier-Williams' expanded
+  Sanskrit–English Dictionary represents a pivotal scholarly achievement of late
+  19th-century Orientalist lexicography, emerging during the complex
+  intellectual landscape of British colonial scholarship in India. Published in
+  1899, this comprehensive lexicographic work synthesizes extensive linguistic
+  research and philological understanding of Sanskrit, a classical language
+  foundational to numerous Indian literary, philosophical, and cultural
+  traditions.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.ernet.dli.2015.31959; https://archive.org/details/wSpc_a-sanskrit-english-dictionary-by-sir-monier-williams-1899-clarendon-press-oxford
-  type: other
+  - name: Internet Archive
+    url: >-
+      https://archive.org/details/in.ernet.dli.2015.31959;
+      https://archive.org/details/wSpc_a-sanskrit-english-dictionary-by-sir-monier-williams-1899-clarendon-press-oxford
+    type: other
 references:
-- name: 'Wikipedia: Monier Monier-Williams'
-  url: https://en.wikipedia.org/wiki/Monier_Monier-Williams
-  type: wikipedia
-- name: 'Open Library: A Sanskrit–English Dictionary (enlarged'
-  url: https://openlibrary.org/search?q=A+SanskritEnglish+Dictionary+enlarged+ed+year+Monier+Monier-Williams
-  type: other
+  - name: 'Wikipedia: Monier Monier-Williams'
+    url: 'https://en.wikipedia.org/wiki/Monier_Monier-Williams'
+    type: wikipedia
+  - name: 'Open Library: A Sanskrit–English Dictionary (enlarged'
+    url: >-
+      https://openlibrary.org/search?q=A+SanskritEnglish+Dictionary+enlarged+ed+year+Monier+Monier-Williams
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+Here's an enhanced scholarly description:
+
+Monier Monier-Williams' expanded Sanskrit–English Dictionary represents a pivotal scholarly achievement of late 19th-century Orientalist lexicography, emerging during the complex intellectual landscape of British colonial scholarship in India. Published in 1899, this comprehensive lexicographic work synthesizes extensive linguistic research and philological understanding of Sanskrit, a classical language foundational to numerous Indian literary, philosophical, and cultural traditions. The dictionary comprehensively documents Sanskrit terminology, etymologies, grammatical structures, and semantic nuances, providing unprecedented linguistic documentation that bridged Western academic methodologies with profound indigenous linguistic knowledge. Monier-Williams, a distinguished Oxford Professor of Sanskrit, drew from extensive manuscript collections, collaborative research with Indian scholars, and decades of meticulous linguistic analysis to produce this authoritative reference work. Beyond mere translation, the dictionary offers critical insights into semantic evolutions, philosophical conceptualizations, and cultural meanings embedded within Sanskrit terminology. Its significance extends beyond linguistic scholarship, serving as a crucial interpretive tool for understanding classical Indian texts in domains including literature, religious studies, philosophy, and historical linguistics. The work's methodological rigor and comprehensive scope established critical standards for comparative linguistic research, facilitating deeper cross-cultural understanding during a period of intense colonial academic engagement. For scholars, researchers, and cultural historians, this dictionary remains an indispensable resource for deciphering the intricate linguistic and conceptual landscapes of classical Indian intellectual traditions, preserving and interpreting a rich linguistic heritage at the intersection of colonial academic discourse and indigenous knowledge systems.
+
 ---
 
 # A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages

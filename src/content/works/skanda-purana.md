@@ -1,57 +1,68 @@
 ---
-title: 'Skanda Purana'
+title: Skanda Purana
 author:
-- Vyasa (attributed)
+  - Vyasa (attributed)
 year: 800
 language:
-- Sanskrit
-- English
+  - Sanskrit
+  - English
 genre:
-- Religious Texts
-- Mythology
-- Classical Literature
-- Pilgrimage Literature
-description: |
-  The Skanda Purana represents a monumental corpus of Hindu religious literature, embodying a complex textual tradition that emerged during the transformative early medieval period of Indian intellectual and cultural history. Attributed traditionally to the legendary sage Vyasa, this extensive compilation—the largest among the eighteen Mahapuranas—comprises approximately 81,000 verses primarily dedicated to Lord Skanda (Kartikeya), the divine warrior-god and son of Shiva. Developed between the 8th and 12th centuries CE, the text reflects a critical phase of Hindu religious consolidation, systematically integrating diverse regional theological narratives and pilgrimage traditions into a comprehensive pan-Indian religious framework. As a quintessential example of tirtha mahatmya literature, the Skanda Purana meticulously documents sacred geography, providing intricate descriptions of holy sites, temples, rivers, and ritualistic practices across the Indian subcontinent. The text's significance extends beyond mere religious documentation, serving as a crucial anthropological and cultural repository that illuminates medieval Hindu social structures, theological developments, and regional religious adaptations. Its complex narrative structure encompasses mythological accounts, philosophical discourses, genealogical records, and detailed ritual prescriptions, demonstrating the sophisticated literary and intellectual traditions of the period. Scholars recognize the Skanda Purana as a critical source for understanding the evolution of Hindu devotional practices, particularly the cult of Skanda-Kartikeya, and its role in synthesizing diverse theological and cultural traditions across different Indian regions. The text's comprehensive nature and scholarly methodology make it an invaluable resource for understanding the dynamic religious and cultural landscape of medieval India, offering profound insights into the intellectual and spiritual heritage of the subcontinent.
+  - Religious Texts
+  - Mythology
+  - Classical Literature
+  - Pilgrimage Literature
+description: >-
+  The Skanda Purana represents a monumental corpus of Hindu religious
+  literature, embodying a complex textual tradition that emerged during the
+  transformative early medieval period of Indian intellectual and cultural
+  history. Attributed traditionally to the legendary sage Vyasa, this extensive
+  compilation—the largest among the eighteen Mahapuranas—comprises approximately
+  81,000 verses primarily dedicated to Lord Skanda (Kartikeya), the divine
+  warrior-god and son of Shiva.
 collections:
-- religious-texts
-- classical-literature
-- devotional-literature
-- ancient-wisdom
+  - religious-texts
+  - classical-literature
+  - devotional-literature
+  - ancient-wisdom
 sources:
-- name: 'Internet Archive (Various Sanskrit editions and translations)'
-  url: https://archive.org/search.php?query=skanda+purana
-  type: other
-- name: 'Wisdom Library: The Skanda Purana'
-  url: https://www.wisdomlib.org/hinduism/book/the-skanda-purana
-  type: other
-- name: 'GRETIL (Göttingen Register of Electronic Texts in Indian Languages)'
-  url: http://gretil.sub.uni-goettingen.de/gretil.html
-  type: other
+  - name: Internet Archive (Various Sanskrit editions and translations)
+    url: 'https://archive.org/search.php?query=skanda+purana'
+    type: other
+  - name: 'Wisdom Library: The Skanda Purana'
+    url: 'https://www.wisdomlib.org/hinduism/book/the-skanda-purana'
+    type: other
+  - name: GRETIL (Göttingen Register of Electronic Texts in Indian Languages)
+    url: 'http://gretil.sub.uni-goettingen.de/gretil.html'
+    type: other
 references:
-- name: 'Wikipedia: Skanda Purana'
-  url: https://en.wikipedia.org/wiki/Skanda_Purana
-  type: wikipedia
-- name: 'Wikipedia: Puranas'
-  url: https://en.wikipedia.org/wiki/Puranas
-  type: wikipedia
-- name: 'Wikipedia: Kartikeya'
-  url: https://en.wikipedia.org/wiki/Kartikeya
-  type: wikipedia
-- name: 'Wikipedia: Tirtha (Hinduism)'
-  url: https://en.wikipedia.org/wiki/Tirtha_(Hinduism)
-  type: wikipedia
-- name: 'Wikipedia: Shaivism'
-  url: https://en.wikipedia.org/wiki/Shaivism
-  type: wikipedia
-- name: 'Wikipedia: Hindu Pilgrimage Sites'
-  url: https://en.wikipedia.org/wiki/Hindu_pilgrimage_sites
-  type: wikipedia
-- name: 'Open Library: Skanda Purana'
-  url: https://openlibrary.org/search?q=Skanda+Purana
-  type: other
+  - name: 'Wikipedia: Skanda Purana'
+    url: 'https://en.wikipedia.org/wiki/Skanda_Purana'
+    type: wikipedia
+  - name: 'Wikipedia: Puranas'
+    url: 'https://en.wikipedia.org/wiki/Puranas'
+    type: wikipedia
+  - name: 'Wikipedia: Kartikeya'
+    url: 'https://en.wikipedia.org/wiki/Kartikeya'
+    type: wikipedia
+  - name: 'Wikipedia: Tirtha (Hinduism)'
+    url: 'https://en.wikipedia.org/wiki/Tirtha_(Hinduism)'
+    type: wikipedia
+  - name: 'Wikipedia: Shaivism'
+    url: 'https://en.wikipedia.org/wiki/Shaivism'
+    type: wikipedia
+  - name: 'Wikipedia: Hindu Pilgrimage Sites'
+    url: 'https://en.wikipedia.org/wiki/Hindu_pilgrimage_sites'
+    type: wikipedia
+  - name: 'Open Library: Skanda Purana'
+    url: 'https://openlibrary.org/search?q=Skanda+Purana'
+    type: other
 featured: false
-publishDate: 2025-11-02
+publishDate: 2025-11-02T00:00:00.000Z
+---
+## Historical Context
+
+The Skanda Purana represents a monumental corpus of Hindu religious literature, embodying a complex textual tradition that emerged during the transformative early medieval period of Indian intellectual and cultural history. Attributed traditionally to the legendary sage Vyasa, this extensive compilation—the largest among the eighteen Mahapuranas—comprises approximately 81,000 verses primarily dedicated to Lord Skanda (Kartikeya), the divine warrior-god and son of Shiva. Developed between the 8th and 12th centuries CE, the text reflects a critical phase of Hindu religious consolidation, systematically integrating diverse regional theological narratives and pilgrimage traditions into a comprehensive pan-Indian religious framework. As a quintessential example of tirtha mahatmya literature, the Skanda Purana meticulously documents sacred geography, providing intricate descriptions of holy sites, temples, rivers, and ritualistic practices across the Indian subcontinent. The text's significance extends beyond mere religious documentation, serving as a crucial anthropological and cultural repository that illuminates medieval Hindu social structures, theological developments, and regional religious adaptations. Its complex narrative structure encompasses mythological accounts, philosophical discourses, genealogical records, and detailed ritual prescriptions, demonstrating the sophisticated literary and intellectual traditions of the period. Scholars recognize the Skanda Purana as a critical source for understanding the evolution of Hindu devotional practices, particularly the cult of Skanda-Kartikeya, and its role in synthesizing diverse theological and cultural traditions across different Indian regions. The text's comprehensive nature and scholarly methodology make it an invaluable resource for understanding the dynamic religious and cultural landscape of medieval India, offering profound insights into the intellectual and spiritual heritage of the subcontinent.
+
 ---
 
 ## Composition, Dating, and Textual Complexity

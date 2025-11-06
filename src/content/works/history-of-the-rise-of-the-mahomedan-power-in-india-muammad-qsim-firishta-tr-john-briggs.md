@@ -1,30 +1,47 @@
 ---
-title: 'History of the Rise of the Mahomedan Power in India'
+title: History of the Rise of the Mahomedan Power in India
 author:
-- Muḥammad Qāsim Firishta
-- tr. John Briggs
+  - Muḥammad Qāsim Firishta
+  - tr. John Briggs
 year: 1829
 language:
-- English
+  - English
 genre:
-- Historical Literature
-description: |
-  Muḥammad Qāsim Firishta's "History of the Rise of the Mahomedan Power in India," translated by John Briggs in 1829, represents a pivotal historical narrative documenting the Islamic sultanates and their transformative impact on the Indian subcontinent between the 13th and 17th centuries. Firishta, a Persian historian working during the late Mughal period, compiled an extensive chronicle that synthesizes complex political, cultural, and social developments across multiple regional kingdoms, providing unprecedented scholarly insight into the dynamic interactions between Islamic and indigenous Indian political structures. The work meticulously traces the emergence and progression of Muslim political entities from the Delhi Sultanate through various regional dynasties, offering nuanced perspectives on administrative systems, cultural exchanges, and the gradual integration of Persian, Arabic, and local administrative and cultural practices. Briggs' English translation made this critical historical document accessible to colonial-era scholars and administrators, facilitating a more comprehensive understanding of India's medieval political landscape. Firishta's narrative is particularly significant for its comprehensive approach, blending detailed historical documentation with sophisticated analytical perspectives that transcend simplistic narratives of conquest. By carefully documenting administrative practices, cultural interactions, and political developments, the text provides invaluable insights into the complex processes of cultural and political transformation in pre-colonial India. As a foundational text in Indian historiography, this work remains crucial for understanding the intricate layers of cultural and political interactions that shaped the subcontinent's historical trajectory, bridging indigenous historical traditions with emerging colonial scholarly methodologies.
+  - Historical Literature
+description: >-
+  Muḥammad Qāsim Firishta's "History of the Rise of the Mahomedan Power in
+  India," translated by John Briggs in 1829, represents a pivotal historical
+  narrative documenting the Islamic sultanates and their transformative impact
+  on the Indian subcontinent between the 13th and 17th centuries. Firishta, a
+  Persian historian working during the late Mughal period, compiled an extensive
+  chronicle that synthesizes complex political, cultural, and social
+  developments across multiple regional kingdoms, providing unprecedented
+  scholarly insight into the dynamic interactions between Islamic and indigenous
+  Indian political structures.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.ernet.dli.2015.82679; https://archive.org/details/in.ernet.dli.2015.189197; https://archive.org/details/dli.ernet.107664
-  type: other
+  - name: Internet Archive
+    url: >-
+      https://archive.org/details/in.ernet.dli.2015.82679;
+      https://archive.org/details/in.ernet.dli.2015.189197;
+      https://archive.org/details/dli.ernet.107664
+    type: other
 references:
-- name: 'Wikipedia: Firishta'
-  url: https://en.wikipedia.org/wiki/Firishta
-  type: wikipedia
-- name: 'Open Library: History of the Rise'
-  url: https://openlibrary.org/search?q=History+of+the+Rise+of+the+Muḥammad+Qāsim+Firishta
-  type: other
+  - name: 'Wikipedia: Firishta'
+    url: 'https://en.wikipedia.org/wiki/Firishta'
+    type: wikipedia
+  - name: 'Open Library: History of the Rise'
+    url: >-
+      https://openlibrary.org/search?q=History+of+the+Rise+of+the+Muḥammad+Qāsim+Firishta
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+Muḥammad Qāsim Firishta's "History of the Rise of the Mahomedan Power in India," translated by John Briggs in 1829, represents a pivotal historical narrative documenting the Islamic sultanates and their transformative impact on the Indian subcontinent between the 13th and 17th centuries. Firishta, a Persian historian working during the late Mughal period, compiled an extensive chronicle that synthesizes complex political, cultural, and social developments across multiple regional kingdoms, providing unprecedented scholarly insight into the dynamic interactions between Islamic and indigenous Indian political structures. The work meticulously traces the emergence and progression of Muslim political entities from the Delhi Sultanate through various regional dynasties, offering nuanced perspectives on administrative systems, cultural exchanges, and the gradual integration of Persian, Arabic, and local administrative and cultural practices. Briggs' English translation made this critical historical document accessible to colonial-era scholars and administrators, facilitating a more comprehensive understanding of India's medieval political landscape. Firishta's narrative is particularly significant for its comprehensive approach, blending detailed historical documentation with sophisticated analytical perspectives that transcend simplistic narratives of conquest. By carefully documenting administrative practices, cultural interactions, and political developments, the text provides invaluable insights into the complex processes of cultural and political transformation in pre-colonial India. As a foundational text in Indian historiography, this work remains crucial for understanding the intricate layers of cultural and political interactions that shaped the subcontinent's historical trajectory, bridging indigenous historical traditions with emerging colonial scholarly methodologies.
+
 ---
 
 ## The Author and Original Work

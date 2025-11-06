@@ -1,34 +1,60 @@
 ---
-title: "État civil, politique et commerçant du Bengale (Volumes 1-2)"
-author: ["William Bolts"]
+title: 'État civil, politique et commerçant du Bengale (Volumes 1-2)'
+author:
+  - William Bolts
 year: 1778
-language: ["French"]
-genre: ["Political Literature", "Economic History"]
-description: "William Bolts's two-volume French exposé État civil, politique et commerçant du Bengale (1778) provides a scathing critique of British East India Company rule in Bengal. An ex-Company merchant expelled for private trading, Bolts documents the Company's conquest of Bengal, systematic fiscal exploitation, commercial monopolies, and administrative corruption during the 1760s. Volume 1 recounts the Company's military expansion, oppressive revenue collection, and monopolistic trade practices that devastated Bengali weavers and merchants. Volume 2 continues the indictment, examining revenue settlements under the Dewani (1765), private trade abuses by Company officials, diplomatic scandals, and the famine of 1769-70 which Bolts attributes to Company misrule. Originally published in English as Considerations on India Affairs (1772), this French translation aimed to influence Continental European opinion against British commercial imperialism. Bolts's eyewitness account, though partisan, provides invaluable documentation of early Company rule's economic impact on Bengal, predating later critiques by Edmund Burke and parliamentary investigations. The work influenced European Enlightenment debates about colonial exploitation and remains a primary source for understanding 18th-century Bengal's transformation under Company administration."
-collections: ["historical-texts", "colonial-india", "historical-texts"]
+language:
+  - French
+genre:
+  - Political Literature
+  - Economic History
+description: >-
+  William Bolts's two-volume French exposé État civil, politique et commerçant
+  du Bengale (1778) provides a scathing critique of British East India Company
+  rule in Bengal. An ex-Company merchant expelled for private trading, Bolts
+  documents the Company's conquest of Bengal, systematic fiscal exploitation,
+  commercial monopolies, and administrative corruption during the 1760s.
+collections:
+  - historical-texts
+  - colonial-india
+  - historical-texts
 sources:
-  - name: "Internet Archive (Volume 1)"
-    url: "https://archive.org/details/tatcivilpoliti01bolt"
-    type: "other"
-  - name: "Internet Archive (Volume 2)"
-    url: "https://archive.org/details/tatcivilpoliti02bolt"
-    type: "other"
+  - name: Internet Archive (Volume 1)
+    url: 'https://archive.org/details/tatcivilpoliti01bolt'
+    type: other
+  - name: Internet Archive (Volume 2)
+    url: 'https://archive.org/details/tatcivilpoliti02bolt'
+    type: other
 featured: false
-publishDate: 2025-10-22
+publishDate: 2025-10-22T00:00:00.000Z
 references:
-  - name: "Wikipedia: William Bolts"
-    url: "https://en.wikipedia.org/wiki/William_Bolts"
-    type: "wikipedia"
-  - name: "Wikipedia: East India Company"
-    url: "https://en.wikipedia.org/wiki/East_India_Company"
-    type: "wikipedia"
-  - name: "Wikipedia: Bengal Famine of 1770"
-    url: "https://en.wikipedia.org/wiki/Great_Bengal_famine_of_1770"
-    type: "wikipedia"
-  - name: "Open Library Search"
-    url: "https://openlibrary.org/search?q=%C3%89tat+civil+politique+et+commer%C3%A7ant+du+Bengale+William+Bolts"
-    type: "other"
-tags: ["Bengal", "East India Company", "Colonial critique", "18th century", "French translation", "Economic exploitation", "Revenue settlements", "Company rule"]
+  - name: 'Wikipedia: William Bolts'
+    url: 'https://en.wikipedia.org/wiki/William_Bolts'
+    type: wikipedia
+  - name: 'Wikipedia: East India Company'
+    url: 'https://en.wikipedia.org/wiki/East_India_Company'
+    type: wikipedia
+  - name: 'Wikipedia: Bengal Famine of 1770'
+    url: 'https://en.wikipedia.org/wiki/Great_Bengal_famine_of_1770'
+    type: wikipedia
+  - name: Open Library Search
+    url: >-
+      https://openlibrary.org/search?q=%C3%89tat+civil+politique+et+commer%C3%A7ant+du+Bengale+William+Bolts
+    type: other
+tags:
+  - Bengal
+  - East India Company
+  - Colonial critique
+  - 18th century
+  - French translation
+  - Economic exploitation
+  - Revenue settlements
+  - Company rule
+---
+## Historical Context
+
+William Bolts's two-volume French exposé État civil, politique et commerçant du Bengale (1778) provides a scathing critique of British East India Company rule in Bengal. An ex-Company merchant expelled for private trading, Bolts documents the Company's conquest of Bengal, systematic fiscal exploitation, commercial monopolies, and administrative corruption during the 1760s. Volume 1 recounts the Company's military expansion, oppressive revenue collection, and monopolistic trade practices that devastated Bengali weavers and merchants. Volume 2 continues the indictment, examining revenue settlements under the Dewani (1765), private trade abuses by Company officials, diplomatic scandals, and the famine of 1769-70 which Bolts attributes to Company misrule. Originally published in English as Considerations on India Affairs (1772), this French translation aimed to influence Continental European opinion against British commercial imperialism. Bolts's eyewitness account, though partisan, provides invaluable documentation of early Company rule's economic impact on Bengal, predating later critiques by Edmund Burke and parliamentary investigations. The work influenced European Enlightenment debates about colonial exploitation and remains a primary source for understanding 18th-century Bengal's transformation under Company administration.
+
 ---
 
 # État civil, politique et commerçant du Bengale

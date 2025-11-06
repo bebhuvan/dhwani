@@ -1,33 +1,44 @@
 ---
-title: 'తెలుగు-ఇంగ్లీషు నిఘంటువు (Telugu-English Dictionary)'
+title: తెలుగు-ఇంగ్లీషు నిఘంటువు (Telugu-English Dictionary)
 author:
-- పి శంకరనారాయణ
+  - పి శంకరనారాయణ
 year: 1900
 language:
-- Telugu
+  - Telugu
 genre:
-- Telugu Lexicography
-- Reference Literature
-- Dravidian Linguistics
-description: |
-  తెలుగు-ఇంగ్లీషు నిఘంటువు (Telugu-English Dictionary), authored by పి శంకరనారాయణ in 1900, represents a pivotal scholarly intervention in late colonial-era linguistic documentation. Emerging during a critical period of linguistic transformation in British India, this comprehensive lexicographic work systematically bridged Telugu language scholarship with English administrative and academic requirements. Positioned at the intersection of indigenous linguistic knowledge and colonial intellectual frameworks, the dictionary was part of a broader scholarly movement among Telugu intellectuals to methodically document, standardize, and preserve their linguistic heritage. The work reflects the complex cultural negotiations of the time, where scholars sought to demonstrate the sophisticated grammatical and semantic structures of Telugu while also facilitating cross-linguistic communication. By meticulously cataloging Telugu vocabulary, semantic nuances, and etymological connections, the dictionary served multiple crucial functions: as a reference tool for colonial administrators, an educational resource for language learners, and a scholarly document of linguistic preservation. Its compilation required extensive linguistic expertise, drawing from classical Telugu literary sources, regional dialect variations, and contemporary language usage. The dictionary was particularly significant in an era of intense cultural self-representation, where linguistic documentation was seen as a form of intellectual resistance and cultural assertion. For scholars of Dravidian linguistics, Telugu literature, and colonial-era intellectual history, this work provides invaluable insights into the linguistic consciousness of South Indian intellectuals at the turn of the 20th century, demonstrating their sophisticated approaches to language documentation, translation, and cultural knowledge production.
+  - Telugu Lexicography
+  - Reference Literature
+  - Dravidian Linguistics
+description: >-
+  తెలుగు-ఇంగ్లీషు నిఘంటువు (Telugu-English Dictionary), authored by పి
+  శంకరనారాయణ in 1900, represents a pivotal scholarly intervention in late
+  colonial-era linguistic documentation. Emerging during a critical period of
+  linguistic transformation in British India, this comprehensive lexicographic
+  work systematically bridged Telugu language scholarship with English
+  administrative and academic requirements.
 collections:
-- reference-texts
-- linguistic-works
-- regional-literature
+  - reference-texts
+  - linguistic-works
+  - regional-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.ernet.dli.2015.70512
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/in.ernet.dli.2015.70512'
+    type: other
 references:
-- name: 'Wikipedia: Telugu Language'
-  url: https://en.wikipedia.org/wiki/Telugu_language
-  type: wikipedia
-- name: 'Open Library: తెలుగు-ఇంగ్లీషు నిఘంటువు (Telugu-English Dictionary) year'
-  url: https://openlibrary.org/search?q=తలగ-ఇగలష+నఘటవ+Telugu-English+Dictionary+year+1900+ప+శకరనరయణ
-  type: other
+  - name: 'Wikipedia: Telugu Language'
+    url: 'https://en.wikipedia.org/wiki/Telugu_language'
+    type: wikipedia
+  - name: 'Open Library: తెలుగు-ఇంగ్లీషు నిఘంటువు (Telugu-English Dictionary) year'
+    url: >-
+      https://openlibrary.org/search?q=తలగ-ఇగలష+నఘటవ+Telugu-English+Dictionary+year+1900+ప+శకరనరయణ
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+తెలుగు-ఇంగ్లీషు నిఘంటువు (Telugu-English Dictionary), authored by పి శంకరనారాయణ in 1900, represents a pivotal scholarly intervention in late colonial-era linguistic documentation. Emerging during a critical period of linguistic transformation in British India, this comprehensive lexicographic work systematically bridged Telugu language scholarship with English administrative and academic requirements. Positioned at the intersection of indigenous linguistic knowledge and colonial intellectual frameworks, the dictionary was part of a broader scholarly movement among Telugu intellectuals to methodically document, standardize, and preserve their linguistic heritage. The work reflects the complex cultural negotiations of the time, where scholars sought to demonstrate the sophisticated grammatical and semantic structures of Telugu while also facilitating cross-linguistic communication. By meticulously cataloging Telugu vocabulary, semantic nuances, and etymological connections, the dictionary served multiple crucial functions: as a reference tool for colonial administrators, an educational resource for language learners, and a scholarly document of linguistic preservation. Its compilation required extensive linguistic expertise, drawing from classical Telugu literary sources, regional dialect variations, and contemporary language usage. The dictionary was particularly significant in an era of intense cultural self-representation, where linguistic documentation was seen as a form of intellectual resistance and cultural assertion. For scholars of Dravidian linguistics, Telugu literature, and colonial-era intellectual history, this work provides invaluable insights into the linguistic consciousness of South Indian intellectuals at the turn of the 20th century, demonstrating their sophisticated approaches to language documentation, translation, and cultural knowledge production.
+
 ---
 
 ## Overview

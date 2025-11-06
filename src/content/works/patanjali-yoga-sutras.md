@@ -1,48 +1,58 @@
 ---
-title: 'Yoga Sutras of Patanjali (Classical Foundation of Yoga Philosophy)'
+title: Yoga Sutras of Patanjali (Classical Foundation of Yoga Philosophy)
 author:
-- Patanjali
+  - Patanjali
 year: 400
 language:
-- Sanskrit
-- English
+  - Sanskrit
+  - English
 genre:
-- Philosophy
-- Spirituality
-- Classical Literature
-description: |
-  The Yoga Sutras of Patanjali represents a pivotal philosophical and systematic treatise that emerged during the classical period of Indian intellectual tradition, approximately around 400 CE. Composed in concise Sanskrit aphorisms, this foundational text comprehensively articulates the philosophical and practical dimensions of yoga as a sophisticated psycho-spiritual technology for human transformation. Comprising 195-196 sutras meticulously organized into four chapters (Samadhi, Sadhana, Vibhuti, and Kaivalya), the work systematically delineates yoga as a methodical approach to cessation of mental fluctuations and attainment of higher consciousness. Patanjali, whose biographical details remain somewhat enigmatic, synthesized existing philosophical and contemplative traditions into a coherent framework that would profoundly influence subsequent Indian philosophical schools, particularly Samkhya and Vedanta. The text introduces the revolutionary eight-limbed path (Ashtanga Yoga), which provides a comprehensive methodology for spiritual development, encompassing ethical precepts, physical practices, breath control, sensory withdrawal, concentration, meditation, and ultimate liberation. By establishing a sophisticated epistemological framework that distinguishes between consciousness (purusha) and material reality (prakriti), Patanjali offers a nuanced understanding of human psychological processes and spiritual potential. The Yoga Sutras transcends mere physical exercise, presenting yoga as a sophisticated philosophical system for understanding consciousness, achieving mental clarity, and ultimately realizing profound existential liberation. Its enduring significance lies in its systematic approach to inner transformation, providing a pragmatic blueprint for spiritual development that continues to inspire philosophical, psychological, and contemplative traditions worldwide.
+  - Philosophy
+  - Spirituality
+  - Classical Literature
+description: >-
+  The Yoga Sutras of Patanjali represents a pivotal philosophical and systematic
+  treatise that emerged during the classical period of Indian intellectual
+  tradition, approximately around 400 CE. Composed in concise Sanskrit
+  aphorisms, this foundational text comprehensively articulates the
+  philosophical and practical dimensions of yoga as a sophisticated
+  psycho-spiritual technology for human transformation.
 collections:
-- philosophy
-- spiritual-texts
-- classical-literature
-- ancient-wisdom
-- scholarly-translations
+  - philosophy
+  - spiritual-texts
+  - classical-literature
+  - ancient-wisdom
+  - scholarly-translations
 sources:
-- name: 'Internet Archive (Various translations)'
-  url: https://archive.org/search?query=yoga+sutras+patanjali
-  type: other
-- name: 'Sacred Texts: Yoga Sutras'
-  url: https://www.sacred-texts.com/hin/yogasutr.htm
-  type: other
+  - name: Internet Archive (Various translations)
+    url: 'https://archive.org/search?query=yoga+sutras+patanjali'
+    type: other
+  - name: 'Sacred Texts: Yoga Sutras'
+    url: 'https://www.sacred-texts.com/hin/yogasutr.htm'
+    type: other
 references:
-- name: 'Wikipedia: Yoga Sutras of Patanjali'
-  url: https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali
-  type: wikipedia
-- name: 'Wikipedia: Patanjali'
-  url: https://en.wikipedia.org/wiki/Patanjali
-  type: wikipedia
-- name: 'Wikipedia: Ashtanga (eight limbs of yoga)'
-  url: https://en.wikipedia.org/wiki/Ashtanga_(eight_limbs_of_yoga)
-  type: wikipedia
-- name: 'Wikipedia: Samadhi'
-  url: https://en.wikipedia.org/wiki/Samadhi
-  type: wikipedia
-- name: 'Internet Encyclopedia of Philosophy: Yoga Sutras'
-  url: https://iep.utm.edu/yoga/
-  type: other
+  - name: 'Wikipedia: Yoga Sutras of Patanjali'
+    url: 'https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali'
+    type: wikipedia
+  - name: 'Wikipedia: Patanjali'
+    url: 'https://en.wikipedia.org/wiki/Patanjali'
+    type: wikipedia
+  - name: 'Wikipedia: Ashtanga (eight limbs of yoga)'
+    url: 'https://en.wikipedia.org/wiki/Ashtanga_(eight_limbs_of_yoga)'
+    type: wikipedia
+  - name: 'Wikipedia: Samadhi'
+    url: 'https://en.wikipedia.org/wiki/Samadhi'
+    type: wikipedia
+  - name: 'Internet Encyclopedia of Philosophy: Yoga Sutras'
+    url: 'https://iep.utm.edu/yoga/'
+    type: other
 featured: false
-publishDate: 2025-11-02
+publishDate: 2025-11-02T00:00:00.000Z
+---
+## Historical Context
+
+The Yoga Sutras of Patanjali represents a pivotal philosophical and systematic treatise that emerged during the classical period of Indian intellectual tradition, approximately around 400 CE. Composed in concise Sanskrit aphorisms, this foundational text comprehensively articulates the philosophical and practical dimensions of yoga as a sophisticated psycho-spiritual technology for human transformation. Comprising 195-196 sutras meticulously organized into four chapters (Samadhi, Sadhana, Vibhuti, and Kaivalya), the work systematically delineates yoga as a methodical approach to cessation of mental fluctuations and attainment of higher consciousness. Patanjali, whose biographical details remain somewhat enigmatic, synthesized existing philosophical and contemplative traditions into a coherent framework that would profoundly influence subsequent Indian philosophical schools, particularly Samkhya and Vedanta. The text introduces the revolutionary eight-limbed path (Ashtanga Yoga), which provides a comprehensive methodology for spiritual development, encompassing ethical precepts, physical practices, breath control, sensory withdrawal, concentration, meditation, and ultimate liberation. By establishing a sophisticated epistemological framework that distinguishes between consciousness (purusha) and material reality (prakriti), Patanjali offers a nuanced understanding of human psychological processes and spiritual potential. The Yoga Sutras transcends mere physical exercise, presenting yoga as a sophisticated philosophical system for understanding consciousness, achieving mental clarity, and ultimately realizing profound existential liberation. Its enduring significance lies in its systematic approach to inner transformation, providing a pragmatic blueprint for spiritual development that continues to inspire philosophical, psychological, and contemplative traditions worldwide.
+
 ---
 
 # Yoga Sutras of Patanjali

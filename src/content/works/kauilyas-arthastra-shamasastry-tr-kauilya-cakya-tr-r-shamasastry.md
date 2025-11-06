@@ -1,36 +1,43 @@
 ---
-title: "Kauṭilya's Arthaśāstra (Shamasastry tr.)"
+title: Kauṭilya's Arthaśāstra (Shamasastry tr.)
 author:
-- Kauṭilya (Cāṇakya)
-- tr. R. Shamasastry
+  - Kauṭilya (Cāṇakya)
+  - tr. R. Shamasastry
 year: 1915
 language:
-- English
+  - English
 genre:
-- Political Literature
-description: |
-  R. Shamasastry's first English translation of Kautilya's ancient treatise on statecraft and political economy. Composed around 300 BCE during the Mauryan Empire, the Arthaśāstra emerged during a pivotal period of political consolidation under Emperor Chandragupta Maurya, when sophisticated systems of governance and economic administration were being developed across the Indian subcontinent. Kautilya (also known as Chanakya), the work's author and a prominent royal advisor, is widely considered the architect of the Mauryan state's strategic expansion, and his treatise represents one of the most comprehensive and nuanced political science manuscripts of the ancient world. This pioneering 1915 translation revealed to Western scholarship India's sophisticated tradition of political philosophy comparable to Machiavelli.
+  - Political Literature
+description: >-
+  R. Shamasastry's first English translation of Kautilya's ancient treatise on
+  statecraft and political economy.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.gov.ignca.8564
-  type: other
-- name: 'Internet Archive'
-  url: https://archive.org/details/dli.ernet.30500
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/in.gov.ignca.8564'
+    type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/dli.ernet.30500'
+    type: other
 references:
-- name: "Wikisource"
-  url: https://en.wikisource.org/wiki/Arthashastra
-  type: wikisource
-- name: "Wikipedia: Arthashastra"
-  url: https://en.wikipedia.org/wiki/Arthashastra
-  type: wikipedia
-- name: "Open Library: Kauṭilya's Arthaśāstra (Shamasastry tr.) year"
-  url: https://openlibrary.org/search?q=Kauṭilyas+Arthaśāstra+Shamasastry+tr+year+1915+Kauṭilya+Cāṇakya
-  type: other
+  - name: Wikisource
+    url: 'https://en.wikisource.org/wiki/Arthashastra'
+    type: wikisource
+  - name: 'Wikipedia: Arthashastra'
+    url: 'https://en.wikipedia.org/wiki/Arthashastra'
+    type: wikipedia
+  - name: 'Open Library: Kauṭilya''s Arthaśāstra (Shamasastry tr.) year'
+    url: >-
+      https://openlibrary.org/search?q=Kauṭilyas+Arthaśāstra+Shamasastry+tr+year+1915+Kauṭilya+Cāṇakya
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+R. Shamasastry's first English translation of Kautilya's ancient treatise on statecraft and political economy. Composed around 300 BCE during the Mauryan Empire, the Arthaśāstra emerged during a pivotal period of political consolidation under Emperor Chandragupta Maurya, when sophisticated systems of governance and economic administration were being developed across the Indian subcontinent. Kautilya (also known as Chanakya), the work's author and a prominent royal advisor, is widely considered the architect of the Mauryan state's strategic expansion, and his treatise represents one of the most comprehensive and nuanced political science manuscripts of the ancient world. This pioneering 1915 translation revealed to Western scholarship India's sophisticated tradition of political philosophy comparable to Machiavelli.
+
 ---
 
 ## The Rediscovery of a Lost Text

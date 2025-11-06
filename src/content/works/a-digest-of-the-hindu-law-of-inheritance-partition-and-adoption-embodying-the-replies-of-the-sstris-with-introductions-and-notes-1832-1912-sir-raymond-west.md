@@ -1,35 +1,47 @@
 ---
 title: 'A Digest of Hindu Law: Inheritance, Partition, and Adoption'
 author:
-- Raymond West
-- Georg Bühler
+  - Raymond West
+  - Georg Bühler
 year: 1919
 language:
-- English
-- Sanskrit
+  - English
+  - Sanskrit
 genre:
-- Legal Studies
-- Reference
-description: |
-  A definitive scholarly compilation of Hindu personal law, this landmark work represents a critical intellectual endeavor at the intersection of colonial legal anthropology and indigenous jurisprudential traditions. Produced during the transformative period between 1870-1920, the digest emerges from extensive consultations with traditional Shastris and meticulous Sanskrit manuscript research, reflecting a nuanced engagement with classical Hindu legal frameworks during the twilight of British imperial scholarship. Sir Raymond West, a distinguished Bombay High Court judge with deep insights into Indian legal systems, collaborated with Georg Bühler, the preeminent Austro-Hungarian Indologist renowned for his profound Sanskrit scholarship and translations of fundamental texts like the Laws of Manu. Their work systematically documented and interpreted complex Hindu legal principles governing inheritance, familial property partition, and adoption practices, providing an unprecedented scholarly bridge between indigenous normative frameworks and emerging colonial legal administrative structures. Beyond its immediate colonial context, the digest represents a significant scholarly intervention in understanding the sophisticated internal logic of Hindu legal thought, capturing intricate social regulations that had been transmitted through centuries of oral and textual traditions. By rigorously analyzing and codifying these legal practices, West and Bühler not only facilitated colonial administrative understanding but also preserved critical dimensions of Indian cultural-legal epistemology that might have otherwise been marginalized or misunderstood. The work remains a pivotal reference for scholars of Indian legal history, anthropology, and cultural studies, offering profound insights into the complex normative structures underlying traditional Hindu social organization.
+  - Legal Studies
+  - Reference
+description: >-
+  A definitive scholarly compilation of Hindu personal law, this landmark work
+  represents a critical intellectual endeavor at the intersection of colonial
+  legal anthropology and indigenous jurisprudential traditions. Produced during
+  the transformative period between 1870-1920, the digest emerges from extensive
+  consultations with traditional Shastris and meticulous Sanskrit manuscript
+  research, reflecting a nuanced engagement with classical Hindu legal
+  frameworks during the twilight of British imperial scholarship.
 collections:
-- spiritual-texts
+  - spiritual-texts
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/digestofhindulaw00westuoft
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/digestofhindulaw00westuoft'
+    type: other
 references:
-- name: 'Wikipedia: Georg Bühler'
-  url: https://en.wikipedia.org/wiki/Georg_B%C3%BChler
-  type: wikipedia
-- name: 'Wikipedia: Raymond West'
-  url: https://en.wikipedia.org/wiki/Raymond_West
-  type: wikipedia
-- name: 'Open Library'
-  url: https://openlibrary.org/search?q=A+digest+of+the+Hindu+law+of+inheritance%2C+partition%2C+and+adoption&mode=everything
-  type: other
+  - name: 'Wikipedia: Georg Bühler'
+    url: 'https://en.wikipedia.org/wiki/Georg_B%C3%BChler'
+    type: wikipedia
+  - name: 'Wikipedia: Raymond West'
+    url: 'https://en.wikipedia.org/wiki/Raymond_West'
+    type: wikipedia
+  - name: Open Library
+    url: >-
+      https://openlibrary.org/search?q=A+digest+of+the+Hindu+law+of+inheritance%2C+partition%2C+and+adoption&mode=everything
+    type: other
 featured: true
-publishDate: 2025-10-02
+publishDate: 2025-10-02T00:00:00.000Z
+---
+## Historical Context
+
+A definitive scholarly compilation of Hindu personal law, this landmark work represents a critical intellectual endeavor at the intersection of colonial legal anthropology and indigenous jurisprudential traditions. Produced during the transformative period between 1870-1920, the digest emerges from extensive consultations with traditional Shastris and meticulous Sanskrit manuscript research, reflecting a nuanced engagement with classical Hindu legal frameworks during the twilight of British imperial scholarship. Sir Raymond West, a distinguished Bombay High Court judge with deep insights into Indian legal systems, collaborated with Georg Bühler, the preeminent Austro-Hungarian Indologist renowned for his profound Sanskrit scholarship and translations of fundamental texts like the Laws of Manu. Their work systematically documented and interpreted complex Hindu legal principles governing inheritance, familial property partition, and adoption practices, providing an unprecedented scholarly bridge between indigenous normative frameworks and emerging colonial legal administrative structures. Beyond its immediate colonial context, the digest represents a significant scholarly intervention in understanding the sophisticated internal logic of Hindu legal thought, capturing intricate social regulations that had been transmitted through centuries of oral and textual traditions. By rigorously analyzing and codifying these legal practices, West and Bühler not only facilitated colonial administrative understanding but also preserved critical dimensions of Indian cultural-legal epistemology that might have otherwise been marginalized or misunderstood. The work remains a pivotal reference for scholars of Indian legal history, anthropology, and cultural studies, offering profound insights into the complex normative structures underlying traditional Hindu social organization.
+
 ---
 
 # A Digest of Hindu Law: Inheritance, Partition, and Adoption

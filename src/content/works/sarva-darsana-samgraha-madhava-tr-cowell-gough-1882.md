@@ -1,47 +1,60 @@
 ---
-title: 'Sarva-darśana-saṅgraha (Review of Different Systems of Hindu Philosophy)'
+title: Sarva-darśana-saṅgraha (Review of Different Systems of Hindu Philosophy)
 author:
-- Mādhavāchārya (Vidyāranya)
-- tr. E.B. Cowell
-- tr. A.E. Gough
+  - Mādhavāchārya (Vidyāranya)
+  - tr. E.B. Cowell
+  - tr. A.E. Gough
 year: 1882
 language:
-- English
-- Sanskrit
+  - English
+  - Sanskrit
 genre:
-- Philosophy
-- Religious Studies
-description: |
-  The Sarva-darśana-saṅgraha represents a landmark scholarly compendium of philosophical traditions during the intellectually vibrant Vijayanagar period, offering a systematic comparative analysis of sixteen philosophical schools prevalent in medieval India. Composed by Mādhavāchārya (also known as Vidyāranya), a prominent minister, scholar, and Advaita Vedanta theologian at the royal court, this work provides a sophisticated intellectual taxonomy of competing philosophical systems from materialist to idealist traditions. The text methodically examines philosophical schools ranging from Charvaka materialism and Buddhist and Jain metaphysical perspectives to various Hindu philosophical streams, ultimately positioning Advaita Vedanta as the most comprehensive philosophical framework. Of particular scholarly significance, the text offers rare detailed expositions on Lokayata (materialist) philosophy, presenting critical analyses from an Advaitic interpretative lens that would have otherwise been lost to historical record. The work reflects the intellectual pluralism characteristic of medieval Indian philosophical discourse, demonstrating remarkable scholarly rigor in presenting nuanced philosophical arguments across different epistemological traditions. Mādhavāchārya's approach exemplifies the sophisticated hermeneutical methods of Indian philosophical scholarship, where different philosophical perspectives were critically examined rather than summarily dismissed. The English translation by Cowell and Gough in 1882 represented a pivotal moment in introducing the depth and complexity of Indian philosophical thought to Western academic circles, challenging prevailing Orientalist misconceptions about Indian intellectual traditions. As a comprehensive philosophical survey, the Sarva-darśana-saṅgraha remains an essential text for understanding the intellectual genealogy of Indian philosophical thought, illuminating the complex philosophical negotiations occurring during a transformative period of cultural and intellectual synthesis.
+  - Philosophy
+  - Religious Studies
+description: >-
+  The Sarva-darśana-saṅgraha represents a landmark scholarly compendium of
+  philosophical traditions during the intellectually vibrant Vijayanagar period,
+  offering a systematic comparative analysis of sixteen philosophical schools
+  prevalent in medieval India. Composed by Mādhavāchārya (also known as
+  Vidyāranya), a prominent minister, scholar, and Advaita Vedanta theologian at
+  the royal court, this work provides a sophisticated intellectual taxonomy of
+  competing philosophical systems from materialist to idealist traditions.
 collections:
-- classical-literature
-- philosophy
-- religious-texts
+  - classical-literature
+  - philosophy
+  - religious-texts
 sources:
-- name: 'Internet Archive (Cowell translation)'
-  url: https://archive.org/details/Sarva-Darsana-Samgraha.by.Madhavacharya-Vidyaranya.tr.by.E.B.Cowell
-  type: other
-- name: 'Internet Archive (University of Toronto)'
-  url: https://archive.org/details/thesarvadarsanas00madhuoft
-  type: other
-- name: 'Internet Archive (Complete)'
-  url: https://archive.org/details/sarvadarsanasamgrahamadhvacharyaedwardbylescowell1882_202003_536_S
-  type: other
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/34125
-  type: other
+  - name: Internet Archive (Cowell translation)
+    url: >-
+      https://archive.org/details/Sarva-Darsana-Samgraha.by.Madhavacharya-Vidyaranya.tr.by.E.B.Cowell
+    type: other
+  - name: Internet Archive (University of Toronto)
+    url: 'https://archive.org/details/thesarvadarsanas00madhuoft'
+    type: other
+  - name: Internet Archive (Complete)
+    url: >-
+      https://archive.org/details/sarvadarsanasamgrahamadhvacharyaedwardbylescowell1882_202003_536_S
+    type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/34125'
+    type: other
 references:
-- name: 'Wikipedia: Sarva-Darsana-Sangraha'
-  url: https://en.wikipedia.org/wiki/Sarva-Darsana-Sangraha
-  type: wikipedia
-- name: 'Wikipedia: Vidyaranya'
-  url: https://en.wikipedia.org/wiki/Vidyaranya
-  type: wikipedia
-- name: 'OpenLibrary'
-  url: https://openlibrary.org/search?q=Sarva-Darsana-Samgraha+Madhava+Cowell
-  type: other
+  - name: 'Wikipedia: Sarva-Darsana-Sangraha'
+    url: 'https://en.wikipedia.org/wiki/Sarva-Darsana-Sangraha'
+    type: wikipedia
+  - name: 'Wikipedia: Vidyaranya'
+    url: 'https://en.wikipedia.org/wiki/Vidyaranya'
+    type: wikipedia
+  - name: OpenLibrary
+    url: 'https://openlibrary.org/search?q=Sarva-Darsana-Samgraha+Madhava+Cowell'
+    type: other
 featured: false
-publishDate: 2025-01-24
+publishDate: 2025-01-24T00:00:00.000Z
+---
+## Historical Context
+
+The Sarva-darśana-saṅgraha represents a landmark scholarly compendium of philosophical traditions during the intellectually vibrant Vijayanagar period, offering a systematic comparative analysis of sixteen philosophical schools prevalent in medieval India. Composed by Mādhavāchārya (also known as Vidyāranya), a prominent minister, scholar, and Advaita Vedanta theologian at the royal court, this work provides a sophisticated intellectual taxonomy of competing philosophical systems from materialist to idealist traditions. The text methodically examines philosophical schools ranging from Charvaka materialism and Buddhist and Jain metaphysical perspectives to various Hindu philosophical streams, ultimately positioning Advaita Vedanta as the most comprehensive philosophical framework. Of particular scholarly significance, the text offers rare detailed expositions on Lokayata (materialist) philosophy, presenting critical analyses from an Advaitic interpretative lens that would have otherwise been lost to historical record. The work reflects the intellectual pluralism characteristic of medieval Indian philosophical discourse, demonstrating remarkable scholarly rigor in presenting nuanced philosophical arguments across different epistemological traditions. Mādhavāchārya's approach exemplifies the sophisticated hermeneutical methods of Indian philosophical scholarship, where different philosophical perspectives were critically examined rather than summarily dismissed. The English translation by Cowell and Gough in 1882 represented a pivotal moment in introducing the depth and complexity of Indian philosophical thought to Western academic circles, challenging prevailing Orientalist misconceptions about Indian intellectual traditions. As a comprehensive philosophical survey, the Sarva-darśana-saṅgraha remains an essential text for understanding the intellectual genealogy of Indian philosophical thought, illuminating the complex philosophical negotiations occurring during a transformative period of cultural and intellectual synthesis.
+
 ---
 
 # Sarva-darśana-saṅgraha

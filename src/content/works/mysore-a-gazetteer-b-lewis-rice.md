@@ -1,29 +1,38 @@
 ---
 title: 'Mysore: A Gazetteer'
 author:
-- B. Lewis Rice
+  - B. Lewis Rice
 year: 1897
 language:
-- English
+  - English
 genre:
-- Travel Literature
-description: |
-  B. Lewis Rice's "Mysore: A Gazetteer" represents a quintessential scholarly work of late 19th-century colonial ethnographic documentation, offering comprehensive anthropological and historical insights into the princely state of Mysore during the British Raj period. Published in 1897, this meticulously researched volume emerges during a critical transitional phase in South Indian cultural and administrative documentation, providing an authoritative systematic account of the region's geography, demographics, administrative structures, social institutions, and cultural practices. Rice, who served as the compiler of inscriptions and chief librarian in the Mysore Government, drew upon extensive archival research, official records, and local historical manuscripts to construct a nuanced portrayal of Mysore's complex socio-cultural landscape. The gazetteer systematically explores diverse domains including regional administrative divisions, historical royal lineages, indigenous economic systems, religious infrastructures, linguistic distributions, and anthropological characteristics of local communities. As a significant colonial-era scholarly text, it serves as a critical resource for understanding the intricate transformations occurring in South Indian society during late 19th-century imperial governance. Rice's work transcends mere administrative documentation, offering profound scholarly insights into the region's cultural dynamics, ethnic compositions, and societal structures during a pivotal historical moment of colonial interaction and indigenous adaptation. For contemporary researchers in Indian studies, colonial historiography, and anthropological scholarship, this gazetteer remains an invaluable primary source, providing granular details about Mysore's societal configuration that illuminate the complex interactions between colonial administrative frameworks and indigenous cultural formations.
+  - Travel Literature
+description: >-
+  B. Lewis Rice's "Mysore: A Gazetteer" represents a quintessential scholarly
+  work of late 19th-century colonial ethnographic documentation, offering
+  comprehensive anthropological and historical insights into the princely state
+  of Mysore during the British Raj period.
 collections:
-- regional-voices
+  - regional-voices
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/mysoregazetteerc01rice
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/mysoregazetteerc01rice'
+    type: other
 references:
-- name: 'Wikipedia: B. Lewis Rice'
-  url: https://en.wikipedia.org/wiki/B._Lewis_Rice
-  type: wikipedia
-- name: 'Open Library: Mysore'
-  url: https://openlibrary.org/search?q=Mysore+A+Gazetteer+year+1897+language+B+Lewis+Rice
-  type: other
+  - name: 'Wikipedia: B. Lewis Rice'
+    url: 'https://en.wikipedia.org/wiki/B._Lewis_Rice'
+    type: wikipedia
+  - name: 'Open Library: Mysore'
+    url: >-
+      https://openlibrary.org/search?q=Mysore+A+Gazetteer+year+1897+language+B+Lewis+Rice
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+B. Lewis Rice's "Mysore: A Gazetteer" represents a quintessential scholarly work of late 19th-century colonial ethnographic documentation, offering comprehensive anthropological and historical insights into the princely state of Mysore during the British Raj period. Published in 1897, this meticulously researched volume emerges during a critical transitional phase in South Indian cultural and administrative documentation, providing an authoritative systematic account of the region's geography, demographics, administrative structures, social institutions, and cultural practices. Rice, who served as the compiler of inscriptions and chief librarian in the Mysore Government, drew upon extensive archival research, official records, and local historical manuscripts to construct a nuanced portrayal of Mysore's complex socio-cultural landscape. The gazetteer systematically explores diverse domains including regional administrative divisions, historical royal lineages, indigenous economic systems, religious infrastructures, linguistic distributions, and anthropological characteristics of local communities. As a significant colonial-era scholarly text, it serves as a critical resource for understanding the intricate transformations occurring in South Indian society during late 19th-century imperial governance. Rice's work transcends mere administrative documentation, offering profound scholarly insights into the region's cultural dynamics, ethnic compositions, and societal structures during a pivotal historical moment of colonial interaction and indigenous adaptation. For contemporary researchers in Indian studies, colonial historiography, and anthropological scholarship, this gazetteer remains an invaluable primary source, providing granular details about Mysore's societal configuration that illuminate the complex interactions between colonial administrative frameworks and indigenous cultural formations.
+
 ---
 
 # Mysore: A Gazetteer

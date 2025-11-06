@@ -1,33 +1,45 @@
 ---
 title: 'Hindoo Tales; Or, the Adventures of Ten Princes'
 author:
-- Dandin, active 7th century
+  - 'Dandin, active 7th century'
 year: 1900
 language:
-- English
-- Sanskrit
+  - English
+  - Sanskrit
 genre:
-- Sanskrit Literature
-description: |
-  Dandin's masterwork emerges from the rich intellectual landscape of 7th-century CE India, specifically the culturally efflorescent Deccan region under Chalukya patronage, representing a sophisticated exemplar of classical Sanskrit narrative literature. This seminal text, known as Daśakumāracarita (Ten Princes' Adventures), exemplifies the intricate literary conventions of its period, utilizing a complex frame narrative structure that interweaves multiple storylines exploring profound philosophical, ethical, and social themes. Rooted in the Sanskrit literary tradition, the work demonstrates extraordinary narrative complexity, presenting interconnected tales of ten princes whose adventures reveal nuanced insights into social hierarchies, moral philosophy, and metaphysical speculation characteristic of medieval Indian intellectual discourse. Dandin, a distinguished poet-scholar, crafted the text as a sophisticated exploration of human experience, divine intervention, and karmic consequence, employing rhetorical techniques that showcase the linguistic and conceptual sophistication of classical Sanskrit composition. The narrative's embedded stories explore themes of destiny, social mobility, spiritual transformation, and the intricate relationship between individual agency and cosmic order, reflecting broader Hindu philosophical perspectives. By presenting protagonists from diverse social backgrounds navigating complex moral landscapes, Dandin provides a nuanced sociological panorama of early medieval Indian society, illuminating courtly life, spiritual practices, and interpersonal dynamics. Beyond its literary merits, the work represents a critical transmission of cultural knowledge, preserving contemporary social norms, philosophical debates, and narrative strategies that influenced subsequent generations of South Asian storytellers and intellectuals, making it a fundamental text in understanding the intellectual and cultural dynamics of classical Indian civilization.
+  - Sanskrit Literature
+description: >-
+  Dandin's masterwork emerges from the rich intellectual landscape of
+  7th-century CE India, specifically the culturally efflorescent Deccan region
+  under Chalukya patronage, representing a sophisticated exemplar of classical
+  Sanskrit narrative literature. This seminal text, known as Daśakumāracarita
+  (Ten Princes' Adventures), exemplifies the intricate literary conventions of
+  its period, utilizing a complex frame narrative structure that interweaves
+  multiple storylines exploring profound philosophical, ethical, and social
+  themes.
 collections:
-- classical-literature
+  - classical-literature
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/11738
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/11738.html.images
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/11738'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/11738.html.images'
+    type: other
 references:
-- name: 'Open Library: Hindoo Tales Adventures of Ten Princes'
-  url: https://openlibrary.org/search?q=Hindoo+Tales+Ten+Princes+Dandin
-  type: other
-- name: 'Wikipedia: Dandin'
-  url: https://en.wikipedia.org/wiki/Dandin
-  type: other
+  - name: 'Open Library: Hindoo Tales Adventures of Ten Princes'
+    url: 'https://openlibrary.org/search?q=Hindoo+Tales+Ten+Princes+Dandin'
+    type: other
+  - name: 'Wikipedia: Dandin'
+    url: 'https://en.wikipedia.org/wiki/Dandin'
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+Dandin's masterwork emerges from the rich intellectual landscape of 7th-century CE India, specifically the culturally efflorescent Deccan region under Chalukya patronage, representing a sophisticated exemplar of classical Sanskrit narrative literature. This seminal text, known as Daśakumāracarita (Ten Princes' Adventures), exemplifies the intricate literary conventions of its period, utilizing a complex frame narrative structure that interweaves multiple storylines exploring profound philosophical, ethical, and social themes. Rooted in the Sanskrit literary tradition, the work demonstrates extraordinary narrative complexity, presenting interconnected tales of ten princes whose adventures reveal nuanced insights into social hierarchies, moral philosophy, and metaphysical speculation characteristic of medieval Indian intellectual discourse. Dandin, a distinguished poet-scholar, crafted the text as a sophisticated exploration of human experience, divine intervention, and karmic consequence, employing rhetorical techniques that showcase the linguistic and conceptual sophistication of classical Sanskrit composition. The narrative's embedded stories explore themes of destiny, social mobility, spiritual transformation, and the intricate relationship between individual agency and cosmic order, reflecting broader Hindu philosophical perspectives. By presenting protagonists from diverse social backgrounds navigating complex moral landscapes, Dandin provides a nuanced sociological panorama of early medieval Indian society, illuminating courtly life, spiritual practices, and interpersonal dynamics. Beyond its literary merits, the work represents a critical transmission of cultural knowledge, preserving contemporary social norms, philosophical debates, and narrative strategies that influenced subsequent generations of South Asian storytellers and intellectuals, making it a fundamental text in understanding the intellectual and cultural dynamics of classical Indian civilization.
+
 ---
 
 # Hindoo Tales; Or, the Adventures of Ten Princes

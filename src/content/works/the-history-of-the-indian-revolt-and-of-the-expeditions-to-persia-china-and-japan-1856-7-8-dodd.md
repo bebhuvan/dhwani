@@ -1,64 +1,66 @@
 ---
-title: The History of the Indian Revolt and of the Expeditions to Persia, China and
+title: >-
+  The History of the Indian Revolt and of the Expeditions to Persia, China and
   Japan, 1856-7-8
 author:
-- Dodd, George
+  - 'Dodd, George'
 year: 1866
 language:
-- English
+  - English
 genre:
-- Historical Literature
-description: The History of the Indian Revolt and of the Expeditions to Persia, China,
-  and Japan" is a historical account written in the mid-19th century. This work chronicles
-  the significant events surrounding the Indian Revolt of 1857, detailing the rebellion's
-  origins, key confrontations, and its aftermath while also touching upon related
-  military actions in Persia, China, and Japan. The author aims to provide an insightful
-  narrative, capturing both the turmoil of war and the broader context of British
-  military engagements in the East. At the start of the narrative, the author discusses
-  the circumstances leading to the Indian Revolt, reflecting on the initial signs
-  of discontent among native soldiers and the widespread connection among the affected
-  regions. Through the preface and introduction, the thematic focus on not just military
-  encounters but also socio-political dynamics is established, indicating that the
-  revolt arose from a confluence of issues rather than purely military grievances.
-  The author outlines the interconnections between various states in India and emphasizes
-  the British government's response to these uprisings, setting the stage for an exploration
-  of the complex relationships between different cultures and the implications of
-  colonial rule in the region.
+  - Historical Literature
+description: >-
+  The History of the Indian Revolt and of the Expeditions to Persia, China, and
+  Japan" is a historical account written in the mid-19th century. This work
+  chronicles the significant events surrounding the Indian Revolt of 1857,
+  detailing the rebellion's origins, key confrontations, and its aftermath while
+  also touching upon related military actions in Persia, China, and Japan.
 collections:
-- classical-literature
+  - classical-literature
 sources:
-- name: Project Gutenberg
-  url: https://www.gutenberg.org/ebooks/53360
-  type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/53360.html.images
-  type: other
-- name: Internet Archive (The History of the Indian Revolt and of the Expeditions
-    to Persia, China and Japan 1856-7-8)
-  url: https://archive.org/details/thehistoryofthei53360gut
-  type: other
-- name: Internet Archive (The history of the Indian revolt and of the expeditions
-    to Persia, China, and Japan, 1856-7-8)
-  url: https://archive.org/details/historyofindianr00doddrich
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/53360'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/53360.html.images'
+    type: other
+  - name: >-
+      Internet Archive (The History of the Indian Revolt and of the Expeditions
+      to Persia, China and Japan 1856-7-8)
+    url: 'https://archive.org/details/thehistoryofthei53360gut'
+    type: other
+  - name: >-
+      Internet Archive (The history of the Indian revolt and of the expeditions
+      to Persia, China, and Japan, 1856-7-8)
+    url: 'https://archive.org/details/historyofindianr00doddrich'
+    type: other
 references:
-- name: 'Wikipedia: The History of the Indian Revolt and of the Expeditions to Persia,
-    China and Japan, 1856-7-8'
-  url: https://en.wikipedia.org/wiki/The_History_of_the_Indian_Revolt_and_of_the_Expeditions_to_Persia%2C_China_and_Japan%2C_1856-7-8
-  type: other
-- name: 'Wikipedia: Dodd'
-  url: https://en.wikipedia.org/wiki/Dodd
-  type: other
-- name: 'Open Library: The History of the Indian Revolt and of the Expeditions to
-    Persia, China and Japan, 1856-7-8'
-  url: https://openlibrary.org/search?q=The%20History%20of%20the%20Indian%20Revolt%20and%20of%20the%20Expeditions%20to%20Persia%2C%20China%20and%20Japan%2C%201856-7-8%20Dodd%2C%20George
-  type: other
+  - name: >-
+      Wikipedia: The History of the Indian Revolt and of the Expeditions to
+      Persia, China and Japan, 1856-7-8
+    url: >-
+      https://en.wikipedia.org/wiki/The_History_of_the_Indian_Revolt_and_of_the_Expeditions_to_Persia%2C_China_and_Japan%2C_1856-7-8
+    type: other
+  - name: 'Wikipedia: Dodd'
+    url: 'https://en.wikipedia.org/wiki/Dodd'
+    type: other
+  - name: >-
+      Open Library: The History of the Indian Revolt and of the Expeditions to
+      Persia, China and Japan, 1856-7-8
+    url: >-
+      https://openlibrary.org/search?q=The%20History%20of%20the%20Indian%20Revolt%20and%20of%20the%20Expeditions%20to%20Persia%2C%20China%20and%20Japan%2C%201856-7-8%20Dodd%2C%20George
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
 tags:
-- public domain
-- India -- History -- Sepoy Rebellion, 1857-1858
-- Dodd, George
+  - public domain
+  - 'India -- History -- Sepoy Rebellion, 1857-1858'
+  - 'Dodd, George'
+---
+## Historical Context
+
+The History of the Indian Revolt and of the Expeditions to Persia, China, and Japan" is a historical account written in the mid-19th century. This work chronicles the significant events surrounding the Indian Revolt of 1857, detailing the rebellion's origins, key confrontations, and its aftermath while also touching upon related military actions in Persia, China, and Japan. The author aims to provide an insightful narrative, capturing both the turmoil of war and the broader context of British military engagements in the East. At the start of the narrative, the author discusses the circumstances leading to the Indian Revolt, reflecting on the initial signs of discontent among native soldiers and the widespread connection among the affected regions. Through the preface and introduction, the thematic focus on not just military encounters but also socio-political dynamics is established, indicating that the revolt arose from a confluence of issues rather than purely military grievances. The author outlines the interconnections between various states in India and emphasizes the British government's response to these uprisings, setting the stage for an exploration of the complex relationships between different cultures and the implications of colonial rule in the region.
+
 ---
 
 # The History of the Indian Revolt and of the Expeditions to Persia, China and Japan, 1856-7-8

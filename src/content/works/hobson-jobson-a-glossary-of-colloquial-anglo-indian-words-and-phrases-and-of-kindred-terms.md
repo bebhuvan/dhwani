@@ -1,60 +1,76 @@
 ---
-title: 'Hobson-Jobson: A Glossary of Colloquial Anglo-Indian Words and Phrases, and of Kindred Terms, Etymological, Historical, Geographical and Discursive'
+title: >-
+  Hobson-Jobson: A Glossary of Colloquial Anglo-Indian Words and Phrases, and of
+  Kindred Terms, Etymological, Historical, Geographical and Discursive
 author:
-- Yule, Henry, Sir
-- Burnell, A. C.
+  - 'Yule, Henry, Sir'
+  - 'Burnell, A. C.'
 year: 1886
 language:
-- English
+  - English
 genre:
-- Reference
-- Linguistics
-- Historical Literature
-description: |
-  Here is the cleaned description:
-  
-  The 'Hobson-Jobson' glossary is a significant lexicographic work documenting linguistic interactions between English and South Asian languages during the colonial period. Initiated in 1872 through a correspondence between Sir Henry Yule and Arthur Coke Burnell, the project emerged from their independent collections of Anglo-Indian language usage. After Burnell's death in 1882, Yule completed the work, which was published in 1886.
-  
-  The glossary provides comprehensive etymological entries tracing word migrations across Arabic, Persian, Hindi, Urdu, Tamil, Portuguese, and Chinese languages. Its methodology distinguishes it from conventional dictionaries by offering elaborate entries that combine etymology, historical context, literary quotations, and geographical information. James A. Murray extensively utilized the work while compiling the Oxford English Dictionary, recognizing its scholarly documentation of South Asian loanwords.
-  
-  The title itself exemplifies the work's linguistic focus: 'Hobson-Jobson' represents British soldiers' phonetic adaptation of the Shia Muslim mourning cry 'Ya Hasan! Ya Husain!' The text documents numerous linguistic transformations, such as 'dungaree' from Hindi 'dungri' and 'avatar' from Sanskrit 'avatara', demonstrating complex processes of language contact and cultural exchange.
-  
-  Critically, the glossary also reflects colonial linguistic power dynamics. While demonstrating significant linguistic scholarship, the work simultaneously reproduces Orientalist perspectives and colonial administrative perspectives in its term selection and presentation. Modern scholars must engage with the text understanding its historical context and inherent epistemological limitations.
+  - Reference
+  - Linguistics
+  - Historical Literature
+description: >-
+  Here is the cleaned description: The 'Hobson-Jobson' glossary is a significant
+  lexicographic work documenting linguistic interactions between English and
+  South Asian languages during the colonial period. Initiated in 1872 through a
+  correspondence between Sir Henry Yule and Arthur Coke Burnell, the project
+  emerged from their independent collections of Anglo-Indian language usage.
 collections:
-- classical-literature
-- classical-literature
-- colonial-india
+  - classical-literature
+  - classical-literature
+  - colonial-india
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/58529
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/58529.html.images
-  type: other
-- name: 'Internet Archive (Hobson-Jobson: A Glossary of Colloquial Anglo-Indian Words)'
-  url: https://archive.org/details/B-001-002-321
-  type: other
-- name: 'Internet Archive (Hobson-Jobson; a glossary of colloquial Anglo-Indian words)'
-  url: https://archive.org/details/hobsonjobsonagl02croogoog
-  type: other
-- name: 'Digital Dictionaries of South Asia (University of Chicago)'
-  url: https://dsal.uchicago.edu/dictionaries/hobsonjobson/
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/58529'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/58529.html.images'
+    type: other
+  - name: >-
+      Internet Archive (Hobson-Jobson: A Glossary of Colloquial Anglo-Indian
+      Words)
+    url: 'https://archive.org/details/B-001-002-321'
+    type: other
+  - name: >-
+      Internet Archive (Hobson-Jobson; a glossary of colloquial Anglo-Indian
+      words)
+    url: 'https://archive.org/details/hobsonjobsonagl02croogoog'
+    type: other
+  - name: Digital Dictionaries of South Asia (University of Chicago)
+    url: 'https://dsal.uchicago.edu/dictionaries/hobsonjobson/'
+    type: other
 references:
-- name: 'Wikipedia: Hobson-Jobson'
-  url: https://en.wikipedia.org/wiki/Hobson-Jobson
-  type: other
-- name: 'Wikipedia: Henry Yule'
-  url: https://en.wikipedia.org/wiki/Henry_Yule
-  type: other
-- name: 'Wikipedia: Arthur Coke Burnell'
-  url: https://en.wikipedia.org/wiki/Arthur_Coke_Burnell
-  type: other
-- name: 'Open Library: Hobson-Jobson'
-  url: https://openlibrary.org/search?q=Hobson-Jobson%3A%20A%20Glossary%20of%20Colloquial%20Anglo-Indian%20Words%20and%20Phrases%2C%20and%20of%20Kindred%20Terms%2C%20Etymological%2C%20Historical%2C%20Geographical%20and%20Discursive%20Yule%2C%20Henry%2C%20Sir
-  type: other
+  - name: 'Wikipedia: Hobson-Jobson'
+    url: 'https://en.wikipedia.org/wiki/Hobson-Jobson'
+    type: other
+  - name: 'Wikipedia: Henry Yule'
+    url: 'https://en.wikipedia.org/wiki/Henry_Yule'
+    type: other
+  - name: 'Wikipedia: Arthur Coke Burnell'
+    url: 'https://en.wikipedia.org/wiki/Arthur_Coke_Burnell'
+    type: other
+  - name: 'Open Library: Hobson-Jobson'
+    url: >-
+      https://openlibrary.org/search?q=Hobson-Jobson%3A%20A%20Glossary%20of%20Colloquial%20Anglo-Indian%20Words%20and%20Phrases%2C%20and%20of%20Kindred%20Terms%2C%20Etymological%2C%20Historical%2C%20Geographical%20and%20Discursive%20Yule%2C%20Henry%2C%20Sir
+    type: other
 featured: true
-publishDate: 2025-11-02
+publishDate: 2025-11-02T00:00:00.000Z
+---
+## Historical Context
+
+Here is the cleaned description:
+
+The 'Hobson-Jobson' glossary is a significant lexicographic work documenting linguistic interactions between English and South Asian languages during the colonial period. Initiated in 1872 through a correspondence between Sir Henry Yule and Arthur Coke Burnell, the project emerged from their independent collections of Anglo-Indian language usage. After Burnell's death in 1882, Yule completed the work, which was published in 1886.
+
+The glossary provides comprehensive etymological entries tracing word migrations across Arabic, Persian, Hindi, Urdu, Tamil, Portuguese, and Chinese languages. Its methodology distinguishes it from conventional dictionaries by offering elaborate entries that combine etymology, historical context, literary quotations, and geographical information. James A. Murray extensively utilized the work while compiling the Oxford English Dictionary, recognizing its scholarly documentation of South Asian loanwords.
+
+The title itself exemplifies the work's linguistic focus: 'Hobson-Jobson' represents British soldiers' phonetic adaptation of the Shia Muslim mourning cry 'Ya Hasan! Ya Husain!' The text documents numerous linguistic transformations, such as 'dungaree' from Hindi 'dungri' and 'avatar' from Sanskrit 'avatara', demonstrating complex processes of language contact and cultural exchange.
+
+Critically, the glossary also reflects colonial linguistic power dynamics. While demonstrating significant linguistic scholarship, the work simultaneously reproduces Orientalist perspectives and colonial administrative perspectives in its term selection and presentation. Modern scholars must engage with the text understanding its historical context and inherent epistemological limitations.
+
 ---
 
 # Hobson-Jobson: A Glossary of Colloquial Anglo-Indian Words and Phrases, and of Kindred Terms, Etymological, Historical, Geographical and Discursive

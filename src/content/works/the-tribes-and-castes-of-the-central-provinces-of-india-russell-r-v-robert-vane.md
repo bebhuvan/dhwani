@@ -1,53 +1,62 @@
 ---
-title: 'The Tribes and Castes of the Central Provinces of India'
+title: The Tribes and Castes of the Central Provinces of India
 author:
-- Russell, R. V. (Robert Vane)
+  - 'Russell, R. V. (Robert Vane)'
 year: 1916
 language:
-- English
+  - English
 genre:
-- Classical Literature
-description: |
-  The Tribes and Castes of the Central Provinces of India represents a comprehensive ethnographic study conducted during the late British colonial period, offering an extensive anthropological survey of social structures in central India at the beginning of the 20th century. Authored by R.V. Russell, an administrative officer in the Indian Civil Service, the work meticulously documents the complex social landscape of the Central Provinces, providing detailed accounts of numerous indigenous communities, their historical origins, social practices, economic activities, religious traditions, and cultural configurations. Russell's multi-volume compilation draws from extensive fieldwork, archival research, and direct interactions with local communities, presenting a systematic classification of tribal and caste groups that were largely undocumented during that era. The work is particularly significant for its nuanced approach to understanding indigenous social organization, going beyond colonial administrative categorizations to explore the intricate relationships between different social groups, their migration patterns, economic adaptations, and cultural interactions. By examining linguistic, occupational, and genealogical dimensions of these communities, Russell created a foundational ethnographic resource that continues to be valuable for scholars of Indian anthropology, sociology, and historical studies. The text provides critical insights into the complex social hierarchies, economic structures, and cultural diversity of central Indian societies during a transformative period of colonial documentation and cultural representation, serving as an important historical record of indigenous social configurations that were rapidly changing under colonial administrative and economic transformations.
+  - Classical Literature
+description: >-
+  The Tribes and Castes of the Central Provinces of India represents a
+  comprehensive ethnographic study conducted during the late British colonial
+  period, offering an extensive anthropological survey of social structures in
+  central India at the beginning of the 20th century. Authored by R.V.
 collections:
-- classical-literature
+  - classical-literature
 sources:
-- name: 'Project Gutenberg - Volume 1'
-  url: https://www.gutenberg.org/ebooks/20583
-  type: other
-- name: 'Project Gutenberg (HTML) - Volume 1'
-  url: https://www.gutenberg.org/ebooks/20583.html.images
-  type: other
-- name: 'Project Gutenberg - Volume 2'
-  url: https://www.gutenberg.org/ebooks/20668
-  type: other
-- name: 'Project Gutenberg (HTML) - Volume 2'
-  url: https://www.gutenberg.org/ebooks/20668.html.images
-  type: other
-- name: 'Project Gutenberg - Volume 3'
-  url: https://www.gutenberg.org/ebooks/22010
-  type: other
-- name: 'Project Gutenberg (HTML) - Volume 3'
-  url: https://www.gutenberg.org/ebooks/22010.html.images
-  type: other
-- name: 'Project Gutenberg - Volume 4'
-  url: https://www.gutenberg.org/ebooks/41424
-  type: other
-- name: 'Project Gutenberg (HTML) - Volume 4'
-  url: https://www.gutenberg.org/ebooks/41424.html.images
-  type: other
+  - name: Project Gutenberg - Volume 1
+    url: 'https://www.gutenberg.org/ebooks/20583'
+    type: other
+  - name: Project Gutenberg (HTML) - Volume 1
+    url: 'https://www.gutenberg.org/ebooks/20583.html.images'
+    type: other
+  - name: Project Gutenberg - Volume 2
+    url: 'https://www.gutenberg.org/ebooks/20668'
+    type: other
+  - name: Project Gutenberg (HTML) - Volume 2
+    url: 'https://www.gutenberg.org/ebooks/20668.html.images'
+    type: other
+  - name: Project Gutenberg - Volume 3
+    url: 'https://www.gutenberg.org/ebooks/22010'
+    type: other
+  - name: Project Gutenberg (HTML) - Volume 3
+    url: 'https://www.gutenberg.org/ebooks/22010.html.images'
+    type: other
+  - name: Project Gutenberg - Volume 4
+    url: 'https://www.gutenberg.org/ebooks/41424'
+    type: other
+  - name: Project Gutenberg (HTML) - Volume 4
+    url: 'https://www.gutenberg.org/ebooks/41424.html.images'
+    type: other
 references:
-- name: 'Wikipedia: R. V. Russell'
-  url: https://en.wikipedia.org/wiki/R._V._Russell
-  type: other
-- name: 'Wikipedia: Central Provinces and Berar'
-  url: https://en.wikipedia.org/wiki/Central_Provinces_and_Berar
-  type: other
-- name: 'Open Library: The Tribes and Castes of the Central Provinces of India'
-  url: https://openlibrary.org/search?q=Tribes+Castes+Central+Provinces+India+Russell
-  type: other
+  - name: 'Wikipedia: R. V. Russell'
+    url: 'https://en.wikipedia.org/wiki/R._V._Russell'
+    type: other
+  - name: 'Wikipedia: Central Provinces and Berar'
+    url: 'https://en.wikipedia.org/wiki/Central_Provinces_and_Berar'
+    type: other
+  - name: 'Open Library: The Tribes and Castes of the Central Provinces of India'
+    url: >-
+      https://openlibrary.org/search?q=Tribes+Castes+Central+Provinces+India+Russell
+    type: other
 featured: false
-publishDate: 2025-11-05
+publishDate: 2025-11-05T00:00:00.000Z
+---
+## Historical Context
+
+The Tribes and Castes of the Central Provinces of India represents a comprehensive ethnographic study conducted during the late British colonial period, offering an extensive anthropological survey of social structures in central India at the beginning of the 20th century. Authored by R.V. Russell, an administrative officer in the Indian Civil Service, the work meticulously documents the complex social landscape of the Central Provinces, providing detailed accounts of numerous indigenous communities, their historical origins, social practices, economic activities, religious traditions, and cultural configurations. Russell's multi-volume compilation draws from extensive fieldwork, archival research, and direct interactions with local communities, presenting a systematic classification of tribal and caste groups that were largely undocumented during that era. The work is particularly significant for its nuanced approach to understanding indigenous social organization, going beyond colonial administrative categorizations to explore the intricate relationships between different social groups, their migration patterns, economic adaptations, and cultural interactions. By examining linguistic, occupational, and genealogical dimensions of these communities, Russell created a foundational ethnographic resource that continues to be valuable for scholars of Indian anthropology, sociology, and historical studies. The text provides critical insights into the complex social hierarchies, economic structures, and cultural diversity of central Indian societies during a transformative period of colonial documentation and cultural representation, serving as an important historical record of indigenous social configurations that were rapidly changing under colonial administrative and economic transformations.
+
 ---
 
 # The Tribes and Castes of the Central Provinces of India - Volume 1 by R.V. Russell

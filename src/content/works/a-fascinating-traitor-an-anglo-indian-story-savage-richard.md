@@ -1,36 +1,47 @@
 ---
 title: 'A Fascinating Traitor: An Anglo-Indian Story'
 author:
-- Savage, Richard
+  - 'Savage, Richard'
 year: 1888
 language:
-- English
+  - English
 genre:
-- Fiction
-description: |
-  A Fascinating Traitor: An Anglo-Indian Story represents a significant late 19th-century literary exploration of colonial Indian social dynamics, published during the height of British imperial presence in India. Written by Richard Savage, an English author engaging with the complex cultural intersections of the Anglo-Indian experience, the novel emerges from a period of intense cultural negotiation and colonial administrative transformation. Set against the backdrop of British colonial administration in India, the work critically examines the intricate relationships between British colonizers and Indian inhabitants, particularly focusing on themes of cultural identity, betrayal, and the moral ambiguities inherent in colonial social structures. The narrative likely reflects the emergent genre of Anglo-Indian literature, which sought to document and interpret the nuanced human experiences within the colonial system. While specific plot details are limited, the work appears to interrogate notions of loyalty, cultural displacement, and the psychological complexities faced by individuals navigating the boundaries between British and Indian societal norms. As a literary artifact, the text contributes to scholarly understanding of late Victorian representations of colonial interactions, providing insights into the racial, social, and psychological tensions characteristic of the imperial encounter. Its publication in 1888 coincides with a critical period of Indian social and political transformation, making it a valuable historical document for researchers exploring colonial literature, cross-cultural interactions, and the discursive practices that shaped metropolitan and colonial understandings of identity and power. The work offers contemporary scholars a nuanced window into the literary articulations of colonial experience during a pivotal moment in Indo-British cultural history.
+  - Fiction
+description: >-
+  A Fascinating Traitor: An Anglo-Indian Story represents a significant late
+  19th-century literary exploration of colonial Indian social dynamics,
+  published during the height of British imperial presence in India. Written by
+  Richard Savage, an English author engaging with the complex cultural
+  intersections of the Anglo-Indian experience, the novel emerges from a period
+  of intense cultural negotiation and colonial administrative transformation.
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/5972
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/5972.html.images
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/5972'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/5972.html.images'
+    type: other
 references:
-- name: 'Wikipedia: A Fascinating Traitor'
-  url: https://en.wikipedia.org/wiki/A_Fascinating_Traitor
-  type: other
-- name: 'Wikipedia: Savage'
-  url: https://en.wikipedia.org/wiki/Savage
-  type: other
-- name: 'Open Library: A Fascinating Traitor: An Anglo-Indian Story'
-  url: https://openlibrary.org/search?q=A%20Fascinating%20Traitor%3A%20An%20Anglo-Indian%20Story%20Savage%2C%20Richard
-  type: other
-- name: 'Open Library: A Fascinating Traitor'
-  url: https://openlibrary.org/search?q=A+Fascinating+Traitor+Savage
-  type: other
+  - name: 'Wikipedia: A Fascinating Traitor'
+    url: 'https://en.wikipedia.org/wiki/A_Fascinating_Traitor'
+    type: other
+  - name: 'Wikipedia: Savage'
+    url: 'https://en.wikipedia.org/wiki/Savage'
+    type: other
+  - name: 'Open Library: A Fascinating Traitor: An Anglo-Indian Story'
+    url: >-
+      https://openlibrary.org/search?q=A%20Fascinating%20Traitor%3A%20An%20Anglo-Indian%20Story%20Savage%2C%20Richard
+    type: other
+  - name: 'Open Library: A Fascinating Traitor'
+    url: 'https://openlibrary.org/search?q=A+Fascinating+Traitor+Savage'
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
+---
+## Historical Context
+
+A Fascinating Traitor: An Anglo-Indian Story represents a significant late 19th-century literary exploration of colonial Indian social dynamics, published during the height of British imperial presence in India. Written by Richard Savage, an English author engaging with the complex cultural intersections of the Anglo-Indian experience, the novel emerges from a period of intense cultural negotiation and colonial administrative transformation. Set against the backdrop of British colonial administration in India, the work critically examines the intricate relationships between British colonizers and Indian inhabitants, particularly focusing on themes of cultural identity, betrayal, and the moral ambiguities inherent in colonial social structures. The narrative likely reflects the emergent genre of Anglo-Indian literature, which sought to document and interpret the nuanced human experiences within the colonial system. While specific plot details are limited, the work appears to interrogate notions of loyalty, cultural displacement, and the psychological complexities faced by individuals navigating the boundaries between British and Indian societal norms. As a literary artifact, the text contributes to scholarly understanding of late Victorian representations of colonial interactions, providing insights into the racial, social, and psychological tensions characteristic of the imperial encounter. Its publication in 1888 coincides with a critical period of Indian social and political transformation, making it a valuable historical document for researchers exploring colonial literature, cross-cultural interactions, and the discursive practices that shaped metropolitan and colonial understandings of identity and power. The work offers contemporary scholars a nuanced window into the literary articulations of colonial experience during a pivotal moment in Indo-British cultural history.
+
 ---
 
 # A Fascinating Traitor: An Anglo-Indian Story

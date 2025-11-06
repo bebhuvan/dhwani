@@ -1,63 +1,60 @@
 ---
 title: Hindu Tales from the Sanskrit
 author:
-- S. M. Mitra
-- Nancy Bell
+  - S. M. Mitra
+  - Nancy Bell
 year: 1919
 language:
-- English
+  - English
 genre:
-- Children's Literature
-- Folklore
-- Sanskrit Literature
-description: This 1919 collection represents an early twentieth-century effort to
-  make traditional Hindu folklore accessible to young English-speaking readers through
-  moral tales drawn from Sanskrit sources. S.M. Mitra, a scholar of Sanskrit literature,
-  compiled and translated nine stories—including 'The Magic Pitcher,' 'A Royal Thief-Catcher,'
-  and 'The Hermit's Daughter'—which Nancy Bell (writing as N. D'Anvers) adapted for
-  children with pedagogical questions appended to each tale. Drawing from ancient
-  story traditions including the Panchatantra and the Hitopadesha, these narratives
-  blend magical realism with ethical instruction, featuring woodcutters who encounter
-  enchanted objects, clever animals who teach wisdom, and virtuous characters who
-  navigate moral dilemmas, all designed to transmit Hindu philosophical values of
-  dharma, karma, and righteous living to a new generation of readers during the British
-  Raj period.
+  - Children's Literature
+  - Folklore
+  - Sanskrit Literature
+description: >-
+  This 1919 collection represents an early twentieth-century effort to make
+  traditional Hindu folklore accessible to young English-speaking readers
+  through moral tales drawn from Sanskrit sources. S.M.
 collections:
-- classical-literature
-- folklore-collection
-- classical-literature
+  - classical-literature
+  - folklore-collection
+  - classical-literature
 sources:
-- name: Project Gutenberg
-  url: https://www.gutenberg.org/ebooks/11310
-  type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/11310.html.images
-  type: other
-- name: Internet Archive (1919 Edition)
-  url: https://archive.org/details/HinduTalesFromTheSanskrit
-  type: other
-- name: Standard Ebooks Edition
-  url: https://standardebooks.org/ebooks/s-m-mitra/hindu-tales-from-the-sanskrit
-  type: other
+  - name: Project Gutenberg
+    url: 'https://www.gutenberg.org/ebooks/11310'
+    type: other
+  - name: Project Gutenberg (HTML)
+    url: 'https://www.gutenberg.org/ebooks/11310.html.images'
+    type: other
+  - name: Internet Archive (1919 Edition)
+    url: 'https://archive.org/details/HinduTalesFromTheSanskrit'
+    type: other
+  - name: Standard Ebooks Edition
+    url: 'https://standardebooks.org/ebooks/s-m-mitra/hindu-tales-from-the-sanskrit'
+    type: other
 references:
-- name: 'Wikipedia: Panchatantra'
-  url: https://en.wikipedia.org/wiki/Panchatantra
-  type: other
-- name: 'Wikipedia: Indian Folklore'
-  url: https://en.wikipedia.org/wiki/Indian_folklore
-  type: other
-- name: 'Open Library: Hindu Tales from the Sanskrit'
-  url: https://openlibrary.org/search?q=Hindu%20Tales%20from%20the%20Sanskrit
-  type: other
+  - name: 'Wikipedia: Panchatantra'
+    url: 'https://en.wikipedia.org/wiki/Panchatantra'
+    type: other
+  - name: 'Wikipedia: Indian Folklore'
+    url: 'https://en.wikipedia.org/wiki/Indian_folklore'
+    type: other
+  - name: 'Open Library: Hindu Tales from the Sanskrit'
+    url: 'https://openlibrary.org/search?q=Hindu%20Tales%20from%20the%20Sanskrit'
+    type: other
 featured: false
-publishDate: 2025-11-01
+publishDate: 2025-11-01T00:00:00.000Z
 tags:
-- public domain
-- Sanskrit literature -- Translations into English
-- Tales -- India
-- Children's moral education
-- Panchatantra
-- Folklore
+  - public domain
+  - Sanskrit literature -- Translations into English
+  - Tales -- India
+  - Children's moral education
+  - Panchatantra
+  - Folklore
+---
+## Historical Context
+
+This 1919 collection represents an early twentieth-century effort to make traditional Hindu folklore accessible to young English-speaking readers through moral tales drawn from Sanskrit sources. S.M. Mitra, a scholar of Sanskrit literature, compiled and translated nine stories—including 'The Magic Pitcher,' 'A Royal Thief-Catcher,' and 'The Hermit's Daughter'—which Nancy Bell (writing as N. D'Anvers) adapted for children with pedagogical questions appended to each tale. Drawing from ancient story traditions including the Panchatantra and the Hitopadesha, these narratives blend magical realism with ethical instruction, featuring woodcutters who encounter enchanted objects, clever animals who teach wisdom, and virtuous characters who navigate moral dilemmas, all designed to transmit Hindu philosophical values of dharma, karma, and righteous living to a new generation of readers during the British Raj period.
+
 ---
 
 # Hindu Tales from the Sanskrit

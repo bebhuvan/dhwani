@@ -1,33 +1,46 @@
 ---
-title: 'Panjab castes'
+title: Panjab castes
 author:
-- 1847-1908  Sir  Denzil Ibbetson
+  - 1847-1908  Sir  Denzil Ibbetson
 year: 1916
 language:
-- English
+  - English
 genre:
-- Literature
-description: |
-  Sir Denzil Ibbetson's "Panjab Castes" represents a landmark anthropological study of Punjab's social landscape during the late British colonial period, specifically capturing the complex societal structures at the turn of the 20th century. Emerging from Ibbetson's extensive administrative and ethnographic work as a colonial revenue officer and later Chief Secretary of Punjab, the text provides a meticulous documentation of caste hierarchies, social organization, and cultural practices in one of India's most strategically and culturally significant regions. The work is particularly significant for its detailed ethnographic observations, systematically documenting the intricate relationships, occupational structures, and cultural nuances of Punjab's diverse caste communities during a period of profound social and political transformation. Ibbetson's scholarly approach combined administrative insights with anthropological methodology, offering a comprehensive examination of social stratification that went beyond mere colonial administrative classification. The text critically analyzes the interconnections between caste, occupation, economic roles, and cultural practices, providing scholars with an invaluable primary source for understanding the complex social dynamics of late 19th-century Punjab. By meticulously recording oral histories, traditional practices, and social hierarchies, Ibbetson's work serves as a crucial historical document that bridges colonial ethnographic documentation with emerging anthropological scholarship. It remains an essential reference for understanding the social architecture of Punjab during a pivotal moment of cultural documentation, colonial administrative engagement, and emerging nationalist consciousness, offering nuanced insights into the region's social fabric that transcend the limited perspectives of colonial administrative records.
+  - Literature
+description: >-
+  Sir Denzil Ibbetson's "Panjab Castes" represents a landmark anthropological
+  study of Punjab's social landscape during the late British colonial period,
+  specifically capturing the complex societal structures at the turn of the 20th
+  century. Emerging from Ibbetson's extensive administrative and ethnographic
+  work as a colonial revenue officer and later Chief Secretary of Punjab, the
+  text provides a meticulous documentation of caste hierarchies, social
+  organization, and cultural practices in one of India's most strategically and
+  culturally significant regions.
 collections:
-- regional-voices
-- modern-literature
+  - regional-voices
+  - modern-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/panjabcastes00ibbe
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/panjabcastes00ibbe'
+    type: other
 references:
-- name: 'Wikipedia: Panjab Castes'
-  url: https://en.wikipedia.org/wiki/Panjab_Castes
-  type: wikipedia
-- name: 'Wikipedia: Denzil Ibbetson'
-  url: https://en.wikipedia.org/wiki/Denzil_Ibbetson
-  type: wikipedia
-- name: 'Open Library: Panjab castes year'
-  url: https://openlibrary.org/search?q=Panjab+castes+year+1916+language+English+1847-1908++Sir++Denzil+Ibbetson
-  type: other
+  - name: 'Wikipedia: Panjab Castes'
+    url: 'https://en.wikipedia.org/wiki/Panjab_Castes'
+    type: wikipedia
+  - name: 'Wikipedia: Denzil Ibbetson'
+    url: 'https://en.wikipedia.org/wiki/Denzil_Ibbetson'
+    type: wikipedia
+  - name: 'Open Library: Panjab castes year'
+    url: >-
+      https://openlibrary.org/search?q=Panjab+castes+year+1916+language+English+1847-1908++Sir++Denzil+Ibbetson
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+Sir Denzil Ibbetson's "Panjab Castes" represents a landmark anthropological study of Punjab's social landscape during the late British colonial period, specifically capturing the complex societal structures at the turn of the 20th century. Emerging from Ibbetson's extensive administrative and ethnographic work as a colonial revenue officer and later Chief Secretary of Punjab, the text provides a meticulous documentation of caste hierarchies, social organization, and cultural practices in one of India's most strategically and culturally significant regions. The work is particularly significant for its detailed ethnographic observations, systematically documenting the intricate relationships, occupational structures, and cultural nuances of Punjab's diverse caste communities during a period of profound social and political transformation. Ibbetson's scholarly approach combined administrative insights with anthropological methodology, offering a comprehensive examination of social stratification that went beyond mere colonial administrative classification. The text critically analyzes the interconnections between caste, occupation, economic roles, and cultural practices, providing scholars with an invaluable primary source for understanding the complex social dynamics of late 19th-century Punjab. By meticulously recording oral histories, traditional practices, and social hierarchies, Ibbetson's work serves as a crucial historical document that bridges colonial ethnographic documentation with emerging anthropological scholarship. It remains an essential reference for understanding the social architecture of Punjab during a pivotal moment of cultural documentation, colonial administrative engagement, and emerging nationalist consciousness, offering nuanced insights into the region's social fabric that transcend the limited perspectives of colonial administrative records.
+
 ---
 
 # Panjab Castes

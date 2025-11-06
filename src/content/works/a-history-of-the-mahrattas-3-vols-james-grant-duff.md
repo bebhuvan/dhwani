@@ -1,27 +1,37 @@
 ---
-title: 'A History of the Mahrattas (3 Volumes)'
+title: A History of the Mahrattas (3 Volumes)
 author:
-- James Grant Duff
+  - James Grant Duff
 year: 1826
 language:
-- English
+  - English
 genre:
-- History
-description: |
-  Captain James Grant Duff's "A History of the Mahrattas" represents a seminal colonial-era scholarly work documenting the Maratha political and cultural landscape during a transformative period of Indian history. Published in 1826, this three-volume comprehensive historical account emerged in the immediate aftermath of the Third Anglo-Maratha War, which conclusively ended Maratha sovereignty and consolidated British imperial control over Western India. Drawing from unprecedented access to state archives, temple records, and local documentation during his tenure as Resident of Satara, Duff constructed a nuanced narrative that simultaneously served colonial administrative objectives and provided unprecedented scholarly documentation of Maratha civilization. As a Scottish military officer and East India Company administrator serving in the Bombay Presidency between 1809 and 1828, Duff exemplified the scholar-administrator archetype who combined military experience, bureaucratic insight, and emerging ethnographic methodologies to interpret complex regional histories. The work critically examines Maratha political institutions, military strategies, leadership dynamics, and sociocultural structures, offering early European scholarly perspectives on indigenous governance and resistance. Beyond its colonial interpretative framework, the text preserves crucial historical details about Maratha political formations, including the governance strategies of key figures like Chhatrapati Shivaji, the administrative innovations of the Peshwa system, and the intricate diplomatic negotiations that characterized Maratha interactions with regional powers. Duff's scholarly approach—balancing archival research, firsthand administrative knowledge, and systematic historical analysis—established a methodological precedent for subsequent colonial and postcolonial historical scholarship, making it a foundational text in understanding early 19th-century Western Indian political transformations.
+  - History
+description: >-
+  Captain James Grant Duff's "A History of the Mahrattas" represents a seminal
+  colonial-era scholarly work documenting the Maratha political and cultural
+  landscape during a transformative period of Indian history. Published in 1826,
+  this three-volume comprehensive historical account emerged in the immediate
+  aftermath of the Third Anglo-Maratha War, which conclusively ended Maratha
+  sovereignty and consolidated British imperial control over Western India.
 collections:
-- colonial-india
-- modern-literature
+  - colonial-india
+  - modern-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/historyofmahratt01duff
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/historyofmahratt01duff'
+    type: other
 references:
-- name: 'Wikipedia: James Grant Duff'
-  url: https://en.wikipedia.org/wiki/James_Grant_Duff
-  type: wikipedia
+  - name: 'Wikipedia: James Grant Duff'
+    url: 'https://en.wikipedia.org/wiki/James_Grant_Duff'
+    type: wikipedia
 featured: false
-publishDate: 2025-11-03
+publishDate: 2025-11-03T00:00:00.000Z
+---
+## Historical Context
+
+Captain James Grant Duff's "A History of the Mahrattas" represents a seminal colonial-era scholarly work documenting the Maratha political and cultural landscape during a transformative period of Indian history. Published in 1826, this three-volume comprehensive historical account emerged in the immediate aftermath of the Third Anglo-Maratha War, which conclusively ended Maratha sovereignty and consolidated British imperial control over Western India. Drawing from unprecedented access to state archives, temple records, and local documentation during his tenure as Resident of Satara, Duff constructed a nuanced narrative that simultaneously served colonial administrative objectives and provided unprecedented scholarly documentation of Maratha civilization. As a Scottish military officer and East India Company administrator serving in the Bombay Presidency between 1809 and 1828, Duff exemplified the scholar-administrator archetype who combined military experience, bureaucratic insight, and emerging ethnographic methodologies to interpret complex regional histories. The work critically examines Maratha political institutions, military strategies, leadership dynamics, and sociocultural structures, offering early European scholarly perspectives on indigenous governance and resistance. Beyond its colonial interpretative framework, the text preserves crucial historical details about Maratha political formations, including the governance strategies of key figures like Chhatrapati Shivaji, the administrative innovations of the Peshwa system, and the intricate diplomatic negotiations that characterized Maratha interactions with regional powers. Duff's scholarly approach—balancing archival research, firsthand administrative knowledge, and systematic historical analysis—established a methodological precedent for subsequent colonial and postcolonial historical scholarship, making it a foundational text in understanding early 19th-century Western Indian political transformations.
+
 ---
 
 # A History of the Mahrattas (3 Volumes)

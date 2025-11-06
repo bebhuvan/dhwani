@@ -1,45 +1,56 @@
 ---
 title: 'The Indian Antiquary: A Journal of Oriental Research'
 author:
-- James Burgess (editor)
+  - James Burgess (editor)
 year: 1872
 language:
-- English
+  - English
 genre:
-- Academic Journal
-- Indology
-- Archaeology
-description: |
-  The Indian Antiquary, a seminal scholarly journal established in 1872 by prominent Scottish archaeologist and architectural historian James Burgess, emerged during a critical period of British colonial scholarly engagement with Indian cultural heritage. Published during the late 19th century, the journal represented a sophisticated intellectual platform for systematic documentation and critical analysis of India's multifaceted historical and cultural landscape. Burgess, who served as the journal's founding editor, strategically curated research spanning archaeology, epigraphy, ethnology, historical studies, linguistics, literature, numismatics, philosophy, and religious studies. The publication distinguished itself through meticulous epigraphic research, providing scholarly translations and comprehensive annotations that significantly advanced understanding of Indian textual and material culture during a transformative period of academic exploration. Its methodological rigor and commitment to original research enabled European and Indian scholars to collaborate in deciphering complex historical narratives, inscriptional evidence, and cultural practices previously obscured or misunderstood. The journal's volumes became instrumental in establishing Indology as a systematic academic discipline, bridging indigenous knowledge systems with emerging Western scholarly methodologies. By publishing carefully documented research from diverse regions and linguistic traditions, The Indian Antiquary played a crucial role in preserving and interpreting India's intellectual heritage, offering nuanced insights into social structures, religious practices, linguistic evolution, and historical developments across multiple centuries. Operating as a privately funded scholarly venture from 1872 to 1933, the journal remained a definitive resource for researchers seeking comprehensive, analytically sophisticated examinations of India's rich cultural tapestry.
+  - Academic Journal
+  - Indology
+  - Archaeology
+description: >-
+  The Indian Antiquary, a seminal scholarly journal established in 1872 by
+  prominent Scottish archaeologist and architectural historian James Burgess,
+  emerged during a critical period of British colonial scholarly engagement with
+  Indian cultural heritage. Published during the late 19th century, the journal
+  represented a sophisticated intellectual platform for systematic documentation
+  and critical analysis of India's multifaceted historical and cultural
+  landscape.
 collections:
-- academic-journals
-- indology
-- archaeology
+  - academic-journals
+  - indology
+  - archaeology
 sources:
-- name: 'Internet Archive (DLI Vol. 1)'
-  url: https://archive.org/details/dli.ernet.277428
-  type: other
-- name: 'Internet Archive (DLI alternate)'
-  url: https://archive.org/details/in.ernet.dli.2015.44339
-  type: other
-- name: 'Internet Archive (Royal Asiatic)'
-  url: https://archive.org/details/indianantiquaryj266roya
-  type: other
+  - name: Internet Archive (DLI Vol. 1)
+    url: 'https://archive.org/details/dli.ernet.277428'
+    type: other
+  - name: Internet Archive (DLI alternate)
+    url: 'https://archive.org/details/in.ernet.dli.2015.44339'
+    type: other
+  - name: Internet Archive (Royal Asiatic)
+    url: 'https://archive.org/details/indianantiquaryj266roya'
+    type: other
 references:
-- name: 'Wikipedia: The Indian Antiquary'
-  url: https://en.wikipedia.org/wiki/The_Indian_Antiquary
-  type: wikipedia
-- name: 'Wikipedia: James Burgess (archaeologist)'
-  url: https://en.wikipedia.org/wiki/James_Burgess_(archaeologist)
-  type: wikipedia
-- name: 'Wikisource'
-  url: https://en.wikisource.org/wiki/Fifty_years_of_%22The_Indian_Antiquary%22
-  type: wikisource
-- name: 'OpenLibrary'
-  url: https://openlibrary.org/search?q=Indian+Antiquary+1872+Burgess
-  type: other
+  - name: 'Wikipedia: The Indian Antiquary'
+    url: 'https://en.wikipedia.org/wiki/The_Indian_Antiquary'
+    type: wikipedia
+  - name: 'Wikipedia: James Burgess (archaeologist)'
+    url: 'https://en.wikipedia.org/wiki/James_Burgess_(archaeologist)'
+    type: wikipedia
+  - name: Wikisource
+    url: 'https://en.wikisource.org/wiki/Fifty_years_of_%22The_Indian_Antiquary%22'
+    type: wikisource
+  - name: OpenLibrary
+    url: 'https://openlibrary.org/search?q=Indian+Antiquary+1872+Burgess'
+    type: other
 featured: false
-publishDate: 2025-01-24
+publishDate: 2025-01-24T00:00:00.000Z
+---
+## Historical Context
+
+The Indian Antiquary, a seminal scholarly journal established in 1872 by prominent Scottish archaeologist and architectural historian James Burgess, emerged during a critical period of British colonial scholarly engagement with Indian cultural heritage. Published during the late 19th century, the journal represented a sophisticated intellectual platform for systematic documentation and critical analysis of India's multifaceted historical and cultural landscape. Burgess, who served as the journal's founding editor, strategically curated research spanning archaeology, epigraphy, ethnology, historical studies, linguistics, literature, numismatics, philosophy, and religious studies. The publication distinguished itself through meticulous epigraphic research, providing scholarly translations and comprehensive annotations that significantly advanced understanding of Indian textual and material culture during a transformative period of academic exploration. Its methodological rigor and commitment to original research enabled European and Indian scholars to collaborate in deciphering complex historical narratives, inscriptional evidence, and cultural practices previously obscured or misunderstood. The journal's volumes became instrumental in establishing Indology as a systematic academic discipline, bridging indigenous knowledge systems with emerging Western scholarly methodologies. By publishing carefully documented research from diverse regions and linguistic traditions, The Indian Antiquary played a crucial role in preserving and interpreting India's intellectual heritage, offering nuanced insights into social structures, religious practices, linguistic evolution, and historical developments across multiple centuries. Operating as a privately funded scholarly venture from 1872 to 1933, the journal remained a definitive resource for researchers seeking comprehensive, analytically sophisticated examinations of India's rich cultural tapestry.
+
 ---
 
 # The Indian Antiquary: A Journal of Oriental Research

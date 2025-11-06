@@ -1,33 +1,46 @@
 ---
 title: 'Warren Hastings in Bengal, 1772-1774'
 author:
-- Mary Evelyn Monckton Jones
+  - Mary Evelyn Monckton Jones
 year: 1918
 language:
-- English
+  - English
 genre:
-- History
-- Biography
-description: |
-  Warren Hastings in Bengal, 1772-1774 represents a meticulously researched historical examination of a pivotal transitional period in British colonial administration in Bengal, offering critical insights into the early stages of British East India Company governance. Mary Evelyn Monckton Jones' scholarly work comprehensively documents the administrative strategies and institutional transformations implemented during Warren Hastings' critical governorship, a time when the Company was transitioning from a trading entity to a territorial power with complex bureaucratic structures. The text provides unprecedented archival documentation, including previously unpublished primary source materials that illuminate the intricate processes of colonial governance, administrative reforms, and the evolving relationship between British officials and local Bengali political structures. By systematically analyzing Hastings' administrative policies, the work reveals the nuanced mechanisms of imperial expansion, fiscal management, and nascent colonial legal frameworks that would significantly shape subsequent British interactions in the Indian subcontinent. The publication offers scholars and historians a granular understanding of the administrative challenges, political negotiations, and cultural interactions during a transformative period of Indian colonial history. Monckton Jones' rigorous scholarly approach contextualizes Hastings' governance within broader imperial dynamics, demonstrating how administrative decisions in this three-year period established precedents for future colonial governance models. The work is particularly valuable for understanding the initial stages of British institutional development in Bengal, providing deep analytical insights into the complex processes of colonial state-formation, bureaucratic evolution, and the interplay between European administrative philosophies and existing indigenous political structures.
+  - History
+  - Biography
+description: >-
+  Warren Hastings in Bengal, 1772-1774 represents a meticulously researched
+  historical examination of a pivotal transitional period in British colonial
+  administration in Bengal, offering critical insights into the early stages of
+  British East India Company governance. Mary Evelyn Monckton Jones' scholarly
+  work comprehensively documents the administrative strategies and institutional
+  transformations implemented during Warren Hastings' critical governorship, a
+  time when the Company was transitioning from a trading entity to a territorial
+  power with complex bureaucratic structures.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/warrenhastingsin00jone
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/warrenhastingsin00jone'
+    type: other
 references:
-- name: 'Wikipedia: Warren Hastings'
-  url: https://en.wikipedia.org/wiki/Warren_Hastings
-  type: wikipedia
-- name: 'OpenLibrary Search'
-  url: https://openlibrary.org/search?q=Warren+Hastings+in+Bengal+Mary+Evelyn+Monckton+Jones
-  type: other
-- name: 'Wikidata: Warren Hastings'
-  url: https://www.wikidata.org/wiki/Q333994
-  type: other
+  - name: 'Wikipedia: Warren Hastings'
+    url: 'https://en.wikipedia.org/wiki/Warren_Hastings'
+    type: wikipedia
+  - name: OpenLibrary Search
+    url: >-
+      https://openlibrary.org/search?q=Warren+Hastings+in+Bengal+Mary+Evelyn+Monckton+Jones
+    type: other
+  - name: 'Wikidata: Warren Hastings'
+    url: 'https://www.wikidata.org/wiki/Q333994'
+    type: other
 featured: false
-publishDate: 2025-01-22
+publishDate: 2025-01-22T00:00:00.000Z
+---
+## Historical Context
+
+Warren Hastings in Bengal, 1772-1774 represents a meticulously researched historical examination of a pivotal transitional period in British colonial administration in Bengal, offering critical insights into the early stages of British East India Company governance. Mary Evelyn Monckton Jones' scholarly work comprehensively documents the administrative strategies and institutional transformations implemented during Warren Hastings' critical governorship, a time when the Company was transitioning from a trading entity to a territorial power with complex bureaucratic structures. The text provides unprecedented archival documentation, including previously unpublished primary source materials that illuminate the intricate processes of colonial governance, administrative reforms, and the evolving relationship between British officials and local Bengali political structures. By systematically analyzing Hastings' administrative policies, the work reveals the nuanced mechanisms of imperial expansion, fiscal management, and nascent colonial legal frameworks that would significantly shape subsequent British interactions in the Indian subcontinent. The publication offers scholars and historians a granular understanding of the administrative challenges, political negotiations, and cultural interactions during a transformative period of Indian colonial history. Monckton Jones' rigorous scholarly approach contextualizes Hastings' governance within broader imperial dynamics, demonstrating how administrative decisions in this three-year period established precedents for future colonial governance models. The work is particularly valuable for understanding the initial stages of British institutional development in Bengal, providing deep analytical insights into the complex processes of colonial state-formation, bureaucratic evolution, and the interplay between European administrative philosophies and existing indigenous political structures.
+
 ---
 
 # Warren Hastings in Bengal, 1772-1774

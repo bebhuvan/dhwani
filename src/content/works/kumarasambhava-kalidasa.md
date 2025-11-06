@@ -1,52 +1,85 @@
 ---
-title: "Kumarasambhava (The Birth of Kumara)"
-author: ["Kalidasa"]
+title: Kumarasambhava (The Birth of Kumara)
+author:
+  - Kalidasa
 year: 500
-language: ["Sanskrit", "English"]
-genre: ["Epic Poetry", "Classical Literature", "Mahakavya", "Devotional Literature"]
-description: "Kalidasa's Kumarasambhava narrates the cosmic love story of Shiva and Parvati, culminating in the birth of their son Kumara (Kartikeya), destined to slay the demon Taraka. Regarded by many scholars as Kalidasa's supreme poetic achievement, this mahakavya exemplifies the shringara rasa (erotic aesthetic) while maintaining profound spiritual depth. The eight authentic cantos trace Parvati's penance to win Shiva's heart, Kama's self-sacrificing intervention and consequent incineration by Shiva's third eye, Parvati's austerities that finally move the ascetic god, and their divine marriage and union. The poem established enduring standards for nature metaphors in Indian literature and navigates the delicate balance between sensuality and spirituality that characterizes tantric thought."
-collections: ['classical-literature', 'epic-poetry', 'devotional-literature', 'philosophy', 'religious-texts']
+language:
+  - Sanskrit
+  - English
+genre:
+  - Epic Poetry
+  - Classical Literature
+  - Mahakavya
+  - Devotional Literature
+description: >-
+  Kalidasa's Kumarasambhava narrates the cosmic love story of Shiva and Parvati,
+  culminating in the birth of their son Kumara (Kartikeya), destined to slay the
+  demon Taraka. Regarded by many scholars as Kalidasa's supreme poetic
+  achievement, this mahakavya exemplifies the shringara rasa (erotic aesthetic)
+  while maintaining profound spiritual depth.
+collections:
+  - classical-literature
+  - epic-poetry
+  - devotional-literature
+  - philosophy
+  - religious-texts
 sources:
-  - name: "Project Gutenberg (The Birth of the War-God)"
-    url: "https://www.gutenberg.org/ebooks/31968"
-    type: "other"
-  - name: "Internet Archive (DLI Edition)"
-    url: "https://archive.org/details/in.ernet.dli.2015.408296"
-    type: "other"
-  - name: "Internet Archive (Sanskrit Edition)"
-    url: "https://archive.org/details/in.ernet.dli.2015.487473"
-    type: "other"
-  - name: "Internet Archive (M.R. Kale edition with commentary)"
-    url: "https://archive.org/details/KumarSambhavOfKalidasMRKale"
-    type: "other"
+  - name: Project Gutenberg (The Birth of the War-God)
+    url: 'https://www.gutenberg.org/ebooks/31968'
+    type: other
+  - name: Internet Archive (DLI Edition)
+    url: 'https://archive.org/details/in.ernet.dli.2015.408296'
+    type: other
+  - name: Internet Archive (Sanskrit Edition)
+    url: 'https://archive.org/details/in.ernet.dli.2015.487473'
+    type: other
+  - name: Internet Archive (M.R. Kale edition with commentary)
+    url: 'https://archive.org/details/KumarSambhavOfKalidasMRKale'
+    type: other
 references:
-  - name: "Wikipedia: Kalidasa"
-    url: "https://en.wikipedia.org/wiki/Kalidasa"
-    type: "wikipedia"
-  - name: "Wikipedia: Kumarasambhava"
-    url: "https://en.wikipedia.org/wiki/Kumarasambhava"
-    type: "wikipedia"
-  - name: "Wikipedia: Kartikeya"
-    url: "https://en.wikipedia.org/wiki/Kartikeya"
-    type: "wikipedia"
-  - name: "Wikipedia: Parvati"
-    url: "https://en.wikipedia.org/wiki/Parvati"
-    type: "wikipedia"
-  - name: "Wikipedia: Kamadeva"
-    url: "https://en.wikipedia.org/wiki/Kamadeva"
-    type: "wikipedia"
-  - name: "Wikipedia: Shringara"
-    url: "https://en.wikipedia.org/wiki/Shringara"
-    type: "wikipedia"
-  - name: "Wikisource: The Birth of the War-God (R.T.H. Griffith translation)"
-    url: "https://en.wikisource.org/wiki/The_Birth_of_the_War-God"
-    type: "wikisource"
-  - name: "Open Library: Kumarasambhava"
-    url: "https://openlibrary.org/search?q=Kumarasambhava+Kalidasa"
-    type: "other"
+  - name: 'Wikipedia: Kalidasa'
+    url: 'https://en.wikipedia.org/wiki/Kalidasa'
+    type: wikipedia
+  - name: 'Wikipedia: Kumarasambhava'
+    url: 'https://en.wikipedia.org/wiki/Kumarasambhava'
+    type: wikipedia
+  - name: 'Wikipedia: Kartikeya'
+    url: 'https://en.wikipedia.org/wiki/Kartikeya'
+    type: wikipedia
+  - name: 'Wikipedia: Parvati'
+    url: 'https://en.wikipedia.org/wiki/Parvati'
+    type: wikipedia
+  - name: 'Wikipedia: Kamadeva'
+    url: 'https://en.wikipedia.org/wiki/Kamadeva'
+    type: wikipedia
+  - name: 'Wikipedia: Shringara'
+    url: 'https://en.wikipedia.org/wiki/Shringara'
+    type: wikipedia
+  - name: 'Wikisource: The Birth of the War-God (R.T.H. Griffith translation)'
+    url: 'https://en.wikisource.org/wiki/The_Birth_of_the_War-God'
+    type: wikisource
+  - name: 'Open Library: Kumarasambhava'
+    url: 'https://openlibrary.org/search?q=Kumarasambhava+Kalidasa'
+    type: other
 featured: false
-publishDate: 2025-10-30
-tags: ["Sanskrit literature", "Kalidasa", "epic poetry", "Shiva", "Parvati", "Hindu mythology", "shringara rasa", "devotional poetry", "Gupta period", "mahakavya", "public domain"]
+publishDate: 2025-10-30T00:00:00.000Z
+tags:
+  - Sanskrit literature
+  - Kalidasa
+  - epic poetry
+  - Shiva
+  - Parvati
+  - Hindu mythology
+  - shringara rasa
+  - devotional poetry
+  - Gupta period
+  - mahakavya
+  - public domain
+---
+## Historical Context
+
+Kalidasa's Kumarasambhava narrates the cosmic love story of Shiva and Parvati, culminating in the birth of their son Kumara (Kartikeya), destined to slay the demon Taraka. Regarded by many scholars as Kalidasa's supreme poetic achievement, this mahakavya exemplifies the shringara rasa (erotic aesthetic) while maintaining profound spiritual depth. The eight authentic cantos trace Parvati's penance to win Shiva's heart, Kama's self-sacrificing intervention and consequent incineration by Shiva's third eye, Parvati's austerities that finally move the ascetic god, and their divine marriage and union. The poem established enduring standards for nature metaphors in Indian literature and navigates the delicate balance between sensuality and spirituality that characterizes tantric thought.
+
 ---
 
 # Kumarasambhava (The Birth of Kumara)

@@ -1,52 +1,63 @@
 ---
-title: 'The Silappadikaram'
+title: The Silappadikaram
 author:
-- Ilango Adigal
-- V.R. Ramachandra Dikshitar ()
+  - Ilango Adigal
+  - V.R. Ramachandra Dikshitar ()
 year: 1939
 language:
-- Tamil
-- English
+  - Tamil
+  - English
 genre:
-- Epic Poetry
-- Classical Literature
-description: |
-  The Cilappatikaram, a landmark epic of classical Tamil literature composed around the 5th-6th century CE during the Sangam period, represents a profound narrative exploration of social justice, ethical conduct, and cultural dynamics within early medieval South Indian society. Traditionally attributed to the Jain monk Ilango Adigal, likely a royal prince who renounced worldly life, the epic narrates the tragic story of Kannaki and her husband Kovalan, traversing the territories of the Chera, Chola, and Pandya kingdoms. Structured in 5,730 lines of akaval meter, the work transcends mere storytelling by offering intricate insights into the complex social structures, religious philosophies, and moral frameworks of its time. The narrative centers on Kannaki's transformative journey from personal tragedy to becoming a powerful symbol of feminine virtue and divine retribution, reflecting the sophisticated ethical and philosophical underpinnings of classical Tamil civilization. Beyond its literary merits, the Cilappatikaram serves as a critical historical document, providing detailed ethnographic descriptions of urban life, economic systems, artistic practices, and religious interactions in South India during a period of significant cultural efflorescence. Its enduring significance lies in its nuanced representation of social justice, gender dynamics, and the interconnected nature of individual fate and cosmic order. V.R. Ramachandra Dikshitar's 1939 English translation made this seminal work accessible to broader scholarly discourse, enabling deeper understanding of Tamil literary and cultural heritage within the broader context of Indian intellectual traditions.
+  - Epic Poetry
+  - Classical Literature
+description: >-
+  The Cilappatikaram, a landmark epic of classical Tamil literature composed
+  around the 5th-6th century CE during the Sangam period, represents a profound
+  narrative exploration of social justice, ethical conduct, and cultural
+  dynamics within early medieval South Indian society. Traditionally attributed
+  to the Jain monk Ilango Adigal, likely a royal prince who renounced worldly
+  life, the epic narrates the tragic story of Kannaki and her husband Kovalan,
+  traversing the territories of the Chera, Chola, and Pandya kingdoms.
 collections:
-- ancient-wisdom
-- classical-literature
-- regional-voices
+  - ancient-wisdom
+  - classical-literature
+  - regional-voices
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/in.ernet.dli.2015.201802
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/in.ernet.dli.2015.201802'
+    type: other
 references:
-- name: 'Wikipedia: Cilappatikaram'
-  url: https://en.wikipedia.org/wiki/Cilappatikaram
-  type: wikipedia
-- name: 'Wikipedia: Ilango Adigal'
-  url: https://en.wikipedia.org/wiki/Ilango_Adigal
-  type: wikipedia
-- name: 'Wikipedia: V.R. Ramachandra Dikshitar'
-  url: https://en.wikipedia.org/wiki/V._R._Ramachandra_Dikshitar
-  type: wikipedia
-- name: 'Wikisource Index'
-  url: https://en.wikisource.org/wiki/Index:The_Silappadikaram.djvu
-  type: wikisource
-- name: 'OpenLibrary Search'
-  url: https://openlibrary.org/search?q=Silappadikaram
-  type: other
-- name: 'Wikidata: Silappatikaram'
-  url: https://www.wikidata.org/wiki/Q3115588
-  type: other
-- name: 'Wikidata: Ilango Adigal'
-  url: https://www.wikidata.org/wiki/Q3032538
-  type: other
-- name: 'Wikidata: V.R. Ramachandra Dikshitar'
-  url: https://www.wikidata.org/wiki/Q7906194
-  type: other
+  - name: 'Wikipedia: Cilappatikaram'
+    url: 'https://en.wikipedia.org/wiki/Cilappatikaram'
+    type: wikipedia
+  - name: 'Wikipedia: Ilango Adigal'
+    url: 'https://en.wikipedia.org/wiki/Ilango_Adigal'
+    type: wikipedia
+  - name: 'Wikipedia: V.R. Ramachandra Dikshitar'
+    url: 'https://en.wikipedia.org/wiki/V._R._Ramachandra_Dikshitar'
+    type: wikipedia
+  - name: Wikisource Index
+    url: 'https://en.wikisource.org/wiki/Index:The_Silappadikaram.djvu'
+    type: wikisource
+  - name: OpenLibrary Search
+    url: 'https://openlibrary.org/search?q=Silappadikaram'
+    type: other
+  - name: 'Wikidata: Silappatikaram'
+    url: 'https://www.wikidata.org/wiki/Q3115588'
+    type: other
+  - name: 'Wikidata: Ilango Adigal'
+    url: 'https://www.wikidata.org/wiki/Q3032538'
+    type: other
+  - name: 'Wikidata: V.R. Ramachandra Dikshitar'
+    url: 'https://www.wikidata.org/wiki/Q7906194'
+    type: other
 featured: false
-publishDate: 2025-01-22
+publishDate: 2025-01-22T00:00:00.000Z
+---
+## Historical Context
+
+The Cilappatikaram, a landmark epic of classical Tamil literature composed around the 5th-6th century CE during the Sangam period, represents a profound narrative exploration of social justice, ethical conduct, and cultural dynamics within early medieval South Indian society. Traditionally attributed to the Jain monk Ilango Adigal, likely a royal prince who renounced worldly life, the epic narrates the tragic story of Kannaki and her husband Kovalan, traversing the territories of the Chera, Chola, and Pandya kingdoms. Structured in 5,730 lines of akaval meter, the work transcends mere storytelling by offering intricate insights into the complex social structures, religious philosophies, and moral frameworks of its time. The narrative centers on Kannaki's transformative journey from personal tragedy to becoming a powerful symbol of feminine virtue and divine retribution, reflecting the sophisticated ethical and philosophical underpinnings of classical Tamil civilization. Beyond its literary merits, the Cilappatikaram serves as a critical historical document, providing detailed ethnographic descriptions of urban life, economic systems, artistic practices, and religious interactions in South India during a period of significant cultural efflorescence. Its enduring significance lies in its nuanced representation of social justice, gender dynamics, and the interconnected nature of individual fate and cosmic order. V.R. Ramachandra Dikshitar's 1939 English translation made this seminal work accessible to broader scholarly discourse, enabling deeper understanding of Tamil literary and cultural heritage within the broader context of Indian intellectual traditions.
+
 ---
 
 # The Silappadikaram

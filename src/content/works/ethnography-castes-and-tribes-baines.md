@@ -1,37 +1,50 @@
 ---
 title: 'Ethnography: Castes and Tribes'
 author:
-- Sir Jervoise Athelstane Baines
+  - Sir Jervoise Athelstane Baines
 year: 1912
 language:
-- English
+  - English
 genre:
-- Ethnography
-- Social History
-- Demographics
-description: |
-  Produced during the late British colonial period, this seminal ethnographic survey represents a critical documentation of Indian social structures at the turn of the 20th century, emerging from the 1901 census conducted under British administrative governance. Sir Jervoise Athelstane Baines, a distinguished colonial civil servant and ethnographer who served in the Indian Administrative Service between 1872-1912, compiled this comprehensive work during a transformative era of scholarly engagement with India's complex social landscape. The work provides a meticulously detailed examination of India's diverse caste and tribal communities, capturing a pivotal moment of social documentation when colonial administrative practices intersected with emerging anthropological methodologies. By systematically cataloging social groups, kinship structures, occupational patterns, and cultural practices, Baines's work offers an unprecedented cross-sectional view of Indian social organization, reflecting both colonial administrative imperatives and nascent scholarly interests in understanding indigenous social formations. The ethnography is particularly significant for its granular documentation of regional variations, occupational specializations, and intricate social hierarchies that characterized Indian society during a period of profound social transition. While inherently shaped by colonial perspectives, the work nonetheless provides invaluable ethnographic data that continues to be critically referenced by contemporary scholars of Indian social history, anthropology, and cultural studies. It represents a complex historical document that simultaneously reveals colonial administrative strategies and captures the nuanced social realities of early 20th-century Indian communities, serving as a critical source for understanding the intricate social architectures that defined Indian cultural identity during a period of significant historical transformation.
+  - Ethnography
+  - Social History
+  - Demographics
+description: >-
+  Produced during the late British colonial period, this seminal ethnographic
+  survey represents a critical documentation of Indian social structures at the
+  turn of the 20th century, emerging from the 1901 census conducted under
+  British administrative governance. Sir Jervoise Athelstane Baines, a
+  distinguished colonial civil servant and ethnographer who served in the Indian
+  Administrative Service between 1872-1912, compiled this comprehensive work
+  during a transformative era of scholarly engagement with India's complex
+  social landscape.
 collections:
-- modern-literature
+  - modern-literature
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/ethnographycaste00bainrich
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/ethnographycaste00bainrich'
+    type: other
 references:
-- name: 'Wikipedia: Jervoise Athelstane Baines'
-  url: https://en.wikipedia.org/wiki/Jervoise_Athelstane_Baines
-  type: wikipedia
-- name: 'Wikipedia: Caste system in India'
-  url: https://en.wikipedia.org/wiki/Caste_system_in_India
-  type: wikipedia
-- name: 'OpenLibrary Search'
-  url: https://openlibrary.org/search?q=Ethnography+Castes+and+Tribes+Jervoise+Athelstane+Baines
-  type: other
-- name: 'Wikidata: Jervoise Athelstane Baines'
-  url: https://www.wikidata.org/wiki/Q6185288
-  type: other
+  - name: 'Wikipedia: Jervoise Athelstane Baines'
+    url: 'https://en.wikipedia.org/wiki/Jervoise_Athelstane_Baines'
+    type: wikipedia
+  - name: 'Wikipedia: Caste system in India'
+    url: 'https://en.wikipedia.org/wiki/Caste_system_in_India'
+    type: wikipedia
+  - name: OpenLibrary Search
+    url: >-
+      https://openlibrary.org/search?q=Ethnography+Castes+and+Tribes+Jervoise+Athelstane+Baines
+    type: other
+  - name: 'Wikidata: Jervoise Athelstane Baines'
+    url: 'https://www.wikidata.org/wiki/Q6185288'
+    type: other
 featured: false
-publishDate: 2025-01-22
+publishDate: 2025-01-22T00:00:00.000Z
+---
+## Historical Context
+
+Produced during the late British colonial period, this seminal ethnographic survey represents a critical documentation of Indian social structures at the turn of the 20th century, emerging from the 1901 census conducted under British administrative governance. Sir Jervoise Athelstane Baines, a distinguished colonial civil servant and ethnographer who served in the Indian Administrative Service between 1872-1912, compiled this comprehensive work during a transformative era of scholarly engagement with India's complex social landscape. The work provides a meticulously detailed examination of India's diverse caste and tribal communities, capturing a pivotal moment of social documentation when colonial administrative practices intersected with emerging anthropological methodologies. By systematically cataloging social groups, kinship structures, occupational patterns, and cultural practices, Baines's work offers an unprecedented cross-sectional view of Indian social organization, reflecting both colonial administrative imperatives and nascent scholarly interests in understanding indigenous social formations. The ethnography is particularly significant for its granular documentation of regional variations, occupational specializations, and intricate social hierarchies that characterized Indian society during a period of profound social transition. While inherently shaped by colonial perspectives, the work nonetheless provides invaluable ethnographic data that continues to be critically referenced by contemporary scholars of Indian social history, anthropology, and cultural studies. It represents a complex historical document that simultaneously reveals colonial administrative strategies and captures the nuanced social realities of early 20th-century Indian communities, serving as a critical source for understanding the intricate social architectures that defined Indian cultural identity during a period of significant historical transformation.
+
 ---
 
 # Ethnography: Castes and Tribes

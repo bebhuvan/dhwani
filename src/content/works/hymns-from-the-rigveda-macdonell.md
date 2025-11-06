@@ -1,43 +1,56 @@
 ---
 title: 'Hymns from the Rigveda: Selected and Metrically Translated'
 author:
-- Arthur Anthony Macdonell
+  - Arthur Anthony Macdonell
 year: 1922
 language:
-- English
-- Sanskrit
+  - English
+  - Sanskrit
 genre:
-- Sacred Texts
-- Poetry Translation
-description: |
-  During the late 19th and early 20th centuries, when colonial scholarship was intensively engaging with India's textual heritage, Arthur Anthony Macdonell's translation of the Rigveda emerged as a pivotal scholarly intervention in Western comprehension of Vedic literature. A distinguished Sanskrit linguist and Oxford Orientalist, Macdonell produced a nuanced English verse translation that meticulously rendered the oldest extant corpus of Vedic Sanskrit poetry, capturing the complex liturgical and philosophical dimensions of these ancient hymns. Written approximately between 1500-1200 BCE, the Rigveda represents the foundational textual repository of Vedic religious thought, comprising 1,028 hymns organized into ten books (mandalas) addressing cosmic deities, philosophical inquiries, and ritualistic practices. Macdonell's translation was particularly significant in bridging linguistic and cultural gaps, providing European scholars and intellectuals unprecedented access to the sophisticated theological and cosmological conceptualizations embedded in these sacred texts. His scholarly approach balanced philological precision with poetic sensitivity, preserving the rhythmic structures and semantic nuances of the original Sanskrit compositions. By translating these hymns dedicated to deities like Indra, Agni, and Soma, Macdonell illuminated complex theological concepts, ritualistic practices, and early Indo-Aryan worldviews, facilitating a more nuanced understanding of ancient Indian intellectual and spiritual traditions. His work contributed substantially to comparative religious studies, linguistics, and the broader academic discourse on India's profound textual and cultural heritage, representing a critical moment in cross-cultural scholarly engagement during the late colonial period.
+  - Sacred Texts
+  - Poetry Translation
+description: >-
+  During the late 19th and early 20th centuries, when colonial scholarship was
+  intensively engaging with India's textual heritage, Arthur Anthony Macdonell's
+  translation of the Rigveda emerged as a pivotal scholarly intervention in
+  Western comprehension of Vedic literature. A distinguished Sanskrit linguist
+  and Oxford Orientalist, Macdonell produced a nuanced English verse translation
+  that meticulously rendered the oldest extant corpus of Vedic Sanskrit poetry,
+  capturing the complex liturgical and philosophical dimensions of these ancient
+  hymns.
 collections:
-- ancient-wisdom
+  - ancient-wisdom
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/cu31924023014750
-  type: other
-- name: 'Internet Archive - Alternate'
-  url: https://archive.org/details/in.ernet.dli.2015.237767
-  type: other
-- name: 'Internet Archive - Additional'
-  url: https://archive.org/details/in.ernet.dli.2015.47262
-  type: other
-- name: 'Wikisource'
-  url: https://en.wikisource.org/wiki/The_Hymns_of_the_Rigveda
-  type: other
+  - name: Internet Archive
+    url: 'https://archive.org/details/cu31924023014750'
+    type: other
+  - name: Internet Archive - Alternate
+    url: 'https://archive.org/details/in.ernet.dli.2015.237767'
+    type: other
+  - name: Internet Archive - Additional
+    url: 'https://archive.org/details/in.ernet.dli.2015.47262'
+    type: other
+  - name: Wikisource
+    url: 'https://en.wikisource.org/wiki/The_Hymns_of_the_Rigveda'
+    type: other
 references:
-- name: 'Wikipedia: Arthur Anthony Macdonell'
-  url: https://en.wikipedia.org/wiki/Arthur_Anthony_Macdonell
-  type: wikipedia
-- name: 'Wikipedia: Rigveda'
-  url: https://en.wikipedia.org/wiki/Rigveda
-  type: wikipedia
-- name: 'Open Library: Hymns from the Rigveda'
-  url: https://openlibrary.org/search?q=Hymns+from+the+Rigveda+Selected+and+Arthur+Anthony+Macdonell
-  type: other
+  - name: 'Wikipedia: Arthur Anthony Macdonell'
+    url: 'https://en.wikipedia.org/wiki/Arthur_Anthony_Macdonell'
+    type: wikipedia
+  - name: 'Wikipedia: Rigveda'
+    url: 'https://en.wikipedia.org/wiki/Rigveda'
+    type: wikipedia
+  - name: 'Open Library: Hymns from the Rigveda'
+    url: >-
+      https://openlibrary.org/search?q=Hymns+from+the+Rigveda+Selected+and+Arthur+Anthony+Macdonell
+    type: other
 featured: true
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+During the late 19th and early 20th centuries, when colonial scholarship was intensively engaging with India's textual heritage, Arthur Anthony Macdonell's translation of the Rigveda emerged as a pivotal scholarly intervention in Western comprehension of Vedic literature. A distinguished Sanskrit linguist and Oxford Orientalist, Macdonell produced a nuanced English verse translation that meticulously rendered the oldest extant corpus of Vedic Sanskrit poetry, capturing the complex liturgical and philosophical dimensions of these ancient hymns. Written approximately between 1500-1200 BCE, the Rigveda represents the foundational textual repository of Vedic religious thought, comprising 1,028 hymns organized into ten books (mandalas) addressing cosmic deities, philosophical inquiries, and ritualistic practices. Macdonell's translation was particularly significant in bridging linguistic and cultural gaps, providing European scholars and intellectuals unprecedented access to the sophisticated theological and cosmological conceptualizations embedded in these sacred texts. His scholarly approach balanced philological precision with poetic sensitivity, preserving the rhythmic structures and semantic nuances of the original Sanskrit compositions. By translating these hymns dedicated to deities like Indra, Agni, and Soma, Macdonell illuminated complex theological concepts, ritualistic practices, and early Indo-Aryan worldviews, facilitating a more nuanced understanding of ancient Indian intellectual and spiritual traditions. His work contributed substantially to comparative religious studies, linguistics, and the broader academic discourse on India's profound textual and cultural heritage, representing a critical moment in cross-cultural scholarly engagement during the late colonial period.
+
 ---
 
 ## Arthur Anthony Macdonell's Sanskrit Scholarship

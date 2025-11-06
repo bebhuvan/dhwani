@@ -1,30 +1,48 @@
 ---
-title: 'Gazetteer of the Bombay Presidency'
+title: Gazetteer of the Bombay Presidency
 author:
-- Government of Bombay
+  - Government of Bombay
 year: 1884
 language:
-- English
+  - English
 genre:
-- Administrative Literature
-- Reference Work
-description: |
-  Here's an expanded scholarly description:
-  
-  The Gazetteer of the Bombay Presidency represents a pivotal imperial cartographic and ethnographic enterprise documenting the intricate administrative, cultural, and territorial configurations of western India during the late nineteenth-century colonial period. Produced by the Government of Bombay during the consolidation of British imperial administrative infrastructure, this comprehensive multi-volume reference work emerged in the critical historical context of post-1857 Rebellion colonial governance, embodying sophisticated metropolitan strategies of territorial knowledge production and systematic regional documentation. The gazetteer meticulously synthesizes extensive empirical data across diverse domains including geographical topography, demographic composition, economic structures, historical narratives, and sociocultural landscapes of individual districts within the Bombay Presidency. By systematically cataloging indigenous administrative units, local political structures, ecological environments, economic resources, and ethnographic details, the work serves as an invaluable archaeological text for understanding colonial epistemological practices and indigenous societal configurations. Its detailed ethnographic descriptions provide nuanced insights into regional cultural practices, linguistic diversity, economic networks, and social hierarchies during a transformative period of imperial intersection and cultural negotiation. Beyond its immediate colonial administrative utility, the gazetteer has subsequently emerged as a critical scholarly resource for historians, anthropologists, and cultural researchers investigating the complex dynamics of late nineteenth-century western Indian society, offering unprecedented granular documentation of regional socio-cultural landscapes during a period of profound structural and cultural transition. Its comprehensive archival approach represents a significant intellectual artifact bridging indigenous knowledge systems with colonial bureaucratic documentation methodologies.
+  - Administrative Literature
+  - Reference Work
+description: >-
+  Here's an expanded scholarly description: The Gazetteer of the Bombay
+  Presidency represents a pivotal imperial cartographic and ethnographic
+  enterprise documenting the intricate administrative, cultural, and territorial
+  configurations of western India during the late nineteenth-century colonial
+  period. Produced by the Government of Bombay during the consolidation of
+  British imperial administrative infrastructure, this comprehensive
+  multi-volume reference work emerged in the critical historical context of
+  post-1857 Rebellion colonial governance, embodying sophisticated metropolitan
+  strategies of territorial knowledge production and systematic regional
+  documentation.
 sources:
-- name: 'Internet Archive'
-  url: https://archive.org/details/dli.ministry.08144; https://archive.org/details/in.gov.ignca.17331; https://archive.org/details/in.gov.ignca.17350
-  type: other
+  - name: Internet Archive
+    url: >-
+      https://archive.org/details/dli.ministry.08144;
+      https://archive.org/details/in.gov.ignca.17331;
+      https://archive.org/details/in.gov.ignca.17350
+    type: other
 references:
-- name: 'Wikipedia: Bombay Presidency'
-  url: https://en.wikipedia.org/wiki/Bombay_Presidency
-  type: wikipedia
-- name: 'Open Library: Gazetteer of the Bombay'
-  url: https://openlibrary.org/search?q=Gazetteer+of+the+Bombay+Presidency+language+Government+of+Bombay
-  type: other
+  - name: 'Wikipedia: Bombay Presidency'
+    url: 'https://en.wikipedia.org/wiki/Bombay_Presidency'
+    type: wikipedia
+  - name: 'Open Library: Gazetteer of the Bombay'
+    url: >-
+      https://openlibrary.org/search?q=Gazetteer+of+the+Bombay+Presidency+language+Government+of+Bombay
+    type: other
 featured: false
-publishDate: 2025-10-30
+publishDate: 2025-10-30T00:00:00.000Z
+---
+## Historical Context
+
+Here's an expanded scholarly description:
+
+The Gazetteer of the Bombay Presidency represents a pivotal imperial cartographic and ethnographic enterprise documenting the intricate administrative, cultural, and territorial configurations of western India during the late nineteenth-century colonial period. Produced by the Government of Bombay during the consolidation of British imperial administrative infrastructure, this comprehensive multi-volume reference work emerged in the critical historical context of post-1857 Rebellion colonial governance, embodying sophisticated metropolitan strategies of territorial knowledge production and systematic regional documentation. The gazetteer meticulously synthesizes extensive empirical data across diverse domains including geographical topography, demographic composition, economic structures, historical narratives, and sociocultural landscapes of individual districts within the Bombay Presidency. By systematically cataloging indigenous administrative units, local political structures, ecological environments, economic resources, and ethnographic details, the work serves as an invaluable archaeological text for understanding colonial epistemological practices and indigenous societal configurations. Its detailed ethnographic descriptions provide nuanced insights into regional cultural practices, linguistic diversity, economic networks, and social hierarchies during a transformative period of imperial intersection and cultural negotiation. Beyond its immediate colonial administrative utility, the gazetteer has subsequently emerged as a critical scholarly resource for historians, anthropologists, and cultural researchers investigating the complex dynamics of late nineteenth-century western Indian society, offering unprecedented granular documentation of regional socio-cultural landscapes during a period of profound structural and cultural transition. Its comprehensive archival approach represents a significant intellectual artifact bridging indigenous knowledge systems with colonial bureaucratic documentation methodologies.
+
 ---
 
 ## Administrative Structure and Governance
