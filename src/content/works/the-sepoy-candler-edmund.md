@@ -1,5 +1,5 @@
 ---
-title: 'The Sepoy'
+title: The Sepoy
 author:
 - Candler, Edmund
 year: 1911
@@ -7,21 +7,41 @@ language:
 - English
 genre:
 - Historical Literature
-description: |
-  Edmund Candler's "The Sepoy" (1919) provides ethnographic and psychological profiles of Indian soldiers serving in the British Indian Army during World War I, with particular focus on troops deployed in the Mesopotamian Campaign (1914-1918). As a war correspondent embedded with Indian troops, Candler produces detailed sociological sketches of various martial communities—Sikhs, Gurkhas, Pathans, Dogras, Punjabi Muslims, and others—critically examining their military organization, cultural characteristics, and interactions with British officers. The work represents a critical text in colonial military sociology, analyzing Indian martial masculinity through regimental loyalty and racial categorization, explicitly engaging with the British Indian Army's "martial races" theory that hierarchically positioned certain ethnic communities as inherently more suitable for military service. Candler's documentation reveals the substantial contribution of over one million Indian soldiers who fought across multiple global theaters, including France, East Africa, Gallipoli, and Mesopotamia. His narrative simultaneously documents soldiers' experiences while reflecting contemporary colonial epistemological frameworks that naturalized racial hierarchies and imperial command structures. The text's detailed descriptions of Mesopotamian combat—including analysis of brutal environmental conditions, inadequate medical infrastructure, and logistical challenges that significantly impacted Indian military units—provide nuanced insights into both military operational realities and the systemic challenges faced by colonial troops. Critically, Candler's work serves as a significant historical source documenting Indian soldiers' wartime experiences through a lens that simultaneously respects individual soldier experiences while perpetuating broader imperial interpretive paradigms.
+description: 'Edmund Candler''s "The Sepoy" (1919) provides ethnographic and psychological
+  profiles of Indian soldiers serving in the British Indian Army during World War
+  I, with particular focus on troops deployed in the Mesopotamian Campaign (1914-1918).
+  As a war correspondent embedded with Indian troops, Candler produces detailed sociological
+  sketches of various martial communities—Sikhs, Gurkhas, Pathans, Dogras, Punjabi
+  Muslims, and others—critically examining their military organization, cultural characteristics,
+  and interactions with British officers. The work represents a critical text in colonial
+  military sociology, analyzing Indian martial masculinity through regimental loyalty
+  and racial categorization, explicitly engaging with the British Indian Army''s "martial
+  races" theory that hierarchically positioned certain ethnic communities as inherently
+  more suitable for military service. Candler''s documentation reveals the substantial
+  contribution of over one million Indian soldiers who fought across multiple global
+  theaters, including France, East Africa, Gallipoli, and Mesopotamia. His narrative
+  simultaneously documents soldiers'' experiences while reflecting contemporary colonial
+  epistemological frameworks that naturalized racial hierarchies and imperial command
+  structures. The text''s detailed descriptions of Mesopotamian combat—including analysis
+  of brutal environmental conditions, inadequate medical infrastructure, and logistical
+  challenges that significantly impacted Indian military units—provide nuanced insights
+  into both military operational realities and the systemic challenges faced by colonial
+  troops. Critically, Candler''s work serves as a significant historical source documenting
+  Indian soldiers'' wartime experiences through a lens that simultaneously respects
+  individual soldier experiences while perpetuating broader imperial interpretive
+  paradigms.
+
+  '
 collections:
 - classical-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/48666
   type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/48666.html.images
-  type: other
-- name: 'Internet Archive (The sepoy)'
+- name: Internet Archive (The sepoy)
   url: https://archive.org/details/sepoysep00candrich
   type: other
-- name: 'Internet Archive (The Sepoy By Edmund Candler London 1919 John Murray)'
+- name: Internet Archive (The Sepoy By Edmund Candler London 1919 John Murray)
   url: https://archive.org/details/fmlo_the-sepoy-by-edmund-candler-london-1919-john-murray
   type: other
 references:

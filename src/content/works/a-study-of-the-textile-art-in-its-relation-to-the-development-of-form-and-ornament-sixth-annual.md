@@ -1,5 +1,5 @@
 ---
-title: "A Study of the Textile Art in Its Relation to the Development of Form and Ornament"
+title: A Study of the Textile Art in Its Relation to the Development of Form and Ornament
 author:
 - Holmes, William Henry
 year: 1918
@@ -7,26 +7,48 @@ language:
 - English
 genre:
 - Historical Literature
-description: |
-  William Henry Holmes's comprehensive scholarly work on textile art represents a significant anthropological examination of material culture, offering nuanced insights into the developmental processes of form, ornamentation, and technological innovation across indigenous textile traditions. Published within the Bureau of Ethnology's Sixth Annual Report, this study meticulously analyzes textile production techniques, design evolution, and cultural significations, with particular attention to Indigenous craftsmanship. Though not exclusively focused on Indian textile traditions, the work provides critical comparative methodological frameworks for understanding technological and aesthetic transformations in textile arts across different cultural contexts. Holmes, a prominent American anthropologist, archaeologist, and ethnographer of the late 19th century, employed rigorous empirical methodologies to document and interpret complex material culture systems, situating textile production within broader technological and aesthetic developmental trajectories. The research illuminates intricate relationships between technological innovation, aesthetic expression, and cultural communication, demonstrating how textile arts encode sophisticated cultural knowledge and represent dynamic systems of symbolic representation. By examining weaving techniques, ornamental strategies, and morphological variations, Holmes's study contributes significantly to understanding how material culture reflects and mediates cultural complexity. While the work spans multiple cultural traditions, its analytical approaches remain profoundly relevant to Indian textile scholarship, offering methodological insights into the sophisticated technological and aesthetic practices embedded in traditional Indian textile production. The study represents an important early anthropological attempt to understand material culture as a complex, dynamic system of cultural expression and technological innovation.
+description: 'William Henry Holmes''s comprehensive scholarly work on textile art
+  represents a significant anthropological examination of material culture, offering
+  nuanced insights into the developmental processes of form, ornamentation, and technological
+  innovation across indigenous textile traditions. Published within the Bureau of
+  Ethnology''s Sixth Annual Report, this study meticulously analyzes textile production
+  techniques, design evolution, and cultural significations, with particular attention
+  to Indigenous craftsmanship. Though not exclusively focused on Indian textile traditions,
+  the work provides critical comparative methodological frameworks for understanding
+  technological and aesthetic transformations in textile arts across different cultural
+  contexts. Holmes, a prominent American anthropologist, archaeologist, and ethnographer
+  of the late 19th century, employed rigorous empirical methodologies to document
+  and interpret complex material culture systems, situating textile production within
+  broader technological and aesthetic developmental trajectories. The research illuminates
+  intricate relationships between technological innovation, aesthetic expression,
+  and cultural communication, demonstrating how textile arts encode sophisticated
+  cultural knowledge and represent dynamic systems of symbolic representation. By
+  examining weaving techniques, ornamental strategies, and morphological variations,
+  Holmes''s study contributes significantly to understanding how material culture
+  reflects and mediates cultural complexity. While the work spans multiple cultural
+  traditions, its analytical approaches remain profoundly relevant to Indian textile
+  scholarship, offering methodological insights into the sophisticated technological
+  and aesthetic practices embedded in traditional Indian textile production. The study
+  represents an important early anthropological attempt to understand material culture
+  as a complex, dynamic system of cultural expression and technological innovation.
+
+  '
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/17730
   type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/17730.html.images
-  type: other
 references:
-- name: "Wikipedia: A Study of the Textile Art in Its Relation to the Development of Form and Ornament"
+- name: 'Wikipedia: A Study of the Textile Art in Its Relation to the Development
+    of Form and Ornament'
   url: https://en.wikipedia.org/wiki/A_Study_of_the_Textile_Art_in_Its_Relation_to_the_Development_of_Form_and_Ornament
   type: other
-- name: "Wikipedia: Holmes"
+- name: 'Wikipedia: Holmes'
   url: https://en.wikipedia.org/wiki/Holmes
   type: other
-- name: "Open Library"
+- name: Open Library
   url: https://openlibrary.org/search?q=A%20Study%20of%20the%20Textile%20Art%20in%20Its%20Relation%20to%20the%20Development%20of%20Form%20and%20Ornament%3A%20Sixth%20Annual%20Report%20of%20the%20Bureau%20of%20Ethnology%20to%20the%20Secretary%20of%20the%20Smithsonian%20Institution%2C%201884-%2785%2C%20Government%20Printing%20Office%2C%20Washington%2C%201888%2C%20%28pages%20189-252%29%20Holmes%2C%20William%20Henry
   type: other
-- name: "Open Library: Study of Textile Art"
+- name: 'Open Library: Study of Textile Art'
   url: https://openlibrary.org/search?q=Study+of+Textile+Art+Holmes
   type: other
 featured: false

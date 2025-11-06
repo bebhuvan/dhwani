@@ -1,36 +1,55 @@
 ---
 title: The Hindu-Yogi Science of Breath
 author:
-  - Atkinson, William Walker
+- Atkinson, William Walker
 year: 1917
 language:
-  - English
+- English
 genre:
-  - Religious Literature
-  - Philosophy
-description: |
-  William Walker Atkinson's "The Hindu-Yogi Science of Breath" represents a significant early 20th-century scholarly engagement with traditional Indian pranayama practices, situated within the complex intellectual landscape of cross-cultural knowledge exchange during India's colonial period. Published in 1917, the work emerges from the New Thought movement's broader intellectual curiosity about Eastern philosophical and physiological systems, reflecting a period of intense cultural translation and spiritual exploration. Atkinson, a lawyer-turned-metaphysical writer, systematically examines yogic breathing techniques through a lens that attempts to bridge Western scientific rationalism with traditional Indian philosophical understandings of breath, energy, and consciousness. The text meticulously deconstructs pranayama practices, offering detailed explanations of respiratory control methods, their physiological mechanisms, and their potential for holistic human development. By presenting these practices as both a scientific discipline and a spiritual technology, Atkinson contributed to early Western scholarly discourse on yoga that went beyond orientalist stereotypes, providing a nuanced interpretation of Indian contemplative technologies. The work is particularly significant in documenting how Indian spiritual knowledge was being interpreted and transmitted during a pivotal moment of global intellectual exchange, when traditional Eastern practices were increasingly being examined through emerging Western scientific paradigms. Atkinson's careful documentation and analytical approach helped legitimize yogic practices as a sophisticated system of knowledge, challenging contemporary Western misconceptions and laying groundwork for future cross-cultural understanding of mind-body practices.
+- Religious Literature
+- Philosophy
+description: 'William Walker Atkinson''s "The Hindu-Yogi Science of Breath" represents
+  a significant early 20th-century scholarly engagement with traditional Indian pranayama
+  practices, situated within the complex intellectual landscape of cross-cultural
+  knowledge exchange during India''s colonial period. Published in 1917, the work
+  emerges from the New Thought movement''s broader intellectual curiosity about Eastern
+  philosophical and physiological systems, reflecting a period of intense cultural
+  translation and spiritual exploration. Atkinson, a lawyer-turned-metaphysical writer,
+  systematically examines yogic breathing techniques through a lens that attempts
+  to bridge Western scientific rationalism with traditional Indian philosophical understandings
+  of breath, energy, and consciousness. The text meticulously deconstructs pranayama
+  practices, offering detailed explanations of respiratory control methods, their
+  physiological mechanisms, and their potential for holistic human development. By
+  presenting these practices as both a scientific discipline and a spiritual technology,
+  Atkinson contributed to early Western scholarly discourse on yoga that went beyond
+  orientalist stereotypes, providing a nuanced interpretation of Indian contemplative
+  technologies. The work is particularly significant in documenting how Indian spiritual
+  knowledge was being interpreted and transmitted during a pivotal moment of global
+  intellectual exchange, when traditional Eastern practices were increasingly being
+  examined through emerging Western scientific paradigms. Atkinson''s careful documentation
+  and analytical approach helped legitimize yogic practices as a sophisticated system
+  of knowledge, challenging contemporary Western misconceptions and laying groundwork
+  for future cross-cultural understanding of mind-body practices.
+
+  '
 collections:
-  - devotional-literature
+- devotional-literature
 sources:
-  - name: Project Gutenberg
-    url: https://www.gutenberg.org/ebooks/13402
-    type: other
-  - name: Project Gutenberg (HTML)
-    url: https://www.gutenberg.org/ebooks/13402.html.images
-    type: other
-  - name: Internet Archive (The Hindu-Yogi Science Of Breath)
-    url: https://archive.org/details/synapseml_gutenberg_the_hindu_yogi_science_of_breath_by_atki
-    type: other
+- name: Project Gutenberg
+  url: https://www.gutenberg.org/ebooks/13402
+  type: other
+- name: Internet Archive (The Hindu-Yogi Science Of Breath)
+  url: https://archive.org/details/synapseml_gutenberg_the_hindu_yogi_science_of_breath_by_atki
+  type: other
 featured: false
-publishDate: 2025-11-01T00:00:00.000Z
+publishDate: 2025-11-01 00:00:00+00:00
 references:
-  - name: "Wikipedia: The Hindu-Yogi Science of Breath"
-    url: https://en.wikipedia.org/wiki/The_Hindu-Yogi_Science_of_Breath
-    type: other
-  - name: "Open Library: The Hindu-Yogi Science of Breath"
-    url: https://openlibrary.org/search?q=The%20Hindu-Yogi%20Science%20of%20Breath
-    type: other
+- name: 'Wikipedia: The Hindu-Yogi Science of Breath'
+  url: https://en.wikipedia.org/wiki/The_Hindu-Yogi_Science_of_Breath
+  type: other
+- name: 'Open Library: The Hindu-Yogi Science of Breath'
+  url: https://openlibrary.org/search?q=The%20Hindu-Yogi%20Science%20of%20Breath
+  type: other
 ---
 
 # The Hindu-Yogi Science of Breath

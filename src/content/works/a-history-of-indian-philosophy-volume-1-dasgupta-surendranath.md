@@ -1,5 +1,5 @@
 ---
-title: 'A History of Indian Philosophy, Volume 1'
+title: A History of Indian Philosophy, Volume 1
 author:
 - Dasgupta, Surendranath
 year: 1922
@@ -9,48 +9,67 @@ genre:
 - Historical Literature
 - Religious Literature
 - Philosophy
-description: |
-  Surendranath Dasgupta's "A History of Indian Philosophy, Volume 1" represents a systematic scholarly examination of Indian philosophical development from the Vedic period through multiple philosophical schools. Published in 1922 by Cambridge University Press, this first volume of a five-volume series comprehensively analyzes philosophical traditions from approximately 1500-600 BCE. The work provides detailed exploration of philosophical foundations in the Vedas and Brahmanas, early Upanishads, Buddhist and Jaina philosophical systems, and classical schools including Samkhya, Yoga, Nyaya-Vaisheshika, and Mimamsa. Dasgupta's methodology distinguished itself by treating Indian philosophy as a coherent intellectual tradition, offering precise translations and analyses of original Sanskrit philosophical texts. His approach was primarily historical and expository, focusing on presenting each philosophical system's internal logical structure while making complex technical concepts accessible to English-language scholars. The volume critically addressed the academic tendency to marginalize non-European philosophical traditions by demonstrating the sophisticated logical and epistemological frameworks within Indian philosophical thought. Dasgupta's work emerged from his scholarly conviction that Indian culture's fundamental character was rooted in its philosophical traditions rather than political or social structures. By providing extensive quotations from primary sources, detailed technical terminology exposition, and comparative analyses between different philosophical schools, Dasgupta established a rigorous scholarly framework for understanding Indian philosophical development. The work quickly became a standard academic reference, significantly expanding Western scholarly engagement with Indian philosophical systems.
+description: 'Surendranath Dasgupta''s "A History of Indian Philosophy, Volume 1"
+  represents a systematic scholarly examination of Indian philosophical development
+  from the Vedic period through multiple philosophical schools. Published in 1922
+  by Cambridge University Press, this first volume of a five-volume series comprehensively
+  analyzes philosophical traditions from approximately 1500-600 BCE. The work provides
+  detailed exploration of philosophical foundations in the Vedas and Brahmanas, early
+  Upanishads, Buddhist and Jaina philosophical systems, and classical schools including
+  Samkhya, Yoga, Nyaya-Vaisheshika, and Mimamsa. Dasgupta''s methodology distinguished
+  itself by treating Indian philosophy as a coherent intellectual tradition, offering
+  precise translations and analyses of original Sanskrit philosophical texts. His
+  approach was primarily historical and expository, focusing on presenting each philosophical
+  system''s internal logical structure while making complex technical concepts accessible
+  to English-language scholars. The volume critically addressed the academic tendency
+  to marginalize non-European philosophical traditions by demonstrating the sophisticated
+  logical and epistemological frameworks within Indian philosophical thought. Dasgupta''s
+  work emerged from his scholarly conviction that Indian culture''s fundamental character
+  was rooted in its philosophical traditions rather than political or social structures.
+  By providing extensive quotations from primary sources, detailed technical terminology
+  exposition, and comparative analyses between different philosophical schools, Dasgupta
+  established a rigorous scholarly framework for understanding Indian philosophical
+  development. The work quickly became a standard academic reference, significantly
+  expanding Western scholarly engagement with Indian philosophical systems.
+
+  '
 collections:
 - devotional-literature
 - philosophy
 - historical-literature
 sources:
-- name: 'Project Gutenberg (Complete Text)'
+- name: Project Gutenberg (Complete Text)
   url: https://www.gutenberg.org/ebooks/12956
   type: other
-- name: 'Internet Archive (1922 Cambridge University Press Edition - IGNCA)'
+- name: Internet Archive (1922 Cambridge University Press Edition - IGNCA)
   url: https://archive.org/details/in.gov.ignca.8897
   type: other
-- name: 'Internet Archive (1922 Cambridge University Press Edition - DLI)'
+- name: Internet Archive (1922 Cambridge University Press Edition - DLI)
   url: https://archive.org/details/in.ernet.dli.2015.96713
   type: other
-- name: 'Internet Archive (1922 Cambridge Edition - University of Toronto)'
+- name: Internet Archive (1922 Cambridge Edition - University of Toronto)
   url: https://archive.org/details/indianphilosophy01dasguoft
   type: other
-- name: 'Internet Archive (1922 Cambridge Edition - University of Michigan)'
+- name: Internet Archive (1922 Cambridge Edition - University of Michigan)
   url: https://archive.org/details/historyofindianp030436mbp
   type: other
-- name: 'Internet Archive (Complete 5-Volume Series)'
+- name: Internet Archive (Complete 5-Volume Series)
   url: https://archive.org/details/dasgupta-s.-ho-ip-vol.-1
   type: other
-- name: 'Internet Archive (DLI Edition)'
+- name: Internet Archive (DLI Edition)
   url: https://archive.org/details/in.ernet.dli.2015.49851
   type: other
-- name: 'Internet Archive (Later Reprint Edition)'
+- name: Internet Archive (Later Reprint Edition)
   url: https://archive.org/details/historyofindianp0000dasg_k4i0
   type: other
-- name: 'Internet Archive (Urdu Translation - Tareekh Hindi Falsafa Volume 1)'
+- name: Internet Archive (Urdu Translation - Tareekh Hindi Falsafa Volume 1)
   url: https://archive.org/details/tareekh-hindi-falsafa-volume-1-surendranath-gupta
   type: other
-- name: 'Internet Archive (Urdu Translation - Tareekh Hindi Falsafa Volume 2)'
+- name: Internet Archive (Urdu Translation - Tareekh Hindi Falsafa Volume 2)
   url: https://archive.org/details/tareekh-hindi-falsafa-volume-2-surendranath-gupta
   type: other
-- name: 'Wisdom Library (Complete Online Text)'
+- name: Wisdom Library (Complete Online Text)
   url: https://www.wisdomlib.org/hinduism/book/a-history-of-indian-philosophy-volume-1
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/12956.html.images
   type: other
 references:
 - name: 'Wikipedia: Surendranath Dasgupta'

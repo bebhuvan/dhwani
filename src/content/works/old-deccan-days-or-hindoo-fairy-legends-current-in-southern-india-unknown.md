@@ -30,9 +30,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/36696
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/36696.html.images
-  type: other
 references:
 - name: 'Wikipedia: Old Deccan Days; or, Hindoo Fairy Legends Current in Southern
     India'

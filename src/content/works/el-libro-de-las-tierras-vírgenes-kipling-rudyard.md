@@ -1,5 +1,5 @@
 ---
-title: 'El libro de las tierras vírgenes'
+title: El libro de las tierras vírgenes
 author:
 - Kipling, Rudyard
 year: 1921
@@ -8,16 +8,34 @@ language:
 genre:
 - Fiction
 - Historical Literature
-description: |
-  Rudyard Kipling's "El libro de las tierras vírgenes" represents a pivotal literary exploration of colonial Indian landscape and cultural imagination during the late 19th century imperial period. Emerging from Kipling's extensive personal experiences in British India, the work—originally published in English as "The Jungle Book"—offers a nuanced narrative framework that interweaves anthropological observations, indigenous ecological understanding, and complex colonial perspectives. The collection's centerpiece, the Mowgli stories, transcends simple adventure narrative by presenting a profound meditation on human-nature relationships, social adaptation, and cultural boundary negotiations within the Indian jungle ecosystem. Critically, the text demonstrates Kipling's intricate knowledge of Indian tribal societies, wildlife interactions, and the unwritten social codes governing wilderness communities. While controversial for its imperial gaze, the work provides significant ethnographic insights into late 19th-century perceptions of Indian social structures, animal behavior, and indigenous philosophical frameworks. The stories simultaneously critique and romanticize colonial encounters, presenting a multilayered textual landscape where human and animal societies intersect through complex moral and survival paradigms. For Indian literary studies, the text represents an important document of cross-cultural narrative construction, illustrating how colonial literary production engaged with and transformed indigenous storytelling traditions. The Spanish translation of 1921 further expanded the work's transnational reception, positioning it as a significant text in global literary circulation and intercultural dialogue during the early 20th century.
+description: 'Rudyard Kipling''s "El libro de las tierras vírgenes" represents a pivotal
+  literary exploration of colonial Indian landscape and cultural imagination during
+  the late 19th century imperial period. Emerging from Kipling''s extensive personal
+  experiences in British India, the work—originally published in English as "The Jungle
+  Book"—offers a nuanced narrative framework that interweaves anthropological observations,
+  indigenous ecological understanding, and complex colonial perspectives. The collection''s
+  centerpiece, the Mowgli stories, transcends simple adventure narrative by presenting
+  a profound meditation on human-nature relationships, social adaptation, and cultural
+  boundary negotiations within the Indian jungle ecosystem. Critically, the text demonstrates
+  Kipling''s intricate knowledge of Indian tribal societies, wildlife interactions,
+  and the unwritten social codes governing wilderness communities. While controversial
+  for its imperial gaze, the work provides significant ethnographic insights into
+  late 19th-century perceptions of Indian social structures, animal behavior, and
+  indigenous philosophical frameworks. The stories simultaneously critique and romanticize
+  colonial encounters, presenting a multilayered textual landscape where human and
+  animal societies intersect through complex moral and survival paradigms. For Indian
+  literary studies, the text represents an important document of cross-cultural narrative
+  construction, illustrating how colonial literary production engaged with and transformed
+  indigenous storytelling traditions. The Spanish translation of 1921 further expanded
+  the work''s transnational reception, positioning it as a significant text in global
+  literary circulation and intercultural dialogue during the early 20th century.
+
+  '
 collections:
 - modern-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/69552
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/69552.html.images
   type: other
 references:
 - name: 'Open Library: The Jungle Book'

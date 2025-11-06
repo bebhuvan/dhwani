@@ -30,9 +30,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/36254
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/36254.html.images
-  type: other
 - name: Internet Archive (Phallic Miscellanies)
   url: https://archive.org/details/phallicmiscellan36254gut
   type: other

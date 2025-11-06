@@ -28,9 +28,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/52473
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/52473.html.images
-  type: other
 - name: Internet Archive (Recollections of a military life)
   url: https://archive.org/details/recollectionsofm00adyeiala
   type: other

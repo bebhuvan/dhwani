@@ -1,5 +1,6 @@
 ---
-title: 'Beast and Man in India: A Popular Sketch of Indian Animals in their Relations with the People'
+title: 'Beast and Man in India: A Popular Sketch of Indian Animals in their Relations
+  with the People'
 author:
 - Kipling, John Lockwood
 year: 1896
@@ -7,14 +8,35 @@ language:
 - English
 genre:
 - Classical Literature
-description: |
-  John Lockwood Kipling's "Beast and Man in India" represents a significant late 19th-century ethnographic exploration of animal-human interactions within the complex cultural landscape of British colonial India. Published in 1896 during the height of British imperial scholarship, the work provides an intricate anthropological study of how animals were conceptualized, integrated, and understood across diverse Indian societal contexts. Drawing from extensive firsthand observations and ethnographic research, Kipling examines the multifaceted relationships between indigenous animal species and human communities, exploring not merely zoological characteristics but profound cultural, religious, and symbolic dimensions of human-animal interactions. The text meticulously documents traditional practices, folkloric representations, and spiritual connections between Indian populations and their animal counterparts, offering unprecedented scholarly insights into indigenous knowledge systems. Kipling's work transcends mere scientific documentation, presenting a nuanced narrative that illuminates the sophisticated cultural understanding of animals in Indian societies—ranging from sacred bovine representations to mythological animal symbolisms prevalent in Hindu and Buddhist traditions. As a pioneering interdisciplinary study, the text bridges anthropological, zoological, and cultural research methodologies, providing contemporary scholars with a valuable historical perspective on Indigenous environmental understanding and human-animal relationships. The work's significance extends beyond its immediate colonial context, offering contemporary researchers a complex, textured understanding of Indian cultural epistemologies and the intricate social fabric that characterized late 19th-century Indian society. Kipling's scholarly approach and comprehensive documentation make this text an essential reference for understanding the rich, symbiotic interactions between humans and animals in the Indian subcontinent.
+description: 'John Lockwood Kipling''s "Beast and Man in India" represents a significant
+  late 19th-century ethnographic exploration of animal-human interactions within the
+  complex cultural landscape of British colonial India. Published in 1896 during the
+  height of British imperial scholarship, the work provides an intricate anthropological
+  study of how animals were conceptualized, integrated, and understood across diverse
+  Indian societal contexts. Drawing from extensive firsthand observations and ethnographic
+  research, Kipling examines the multifaceted relationships between indigenous animal
+  species and human communities, exploring not merely zoological characteristics but
+  profound cultural, religious, and symbolic dimensions of human-animal interactions.
+  The text meticulously documents traditional practices, folkloric representations,
+  and spiritual connections between Indian populations and their animal counterparts,
+  offering unprecedented scholarly insights into indigenous knowledge systems. Kipling''s
+  work transcends mere scientific documentation, presenting a nuanced narrative that
+  illuminates the sophisticated cultural understanding of animals in Indian societies—ranging
+  from sacred bovine representations to mythological animal symbolisms prevalent in
+  Hindu and Buddhist traditions. As a pioneering interdisciplinary study, the text
+  bridges anthropological, zoological, and cultural research methodologies, providing
+  contemporary scholars with a valuable historical perspective on Indigenous environmental
+  understanding and human-animal relationships. The work''s significance extends beyond
+  its immediate colonial context, offering contemporary researchers a complex, textured
+  understanding of Indian cultural epistemologies and the intricate social fabric
+  that characterized late 19th-century Indian society. Kipling''s scholarly approach
+  and comprehensive documentation make this text an essential reference for understanding
+  the rich, symbiotic interactions between humans and animals in the Indian subcontinent.
+
+  '
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/40708
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/40708.html.images
   type: other
 references:
 - name: 'Wikipedia: Beast and Man in India'
@@ -23,7 +45,8 @@ references:
 - name: 'Wikipedia: Kipling'
   url: https://en.wikipedia.org/wiki/Kipling
   type: other
-- name: 'Open Library: Beast and Man in India: A Popular Sketch of Indian Animals in their Relations with the People'
+- name: 'Open Library: Beast and Man in India: A Popular Sketch of Indian Animals
+    in their Relations with the People'
   url: https://openlibrary.org/search?q=Beast%20and%20Man%20in%20India%3A%20A%20Popular%20Sketch%20of%20Indian%20Animals%20in%20their%20Relations%20with%20the%20People%20Kipling%2C%20John%20Lockwood
   type: other
 - name: 'Open Library: Beast and Man in India'

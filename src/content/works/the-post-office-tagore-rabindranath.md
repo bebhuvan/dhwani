@@ -71,9 +71,6 @@ sources:
 - name: Internet Archive (DLI 1921 Edition)
   url: https://archive.org/details/in.ernet.dli.2015.159835
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/6523.html.images
-  type: other
 references:
 - name: 'Wikipedia: The Post Office (play)'
   url: https://en.wikipedia.org/wiki/The_Post_Office_(play)

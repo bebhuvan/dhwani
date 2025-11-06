@@ -30,9 +30,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/35555
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/35555.html.images
-  type: other
 - name: Internet Archive (Writings in Prose and Verse)
   url: https://archive.org/details/cu31924057346573
   type: other

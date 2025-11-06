@@ -26,9 +26,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/10999
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/10999.html.images
-  type: other
 - name: Internet Archive (Tales of Bengal)
   url: https://archive.org/details/talesofbengal10999gut
   type: other

@@ -1,5 +1,5 @@
 ---
-title: 'In Old Madras'
+title: In Old Madras
 author:
 - Croker, B. M. (Bithia Mary)
 year: 1905
@@ -8,18 +8,39 @@ language:
 genre:
 - Fiction
 - Historical Literature
-description: |
-  Published in 1905 during the late Victorian era of British colonial rule, B. M. Croker's "In Old Madras" represents a critical narrative exploration of imperial dynamics in the Madras Presidency, offering a nuanced literary engagement with colonial social interactions and psychological landscapes. Croker, an Anglo-Irish writer who extensively traveled in India, crafted a narrative that transcends typical colonial literature by presenting a complex investigation of cultural intersections through the protagonist Captain Geoffrey Mallender's quest to unravel his uncle's mysterious disappearance three decades earlier. The novel emerges from a pivotal historical moment when British administrative structures were deeply entrenched in South Indian society, providing a sophisticated literary lens into the intricate networks of colonial power, personal relationships, and cultural negotiations. Croker's work is particularly significant in Indian literary studies for its detailed ethnographic representations of Madras society, capturing the subtle tensions between British colonial administrators and local populations, and revealing the complex social hierarchies that characterized imperial interactions. The narrative strategically employs the mystery genre to interrogate colonial epistemologies, exploring themes of cultural displacement, familial legacy, and the psychological impacts of imperial encounters. By embedding personal drama within broader historical contexts, Croker contributes to a critical understanding of how individual narratives intersect with larger imperial processes, making the novel an important text for comprehending the cultural productions of colonial South India. Her nuanced portrayal challenges simplistic colonial narratives, instead presenting a multifaceted exploration of identity, belonging, and cultural translation during a transformative period in Indian history.
+description: 'Published in 1905 during the late Victorian era of British colonial
+  rule, B. M. Croker''s "In Old Madras" represents a critical narrative exploration
+  of imperial dynamics in the Madras Presidency, offering a nuanced literary engagement
+  with colonial social interactions and psychological landscapes. Croker, an Anglo-Irish
+  writer who extensively traveled in India, crafted a narrative that transcends typical
+  colonial literature by presenting a complex investigation of cultural intersections
+  through the protagonist Captain Geoffrey Mallender''s quest to unravel his uncle''s
+  mysterious disappearance three decades earlier. The novel emerges from a pivotal
+  historical moment when British administrative structures were deeply entrenched
+  in South Indian society, providing a sophisticated literary lens into the intricate
+  networks of colonial power, personal relationships, and cultural negotiations. Croker''s
+  work is particularly significant in Indian literary studies for its detailed ethnographic
+  representations of Madras society, capturing the subtle tensions between British
+  colonial administrators and local populations, and revealing the complex social
+  hierarchies that characterized imperial interactions. The narrative strategically
+  employs the mystery genre to interrogate colonial epistemologies, exploring themes
+  of cultural displacement, familial legacy, and the psychological impacts of imperial
+  encounters. By embedding personal drama within broader historical contexts, Croker
+  contributes to a critical understanding of how individual narratives intersect with
+  larger imperial processes, making the novel an important text for comprehending
+  the cultural productions of colonial South India. Her nuanced portrayal challenges
+  simplistic colonial narratives, instead presenting a multifaceted exploration of
+  identity, belonging, and cultural translation during a transformative period in
+  Indian history.
+
+  '
 collections:
 - modern-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/69383
   type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/69383.html.images
-  type: other
-- name: 'Internet Archive (In old madras)'
+- name: Internet Archive (In old madras)
   url: https://archive.org/details/inoldmadras00crok
   type: other
 references:

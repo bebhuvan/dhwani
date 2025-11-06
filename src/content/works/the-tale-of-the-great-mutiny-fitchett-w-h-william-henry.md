@@ -78,9 +78,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/65425
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/65425.html.images
-  type: other
 - name: Internet Archive (Tale of the great mutiny)
   url: https://archive.org/details/taleofgreatmutin00fitc
   type: other

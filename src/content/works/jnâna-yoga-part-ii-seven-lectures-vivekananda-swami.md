@@ -7,17 +7,26 @@ language:
 - English
 genre:
 - Classical Literature
-description: |
-  Jnana Yoga, Part II: Seven Lectures (published as Vedanta Philosophy: Lectures by the Swami Vivekananda on Jnana Yoga) is a philosophical text comprising lectures delivered by Swami Vivekananda in New York at the beginning of 1896, published by the Vedanta Society of New York in 1902. These lectures represent the systematic exposition of Advaita Vedanta philosophy and the path of Jnana Yoga (the yoga of knowledge) that Vivekananda delivered to Western audiences in the years following his triumphant appearance at the 1893 Parliament of the World's Religions in Chicago. The work was prepared for publication after Vivekananda's lectures and later copyrighted in 1907 by Swami Abhedananda, one of Vivekananda's brother disciples who continued his work in America. This volume forms part of Vivekananda's larger project of introducing the philosophical and spiritual heritage of India to the Western world in terms accessible to modern, scientifically-minded audiences.
+description: 'Jnana Yoga, Part II: Seven Lectures (published as Vedanta Philosophy:
+  Lectures by the Swami Vivekananda on Jnana Yoga) is a philosophical text comprising
+  lectures delivered by Swami Vivekananda in New York at the beginning of 1896, published
+  by the Vedanta Society of New York in 1902. These lectures represent the systematic
+  exposition of Advaita Vedanta philosophy and the path of Jnana Yoga (the yoga of
+  knowledge) that Vivekananda delivered to Western audiences in the years following
+  his triumphant appearance at the 1893 Parliament of the World''s Religions in Chicago.
+  The work was prepared for publication after Vivekananda''s lectures and later copyrighted
+  in 1907 by Swami Abhedananda, one of Vivekananda''s brother disciples who continued
+  his work in America. This volume forms part of Vivekananda''s larger project of
+  introducing the philosophical and spiritual heritage of India to the Western world
+  in terms accessible to modern, scientifically-minded audiences.
+
+  '
 collections:
 - philosophy
 - religious-texts
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/30646
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/30646.html.images
   type: other
 references:
 - name: 'Wikipedia: Swami Vivekananda'

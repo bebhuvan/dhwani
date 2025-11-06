@@ -30,9 +30,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/53360
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/53360.html.images
-  type: other
 - name: Internet Archive (The History of the Indian Revolt and of the Expeditions
     to Persia, China and Japan 1856-7-8)
   url: https://archive.org/details/thehistoryofthei53360gut

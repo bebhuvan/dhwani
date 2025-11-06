@@ -29,9 +29,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/52739
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/52739.html.images
-  type: other
 - name: Internet Archive (Observations on the Disturbances in the Madras Army in 1809)
   url: https://archive.org/details/observationsonth52739gut
   type: other

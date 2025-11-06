@@ -1,5 +1,5 @@
 ---
-title: 'The Bridge-Builders'
+title: The Bridge-Builders
 author:
 - Kipling, Rudyard
 year: 1921
@@ -7,21 +7,43 @@ language:
 - English
 genre:
 - Fiction
-description: |
-  "The Bridge-Builders" by Rudyard Kipling is a short story written during the late British colonial period in India, a time of intense infrastructural development and imperial engineering projects that symbolized British technological prowess and administrative control. Published in 1921, during the twilight years of British colonial rule, the narrative emerges from Kipling's profound experience as a colonial writer who spent significant portions of his life in India and was known for his nuanced, albeit often controversial, representations of colonial interactions. Set against the backdrop of the British Empire's extensive railway and infrastructure expansion in the Indian subcontinent—a period marked by ambitious engineering feats that were simultaneously tools of colonial administration and symbols of technological modernization—this narrative is steeped in the themes of engineering, resilience, and the interplay between human endeavor and nature, as it focuses on the arduous construction of a bridge over the Ganges River in India. The story addresses the challenges faced by its protagonist, Findlayson, and explores the relationship between the builders and the powerful forces of nature symbolized by the river. The tale revolves around Findlayson, the chief engineer overseeing the construction of the Kashi Bridge, and his assistant Hitchcock, as they confront an impending flood that threatens their work. Together, they navigate physical and bureaucratic challenges while managing a diverse team of workers, including Peroo, a skilled Lascar who plays a crucial role in the project's success. As the floodwaters rise, tensions mount, and the characters grapple with their fears and ambitions, leading to a climactic moment in which the bridge's fate hangs in the balance. This intersection of human skill and the unpredictable might of nature provides a rich backdrop for Kipling's exploration of duty, sacrifice, and the enduring nature of human achievement amidst adversity.
+description: '"The Bridge-Builders" by Rudyard Kipling is a short story written during
+  the late British colonial period in India, a time of intense infrastructural development
+  and imperial engineering projects that symbolized British technological prowess
+  and administrative control. Published in 1921, during the twilight years of British
+  colonial rule, the narrative emerges from Kipling''s profound experience as a colonial
+  writer who spent significant portions of his life in India and was known for his
+  nuanced, albeit often controversial, representations of colonial interactions. Set
+  against the backdrop of the British Empire''s extensive railway and infrastructure
+  expansion in the Indian subcontinent—a period marked by ambitious engineering feats
+  that were simultaneously tools of colonial administration and symbols of technological
+  modernization—this narrative is steeped in the themes of engineering, resilience,
+  and the interplay between human endeavor and nature, as it focuses on the arduous
+  construction of a bridge over the Ganges River in India. The story addresses the
+  challenges faced by its protagonist, Findlayson, and explores the relationship between
+  the builders and the powerful forces of nature symbolized by the river. The tale
+  revolves around Findlayson, the chief engineer overseeing the construction of the
+  Kashi Bridge, and his assistant Hitchcock, as they confront an impending flood that
+  threatens their work. Together, they navigate physical and bureaucratic challenges
+  while managing a diverse team of workers, including Peroo, a skilled Lascar who
+  plays a crucial role in the project''s success. As the floodwaters rise, tensions
+  mount, and the characters grapple with their fears and ambitions, leading to a climactic
+  moment in which the bridge''s fate hangs in the balance. This intersection of human
+  skill and the unpredictable might of nature provides a rich backdrop for Kipling''s
+  exploration of duty, sacrifice, and the enduring nature of human achievement amidst
+  adversity.
+
+  '
 collections:
 - modern-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/2163
   type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/2163.html.images
-  type: other
-- name: 'Internet Archive (Selected stories)'
+- name: Internet Archive (Selected stories)
   url: https://archive.org/details/selectedstories0000kipl_o5o3
   type: other
-- name: 'Internet Archive (The Bridge Builders)'
+- name: Internet Archive (The Bridge Builders)
   url: https://archive.org/details/thebridgebuilder02163gut
   type: other
 references:

@@ -1,5 +1,5 @@
 ---
-title: 'Mashi, and Other Stories'
+title: Mashi, and Other Stories
 author:
 - Tagore, Rabindranath
 year: 1926
@@ -7,16 +7,37 @@ language:
 - English
 genre:
 - Fiction
-description: |
-  Published in 1926 during the twilight of British colonial rule in India, "Mashi, and Other Stories" represents a critical literary work by Rabindranath Tagore, who emerged as a transformative intellectual and cultural icon of the Bengal Renaissance. This collection illuminates the intricate social dynamics of early 20th-century Indian society, exploring the profound psychological and emotional landscapes of individuals confronting complex personal and societal expectations during a period of significant cultural transition. Tagore, recipient of the Nobel Prize in Literature in 1913 and a pioneering polymath, uses these stories to delve into nuanced human experiences, particularly the interior emotional worlds of characters navigating familial obligations, social constraints, and emerging individual consciousness. The work exemplifies Tagore's literary approach of using intimate personal narratives to reflect broader social transformations, revealing the tensions between traditional cultural structures and modernizing impulses in colonial India. Drawing from his deep understanding of Bengali social life and psychological complexity, Tagore crafts narratives that transcend mere regional representation, offering universal insights into human relationships, sacrifice, personal dignity, and the evolving individual identity within communal contexts. These stories are particularly significant in their subtle critique of social norms, patriarchal structures, and the psychological impact of colonial encounters, making them essential texts for understanding the intellectual and emotional currents of early 20th-century Indian society. As a literary artifact, the collection contributes substantially to understanding the intellectual and emotional landscape of India during a pivotal moment of cultural reconfiguration, embodying the sophisticated literary traditions of Bengal while simultaneously pointing toward modern narrative sensibilities.
+description: 'Published in 1926 during the twilight of British colonial rule in India,
+  "Mashi, and Other Stories" represents a critical literary work by Rabindranath Tagore,
+  who emerged as a transformative intellectual and cultural icon of the Bengal Renaissance.
+  This collection illuminates the intricate social dynamics of early 20th-century
+  Indian society, exploring the profound psychological and emotional landscapes of
+  individuals confronting complex personal and societal expectations during a period
+  of significant cultural transition. Tagore, recipient of the Nobel Prize in Literature
+  in 1913 and a pioneering polymath, uses these stories to delve into nuanced human
+  experiences, particularly the interior emotional worlds of characters navigating
+  familial obligations, social constraints, and emerging individual consciousness.
+  The work exemplifies Tagore''s literary approach of using intimate personal narratives
+  to reflect broader social transformations, revealing the tensions between traditional
+  cultural structures and modernizing impulses in colonial India. Drawing from his
+  deep understanding of Bengali social life and psychological complexity, Tagore crafts
+  narratives that transcend mere regional representation, offering universal insights
+  into human relationships, sacrifice, personal dignity, and the evolving individual
+  identity within communal contexts. These stories are particularly significant in
+  their subtle critique of social norms, patriarchal structures, and the psychological
+  impact of colonial encounters, making them essential texts for understanding the
+  intellectual and emotional currents of early 20th-century Indian society. As a literary
+  artifact, the collection contributes substantially to understanding the intellectual
+  and emotional landscape of India during a pivotal moment of cultural reconfiguration,
+  embodying the sophisticated literary traditions of Bengal while simultaneously pointing
+  toward modern narrative sensibilities.
+
+  '
 collections:
 - modern-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/34757
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/34757.html.images
   type: other
 references:
 - name: 'Wikipedia: Rabindranath Tagore'

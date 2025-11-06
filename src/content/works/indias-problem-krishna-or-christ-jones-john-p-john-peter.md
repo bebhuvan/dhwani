@@ -1,5 +1,5 @@
 ---
-title: "India's Problem, Krishna or Christ"
+title: India's Problem, Krishna or Christ
 author:
 - Jones, John P. (John Peter)
 year: 1901
@@ -8,25 +8,32 @@ language:
 genre:
 - Historical Literature
 - Religious Literature
-description: |
-  At the turn of the 20th century, during the British colonial period when religious and cultural interactions were intensely scrutinizing India's social fabric, John P. Jones's work emerged as a critical scholarly examination of cultural and religious dynamics. Published in 1901, when Christian missionary efforts were at their peak and Indian intellectual discourse was increasingly challenging colonial narratives, this text reflects the complex theological and sociological negotiations occurring during a transformative period of Indian modernity. A detailed examination contrasting Hindu and Christian traditions in early twentieth-century India, Jones explores India's social, economic, and religious landscapes while considering the potential for Christian influence and transformation in Indian society.
+description: 'At the turn of the 20th century, during the British colonial period
+  when religious and cultural interactions were intensely scrutinizing India''s social
+  fabric, John P. Jones''s work emerged as a critical scholarly examination of cultural
+  and religious dynamics. Published in 1901, when Christian missionary efforts were
+  at their peak and Indian intellectual discourse was increasingly challenging colonial
+  narratives, this text reflects the complex theological and sociological negotiations
+  occurring during a transformative period of Indian modernity. A detailed examination
+  contrasting Hindu and Christian traditions in early twentieth-century India, Jones
+  explores India''s social, economic, and religious landscapes while considering the
+  potential for Christian influence and transformation in Indian society.
+
+  '
 collections:
 - devotional-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/27270
   type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/27270.html.images
-  type: other
-- name: "Internet Archive (India's problem, Krishna or Christ [microform])"
+- name: Internet Archive (India's problem, Krishna or Christ [microform])
   url: https://archive.org/details/pts_indiasproblemkri_3720-1109
   type: other
 references:
-- name: "Wikipedia: Jones"
+- name: 'Wikipedia: Jones'
   url: https://en.wikipedia.org/wiki/Jones
   type: other
-- name: "Open Library: India's Problem, Krishna or Christ"
+- name: 'Open Library: India''s Problem, Krishna or Christ'
   url: https://openlibrary.org/search?q=India%27s+Problem%2C+Krishna+or+Christ
   type: other
 featured: false

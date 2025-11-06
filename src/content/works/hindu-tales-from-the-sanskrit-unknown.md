@@ -30,9 +30,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/11310
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/11310.html.images
-  type: other
 - name: Internet Archive (1919 Edition)
   url: https://archive.org/details/HinduTalesFromTheSanskrit
   type: other

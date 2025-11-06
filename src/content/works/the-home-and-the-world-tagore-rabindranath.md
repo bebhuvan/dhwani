@@ -1,5 +1,5 @@
 ---
-title: 'The Home and the World'
+title: The Home and the World
 author:
 - Tagore, Rabindranath
 year: 1916
@@ -8,17 +8,26 @@ language:
 genre:
 - Fiction
 - Historical Literature
-description: |
-  The Home and the World (Ghare Baire in Bengali) is Rabindranath Tagore's 1916 novel that stands as one of the most penetrating critiques of nationalism in modern literature. Originally serialized in the Bengali magazine Sabuj Patra in 1915-16 and published in book form by Macmillan in 1919, the novel emerged from Tagore's disillusionment with the Swadeshi movement that had swept Bengal following the 1905 Partition. While Tagore had initially supported Swadeshi as a form of cultural and economic self-assertion against British colonial rule, he withdrew his support when the movement devolved into religious violence and coercive tactics against Muslims and lower-caste Hindus who refused to boycott foreign goods. The novel, translated by Tagore's nephew Surendranath Tagore, represents a bold statement against militant nationalism at a time when such criticism was politically dangerous and personally costly to the author.
+description: 'The Home and the World (Ghare Baire in Bengali) is Rabindranath Tagore''s
+  1916 novel that stands as one of the most penetrating critiques of nationalism in
+  modern literature. Originally serialized in the Bengali magazine Sabuj Patra in
+  1915-16 and published in book form by Macmillan in 1919, the novel emerged from
+  Tagore''s disillusionment with the Swadeshi movement that had swept Bengal following
+  the 1905 Partition. While Tagore had initially supported Swadeshi as a form of cultural
+  and economic self-assertion against British colonial rule, he withdrew his support
+  when the movement devolved into religious violence and coercive tactics against
+  Muslims and lower-caste Hindus who refused to boycott foreign goods. The novel,
+  translated by Tagore''s nephew Surendranath Tagore, represents a bold statement
+  against militant nationalism at a time when such criticism was politically dangerous
+  and personally costly to the author.
+
+  '
 collections:
 - modern-literature
 - historical-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/7166
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/7166.html.images
   type: other
 references:
 - name: 'Wikipedia: Rabindranath Tagore'

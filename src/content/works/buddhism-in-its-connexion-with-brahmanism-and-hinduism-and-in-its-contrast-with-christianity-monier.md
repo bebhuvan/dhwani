@@ -1,5 +1,6 @@
 ---
-title: 'Buddhism, in Its Connexion with Brahmanism and Hinduism, and in Its Contrast with Christianity'
+title: Buddhism, in Its Connexion with Brahmanism and Hinduism, and in Its Contrast
+  with Christianity
 author:
 - Monier-Williams, Monier, Sir
 year: 1884
@@ -8,23 +9,47 @@ language:
 genre:
 - Historical Literature
 - Religious Literature
-description: |
-  Sir Monier Monier-Williams's scholarly treatise, published in 1884 during the late Victorian period of Orientalist scholarship, represents a comprehensive comparative analysis of religious traditions in India, offering an in-depth examination of Buddhism's historical and philosophical relationships with Brahmanism, Hinduism, and contemporary Christian theological frameworks. As a distinguished Orientalist and Professor of Sanskrit at Oxford University, Monier-Williams drew upon extensive linguistic and textual research to construct a nuanced interpretation of religious developments in the Indian subcontinent. The work critically explores the theological, philosophical, and cultural intersections between Buddhism and its antecedent and contemporaneous religious systems, providing detailed insights into the intellectual and spiritual transformations occurring in the Indian philosophical landscape during the late 19th century. By systematically analyzing doctrinal differences and comparative theological structures, Monier-Williams illuminates the complex intellectual genealogies of Buddhist thought, tracing its emergence from and divergence with Brahmanical traditions. The text is particularly significant for its scholarly attempt to contextualize Buddhist philosophy within broader religious discourse, offering European and Western scholars a sophisticated hermeneutical framework for understanding Indian religious thought. Beyond its immediate scholarly contribution, the work represents an important moment in cross-cultural religious scholarship, reflecting the intellectual methodologies of comparative religious studies emerging during the colonial period. Monier-Williams's meticulous research and analytical approach provide contemporary scholars with a valuable historical document demonstrating 19th-century European scholarly engagement with Indian religious traditions, making it a crucial text in understanding both the intellectual history of religious studies and the complex dynamics of cultural interpretation during the colonial era.
+description: 'Sir Monier Monier-Williams''s scholarly treatise, published in 1884
+  during the late Victorian period of Orientalist scholarship, represents a comprehensive
+  comparative analysis of religious traditions in India, offering an in-depth examination
+  of Buddhism''s historical and philosophical relationships with Brahmanism, Hinduism,
+  and contemporary Christian theological frameworks. As a distinguished Orientalist
+  and Professor of Sanskrit at Oxford University, Monier-Williams drew upon extensive
+  linguistic and textual research to construct a nuanced interpretation of religious
+  developments in the Indian subcontinent. The work critically explores the theological,
+  philosophical, and cultural intersections between Buddhism and its antecedent and
+  contemporaneous religious systems, providing detailed insights into the intellectual
+  and spiritual transformations occurring in the Indian philosophical landscape during
+  the late 19th century. By systematically analyzing doctrinal differences and comparative
+  theological structures, Monier-Williams illuminates the complex intellectual genealogies
+  of Buddhist thought, tracing its emergence from and divergence with Brahmanical
+  traditions. The text is particularly significant for its scholarly attempt to contextualize
+  Buddhist philosophy within broader religious discourse, offering European and Western
+  scholars a sophisticated hermeneutical framework for understanding Indian religious
+  thought. Beyond its immediate scholarly contribution, the work represents an important
+  moment in cross-cultural religious scholarship, reflecting the intellectual methodologies
+  of comparative religious studies emerging during the colonial period. Monier-Williams''s
+  meticulous research and analytical approach provide contemporary scholars with a
+  valuable historical document demonstrating 19th-century European scholarly engagement
+  with Indian religious traditions, making it a crucial text in understanding both
+  the intellectual history of religious studies and the complex dynamics of cultural
+  interpretation during the colonial era.
+
+  '
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/47214
   type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/47214.html.images
-  type: other
 references:
-- name: 'Wikipedia: Buddhism, in Its Connexion with Brahmanism and Hinduism, and in Its Contrast with Christianity'
+- name: 'Wikipedia: Buddhism, in Its Connexion with Brahmanism and Hinduism, and in
+    Its Contrast with Christianity'
   url: https://en.wikipedia.org/wiki/Buddhism%2C_in_Its_Connexion_with_Brahmanism_and_Hinduism%2C_and_in_Its_Contrast_with_Christianity
   type: other
 - name: 'Wikipedia: Monier-Williams'
   url: https://en.wikipedia.org/wiki/Monier-Williams
   type: other
-- name: 'Open Library: Buddhism, in Its Connexion with Brahmanism and Hinduism, and in Its Contrast with Christianity'
+- name: 'Open Library: Buddhism, in Its Connexion with Brahmanism and Hinduism, and
+    in Its Contrast with Christianity'
   url: https://openlibrary.org/search?q=Buddhism%2C%20in%20Its%20Connexion%20with%20Brahmanism%20and%20Hinduism%2C%20and%20in%20Its%20Contrast%20with%20Christianity%20Monier-Williams%2C%20Monier%2C%20Sir
   type: other
 featured: false

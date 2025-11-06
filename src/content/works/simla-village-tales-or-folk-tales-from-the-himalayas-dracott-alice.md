@@ -28,9 +28,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/58816
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/58816.html.images
-  type: other
 references:
 - name: 'Wikipedia: Simla Village Tales; Or, Folk Tales from the Himalayas'
   url: https://en.wikipedia.org/wiki/Simla_Village_Tales%3B_Or%2C_Folk_Tales_from_the_Himalayas

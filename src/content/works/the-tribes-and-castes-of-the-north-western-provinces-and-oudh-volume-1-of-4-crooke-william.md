@@ -1,5 +1,6 @@
 ---
-title: 'The tribes and castes of the North-Western Provinces and Oudh, Volume 1 (of 4)'
+title: The tribes and castes of the North-Western Provinces and Oudh, Volume 1 (of
+  4)
 author:
 - Crooke, William
 year: 1908
@@ -8,25 +9,46 @@ language:
 genre:
 - Historical Literature
 - Religious Literature
-description: |
-  William Crooke's four-volume work "The Tribes and Castes of the North-Western Provinces and Oudh" (1908) is a comprehensive colonial-era ethnographic study documenting caste and tribal communities in what is now Uttar Pradesh. Compiled during Crooke's tenure as a British civil servant, the work synthesizes census data, district gazetteers, informant accounts, and direct observations to create a systematic documentation of regional social structures. The text provides detailed entries on each group's origins, customs, occupations, religious practices, and social organization, reflecting the anthropological methodologies of late 19th-century colonial scholarship. Crooke's methodology demonstrates the complex epistemological practices of colonial knowledge production: simultaneously preserving cultural documentation and reinforcing administrative categorizations. The volumes critically illuminate how colonial ethnographers translated complex social dynamics into fixed administrative categories, transforming fluid social identities into standardized racial and cultural classifications. By organizing extensive regional diversity into structured taxonomies, Crooke's work enabled British administrative control while inadvertently creating a significant historical record. The text comprehensively documents intricate social details including marriage customs, religious festivals, folk traditions, agricultural practices, craft techniques, and origin myths. Scholars now critically analyze such works as primary sources that reveal not only ethnographic information but also the underlying power dynamics of colonial knowledge construction. The text requires nuanced interpretation, recognizing both its documentary value and its role in perpetuating colonial epistemological frameworks.
+description: 'William Crooke''s four-volume work "The Tribes and Castes of the North-Western
+  Provinces and Oudh" (1908) is a comprehensive colonial-era ethnographic study documenting
+  caste and tribal communities in what is now Uttar Pradesh. Compiled during Crooke''s
+  tenure as a British civil servant, the work synthesizes census data, district gazetteers,
+  informant accounts, and direct observations to create a systematic documentation
+  of regional social structures. The text provides detailed entries on each group''s
+  origins, customs, occupations, religious practices, and social organization, reflecting
+  the anthropological methodologies of late 19th-century colonial scholarship. Crooke''s
+  methodology demonstrates the complex epistemological practices of colonial knowledge
+  production: simultaneously preserving cultural documentation and reinforcing administrative
+  categorizations. The volumes critically illuminate how colonial ethnographers translated
+  complex social dynamics into fixed administrative categories, transforming fluid
+  social identities into standardized racial and cultural classifications. By organizing
+  extensive regional diversity into structured taxonomies, Crooke''s work enabled
+  British administrative control while inadvertently creating a significant historical
+  record. The text comprehensively documents intricate social details including marriage
+  customs, religious festivals, folk traditions, agricultural practices, craft techniques,
+  and origin myths. Scholars now critically analyze such works as primary sources
+  that reveal not only ethnographic information but also the underlying power dynamics
+  of colonial knowledge construction. The text requires nuanced interpretation, recognizing
+  both its documentary value and its role in perpetuating colonial epistemological
+  frameworks.
+
+  '
 collections:
 - devotional-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/74620
   type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/74620.html.images
-  type: other
 references:
-- name: 'Wikipedia: The tribes and castes of the North-Western Provinces and Oudh, Volume 1'
+- name: 'Wikipedia: The tribes and castes of the North-Western Provinces and Oudh,
+    Volume 1'
   url: https://en.wikipedia.org/wiki/The_tribes_and_castes_of_the_North-Western_Provinces_and_Oudh%2C_Volume_1
   type: other
 - name: 'Wikipedia: Crooke'
   url: https://en.wikipedia.org/wiki/Crooke
   type: other
-- name: 'Open Library: The tribes and castes of the North-Western Provinces and Oudh, Volume 1 (of 4)'
+- name: 'Open Library: The tribes and castes of the North-Western Provinces and Oudh,
+    Volume 1 (of 4)'
   url: https://openlibrary.org/search?q=The%20tribes%20and%20castes%20of%20the%20North-Western%20Provinces%20and%20Oudh%2C%20Volume%201%20%28of%204%29%20Crooke%2C%20William
   type: other
 featured: false

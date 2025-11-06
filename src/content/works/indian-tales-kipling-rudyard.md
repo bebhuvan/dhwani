@@ -1,5 +1,5 @@
 ---
-title: 'Indian Tales'
+title: Indian Tales
 author:
 - Kipling, Rudyard
 year: 1921
@@ -7,16 +7,36 @@ language:
 - English
 genre:
 - Fiction
-description: |
-  Rudyard Kipling's "Indian Tales" represents a pivotal literary exploration of colonial India's complex social and cultural landscape during the late 19th and early 20th centuries, emerging from the author's profound engagement with the Indian subcontinent during a transformative historical period. Published in 1921, the collection reflects Kipling's nuanced observations from his residency in India between 1882 and 1889, where he worked as a journalist and writer for Anglo-Indian publications. The stories critically examine the intricate interactions between British colonial administrators and Indian society, presenting a multilayered narrative that transcends simplistic imperial perspectives. Drawing upon his intimate knowledge of local cultures, languages, and social structures, Kipling constructs narratives that delve into fundamental philosophical questions of identity, memory, and spiritual transformation through the lens of reincarnation and cross-cultural encounters. These stories are particularly significant in Indian literary studies for their detailed ethnographic representations of colonial-era social dynamics, revealing the psychological and cultural complexities of a society undergoing profound political and social transitions. While rooted in the colonial perspective, the collection offers sophisticated explorations of human experience that challenge contemporary understandings of cultural difference, power relationships, and individual agency. Kipling's literary technique demonstrates a remarkable ability to capture the nuanced emotional landscapes of characters navigating between traditional Indian cultural frameworks and emerging colonial modalities, making the work an important textual artifact for understanding the intellectual and cultural negotiations of the late colonial period in the Indian subcontinent.
+description: 'Rudyard Kipling''s "Indian Tales" represents a pivotal literary exploration
+  of colonial India''s complex social and cultural landscape during the late 19th
+  and early 20th centuries, emerging from the author''s profound engagement with the
+  Indian subcontinent during a transformative historical period. Published in 1921,
+  the collection reflects Kipling''s nuanced observations from his residency in India
+  between 1882 and 1889, where he worked as a journalist and writer for Anglo-Indian
+  publications. The stories critically examine the intricate interactions between
+  British colonial administrators and Indian society, presenting a multilayered narrative
+  that transcends simplistic imperial perspectives. Drawing upon his intimate knowledge
+  of local cultures, languages, and social structures, Kipling constructs narratives
+  that delve into fundamental philosophical questions of identity, memory, and spiritual
+  transformation through the lens of reincarnation and cross-cultural encounters.
+  These stories are particularly significant in Indian literary studies for their
+  detailed ethnographic representations of colonial-era social dynamics, revealing
+  the psychological and cultural complexities of a society undergoing profound political
+  and social transitions. While rooted in the colonial perspective, the collection
+  offers sophisticated explorations of human experience that challenge contemporary
+  understandings of cultural difference, power relationships, and individual agency.
+  Kipling''s literary technique demonstrates a remarkable ability to capture the nuanced
+  emotional landscapes of characters navigating between traditional Indian cultural
+  frameworks and emerging colonial modalities, making the work an important textual
+  artifact for understanding the intellectual and cultural negotiations of the late
+  colonial period in the Indian subcontinent.
+
+  '
 collections:
 - modern-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/8649
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/8649.html.images
   type: other
 references:
 - name: 'Wikipedia: Indian Tales'

@@ -29,9 +29,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/62798
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/62798.html.images
-  type: other
 references:
 - name: 'Wikipedia: The Bombay City Police'
   url: https://en.wikipedia.org/wiki/The_Bombay_City_Police

@@ -31,9 +31,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/18307
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/18307.html.images
-  type: other
 - name: Internet Archive (The adventures of Akbar)
   url: https://archive.org/details/cu31924005603976
   type: other

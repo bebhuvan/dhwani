@@ -1,5 +1,5 @@
 ---
-title: "In Clive's Command: A Story of the Fight for India"
+title: 'In Clive''s Command: A Story of the Fight for India'
 author:
 - Strang, Herbert
 year: 1900
@@ -8,25 +8,45 @@ language:
 genre:
 - Fiction
 - Historical Literature
-description: |
-  "In Clive's Command: A Story of the Fight for India" represents a significant narrative artifact of late Victorian historical fiction engaging with the critical transitional period of British colonial expansion in the Indian subcontinent during the mid-18th century. Set against the backdrop of the Anglo-Mysore conflicts and the East India Company's military campaigns, the novel follows protagonist Desmond Burke's trajectory through complex geopolitical transformations, simultaneously exploring personal agency within broader imperial dynamics. Herbert Strang's work encapsulates the emergent British imperial imagination, presenting a nuanced fictional exploration of military encounters, cultural intersections, and the psychological landscape of colonial interaction. The narrative critically examines the mechanisms of imperial conquest through Burke's experiences, providing a literary window into the intricate power negotiations between British metropolitan interests and indigenous political structures. By contextualizing individual experience within sweeping historical movements, the novel contributes to understanding the subjective dimensions of colonial encounter, revealing how personal narratives were intricately woven into larger imperial narratives. Strang's meticulous historical research and narrative approach offer contemporary readers insights into the complex sociopolitical terrain of 18th-century India, illuminating the multilayered interactions between European colonial agents and Indian societies. The text serves as an important literary document, representing early English-language fictional engagements with Indian historical experiences, and provides a critical perspective on the representational strategies employed in colonial-era literature to comprehend and mediate cross-cultural encounters during a pivotal moment of global historical transformation.
+description: '"In Clive''s Command: A Story of the Fight for India" represents a significant
+  narrative artifact of late Victorian historical fiction engaging with the critical
+  transitional period of British colonial expansion in the Indian subcontinent during
+  the mid-18th century. Set against the backdrop of the Anglo-Mysore conflicts and
+  the East India Company''s military campaigns, the novel follows protagonist Desmond
+  Burke''s trajectory through complex geopolitical transformations, simultaneously
+  exploring personal agency within broader imperial dynamics. Herbert Strang''s work
+  encapsulates the emergent British imperial imagination, presenting a nuanced fictional
+  exploration of military encounters, cultural intersections, and the psychological
+  landscape of colonial interaction. The narrative critically examines the mechanisms
+  of imperial conquest through Burke''s experiences, providing a literary window into
+  the intricate power negotiations between British metropolitan interests and indigenous
+  political structures. By contextualizing individual experience within sweeping historical
+  movements, the novel contributes to understanding the subjective dimensions of colonial
+  encounter, revealing how personal narratives were intricately woven into larger
+  imperial narratives. Strang''s meticulous historical research and narrative approach
+  offer contemporary readers insights into the complex sociopolitical terrain of 18th-century
+  India, illuminating the multilayered interactions between European colonial agents
+  and Indian societies. The text serves as an important literary document, representing
+  early English-language fictional engagements with Indian historical experiences,
+  and provides a critical perspective on the representational strategies employed
+  in colonial-era literature to comprehend and mediate cross-cultural encounters during
+  a pivotal moment of global historical transformation.
+
+  '
 collections:
 - modern-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/16382
   type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/16382.html.images
-  type: other
-- name: "Internet Archive (In Clive's Command: A Story of the Fight for India)"
+- name: 'Internet Archive (In Clive''s Command: A Story of the Fight for India)'
   url: https://archive.org/details/inclivescommand16382gut
   type: other
 references:
-- name: "Wikipedia: Strang"
+- name: 'Wikipedia: Strang'
   url: https://en.wikipedia.org/wiki/Strang
   type: other
-- name: "Open Library: In Clive''s Command: A Story of the Fight for India"
+- name: 'Open Library: In Clive''''s Command: A Story of the Fight for India'
   url: https://openlibrary.org/search?q=In+Clive%27%27s+Command%3A+A+Story+of+the+Fight+for+India
   type: other
 featured: false

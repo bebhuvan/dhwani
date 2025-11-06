@@ -31,9 +31,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/41489
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/41489.html.images
-  type: other
 - name: 'Internet Archive (One of Clive''s Heroes: A Story of the Fight for India)'
   url: https://archive.org/details/oneofclivesheroe41489gut
   type: other

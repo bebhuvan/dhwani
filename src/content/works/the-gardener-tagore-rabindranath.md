@@ -56,9 +56,6 @@ sources:
 - name: Internet Archive (Collected Poems and Plays)
   url: https://archive.org/details/collecvtedpoemsp0000unse
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/6686.html.images
-  type: other
 references:
 - name: 'Wikipedia: Rabindranath Tagore'
   url: https://en.wikipedia.org/wiki/Rabindranath_Tagore

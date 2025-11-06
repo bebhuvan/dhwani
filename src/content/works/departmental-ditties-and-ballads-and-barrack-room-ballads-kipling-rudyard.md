@@ -1,5 +1,5 @@
 ---
-title: 'Departmental Ditties and Ballads and Barrack-Room Ballads'
+title: Departmental Ditties and Ballads and Barrack-Room Ballads
 author:
 - Kipling, Rudyard
 year: 1921
@@ -8,16 +8,36 @@ language:
 genre:
 - Poetry
 - Historical Literature
-description: |
-  Rudyard Kipling's "Departmental Ditties and Ballads and Barrack-Room Ballads" represents a seminal literary work that critically examines the intricate social and administrative landscapes of British colonial India during the late 19th century. Composed during a pivotal period of imperial governance and emerging Indian nationalist consciousness, the collection offers a penetrating exploration of colonial bureaucratic life through satirical poetry that simultaneously reveals and critiques the power structures of imperial administration. Drawing from Kipling's extensive personal experience as a journalist and imperial administrative insider, the poems provide nuanced anthropological insights into the complex interpersonal dynamics, institutional hierarchies, and cultural tensions characterizing British colonial society in India. The work's linguistic sophistication is matched by its keen observational lens, deploying vernacular English, military argot, and subtle ironic techniques to deconstruct imperial administrative rituals and military protocols. Significantly, these poems transcend mere satirical commentary, serving as critical historical documents that illuminate the psychological mechanisms of colonial governance, racial interactions, and the performative aspects of imperial identity. By capturing the quotidian experiences of British military and administrative personnel, Kipling creates a multilayered narrative that exposes the underlying anxieties, power negotiations, and systemic contradictions of colonial rule. The collection's enduring scholarly importance lies in its complex representation of colonial cultural interactions, offering contemporary researchers a rich textual archive for understanding the nuanced interpersonal and institutional dimensions of British imperial presence in the Indian subcontinent during a transformative historical moment.
+description: 'Rudyard Kipling''s "Departmental Ditties and Ballads and Barrack-Room
+  Ballads" represents a seminal literary work that critically examines the intricate
+  social and administrative landscapes of British colonial India during the late 19th
+  century. Composed during a pivotal period of imperial governance and emerging Indian
+  nationalist consciousness, the collection offers a penetrating exploration of colonial
+  bureaucratic life through satirical poetry that simultaneously reveals and critiques
+  the power structures of imperial administration. Drawing from Kipling''s extensive
+  personal experience as a journalist and imperial administrative insider, the poems
+  provide nuanced anthropological insights into the complex interpersonal dynamics,
+  institutional hierarchies, and cultural tensions characterizing British colonial
+  society in India. The work''s linguistic sophistication is matched by its keen observational
+  lens, deploying vernacular English, military argot, and subtle ironic techniques
+  to deconstruct imperial administrative rituals and military protocols. Significantly,
+  these poems transcend mere satirical commentary, serving as critical historical
+  documents that illuminate the psychological mechanisms of colonial governance, racial
+  interactions, and the performative aspects of imperial identity. By capturing the
+  quotidian experiences of British military and administrative personnel, Kipling
+  creates a multilayered narrative that exposes the underlying anxieties, power negotiations,
+  and systemic contradictions of colonial rule. The collection''s enduring scholarly
+  importance lies in its complex representation of colonial cultural interactions,
+  offering contemporary researchers a rich textual archive for understanding the nuanced
+  interpersonal and institutional dimensions of British imperial presence in the Indian
+  subcontinent during a transformative historical moment.
+
+  '
 collections:
 - poetry-collection
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/7846
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/7846.html.images
   type: other
 references:
 - name: 'Wikipedia: Rudyard Kipling'

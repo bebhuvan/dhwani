@@ -1,5 +1,5 @@
 ---
-title: "Among the Wild Tribes of the Afghan Frontier"
+title: Among the Wild Tribes of the Afghan Frontier
 author:
 - Pennell, T. L. (Theodore Leighton)
 year: 1897
@@ -7,23 +7,45 @@ language:
 - English
 genre:
 - Historical Literature
-description: |
-  Among the Wild Tribes of the Afghan Frontier, authored by T. L. Pennell in 1897, represents a significant ethnographic account of the complex socio-cultural landscape of the North-West Frontier region during the late British colonial period in India. As a missionary and medical professional who spent sixteen years in direct engagement with indigenous communities, Pennell provides an intricate scholarly narrative that documents the social structures, cultural practices, and interpersonal dynamics of Pashtun tribal societies along the volatile Afghan-Indian borderlands. The work is a critical anthropological text that offers nuanced insights into the intricate ethnic relationships, tribal governance systems, and cultural configurations of a region characterized by complex geopolitical tensions. Pennell's detailed observations extend beyond mere colonial documentation, presenting a relatively empathetic and contextually informed perspective on local communities during a period of significant imperial transformation. The text explores critical themes of cultural interaction, indigenous social organization, traditional customs, and the intersections of religious practices with tribal identity. As a scholarly contribution, the work provides invaluable ethnographic data for understanding the complex human geography of a strategically significant borderland region that has historically been pivotal in South Asian geopolitical configurations. Pennell's methodology of sustained immersive engagement distinguishes this work from more superficial colonial-era ethnographic accounts, offering a relatively sophisticated anthropological perspective that anticipated more nuanced approaches to cross-cultural understanding. The text remains an important historical source for scholars of Indian cultural studies, anthropology, colonial history, and regional ethnography, preserving a detailed record of indigenous social structures during a transformative period of imperial expansion and cultural encounter.
+description: 'Among the Wild Tribes of the Afghan Frontier, authored by T. L. Pennell
+  in 1897, represents a significant ethnographic account of the complex socio-cultural
+  landscape of the North-West Frontier region during the late British colonial period
+  in India. As a missionary and medical professional who spent sixteen years in direct
+  engagement with indigenous communities, Pennell provides an intricate scholarly
+  narrative that documents the social structures, cultural practices, and interpersonal
+  dynamics of Pashtun tribal societies along the volatile Afghan-Indian borderlands.
+  The work is a critical anthropological text that offers nuanced insights into the
+  intricate ethnic relationships, tribal governance systems, and cultural configurations
+  of a region characterized by complex geopolitical tensions. Pennell''s detailed
+  observations extend beyond mere colonial documentation, presenting a relatively
+  empathetic and contextually informed perspective on local communities during a period
+  of significant imperial transformation. The text explores critical themes of cultural
+  interaction, indigenous social organization, traditional customs, and the intersections
+  of religious practices with tribal identity. As a scholarly contribution, the work
+  provides invaluable ethnographic data for understanding the complex human geography
+  of a strategically significant borderland region that has historically been pivotal
+  in South Asian geopolitical configurations. Pennell''s methodology of sustained
+  immersive engagement distinguishes this work from more superficial colonial-era
+  ethnographic accounts, offering a relatively sophisticated anthropological perspective
+  that anticipated more nuanced approaches to cross-cultural understanding. The text
+  remains an important historical source for scholars of Indian cultural studies,
+  anthropology, colonial history, and regional ethnography, preserving a detailed
+  record of indigenous social structures during a transformative period of imperial
+  expansion and cultural encounter.
+
+  '
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/32231
   type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/32231.html.images
-  type: other
 references:
-- name: "Wikipedia: Among the Wild Tribes of the Afghan Frontier"
+- name: 'Wikipedia: Among the Wild Tribes of the Afghan Frontier'
   url: https://en.wikipedia.org/wiki/Among_the_Wild_Tribes_of_the_Afghan_Frontier
   type: other
-- name: "Wikipedia: Pennell"
+- name: 'Wikipedia: Pennell'
   url: https://en.wikipedia.org/wiki/Pennell
   type: other
-- name: "Open Library"
+- name: Open Library
   url: https://openlibrary.org/search?q=Among%20the%20Wild%20Tribes%20of%20the%20Afghan%20Frontier%3A%20A%20Record%20of%20Sixteen%20Years%27%20Close%20Intercourse%20with%20the%20Natives%20of%20the%20Indian%20Marches%20Pennell%2C%20T.%20L.%20%28Theodore%20Leighton%29
   type: other
 featured: false

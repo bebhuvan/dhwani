@@ -27,9 +27,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/12617
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/12617.html.images
-  type: other
 - name: Internet Archive (Recollections of Calcutta for over Half a Century)
   url: https://archive.org/details/recollectionsofc12617gut
   type: other

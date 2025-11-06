@@ -31,9 +31,6 @@ sources:
 - name: Project Gutenberg - Volume 1
   url: https://www.gutenberg.org/ebooks/25119
   type: other
-- name: Project Gutenberg (HTML) - Volume 1
-  url: https://www.gutenberg.org/ebooks/25119.html.images
-  type: other
 - name: Internet Archive (The conquest of Canada [microform]) - Volume 1
   url: https://archive.org/details/cihm_49824
   type: other
@@ -42,12 +39,6 @@ sources:
   type: other
 - name: Project Gutenberg - Volume 2
   url: https://www.gutenberg.org/ebooks/34862
-  type: other
-- name: Project Gutenberg (HTML) - Volume 2
-  url: https://www.gutenberg.org/ebooks/34862.html.images
-  type: other
-- name: Internet Archive (The Conquest of Canada (Vol. 1 of 2)) - Volume 2
-  url: https://archive.org/details/theconquestofcan25119gut
   type: other
 - name: Internet Archive (The conquest of Canada [microform]) - Volume 2
   url: https://archive.org/details/cihm_41907

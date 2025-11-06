@@ -1,5 +1,5 @@
 ---
-title: 'The Bābur-nāma in English (Memoirs of Bābur)'
+title: The Bābur-nāma in English (Memoirs of Bābur)
 author:
 - Babur, Emperor of Hindustan
 year: 1515
@@ -8,21 +8,38 @@ language:
 genre:
 - Historical Literature
 - Religious Literature
-description: |
-  The Bābur-nāma is a first-person historical manuscript composed by Babur in 1515, documenting his personal experiences as the founder of the Mughal Empire. Written in Chagatai Turkish, this autobiographical text provides a comprehensive account of Babur's lineage, military campaigns, and political strategies during the early 16th century. The memoir begins with a detailed exploration of Babur's familial background, specifically examining the influential roles of his maternal grandfather Yunus Khan and his mother, who shaped his early political and cultural perspectives. Babur meticulously records his genealogical connections to Timur and Genghis Khan, situating his personal narrative within a broader historical context of Central Asian leadership traditions. The text offers significant historical documentation of territorial conquests, including his campaigns in Transoxiana and Hindustan, while simultaneously providing insights into the social, cultural, and political dynamics of the period. Scholars recognize the Bābur-nāma as a critical primary source for understanding the transitional period between Timurid and Mughal governance, offering unprecedented detailed observations about territorial expansion, interpersonal relationships, and the personal reflections of a ruling monarch. The manuscript's anthropological and historical value lies in its unfiltered personal perspective, presenting a nuanced account of leadership, territorial conquest, and cultural adaptation in a rapidly changing geopolitical landscape of early 16th-century South and Central Asia.
+description: 'The Bābur-nāma is a first-person historical manuscript composed by Babur
+  in 1515, documenting his personal experiences as the founder of the Mughal Empire.
+  Written in Chagatai Turkish, this autobiographical text provides a comprehensive
+  account of Babur''s lineage, military campaigns, and political strategies during
+  the early 16th century. The memoir begins with a detailed exploration of Babur''s
+  familial background, specifically examining the influential roles of his maternal
+  grandfather Yunus Khan and his mother, who shaped his early political and cultural
+  perspectives. Babur meticulously records his genealogical connections to Timur and
+  Genghis Khan, situating his personal narrative within a broader historical context
+  of Central Asian leadership traditions. The text offers significant historical documentation
+  of territorial conquests, including his campaigns in Transoxiana and Hindustan,
+  while simultaneously providing insights into the social, cultural, and political
+  dynamics of the period. Scholars recognize the Bābur-nāma as a critical primary
+  source for understanding the transitional period between Timurid and Mughal governance,
+  offering unprecedented detailed observations about territorial expansion, interpersonal
+  relationships, and the personal reflections of a ruling monarch. The manuscript''s
+  anthropological and historical value lies in its unfiltered personal perspective,
+  presenting a nuanced account of leadership, territorial conquest, and cultural adaptation
+  in a rapidly changing geopolitical landscape of early 16th-century South and Central
+  Asia.
+
+  '
 collections:
 - devotional-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/44608
   type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/44608.html.images
-  type: other
-- name: 'Internet Archive (The Babur-nama in English (Memoirs of Babur))'
+- name: Internet Archive (The Babur-nama in English (Memoirs of Babur))
   url: https://archive.org/details/baburnamainengli01babuuoft
   type: other
-- name: 'Internet Archive (The Bābur-nāma in English (Memoirs of Bābur))'
+- name: Internet Archive (The Bābur-nāma in English (Memoirs of Bābur))
   url: https://archive.org/details/thebburnmainengl44608gut
   type: other
 references:

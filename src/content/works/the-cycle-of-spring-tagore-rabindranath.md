@@ -29,9 +29,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/24607
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/24607.html.images
-  type: other
 - name: Internet Archive (The Cycle Of Spring)
   url: https://archive.org/details/in.ernet.dli.2015.175039
   type: other

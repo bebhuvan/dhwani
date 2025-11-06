@@ -30,9 +30,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/57175
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/57175.html.images
-  type: other
 - name: Internet Archive (The autobiography of an Indian princess)
   url: https://archive.org/details/autobiographyofi00suniuoft
   type: other

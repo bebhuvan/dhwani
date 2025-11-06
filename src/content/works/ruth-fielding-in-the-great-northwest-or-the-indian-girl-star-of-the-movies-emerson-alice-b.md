@@ -28,9 +28,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/15720
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/15720.html.images
-  type: other
 references:
 - name: 'Wikipedia: Ruth Fielding in the Great Northwest; Or, The Indian Girl Star
     of the Movies'

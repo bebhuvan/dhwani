@@ -30,9 +30,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/7229
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/7229.html.images
-  type: other
 - name: Internet Archive (Rujub, the Juggler)
   url: https://archive.org/details/rujubthejuggler07229gut
   type: other

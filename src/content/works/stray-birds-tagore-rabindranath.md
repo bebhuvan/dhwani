@@ -1,5 +1,5 @@
 ---
-title: 'Stray Birds'
+title: Stray Birds
 author:
 - Tagore, Rabindranath
 year: 1916
@@ -7,16 +7,24 @@ language:
 - English
 genre:
 - Poetry
-description: |
-  Stray Birds is a collection of 326 brief lyrical poems by Rabindranath Tagore, published in 1916 by Macmillan in New York and London. Written in the years following his 1913 Nobel Prize in Literature, these concise verses represent Tagore's gift for distilling profound philosophical insights into simple, luminous language. Each poem contains only one to four lines, yet within this compressed form Tagore explores themes of nature, love, spirituality, and the human condition with remarkable depth. The collection, dedicated to T. Hara, demonstrates Tagore's mastery of clarity and concision, offering what scholars have called a masterclass in poetic brevity. The title itself suggests the spontaneous, fleeting quality of these verses—like birds that alight momentarily before taking wing again, leaving behind traces of beauty and truth.
+description: 'Stray Birds is a collection of 326 brief lyrical poems by Rabindranath
+  Tagore, published in 1916 by Macmillan in New York and London. Written in the years
+  following his 1913 Nobel Prize in Literature, these concise verses represent Tagore''s
+  gift for distilling profound philosophical insights into simple, luminous language.
+  Each poem contains only one to four lines, yet within this compressed form Tagore
+  explores themes of nature, love, spirituality, and the human condition with remarkable
+  depth. The collection, dedicated to T. Hara, demonstrates Tagore''s mastery of clarity
+  and concision, offering what scholars have called a masterclass in poetic brevity.
+  The title itself suggests the spontaneous, fleeting quality of these verses—like
+  birds that alight momentarily before taking wing again, leaving behind traces of
+  beauty and truth.
+
+  '
 collections:
 - poetry-collection
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/7854
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/7854.html.images
   type: other
 references:
 - name: 'Wikipedia: Rabindranath Tagore'

@@ -97,9 +97,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/38488
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/38488.html.images
-  type: other
 - name: Internet Archive (Folk-tales of Bengal)
   url: https://archive.org/details/dli.ministry.02140
   type: other

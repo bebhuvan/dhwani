@@ -32,9 +32,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/14867
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/14867.html.images
-  type: other
 references:
 - name: 'Wikipedia: Oriental Religions and Christianity'
   url: https://en.wikipedia.org/wiki/Oriental_Religions_and_Christianity

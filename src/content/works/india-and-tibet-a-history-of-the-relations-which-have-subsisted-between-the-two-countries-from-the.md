@@ -1,5 +1,7 @@
 ---
-title: 'India and Tibet: A history of the relations which have subsisted between the two countries from the time of Warren Hastings to 1910; with a particular account of the mission to Lhasa of 1904'
+title: 'India and Tibet: A history of the relations which have subsisted between the
+  two countries from the time of Warren Hastings to 1910; with a particular account
+  of the mission to Lhasa of 1904'
 author:
 - Younghusband, Francis Edward, Sir
 year: 1910
@@ -8,18 +10,38 @@ language:
 genre:
 - Historical Literature
 - Military History
-description: |
-  Francis Edward Younghusband's 'India and Tibet' (1910) provides a detailed historical account of Anglo-Tibetan relations from the late eighteenth to early twentieth centuries, authored by the military officer who led the 1904 British expedition to Lhasa. The work traces diplomatic interactions from Warren Hastings' initial efforts in the 1770s through successive missions by George Bogle, Samuel Turner, and other nineteenth-century envoys, culminating in Younghusband's military-diplomatic expedition. While Younghusband portrays these interactions as attempts to establish peaceful trade relations, modern historians critically examine the text's imperial narrative. The book's most significant sections detail the 1904 Lhasa expedition, which transformed from a border dispute negotiation into a full military invasion when Tibetan authorities refused diplomatic engagement. Critically, Younghusband's account reveals the profound power asymmetry between British forces (equipped with modern rifles and Maxim guns) and Tibetan defenders primarily armed with matchlocks and traditional weapons. Scholars like Charles Allen have demonstrated that the expedition's purported reasons were largely fabricated, with actual motivations centered on asserting British imperial dominance and countering perceived Russian influence. The text's contemporary scholarly value lies in its comprehensive documentation of colonial military operations, Tibetan geography, societal observations, and the mechanisms of imperial expansion. When analyzed alongside Tibetan, Chinese, and British governmental sources, the work provides nuanced insights into the complex geopolitical dynamics of the Himalayan region during the early twentieth century, offering a critical lens for understanding the historical roots of contemporary Sino-Tibetan-Indian relations.
+description: 'Francis Edward Younghusband''s ''India and Tibet'' (1910) provides a
+  detailed historical account of Anglo-Tibetan relations from the late eighteenth
+  to early twentieth centuries, authored by the military officer who led the 1904
+  British expedition to Lhasa. The work traces diplomatic interactions from Warren
+  Hastings'' initial efforts in the 1770s through successive missions by George Bogle,
+  Samuel Turner, and other nineteenth-century envoys, culminating in Younghusband''s
+  military-diplomatic expedition. While Younghusband portrays these interactions as
+  attempts to establish peaceful trade relations, modern historians critically examine
+  the text''s imperial narrative. The book''s most significant sections detail the
+  1904 Lhasa expedition, which transformed from a border dispute negotiation into
+  a full military invasion when Tibetan authorities refused diplomatic engagement.
+  Critically, Younghusband''s account reveals the profound power asymmetry between
+  British forces (equipped with modern rifles and Maxim guns) and Tibetan defenders
+  primarily armed with matchlocks and traditional weapons. Scholars like Charles Allen
+  have demonstrated that the expedition''s purported reasons were largely fabricated,
+  with actual motivations centered on asserting British imperial dominance and countering
+  perceived Russian influence. The text''s contemporary scholarly value lies in its
+  comprehensive documentation of colonial military operations, Tibetan geography,
+  societal observations, and the mechanisms of imperial expansion. When analyzed alongside
+  Tibetan, Chinese, and British governmental sources, the work provides nuanced insights
+  into the complex geopolitical dynamics of the Himalayan region during the early
+  twentieth century, offering a critical lens for understanding the historical roots
+  of contemporary Sino-Tibetan-Indian relations.
+
+  '
 collections:
 - colonial-india
 - classical-literature
 - classical-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/48996
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/48996.html.images
   type: other
 references:
 - name: 'Wikipedia: Francis Younghusband'

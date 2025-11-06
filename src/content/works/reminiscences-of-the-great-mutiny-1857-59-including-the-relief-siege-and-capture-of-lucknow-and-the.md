@@ -30,9 +30,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/33426
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/33426.html.images
-  type: other
 - name: Internet Archive (Reminiscences of the great mutiny 1857-59, including the
     relief, siege, and capture of Lucknow, and the campaigns in Rohilcund and Oude)
   url: https://archive.org/details/reminiscencesofg00forb

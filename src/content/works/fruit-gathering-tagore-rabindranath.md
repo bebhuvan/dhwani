@@ -1,5 +1,5 @@
 ---
-title: 'Fruit-Gathering'
+title: Fruit-Gathering
 author:
 - Tagore, Rabindranath
 year: 1916
@@ -7,16 +7,23 @@ language:
 - English
 genre:
 - Poetry
-description: |
-  Fruit-Gathering is a collection of 86 lyrical poems by Rabindranath Tagore, published by Macmillan in New York in 1916. This work represents Tagore's translation and adaptation of verses from multiple Bengali collections, including Gitimala, Gitali, Utsarga, Kheya, Naivedya, and Gitanjali. More than fifty of the poems are explicitly religious in character, making this one of Tagore's most overtly spiritual English collections. The title itself—suggesting the gathering of fruits—serves as a metaphor for the spiritual harvest of a life devoted to contemplation and devotion. Tagore uses the imagery of fruits and flowers throughout the collection to represent moral and spiritual principles, particularly his adoration of the Creator and his understanding of the relationship between the human soul and the divine.
+description: 'Fruit-Gathering is a collection of 86 lyrical poems by Rabindranath
+  Tagore, published by Macmillan in New York in 1916. This work represents Tagore''s
+  translation and adaptation of verses from multiple Bengali collections, including
+  Gitimala, Gitali, Utsarga, Kheya, Naivedya, and Gitanjali. More than fifty of the
+  poems are explicitly religious in character, making this one of Tagore''s most overtly
+  spiritual English collections. The title itself—suggesting the gathering of fruits—serves
+  as a metaphor for the spiritual harvest of a life devoted to contemplation and devotion.
+  Tagore uses the imagery of fruits and flowers throughout the collection to represent
+  moral and spiritual principles, particularly his adoration of the Creator and his
+  understanding of the relationship between the human soul and the divine.
+
+  '
 collections:
 - poetry-collection
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/7164
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/7164.html.images
   type: other
 references:
 - name: 'Wikipedia: Rabindranath Tagore'

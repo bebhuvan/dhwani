@@ -1,5 +1,6 @@
 ---
-title: 'Hobson-Jobson: A Glossary of Colloquial Anglo-Indian Words and Phrases, and of Kindred Terms, Etymological, Historical, Geographical and Discursive'
+title: 'Hobson-Jobson: A Glossary of Colloquial Anglo-Indian Words and Phrases, and
+  of Kindred Terms, Etymological, Historical, Geographical and Discursive'
 author:
 - Yule, Henry, Sir
 - Burnell, A. C.
@@ -10,34 +11,54 @@ genre:
 - Reference
 - Linguistics
 - Historical Literature
-description: |
-  Here is the cleaned description:
-  
-  The 'Hobson-Jobson' glossary is a significant lexicographic work documenting linguistic interactions between English and South Asian languages during the colonial period. Initiated in 1872 through a correspondence between Sir Henry Yule and Arthur Coke Burnell, the project emerged from their independent collections of Anglo-Indian language usage. After Burnell's death in 1882, Yule completed the work, which was published in 1886.
-  
-  The glossary provides comprehensive etymological entries tracing word migrations across Arabic, Persian, Hindi, Urdu, Tamil, Portuguese, and Chinese languages. Its methodology distinguishes it from conventional dictionaries by offering elaborate entries that combine etymology, historical context, literary quotations, and geographical information. James A. Murray extensively utilized the work while compiling the Oxford English Dictionary, recognizing its scholarly documentation of South Asian loanwords.
-  
-  The title itself exemplifies the work's linguistic focus: 'Hobson-Jobson' represents British soldiers' phonetic adaptation of the Shia Muslim mourning cry 'Ya Hasan! Ya Husain!' The text documents numerous linguistic transformations, such as 'dungaree' from Hindi 'dungri' and 'avatar' from Sanskrit 'avatara', demonstrating complex processes of language contact and cultural exchange.
-  
-  Critically, the glossary also reflects colonial linguistic power dynamics. While demonstrating significant linguistic scholarship, the work simultaneously reproduces Orientalist perspectives and colonial administrative perspectives in its term selection and presentation. Modern scholars must engage with the text understanding its historical context and inherent epistemological limitations.
+description: 'Here is the cleaned description:
+
+
+  The ''Hobson-Jobson'' glossary is a significant lexicographic work documenting linguistic
+  interactions between English and South Asian languages during the colonial period.
+  Initiated in 1872 through a correspondence between Sir Henry Yule and Arthur Coke
+  Burnell, the project emerged from their independent collections of Anglo-Indian
+  language usage. After Burnell''s death in 1882, Yule completed the work, which was
+  published in 1886.
+
+
+  The glossary provides comprehensive etymological entries tracing word migrations
+  across Arabic, Persian, Hindi, Urdu, Tamil, Portuguese, and Chinese languages. Its
+  methodology distinguishes it from conventional dictionaries by offering elaborate
+  entries that combine etymology, historical context, literary quotations, and geographical
+  information. James A. Murray extensively utilized the work while compiling the Oxford
+  English Dictionary, recognizing its scholarly documentation of South Asian loanwords.
+
+
+  The title itself exemplifies the work''s linguistic focus: ''Hobson-Jobson'' represents
+  British soldiers'' phonetic adaptation of the Shia Muslim mourning cry ''Ya Hasan!
+  Ya Husain!'' The text documents numerous linguistic transformations, such as ''dungaree''
+  from Hindi ''dungri'' and ''avatar'' from Sanskrit ''avatara'', demonstrating complex
+  processes of language contact and cultural exchange.
+
+
+  Critically, the glossary also reflects colonial linguistic power dynamics. While
+  demonstrating significant linguistic scholarship, the work simultaneously reproduces
+  Orientalist perspectives and colonial administrative perspectives in its term selection
+  and presentation. Modern scholars must engage with the text understanding its historical
+  context and inherent epistemological limitations.
+
+  '
 collections:
 - classical-literature
 - classical-literature
 - colonial-india
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/58529
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/58529.html.images
   type: other
 - name: 'Internet Archive (Hobson-Jobson: A Glossary of Colloquial Anglo-Indian Words)'
   url: https://archive.org/details/B-001-002-321
   type: other
-- name: 'Internet Archive (Hobson-Jobson; a glossary of colloquial Anglo-Indian words)'
+- name: Internet Archive (Hobson-Jobson; a glossary of colloquial Anglo-Indian words)
   url: https://archive.org/details/hobsonjobsonagl02croogoog
   type: other
-- name: 'Digital Dictionaries of South Asia (University of Chicago)'
+- name: Digital Dictionaries of South Asia (University of Chicago)
   url: https://dsal.uchicago.edu/dictionaries/hobsonjobson/
   type: other
 references:

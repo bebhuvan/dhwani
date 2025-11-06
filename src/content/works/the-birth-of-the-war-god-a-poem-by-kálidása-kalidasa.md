@@ -28,9 +28,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/31968
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/31968.html.images
-  type: other
 - name: Internet Archive (The birth of the war-god, a poem, tr. from the Sanskrit
     into English verse)
   url: https://archive.org/details/bub_gb_RYErYijYOuUC

@@ -26,9 +26,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/32125
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/32125.html.images
-  type: other
 references:
 - name: 'Wikipedia: Rulers of India'
   url: https://en.wikipedia.org/wiki/Rulers_of_India

@@ -1,5 +1,5 @@
 ---
-title: 'Hinduism and Buddhism, An Historical Sketch,'
+title: Hinduism and Buddhism, An Historical Sketch,
 author:
 - Eliot, Charles
 year: 1916
@@ -8,43 +8,57 @@ language:
 genre:
 - Historical Literature
 - Religious Literature
-description: |
-  Charles Eliot's "Hinduism and Buddhism, An Historical Sketch" represents a foundational scholarly examination of religious philosophy and cultural evolution in the Indian subcontinent during the late 19th and early 20th centuries. Published in 1916, the work provides a comprehensive analysis of the historical development, philosophical foundations, and intricate interactions between Hinduism and Buddhism across Asia. Eliot, drawing on his extensive academic background and diplomatic experience in Asia, meticulously traces the origins, doctrinal complexities, and geographical spread of these two interconnected religious traditions. The work is particularly significant for its nuanced exploration of the philosophical and cultural exchanges that shaped religious thought from ancient India through medieval periods, offering detailed insights into theological concepts, ritual practices, and intellectual transformations. Eliot's scholarly approach distinguishes itself through rigorous historical methodology, comparative analysis, and a deep understanding of indigenous textual traditions. The text critically examines the syncretic nature of religious development, highlighting how Hinduism and Buddhism influenced and challenged each other's theological frameworks while simultaneously reflecting broader social and cultural dynamics of the Indian civilization. By contextualizing religious movements within broader historical and anthropological contexts, Eliot provides scholars and researchers with a sophisticated understanding of how philosophical and spiritual traditions evolved, migrated, and transformed across diverse geographical and cultural landscapes. This multi-volume work remains an essential reference for understanding the complex intellectual heritage of Indian religious thought, offering profound insights into the philosophical and cultural mechanisms that shaped Asian intellectual traditions.
+description: 'Charles Eliot''s "Hinduism and Buddhism, An Historical Sketch" represents
+  a foundational scholarly examination of religious philosophy and cultural evolution
+  in the Indian subcontinent during the late 19th and early 20th centuries. Published
+  in 1916, the work provides a comprehensive analysis of the historical development,
+  philosophical foundations, and intricate interactions between Hinduism and Buddhism
+  across Asia. Eliot, drawing on his extensive academic background and diplomatic
+  experience in Asia, meticulously traces the origins, doctrinal complexities, and
+  geographical spread of these two interconnected religious traditions. The work is
+  particularly significant for its nuanced exploration of the philosophical and cultural
+  exchanges that shaped religious thought from ancient India through medieval periods,
+  offering detailed insights into theological concepts, ritual practices, and intellectual
+  transformations. Eliot''s scholarly approach distinguishes itself through rigorous
+  historical methodology, comparative analysis, and a deep understanding of indigenous
+  textual traditions. The text critically examines the syncretic nature of religious
+  development, highlighting how Hinduism and Buddhism influenced and challenged each
+  other''s theological frameworks while simultaneously reflecting broader social and
+  cultural dynamics of the Indian civilization. By contextualizing religious movements
+  within broader historical and anthropological contexts, Eliot provides scholars
+  and researchers with a sophisticated understanding of how philosophical and spiritual
+  traditions evolved, migrated, and transformed across diverse geographical and cultural
+  landscapes. This multi-volume work remains an essential reference for understanding
+  the complex intellectual heritage of Indian religious thought, offering profound
+  insights into the philosophical and cultural mechanisms that shaped Asian intellectual
+  traditions.
+
+  '
 collections:
 - devotional-literature
 sources:
-- name: 'Project Gutenberg - Volume 1'
+- name: Project Gutenberg - Volume 1
   url: https://www.gutenberg.org/ebooks/15255
   type: other
-- name: 'Project Gutenberg (HTML) - Volume 1'
-  url: https://www.gutenberg.org/ebooks/15255.html.images
-  type: other
-- name: 'Internet Archive (Hinduism and Buddhism An Historical Sketch Vol-ii) - Volume 1'
+- name: Internet Archive (Hinduism and Buddhism An Historical Sketch Vol-ii) - Volume
+    1
   url: https://archive.org/details/dli.ernet.16470
   type: other
-- name: 'Internet Archive (Hinduism and Buddhism An Historical Sketch Vol-i) - Volume 1'
+- name: Internet Archive (Hinduism and Buddhism An Historical Sketch Vol-i) - Volume
+    1
   url: https://archive.org/details/dli.ernet.16467
   type: other
-- name: 'Internet Archive - University of Toronto - Volume 2'
+- name: Internet Archive - University of Toronto - Volume 2
   url: https://archive.org/details/hinduismandbuddh02eliouoft
   type: other
-- name: 'Internet Archive - Digital Library of India Vol. 2 - Volume 2'
-  url: https://archive.org/details/dli.ernet.16470
-  type: other
-- name: 'Project Gutenberg - Volume 2'
+- name: Project Gutenberg - Volume 2
   url: https://www.gutenberg.org/ebooks/16546
   type: other
-- name: 'Project Gutenberg (HTML) - Volume 2'
-  url: https://www.gutenberg.org/ebooks/16546.html.images
-  type: other
-- name: 'Internet Archive - Digital Library of India Vol. 3 - Volume 3'
+- name: Internet Archive - Digital Library of India Vol. 3 - Volume 3
   url: https://archive.org/details/dli.ernet.16469
   type: other
-- name: 'Project Gutenberg - Volume 3'
+- name: Project Gutenberg - Volume 3
   url: https://www.gutenberg.org/ebooks/16847
-  type: other
-- name: 'Project Gutenberg (HTML) - Volume 3'
-  url: https://www.gutenberg.org/ebooks/16847.html.images
   type: other
 references:
 - name: 'Wikipedia: Eliot'
@@ -59,7 +73,7 @@ references:
 - name: 'Wikipedia: History of Buddhism in India'
   url: https://en.wikipedia.org/wiki/History_of_Buddhism_in_India
   type: other
-- name: 'Open Library Search'
+- name: Open Library Search
   url: https://openlibrary.org/search?q=Hinduism+and+Buddhism+Eliot
   type: other
 - name: 'Wikipedia: Spread of Buddhism'

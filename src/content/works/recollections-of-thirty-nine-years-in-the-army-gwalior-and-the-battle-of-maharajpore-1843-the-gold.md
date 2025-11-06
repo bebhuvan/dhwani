@@ -30,9 +30,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/47380
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/47380.html.images
-  type: other
 references:
 - name: 'Wikipedia: Recollections of Thirty-nine Years in the Army'
   url: https://en.wikipedia.org/wiki/Recollections_of_Thirty-nine_Years_in_the_Army

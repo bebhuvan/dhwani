@@ -1,5 +1,5 @@
 ---
-title: 'The Kathá Sarit Ságara; or, Ocean of the Streams of Story'
+title: The Kathá Sarit Ságara; or, Ocean of the Streams of Story
 author:
 - Somadeva Bhatta, active 11th century
 year: 1900
@@ -10,17 +10,38 @@ genre:
 - Religious Literature
 - Folklore
 - Narrative Collection
-description: |
-  The Kathá Sarit Ságara represents a monumental compilation of narrative traditions from medieval Kashmir, compiled by the Sanskrit poet Somadeva Bhatta during the 11th century under the patronage of King Anantadeva of the Lohara dynasty. This elaborate narrative collection comprises over 18,000 verses and serves as a comprehensive anthology of interconnected tales drawn from diverse oral and literary traditions of ancient India. Structured as a frame narrative, the work weaves together multiple storylines exploring complex philosophical, ethical, and social dynamics through intricate mythological and folkloric accounts. Somadeva skillfully integrates narrative techniques that reflect the sophisticated literary traditions of Kashmir, demonstrating profound insights into human psychology, divine interventions, and moral philosophical constructs prevalent in medieval Indian intellectual discourse. The text draws extensively from earlier Sanskrit storytelling traditions, including Buddhist and Brahmanical narrative repositories, presenting a nuanced exploration of social relationships, spiritual quests, and existential challenges. Its narrative complexity reflects the intellectual vibrancy of medieval Indian literary culture, where storytelling served not merely as entertainment but as a sophisticated medium for transmitting cultural knowledge, ethical teachings, and philosophical perspectives. Scholars consider the Kathá Sarit Ságara a critical source for understanding medieval Indian social structures, religious philosophies, and narrative aesthetics, offering unprecedented insight into the intellectual and cultural landscapes of 11th-century South Asian civilizations. The work's enduring significance lies in its remarkable synthesis of mythological narratives, philosophical reflections, and cultural documentation, making it an invaluable repository of medieval Indian literary and intellectual heritage.
+description: 'The Kathá Sarit Ságara represents a monumental compilation of narrative
+  traditions from medieval Kashmir, compiled by the Sanskrit poet Somadeva Bhatta
+  during the 11th century under the patronage of King Anantadeva of the Lohara dynasty.
+  This elaborate narrative collection comprises over 18,000 verses and serves as a
+  comprehensive anthology of interconnected tales drawn from diverse oral and literary
+  traditions of ancient India. Structured as a frame narrative, the work weaves together
+  multiple storylines exploring complex philosophical, ethical, and social dynamics
+  through intricate mythological and folkloric accounts. Somadeva skillfully integrates
+  narrative techniques that reflect the sophisticated literary traditions of Kashmir,
+  demonstrating profound insights into human psychology, divine interventions, and
+  moral philosophical constructs prevalent in medieval Indian intellectual discourse.
+  The text draws extensively from earlier Sanskrit storytelling traditions, including
+  Buddhist and Brahmanical narrative repositories, presenting a nuanced exploration
+  of social relationships, spiritual quests, and existential challenges. Its narrative
+  complexity reflects the intellectual vibrancy of medieval Indian literary culture,
+  where storytelling served not merely as entertainment but as a sophisticated medium
+  for transmitting cultural knowledge, ethical teachings, and philosophical perspectives.
+  Scholars consider the Kathá Sarit Ságara a critical source for understanding medieval
+  Indian social structures, religious philosophies, and narrative aesthetics, offering
+  unprecedented insight into the intellectual and cultural landscapes of 11th-century
+  South Asian civilizations. The work''s enduring significance lies in its remarkable
+  synthesis of mythological narratives, philosophical reflections, and cultural documentation,
+  making it an invaluable repository of medieval Indian literary and intellectual
+  heritage.
+
+  '
 collections:
 - devotional-literature
 - classical-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/40588
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/40588.html.images
   type: other
 references:
 - name: 'Wikipedia: Somadeva Bhatta'

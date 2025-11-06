@@ -28,9 +28,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/53093
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/53093.html.images
-  type: other
 references:
 - name: 'Wikipedia: The Defence of Lucknow'
   url: https://en.wikipedia.org/wiki/The_Defence_of_Lucknow

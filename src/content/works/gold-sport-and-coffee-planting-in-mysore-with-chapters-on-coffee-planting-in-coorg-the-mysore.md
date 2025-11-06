@@ -1,5 +1,5 @@
 ---
-title: "Gold, Sport, and Coffee Planting in Mysore"
+title: Gold, Sport, and Coffee Planting in Mysore
 author:
 - Elliot, Robert H. (Robert Henry)
 year: 1899
@@ -8,19 +8,26 @@ language:
 genre:
 - Historical Literature
 - Travel Literature
-description: |
-  A comprehensive historical account chronicling 38 years of experience as a planter in Mysore, documenting coffee cultivation, European settlement impact, local socio-economic conditions, and colonial transformation. Published in 1899 during the late British colonial period, this work emerges from a pivotal moment of British imperial expansion and economic exploitation in South India, when coffee plantations represented a critical economic frontier of colonial resource extraction. Robert H. Elliot's narrative provides a firsthand account of the complex interactions between British settlers, local populations, and emerging economic systems during a transformative period of imperial restructuring in the Mysore region, offering unique insights into the socio-economic dynamics of late 19th-century colonial India.
+description: 'A comprehensive historical account chronicling 38 years of experience
+  as a planter in Mysore, documenting coffee cultivation, European settlement impact,
+  local socio-economic conditions, and colonial transformation. Published in 1899
+  during the late British colonial period, this work emerges from a pivotal moment
+  of British imperial expansion and economic exploitation in South India, when coffee
+  plantations represented a critical economic frontier of colonial resource extraction.
+  Robert H. Elliot''s narrative provides a firsthand account of the complex interactions
+  between British settlers, local populations, and emerging economic systems during
+  a transformative period of imperial restructuring in the Mysore region, offering
+  unique insights into the socio-economic dynamics of late 19th-century colonial India.
+
+  '
 collections:
 - classical-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/13746
   type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/13746.html.images
-  type: other
 references:
-- name: "Open Library: Gold Sport and Coffee Planting in Mysore"
+- name: 'Open Library: Gold Sport and Coffee Planting in Mysore'
   url: https://openlibrary.org/search?q=Gold+Sport+Coffee+Planting+Mysore+Elliot
   type: other
 featured: false

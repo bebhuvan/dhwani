@@ -1,5 +1,5 @@
 ---
-title: 'The Wheel of Fortune'
+title: The Wheel of Fortune
 author:
 - Gandhi, Mahatma
 year: 1922
@@ -9,24 +9,40 @@ genre:
 - Political Philosophy
 - Economics
 - Social Reform
-description: |
-  In the tumultuous aftermath of World War I and during the intensifying Indian independence movement, Mahatma Gandhi's 'The Wheel of Fortune' emerged as a profound manifesto of anti-colonial resistance during a critical period of British imperial control in India. Published in 1922 at the height of the Non-Cooperation Movement and just two years after the devastating Jallianwala Bagh massacre, the work reflected Gandhi's strategic pivot toward economic and cultural self-determination during a transformative decade when Indian nationalists were challenging British colonial economic and political hegemony. Published in 1922 by Ganesh of Madras, 'The Wheel of Fortune' compiles Mahatma Gandhi's writings from 1920-21 on the charkha (spinning wheel) and the Swadeshi movement, representing a pivotal moment when Gandhi transformed a simple domestic implement into the symbol of Indian independence and economic self-reliance. These essays articulate Gandhi's revolutionary vision that political freedom (Swaraj) could only be achieved through economic independence from British manufactured goods, particularly textiles, and that every Indian's participation in hand-spinning and weaving would simultaneously address rural poverty, restore dignity to manual labor, create decentralized economic power, and forge national unity across class and caste divisions—a philosophy he summarized by declaring 'I stake my all on it,' making the humble charkha one of history's most powerful symbols of nonviolent resistance.
+description: 'In the tumultuous aftermath of World War I and during the intensifying
+  Indian independence movement, Mahatma Gandhi''s ''The Wheel of Fortune'' emerged
+  as a profound manifesto of anti-colonial resistance during a critical period of
+  British imperial control in India. Published in 1922 at the height of the Non-Cooperation
+  Movement and just two years after the devastating Jallianwala Bagh massacre, the
+  work reflected Gandhi''s strategic pivot toward economic and cultural self-determination
+  during a transformative decade when Indian nationalists were challenging British
+  colonial economic and political hegemony. Published in 1922 by Ganesh of Madras,
+  ''The Wheel of Fortune'' compiles Mahatma Gandhi''s writings from 1920-21 on the
+  charkha (spinning wheel) and the Swadeshi movement, representing a pivotal moment
+  when Gandhi transformed a simple domestic implement into the symbol of Indian independence
+  and economic self-reliance. These essays articulate Gandhi''s revolutionary vision
+  that political freedom (Swaraj) could only be achieved through economic independence
+  from British manufactured goods, particularly textiles, and that every Indian''s
+  participation in hand-spinning and weaving would simultaneously address rural poverty,
+  restore dignity to manual labor, create decentralized economic power, and forge
+  national unity across class and caste divisions—a philosophy he summarized by declaring
+  ''I stake my all on it,'' making the humble charkha one of history''s most powerful
+  symbols of nonviolent resistance.
+
+  '
 collections:
 - classical-literature
 - political-philosophy
 - classical-literature
 - classical-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/41954
   type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/41954.html.images
-  type: other
-- name: 'Internet Archive (1922 Ganesh Edition)'
+- name: Internet Archive (1922 Ganesh Edition)
   url: https://archive.org/details/dli.ministry.24609
   type: other
-- name: 'Internet Archive (Alternative Copy)'
+- name: Internet Archive (Alternative Copy)
   url: https://archive.org/details/in.ernet.dli.2015.79131
   type: other
 references:

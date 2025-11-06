@@ -76,9 +76,6 @@ sources:
 - name: Internet Archive - Sadhana (Macmillan)
   url: https://archive.org/details/sadhanarealisati00tagouoft
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/6842.html.images
-  type: other
 references:
 - name: 'Wikisource: Sadhana The Realisation Of Life Tagore Rabindranat'
   url: https://en.wikisource.org/wiki/Sadhana:_The_Realisation_of_Life

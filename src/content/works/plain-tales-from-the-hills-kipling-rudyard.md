@@ -32,9 +32,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/1858
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/1858.html.images
-  type: other
 - name: Internet Archive (Plain Tales from the Hills)
   url: https://archive.org/details/dli.ministry.18638
   type: other

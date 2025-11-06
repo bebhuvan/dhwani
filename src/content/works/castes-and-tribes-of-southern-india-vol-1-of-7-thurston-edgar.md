@@ -85,14 +85,8 @@ sources:
 - name: Internet Archive (Volume 6)
   url: https://archive.org/details/in.ernet.dli.2015.30777
   type: other
-- name: Internet Archive (Volume 7)
-  url: https://archive.org/details/in.ernet.dli.2015.30777
-  type: other
 - name: Indian Culture Portal (Rare Books - Volume 1)
   url: https://www.indianculture.gov.in/rarebooks/castes-and-tribes-southern-india-vol-i-and-b
-  type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/42991.html.images
   type: other
 references:
 - name: 'Wikipedia: Castes and Tribes of Southern India'

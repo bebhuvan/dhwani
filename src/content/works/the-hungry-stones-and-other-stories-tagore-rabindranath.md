@@ -1,5 +1,5 @@
 ---
-title: 'The Hungry Stones, and Other Stories'
+title: The Hungry Stones, and Other Stories
 author:
 - Tagore, Rabindranath
 year: 1916
@@ -7,18 +7,32 @@ language:
 - English
 genre:
 - Fiction
-description: |
-  The Hungry Stones and Other Stories is a collection of short fiction by Rabindranath Tagore published by Macmillan in New York in 1916, though the stories themselves were originally written in Bengali in the 1890s and early 1900s. Emerging during the late colonial period of British India and the vibrant Bengal Renaissance—a transformative intellectual and cultural movement spanning the late 19th and early 20th centuries—these stories reflect the complex social dynamics of a society negotiating tradition, modernity, and emerging national consciousness. Tagore, who would later become the first non-European Nobel Laureate in Literature (1913), was a pivotal figure in reimagining Indian literary forms and articulating the psychological and social complexities of Bengali society during a time of profound cultural transition. This collection showcases Tagore's mastery of the short story form and his ability to blend psychological realism with elements of the supernatural, the mystical, and the fantastic. The title story, "The Hungry Stones" (Kshudita Pashan in Bengali, first published in 1895), represents Tagore's most overtly supernatural tale and has been recognized as a pioneering work of Indian weird fiction. The collection reveals the breadth of Tagore's storytelling abilities, moving from ghost stories and mystical romances to realistic social dramas that explore the tensions between tradition and modernity in Bengali society.
-  
+description: 'The Hungry Stones and Other Stories is a collection of short fiction
+  by Rabindranath Tagore published by Macmillan in New York in 1916, though the stories
+  themselves were originally written in Bengali in the 1890s and early 1900s. Emerging
+  during the late colonial period of British India and the vibrant Bengal Renaissance—a
+  transformative intellectual and cultural movement spanning the late 19th and early
+  20th centuries—these stories reflect the complex social dynamics of a society negotiating
+  tradition, modernity, and emerging national consciousness. Tagore, who would later
+  become the first non-European Nobel Laureate in Literature (1913), was a pivotal
+  figure in reimagining Indian literary forms and articulating the psychological and
+  social complexities of Bengali society during a time of profound cultural transition.
+  This collection showcases Tagore''s mastery of the short story form and his ability
+  to blend psychological realism with elements of the supernatural, the mystical,
+  and the fantastic. The title story, "The Hungry Stones" (Kshudita Pashan in Bengali,
+  first published in 1895), represents Tagore''s most overtly supernatural tale and
+  has been recognized as a pioneering work of Indian weird fiction. The collection
+  reveals the breadth of Tagore''s storytelling abilities, moving from ghost stories
+  and mystical romances to realistic social dramas that explore the tensions between
+  tradition and modernity in Bengali society.
+
+  '
 collections:
 - modern-literature
 - modern-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/7166
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/7166.html.images
   type: other
 references:
 - name: 'Wikipedia: Rabindranath Tagore'

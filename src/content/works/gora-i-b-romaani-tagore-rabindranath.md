@@ -9,17 +9,36 @@ genre:
 - Fiction
 - Historical Literature
 - Religious Literature
-description: |
-  Rabindranath Tagore's seminal novel "Gora" emerges as a profound exploration of identity, nationalism, and social transformation during the critical early 20th-century Bengal Renaissance, a period of intense intellectual and cultural reconfiguration in colonial India. Published in 1926, the work delves deeply into the complex intersections of religious identity, cultural nationalism, and individual self-conception through the protagonist Gora's introspective journey. Set against the backdrop of British colonial Calcutta, the novel critically examines the tensions between traditional Hindu orthodoxy, emerging nationalist sentiments, and the challenges of cultural hybridity. Tagore masterfully uses Gora's narrative to interrogate fundamental questions of belonging, religious orthodoxy, and the evolving conception of Indian identity beyond rigid social and religious boundaries. The protagonist's personal transformation becomes a metaphorical exploration of India's broader social and philosophical negotiations during a period of profound cultural and political transition. Through nuanced character development and intricate social commentary, Tagore challenges prevailing notions of religious exclusivity and nationalist rhetoric, advocating instead for a more inclusive, humanistic understanding of cultural identity. The novel represents a critical intervention in early 20th-century literary discourse, positioning itself at the intersection of personal narrative and broader social critique. As a work of significant literary and historical importance, "Gora" exemplifies Tagore's intellectual leadership in reimagining Indian social consciousness, offering a complex meditation on cultural authenticity, religious understanding, and the personal dimensions of national belonging during a transformative historical moment.
+description: 'Rabindranath Tagore''s seminal novel "Gora" emerges as a profound exploration
+  of identity, nationalism, and social transformation during the critical early 20th-century
+  Bengal Renaissance, a period of intense intellectual and cultural reconfiguration
+  in colonial India. Published in 1926, the work delves deeply into the complex intersections
+  of religious identity, cultural nationalism, and individual self-conception through
+  the protagonist Gora''s introspective journey. Set against the backdrop of British
+  colonial Calcutta, the novel critically examines the tensions between traditional
+  Hindu orthodoxy, emerging nationalist sentiments, and the challenges of cultural
+  hybridity. Tagore masterfully uses Gora''s narrative to interrogate fundamental
+  questions of belonging, religious orthodoxy, and the evolving conception of Indian
+  identity beyond rigid social and religious boundaries. The protagonist''s personal
+  transformation becomes a metaphorical exploration of India''s broader social and
+  philosophical negotiations during a period of profound cultural and political transition.
+  Through nuanced character development and intricate social commentary, Tagore challenges
+  prevailing notions of religious exclusivity and nationalist rhetoric, advocating
+  instead for a more inclusive, humanistic understanding of cultural identity. The
+  novel represents a critical intervention in early 20th-century literary discourse,
+  positioning itself at the intersection of personal narrative and broader social
+  critique. As a work of significant literary and historical importance, "Gora" exemplifies
+  Tagore''s intellectual leadership in reimagining Indian social consciousness, offering
+  a complex meditation on cultural authenticity, religious understanding, and the
+  personal dimensions of national belonging during a transformative historical moment.
+
+  '
 collections:
 - devotional-literature
 - modern-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/70025
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/70025.html.images
   type: other
 references:
 - name: 'Open Library: Gora'

@@ -1,5 +1,6 @@
 ---
-title: 'Mutiny Memoirs: Being Personal Reminiscences of the Great Sepoy Revolt of 1857'
+title: 'Mutiny Memoirs: Being Personal Reminiscences of the Great Sepoy Revolt of
+  1857'
 author:
 - Mackenzie, A. R. D. (Alfred Robert Davidson)
 year: 1875
@@ -7,16 +8,38 @@ language:
 - English
 genre:
 - Historical Literature
-description: |
-  Published in 1875, "Mutiny Memoirs" emerges as a critical British colonial narrative documenting the complex historical landscape of the Indian Rebellion of 1857, a pivotal moment of anti-colonial resistance that fundamentally challenged imperial power structures. A.R.D. Mackenzie, a British military officer positioned at the intersection of imperial administration and colonial military service, provides a nuanced firsthand account that illuminates the psychological and strategic dimensions of this transformative conflict. The memoir represents an important textual artifact of colonial epistemology, offering detailed perspectives on the socio-political tensions that characterized British imperial encounters in mid-19th century India. Mackenzie's narrative critically examines the intricate dynamics of military loyalty, institutional breakdown, and cultural misunderstandings that precipitated and sustained the widespread uprising against British colonial rule. By documenting personal experiences and observations from a British military perspective, the text provides scholars invaluable insights into colonial military discourse, imperial interpretative frameworks, and the complex power negotiations underlying the rebellion. The work is particularly significant for its granular documentation of military encounters, administrative responses, and the psychological terrain of colonial conflict, offering a counterpoint to emerging Indian nationalist narratives of the period. As a historical document, "Mutiny Memoirs" contributes substantially to understanding the epistemological processes through which colonial powers constructed historical narratives, interpreted indigenous resistance, and rationalized imperial intervention. For contemporary scholars of South Asian colonial studies, imperial history, and postcolonial literature, Mackenzie's memoir remains a crucial primary source for analyzing the discursive mechanisms of British colonial representation and the multifaceted nature of colonial conflict in 19th-century India.
+description: 'Published in 1875, "Mutiny Memoirs" emerges as a critical British colonial
+  narrative documenting the complex historical landscape of the Indian Rebellion of
+  1857, a pivotal moment of anti-colonial resistance that fundamentally challenged
+  imperial power structures. A.R.D. Mackenzie, a British military officer positioned
+  at the intersection of imperial administration and colonial military service, provides
+  a nuanced firsthand account that illuminates the psychological and strategic dimensions
+  of this transformative conflict. The memoir represents an important textual artifact
+  of colonial epistemology, offering detailed perspectives on the socio-political
+  tensions that characterized British imperial encounters in mid-19th century India.
+  Mackenzie''s narrative critically examines the intricate dynamics of military loyalty,
+  institutional breakdown, and cultural misunderstandings that precipitated and sustained
+  the widespread uprising against British colonial rule. By documenting personal experiences
+  and observations from a British military perspective, the text provides scholars
+  invaluable insights into colonial military discourse, imperial interpretative frameworks,
+  and the complex power negotiations underlying the rebellion. The work is particularly
+  significant for its granular documentation of military encounters, administrative
+  responses, and the psychological terrain of colonial conflict, offering a counterpoint
+  to emerging Indian nationalist narratives of the period. As a historical document,
+  "Mutiny Memoirs" contributes substantially to understanding the epistemological
+  processes through which colonial powers constructed historical narratives, interpreted
+  indigenous resistance, and rationalized imperial intervention. For contemporary
+  scholars of South Asian colonial studies, imperial history, and postcolonial literature,
+  Mackenzie''s memoir remains a crucial primary source for analyzing the discursive
+  mechanisms of British colonial representation and the multifaceted nature of colonial
+  conflict in 19th-century India.
+
+  '
 collections:
 - classical-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/49544
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/49544.html.images
   type: other
 references:
 - name: 'Wikipedia: Indian Rebellion of 1857'

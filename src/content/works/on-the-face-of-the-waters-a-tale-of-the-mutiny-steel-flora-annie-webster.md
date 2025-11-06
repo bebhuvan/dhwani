@@ -76,9 +76,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/40140
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/40140.html.images
-  type: other
 - name: 'Internet Archive (On the Face of the Waters: A Tale of the Mutiny)'
   url: https://archive.org/details/onfacewatersata01steegoog
   type: other

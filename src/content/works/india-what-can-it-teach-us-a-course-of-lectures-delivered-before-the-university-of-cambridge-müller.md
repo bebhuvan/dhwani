@@ -1,5 +1,6 @@
 ---
-title: 'India: What Can It Teach Us?: A Course of Lectures Delivered before the University of Cambridge'
+title: 'India: What Can It Teach Us?: A Course of Lectures Delivered before the University
+  of Cambridge'
 author:
 - Müller, F. Max (Friedrich Max)
 year: 1885
@@ -9,16 +10,36 @@ language:
 genre:
 - Historical Literature
 - Sanskrit Literature
-description: |
-  F. Max Müller's "India: What Can It Teach Us?" represents a seminal scholarly intervention in late 19th-century Orientalist discourse, presenting a comprehensive scholarly examination of Indian intellectual traditions during the British colonial period. Delivered as a series of lectures at Cambridge University in 1885, the work explores the profound philosophical, linguistic, and cultural contributions of Indian civilization, challenging contemporary European perceptions of Indian intellectual heritage. Müller, a prominent German-born philologist and prominent scholar of comparative religious studies, draws extensively on his deep expertise in Sanskrit literature and comparative linguistics to argue for the sophisticated intellectual depth of Indian philosophical and textual traditions. The lectures systematically analyze Sanskrit texts, religious philosophies, and cultural practices, positioning them as sophisticated intellectual systems worthy of serious academic consideration rather than mere colonial ethnographic curiosity. By contextualizing Indian knowledge systems within a broader comparative framework, Müller advances a nuanced understanding of India's intellectual genealogies, emphasizing the complex hermeneutic and epistemological dimensions of Sanskrit learning. His work critically examines areas including Vedic literature, philosophical schools, grammatical traditions, and spiritual conceptualizations, demonstrating their intrinsic philosophical sophistication and potential cross-cultural intellectual resonance. As a pioneering scholarly intervention, the lectures significantly influenced subsequent generations of Indologists, comparative religionists, and cultural historians, helping establish more rigorous and respectful scholarly approaches to understanding Indian intellectual traditions beyond colonial-era reductive frameworks.
+description: 'F. Max Müller''s "India: What Can It Teach Us?" represents a seminal
+  scholarly intervention in late 19th-century Orientalist discourse, presenting a
+  comprehensive scholarly examination of Indian intellectual traditions during the
+  British colonial period. Delivered as a series of lectures at Cambridge University
+  in 1885, the work explores the profound philosophical, linguistic, and cultural
+  contributions of Indian civilization, challenging contemporary European perceptions
+  of Indian intellectual heritage. Müller, a prominent German-born philologist and
+  prominent scholar of comparative religious studies, draws extensively on his deep
+  expertise in Sanskrit literature and comparative linguistics to argue for the sophisticated
+  intellectual depth of Indian philosophical and textual traditions. The lectures
+  systematically analyze Sanskrit texts, religious philosophies, and cultural practices,
+  positioning them as sophisticated intellectual systems worthy of serious academic
+  consideration rather than mere colonial ethnographic curiosity. By contextualizing
+  Indian knowledge systems within a broader comparative framework, Müller advances
+  a nuanced understanding of India''s intellectual genealogies, emphasizing the complex
+  hermeneutic and epistemological dimensions of Sanskrit learning. His work critically
+  examines areas including Vedic literature, philosophical schools, grammatical traditions,
+  and spiritual conceptualizations, demonstrating their intrinsic philosophical sophistication
+  and potential cross-cultural intellectual resonance. As a pioneering scholarly intervention,
+  the lectures significantly influenced subsequent generations of Indologists, comparative
+  religionists, and cultural historians, helping establish more rigorous and respectful
+  scholarly approaches to understanding Indian intellectual traditions beyond colonial-era
+  reductive frameworks.
+
+  '
 collections:
 - classical-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/20847
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/20847.html.images
   type: other
 references:
 - name: 'Wikipedia: Max Müller'

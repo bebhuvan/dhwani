@@ -1,37 +1,57 @@
 ---
 title: The Peoples of India
 author:
-  - Anderson, J. D. (James Drummond)
+- Anderson, J. D. (James Drummond)
 year: 1905
 language:
-  - English
+- English
 genre:
-  - Ethnology
-  - Anthropology
-  - Religious Literature
-description: |
-  "The Peoples of India" by James Drummond Anderson represents a seminal early 20th-century scholarly exploration of India's complex social landscape during the late colonial period. Published in 1905, this comprehensive ethnological study emerges at a critical moment of anthropological documentation when British scholars were systematically cataloging the demographic and cultural diversity of the Indian subcontinent. Anderson meticulously examines the intricate tapestry of Indian society through rigorous ethnographic analysis, offering unprecedented insights into racial compositions, caste structures, linguistic variations, and religious practices across different regions. The work critically investigates the interplay between historical migrations, cultural interactions, and social stratification that shaped Indian populations during a transformative period of imperial documentation and cultural understanding. Drawing from extensive field research and comparative methodologies prevalent in late 19th-century anthropology, Anderson provides nuanced perspectives on indigenous communities, tribal groups, and regional variations that challenge contemporary racial and social typologies. His systematic approach illuminates the multilayered social architectures of Indian society, mapping demographic complexities that transcended simplistic colonial categorizations. By meticulously documenting linguistic diversity, religious practices, and social organization, the text serves as a significant archival resource for understanding India's demographic composition at the turn of the 20th century. Beyond its historical significance, the work remains a foundational text for scholars of Indian social history, offering granular insights into the anthropological dynamics that continue to inform contemporary understandings of India's rich cultural heritage.
+- Ethnology
+- Anthropology
+- Religious Literature
+description: '"The Peoples of India" by James Drummond Anderson represents a seminal
+  early 20th-century scholarly exploration of India''s complex social landscape during
+  the late colonial period. Published in 1905, this comprehensive ethnological study
+  emerges at a critical moment of anthropological documentation when British scholars
+  were systematically cataloging the demographic and cultural diversity of the Indian
+  subcontinent. Anderson meticulously examines the intricate tapestry of Indian society
+  through rigorous ethnographic analysis, offering unprecedented insights into racial
+  compositions, caste structures, linguistic variations, and religious practices across
+  different regions. The work critically investigates the interplay between historical
+  migrations, cultural interactions, and social stratification that shaped Indian
+  populations during a transformative period of imperial documentation and cultural
+  understanding. Drawing from extensive field research and comparative methodologies
+  prevalent in late 19th-century anthropology, Anderson provides nuanced perspectives
+  on indigenous communities, tribal groups, and regional variations that challenge
+  contemporary racial and social typologies. His systematic approach illuminates the
+  multilayered social architectures of Indian society, mapping demographic complexities
+  that transcended simplistic colonial categorizations. By meticulously documenting
+  linguistic diversity, religious practices, and social organization, the text serves
+  as a significant archival resource for understanding India''s demographic composition
+  at the turn of the 20th century. Beyond its historical significance, the work remains
+  a foundational text for scholars of Indian social history, offering granular insights
+  into the anthropological dynamics that continue to inform contemporary understandings
+  of India''s rich cultural heritage.
+
+  '
 collections:
-  - classical-literature
+- classical-literature
 sources:
-  - name: Project Gutenberg
-    url: https://www.gutenberg.org/ebooks/55465
-    type: other
-  - name: Project Gutenberg (HTML)
-    url: https://www.gutenberg.org/ebooks/55465.html.images
-    type: other
-  - name: Internet Archive (The peoples of India)
-    url: https://archive.org/details/peoplesofindia00ande
-    type: other
+- name: Project Gutenberg
+  url: https://www.gutenberg.org/ebooks/55465
+  type: other
+- name: Internet Archive (The peoples of India)
+  url: https://archive.org/details/peoplesofindia00ande
+  type: other
 featured: false
-publishDate: 2025-11-01T00:00:00.000Z
+publishDate: 2025-11-01 00:00:00+00:00
 references:
-  - name: "Wikipedia: The Peoples of India"
-    url: https://en.wikipedia.org/wiki/The_Peoples_of_India
-    type: other
-  - name: "Open Library: The Peoples of India"
-    url: https://openlibrary.org/search?q=The%20Peoples%20of%20India
-    type: other
+- name: 'Wikipedia: The Peoples of India'
+  url: https://en.wikipedia.org/wiki/The_Peoples_of_India
+  type: other
+- name: 'Open Library: The Peoples of India'
+  url: https://openlibrary.org/search?q=The%20Peoples%20of%20India
+  type: other
 ---
 
 # The Peoples of India

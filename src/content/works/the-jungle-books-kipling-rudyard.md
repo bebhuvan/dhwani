@@ -33,9 +33,6 @@ sources:
 - name: Project Gutenberg - The Jungle Book
   url: https://www.gutenberg.org/ebooks/35997
   type: other
-- name: Project Gutenberg (HTML) - The Jungle Book
-  url: https://www.gutenberg.org/ebooks/35997.html.images
-  type: other
 - name: Internet Archive (The Jungle Book) - The Jungle Book
   url: https://archive.org/details/junglebook200kipl
   type: other
@@ -51,9 +48,6 @@ sources:
   type: other
 - name: Project Gutenberg - The Second Jungle Book
   url: https://www.gutenberg.org/ebooks/37364
-  type: other
-- name: Project Gutenberg (HTML) - The Second Jungle Book
-  url: https://www.gutenberg.org/ebooks/37364.html.images
   type: other
 references:
 - name: 'Wikisource: The Jungle Book'

@@ -28,9 +28,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/15483
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/15483.html.images
-  type: other
 - name: Internet Archive (Rambles and recollections of an Indian official)
   url: https://archive.org/details/ramblesandrecol01sleegoog
   type: other

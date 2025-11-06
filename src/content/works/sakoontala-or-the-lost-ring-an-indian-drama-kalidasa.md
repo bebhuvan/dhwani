@@ -32,9 +32,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/12169
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/12169.html.images
-  type: other
 references:
 - name: 'Wikipedia: Sakoontala; Or, The Lost Ring'
   url: https://en.wikipedia.org/wiki/Sakoontala%3B_Or%2C_The_Lost_Ring

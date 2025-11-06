@@ -29,9 +29,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/11897
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/11897.html.images
-  type: other
 - name: Internet Archive (On The Indian Sect Of The Jainas)
   url: https://archive.org/details/ontheindiansecto015101mbp
   type: other

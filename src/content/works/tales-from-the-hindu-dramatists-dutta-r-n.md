@@ -31,9 +31,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/18285
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/18285.html.images
-  type: other
 - name: Internet Archive (Tales from the Hindu Dramatists)
   url: https://archive.org/details/talesfromthehind18285gut
   type: other

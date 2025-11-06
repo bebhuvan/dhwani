@@ -1,5 +1,5 @@
 ---
-title: 'India and the Indians'
+title: India and the Indians
 author:
 - Elwin, Edward Fenton
 year: 1900
@@ -7,18 +7,38 @@ language:
 - English
 genre:
 - Historical Literature
-description: |
-  Published at the dawn of the 20th century, Edward Fenton Elwin's "India and the Indians" emerges as a significant scholarly work situated at the complex intersection of colonial anthropological discourse and emerging Indian nationalist perspectives. Set during a pivotal period of British imperial engagement with Indian society, the book represents a nuanced exploration of cultural dynamics, indigenous social structures, and the profound complexities of Hindu cultural practices. Elwin's work draws from direct ethnographic observation and scholarly analysis, offering a comprehensive examination of Indian social life, religious traditions, and cultural practices during a transformative historical moment. The text critically engages with prevailing colonial interpretations while providing detailed insights into the intricate social fabric of late 19th-century India. Drawing upon personal experiences and scholarly research, Elwin navigates the delicate terrain between external observation and empathetic understanding, challenging simplistic colonial narratives and presenting a more sophisticated engagement with Indian cultural diversity. The work contributes significantly to early 20th-century anthropological and sociological scholarship, providing a substantive documentation of Indian social customs, religious practices, and communal structures during a period of intense cultural transformation. By contextualizing Hindu practices within their broader social and historical frameworks, Elwin's text offers scholars and researchers a valuable historical document that illuminates the complex interactions between colonial intellectual frameworks and indigenous cultural expressions. As a historical artifact, the book represents an important scholarly contribution to understanding the intellectual and cultural landscapes of India during a critical period of colonial encounter and emerging national consciousness.
+description: 'Published at the dawn of the 20th century, Edward Fenton Elwin''s "India
+  and the Indians" emerges as a significant scholarly work situated at the complex
+  intersection of colonial anthropological discourse and emerging Indian nationalist
+  perspectives. Set during a pivotal period of British imperial engagement with Indian
+  society, the book represents a nuanced exploration of cultural dynamics, indigenous
+  social structures, and the profound complexities of Hindu cultural practices. Elwin''s
+  work draws from direct ethnographic observation and scholarly analysis, offering
+  a comprehensive examination of Indian social life, religious traditions, and cultural
+  practices during a transformative historical moment. The text critically engages
+  with prevailing colonial interpretations while providing detailed insights into
+  the intricate social fabric of late 19th-century India. Drawing upon personal experiences
+  and scholarly research, Elwin navigates the delicate terrain between external observation
+  and empathetic understanding, challenging simplistic colonial narratives and presenting
+  a more sophisticated engagement with Indian cultural diversity. The work contributes
+  significantly to early 20th-century anthropological and sociological scholarship,
+  providing a substantive documentation of Indian social customs, religious practices,
+  and communal structures during a period of intense cultural transformation. By contextualizing
+  Hindu practices within their broader social and historical frameworks, Elwin''s
+  text offers scholars and researchers a valuable historical document that illuminates
+  the complex interactions between colonial intellectual frameworks and indigenous
+  cultural expressions. As a historical artifact, the book represents an important
+  scholarly contribution to understanding the intellectual and cultural landscapes
+  of India during a critical period of colonial encounter and emerging national consciousness.
+
+  '
 collections:
 - classical-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/27886
   type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/27886.html.images
-  type: other
-- name: 'Internet Archive (India and the Indians)'
+- name: Internet Archive (India and the Indians)
   url: https://archive.org/details/indiaandtheindia27886gut
   type: other
 references:

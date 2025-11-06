@@ -29,9 +29,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/46151
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/46151.html.images
-  type: other
 - name: Internet Archive (James Talboys Wheeler India Under British Rule From The
     Foundation Of The East India Company Macmillan ( 1886))
   url: https://archive.org/details/james-talboys-wheeler-india-under-british-rule-from-the-foundation-of-the-east-i

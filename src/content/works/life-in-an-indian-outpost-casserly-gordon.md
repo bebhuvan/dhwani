@@ -1,5 +1,5 @@
 ---
-title: 'Life in an Indian Outpost'
+title: Life in an Indian Outpost
 author:
 - Casserly, Gordon
 year: 1932
@@ -8,18 +8,38 @@ language:
 genre:
 - Historical Literature
 - Travel Literature
-description: |
-  Gordon Casserly's "Life in an Indian Outpost" represents a critical narrative documentation of British imperial military presence in the northeastern frontier regions of British India during the interwar period of the early 1930s. Set against the complex geopolitical landscape of colonial administration, the memoir provides an intricate firsthand account of military life at Buxa Duar, a strategically significant mountain fortress near the Himalayan borderlands. Casserly's work offers scholarly insights into the administrative mechanisms, cultural interactions, and daily experiences of British imperial officers stationed in remote frontier regions during a pivotal transitional moment in Indian colonial history. The text critically illuminates the administrative infrastructure of the British Raj, capturing the nuanced interpersonal dynamics, operational challenges, and psychological dimensions of maintaining imperial territorial control in geographically challenging terrain. Beyond its military narrative, the memoir serves as an important historical document that reveals the complex socio-cultural negotiations between colonial administrative personnel and indigenous populations during a period of increasing nationalist sentiment and imperial reconfiguration. Casserly's detailed observations provide contemporary scholars with valuable ethnographic and administrative perspectives on colonial military life, administrative practices, and the lived experiences of imperial personnel in peripheral regions of the British Empire. The work contributes significantly to understanding the microsociological dimensions of colonial governance, military strategy, and intercultural encounters in early 20th-century India, offering a granular perspective on imperial mechanisms of control and interaction rarely captured with such methodical precision.
+description: 'Gordon Casserly''s "Life in an Indian Outpost" represents a critical
+  narrative documentation of British imperial military presence in the northeastern
+  frontier regions of British India during the interwar period of the early 1930s.
+  Set against the complex geopolitical landscape of colonial administration, the memoir
+  provides an intricate firsthand account of military life at Buxa Duar, a strategically
+  significant mountain fortress near the Himalayan borderlands. Casserly''s work offers
+  scholarly insights into the administrative mechanisms, cultural interactions, and
+  daily experiences of British imperial officers stationed in remote frontier regions
+  during a pivotal transitional moment in Indian colonial history. The text critically
+  illuminates the administrative infrastructure of the British Raj, capturing the
+  nuanced interpersonal dynamics, operational challenges, and psychological dimensions
+  of maintaining imperial territorial control in geographically challenging terrain.
+  Beyond its military narrative, the memoir serves as an important historical document
+  that reveals the complex socio-cultural negotiations between colonial administrative
+  personnel and indigenous populations during a period of increasing nationalist sentiment
+  and imperial reconfiguration. Casserly''s detailed observations provide contemporary
+  scholars with valuable ethnographic and administrative perspectives on colonial
+  military life, administrative practices, and the lived experiences of imperial personnel
+  in peripheral regions of the British Empire. The work contributes significantly
+  to understanding the microsociological dimensions of colonial governance, military
+  strategy, and intercultural encounters in early 20th-century India, offering a granular
+  perspective on imperial mechanisms of control and interaction rarely captured with
+  such methodical precision.
+
+  '
 collections:
 - classical-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/37782
   type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/37782.html.images
-  type: other
-- name: 'Internet Archive (Life in an Indian outpost)'
+- name: Internet Archive (Life in an Indian outpost)
   url: https://archive.org/details/lifeinindianoutp00cassiala
   type: other
 references:

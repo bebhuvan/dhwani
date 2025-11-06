@@ -1,5 +1,5 @@
 ---
-title: 'My Reminiscences'
+title: My Reminiscences
 author:
 - Tagore, Rabindranath
 year: 1917
@@ -7,16 +7,25 @@ language:
 - English
 genre:
 - Classical Literature
-description: |
-  My Reminiscences (Jibonsmriti or Jeeban Smriti in Bengali) is Rabindranath Tagore's lyrical autobiography, originally serialized in Bengali and then in English translation in The Modern Review from January to December 1916, before being published in book form by Macmillan in April 1917. Written when Tagore turned fifty years old, shortly before his 1912 journey to Europe and America for health reasons, this work offers an intimate portrait of the poet's formative years. The English translation was prepared by Tagore's nephew Surendranath Tagore with adjustments by Rabindranath himself, ensuring that the work retained its characteristic voice and sensibility. Unlike conventional autobiographies that strive for comprehensive chronological coverage, My Reminiscences presents what Tagore called "memory pictures"—selective, impressionistic glimpses of childhood and youth organized around emotional and aesthetic significance rather than strict historical sequence.
+description: 'My Reminiscences (Jibonsmriti or Jeeban Smriti in Bengali) is Rabindranath
+  Tagore''s lyrical autobiography, originally serialized in Bengali and then in English
+  translation in The Modern Review from January to December 1916, before being published
+  in book form by Macmillan in April 1917. Written when Tagore turned fifty years
+  old, shortly before his 1912 journey to Europe and America for health reasons, this
+  work offers an intimate portrait of the poet''s formative years. The English translation
+  was prepared by Tagore''s nephew Surendranath Tagore with adjustments by Rabindranath
+  himself, ensuring that the work retained its characteristic voice and sensibility.
+  Unlike conventional autobiographies that strive for comprehensive chronological
+  coverage, My Reminiscences presents what Tagore called "memory pictures"—selective,
+  impressionistic glimpses of childhood and youth organized around emotional and aesthetic
+  significance rather than strict historical sequence.
+
+  '
 collections:
 - historical-literature
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/7838
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/7838.html.images
   type: other
 references:
 - name: 'Wikipedia: Rabindranath Tagore'

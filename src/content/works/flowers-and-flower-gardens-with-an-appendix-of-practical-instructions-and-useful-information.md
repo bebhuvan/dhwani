@@ -1,5 +1,6 @@
 ---
-title: 'Flowers and Flower-Gardens: With an Appendix of Practical Instructions and Useful Information Respecting the Anglo-Indian Flower-Garden'
+title: 'Flowers and Flower-Gardens: With an Appendix of Practical Instructions and
+  Useful Information Respecting the Anglo-Indian Flower-Garden'
 author:
 - Richardson, David Lester
 year: 1850
@@ -7,16 +8,37 @@ language:
 - English
 genre:
 - Poetry
-description: |
-  David Lester Richardson's "Flowers and Flower-Gardens" emerges as a pivotal scholarly work documenting botanical interactions during the mid-19th century Anglo-Indian colonial period, reflecting the intricate cultural exchanges between European scientific observation and indigenous horticultural practices. Published in 1850 during the British East India Company's administrative zenith, the text represents a sophisticated exploration of floriculture that transcends mere botanical documentation to illuminate complex cross-cultural intellectual dialogues. Richardson, an English scholar and colonial administrator with extensive experience in India, meticulously examines the intersection of European gardening techniques with traditional Indian botanical knowledge, presenting a nuanced perspective on environmental understanding and aesthetic appreciation. The work significantly contributes to colonial-era ethnobotanical scholarship by detailing flowering plant species, garden design principles, and the emotional and cultural significance of gardens in both Anglo-Indian and indigenous contexts. By carefully documenting horticultural practices, Richardson provides valuable insights into the intellectual and sensory landscapes of mid-19th century India, demonstrating how botanical studies served as critical sites of cultural translation and mutual understanding. The text's appendix of practical instructions offers particularly important documentation of agricultural knowledge transfer, revealing how botanical exchanges functioned as subtle yet powerful mechanisms of cultural negotiation during a complex historical moment. Richardson's scholarly approach simultaneously validates indigenous botanical expertise while presenting a systematized European scientific framework, making the work a critical text for understanding colonial-era intellectual and cultural negotiations through the lens of botanical study and garden design.
+description: 'David Lester Richardson''s "Flowers and Flower-Gardens" emerges as a
+  pivotal scholarly work documenting botanical interactions during the mid-19th century
+  Anglo-Indian colonial period, reflecting the intricate cultural exchanges between
+  European scientific observation and indigenous horticultural practices. Published
+  in 1850 during the British East India Company''s administrative zenith, the text
+  represents a sophisticated exploration of floriculture that transcends mere botanical
+  documentation to illuminate complex cross-cultural intellectual dialogues. Richardson,
+  an English scholar and colonial administrator with extensive experience in India,
+  meticulously examines the intersection of European gardening techniques with traditional
+  Indian botanical knowledge, presenting a nuanced perspective on environmental understanding
+  and aesthetic appreciation. The work significantly contributes to colonial-era ethnobotanical
+  scholarship by detailing flowering plant species, garden design principles, and
+  the emotional and cultural significance of gardens in both Anglo-Indian and indigenous
+  contexts. By carefully documenting horticultural practices, Richardson provides
+  valuable insights into the intellectual and sensory landscapes of mid-19th century
+  India, demonstrating how botanical studies served as critical sites of cultural
+  translation and mutual understanding. The text''s appendix of practical instructions
+  offers particularly important documentation of agricultural knowledge transfer,
+  revealing how botanical exchanges functioned as subtle yet powerful mechanisms of
+  cultural negotiation during a complex historical moment. Richardson''s scholarly
+  approach simultaneously validates indigenous botanical expertise while presenting
+  a systematized European scientific framework, making the work a critical text for
+  understanding colonial-era intellectual and cultural negotiations through the lens
+  of botanical study and garden design.
+
+  '
 collections:
 - poetry-collection
 sources:
-- name: 'Project Gutenberg'
+- name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/12286
-  type: other
-- name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/12286.html.images
   type: other
 references:
 - name: 'Open Library: Flowers and Flower-Gardens'

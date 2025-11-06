@@ -31,9 +31,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/55054
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/55054.html.images
-  type: other
 references:
 - name: 'Wikipedia: The Commerce and Navigation of the Erythræan Sea'
   url: https://en.wikipedia.org/wiki/The_Commerce_and_Navigation_of_the_Erythr%C3%A6an_Sea

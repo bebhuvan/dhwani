@@ -107,9 +107,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/6145
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/6145.html.images
-  type: other
 - name: Internet Archive (Wide-Awake Stories)
   url: https://archive.org/details/steel-temple-1884-wide-awake-stories
   type: other

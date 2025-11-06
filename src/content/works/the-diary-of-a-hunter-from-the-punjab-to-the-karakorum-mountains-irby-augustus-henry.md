@@ -29,9 +29,6 @@ sources:
 - name: Project Gutenberg
   url: https://www.gutenberg.org/ebooks/42674
   type: other
-- name: Project Gutenberg (HTML)
-  url: https://www.gutenberg.org/ebooks/42674.html.images
-  type: other
 - name: Internet Archive (The diary of a hunter from the Punjab to the Karakorum mountains
     [by A.H. Irby].)
   url: https://archive.org/details/diaryahunterfro00irbygoog
