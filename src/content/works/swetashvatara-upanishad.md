@@ -1,5 +1,5 @@
 ---
-title: 'Svetasvatara Upanishad'
+title: Svetasvatara Upanishad
 author:
 - Various Sages
 year: -400
@@ -10,8 +10,30 @@ genre:
 - Philosophy
 - Religious Texts
 - Ancient Wisdom
-description: |
-  The Svetasvatara Upanishad represents a pivotal philosophical text emerging during the late Vedic period's intellectual transformation, approximately 400-200 BCE, when Indian philosophical discourse was transitioning from ritualistic traditions to more contemplative metaphysical exploration. Composed by anonymous Vedic sages likely associated with emerging ascetic and philosophical traditions, this canonical text embodies a sophisticated intellectual synthesis bridging Vedanta, Samkhya, and Yoga philosophical frameworks. Its six chapters comprehensively explore fundamental metaphysical questions regarding cosmic origins, individual consciousness, divine nature, and ultimate reality through a nuanced philosophical lens that integrates monistic and theistic perspectives. The text's distinctive contribution lies in its innovative theological articulation, presenting Rudra-Shiva as a personalized manifestation of impersonal Brahman—a conceptual breakthrough that profoundly influenced subsequent Shaivite and Vedantic philosophical developments. By introducing devotional elements (bhakti) within a rigorous philosophical discourse, the Svetasvatara Upanishad anticipates later theological movements and provides critical insights into the evolution of Indian spiritual thought. Its systematic examination of causation, divine agency, and individual-cosmic relationships represents a sophisticated philosophical meditation that transcends simple religious categorization. The work's intellectual complexity and theological nuance make it a crucial document for understanding the dynamic intellectual exchanges characterizing the Axial Age in Indian philosophical traditions, offering scholars and philosophers a remarkable window into the sophisticated metaphysical inquiries of classical Indian intellectual culture.
+description: 'The Svetasvatara Upanishad represents a pivotal philosophical text emerging
+  during the late Vedic period''s intellectual transformation, approximately 400-200
+  BCE, when Indian philosophical discourse was transitioning from ritualistic traditions
+  to more contemplative metaphysical exploration. Composed by anonymous Vedic sages
+  likely associated with emerging ascetic and philosophical traditions, this canonical
+  text embodies a sophisticated intellectual synthesis bridging Vedanta, Samkhya,
+  and Yoga philosophical frameworks. Its six chapters comprehensively explore fundamental
+  metaphysical questions regarding cosmic origins, individual consciousness, divine
+  nature, and ultimate reality through a nuanced philosophical lens that integrates
+  monistic and theistic perspectives. The text''s distinctive contribution lies in
+  its innovative theological articulation, presenting Rudra-Shiva as a personalized
+  manifestation of impersonal Brahman—a conceptual breakthrough that profoundly influenced
+  subsequent Shaivite and Vedantic philosophical developments. By introducing devotional
+  elements (bhakti) within a rigorous philosophical discourse, the Svetasvatara Upanishad
+  anticipates later theological movements and provides critical insights into the
+  evolution of Indian spiritual thought. Its systematic examination of causation,
+  divine agency, and individual-cosmic relationships represents a sophisticated philosophical
+  meditation that transcends simple religious categorization. The work''s intellectual
+  complexity and theological nuance make it a crucial document for understanding the
+  dynamic intellectual exchanges characterizing the Axial Age in Indian philosophical
+  traditions, offering scholars and philosophers a remarkable window into the sophisticated
+  metaphysical inquiries of classical Indian intellectual culture.
+
+  '
 collections:
 - philosophy
 - religious-texts
@@ -19,10 +41,10 @@ collections:
 - spiritual-texts
 - classical-literature
 sources:
-- name: 'Internet Archive (Max Müller translation)'
+- name: Internet Archive (Max Müller translation)
   url: https://archive.org/details/upanishads02ml
   type: other
-- name: 'Sacred Books of the East Vol. 15'
+- name: Sacred Books of the East Vol. 15
   url: https://www.sacred-texts.com/hin/sbe15/index.htm
   type: other
 references:
@@ -38,6 +60,9 @@ references:
 - name: 'Open Library: Svetasvatara Upanishad year'
   url: https://openlibrary.org/search?q=Svetasvatara+Upanishad+year+-400+language+Sanskrit+Various+Sages
   type: other
+- name: 'Wikipedia: Upanishads'
+  url: https://en.wikipedia.org/wiki/Upanishads
+  type: wikipedia
 featured: true
 publishDate: 2025-11-02
 ---

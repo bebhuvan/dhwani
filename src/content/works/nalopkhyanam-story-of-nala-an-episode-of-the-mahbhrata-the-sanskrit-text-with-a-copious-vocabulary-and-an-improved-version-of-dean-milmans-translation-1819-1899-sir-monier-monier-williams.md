@@ -11,18 +11,43 @@ genre:
 - Epic Poetry
 - Sanskrit Literature
 - Linguistics
-description: |
-  Nalopākhyānam represents a seminal scholarly edition of one of the Mahābhārata's most poignant narrative cycles, capturing the archetypal Sanskrit romance of King Nala and Queen Damayanti. Published in 1879, this work emerges from the late Victorian period of Orientalist scholarship, embodying the complex intellectual exchanges between colonial British academia and traditional Indian textual scholarship. Monier Monier-Williams, as the second Boden Professor of Sanskrit at Oxford University, produced a meticulously researched edition that not only preserved the original Devanagari text but also provided comprehensive linguistic annotations and a nuanced English translation. The work illuminates the narrative's profound philosophical and emotional dimensions, exploring themes of conjugal devotion, personal dharma, and cosmic fate through the mythic journey of its protagonists. By presenting a sophisticated philological analysis, Monier-Williams contributed significantly to Western understanding of Sanskrit epic traditions, demonstrating the intricate literary and philosophical sophistication of classical Indian textual culture. The Nala episode, drawn from the Mahābhārata's expansive narrative framework, serves as a microcosm of Hindu philosophical and ethical concepts, illustrating human resilience, divine intervention, and the intricate interplay between individual agency and cosmic determinism. This scholarly edition became a critical resource for Indologists, linguists, and comparative mythologists, facilitating deeper cross-cultural textual comprehension and representing a landmark moment in the academic interpretation of Indian literary heritage. Its meticulous approach to translation and annotation established methodological standards for subsequent Sanskrit scholarship in Western academic contexts.
+description: 'Nalopākhyānam represents a seminal scholarly edition of one of the Mahābhārata''s
+  most poignant narrative cycles, capturing the archetypal Sanskrit romance of King
+  Nala and Queen Damayanti. Published in 1879, this work emerges from the late Victorian
+  period of Orientalist scholarship, embodying the complex intellectual exchanges
+  between colonial British academia and traditional Indian textual scholarship. Monier
+  Monier-Williams, as the second Boden Professor of Sanskrit at Oxford University,
+  produced a meticulously researched edition that not only preserved the original
+  Devanagari text but also provided comprehensive linguistic annotations and a nuanced
+  English translation. The work illuminates the narrative''s profound philosophical
+  and emotional dimensions, exploring themes of conjugal devotion, personal dharma,
+  and cosmic fate through the mythic journey of its protagonists. By presenting a
+  sophisticated philological analysis, Monier-Williams contributed significantly to
+  Western understanding of Sanskrit epic traditions, demonstrating the intricate literary
+  and philosophical sophistication of classical Indian textual culture. The Nala episode,
+  drawn from the Mahābhārata''s expansive narrative framework, serves as a microcosm
+  of Hindu philosophical and ethical concepts, illustrating human resilience, divine
+  intervention, and the intricate interplay between individual agency and cosmic determinism.
+  This scholarly edition became a critical resource for Indologists, linguists, and
+  comparative mythologists, facilitating deeper cross-cultural textual comprehension
+  and representing a landmark moment in the academic interpretation of Indian literary
+  heritage. Its meticulous approach to translation and annotation established methodological
+  standards for subsequent Sanskrit scholarship in Western academic contexts.
+
+  '
 collections:
 - classical-literature
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/nalopkhyanamst00moniuoft
   type: other
 references:
 - name: 'Open Library: Nalopakhyanam Story of Nala'
   url: https://openlibrary.org/search?q=Nalopakhyanam+Nala+Monier+Williams
   type: other
+- name: 'Wikipedia: Monier Monier-Williams'
+  url: https://en.wikipedia.org/wiki/Monier_Monier-Williams
+  type: wikipedia
 featured: true
 publishDate: 2025-10-02
 ---

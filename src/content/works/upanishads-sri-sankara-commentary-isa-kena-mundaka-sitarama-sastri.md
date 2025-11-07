@@ -1,5 +1,5 @@
 ---
-title: "Upanishads and Sri Sankara's Commentary: Isa, Kena, and Mundaka"
+title: 'Upanishads and Sri Sankara''s Commentary: Isa, Kena, and Mundaka'
 author:
 - Adi Shankara
 - S. Sitarama Sastri
@@ -11,23 +11,37 @@ genre:
 - Philosophy
 - Religious Studies
 - Ancient Literature
-description: |
-  S. Sitarama Sastri's scholarly presentation of three foundational Upanishads with Adi Shankara's classical commentary emerges during a critical period of Sanskrit scholarship and intellectual revival in late 19th-century colonial India. Composed during the height of British colonial rule, this bilingual work represents a pivotal moment in preserving and reinterpreting classical Hindu philosophical texts at a time when traditional knowledge systems were under significant cultural and intellectual pressure. Adi Shankara, a seminal 8th-century philosopher who systematized Advaita Vedanta, is here reintroduced through Sastri's meticulous scholarship, making the profound philosophical insights of the Isa, Kena, and Mundaka Upanishads accessible through traditional Advaita Vedanta interpretation, bridging ancient wisdom with modern scholarship.
+description: 'S. Sitarama Sastri''s scholarly presentation of three foundational Upanishads
+  with Adi Shankara''s classical commentary emerges during a critical period of Sanskrit
+  scholarship and intellectual revival in late 19th-century colonial India. Composed
+  during the height of British colonial rule, this bilingual work represents a pivotal
+  moment in preserving and reinterpreting classical Hindu philosophical texts at a
+  time when traditional knowledge systems were under significant cultural and intellectual
+  pressure. Adi Shankara, a seminal 8th-century philosopher who systematized Advaita
+  Vedanta, is here reintroduced through Sastri''s meticulous scholarship, making the
+  profound philosophical insights of the Isa, Kena, and Mundaka Upanishads accessible
+  through traditional Advaita Vedanta interpretation, bridging ancient wisdom with
+  modern scholarship.
+
+  '
 collections:
 - ancient-wisdom
 - spiritual-texts
 - classical-literature
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/upanishadssrisan00sita
   type: other
-- name: 'Digital Library of India'
+- name: Digital Library of India
   url: https://archive.org/details/in.ernet.dli.2015.283832
   type: other
 references:
-- name: "Open Library"
+- name: Open Library
   url: https://openlibrary.org/search?q=Upanishads&mode=everything
   type: other
+- name: 'Wikipedia: Upanishads'
+  url: https://en.wikipedia.org/wiki/Upanishads
+  type: wikipedia
 featured: false
 publishDate: 2025-09-28
 ---

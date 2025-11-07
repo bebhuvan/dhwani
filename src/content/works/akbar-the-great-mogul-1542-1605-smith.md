@@ -1,5 +1,5 @@
 ---
-title: 'Akbar the Great Mogul, 1542-1605'
+title: Akbar the Great Mogul, 1542-1605
 author:
 - Vincent Arthur Smith
 year: 1917
@@ -8,19 +8,44 @@ language:
 genre:
 - Biography
 - History
-description: |
-  Vincent Arthur Smith's "Akbar the Great Mogul, 1542-1605" represents a seminal scholarly examination of one of the most transformative figures in Mughal imperial history, offering a comprehensive biographical analysis of Emperor Akbar during the zenith of the Mughal Empire's cultural and political expansion. Published in 1917, the work emerges from Smith's extensive archival research and deep engagement with Persian and contemporary historical sources, providing a nuanced portrait of Akbar's complex reign from 1556 to 1605. As a British imperial historian and archaeologist with significant experience in Indian historical studies, Smith critically evaluates Akbar's multifaceted achievements, exploring his administrative innovations, religious tolerance, and imperial strategies that fundamentally reshaped the sociopolitical landscape of the Indian subcontinent. The biography meticulously examines Akbar's administrative reforms, including his sophisticated revenue systems, military reorganization, and pioneering attempts at religious syncretism through his philosophical construct of Din-i-Ilahi. Smith balances scholarly objectivity with analytical depth, critically assessing Akbar's autocratic tendencies while acknowledging his remarkable diplomatic and cultural achievements. The work provides significant insights into Mughal governance, imperial expansion, and the intricate interactions between political power and cultural synthesis. By contextualizing Akbar within the broader dynamics of sixteenth-century South Asian politics and intellectual currents, Smith's biography remains a foundational text for understanding the architectural, administrative, and philosophical foundations of the Mughal imperial system, offering scholars and historians a rigorous, comprehensive exploration of one of India's most consequential rulers.
+description: 'Vincent Arthur Smith''s "Akbar the Great Mogul, 1542-1605" represents
+  a seminal scholarly examination of one of the most transformative figures in Mughal
+  imperial history, offering a comprehensive biographical analysis of Emperor Akbar
+  during the zenith of the Mughal Empire''s cultural and political expansion. Published
+  in 1917, the work emerges from Smith''s extensive archival research and deep engagement
+  with Persian and contemporary historical sources, providing a nuanced portrait of
+  Akbar''s complex reign from 1556 to 1605. As a British imperial historian and archaeologist
+  with significant experience in Indian historical studies, Smith critically evaluates
+  Akbar''s multifaceted achievements, exploring his administrative innovations, religious
+  tolerance, and imperial strategies that fundamentally reshaped the sociopolitical
+  landscape of the Indian subcontinent. The biography meticulously examines Akbar''s
+  administrative reforms, including his sophisticated revenue systems, military reorganization,
+  and pioneering attempts at religious syncretism through his philosophical construct
+  of Din-i-Ilahi. Smith balances scholarly objectivity with analytical depth, critically
+  assessing Akbar''s autocratic tendencies while acknowledging his remarkable diplomatic
+  and cultural achievements. The work provides significant insights into Mughal governance,
+  imperial expansion, and the intricate interactions between political power and cultural
+  synthesis. By contextualizing Akbar within the broader dynamics of sixteenth-century
+  South Asian politics and intellectual currents, Smith''s biography remains a foundational
+  text for understanding the architectural, administrative, and philosophical foundations
+  of the Mughal imperial system, offering scholars and historians a rigorous, comprehensive
+  exploration of one of India''s most consequential rulers.
+
+  '
 collections:
 - modern-literature
 - spiritual-texts
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/akbargreatmogul100smituoft
   type: other
 references:
 - name: 'Open Library: Akbar the Great Mogul'
   url: https://openlibrary.org/search?q=Akbar+Great+Mogul+Vincent+Arthur+Smith
   type: other
+- name: 'Wikipedia: Mughal Emperor Akbar'
+  url: https://en.wikipedia.org/wiki/Akbar
+  type: wikipedia
 featured: true
 publishDate: 2025-10-02
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'A higher Sanskrit grammar, for the use of schools and colleges'
+title: A higher Sanskrit grammar, for the use of schools and colleges
 author:
 - Kale, M. R. (Moreshvar Ramchandra)
 year: 1961
@@ -7,22 +7,49 @@ language:
 - English
 genre:
 - Linguistics
-description: |
-  Moreshvar Ramchandra Kale's "A Higher Sanskrit Grammar" represents a significant scholarly contribution to Sanskrit pedagogical methodology in early twentieth-century India. Published initially in the early 1900s and continuously revised, the work provides a systematic grammatical framework rooted in the Paninian linguistic tradition while adapting to modern classroom instructional needs. Following Panini's sutras as interpreted by Bhattoji Diksita, Kale translates technical grammatical rules into accessible English, preserving original Sanskrit terminology in footnotes to facilitate advanced scholarly study.
-  
-  The grammar's structural approach demonstrates methodological precision: it offers comprehensive treatment of phonological combinations (sandhi), declensions, and compounds (samasa) prominent in classical Sanskrit literature. Notably, it systematically presents feminine base formations, arranges secondary affixes (taddhita) alphabetically for efficient reference, and provides detailed conjugation chapters with extensive exemplification. Kale's methodology bridges traditional grammatical commentary with modern organizational principles, rendering Paninian grammatical analysis comprehensible to English-educated students while maintaining rigorous academic standards.
-  
-  Beyond grammatical instruction, Kale established his scholarly reputation through critical editions of significant Sanskrit literary works by Kalidasa, including "Abhijnana Shakuntala," "Raghuvamsha," and "Kumarasambhava." These editions incorporated traditional Sanskrit commentaries, English translations, and extensive scholarly annotations, thereby facilitating broader academic engagement with classical Sanskrit literature. His grammatical work became foundational for Sanskrit pedagogy across Indian universities, with continued publication by Motilal Banarsidass demonstrating its enduring scholarly relevance.
+description: 'Moreshvar Ramchandra Kale''s "A Higher Sanskrit Grammar" represents
+  a significant scholarly contribution to Sanskrit pedagogical methodology in early
+  twentieth-century India. Published initially in the early 1900s and continuously
+  revised, the work provides a systematic grammatical framework rooted in the Paninian
+  linguistic tradition while adapting to modern classroom instructional needs. Following
+  Panini''s sutras as interpreted by Bhattoji Diksita, Kale translates technical grammatical
+  rules into accessible English, preserving original Sanskrit terminology in footnotes
+  to facilitate advanced scholarly study.
+
+
+  The grammar''s structural approach demonstrates methodological precision: it offers
+  comprehensive treatment of phonological combinations (sandhi), declensions, and
+  compounds (samasa) prominent in classical Sanskrit literature. Notably, it systematically
+  presents feminine base formations, arranges secondary affixes (taddhita) alphabetically
+  for efficient reference, and provides detailed conjugation chapters with extensive
+  exemplification. Kale''s methodology bridges traditional grammatical commentary
+  with modern organizational principles, rendering Paninian grammatical analysis comprehensible
+  to English-educated students while maintaining rigorous academic standards.
+
+
+  Beyond grammatical instruction, Kale established his scholarly reputation through
+  critical editions of significant Sanskrit literary works by Kalidasa, including
+  "Abhijnana Shakuntala," "Raghuvamsha," and "Kumarasambhava." These editions incorporated
+  traditional Sanskrit commentaries, English translations, and extensive scholarly
+  annotations, thereby facilitating broader academic engagement with classical Sanskrit
+  literature. His grammatical work became foundational for Sanskrit pedagogy across
+  Indian universities, with continued publication by Motilal Banarsidass demonstrating
+  its enduring scholarly relevance.
+
+  '
 collections:
 - linguistic-works
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/highersanskritgr00kaleuoft
   type: archive
 references:
 - name: 'Open Library: A higher Sanskrit grammar,'
   url: https://openlibrary.org/search?q=A+higher+Sanskrit+grammar+for+the+Kale+M+R+Moreshvar+Ramchandra
   type: other
+- name: 'Wikipedia: Sanskrit grammar'
+  url: https://en.wikipedia.org/wiki/Sanskrit_grammar
+  type: wikipedia
 featured: false
 publishDate: 2025-01-22
 ---

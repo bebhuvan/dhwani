@@ -1,5 +1,5 @@
 ---
-title: 'Islam in India, or The Qānūn-i Islām'
+title: Islam in India, or The Qānūn-i Islām
 author:
 - Ja'far Sharīf
 - tr. G.A. Herklots
@@ -11,18 +11,43 @@ genre:
 - Ethnography
 - Religious Studies
 - Cultural Studies
-description: |
-  The *Qānūn-i Islām* ('The Customs of Islam') is a seminal ethnographic text produced during the late Mughal and early colonial period of India, offering a comprehensive and nuanced exploration of Muslim religious and social practices in the Indian subcontinent during the early 19th century. Authored by Ja'far Sharīf, a Muslim scholar from the Deccan region, and translated by British physician G.A. Herklots, the work represents a remarkable insider's perspective on Islamic cultural life, bridging indigenous knowledge and colonial-era scholarly documentation. The text meticulously details diverse aspects of Muslim social and religious experience, from intricate birth and marriage rituals to complex funeral practices, while simultaneously revealing the syncretic nature of Indian Islamic traditions that had developed through centuries of cultural interaction. Sharīf's work provides critical insights into the lived religious experiences of Muslims across different social strata, documenting practices that blended Islamic prescriptions with local cultural traditions, thus challenging monolithic representations of Islamic practice. The text is particularly valuable for its detailed descriptions of regional variations in religious observance, ceremonial practices, and social customs, offering scholars of Indian cultural history a rare, contemporaneous account of religious life during a period of significant social transformation. By presenting an intimate, nuanced view of Muslim community life, the *Qānūn-i Islām* serves as an essential anthropological and historical resource, illuminating the complex cultural dynamics of pre-colonial and early colonial Indian society and demonstrating the rich, adaptive nature of religious practice in a multicultural context.
+description: 'The *Qānūn-i Islām* (''The Customs of Islam'') is a seminal ethnographic
+  text produced during the late Mughal and early colonial period of India, offering
+  a comprehensive and nuanced exploration of Muslim religious and social practices
+  in the Indian subcontinent during the early 19th century. Authored by Ja''far Sharīf,
+  a Muslim scholar from the Deccan region, and translated by British physician G.A.
+  Herklots, the work represents a remarkable insider''s perspective on Islamic cultural
+  life, bridging indigenous knowledge and colonial-era scholarly documentation. The
+  text meticulously details diverse aspects of Muslim social and religious experience,
+  from intricate birth and marriage rituals to complex funeral practices, while simultaneously
+  revealing the syncretic nature of Indian Islamic traditions that had developed through
+  centuries of cultural interaction. Sharīf''s work provides critical insights into
+  the lived religious experiences of Muslims across different social strata, documenting
+  practices that blended Islamic prescriptions with local cultural traditions, thus
+  challenging monolithic representations of Islamic practice. The text is particularly
+  valuable for its detailed descriptions of regional variations in religious observance,
+  ceremonial practices, and social customs, offering scholars of Indian cultural history
+  a rare, contemporaneous account of religious life during a period of significant
+  social transformation. By presenting an intimate, nuanced view of Muslim community
+  life, the *Qānūn-i Islām* serves as an essential anthropological and historical
+  resource, illuminating the complex cultural dynamics of pre-colonial and early colonial
+  Indian society and demonstrating the rich, adaptive nature of religious practice
+  in a multicultural context.
+
+  '
 collections:
 - modern-literature
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/islaminindiaorqa00sharuoft
   type: other
 references:
-- name: 'Open Library'
+- name: Open Library
   url: https://openlibrary.org/search?q=Qanun-i-Islam+Jafar+Sharif&mode=everything
   type: other
+- name: 'Wikipedia: Islam in India'
+  url: https://en.wikipedia.org/wiki/Islam_in_India
+  type: wikipedia
 featured: true
 publishDate: 2025-10-21
 ---

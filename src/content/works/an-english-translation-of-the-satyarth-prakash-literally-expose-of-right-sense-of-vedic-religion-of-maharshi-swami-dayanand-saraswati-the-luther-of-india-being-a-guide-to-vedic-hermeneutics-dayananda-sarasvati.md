@@ -10,18 +10,45 @@ genre:
 - Religious Philosophy
 - Social Reform
 - Vedic Studies
-description: |
-  Satyarth Prakash represents a pivotal intellectual intervention in late 19th-century Indian social and religious discourse, emerging during a transformative period of colonial encounter and cultural introspection. Composed by Swami Dayananda Saraswati, a pioneering reformist and founder of the Arya Samaj movement, the text offers a comprehensive critique of contemporary religious practices while advocating for a rigorous reinterpretation of Vedic principles. Situated within the complex intellectual landscape of British-controlled India, the work systematically deconstructs what Dayananda perceived as doctrinal corruptions in Hinduism, challenging prevalent ritualistic and caste-based interpretations by proposing a radical hermeneutical approach to scriptural understanding. Dayananda, born in Gujarat and trained in traditional Sanskrit learning, developed a sophisticated philosophical framework that rejected idol worship, criticized social hierarchies, and championed rational engagement with spiritual texts. The work's significance extends beyond religious philosophy, functioning as a critical text in the broader nationalist renaissance that sought to reclaim and redefine Indian cultural identity against colonial narratives. By meticulously analyzing various religious traditions—including Hinduism, Islam, Christianity, and contemporary sectarian movements—Satyarth Prakash provides a sophisticated comparative theological critique that was revolutionary for its time. Its methodology of textual interpretation, emphasizing rational analysis and contextual understanding, influenced subsequent generations of social reformers and intellectuals in India. The text's enduring importance lies in its articulation of a modernizing vision of Hinduism that simultaneously respected traditional epistemologies while challenging regressive social practices, making it a foundational document in India's intellectual and cultural reimagination during the late colonial period.
+description: 'Satyarth Prakash represents a pivotal intellectual intervention in late
+  19th-century Indian social and religious discourse, emerging during a transformative
+  period of colonial encounter and cultural introspection. Composed by Swami Dayananda
+  Saraswati, a pioneering reformist and founder of the Arya Samaj movement, the text
+  offers a comprehensive critique of contemporary religious practices while advocating
+  for a rigorous reinterpretation of Vedic principles. Situated within the complex
+  intellectual landscape of British-controlled India, the work systematically deconstructs
+  what Dayananda perceived as doctrinal corruptions in Hinduism, challenging prevalent
+  ritualistic and caste-based interpretations by proposing a radical hermeneutical
+  approach to scriptural understanding. Dayananda, born in Gujarat and trained in
+  traditional Sanskrit learning, developed a sophisticated philosophical framework
+  that rejected idol worship, criticized social hierarchies, and championed rational
+  engagement with spiritual texts. The work''s significance extends beyond religious
+  philosophy, functioning as a critical text in the broader nationalist renaissance
+  that sought to reclaim and redefine Indian cultural identity against colonial narratives.
+  By meticulously analyzing various religious traditions—including Hinduism, Islam,
+  Christianity, and contemporary sectarian movements—Satyarth Prakash provides a sophisticated
+  comparative theological critique that was revolutionary for its time. Its methodology
+  of textual interpretation, emphasizing rational analysis and contextual understanding,
+  influenced subsequent generations of social reformers and intellectuals in India.
+  The text''s enduring importance lies in its articulation of a modernizing vision
+  of Hinduism that simultaneously respected traditional epistemologies while challenging
+  regressive social practices, making it a foundational document in India''s intellectual
+  and cultural reimagination during the late colonial period.
+
+  '
 collections:
 - modern-literature
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/satyarthprakashl00dayauoft
   type: other
 references:
 - name: 'Open Library: Satyarth Prakash'
   url: https://openlibrary.org/search?q=Satyarth+Prakash+Dayananda+Saraswati
   type: other
+- name: 'Wikipedia: Satyarth Prakash'
+  url: https://en.wikipedia.org/wiki/Satyarth_Prakash
+  type: wikipedia
 featured: true
 publishDate: 2025-10-02
 ---

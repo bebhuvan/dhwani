@@ -1,5 +1,5 @@
 ---
-title: 'Sarala Mahābhārata (The Odia Mahabharata)'
+title: Sarala Mahābhārata (The Odia Mahabharata)
 author:
 - Sarala Dasa
 year: 1435
@@ -9,23 +9,45 @@ genre:
 - Epic Poetry
 - Classical Literature
 - Religious Literature
-description: |
-  Sarala Mahābhārata represents a pivotal medieval Odia literary achievement, composed during the transformative period of the early Gajapati Kingdom in 15th-century Odisha. Created by Sarala Dasa, likely a non-Brahmin poet from a rural background, this groundbreaking vernacular rendering of the Sanskrit Mahabharata fundamentally reimagines the epic through distinctive regional cultural perspectives. Unlike strictly literal translations, Sarala Dasa's work integrates extensive local folklore, indigenous narrative techniques, and profound sociocultural reinterpretations that reflect the lived experiences of Odia communities. The text significantly democratizes the classical Sanskrit narrative by rendering it accessible through vernacular language, incorporating local dialects, oral traditions, and contextual adaptations that resonated with non-elite audiences. Sarala Dasa's radical approach transforms the philosophical-mythological epic into a more experiential, culturally embedded narrative that explores themes of dharma, social justice, human complexity, and regional identity. The work demonstrates remarkable literary innovation by introducing numerous localized episodes, reinterpreting character motivations, and embedding indigenous religious and cultural sensibilities within the classical framework. Critically, this text played a crucial role in establishing Odia as a sophisticated literary language capable of sophisticated epic composition, simultaneously preserving regional cultural memory and challenging existing Sanskrit-centric literary hierarchies. As a pioneering vernacular epic, Sarala Mahābhārata represents a significant milestone in medieval Indian literary history, exemplifying the dynamic, syncretic nature of regional literary traditions and their capacity for creative reinterpretation of classical narratives.
+description: 'Sarala Mahābhārata represents a pivotal medieval Odia literary achievement,
+  composed during the transformative period of the early Gajapati Kingdom in 15th-century
+  Odisha. Created by Sarala Dasa, likely a non-Brahmin poet from a rural background,
+  this groundbreaking vernacular rendering of the Sanskrit Mahabharata fundamentally
+  reimagines the epic through distinctive regional cultural perspectives. Unlike strictly
+  literal translations, Sarala Dasa''s work integrates extensive local folklore, indigenous
+  narrative techniques, and profound sociocultural reinterpretations that reflect
+  the lived experiences of Odia communities. The text significantly democratizes the
+  classical Sanskrit narrative by rendering it accessible through vernacular language,
+  incorporating local dialects, oral traditions, and contextual adaptations that resonated
+  with non-elite audiences. Sarala Dasa''s radical approach transforms the philosophical-mythological
+  epic into a more experiential, culturally embedded narrative that explores themes
+  of dharma, social justice, human complexity, and regional identity. The work demonstrates
+  remarkable literary innovation by introducing numerous localized episodes, reinterpreting
+  character motivations, and embedding indigenous religious and cultural sensibilities
+  within the classical framework. Critically, this text played a crucial role in establishing
+  Odia as a sophisticated literary language capable of sophisticated epic composition,
+  simultaneously preserving regional cultural memory and challenging existing Sanskrit-centric
+  literary hierarchies. As a pioneering vernacular epic, Sarala Mahābhārata represents
+  a significant milestone in medieval Indian literary history, exemplifying the dynamic,
+  syncretic nature of regional literary traditions and their capacity for creative
+  reinterpretation of classical narratives.
+
+  '
 collections:
 - classical-literature
 - epic-poetry
 - regional-literature
 sources:
-- name: 'Internet Archive (Complete Edition)'
+- name: Internet Archive (Complete Edition)
   url: https://archive.org/details/in.ernet.dli.2015.463066
   type: other
-- name: 'Internet Archive (Odia Text)'
+- name: Internet Archive (Odia Text)
   url: https://archive.org/details/sarala-mahabharata-odia
   type: other
-- name: 'Internet Archive (DLI Collection)'
+- name: Internet Archive (DLI Collection)
   url: https://archive.org/details/dli.ernet.519944
   type: other
-- name: 'Internet Archive (Scholarly Edition)'
+- name: Internet Archive (Scholarly Edition)
   url: https://archive.org/details/in.ernet.dli.2015.98632
   type: other
 references:
@@ -35,12 +57,15 @@ references:
 - name: 'Wikipedia: Odia literature'
   url: https://en.wikipedia.org/wiki/Odia_literature
   type: wikipedia
-- name: 'Odia Wikisource'
+- name: Odia Wikisource
   url: https://or.wikisource.org/wiki/ସରଳା_ମହାଭାରତ
   type: wikisource
-- name: 'OpenLibrary'
+- name: OpenLibrary
   url: https://openlibrary.org/search?q=Sarala+Mahabharata+Odia
   type: other
+- name: 'Wikipedia: The Mahabharata'
+  url: https://en.wikipedia.org/wiki/Mahabharata
+  type: wikipedia
 featured: false
 publishDate: 2025-01-25
 ---

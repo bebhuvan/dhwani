@@ -1,5 +1,5 @@
 ---
-title: 'Āndhra Mahābhāratamu (The Telugu Mahabharata)'
+title: Āndhra Mahābhāratamu (The Telugu Mahabharata)
 author:
 - Nannaya Bhattaraka
 year: 1025
@@ -10,27 +10,51 @@ genre:
 - Epic Poetry
 - Classical Literature
 - Religious Literature
-description: |
-  Āndhra Mahābhāratamu represents a seminal watershed in Telugu literary history, composed during the early 11th century under the Eastern Chalukya dynasty's cultural patronage. Authored by Nannaya Bhattaraka, court poet to King Rajaraja Narendra, this pioneering text represents the first sustained literary translation and interpretation of the Sanskrit Mahabharata into the Telugu language. Employing the sophisticated champu style—which ingeniously interweaves metrical verse (padya) and rhythmic prose (gadya)—Nannaya transformed the epic's classical Sanskrit narrative into an accessible, aesthetically refined Telugu linguistic framework.
-  
-  Beyond its literal translation, the work fundamentally established the grammatical and stylistic foundations of classical Telugu literature, distinguishing the written (grandhika) form from contemporary spoken dialects. Nannaya's meticulous linguistic engineering simultaneously standardized Telugu as a sophisticated literary language and created a template for subsequent generations of poets and scholars. His translation was not merely linguistic transposition but a nuanced cultural interpretation, embedding philosophical, ethical, and social perspectives from the original Sanskrit text into the Telugu sociocultural context.
-  
-  The text's significance extends beyond literary innovation, serving as a critical bridge between Sanskrit brahmanical textual traditions and emerging regional vernacular expressions. By rendering the Mahabharata's complex philosophical and narrative dimensions into Telugu, Nannaya facilitated broader cultural transmission and democratized access to this foundational Hindu epic. Consequently, he earned the honorific "Adi Kavi" (First Poet), marking a transformative moment in South Indian literary and intellectual history that would influence regional linguistic and cultural developments for centuries.
+description: 'Āndhra Mahābhāratamu represents a seminal watershed in Telugu literary
+  history, composed during the early 11th century under the Eastern Chalukya dynasty''s
+  cultural patronage. Authored by Nannaya Bhattaraka, court poet to King Rajaraja
+  Narendra, this pioneering text represents the first sustained literary translation
+  and interpretation of the Sanskrit Mahabharata into the Telugu language. Employing
+  the sophisticated champu style—which ingeniously interweaves metrical verse (padya)
+  and rhythmic prose (gadya)—Nannaya transformed the epic''s classical Sanskrit narrative
+  into an accessible, aesthetically refined Telugu linguistic framework.
+
+
+  Beyond its literal translation, the work fundamentally established the grammatical
+  and stylistic foundations of classical Telugu literature, distinguishing the written
+  (grandhika) form from contemporary spoken dialects. Nannaya''s meticulous linguistic
+  engineering simultaneously standardized Telugu as a sophisticated literary language
+  and created a template for subsequent generations of poets and scholars. His translation
+  was not merely linguistic transposition but a nuanced cultural interpretation, embedding
+  philosophical, ethical, and social perspectives from the original Sanskrit text
+  into the Telugu sociocultural context.
+
+
+  The text''s significance extends beyond literary innovation, serving as a critical
+  bridge between Sanskrit brahmanical textual traditions and emerging regional vernacular
+  expressions. By rendering the Mahabharata''s complex philosophical and narrative
+  dimensions into Telugu, Nannaya facilitated broader cultural transmission and democratized
+  access to this foundational Hindu epic. Consequently, he earned the honorific "Adi
+  Kavi" (First Poet), marking a transformative moment in South Indian literary and
+  intellectual history that would influence regional linguistic and cultural developments
+  for centuries.
+
+  '
 collections:
 - classical-literature
 - epic-poetry
 - regional-literature
 sources:
-- name: 'Internet Archive (Nannaya Bhagavatam)'
+- name: Internet Archive (Nannaya Bhagavatam)
   url: https://archive.org/details/in.ernet.dli.2015.458907
   type: other
-- name: 'Internet Archive (Adi Parvamu Edition)'
+- name: Internet Archive (Adi Parvamu Edition)
   url: https://archive.org/details/andhramahabarath025871mbp
   type: other
-- name: 'Internet Archive (DLI Collection)'
+- name: Internet Archive (DLI Collection)
   url: https://archive.org/details/in.ernet.dli.2015.35265
   type: other
-- name: 'Internet Archive (Scholarly Edition)'
+- name: Internet Archive (Scholarly Edition)
   url: https://archive.org/details/dli.ministry.19231
   type: other
 references:
@@ -43,9 +67,12 @@ references:
 - name: 'Wikipedia: Telugu literature'
   url: https://en.wikipedia.org/wiki/Telugu_literature
   type: wikipedia
-- name: 'OpenLibrary'
+- name: OpenLibrary
   url: https://openlibrary.org/search?q=Nannaya+Mahabharatam+Telugu
   type: other
+- name: 'Wikipedia: The Mahabharata'
+  url: https://en.wikipedia.org/wiki/Mahabharata
+  type: wikipedia
 featured: false
 publishDate: 2025-01-25
 ---

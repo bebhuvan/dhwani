@@ -1,5 +1,5 @@
 ---
-title: 'Kena Upanishad'
+title: Kena Upanishad
 author:
 - Various Sages
 year: -700
@@ -10,8 +10,29 @@ genre:
 - Philosophy
 - Religious Texts
 - Ancient Wisdom
-description: |
-  During the transformative Vedic period (circa 1500-500 BCE), the Kena Upanishad emerged as a seminal philosophical text within the Sama Veda tradition, representing a critical transitional moment in ancient Indian intellectual history. Composed by anonymous Vedic sages around 700-600 BCE, the text reflects the profound philosophical shift from ritualistic Brahmanism toward more abstract metaphysical inquiry, embodying the emerging Vedantic school's sophisticated epistemological explorations. The text's four concise sections ingeniously probe the nature of ultimate reality (Brahman) through intricate philosophical dialogue and allegorical narrative, challenging conventional understanding of consciousness and perception. By asserting that Brahman transcends rational comprehension yet remains the fundamental source of all cognitive faculties—described as the "ear of the ear, mind of the mind"—the Upanishad articulates a revolutionary conception of divine consciousness that penetrates and animates all existence. Its significance extends beyond theological speculation, representing a pivotal contribution to Indian philosophical discourse that influenced subsequent schools of Vedanta, Yoga, and mystical thought. The work's nuanced argument that ultimate reality cannot be instrumentally known but can be experienced through profound spiritual insight exemplifies the sophisticated intellectual traditions of ancient India. By challenging materialist interpretations and emphasizing consciousness as a transcendent principle, the Kena Upanishad offers a sophisticated philosophical framework that continues to inspire theological, metaphysical, and contemplative traditions in Indian intellectual and spiritual heritage.
+description: 'During the transformative Vedic period (circa 1500-500 BCE), the Kena
+  Upanishad emerged as a seminal philosophical text within the Sama Veda tradition,
+  representing a critical transitional moment in ancient Indian intellectual history.
+  Composed by anonymous Vedic sages around 700-600 BCE, the text reflects the profound
+  philosophical shift from ritualistic Brahmanism toward more abstract metaphysical
+  inquiry, embodying the emerging Vedantic school''s sophisticated epistemological
+  explorations. The text''s four concise sections ingeniously probe the nature of
+  ultimate reality (Brahman) through intricate philosophical dialogue and allegorical
+  narrative, challenging conventional understanding of consciousness and perception.
+  By asserting that Brahman transcends rational comprehension yet remains the fundamental
+  source of all cognitive faculties—described as the "ear of the ear, mind of the
+  mind"—the Upanishad articulates a revolutionary conception of divine consciousness
+  that penetrates and animates all existence. Its significance extends beyond theological
+  speculation, representing a pivotal contribution to Indian philosophical discourse
+  that influenced subsequent schools of Vedanta, Yoga, and mystical thought. The work''s
+  nuanced argument that ultimate reality cannot be instrumentally known but can be
+  experienced through profound spiritual insight exemplifies the sophisticated intellectual
+  traditions of ancient India. By challenging materialist interpretations and emphasizing
+  consciousness as a transcendent principle, the Kena Upanishad offers a sophisticated
+  philosophical framework that continues to inspire theological, metaphysical, and
+  contemplative traditions in Indian intellectual and spiritual heritage.
+
+  '
 collections:
 - philosophy
 - religious-texts
@@ -19,10 +40,10 @@ collections:
 - spiritual-texts
 - classical-literature
 sources:
-- name: 'Internet Archive (Max Müller translation)'
+- name: Internet Archive (Max Müller translation)
   url: https://archive.org/details/upanishads01ml
   type: other
-- name: 'Sacred Books of the East Vol. 1'
+- name: Sacred Books of the East Vol. 1
   url: https://www.sacred-texts.com/hin/sbe01/index.htm
   type: other
 references:
@@ -38,6 +59,9 @@ references:
 - name: 'Open Library: Kena Upanishad year'
   url: https://openlibrary.org/search?q=Kena+Upanishad+year+-700+language+Sanskrit+Various+Sages
   type: other
+- name: 'Wikipedia: Upanishads'
+  url: https://en.wikipedia.org/wiki/Upanishads
+  type: wikipedia
 featured: true
 publishDate: 2025-11-02
 ---
