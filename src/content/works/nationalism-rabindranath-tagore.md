@@ -12,11 +12,17 @@ description: |
 collections:
 - modern-literature
 sources:
-- name: 'Internet Archive'
+- name: 'Project Gutenberg (Complete Text)'
+  url: https://www.gutenberg.org/ebooks/40766
+  type: other
+- name: Internet Archive (1917 Macmillan Edition)
   url: https://archive.org/details/nationalism00tagorich
   type: other
-- name: 'Internet Archive'
+- name: Internet Archive (1917 Edition, DLI)
   url: https://archive.org/details/dli.csl.3935
+  type: other
+- name: 'Project Gutenberg (HTML)'
+  url: https://www.gutenberg.org/ebooks/40766.html.images
   type: other
 references:
 - name: 'Wikisource'

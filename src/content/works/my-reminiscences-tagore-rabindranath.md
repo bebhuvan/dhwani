@@ -12,11 +12,17 @@ description: |
 collections:
 - historical-literature
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/7838
+- name: 'Project Gutenberg (Complete Text)'
+  url: https://www.gutenberg.org/ebooks/22217
+  type: other
+- name: Internet Archive (1917 Macmillan Edition)
+  url: https://archive.org/details/myreminiscences0000tago
+  type: other
+- name: Internet Archive (LibriVox Audiobook)
+  url: https://archive.org/details/myreminiscences_1410_librivox
   type: other
 - name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/7838.html.images
+  url: https://www.gutenberg.org/ebooks/22217.html.images
   type: other
 references:
 - name: 'Wikipedia: Rabindranath Tagore'

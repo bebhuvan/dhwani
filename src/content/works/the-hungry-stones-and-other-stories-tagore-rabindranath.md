@@ -14,11 +14,20 @@ collections:
 - modern-literature
 - modern-literature
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/7166
+- name: 'Project Gutenberg (Complete Text)'
+  url: https://www.gutenberg.org/ebooks/2518
+  type: other
+- name: Internet Archive (1916 Macmillan Edition)
+  url: https://archive.org/details/bwb_P7-EDC-198
+  type: other
+- name: Internet Archive (1916 Harvard Edition)
+  url: https://archive.org/details/hungrystones00tagogoog
+  type: other
+- name: Internet Archive (1926 Macmillan Edition, DLI)
+  url: https://archive.org/details/in.ernet.dli.2015.503490
   type: other
 - name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/7166.html.images
+  url: https://www.gutenberg.org/ebooks/2518.html.images
   type: other
 references:
 - name: 'Wikipedia: Rabindranath Tagore'

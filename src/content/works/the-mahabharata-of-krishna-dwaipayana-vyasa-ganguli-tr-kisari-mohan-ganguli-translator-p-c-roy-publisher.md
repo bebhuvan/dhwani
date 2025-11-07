@@ -19,10 +19,37 @@ collections:
 - spiritual-texts
 - classical-literature
 sources:
-- name: 'Internet Archive'
+- name: 'Project Gutenberg - Adi Parva (Book 1)'
+  url: https://www.gutenberg.org/ebooks/7864
+  type: other
+- name: 'Project Gutenberg - Sabha Parva (Book 2)'
+  url: https://www.gutenberg.org/ebooks/7965
+  type: other
+- name: 'Project Gutenberg - Vana Parva Part I (Book 3)'
+  url: https://www.gutenberg.org/ebooks/11894
+  type: other
+- name: 'Project Gutenberg - Vana Parva Part II (Book 3 cont.)'
+  url: https://www.gutenberg.org/ebooks/12333
+  type: other
+- name: 'Project Gutenberg - Virata Parva (Book 4)'
+  url: https://www.gutenberg.org/ebooks/12058
+  type: other
+- name: 'Project Gutenberg - Volume 1 (Books 1-3)'
+  url: https://www.gutenberg.org/ebooks/15474
+  type: other
+- name: 'Project Gutenberg - Volume 2 (Books 4-7)'
+  url: https://www.gutenberg.org/ebooks/15475
+  type: other
+- name: 'Project Gutenberg - Volume 3 (Books 8-12)'
+  url: https://www.gutenberg.org/ebooks/15476
+  type: other
+- name: 'Project Gutenberg - Volume 4'
+  url: https://www.gutenberg.org/ebooks/15477
+  type: other
+- name: 'Internet Archive (Volume 1)'
   url: https://archive.org/details/mahabharataofkri01roypuoft
   type: other
-- name: 'Internet Archive'
+- name: 'Internet Archive (Volume 4)'
   url: https://archive.org/details/mahabharataofkri04calcuoft
   type: other
 - name: 'Internet Archive (Volume 6)'

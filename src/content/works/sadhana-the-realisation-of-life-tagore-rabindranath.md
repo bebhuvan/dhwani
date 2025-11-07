@@ -41,7 +41,7 @@ collections:
 - philosophy
 sources:
 - name: Project Gutenberg (Complete Text)
-  url: https://www.gutenberg.org/ebooks/6842
+  url: https://www.gutenberg.org/ebooks/26202
   type: other
 - name: Internet Archive (1913 Macmillan Edition, London)
   url: https://archive.org/details/dli.ministry.26871

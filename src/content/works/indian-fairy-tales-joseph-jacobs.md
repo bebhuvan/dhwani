@@ -3,39 +3,52 @@ title: 'Indian Fairy Tales'
 author:
 - Joseph Jacobs
 - illustrated by John D. Batten
-year: 1892
+year: 1912
 language:
 - English
 genre:
-- Folk Tales
+- Folklore
 - Children's Literature
 - Mythology
 description: |
-  Indian Fairy Tales, compiled by Joseph Jacobs and illustrated by John D. Batten in 1892, represents a significant scholarly endeavor in late 19th-century comparative folklore and cultural documentation during the British colonial period in India. Jacobs, a prominent Jewish-Australian folklorist and cultural anthropologist, meticulously collected and translated tales from diverse Sanskrit manuscripts, Buddhist Jataka texts, and oral storytelling traditions, presenting a comprehensive anthology that bridges Indigenous narrative traditions with emerging Western academic methodologies. The collection critically examines the transmission of narrative structures across cultural boundaries, highlighting the sophisticated storytelling techniques inherent in Indian literary heritage. By drawing from multiple sources including ancient philosophical texts, regional oral traditions, and classical Sanskrit literature, Jacobs illuminated the complex narrative ecosystems of the Indian subcontinent for European and global scholarly audiences. These tales, ranging from mythological narratives to allegorical animal stories, reflect profound philosophical and ethical principles embedded within Indian cultural consciousness, demonstrating sophisticated moral reasoning, metaphysical insights, and social commentaries. Significantly, the work contributes to the emergent field of comparative mythology, providing nuanced interpretations of narrative archetypes that transcend geographical and cultural boundaries. The accompanying illustrations by John D. Batten further enhance the scholarly and aesthetic value, offering visual interpretations that complement the textual narratives. As a pioneering scholarly intervention, Indian Fairy Tales represents an important moment in cross-cultural intellectual exchange, preserving and interpreting traditional narratives at a critical juncture of colonial knowledge production and emerging anthropological methodologies.
+  Joseph Jacobs's "Indian Fairy Tales" (1912) represents a landmark contribution to the cross-cultural transmission of Indian folklore traditions to Western audiences, particularly children, during the height of British colonial engagement with Indian literary heritage. Published by David Nutt in London as part of Jacobs's celebrated series of international fairy tale collections—which previously included "English Fairy Tales" (1890), "Celtic Fairy Tales" (1891), and "European Fairy Tales" (1892)—this volume applied rigorous folkloristic methodology to Indian oral and textual traditions. Jacobs, one of the most influential folklorists of the late Victorian era, was instrumental in establishing folklore studies as a scholarly discipline while simultaneously making traditional narratives accessible to popular audiences through careful selection, adaptation, and annotation. The collection comprises twenty-nine tales drawn from diverse Indian sources, including the ancient Jataka stories (Buddhist birth tales), the Panchatantra (animal fables), the Hitopadesa, and various regional oral traditions spanning the Indian subcontinent. These stories encompass a remarkable range of narrative types: animal fables teaching moral lessons, transformation tales, pourquoi stories explaining natural phenomena, trickster narratives, and wisdom tales. Notable stories include "The Lion and the Crane," demonstrating the triumph of cunning over strength; "The Ass in the Lion's Skin," warning against false pretenses; "Sun, Moon, and Wind Go Out to Dinner," explaining celestial phenomena through familial relationships; "The Broken Promise," illustrating the consequences of betrayal; and "The Soothsayer's Son," exploring themes of fate and cleverness. Jacobs's methodology combined scholarly rigor with popular accessibility—he provided extensive notes on sources, parallels in other folklore traditions, and anthropological context, while adapting the narrative style for young English readers. His comparative folklore approach, influenced by the anthropological theories of Andrew Lang and Edward Burnett Tylor, sought to identify universal narrative patterns across cultures while respecting cultural specificity. By introducing Indian folklore to Western children's literature, Jacobs played a crucial role in expanding the geographical and cultural scope of fairy tale collections beyond European traditions, though his work inevitably reflected colonial-era perspectives on Indian culture. The volume was beautifully illustrated by John Dickson Batten, whose distinctive pen-and-ink drawings combined Victorian aesthetic sensibilities with attempts to represent Indian cultural elements, creating a visual style that shaped Western perceptions of Indian folklore. The collection's lasting significance lies not only in preserving and popularizing traditional Indian tales but also in demonstrating the richness and sophistication of non-European narrative traditions during an era when such recognition was far from universal in Western literary culture.
 collections:
-- spiritual-texts
+- mythology-and-folklore
+- childrens-literature
 sources:
 - name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/7128
   type: other
-- name: 'Internet Archive'
+- name: 'Project Gutenberg (HTML)'
+  url: https://www.gutenberg.org/ebooks/7128.html.images
+  type: other
+- name: 'Internet Archive (1912 Edition)'
   url: https://archive.org/details/indianfairytales00jose
   type: other
-- name: 'Standard Ebooks'
-  url: https://standardebooks.org/ebooks/joseph-jacobs/indian-fairy-tales
+- name: 'Internet Archive (LibriVox Audio)'
+  url: https://archive.org/details/indian_fairy_tales_1304_librivox
+  type: other
+- name: 'Internet Archive (Digital Library of India)'
+  url: https://archive.org/details/in.ernet.dli.2015.42176
   type: other
 references:
 - name: 'Wikipedia: Joseph Jacobs'
   url: https://en.wikipedia.org/wiki/Joseph_Jacobs
   type: wikipedia
-- name: 'Wikipedia: John D. Batten'
-  url: https://en.wikipedia.org/wiki/John_D._Batten
+- name: 'Wikipedia: Indian Folklore'
+  url: https://en.wikipedia.org/wiki/Indian_folklore
   type: wikipedia
-- name: 'Open Library: Indian Fairy Tales year'
-  url: https://openlibrary.org/search?q=Indian+Fairy+Tales+year+1892+language+Joseph+Jacobs
+- name: 'Wikipedia: Jataka Tales'
+  url: https://en.wikipedia.org/wiki/Jataka_tales
+  type: wikipedia
+- name: 'Wikisource: Indian Fairy Tales'
+  url: https://en.wikisource.org/wiki/Indian_Fairy_Tales
   type: other
-featured: true
-publishDate: 2025-10-30
+- name: 'Open Library: Indian Fairy Tales'
+  url: https://openlibrary.org/works/OL82824W/Indian_Fairy_Tales
+  type: other
+featured: false
+publishDate: 2025-11-07
 ---
 
 ## Publication and Compiler

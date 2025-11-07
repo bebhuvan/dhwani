@@ -12,11 +12,20 @@ description: |
 collections:
 - poetry-collection
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/7164
+- name: 'Project Gutenberg (Complete Text)'
+  url: https://www.gutenberg.org/ebooks/6522
+  type: other
+- name: Internet Archive (1916 Macmillan Edition)
+  url: https://archive.org/details/fruitgathering00tagorich
+  type: other
+- name: Internet Archive (1920 Macmillan Collected Poems)
+  url: https://archive.org/details/in.ernet.dli.2015.98390
+  type: other
+- name: Internet Archive (1962 Macmillan Edition)
+  url: https://archive.org/details/collectedpoemspl0000tago
   type: other
 - name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/7164.html.images
+  url: https://www.gutenberg.org/ebooks/6522.html.images
   type: other
 references:
 - name: 'Wikipedia: Rabindranath Tagore'

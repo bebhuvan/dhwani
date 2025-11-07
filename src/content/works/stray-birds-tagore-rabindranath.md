@@ -12,11 +12,20 @@ description: |
 collections:
 - poetry-collection
 sources:
-- name: 'Project Gutenberg'
-  url: https://www.gutenberg.org/ebooks/7854
+- name: 'Project Gutenberg (Complete Text)'
+  url: https://www.gutenberg.org/ebooks/6524
+  type: other
+- name: Internet Archive (1919 Macmillan Edition)
+  url: https://archive.org/details/straybirds015459mbp
+  type: other
+- name: Internet Archive (1917 Edition, DLI)
+  url: https://archive.org/details/in.ernet.dli.2015.527594
+  type: other
+- name: Internet Archive (Complete Text)
+  url: https://archive.org/details/StrayBirds-English-RabindranathTagore
   type: other
 - name: 'Project Gutenberg (HTML)'
-  url: https://www.gutenberg.org/ebooks/7854.html.images
+  url: https://www.gutenberg.org/ebooks/6524.html.images
   type: other
 references:
 - name: 'Wikipedia: Rabindranath Tagore'
