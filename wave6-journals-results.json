@@ -1,0 +1,871 @@
+{
+  "wave": 6,
+  "description": "Journals & Periodicals - Scholarly journals, gazetteers, archaeological reports",
+  "totalWorks": 144,
+  "allResults": [
+    {
+      "id": "in.ernet.dli.2015.44339",
+      "title": "Indian Antiquary Vol. 1",
+      "creator": "Burgess, Jas",
+      "year": 1872
+    },
+    {
+      "id": "TheIndianAntiquaryVol.1",
+      "title": "The Indian Antiquary, Vol. 1",
+      "creator": "Jas Burgess",
+      "year": 1872
+    },
+    {
+      "id": "dli.ernet.277428",
+      "title": "The Indian Antiquary a journal of oriental research Vol.I",
+      "creator": "Jas. Burgess",
+      "year": 1872
+    },
+    {
+      "id": "indianantiquaryj266roya",
+      "title": "The Indian antiquary; A journal of oriental research",
+      "creator": "Royal Anthropological Institute",
+      "year": 1872
+    },
+    {
+      "id": "TheIndianAntiquaryVolIii",
+      "title": "The Indian Antiquary Vol III",
+      "creator": "Jas Burgess",
+      "year": 1874
+    },
+    {
+      "id": "in.ernet.dli.2015.277424",
+      "title": "Indian Antiquary Vol. 4",
+      "creator": "Jas Burgess",
+      "year": 1875
+    },
+    {
+      "id": "indianantiquarya014355mbp",
+      "title": "THE INDIAN ANTIQUARY A JOURNAL OF ORIENTAL RESEARCH VOL 4",
+      "creator": "Jas Burgess",
+      "year": 1875
+    },
+    {
+      "id": "in.gov.ignca.5780",
+      "title": "Indian antiquary a journal of oriental research vol.4",
+      "creator": "Burgess, Jas.",
+      "year": 1875
+    },
+    {
+      "id": "TheIndianAntiquaryVolV",
+      "title": "The Indian Antiquary Vol V",
+      "creator": "Jas Burgess",
+      "year": 1876
+    },
+    {
+      "id": "TheIndianAntiquaryVolVI",
+      "title": "The Indian Antiquary Vol VI",
+      "creator": "Jas. Burgess",
+      "year": 1877
+    },
+    {
+      "id": "in.ernet.dli.2015.277422",
+      "title": "Indian Antiquary at a journal of oriental research Vol. 7",
+      "creator": "Jas Burgess",
+      "year": 1878
+    },
+    {
+      "id": "TheIndianAntiquaryVol.VII",
+      "title": "The Indian Antiquary, Vol. VII",
+      "creator": "Jos Burgess",
+      "year": 1878
+    },
+    {
+      "id": "in.ernet.dli.2015.181414",
+      "title": "The Indian Antiquary Vol. 9 (1880)",
+      "creator": "Burgess, Jas",
+      "year": 1880
+    },
+    {
+      "id": "dli.ministry.14550",
+      "title": "The Indian antiquary: a journal of oriental research Vol. 15",
+      "creator": "Fleet, John Faithfull; Temple, Richard Carnac",
+      "year": 1886
+    },
+    {
+      "id": "TheIndianAntiquaryVolXVI",
+      "title": "The Indian Antiquary Vol. XVI",
+      "creator": "John Faithful Fleet, Richard Carnac Temple",
+      "year": 1887
+    },
+    {
+      "id": "TheIndianAntiquaryVolXxi",
+      "title": "THE INDIAN ANTIQUARY VOL XXI",
+      "creator": "RICHARD CARNAC TEMPLE",
+      "year": 1892
+    },
+    {
+      "id": "in.ernet.dli.2015.206683",
+      "title": "The Indian Antiquary Vol-XXII(1893)",
+      "creator": "Bombay Education Society's Press",
+      "year": 1893
+    },
+    {
+      "id": "in.ernet.dli.2015.207411",
+      "title": "The Indian Antiquary Vol-XXIII(1894)",
+      "creator": "Education Society's Press, Byculla Bombay",
+      "year": 1894
+    },
+    {
+      "id": "TheIndianAntiquaryVolXXIV",
+      "title": "The Indian Antiquary Vol XXIV",
+      "creator": "Richard Carnac Temple",
+      "year": 1895
+    },
+    {
+      "id": "in.ernet.dli.2015.206684",
+      "title": "The Indian Antiquary Vol-XXV(1896)",
+      "creator": "Education Society's Press, Byculla Bombay",
+      "year": 1896
+    },
+    {
+      "id": "in.ernet.dli.2015.61241",
+      "title": "The Indian Antiquary Vol XXVI",
+      "creator": "Oriental Research Institute Bombay",
+      "year": 1897
+    },
+    {
+      "id": "in.ernet.dli.2015.207414",
+      "title": "The Indian Antiquary Vol-XXVII(1898)",
+      "creator": "Education Society Press, Byculla Bombay",
+      "year": 1898
+    },
+    {
+      "id": "indianantiquarya014345mbp",
+      "title": "THE INDIAN ANTIQUARY A JOURNAL OF ORIENTAL RESEARCH VOL XXVIII",
+      "creator": "Education Society Press",
+      "year": 1899
+    },
+    {
+      "id": "asiaticresearche07asia_0",
+      "title": "Asiatic Researches Vol. 1",
+      "creator": "Asiatick Society (Calcutta, India)",
+      "year": 1788
+    },
+    {
+      "id": "dli.bengal.10689.1547",
+      "title": "Asiatic Researches - Vol.1",
+      "creator": "Asiatick Society (Calcutta, India)",
+      "year": 1788
+    },
+    {
+      "id": "asiaticresearche11asia",
+      "title": "Asiatic Researches Vol. 2",
+      "creator": "Asiatick Society (Calcutta, India)",
+      "year": 1790
+    },
+    {
+      "id": "dli.bengal.10689.4202",
+      "title": "Asiatic Researches - Vol.2",
+      "creator": "Asiatick Society (Calcutta, India)",
+      "year": 1794
+    },
+    {
+      "id": "dli.bengal.10689.4197",
+      "title": "Asiatic Researches - Vol.3",
+      "creator": "Asiatick Society (Calcutta, India)",
+      "year": 1794
+    },
+    {
+      "id": "asiaticresearche31792calc",
+      "title": "Asiatic Researches Vol. 3",
+      "creator": "Asiatick Society (Calcutta, India)",
+      "year": 1792
+    },
+    {
+      "id": "bub_gb_vSsoAAAAYAAJ",
+      "title": "Asiatic researches; or, Transactions Vol. 4",
+      "creator": "Asiatick Society (Calcutta, India)",
+      "year": 1798
+    },
+    {
+      "id": "s3id13278150",
+      "title": "Asiatic researches, or, Transactions of the Society instituted in Bengal... Volume 5",
+      "creator": "Asiatick Society",
+      "year": 1799
+    },
+    {
+      "id": "in.ernet.dli.2015.90926",
+      "title": "Asiatic Researches Or Transactions Of The Society Vol 4",
+      "creator": "Asiatick Society (Calcutta, India)",
+      "year": 1799
+    },
+    {
+      "id": "epigraphiaindica02bhan",
+      "title": "Epigraphia Indica Vol. 1",
+      "creator": "Bhandarkar, Devadatta Ramakrishna; Archaeological Survey of India",
+      "year": 1891
+    },
+    {
+      "id": "in.ernet.dli.2015.181084",
+      "title": "Epigraphia Indica Vol. 2",
+      "creator": "Burgess, Jas",
+      "year": 1892
+    },
+    {
+      "id": "in.ernet.dli.2015.56636",
+      "title": "Epigraphia Indica Vol.1",
+      "creator": "Burgess, Jas.",
+      "year": 1892
+    },
+    {
+      "id": "dli.bengal.10689.15888",
+      "title": "EPIGRAPHIA INDICA VOL.1",
+      "creator": "BURGESS, JAS",
+      "year": 1892
+    },
+    {
+      "id": "in.ernet.dli.2015.326023",
+      "title": "Epigraphia Indica Vol.2",
+      "creator": "Burgess, Jas",
+      "year": 1894
+    },
+    {
+      "id": "in.ernet.dli.2015.100320",
+      "title": "Archaeological Survey Of India, Epigraphia Indica, Vol. 2",
+      "creator": "Burgess, Jas",
+      "year": 1894
+    },
+    {
+      "id": "epigraphiaindica0002jasb",
+      "title": "Epigraphia Indica Vol. 2",
+      "creator": "jas. burgess",
+      "year": 1894
+    },
+    {
+      "id": "in.ernet.dli.2015.108298",
+      "title": "Epigraphia Indica Vol.3",
+      "creator": "Hultzsch, E.",
+      "year": 1895
+    },
+    {
+      "id": "in.ernet.dli.2015.70015",
+      "title": "Epigraphia Indica Vol. - III(1894-95)",
+      "creator": "Hultzsch, E.",
+      "year": 1897
+    },
+    {
+      "id": "in.ernet.dli.2015.70026",
+      "title": "Epigraphia Indica Vol. - IV (1896-97)",
+      "creator": "Hultzsch, E.",
+      "year": 1897
+    },
+    {
+      "id": "in.ernet.dli.2015.56279",
+      "title": "Epigraphia Indica Vol.V",
+      "creator": "E.hultzsch",
+      "year": 1898
+    },
+    {
+      "id": "epigraphiaindica014342mbp",
+      "title": "EPIGRAPHIA INDICA VOL V",
+      "creator": "Z.a.desai",
+      "year": 1898
+    },
+    {
+      "id": "in.ernet.dli.2015.56649",
+      "title": "Epigraphia Indica Vol.4",
+      "creator": "Hultzsch, E.",
+      "year": 1898
+    },
+    {
+      "id": "in.gov.ignca.29293",
+      "title": "Epigraphia Indica vol.5",
+      "creator": "Hultzsch, E.",
+      "year": 1899
+    },
+    {
+      "id": "in.ernet.dli.2015.553750",
+      "title": "Epigraphia Indica,vol.5 1898-99",
+      "creator": "Hultzsch,e.",
+      "year": 1899
+    },
+    {
+      "id": "in.ernet.dli.2015.56212",
+      "title": "Epigraphia Indica Vol.VI",
+      "creator": "E.hultzsch",
+      "year": 1900
+    },
+    {
+      "id": "in.ernet.dli.2015.56653",
+      "title": "Epigraphia Indica Vol.6",
+      "creator": "Hultzsch, E.",
+      "year": 1902
+    },
+    {
+      "id": "in.ernet.dli.2015.56201",
+      "title": "Epigraphia Indica Vol.VII",
+      "creator": "E.hultzsch",
+      "year": 1902
+    },
+    {
+      "id": "epigraphiaindica014351mbp",
+      "title": "EPIGRAPHIA INDICA VOL 7",
+      "creator": "DESAI,Z.A",
+      "year": 1902
+    },
+    {
+      "id": "in.ernet.dli.2015.56659",
+      "title": "Epigraphia Indica Vol.7",
+      "creator": "Hultzsch, E.",
+      "year": 1903
+    },
+    {
+      "id": "in.ernet.dli.2015.56654",
+      "title": "Epigraphia Indica Vol.8",
+      "creator": "Hultzsch, E.",
+      "year": 1906
+    },
+    {
+      "id": "in.ernet.dli.2015.48794",
+      "title": "Epigraphia Indica Vol. 9",
+      "creator": "Konow, Sten",
+      "year": 1907
+    },
+    {
+      "id": "epigraphiaindica014770mbp",
+      "title": "EPIGRAPHIA INDICA VOL IX",
+      "creator": "DASIA,Z.A",
+      "year": 1907
+    },
+    {
+      "id": "in.ernet.dli.2015.56657",
+      "title": "Epigraphia Indica Vol.9",
+      "creator": "Hultzsch, E.",
+      "year": 1908
+    },
+    {
+      "id": "in.ernet.dli.2015.71072",
+      "title": "Epigraphia Indica Vol.10",
+      "creator": "Hultzsch, E.",
+      "year": 1909
+    },
+    {
+      "id": "in.gov.ignca.29303",
+      "title": "Epigraphia Indica vol.10",
+      "creator": "Hultzsch, E.",
+      "year": 1909
+    },
+    {
+      "id": "epigraphiaindica014771mbp",
+      "title": "EPIGRAPHIA INDICA VOL X",
+      "creator": "DASIA,Z.A",
+      "year": 1909
+    },
+    {
+      "id": "in.ernet.dli.2015.48787",
+      "title": "Epigraphia Indica Vol.11",
+      "creator": "Archaeological Survey of India",
+      "year": 1911
+    },
+    {
+      "id": "in.ernet.dli.2015.56190",
+      "title": "Epigraphia Indica Vol.-11",
+      "creator": "E.hultzsch",
+      "year": 1911
+    },
+    {
+      "id": "epigraphiaindica014772mbp",
+      "title": "EPIGRAPHIA INDICA VOL XI",
+      "creator": "DASIA,Z.A",
+      "year": 1911
+    },
+    {
+      "id": "in.ernet.dli.2015.49130",
+      "title": "Epigraphia Indica Vol. 4",
+      "creator": "Hultzsch, E.",
+      "year": 1912
+    },
+    {
+      "id": "in.ernet.dli.2015.181053",
+      "title": "Appendix To Epigraphia Indica Vol.10",
+      "creator": "Luders, H.",
+      "year": 1912
+    },
+    {
+      "id": "acc.-no.-14283-epigraphia-indica-volume-x-1912",
+      "title": "APPENDIX TO EPIGRAPHIA INDICA AND RECORD OF THE ARCHAEOLOGICAL SURVEY OF INDIA VOLUME-X",
+      "creator": "Archaeological Survey of India",
+      "year": 1912
+    },
+    {
+      "id": "eastindiagazette00hami",
+      "title": "The East India gazetteer",
+      "creator": "Hamilton, Walter",
+      "year": 1815
+    },
+    {
+      "id": "gazetteer-east-india-1815",
+      "title": "Gazetteer East India 1815",
+      "creator": "India Govt",
+      "year": 1815
+    },
+    {
+      "id": "b29329772_0001",
+      "title": "The East-India gazetteer Vol. 1",
+      "creator": "Hamilton, Walter",
+      "year": 1828
+    },
+    {
+      "id": "b29329772_0002",
+      "title": "The East-India gazetteer Vol. 2",
+      "creator": "Hamilton, Walter",
+      "year": 1828
+    },
+    {
+      "id": "eastindiagazette01hami",
+      "title": "The East-India gazetteer Vol. 1",
+      "creator": "Hamilton, W.",
+      "year": 1828
+    },
+    {
+      "id": "eastindiagazette02hami",
+      "title": "The East-India gazetteer Vol. 2",
+      "creator": "Hamilton, W.",
+      "year": 1828
+    },
+    {
+      "id": "bengalandagraan00unkngoog",
+      "title": "The Bengal and Agra annual guide and gazetteer",
+      "creator": "British India",
+      "year": 1841
+    },
+    {
+      "id": "agazetteerterri00thorgoog",
+      "title": "A Gazetteer of the territories under the government of the East-India company",
+      "creator": "Edward Thornton",
+      "year": 1854
+    },
+    {
+      "id": "in.gov.ignca.30026",
+      "title": "Gazetteer of the territories under the Govt. of East India Company Vol. 1",
+      "creator": "Thornton, Edward",
+      "year": 1854
+    },
+    {
+      "id": "in.gov.ignca.30027",
+      "title": "Gazetteer of the territories under the Govt. of East India Company Vol. 2",
+      "creator": "Thornton, Edward",
+      "year": 1854
+    },
+    {
+      "id": "in.gov.ignca.30029",
+      "title": "Gazetteer of the territories under the Govt. of East India Company Vol. 4",
+      "creator": "Thornton, Edward",
+      "year": 1854
+    },
+    {
+      "id": "dli.ministry.13357",
+      "title": "Gazetteer of the territories under the Govt. of East India Company",
+      "creator": "Thornton, Edward",
+      "year": 1854
+    },
+    {
+      "id": "agazetteersouth01walkgoog",
+      "title": "A gazetteer of Southern India Vol. 1",
+      "creator": "Pharoah and Co",
+      "year": 1855
+    },
+    {
+      "id": "dli.ministry.02257",
+      "title": "A gazetteer of Southern India Vol. 2",
+      "creator": "Pharoah and Co",
+      "year": 1855
+    },
+    {
+      "id": "dli.ministry.08164",
+      "title": "Gazetteer for the Haidarabad Assigned Districts, commonly called Berar",
+      "creator": "Lyall, A.C.",
+      "year": 1870
+    },
+    {
+      "id": "dli.ministry.13341",
+      "title": "Gazetteer for the Haidarabad Assigned Districts (Berar)",
+      "creator": "Lyall, A.C.",
+      "year": 1870
+    },
+    {
+      "id": "gazetteercentra00grangoog",
+      "title": "The gazetteer of the Central Provinces of India",
+      "creator": "Grant, Charles, Sir",
+      "year": 1870
+    },
+    {
+      "id": "in.gov.ignca.30359",
+      "title": "Gazetteer for the Hydarabad assigned district",
+      "creator": "British India",
+      "year": 1870
+    },
+    {
+      "id": "dli.csl.8190",
+      "title": "Gazetteer of the Bikanir state",
+      "creator": "Powlett, P.W.",
+      "year": 1874
+    },
+    {
+      "id": "dli.ministry.05629",
+      "title": "A record of the expeditions undertaken against the North-west frontier tribes",
+      "creator": "Paget, W. H.",
+      "year": 1874
+    },
+    {
+      "id": "BangaloreGazetteer1875",
+      "title": "Bangalore Gazetteer 1875",
+      "creator": "Government of India",
+      "year": 1875
+    },
+    {
+      "id": "in.gov.ignca.30757",
+      "title": "Gazetteer of Ajmer-Merwara in Rajputana",
+      "creator": "Latouche, J.D.",
+      "year": 1875
+    },
+    {
+      "id": "gazetteerprovin01oudhgoog",
+      "title": "Gazetteer of the province of Oudh Vol. 1",
+      "creator": "Oudh (India)",
+      "year": 1877
+    },
+    {
+      "id": "mysorecoorgvol1mysoreingeneral",
+      "title": "Mysore and Coorg. A Gazetteer Vol. 1",
+      "creator": "Lewis Rice",
+      "year": 1877
+    },
+    {
+      "id": "mobot31753002183827",
+      "title": "Journal of the Asiatic Society of Bengal Vol. 1",
+      "creator": "Asiatic Society (Calcutta, India)",
+      "year": 1832
+    },
+    {
+      "id": "journalofasiat4411875asia",
+      "title": "Journal of the Asiatic Society of Bengal Vol. 44",
+      "creator": "Asiatic Society (Calcutta, India)",
+      "year": 1875
+    },
+    {
+      "id": "journalofasiatic16asia",
+      "title": "Journal of the Asiatic Society of Bengal Vol. 16",
+      "creator": "Asiatic Society of Bengal",
+      "year": 1847
+    },
+    {
+      "id": "journalasiatics04benggoog",
+      "title": "Journal of the Asiatic Society of Bengal Vol. 4",
+      "creator": "Asiatic Society of Bengal",
+      "year": 1835
+    },
+    {
+      "id": "journalasiatics07benggoog",
+      "title": "Journal of the Asiatic Society of Bengal Vol. 7",
+      "creator": "Asiatic Society of Bengal",
+      "year": 1838
+    },
+    {
+      "id": "journalasiatics24benggoog",
+      "title": "Journal of the Asiatic Society of Bengal Vol. 24",
+      "creator": "Asiatic Society of Bengal",
+      "year": 1855
+    },
+    {
+      "id": "journalofasiati311862asia",
+      "title": "Journal of the Asiatic Society of Bengal Vol. 31",
+      "creator": "Asiatic Society (Calcutta, India)",
+      "year": 1862
+    },
+    {
+      "id": "journalofasiati361867asia",
+      "title": "Journal of the Asiatic Society of Bengal Vol. 36",
+      "creator": "Asiatic Society (Calcutta, India)",
+      "year": 1867
+    },
+    {
+      "id": "journalofasi401871unse",
+      "title": "Journal of the Asiatic Society of Bengal Vol. 40",
+      "creator": "Asiatic Society of Bengal",
+      "year": 1871
+    },
+    {
+      "id": "journalofasi471878unse",
+      "title": "Journal of the Asiatic Society of Bengal Vol. 47",
+      "creator": "Asiatic Society of Bengal",
+      "year": 1878
+    },
+    {
+      "id": "journalofasi521883unse",
+      "title": "Journal of the Asiatic Society of Bengal Vol. 52",
+      "creator": "Asiatic Society of Bengal",
+      "year": 1883
+    },
+    {
+      "id": "journalofasiati641895asia",
+      "title": "Journal of the Asiatic Society of Bengal Vol. 64",
+      "creator": "Asiatic Society (Calcutta, India)",
+      "year": 1895
+    },
+    {
+      "id": "journalofasi671898unse",
+      "title": "Journal of the Asiatic Society of Bengal Vol. 67",
+      "creator": "Asiatic Society of Bengal",
+      "year": 1898
+    },
+    {
+      "id": "journalofasiat6521896asia",
+      "title": "Journal of the Asiatic Society of Bengal Vol. 65",
+      "creator": "Asiatic Society (Calcutta, India)",
+      "year": 1896
+    },
+    {
+      "id": "journalbombaybr01bombgoog",
+      "title": "Journal of the Bombay Branch of the Royal Asiatic Society Vol. 1",
+      "creator": "Asiatic Society of Bombay",
+      "year": 1841
+    },
+    {
+      "id": "journalbombaybr03bombgoog",
+      "title": "Journal of the Bombay Branch of the Royal Asiatic Society Vol. 3",
+      "creator": "Asiatic Society of Bombay",
+      "year": 1849
+    },
+    {
+      "id": "journalbombaybr02bombgoog",
+      "title": "Journal of the Bombay Branch of the Royal Asiatic Society Vol. 2",
+      "creator": "Asiatic Society of Bombay",
+      "year": 1844
+    },
+    {
+      "id": "jasb-volume-13-for-1877-extra-number",
+      "title": "Journal of the Bombay Branch of the Royal Asiatic Society, 13 - Extra Number",
+      "creator": "Asiatic Society of Bombay",
+      "year": 1877
+    },
+    {
+      "id": "introductiontope00ranarich",
+      "title": "Introduction to the Peishwa's diaries",
+      "creator": "Ranade, Mahadev Govind",
+      "year": 1900
+    },
+    {
+      "id": "in.ernet.dli.2015.367502",
+      "title": "The Indian Historical Quarterly Vol-II(3-4)",
+      "creator": "N.n.law",
+      "year": 1903
+    },
+    {
+      "id": "in.ernet.dli.2015.367501",
+      "title": "The Indian Historical Quarterly Vol II",
+      "creator": "N N Law",
+      "year": 1903
+    },
+    {
+      "id": "archaeologicalsu03arch",
+      "title": "Archaeological Survey of India Reports Vol. 3",
+      "creator": "Archaeological Survey of India",
+      "year": 1871
+    },
+    {
+      "id": "archaeologicalsu10arch",
+      "title": "Archaeological Survey of India Reports Vol. 10",
+      "creator": "Archaeological Survey of India",
+      "year": 1878
+    },
+    {
+      "id": "archaeologicalsu06arch",
+      "title": "Archaeological Survey of India Reports Vol. 6",
+      "creator": "Archaeological Survey of India",
+      "year": 1874
+    },
+    {
+      "id": "reports00indigoog",
+      "title": "Archaeological Survey of India Reports Vol. 1",
+      "creator": "Archaeological Survey of India",
+      "year": 1871
+    },
+    {
+      "id": "archaeologicalsu05arch",
+      "title": "Archaeological Survey of India Reports Vol. 5",
+      "creator": "Archaeological Survey of India",
+      "year": 1873
+    },
+    {
+      "id": "archaeologicalsu11arch",
+      "title": "Archaeological Survey of India Reports Vol. 11",
+      "creator": "Archaeological Survey of India",
+      "year": 1878
+    },
+    {
+      "id": "archaeologicalsu01arch",
+      "title": "Archaeological Survey of India Reports Vol. 1",
+      "creator": "Archaeological Survey of India",
+      "year": 1871
+    },
+    {
+      "id": "report00cunngoog",
+      "title": "Archaeological Survey of India Reports",
+      "creator": "Cunningham, Alexander",
+      "year": 1871
+    },
+    {
+      "id": "archaeologicalsu08arch",
+      "title": "Archaeological Survey of India Reports Vol. 8",
+      "creator": "Archaeological Survey of India",
+      "year": 1876
+    },
+    {
+      "id": "archaeologicalsu04arch",
+      "title": "Archaeological Survey of India Reports Vol. 4",
+      "creator": "Archaeological Survey of India",
+      "year": 1872
+    },
+    {
+      "id": "archaeologicalsu07arch",
+      "title": "Archaeological Survey of India Reports Vol. 7",
+      "creator": "Archaeological Survey of India",
+      "year": 1875
+    },
+    {
+      "id": "archaeologicalsu02arch",
+      "title": "Archaeological Survey of India Reports Vol. 2",
+      "creator": "Archaeological Survey of India",
+      "year": 1871
+    },
+    {
+      "id": "archaeologicalsu09arch",
+      "title": "Archaeological Survey of India Reports Vol. 9",
+      "creator": "Archaeological Survey of India",
+      "year": 1877
+    },
+    {
+      "id": "in.gov.ignca.21585",
+      "title": "Jain Stupa and other antiquities of Mathura",
+      "creator": "Vincent A. Smith",
+      "year": 1901
+    },
+    {
+      "id": "in.gov.ignca.21616",
+      "title": "Moghul colour decoration of Agra pt.1",
+      "creator": "Edmund W. Smith",
+      "year": 1901
+    },
+    {
+      "id": "annual_reports_of_archaeological_survey_of_india",
+      "title": "Annual Reports of Archaeological Survey of India",
+      "creator": "m kamalakannan",
+      "year": 1902
+    },
+    {
+      "id": "in.gov.ignca.21625",
+      "title": "Muhammadan Architecture of Ahmadabad vol.8; pt.2",
+      "creator": "Jas. Burgess",
+      "year": 1905
+    },
+    {
+      "id": "in.gov.ignca.22146",
+      "title": "Annual progress Report of the Archaeological Survey",
+      "creator": "Archaeological Survey of India",
+      "year": 1908
+    },
+    {
+      "id": "in.gov.ignca.21631",
+      "title": "Akbars tomb, Sikandarah near Agra",
+      "creator": "Edmund W. Smith",
+      "year": 1909
+    },
+    {
+      "id": "in.gov.ignca.21629",
+      "title": "Pallava Architecture",
+      "creator": "Alexander Rea",
+      "year": 1909
+    },
+    {
+      "id": "archaeologicalsu00vasurich",
+      "title": "The archaeological survey of Mayurabhanja",
+      "creator": "Nagendranath Vasu",
+      "year": 1912
+    },
+    {
+      "id": "ArchaeologyProgressReportOfTheArchaeologicalSurveyOfIndiawesternCircleForTheYearEnding31stMarch1912",
+      "title": "Archaeology Progress Report 1912",
+      "creator": "Archaeological Survey of India",
+      "year": 1912
+    },
+    {
+      "id": "ArchaeologyProgressReportOfTheArchaeologicalSurveyOfIndiawesternCircleForTheYearEnding31stMarch1914",
+      "title": "Archaeology Progress Report 1914",
+      "creator": "Archaeological Survey of India",
+      "year": 1914
+    },
+    {
+      "id": "in.gov.ignca.21643",
+      "title": "Coorg Inscriptions",
+      "creator": "B. Lewis Rice",
+      "year": 1914
+    },
+    {
+      "id": "dli.ministry.19263",
+      "title": "Progress report of the Archaeological Survey of India, Western Circle",
+      "creator": "Archaeological Survey of India",
+      "year": 1915
+    },
+    {
+      "id": "in.gov.ignca.59235",
+      "title": "Memoirs of the archaeological survey of India no.1-5",
+      "creator": "Ramaprasad Chandra",
+      "year": 1919
+    },
+    {
+      "id": "in.gov.ignca.21894",
+      "title": "Memoirs of the Archaeological Survey of India no.12",
+      "creator": "G.R. Kye",
+      "year": 1921
+    },
+    {
+      "id": "in.gov.ignca.21877",
+      "title": "Memoirs of the Archaeological Survey of India no.7",
+      "creator": "John Marshall",
+      "year": 1921
+    },
+    {
+      "id": "in.gov.ignca.6676",
+      "title": "Memoirs of the archaeological survey of India no.8",
+      "creator": "K.N Dikshit",
+      "year": 1921
+    },
+    {
+      "id": "in.gov.ignca.21889",
+      "title": "Memoirs of the Archaeological Survey of India no.10",
+      "creator": "Maulvi Zafar Hasan",
+      "year": 1922
+    },
+    {
+      "id": "dli.csl.7936",
+      "title": "Memoirs of the archaeological survey of India",
+      "creator": "Ramaprasad Chanda",
+      "year": 1922
+    },
+    {
+      "id": "in.gov.ignca.21891",
+      "title": "Memoirs of the Archaeological Survey of India no.11",
+      "creator": "Pandit Hirananda Shastri",
+      "year": 1922
+    },
+    {
+      "id": "in.gov.ignca.21874",
+      "title": "Memoirs of the Archaeological Survey of India no.6",
+      "creator": "Ghulam Yazdani",
+      "year": 1922
+    },
+    {
+      "id": "in.gov.ignca.21929",
+      "title": "Memoirs of the Archaeological Survey of India no.23",
+      "creator": "R.D. Banerji",
+      "year": 1922
+    }
+  ]
+}

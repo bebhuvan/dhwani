@@ -1,0 +1,54 @@
+---
+title: "Memoirs of the Archaeological Survey of India no.10"
+author: ["Maulvi Zafar Hasan"]
+year: 1922
+language: ["English"]
+genre: ["Archaeology","Indian History"]
+description: "Memoirs of the Archaeological Survey of India no.10, published in 1922. The Archaeological Survey of India's reports documented monuments, inscriptions, and archaeological sites across India."
+collections: []
+sources:
+  - name: "Internet Archive"
+    url: "https://archive.org/details/in.gov.ignca.21889"
+    type: "other"
+references:
+  - name: "Wikipedia search"
+    url: "https://en.wikipedia.org/wiki/Special:Search/Memoirs%20of%20the%20Archaeological%20Survey%20of%20India%20no.10"
+    type: "wikipedia"
+featured: false
+publishDate: 2025-11-07
+tags: ["Archaeology","Indian History"]
+_public_domain_status: "true"
+_public_domain_reason: "Published in 1922 (before 1924)"
+_public_domain_confidence: "high"
+_collection: "Wave 6 - Journals & Periodicals"
+_identifier: "in.gov.ignca.21889"
+_needs_review: true
+_fetched_date: "2025-11-07"
+_wave: "6"
+_search_type: "journals"
+---
+
+# Memoirs of the Archaeological Survey of India no.10
+
+## Overview
+
+Memoirs of the Archaeological Survey of India no.10, published in 1922. The Archaeological Survey of India's reports documented monuments, inscriptions, and archaeological sites across India.
+
+## Public Domain Status
+
+**Status**: ✓ Public Domain
+**Reason**: Published in 1922 (before 1924)
+**Confidence**: High
+
+## Source
+
+[View on Archive.org](https://archive.org/details/in.gov.ignca.21889)
+
+**Collection**: Wave 6 - Journals & Periodicals
+**Identifier**: `in.gov.ignca.21889`
+
+---
+
+**Note**: This scholarly journal/periodical was automatically fetched from Wave 6 searches and requires review before adding to the main collection.
+
+**Fetched**: 2025-11-07
