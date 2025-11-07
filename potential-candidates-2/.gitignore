@@ -13,6 +13,9 @@ ENV/
 # Downloaded files (large binary files - full text not needed)
 downloads/
 
+# Duplicate works (already in main repository)
+duplicates/
+
 # Keep empty directories
 !downloads/.gitkeep
 !processed/.gitkeep
