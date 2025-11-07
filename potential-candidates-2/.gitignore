@@ -10,12 +10,9 @@ venv/
 env/
 ENV/
 
-# Downloaded files (large binary files)
-downloads/*.txt
-downloads/*.pdf
-downloads/*.epub
-downloads/*.html
+# Downloaded files (large binary files - full text not needed)
+downloads/
 
-# Keep the directories but not their contents initially
+# Keep empty directories
 !downloads/.gitkeep
 !processed/.gitkeep
