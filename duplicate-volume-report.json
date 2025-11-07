@@ -1,0 +1,1069 @@
+{
+  "timestamp": "2025-11-07T03:06:49.242Z",
+  "summary": {
+    "totalExisting": 698,
+    "totalCandidates": 1341,
+    "duplicates": {
+      "exactIdentifier": 0,
+      "titleAndAuthor": 0,
+      "titleSimilarity": 1,
+      "total": 0
+    },
+    "multiVolume": {
+      "totalSeries": 158,
+      "completeSeries": 19,
+      "incompleteSeries": 6
+    }
+  },
+  "duplicates": {
+    "exactIdentifier": [],
+    "titleAndAuthor": [],
+    "titleSimilarity": [
+      {
+        "candidate": "ashtadhyayi-panini.md",
+        "candidateTitle": "Ashtadhyayi",
+        "existing": "ashtadhyayi-panini-grammar.md",
+        "existingTitle": "Ashtadhyayi (Eight Chapters)",
+        "author": "Panini"
+      }
+    ]
+  },
+  "multiVolume": {
+    "complete": [
+      {
+        "baseTitle": "A history of Indian philosophy ()",
+        "author": "Dasgupta, Surendranath",
+        "totalVolumes": 3,
+        "candidateVolumes": 3,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          3,
+          4,
+          5
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 3,
+            "fullTitle": "A history of Indian philosophy (Vol. 3)",
+            "filename": "a-history-of-indian-philosophy-vol-3-dasgupta-surendranath.md"
+          },
+          {
+            "volumeNumber": 4,
+            "fullTitle": "A history of Indian philosophy (Vol. 4)",
+            "filename": "a-history-of-indian-philosophy-vol-4-dasgupta-surendranath.md"
+          },
+          {
+            "volumeNumber": 5,
+            "fullTitle": "A history of Indian philosophy (Vol. 5)",
+            "filename": "a-history-of-indian-philosophy-vol-5-dasgupta-surendranath.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "Archaeological Survey of India Reports",
+        "author": "Archaeological Survey of India",
+        "totalVolumes": 11,
+        "candidateVolumes": 11,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "Archaeological Survey of India Reports Vol. 1",
+            "filename": "archaeological-survey-of-india-reports-vol-1-archaeological-survey-of-india.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "Archaeological Survey of India Reports Vol. 2",
+            "filename": "archaeological-survey-of-india-reports-vol-2-archaeological-survey-of-india.md"
+          },
+          {
+            "volumeNumber": 3,
+            "fullTitle": "Archaeological Survey of India Reports Vol. 3",
+            "filename": "archaeological-survey-of-india-reports-vol-3-archaeological-survey-of-india.md"
+          },
+          {
+            "volumeNumber": 4,
+            "fullTitle": "Archaeological Survey of India Reports Vol. 4",
+            "filename": "archaeological-survey-of-india-reports-vol-4-archaeological-survey-of-india.md"
+          },
+          {
+            "volumeNumber": 5,
+            "fullTitle": "Archaeological Survey of India Reports Vol. 5",
+            "filename": "archaeological-survey-of-india-reports-vol-5-archaeological-survey-of-india.md"
+          },
+          {
+            "volumeNumber": 6,
+            "fullTitle": "Archaeological Survey of India Reports Vol. 6",
+            "filename": "archaeological-survey-of-india-reports-vol-6-archaeological-survey-of-india.md"
+          },
+          {
+            "volumeNumber": 7,
+            "fullTitle": "Archaeological Survey of India Reports Vol. 7",
+            "filename": "archaeological-survey-of-india-reports-vol-7-archaeological-survey-of-india.md"
+          },
+          {
+            "volumeNumber": 8,
+            "fullTitle": "Archaeological Survey of India Reports Vol. 8",
+            "filename": "archaeological-survey-of-india-reports-vol-8-archaeological-survey-of-india.md"
+          },
+          {
+            "volumeNumber": 9,
+            "fullTitle": "Archaeological Survey of India Reports Vol. 9",
+            "filename": "archaeological-survey-of-india-reports-vol-9-archaeological-survey-of-india.md"
+          },
+          {
+            "volumeNumber": 10,
+            "fullTitle": "Archaeological Survey of India Reports Vol. 10",
+            "filename": "archaeological-survey-of-india-reports-vol-10-archaeological-survey-of-india.md"
+          },
+          {
+            "volumeNumber": 11,
+            "fullTitle": "Archaeological Survey of India Reports Vol. 11",
+            "filename": "archaeological-survey-of-india-reports-vol-11-archaeological-survey-of-india.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "Asiatic Researches",
+        "author": "Asiatick Society (Calcutta, India)",
+        "totalVolumes": 3,
+        "candidateVolumes": 3,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          3
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "Asiatic Researches Vol. 1",
+            "filename": "asiatic-researches-vol-1-asiatick-society-calcutta-india.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "Asiatic Researches Vol. 2",
+            "filename": "asiatic-researches-vol-2-asiatick-society-calcutta-india.md"
+          },
+          {
+            "volumeNumber": 3,
+            "fullTitle": "Asiatic Researches - Vol.3",
+            "filename": "asiatic-researches-vol-3-asiatick-society-calcutta-india.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "Epigraphia Carnatica",
+        "author": "Rice, Lewis",
+        "totalVolumes": 4,
+        "candidateVolumes": 4,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "Epigraphia Carnatica, Volume 1",
+            "filename": "epigraphia-carnatica-volume-1-rice-lewis.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "Epigraphia Carnatica, Volume 2",
+            "filename": "epigraphia-carnatica-volume-2-rice-lewis.md"
+          },
+          {
+            "volumeNumber": 3,
+            "fullTitle": "Epigraphia Carnatica, Volume 3",
+            "filename": "epigraphia-carnatica-volume-3-rice-lewis.md"
+          },
+          {
+            "volumeNumber": 4,
+            "fullTitle": "Epigraphia Carnatica, Volume 4",
+            "filename": "epigraphia-carnatica-volume-4-rice-lewis.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "Epigraphia Indica",
+        "author": "Hultzsch, E.",
+        "totalVolumes": 8,
+        "candidateVolumes": 8,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 3,
+            "fullTitle": "Epigraphia Indica Vol.3",
+            "filename": "epigraphia-indica-vol-3-hultzsch-e.md"
+          },
+          {
+            "volumeNumber": 4,
+            "fullTitle": "Epigraphia Indica Vol.4",
+            "filename": "epigraphia-indica-vol-4-hultzsch-e.md"
+          },
+          {
+            "volumeNumber": 5,
+            "fullTitle": "Epigraphia Indica vol.5",
+            "filename": "epigraphia-indica-vol-5-hultzsch-e.md"
+          },
+          {
+            "volumeNumber": 6,
+            "fullTitle": "Epigraphia Indica Vol.6",
+            "filename": "epigraphia-indica-vol-6-hultzsch-e.md"
+          },
+          {
+            "volumeNumber": 7,
+            "fullTitle": "Epigraphia Indica Vol.7",
+            "filename": "epigraphia-indica-vol-7-hultzsch-e.md"
+          },
+          {
+            "volumeNumber": 8,
+            "fullTitle": "Epigraphia Indica Vol.8",
+            "filename": "epigraphia-indica-vol-8-hultzsch-e.md"
+          },
+          {
+            "volumeNumber": 9,
+            "fullTitle": "Epigraphia Indica Vol.9",
+            "filename": "epigraphia-indica-vol-9-hultzsch-e.md"
+          },
+          {
+            "volumeNumber": 10,
+            "fullTitle": "Epigraphia Indica Vol.10",
+            "filename": "epigraphia-indica-vol-10-hultzsch-e.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "Historical sketches of the south of India",
+        "author": "Wilks, Mark",
+        "totalVolumes": 3,
+        "candidateVolumes": 3,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          3
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "Historical sketches of the south of India Vol. 1",
+            "filename": "historical-sketches-of-the-south-of-india-vol-1-wilks-mark.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "Historical sketches of the south of India Vol. 2",
+            "filename": "historical-sketches-of-the-south-of-india-vol-2-wilks-mark.md"
+          },
+          {
+            "volumeNumber": 3,
+            "fullTitle": "Historical sketches of the south of India Vol. 3",
+            "filename": "historical-sketches-of-the-south-of-india-vol-3-wilks-mark.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "Journal of the Bombay Branch of the Royal Asiatic Society",
+        "author": "Asiatic Society of Bombay",
+        "totalVolumes": 3,
+        "candidateVolumes": 3,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          3
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "Journal of the Bombay Branch of the Royal Asiatic Society Vol. 1",
+            "filename": "journal-of-the-bombay-branch-of-the-royal-asiatic-society-vol-1-asiatic-society-of-bombay.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "Journal of the Bombay Branch of the Royal Asiatic Society Vol. 2",
+            "filename": "journal-of-the-bombay-branch-of-the-royal-asiatic-society-vol-2-asiatic-society-of-bombay.md"
+          },
+          {
+            "volumeNumber": 3,
+            "fullTitle": "Journal of the Bombay Branch of the Royal Asiatic Society Vol. 3",
+            "filename": "journal-of-the-bombay-branch-of-the-royal-asiatic-society-vol-3-asiatic-society-of-bombay.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "Linguistic survey of India",
+        "author": "Grierson, George Abraham",
+        "totalVolumes": 4,
+        "candidateVolumes": 4,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "Linguistic survey of India, Volume 1",
+            "filename": "linguistic-survey-of-india-volume-1-grierson-george-abraham.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "Linguistic survey of India, Volume 2",
+            "filename": "linguistic-survey-of-india-volume-2-grierson-george-abraham.md"
+          },
+          {
+            "volumeNumber": 3,
+            "fullTitle": "Linguistic survey of India, Volume 3",
+            "filename": "linguistic-survey-of-india-volume-3-grierson-george-abraham.md"
+          },
+          {
+            "volumeNumber": 4,
+            "fullTitle": "Linguistic survey of India, Volume 4",
+            "filename": "linguistic-survey-of-india-volume-4-grierson-george-abraham.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "List of Muhammadan and Hindu monuments",
+        "author": "Unknown",
+        "totalVolumes": 3,
+        "candidateVolumes": 3,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          3
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "List of Muhammadan and Hindu monuments vol.1",
+            "filename": "list-of-muhammadan-and-hindu-monuments-vol-1-unknown.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "List of Muhammadan and Hindu monuments vol.2",
+            "filename": "list-of-muhammadan-and-hindu-monuments-vol-2-unknown.md"
+          },
+          {
+            "volumeNumber": 3,
+            "fullTitle": "List of Muhammadan and Hindu monuments vol.3",
+            "filename": "list-of-muhammadan-and-hindu-monuments-vol-3-unknown.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "Original Sanskrit texts",
+        "author": "Muir, John",
+        "totalVolumes": 5,
+        "candidateVolumes": 5,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "Original Sanskrit texts, Volume 1",
+            "filename": "original-sanskrit-texts-volume-1-muir-john.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "Original Sanskrit texts, Volume 2",
+            "filename": "original-sanskrit-texts-volume-2-muir-john.md"
+          },
+          {
+            "volumeNumber": 3,
+            "fullTitle": "Original Sanskrit texts, Volume 3",
+            "filename": "original-sanskrit-texts-volume-3-muir-john.md"
+          },
+          {
+            "volumeNumber": 4,
+            "fullTitle": "Original Sanskrit texts, Volume 4",
+            "filename": "original-sanskrit-texts-volume-4-muir-john.md"
+          },
+          {
+            "volumeNumber": 5,
+            "fullTitle": "Original Sanskrit texts, Volume 5",
+            "filename": "original-sanskrit-texts-volume-5-muir-john.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "Rig-Veda-Sanhita",
+        "author": "Wilson, H. H.",
+        "totalVolumes": 4,
+        "candidateVolumes": 4,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "Rig-Veda-Sanhita, Volume 1",
+            "filename": "rig-veda-sanhita-volume-1-wilson-h-h.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "Rig-Veda-Sanhita, Volume 2",
+            "filename": "rig-veda-sanhita-volume-2-wilson-h-h.md"
+          },
+          {
+            "volumeNumber": 3,
+            "fullTitle": "Rig-Veda-Sanhita, Volume 3",
+            "filename": "rig-veda-sanhita-volume-3-wilson-h-h.md"
+          },
+          {
+            "volumeNumber": 4,
+            "fullTitle": "Rig-Veda-Sanhita, Volume 4",
+            "filename": "rig-veda-sanhita-volume-4-wilson-h-h.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "South Indian inscriptions",
+        "author": "Hultzsch, E.",
+        "totalVolumes": 3,
+        "candidateVolumes": 3,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          3
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "South Indian inscriptions, Volume 1",
+            "filename": "south-indian-inscriptions-volume-1-hultzsch-e.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "South Indian inscriptions, Volume 2",
+            "filename": "south-indian-inscriptions-volume-2-hultzsch-e.md"
+          },
+          {
+            "volumeNumber": 3,
+            "fullTitle": "South Indian inscriptions, Volume 3",
+            "filename": "south-indian-inscriptions-volume-3-hultzsch-e.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "The history of British India",
+        "author": "Mill, James",
+        "totalVolumes": 3,
+        "candidateVolumes": 3,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          3
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "The history of British India, Volume 1",
+            "filename": "the-history-of-british-india-volume-1-mill-james.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "The history of British India, Volume 2",
+            "filename": "the-history-of-british-india-volume-2-mill-james.md"
+          },
+          {
+            "volumeNumber": 3,
+            "fullTitle": "The history of British India, Volume 3",
+            "filename": "the-history-of-british-india-volume-3-mill-james.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "The Indian Empire",
+        "author": "Government of India",
+        "totalVolumes": 3,
+        "candidateVolumes": 3,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          3
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "The Indian Empire, Volume 1",
+            "filename": "the-indian-empire-volume-1-government-of-india.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "The Indian Empire, Volume 2",
+            "filename": "the-indian-empire-volume-2-government-of-india.md"
+          },
+          {
+            "volumeNumber": 3,
+            "fullTitle": "The Indian Empire, Volume 3",
+            "filename": "the-indian-empire-volume-3-government-of-india.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "The Mhávansi, the Ráj́aratná́cari, and the Rá́javali",
+        "author": "Upham, Edward; Abharaya; Fox, William Buckley; Mahanama",
+        "totalVolumes": 3,
+        "candidateVolumes": 3,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          3
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "The Mhávansi, the Ráj́aratná́cari, and the Rá́javali Vol. 1",
+            "filename": "the-mh-vansi-the-r-j-aratn-cari-and-the-r-javali-vol-1-upham-edward-abharaya-fox-william-buckley-mah.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "The Mhávansi, the Ráj́aratná́cari, and the Rá́javali Vol. 2",
+            "filename": "the-mh-vansi-the-r-j-aratn-cari-and-the-r-javali-vol-2-upham-edward-abharaya-fox-william-buckley-mah.md"
+          },
+          {
+            "volumeNumber": 3,
+            "fullTitle": "The Mhávansi, the Ráj́aratná́cari, and the Rá́javali Vol. 3",
+            "filename": "the-mh-vansi-the-r-j-aratn-cari-and-the-r-javali-vol-3-upham-edward-abharaya-fox-william-buckley-mah.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "Tracts in the Oriya language",
+        "author": "Sutton, Amos",
+        "totalVolumes": 3,
+        "candidateVolumes": 3,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          3
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "Tracts in the Oriya language, Vol. 1",
+            "filename": "tracts-in-the-oriya-language-vol-1-sutton-amos.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "Tracts in the Oriya language, Vol. 2",
+            "filename": "tracts-in-the-oriya-language-vol-2-sutton-amos.md"
+          },
+          {
+            "volumeNumber": 3,
+            "fullTitle": "Tracts in the Oriya language, Vol. 3",
+            "filename": "tracts-in-the-oriya-language-vol-3-sutton-amos.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "Voyages and travels in India, Ceylon, the Red Sea, Abyssinia, and Egypt",
+        "author": "Mountnorris, George Annesley, Earl of",
+        "totalVolumes": 3,
+        "candidateVolumes": 3,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          3
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "Voyages and travels in India, Ceylon, the Red Sea, Abyssinia, and Egypt Vol. 1",
+            "filename": "voyages-and-travels-in-india-ceylon-the-red-sea-abyssinia-and-egypt-vol-1-mountnorris-george-annesle.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "Voyages and travels in India, Ceylon, the Red Sea, Abyssinia, and Egypt Vol. 2",
+            "filename": "voyages-and-travels-in-india-ceylon-the-red-sea-abyssinia-and-egypt-vol-2-mountnorris-george-annesle.md"
+          },
+          {
+            "volumeNumber": 3,
+            "fullTitle": "Voyages and travels in India, Ceylon, the Red Sea, Abyssinia, and Egypt Vol. 3",
+            "filename": "voyages-and-travels-in-india-ceylon-the-red-sea-abyssinia-and-egypt-vol-3-mountnorris-george-annesle.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "Works of Horace Hayman Wilson",
+        "author": "Wilson, H. H.",
+        "totalVolumes": 3,
+        "candidateVolumes": 3,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          3
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "Works of Horace Hayman Wilson, Volume 1",
+            "filename": "works-of-horace-hayman-wilson-volume-1-wilson-h-h.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "Works of Horace Hayman Wilson, Volume 2",
+            "filename": "works-of-horace-hayman-wilson-volume-2-wilson-h-h.md"
+          },
+          {
+            "volumeNumber": 3,
+            "fullTitle": "Works of Horace Hayman Wilson, Volume 3",
+            "filename": "works-of-horace-hayman-wilson-volume-3-wilson-h-h.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "Zend-Avesta, ouvrage de Zoroastre",
+        "author": "Anquetil-Duperron, M. (Abraham-Hyacinthe)",
+        "totalVolumes": 3,
+        "candidateVolumes": 3,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          3
+        ],
+        "missingVolumes": [],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "Zend-Avesta, ouvrage de Zoroastre, Vol. 1",
+            "filename": "zend-avesta-ouvrage-de-zoroastre-vol-1-anquetil-duperron-m-abraham-hyacinthe.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "Zend-Avesta, ouvrage de Zoroastre, Vol. 2",
+            "filename": "zend-avesta-ouvrage-de-zoroastre-vol-2-anquetil-duperron-m-abraham-hyacinthe.md"
+          },
+          {
+            "volumeNumber": 3,
+            "fullTitle": "Zend-Avesta, ouvrage de Zoroastre, Vol. 3",
+            "filename": "zend-avesta-ouvrage-de-zoroastre-vol-3-anquetil-duperron-m-abraham-hyacinthe.md"
+          }
+        ]
+      }
+    ],
+    "incomplete": [
+      {
+        "baseTitle": "Archaeological Survey Of India",
+        "author": "Cunningham, Alexander",
+        "totalVolumes": 2,
+        "candidateVolumes": 2,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          5
+        ],
+        "missingVolumes": [
+          2,
+          3,
+          4
+        ],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "Archaeological Survey Of India Vol. 1",
+            "filename": "archaeological-survey-of-india-vol-1-cunningham-alexander.md"
+          },
+          {
+            "volumeNumber": 5,
+            "fullTitle": "Archaeological Survey Of India Vol. 5",
+            "filename": "archaeological-survey-of-india-vol-5-cunningham-alexander.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "Gazetteer of the territories under the Govt. of East India Company",
+        "author": "Thornton, Edward",
+        "totalVolumes": 3,
+        "candidateVolumes": 3,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          4
+        ],
+        "missingVolumes": [
+          3
+        ],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "Gazetteer of the territories under the Govt. of East India Company Vol. 1",
+            "filename": "gazetteer-of-the-territories-under-the-govt-of-east-india-company-vol-1-thornton-edward.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "Gazetteer of the territories under the Govt. of East India Company Vol. 2",
+            "filename": "gazetteer-of-the-territories-under-the-govt-of-east-india-company-vol-2-thornton-edward.md"
+          },
+          {
+            "volumeNumber": 4,
+            "fullTitle": "Gazetteer of the territories under the Govt. of East India Company Vol. 4",
+            "filename": "gazetteer-of-the-territories-under-the-govt-of-east-india-company-vol-4-thornton-edward.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "Imperial Gazetteer of India",
+        "author": "Hunter, William Wilson",
+        "totalVolumes": 4,
+        "candidateVolumes": 4,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          2,
+          5,
+          9
+        ],
+        "missingVolumes": [
+          3,
+          4,
+          6,
+          7,
+          8
+        ],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "Imperial Gazetteer of India, Volume 1",
+            "filename": "imperial-gazetteer-of-india-volume-1-hunter-william-wilson.md"
+          },
+          {
+            "volumeNumber": 2,
+            "fullTitle": "Imperial Gazetteer of India, Volume 2",
+            "filename": "imperial-gazetteer-of-india-volume-2-hunter-william-wilson.md"
+          },
+          {
+            "volumeNumber": 5,
+            "fullTitle": "Imperial Gazetteer of India, Volume 5",
+            "filename": "imperial-gazetteer-of-india-volume-5-hunter-william-wilson.md"
+          },
+          {
+            "volumeNumber": 9,
+            "fullTitle": "Imperial Gazetteer of India, Volume 9",
+            "filename": "imperial-gazetteer-of-india-volume-9-hunter-william-wilson.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "Journal of the Asiatic Society of Bengal",
+        "author": "Asiatic Society (Calcutta, India)",
+        "totalVolumes": 6,
+        "candidateVolumes": 6,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          1,
+          31,
+          36,
+          44,
+          64,
+          65
+        ],
+        "missingVolumes": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          32,
+          33,
+          34,
+          35,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63
+        ],
+        "volumes": [
+          {
+            "volumeNumber": 1,
+            "fullTitle": "Journal of the Asiatic Society of Bengal Vol. 1",
+            "filename": "journal-of-the-asiatic-society-of-bengal-vol-1-asiatic-society-calcutta-india.md"
+          },
+          {
+            "volumeNumber": 31,
+            "fullTitle": "Journal of the Asiatic Society of Bengal Vol. 31",
+            "filename": "journal-of-the-asiatic-society-of-bengal-vol-31-asiatic-society-calcutta-india.md"
+          },
+          {
+            "volumeNumber": 36,
+            "fullTitle": "Journal of the Asiatic Society of Bengal Vol. 36",
+            "filename": "journal-of-the-asiatic-society-of-bengal-vol-36-asiatic-society-calcutta-india.md"
+          },
+          {
+            "volumeNumber": 44,
+            "fullTitle": "Journal of the Asiatic Society of Bengal Vol. 44",
+            "filename": "journal-of-the-asiatic-society-of-bengal-vol-44-asiatic-society-calcutta-india.md"
+          },
+          {
+            "volumeNumber": 64,
+            "fullTitle": "Journal of the Asiatic Society of Bengal Vol. 64",
+            "filename": "journal-of-the-asiatic-society-of-bengal-vol-64-asiatic-society-calcutta-india.md"
+          },
+          {
+            "volumeNumber": 65,
+            "fullTitle": "Journal of the Asiatic Society of Bengal Vol. 65",
+            "filename": "journal-of-the-asiatic-society-of-bengal-vol-65-asiatic-society-calcutta-india.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "Journal of the Asiatic Society of Bengal",
+        "author": "Asiatic Society of Bengal",
+        "totalVolumes": 8,
+        "candidateVolumes": 8,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          4,
+          7,
+          16,
+          24,
+          40,
+          47,
+          52,
+          67
+        ],
+        "missingVolumes": [
+          5,
+          6,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          48,
+          49,
+          50,
+          51,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66
+        ],
+        "volumes": [
+          {
+            "volumeNumber": 4,
+            "fullTitle": "Journal of the Asiatic Society of Bengal Vol. 4",
+            "filename": "journal-of-the-asiatic-society-of-bengal-vol-4-asiatic-society-of-bengal.md"
+          },
+          {
+            "volumeNumber": 7,
+            "fullTitle": "Journal of the Asiatic Society of Bengal Vol. 7",
+            "filename": "journal-of-the-asiatic-society-of-bengal-vol-7-asiatic-society-of-bengal.md"
+          },
+          {
+            "volumeNumber": 16,
+            "fullTitle": "Journal of the Asiatic Society of Bengal Vol. 16",
+            "filename": "journal-of-the-asiatic-society-of-bengal-vol-16-asiatic-society-of-bengal.md"
+          },
+          {
+            "volumeNumber": 24,
+            "fullTitle": "Journal of the Asiatic Society of Bengal Vol. 24",
+            "filename": "journal-of-the-asiatic-society-of-bengal-vol-24-asiatic-society-of-bengal.md"
+          },
+          {
+            "volumeNumber": 40,
+            "fullTitle": "Journal of the Asiatic Society of Bengal Vol. 40",
+            "filename": "journal-of-the-asiatic-society-of-bengal-vol-40-asiatic-society-of-bengal.md"
+          },
+          {
+            "volumeNumber": 47,
+            "fullTitle": "Journal of the Asiatic Society of Bengal Vol. 47",
+            "filename": "journal-of-the-asiatic-society-of-bengal-vol-47-asiatic-society-of-bengal.md"
+          },
+          {
+            "volumeNumber": 52,
+            "fullTitle": "Journal of the Asiatic Society of Bengal Vol. 52",
+            "filename": "journal-of-the-asiatic-society-of-bengal-vol-52-asiatic-society-of-bengal.md"
+          },
+          {
+            "volumeNumber": 67,
+            "fullTitle": "Journal of the Asiatic Society of Bengal Vol. 67",
+            "filename": "journal-of-the-asiatic-society-of-bengal-vol-67-asiatic-society-of-bengal.md"
+          }
+        ]
+      },
+      {
+        "baseTitle": "The vishnu puran: a system of Hindu mythology and tradition",
+        "author": "Wilson, H.H.",
+        "totalVolumes": 2,
+        "candidateVolumes": 2,
+        "existingVolumes": 0,
+        "volumeNumbers": [
+          2,
+          5
+        ],
+        "missingVolumes": [
+          3,
+          4
+        ],
+        "volumes": [
+          {
+            "volumeNumber": 2,
+            "fullTitle": "The vishnu puran: a system of Hindu mythology and tradition vol.2",
+            "filename": "the-vishnu-puran-a-system-of-hindu-mythology-and-tradition-vol-2-wilson-h-h.md"
+          },
+          {
+            "volumeNumber": 5,
+            "fullTitle": "The vishnu puran: a system of Hindu mythology and tradition vol.5",
+            "filename": "the-vishnu-puran-a-system-of-hindu-mythology-and-tradition-vol-5-wilson-h-h.md"
+          }
+        ]
+      }
+    ]
+  }
+}
