@@ -1,0 +1,54 @@
+---
+title: "History of India from the earliest times to 1880"
+author: ["Pearce, William C."]
+year: 1800
+language: ["English"]
+genre: ["Indian History"]
+description: "History of India from the earliest times to 1880 by Pearce, William C., published in 1800. Indian History."
+collections: []
+sources:
+  - name: "Internet Archive"
+    url: "https://archive.org/details/historyofindiafr00pear"
+    type: "other"
+references:
+  - name: "Wikipedia search"
+    url: "https://en.wikipedia.org/wiki/Special:Search/History%20of%20India%20from%20the%20earliest%20times%20to%201880"
+    type: "wikipedia"
+featured: false
+publishDate: 2025-11-07
+tags: ["Indian History"]
+_public_domain_status: "true"
+_public_domain_reason: "Published in 1800 (before 1924)"
+_public_domain_confidence: "high"
+_collection: "Wave 7 - Comprehensive Literature"
+_identifier: "historyofindiafr00pear"
+_needs_review: true
+_fetched_date: "2025-11-07"
+_wave: "7"
+_search_type: "literature"
+---
+
+# History of India from the earliest times to 1880
+
+## Overview
+
+History of India from the earliest times to 1880 by Pearce, William C., published in 1800. Indian History.
+
+## Public Domain Status
+
+**Status**: ✓ Public Domain
+**Reason**: Published in 1800 (before 1924)
+**Confidence**: High
+
+## Source
+
+[View on Archive.org](https://archive.org/details/historyofindiafr00pear)
+
+**Collection**: Wave 7 - Comprehensive Literature
+**Identifier**: `historyofindiafr00pear`
+
+---
+
+**Note**: This work was automatically fetched from Wave 7 literature searches and requires review before adding to the main collection.
+
+**Fetched**: 2025-11-07
