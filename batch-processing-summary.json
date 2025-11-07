@@ -1,0 +1,591 @@
+{
+  "stats": {
+    "total": 75,
+    "pd": 75,
+    "duplicates": 24,
+    "recent": 0,
+    "unique": 51
+  },
+  "candidates": [
+    {
+      "id": "cu31924023185584",
+      "title": "Manuscript remains of Buddhist literature found in Eastern Turkestan",
+      "creator": "Hoernle, A. F. Rudolf",
+      "year": 1916,
+      "subjects": [
+        "Buddhist literature",
+        "Buddhist literature, Sanskrit"
+      ],
+      "language": "eng",
+      "collection": "cornellSanskrit"
+    },
+    {
+      "id": "cu31924023329877",
+      "title": "The history of Indian literature",
+      "creator": "Weber, Albrecht",
+      "year": 1892,
+      "subjects": [
+        "Indic literature",
+        "Vedic literature",
+        "Sanskrit literature"
+      ],
+      "language": "eng",
+      "collection": "cornellSanskrit"
+    },
+    {
+      "id": "cu31924022960821",
+      "title": "The history of Indian literature",
+      "creator": "Weber, Albrecht",
+      "year": 1878,
+      "subjects": [
+        "Sanskrit literature"
+      ],
+      "language": "eng",
+      "collection": "cornellSanskrit"
+    },
+    {
+      "id": "cu31924021023613",
+      "title": "A view of the history, literature, and religion of the Hindoos",
+      "creator": "Ward, William",
+      "year": 1863,
+      "subjects": [
+        "Hindus",
+        "Sanskrit literature",
+        "Mythology, Hindu"
+      ],
+      "language": "eng",
+      "collection": "cornellSanskrit"
+    },
+    {
+      "id": "cu31924023200235",
+      "title": "Panini: his place in Sanskrit literature",
+      "creator": "Goldstucker, Theodor",
+      "year": 1861,
+      "subjects": [
+        "Panini"
+      ],
+      "language": "eng",
+      "collection": "cornellSanskrit"
+    },
+    {
+      "id": "cu31924022944619",
+      "title": "Studies about the Sanskrit Buddhist literature",
+      "creator": "Gawronski, Andrzej",
+      "year": 1919,
+      "subjects": [
+        "Sanskrit literature"
+      ],
+      "language": "eng",
+      "collection": "cornellSanskrit"
+    },
+    {
+      "id": "cu31924022960698",
+      "title": "Hindu literature, or, The ancient books of India",
+      "creator": "Reed, Elizabeth Armstrong",
+      "year": 1907,
+      "subjects": [
+        "Sanskrit literature"
+      ],
+      "language": "eng",
+      "collection": "cornellSanskrit"
+    },
+    {
+      "id": "cu31924023177045",
+      "title": "Papers relating to the collection and preservation of the records of ancient Sanskrit literature in India",
+      "creator": "Gough, Archibald Edward",
+      "year": 1878,
+      "subjects": [
+        "Manuscripts, Sanskrit"
+      ],
+      "language": "eng",
+      "collection": "cornellSanskrit"
+    },
+    {
+      "id": "cu31924022888196",
+      "title": "India, old and new",
+      "creator": "Hopkins, Edward Washburn",
+      "year": 1902,
+      "subjects": [
+        "Vedas",
+        "Sanskrit literature"
+      ],
+      "language": "eng",
+      "collection": "cornellSanskrit"
+    },
+    {
+      "id": "cu31924022960433",
+      "title": "A short history of Indian literature",
+      "creator": "Horrwitz, E. P.",
+      "year": 1907,
+      "subjects": [
+        "Indic literature",
+        "Sanskrit literature"
+      ],
+      "language": "eng",
+      "collection": "cornellSanskrit"
+    },
+    {
+      "id": "cu31924029111314",
+      "title": "Sanskrit and its kindred literatures. Studies in comparative mythology",
+      "creator": "Poor, Laura Elizabeth",
+      "year": 1880,
+      "subjects": [
+        "Mythology",
+        "Literature, Ancient"
+      ],
+      "language": "eng",
+      "collection": "cornellSanskrit"
+    },
+    {
+      "id": "cu31924022996809",
+      "title": "Studies in early Indian thought",
+      "creator": "Stephen, Dorothea Jane",
+      "year": 1918,
+      "subjects": [
+        "Philosophy, Hindu",
+        "Sanskrit literature"
+      ],
+      "language": "eng",
+      "collection": "cornellSanskrit"
+    },
+    {
+      "id": "indianphilosophy04dasguoft",
+      "title": "A history of Indian philosophy (Vol. 4)",
+      "creator": "Dasgupta, Surendranath",
+      "year": 1922,
+      "subjects": [
+        "Philosophy, Hindu"
+      ],
+      "language": "eng",
+      "collection": "torontoPhilosophy"
+    },
+    {
+      "id": "indianwisdomwith00moniuoft",
+      "title": "Indian wisdom",
+      "creator": "Monier-Williams, Monier, Sir",
+      "year": 1876,
+      "subjects": [
+        "Philosophy, Hindu"
+      ],
+      "language": "eng",
+      "collection": "torontoPhilosophy"
+    },
+    {
+      "id": "indianphilosophy03dasguoft",
+      "title": "A history of Indian philosophy (Vol. 3)",
+      "creator": "Dasgupta, Surendranath",
+      "year": 1922,
+      "subjects": [
+        "Philosophy, Hindu"
+      ],
+      "language": "eng",
+      "collection": "torontoPhilosophy"
+    },
+    {
+      "id": "indianphilosophy05dasguoft",
+      "title": "A history of Indian philosophy (Vol. 5)",
+      "creator": "Dasgupta, Surendranath",
+      "year": 1922,
+      "subjects": [
+        "Philosophy, Hindu"
+      ],
+      "language": "eng",
+      "collection": "torontoPhilosophy"
+    },
+    {
+      "id": "hinduphilosophys00davi",
+      "title": "Hindu philosophy, the Sankhya Karika of Iswara Krishna",
+      "creator": "Davies, John",
+      "year": 1881,
+      "subjects": [
+        "Kapila",
+        "Hinduism"
+      ],
+      "language": "eng",
+      "collection": "torontoPhilosophy"
+    },
+    {
+      "id": "tamilwisdomtradi00robiuoft",
+      "title": "Tamil wisdom",
+      "creator": "Robinson, Edward Jewitt",
+      "year": 1873,
+      "subjects": [
+        "Philosophy, Hindu"
+      ],
+      "language": "eng",
+      "collection": "torontoPhilosophy"
+    },
+    {
+      "id": "historyofindianp01dasguoft",
+      "title": "A history of Indian philosophy (Vol. 1 variant)",
+      "creator": "Dasgupta, Surendranath",
+      "year": 1922,
+      "subjects": [
+        "Philosophy, Hindu"
+      ],
+      "language": "eng",
+      "collection": "torontoPhilosophy"
+    },
+    {
+      "id": "panchadasiofsree00maaduoft",
+      "title": "A hand-book of Hindu pantheism: The Panchadasi",
+      "creator": "Madhava",
+      "year": 1899,
+      "subjects": [
+        "Hinduism",
+        "Philosophy, Hindu"
+      ],
+      "language": "eng",
+      "collection": "torontoPhilosophy"
+    },
+    {
+      "id": "hinduphilosophy00boseuoft",
+      "title": "Hindu philosophy popularly explained",
+      "creator": "Bose, Ram Chandra",
+      "year": 1887,
+      "subjects": [
+        "Hinduism",
+        "Philosophy, Hindu"
+      ],
+      "language": "eng",
+      "collection": "torontoPhilosophy"
+    },
+    {
+      "id": "thebhagavadgitah00xxxxuoft",
+      "title": "Hindu philosophy. The Bhagavad gita",
+      "creator": "Davies, John",
+      "year": 1882,
+      "subjects": [
+        "Bhagavad Gita"
+      ],
+      "language": "eng",
+      "collection": "torontoPhilosophy"
+    },
+    {
+      "id": "vedantaphilos00abheuoft",
+      "title": "Vedanta philosophy, divine heritage of man",
+      "creator": "Abhedananda, Swami",
+      "year": 1903,
+      "subjects": [
+        "Philosophy, Hindu",
+        "Vedanta"
+      ],
+      "language": "eng",
+      "collection": "torontoPhilosophy"
+    },
+    {
+      "id": "hindurealism00chatuoft",
+      "title": "The Hindu realism",
+      "creator": "Jagadisa-Chandra Chattopadhyaya",
+      "year": 1912,
+      "subjects": [
+        "Philosophy, Hindu",
+        "Nyaya"
+      ],
+      "language": "eng",
+      "collection": "torontoPhilosophy"
+    },
+    {
+      "id": "indianthoughtpas00frazuoft",
+      "title": "Indian thought past and present",
+      "creator": "Frazer, R. W.",
+      "year": 1915,
+      "subjects": [
+        "Philosophy, Hindu"
+      ],
+      "language": "eng",
+      "collection": "torontoPhilosophy"
+    },
+    {
+      "id": "ancientindiaphil00garbuoft",
+      "title": "The philosophy of ancient India",
+      "creator": "Garbe, Richard",
+      "year": 1897,
+      "subjects": [
+        "Philosophy, Hindu"
+      ],
+      "language": "eng",
+      "collection": "torontoPhilosophy"
+    },
+    {
+      "id": "theupanishadsand00urquuoft",
+      "title": "The Upanishads and life",
+      "creator": "Urquhart, William Spence",
+      "year": 1916,
+      "subjects": [
+        "Upanishads",
+        "Philosophy, Hindu"
+      ],
+      "language": "eng",
+      "collection": "torontoPhilosophy"
+    },
+    {
+      "id": "amanualofhindu00jacouoft",
+      "title": "A manual of Hindu pantheism, the Vedantasara",
+      "creator": "Jacob, George Adolphus",
+      "year": 1888,
+      "subjects": [
+        "Vedanta philosophy"
+      ],
+      "language": "eng",
+      "collection": "torontoPhilosophy"
+    },
+    {
+      "id": "hinduphilosophyb00daviuoft",
+      "title": "Hindu philosophy: The Bhagavad Gita (variant)",
+      "creator": "Davies, John",
+      "year": 1889,
+      "subjects": [
+        "Bhagavad Gita"
+      ],
+      "language": "eng",
+      "collection": "torontoPhilosophy"
+    },
+    {
+      "id": "hindulogic00sugiuoft",
+      "title": "Hindu logic as preserved in China and Japan",
+      "creator": "Sugiura, Sadajiro",
+      "year": 1900,
+      "subjects": [
+        "Logic -- History",
+        "Philosophy, Hindu"
+      ],
+      "language": "eng",
+      "collection": "torontoPhilosophy"
+    },
+    {
+      "id": "siyukibuddhistre02hsuoft",
+      "title": "Si-yu-ki, Buddhist records of the Western world (Vol 2)",
+      "creator": "Hsüan-tsang; Beal, Samuel",
+      "year": 1884,
+      "subjects": [
+        "Buddhism"
+      ],
+      "language": "eng",
+      "collection": "torontoBuddhist"
+    },
+    {
+      "id": "handbookofchines00eite",
+      "title": "Hand-book of Chinese Buddhism",
+      "creator": "Eitel, Ernest John",
+      "year": 1904,
+      "subjects": [
+        "Buddhism"
+      ],
+      "language": "eng",
+      "collection": "torontoBuddhist"
+    },
+    {
+      "id": "sanskritbuddhist00asiauoft",
+      "title": "The Sanskrit Buddhist literature of Nepal",
+      "creator": "Asiatic Library; Mitra, Rajendralala",
+      "year": 1882,
+      "subjects": [
+        "Buddhism -- Nepal"
+      ],
+      "language": "eng",
+      "collection": "torontoBuddhist"
+    },
+    {
+      "id": "catalogueofbuddh00camb",
+      "title": "Catalogue of the Buddhist Sanskrit manuscripts",
+      "creator": "Cambridge University Library; Bendall, Cecil",
+      "year": 1883,
+      "subjects": [
+        "Manuscripts, Sanskrit",
+        "Buddhism"
+      ],
+      "language": "eng",
+      "collection": "torontoBuddhist"
+    },
+    {
+      "id": "historyofnepl00sing",
+      "title": "History of Nepl",
+      "creator": "Singh, Shew Shunker",
+      "year": 1877,
+      "subjects": [
+        "Nepal -- History"
+      ],
+      "language": "eng",
+      "collection": "torontoBuddhist"
+    },
+    {
+      "id": "asokabuddhistemp00smituoft",
+      "title": "Asoka, the Buddhist emperor of India",
+      "creator": "Smith, Vincent Arthur",
+      "year": 1901,
+      "subjects": [
+        "Asoka"
+      ],
+      "language": "eng",
+      "collection": "torontoBuddhist"
+    },
+    {
+      "id": "lightofasiaorgre00arnouoft",
+      "title": "The light of Asia",
+      "creator": "Arnold, Edwin, Sir",
+      "year": 1879,
+      "subjects": [
+        "Buddhism -- Poetry"
+      ],
+      "language": "eng",
+      "collection": "torontoBuddhist"
+    },
+    {
+      "id": "buddhistindia00daviuoft",
+      "title": "Buddhist India",
+      "creator": "Davids, Thomas William Rhys",
+      "year": 1911,
+      "subjects": [
+        "Buddha and Buddhism"
+      ],
+      "language": "eng",
+      "collection": "torontoBuddhist"
+    },
+    {
+      "id": "asokabuddhistem00smit",
+      "title": "Asoka, the Buddhist emperor of India",
+      "creator": "Smith, Vincent Arthur",
+      "year": 1909,
+      "subjects": [
+        "Asoka"
+      ],
+      "language": "eng",
+      "collection": "torontoBuddhist"
+    },
+    {
+      "id": "studiesinhistory00lyonuoft",
+      "title": "Studies in the history of religions",
+      "creator": "Lyon, David Gordon; Moore, George Foot",
+      "year": 1912,
+      "subjects": [
+        "Religion -- History"
+      ],
+      "language": "eng",
+      "collection": "torontoBuddhist"
+    },
+    {
+      "id": "sragdharastotram00sarvuoft",
+      "title": "Sragdhara-stotram; or, A hymn to Tara",
+      "creator": "Sarvajña Mitra",
+      "year": 1908,
+      "subjects": [
+        "Buddhist hymns"
+      ],
+      "language": "san",
+      "collection": "torontoBuddhist"
+    },
+    {
+      "id": "buddhistindiaytw00davi",
+      "title": "Buddhist India",
+      "creator": "Davids, T. W. Rhys",
+      "year": 1903,
+      "subjects": [
+        "Buddha"
+      ],
+      "language": "eng",
+      "collection": "torontoBuddhist"
+    },
+    {
+      "id": "lightofasiaor00arnouoft",
+      "title": "The light of Asia",
+      "creator": "Arnold, Edwin, Sir",
+      "year": 1884,
+      "subjects": [
+        "Buddhism -- Poetry"
+      ],
+      "language": "eng",
+      "collection": "torontoBuddhist"
+    },
+    {
+      "id": "catalogueofprint00asiauoft",
+      "title": "Catalogue of printed books and manuscripts in Sanskrit",
+      "creator": "Asiatic Society",
+      "year": 1903,
+      "subjects": [
+        "Buddhism",
+        "Sanskrit literature"
+      ],
+      "language": "san",
+      "collection": "torontoBuddhist"
+    },
+    {
+      "id": "heartofbuddhismb00saunuoft",
+      "title": "The heart of Buddhism, being an anthology of Buddhist verse",
+      "creator": "Saunders, Kenneth J.",
+      "year": 1915,
+      "subjects": [
+        "Sanskrit literature"
+      ],
+      "language": "eng",
+      "collection": "torontoBuddhist"
+    },
+    {
+      "id": "bengalassambehar00playuoft",
+      "title": "Bengal and Assam, Behar and Orissa",
+      "creator": "Playne, Somerset",
+      "year": 1917,
+      "subjects": [
+        "India -- Description"
+      ],
+      "language": "eng",
+      "collection": "torontoHistory"
+    },
+    {
+      "id": "baburnamainengli02babuuoft",
+      "title": "The Babur-nama in English Vol 2",
+      "creator": "Babur",
+      "year": 1922,
+      "subjects": [
+        "India -- History"
+      ],
+      "language": "eng",
+      "collection": "torontoHistory"
+    },
+    {
+      "id": "dictionaryofindi00buckuoft",
+      "title": "Dictionary of Indian biography",
+      "creator": "Buckland, Charles Edward",
+      "year": 1906,
+      "subjects": [
+        "India -- Biography"
+      ],
+      "language": "eng",
+      "collection": "torontoHistory"
+    },
+    {
+      "id": "historyofmaratha03kincuoft",
+      "title": "A history of the Maratha people (Vol. 3)",
+      "creator": "Kincaid, Charles Augustus",
+      "year": 1918,
+      "subjects": [
+        "Marathas",
+        "India -- History"
+      ],
+      "language": "eng",
+      "collection": "torontoHistory"
+    },
+    {
+      "id": "latermughals01irviuoft",
+      "title": "Later Mughals (Vols. 1-2)",
+      "creator": "Irvine, William",
+      "year": 1922,
+      "subjects": [
+        "India -- History"
+      ],
+      "language": "eng",
+      "collection": "torontoHistory"
+    },
+    {
+      "id": "historyofmaratha02kincuoft",
+      "title": "A history of the Maratha people (Vol. 2)",
+      "creator": "Kincaid, Charles Augustus",
+      "year": 1918,
+      "subjects": [
+        "Marathas"
+      ],
+      "language": "eng",
+      "collection": "torontoHistory"
+    }
+  ]
+}
