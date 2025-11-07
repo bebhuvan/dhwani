@@ -1,0 +1,239 @@
+{
+  "work": {
+    "title": "Thirukkural",
+    "author": "Thiruvalluvar",
+    "original_language": "Tamil",
+    "search_terms": [
+      "Thirukkural",
+      "Tirukkural",
+      "Kural",
+      "Valluvar"
+    ],
+    "year_range": [
+      1850,
+      2023
+    ],
+    "category": "tamil_wisdom",
+    "search_mode": "translation"
+  },
+  "search_result": {
+    "creator": "Thiruvalluvar",
+    "description": "TIRUKKURAL English Translation and Commentary by Rev Dr G U Pope, Rev W H Drew, Rev John Lazarus and Mr F W Elli",
+    "downloads": 3511,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVuTXT",
+      "Djvu XML",
+      "EPUB",
+      "Item Tile",
+      "Metadata",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "THIRUKKURALEnglishTranslationAndCommentaryProjectMadurai",
+    "language": "eng",
+    "subject": [
+      "Thirukkural",
+      "Tamil Literature"
+    ],
+    "title": "THIRUKKURAL English Translation And Commentary Project Madurai"
+  },
+  "detailed_metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/THIRUKKURALEnglishTranslationAndCommentaryProjectMadurai"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/THIRUKKURALEnglishTranslationAndCommentaryProjectMadurai"
+        }
+      ]
+    },
+    "created": 1762483787,
+    "d1": "ia902908.us.archive.org",
+    "d2": "ia802908.us.archive.org",
+    "dir": "/13/items/THIRUKKURALEnglishTranslationAndCommentaryProjectMadurai",
+    "files": [
+      {
+        "name": "THIRUKKURAL English Translation and Commentary - Project Madurai.epub",
+        "source": "derivative",
+        "original": "THIRUKKURAL English Translation and Commentary - Project Madurai_abbyy.gz",
+        "mtime": "1701382109",
+        "size": "12363043",
+        "md5": "8529faec07fd586b7194d1d1b79424e7",
+        "crc32": "aecbc56b",
+        "sha1": "0b4d80f7b248ad620b39133ab40a74c00d35c215",
+        "format": "EPUB"
+      },
+      {
+        "name": "THIRUKKURAL English Translation and Commentary - Project Madurai.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "THIRUKKURAL English Translation and Commentary - Project Madurai_jp2.zip",
+        "mtime": "1484742215",
+        "size": "112749",
+        "md5": "5b3b3a30b7b04302bb4611126e46a739",
+        "crc32": "4f2fec45",
+        "sha1": "f162219a31ff9d0165eb32059bf6e7b7819b5ec9"
+      },
+      {
+        "name": "THIRUKKURAL English Translation and Commentary - Project Madurai.pdf",
+        "source": "original",
+        "mtime": "1484741945",
+        "size": "360085",
+        "md5": "c3727f6639c98e662a940af34c959ccd",
+        "crc32": "0443b9c9",
+        "sha1": "e10d51cabed7f23144e6b60ef8fc387b9a90fbad",
+        "format": "Text PDF"
+      },
+      {
+        "name": "THIRUKKURAL English Translation and Commentary - Project Madurai_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "THIRUKKURAL English Translation and Commentary - Project Madurai_jp2.zip",
+        "mtime": "1484744180",
+        "size": "4397586",
+        "md5": "e4be4968bdd3debbfcf476e2afff189c",
+        "crc32": "b2560d94",
+        "sha1": "55f3bcd122f5efde9763fbd32ef5ec0f8be3f8d6"
+      },
+      {
+        "name": "THIRUKKURAL English Translation and Commentary - Project Madurai_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "THIRUKKURAL English Translation and Commentary - Project Madurai_djvu.xml",
+        "mtime": "1484744266",
+        "size": "317739",
+        "md5": "d168b24c7b39f9b10a19e15086c5486f",
+        "crc32": "fea6b9b0",
+        "sha1": "c43be6d6af6bae3b7636773dce62c14e5e6d2c49"
+      },
+      {
+        "name": "THIRUKKURAL English Translation and Commentary - Project Madurai_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "THIRUKKURAL English Translation and Commentary - Project Madurai_abbyy.gz",
+        "mtime": "1484744261",
+        "size": "3110701",
+        "md5": "fc5d731329d57a6e0e0b65e6b40bb2c9",
+        "crc32": "11267e04",
+        "sha1": "07d6557ab62f45ff1f91b7f2da9432d63437bd56"
+      },
+      {
+        "name": "THIRUKKURAL English Translation and Commentary - Project Madurai_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "THIRUKKURAL English Translation and Commentary - Project Madurai.pdf",
+        "mtime": "1484742194",
+        "size": "61922478",
+        "md5": "8791d3cfc1db9f7c805b301858ab8810",
+        "crc32": "7858f8d5",
+        "sha1": "e4c5f0dc80215241aaae99f9a7c267ba405c6f5b",
+        "filecount": "160"
+      },
+      {
+        "name": "THIRUKKURAL English Translation and Commentary - Project Madurai_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "THIRUKKURAL English Translation and Commentary - Project Madurai_djvu.xml",
+        "mtime": "1484744273",
+        "size": "48159",
+        "md5": "64f656d2947611da9bcfa39d19a5c24d",
+        "crc32": "99bfc62c",
+        "sha1": "b452339224ab9b20e7d5b7cf70f5320c3f29301c"
+      },
+      {
+        "name": "THIRUKKURALEnglishTranslationAndCommentaryProjectMadurai_archive.torrent",
+        "source": "metadata",
+        "btih": "995048ffe5ac11b84df5948dbfbf8dd21cbb3ff9",
+        "mtime": "1701382114",
+        "size": "7004",
+        "md5": "b4564d19c6cf8e087d51a6e1ba43a6a1",
+        "crc32": "86dce8ad",
+        "sha1": "8aae26ed5a42feeb426611a7c8366bb3651696f9",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "THIRUKKURALEnglishTranslationAndCommentaryProjectMadurai_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "12390f05739ad4d2061845507ee0ee89",
+        "summation": "md5"
+      },
+      {
+        "name": "THIRUKKURALEnglishTranslationAndCommentaryProjectMadurai_meta.sqlite",
+        "source": "original",
+        "mtime": "1484741962",
+        "size": "14336",
+        "md5": "3c3336a18c08f1e7b061a145b926cd49",
+        "crc32": "ec33bc25",
+        "sha1": "951405f2101c85552da119bec3bd3f8ba4c70c93",
+        "format": "Metadata"
+      },
+      {
+        "name": "THIRUKKURALEnglishTranslationAndCommentaryProjectMadurai_meta.xml",
+        "source": "original",
+        "mtime": "1613741618",
+        "size": "1547",
+        "format": "Metadata",
+        "md5": "d9d4bfe85d8c64ddd0b41a693a00a7fa",
+        "crc32": "5d1b62d6",
+        "sha1": "5dd755515f1fd06cf045e1ca4fcff31785673b1f"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1701382112",
+        "size": "10606",
+        "md5": "d1be4e42963904968e627be555a7f907",
+        "crc32": "730bafa9",
+        "sha1": "aeaf8b183af0b9d7f4f2dd935e3721f68b55476e",
+        "format": "Item Tile",
+        "rotation": "0"
+      }
+    ],
+    "files_count": 13,
+    "item_last_updated": 1701382114,
+    "item_size": 82666033,
+    "metadata": {
+      "identifier": "THIRUKKURALEnglishTranslationAndCommentaryProjectMadurai",
+      "mediatype": "texts",
+      "collection": [
+        "opensource",
+        "community"
+      ],
+      "creator": "Thiruvalluvar",
+      "description": "TIRUKKURAL<div style=\"font-size:23.3333px;font-family:serif;\">English Translation and Commentary<br /><br /></div><div style=\"font-size:23.3333px;font-family:serif;\">by</div><div style=\"font-size:23.3333px;font-family:serif;\">Rev Dr G U Pope,</div><div style=\"font-size:23.3333px;font-family:serif;\">Rev W H Drew,</div>Rev John Lazarus and Mr F W Elli",
+      "language": "eng",
+      "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+      "subject": [
+        "Thirukkural",
+        "Tamil Literature"
+      ],
+      "title": "THIRUKKURAL English Translation And Commentary Project Madurai",
+      "publicdate": "2017-01-18 12:19:06",
+      "uploader": "leenasidharthan@gmail.com",
+      "addeddate": "2017-01-18 12:19:06",
+      "curation": "[curator]validator@archive.org[/curator][date]20170118121935[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/THIRUKKURALEnglishTranslationAndCommentaryProjectMadurai",
+      "identifier-ark": "ark:/13960/t2k69jq42",
+      "ppi": "300",
+      "ocr": "ABBYY FineReader 11.0",
+      "repub_state": "4",
+      "backup_location": "ia906305_0"
+    },
+    "server": "ia902908.us.archive.org",
+    "uniq": 1925273847,
+    "workable_servers": [
+      "ia902908.us.archive.org",
+      "ia802908.us.archive.org"
+    ]
+  }
+}

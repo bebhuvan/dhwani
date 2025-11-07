@@ -35,169 +35,220 @@ MAX_FILE_SIZE_MB = 500  # skip files larger than this
 MIN_QUALITY_SCORE = 0.3  # 0-1 scale
 FUZZY_MATCH_THRESHOLD = 80  # for title matching (0-100)
 
-# Priority works to download first (from recommendations)
+# Priority works to download first
+# MODIFIED: Searching for English translations (1850-2023) instead of original texts
+# These works have high probability (60-90%) of being available on Archive.org
+
 PRIORITY_1_WORKS = [
-    # Women Authors (Highest Priority)
+    # Tier 1: Very High Probability (70-90%)
+    # Sanskrit Classics - widely translated in colonial era
     {
-        'title': 'Akka Mahadevi Vachanas',
-        'author': 'Akka Mahadevi',
-        'language': 'Kannada',
-        'year_range': [1100, 1200],
-        'category': 'women_author'
+        'title': 'Shakuntala',
+        'author': 'Kalidasa',
+        'original_language': 'Sanskrit',
+        'search_terms': ['Shakuntala', 'Kalidasa', 'Monier Williams', 'translation'],
+        'year_range': [1850, 2023],  # Publication date of translations
+        'category': 'sanskrit_drama',
+        'search_mode': 'translation'  # Looking for English translations
     },
     {
-        'title': 'Lal Ded',
-        'author': 'Lalleshwari',
-        'language': 'Kashmiri',
-        'year_range': [1300, 1400],
-        'category': 'women_author'
+        'title': 'Meghaduta',
+        'author': 'Kalidasa',
+        'original_language': 'Sanskrit',
+        'search_terms': ['Meghaduta', 'Cloud Messenger', 'Kalidasa'],
+        'year_range': [1850, 2023],
+        'category': 'sanskrit_poetry',
+        'search_mode': 'translation'
     },
     {
-        'title': 'Habba Khatoon',
-        'author': 'Habba Khatoon',
-        'language': 'Kashmiri',
-        'year_range': [1500, 1600],
-        'category': 'women_author'
+        'title': 'Gita Govinda',
+        'author': 'Jayadeva',
+        'original_language': 'Sanskrit',
+        'search_terms': ['Gita Govinda', 'Jayadeva', 'Edwin Arnold'],
+        'year_range': [1850, 2023],
+        'category': 'sanskrit_poetry',
+        'search_mode': 'translation'
     },
     {
-        'title': 'Therigatha',
+        'title': 'Arthashastra',
+        'author': 'Kautilya',
+        'original_language': 'Sanskrit',
+        'search_terms': ['Arthashastra', 'Kautilya', 'Chanakya', 'Shamasastry'],
+        'year_range': [1900, 2023],
+        'category': 'political_science',
+        'search_mode': 'translation'
+    },
+    {
+        'title': 'Yoga Sutras',
+        'author': 'Patanjali',
+        'original_language': 'Sanskrit',
+        'search_terms': ['Yoga Sutras', 'Patanjali', 'aphorisms'],
+        'year_range': [1850, 2023],
+        'category': 'philosophy',
+        'search_mode': 'translation'
+    },
+    {
+        'title': 'Satakas',
+        'author': 'Bhartrihari',
+        'original_language': 'Sanskrit',
+        'search_terms': ['Bhartrihari', 'Satakas', 'centuries', 'translation'],
+        'year_range': [1850, 2023],
+        'category': 'sanskrit_poetry',
+        'search_mode': 'translation'
+    },
+
+    # Epics and Religious Texts
+    {
+        'title': 'Ramcharitmanas',
+        'author': 'Tulsidas',
+        'original_language': 'Awadhi',
+        'search_terms': ['Ramcharitmanas', 'Tulsidas', 'Ramayana'],
+        'year_range': [1850, 2023],
+        'category': 'religious_epic',
+        'search_mode': 'translation'
+    },
+    {
+        'title': 'Mricchakatika',
+        'author': 'Sudraka',
+        'original_language': 'Sanskrit',
+        'search_terms': ['Mricchakatika', 'Little Clay Cart', 'Sudraka'],
+        'year_range': [1850, 2023],
+        'category': 'sanskrit_drama',
+        'search_mode': 'translation'
+    },
+
+    # Folk Literature
+    {
+        'title': 'Panchatantra',
+        'author': 'Vishnusharma',
+        'original_language': 'Sanskrit',
+        'search_terms': ['Panchatantra', 'Panchatatantra', 'Arthur Ryder', 'fables'],
+        'year_range': [1850, 2023],
+        'category': 'folk_literature',
+        'search_mode': 'translation'
+    },
+    {
+        'title': 'Jataka Tales',
         'author': 'Various',
-        'language': 'Pali',
-        'year_range': [-500, -400],
-        'category': 'women_author'
+        'original_language': 'Pali',
+        'search_terms': ['Jataka', 'tales', 'Buddha', 'birth stories'],
+        'year_range': [1850, 2023],
+        'category': 'buddhist_literature',
+        'search_mode': 'translation'
     },
     {
-        'title': 'Andal',
-        'author': 'Andal',
-        'language': 'Tamil',
-        'year_range': [700, 800],
-        'category': 'women_author'
-    },
-
-    # Kannada Classics (Major Gap)
-    {
-        'title': 'Kavirajamarga',
-        'author': 'Amoghavarsha',
-        'language': 'Kannada',
-        'year_range': [800, 900],
-        'category': 'kannada_classic'
-    },
-    {
-        'title': 'Basavanna Vachanas',
-        'author': 'Basavanna',
-        'language': 'Kannada',
-        'year_range': [1100, 1200],
-        'category': 'kannada_classic'
-    },
-    {
-        'title': 'Allama Prabhu Vachanas',
-        'author': 'Allama Prabhu',
-        'language': 'Kannada',
-        'year_range': [1100, 1200],
-        'category': 'kannada_classic'
+        'title': 'Hitopadesha',
+        'author': 'Narayana',
+        'original_language': 'Sanskrit',
+        'search_terms': ['Hitopadesha', 'Hitopadesa', 'fables', 'instruction'],
+        'year_range': [1850, 2023],
+        'category': 'folk_literature',
+        'search_mode': 'translation'
     },
 
-    # Scientific Works (Major Gap)
+    # Devotional Poetry
     {
-        'title': 'Sangita Ratnakara',
-        'author': 'Sharngadeva',
-        'language': 'Sanskrit',
-        'year_range': [1200, 1300],
-        'category': 'scientific'
+        'title': 'Kabir Poetry',
+        'author': 'Kabir',
+        'original_language': 'Hindi',
+        'search_terms': ['Kabir', 'songs', 'dohas', 'Tagore'],
+        'year_range': [1850, 2023],
+        'category': 'bhakti_poetry',
+        'search_mode': 'translation'
     },
     {
-        'title': 'Brihat Samhita',
-        'author': 'Varahamihira',
-        'language': 'Sanskrit',
-        'year_range': [500, 600],
-        'category': 'scientific'
-    },
-    {
-        'title': 'Brihaddeshi',
-        'author': 'Matanga',
-        'language': 'Sanskrit',
-        'year_range': [800, 900],
-        'category': 'scientific'
-    },
-    {
-        'title': 'Lilavati',
-        'author': 'Bhaskara',
-        'language': 'Sanskrit',
-        'year_range': [1100, 1200],
-        'category': 'scientific'
-    },
-    {
-        'title': 'Ashtanga Hridaya',
-        'author': 'Vagbhata',
-        'language': 'Sanskrit',
-        'year_range': [600, 700],
-        'category': 'scientific'
+        'title': 'Mirabai Songs',
+        'author': 'Mirabai',
+        'original_language': 'Rajasthani',
+        'search_terms': ['Mirabai', 'Meera', 'devotional', 'Krishna'],
+        'year_range': [1900, 2023],
+        'category': 'bhakti_poetry',
+        'search_mode': 'translation'
     },
 ]
 
 PRIORITY_2_WORKS = [
-    # Malayalam
+    # Tier 2: Moderate Probability (40-60%)
+    # Tamil Classics
     {
-        'title': 'Lilatilakam',
-        'author': 'Unknown',
-        'language': 'Malayalam',
-        'year_range': [1300, 1400],
-        'category': 'regional_classic'
+        'title': 'Thirukkural',
+        'author': 'Thiruvalluvar',
+        'original_language': 'Tamil',
+        'search_terms': ['Thirukkural', 'Tirukkural', 'Kural', 'Valluvar'],
+        'year_range': [1850, 2023],
+        'category': 'tamil_wisdom',
+        'search_mode': 'translation'
     },
     {
-        'title': 'Indulekha',
-        'author': 'Chandu Menon',
-        'language': 'Malayalam',
-        'year_range': [1880, 1900],
-        'category': 'regional_classic'
-    },
-
-    # Odia
-    {
-        'title': 'Chha Mana Atha Guntha',
-        'author': 'Fakir Mohan Senapati',
-        'language': 'Odia',
-        'year_range': [1890, 1920],
-        'category': 'regional_classic'
+        'title': 'Silappatikaram',
+        'author': 'Ilango Adigal',
+        'original_language': 'Tamil',
+        'search_terms': ['Silappatikaram', 'Shilappadikaram', 'Tamil epic'],
+        'year_range': [1900, 2023],
+        'category': 'tamil_epic',
+        'search_mode': 'translation'
     },
 
-    # Tamil
+    # Buddhist Texts
     {
-        'title': 'Purananuru',
+        'title': 'Dhammapada',
         'author': 'Various',
-        'language': 'Tamil',
-        'year_range': [-100, 300],
-        'category': 'tamil_sangam'
-    },
-    {
-        'title': 'Periya Puranam',
-        'author': 'Sekkizhar',
-        'language': 'Tamil',
-        'year_range': [1100, 1200],
-        'category': 'tamil_classic'
+        'original_language': 'Pali',
+        'search_terms': ['Dhammapada', 'Buddhist', 'sayings', 'Max Muller'],
+        'year_range': [1850, 2023],
+        'category': 'buddhist_literature',
+        'search_mode': 'translation'
     },
 
-    # Sufi Poetry
+    # More Sanskrit Drama
     {
-        'title': 'Heer Ranjha',
-        'author': 'Waris Shah',
-        'language': 'Punjabi',
-        'year_range': [1760, 1770],
-        'category': 'sufi_poetry'
+        'title': 'Uttara Rama Charita',
+        'author': 'Bhavabhuti',
+        'original_language': 'Sanskrit',
+        'search_terms': ['Uttara Rama Charita', 'Bhavabhuti', 'Ramayana'],
+        'year_range': [1850, 2023],
+        'category': 'sanskrit_drama',
+        'search_mode': 'translation'
     },
     {
-        'title': 'Bulleh Shah Kafis',
-        'author': 'Bulleh Shah',
-        'language': 'Punjabi',
-        'year_range': [1680, 1760],
-        'category': 'sufi_poetry'
+        'title': 'Kadambari',
+        'author': 'Bana',
+        'original_language': 'Sanskrit',
+        'search_terms': ['Kadambari', 'Bana', 'Banabhatta', 'romance'],
+        'year_range': [1850, 2023],
+        'category': 'sanskrit_prose',
+        'search_mode': 'translation'
+    },
+
+    # Story Collections
+    {
+        'title': 'Kathasaritsagara',
+        'author': 'Somadeva',
+        'original_language': 'Sanskrit',
+        'search_terms': ['Kathasaritsagara', 'Ocean of Story', 'Tawney', 'Somadeva'],
+        'year_range': [1880, 2023],
+        'category': 'story_collection',
+        'search_mode': 'translation'
     },
     {
-        'title': 'Shah Abdul Latif Bhittai Risalo',
-        'author': 'Shah Abdul Latif Bhittai',
-        'language': 'Sindhi',
-        'year_range': [1690, 1752],
-        'category': 'sufi_poetry'
+        'title': 'Dasakumaracharita',
+        'author': 'Dandin',
+        'original_language': 'Sanskrit',
+        'search_terms': ['Dasakumaracharita', 'Ten Princes', 'Dandin'],
+        'year_range': [1900, 2023],
+        'category': 'sanskrit_prose',
+        'search_mode': 'translation'
+    },
+
+    # Early Modern Works
+    {
+        'title': 'Anandamath',
+        'author': 'Bankim Chandra Chatterjee',
+        'original_language': 'Bengali',
+        'search_terms': ['Anandamath', 'Bankim Chandra', 'Chatterjee'],
+        'year_range': [1880, 2023],
+        'category': 'modern_bengali',
+        'search_mode': 'translation'
     },
 ]
 

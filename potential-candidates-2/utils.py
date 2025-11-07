@@ -133,36 +133,46 @@ def build_search_query(work: Dict, strategy: str) -> str:
     """Build Archive.org search query based on strategy."""
     title = work.get('title', '')
     author = work.get('author', '')
-    language = work.get('language', '')
+    language = work.get('language', work.get('original_language', ''))
     year_range = work.get('year_range', [])
+    search_terms = work.get('search_terms', [])
+    search_mode = work.get('search_mode', 'original')
 
     if strategy == 'direct_title':
-        query = f'title:"{title}"'
-        if author and author != 'Various' and author != 'Unknown':
-            query += f' AND creator:"{author}"'
+        # Simple search - just use main search terms
+        if search_mode == 'translation' and search_terms:
+            # Search for primary term (title or author)
+            query = search_terms[0]
+        else:
+            query = title
         return query
 
     elif strategy == 'fuzzy_title':
-        # Search for title words separately
-        title_words = title.split()[:3]  # First 3 words
-        query = ' AND '.join([f'title:{word}' for word in title_words if len(word) > 3])
-        if author and author != 'Various' and author != 'Unknown':
-            query += f' AND creator:{author}'
+        # Broader search with multiple terms
+        if search_mode == 'translation' and search_terms and len(search_terms) >= 2:
+            # Use title + author
+            query = f'{search_terms[0]} {search_terms[1]}'
+        else:
+            query = f'{title} {author}' if author and author not in ['Various', 'Unknown'] else title
         return query
 
     elif strategy == 'author_language':
-        if author and author != 'Various' and author != 'Unknown':
-            query = f'creator:"{author}"'
-            if language:
-                query += f' AND language:{language}'
+        # Search by author name
+        if author and author not in ['Various', 'Unknown']:
+            if search_mode == 'translation' and search_terms and len(search_terms) >= 2:
+                # Use author from search_terms (might include translator)
+                query = search_terms[1]
+            else:
+                query = author
             return query
         return ''
 
     elif strategy == 'subject_filter':
+        # Language-based search
         if language:
-            query = f'subject:"{language} literature"'
-            if year_range:
-                query += f' AND date:[{year_range[0]} TO {year_range[1]}]'
+            query = f'{language} literature'
+            if search_terms:
+                query = f'{search_terms[0]} {language}'
             return query
         return ''
 

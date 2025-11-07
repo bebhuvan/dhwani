@@ -1,0 +1,319 @@
+{
+  "work": {
+    "title": "Meghaduta",
+    "author": "Kalidasa",
+    "original_language": "Sanskrit",
+    "search_terms": [
+      "Meghaduta",
+      "Cloud Messenger",
+      "Kalidasa"
+    ],
+    "year_range": [
+      1850,
+      2023
+    ],
+    "category": "sanskrit_poetry",
+    "search_mode": "translation"
+  },
+  "search_result": {
+    "creator": "Kalidasa",
+    "date": "1910-01-01T00:00:00Z",
+    "description": "Meghaduta (Cloud Messenger) is a lyric poem written by Kalidasa  considered to be one of the greatest Sanskrit poets. It describes how a \"yakṣha\", who had been banished by his master to a remote region for a year, asked a cloud to take a message of love to his wife.",
+    "downloads": 222,
+    "format": [
+      "Archive BitTorrent",
+      "DjVuTXT",
+      "Djvu XML",
+      "EPUB",
+      "Item Tile",
+      "Metadata",
+      "OCR Page Index",
+      "OCR Search Text",
+      "Page Numbers JSON",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF",
+      "chOCR",
+      "hOCR"
+    ],
+    "identifier": "meghadutam-kalidas",
+    "language": "san",
+    "subject": [
+      "Classic",
+      "Poetry",
+      "Lyric",
+      "Love",
+      "Message"
+    ],
+    "title": "Meghadutam"
+  },
+  "detailed_metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720707.ca.archive.org",
+          "dir": "/0/items/meghadutam-kalidas"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720707.ca.archive.org",
+          "dir": "/0/items/meghadutam-kalidas"
+        }
+      ]
+    },
+    "created": 1762483675,
+    "d1": "ia600307.us.archive.org",
+    "d2": "ia800307.us.archive.org",
+    "dir": "/17/items/meghadutam-kalidas",
+    "files": [
+      {
+        "name": "Meghadutam_Kalidas.epub",
+        "source": "original",
+        "mtime": "1682003969",
+        "size": "149193",
+        "md5": "f98ab17cd98782939e9f90ef712b5b05",
+        "crc32": "f1077397",
+        "sha1": "51d320da02bfa3092bdffe092f3db7f6d2266d25",
+        "format": "EPUB"
+      },
+      {
+        "name": "Meghadutam_Kalidas.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.22",
+        "format": "Text PDF",
+        "original": "Meghadutam_Kalidas.epub",
+        "mtime": "1682004110",
+        "size": "1127079",
+        "md5": "8518ea5735df5b4cf231305671b1c7b9",
+        "crc32": "33290737",
+        "sha1": "a71ece61526133f574dec50fa46df9e28f1b1184"
+      },
+      {
+        "name": "Meghadutam_Kalidas_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-3-g9920",
+        "ocr_parameters": "lang-san;lang-Telugu;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Telugu",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "te",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "Meghadutam_Kalidas_jp2.zip",
+        "mtime": "1682004355",
+        "size": "320652",
+        "md5": "4de94504da585ef92ed336c59a5916c0",
+        "crc32": "a4be66f6",
+        "sha1": "f1257a95b8e8634ba10abed48bde08df17156edf"
+      },
+      {
+        "name": "Meghadutam_Kalidas_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Meghadutam_Kalidas_djvu.xml",
+        "mtime": "1682004522",
+        "size": "63970",
+        "md5": "81ec7a1d5f4b02813fed06865cef5074",
+        "crc32": "073bb64f",
+        "sha1": "9ae1dae5e74a273efca6d1f9a7503f5c8c110eb2"
+      },
+      {
+        "name": "Meghadutam_Kalidas_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Meghadutam_Kalidas_hocr.html",
+        "mtime": "1682004441",
+        "size": "269700",
+        "md5": "4938bd7aeaed40e4520cc875227a5f08",
+        "crc32": "5044894a",
+        "sha1": "4f0c5d5a54ce152e26e1a52e75454bf9eb6e8bf7"
+      },
+      {
+        "name": "Meghadutam_Kalidas_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "lang-san;lang-Telugu;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Telugu",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "te",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "Meghadutam_Kalidas_chocr.html.gz",
+        "mtime": "1682004419",
+        "size": "500045",
+        "md5": "f6226977419d70ee05c6e4effe9d0828",
+        "crc32": "4275d257",
+        "sha1": "160460c4bc3e3e009c9c2c5e31e15053e2c5a45a"
+      },
+      {
+        "name": "Meghadutam_Kalidas_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "Meghadutam_Kalidas_hocr.html",
+        "mtime": "1682004463",
+        "size": "224",
+        "md5": "54d0cddc898e9af97be7b63fbbc42738",
+        "crc32": "a48d3671",
+        "sha1": "338ce45e1c9bfb8b9083455ef8bd6905cd872513"
+      },
+      {
+        "name": "Meghadutam_Kalidas_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "57",
+        "word_conf_11_20": "37",
+        "word_conf_21_30": "46",
+        "word_conf_31_40": "72",
+        "word_conf_41_50": "91",
+        "word_conf_51_60": "111",
+        "word_conf_61_70": "146",
+        "word_conf_71_80": "220",
+        "word_conf_81_90": "895",
+        "word_conf_91_100": "851",
+        "format": "OCR Search Text",
+        "original": "Meghadutam_Kalidas_hocr.html",
+        "mtime": "1682004499",
+        "size": "15474",
+        "md5": "59944680321d2325bbd1b506c259d522",
+        "crc32": "f0d15b82",
+        "sha1": "e9fa8a3a5a42042a5c94302811bc381eea922f47"
+      },
+      {
+        "name": "Meghadutam_Kalidas_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Meghadutam_Kalidas.pdf",
+        "mtime": "1682004195",
+        "size": "6695512",
+        "md5": "ae984eae52695d5c56c8e44ea18145f9",
+        "crc32": "61681426",
+        "sha1": "a33d832cc8bcfc55afcacda8c5efeb06e4564bb3",
+        "filecount": "18"
+      },
+      {
+        "name": "Meghadutam_Kalidas_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "Meghadutam_Kalidas_djvu.xml",
+        "mtime": "1682004535",
+        "size": "2509",
+        "md5": "9a233760d6dc654796ed821f425908b0",
+        "crc32": "a9d8db89",
+        "sha1": "d25397b2831970d320704dee75ecfa6dec1a5d4c"
+      },
+      {
+        "name": "Meghadutam_Kalidas_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Meghadutam_Kalidas_djvu.xml",
+        "mtime": "1682004531",
+        "size": "5981",
+        "md5": "244245769abfa0f0b0302e7a0a95ac6a",
+        "crc32": "0b024710",
+        "sha1": "3dfe9dae6026f9cdc59d2491132a4427f590b056"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1681914871",
+        "size": "15891",
+        "md5": "3d299cb1b5355dce074ee8e854fd6744",
+        "crc32": "896d1dd5",
+        "sha1": "75b006ce717162540657b4d21b37cbe59e271b74",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "meghadutam-kalidas_archive.torrent",
+        "source": "metadata",
+        "btih": "2d8d25856b497714cf0d9165ed2408d3148adc17",
+        "mtime": "1745385795",
+        "size": "4075",
+        "md5": "556e91a931c33c542b535060081e631d",
+        "crc32": "ce32505b",
+        "sha1": "d2ac3fd95aaa9862026abf168efc3a9ff3105155",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "meghadutam-kalidas_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "dc17a2c5d1e1c17cd92bfec32cdb9faf",
+        "summation": "md5"
+      },
+      {
+        "name": "meghadutam-kalidas_meta.sqlite",
+        "source": "original",
+        "mtime": "1682003984",
+        "size": "20480",
+        "md5": "9b88c6968463b807ad2cb80ae2938a03",
+        "crc32": "0c23154b",
+        "sha1": "d201075fc7e059eba9aa0d135f9ed00fd33c10bd",
+        "format": "Metadata"
+      },
+      {
+        "name": "meghadutam-kalidas_meta.xml",
+        "source": "original",
+        "mtime": "1745385794",
+        "size": "1799",
+        "md5": "3d28c10fbb92149c04c3c063026f100d",
+        "crc32": "426cccd4",
+        "sha1": "bdce2fdca42a188f40ebd6d63374054820b65314",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1745385795,
+    "item_size": 9192584,
+    "metadata": {
+      "identifier": "meghadutam-kalidas",
+      "mediatype": "texts",
+      "creator": "Kalidasa",
+      "date": "1910",
+      "description": "Meghaduta (Cloud Messenger) is a lyric poem written by Kalidasa  considered to be one of the greatest Sanskrit poets. It describes how a \"yakṣha\", who had been banished by his master to a remote region for a year, asked a cloud to take a message of love to his wife.",
+      "language": "san",
+      "licenseurl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "Classic",
+        "Poetry",
+        "Lyric",
+        "Love",
+        "Message"
+      ],
+      "title": "Meghadutam",
+      "uploader": "sreekanth_j@yahoo.com",
+      "publicdate": "2023-04-19 14:29:32",
+      "addeddate": "2023-04-19 14:29:32",
+      "curation": "[curator]validator@archive.org[/curator][date]20230419142953[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/meghadutam-kalidas",
+      "identifier-ark": "ark:/13960/s2qfps0927f",
+      "ppi": "300",
+      "pdf_module_version": "0.0.22",
+      "ocr": "tesseract 5.3.0-3-g9920",
+      "ocr_parameters": "-l san+Telugu",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Telugu",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "te",
+      "ocr_detected_lang_conf": "1.0000",
+      "collection": [
+        "booksbylanguage_sanskrit",
+        "booksbylanguage"
+      ],
+      "collection_added": "booksbylanguage"
+    },
+    "server": "ia600307.us.archive.org",
+    "uniq": 815056548,
+    "workable_servers": [
+      "ia600307.us.archive.org",
+      "ia800307.us.archive.org"
+    ]
+  }
+}

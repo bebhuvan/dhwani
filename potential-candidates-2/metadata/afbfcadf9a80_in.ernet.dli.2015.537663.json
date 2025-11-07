@@ -1,0 +1,331 @@
+{
+  "work": {
+    "title": "Mirabai Songs",
+    "author": "Mirabai",
+    "original_language": "Rajasthani",
+    "search_terms": [
+      "Mirabai",
+      "Meera",
+      "devotional",
+      "Krishna"
+    ],
+    "year_range": [
+      1900,
+      2023
+    ],
+    "category": "bhakti_poetry",
+    "search_mode": "translation"
+  },
+  "search_result": {
+    "creator": "M.c.sutariya",
+    "date": "1929-01-01T00:00:00Z",
+    "description": "Book Source: Digital Library of India Item 2015.537663 dc.contributor.author: M.c.sutariya dc.date.accessioned: 2015-10-09T12:23:10Z dc.date.available: 2015-10-09T12:23:10Z dc.date.copyright: 1929 dc.date.digitalpublicationdate: 2012/10 dc.date.citation: 1929 dc.identifier.barcode: 99999990287319 dc.identifier.origpath: /data9/upload/0285/251 dc.identifier.copyno: 1 dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/537663 dc.description.scanningcentre: Banasthali University dc.description.main: 1 dc.description.tagged: 0 dc.description.totalpages: 208 dc.format.mimetype: application/pdf dc.language.iso: Gujarati dc.publisher.digitalrepublisher: Digital Library Of India dc.publisher: Vadodara,.m C Kothari dc.source.library: Chimanlal Mangaldas Granthalaya Gujarati Sahitya Parishad,ahmedabad dc.subject.classification: Literature dc.title: Mirabai dc.type: Print - Paper",
+    "downloads": 754,
+    "format": [
+      "Additional Text PDF",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVuTXT",
+      "Djvu XML",
+      "EPUB",
+      "Image Container PDF",
+      "Item Tile",
+      "Metadata",
+      "OCR Page Index",
+      "OCR Search Text",
+      "Page Numbers JSON",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "chOCR",
+      "hOCR"
+    ],
+    "identifier": "in.ernet.dli.2015.537663",
+    "language": "guj",
+    "subject": "Banasthali",
+    "title": "Mirabai"
+  },
+  "detailed_metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/in.ernet.dli.2015.537663"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/in.ernet.dli.2015.537663"
+        }
+      ]
+    },
+    "created": 1762482903,
+    "d1": "ia601509.us.archive.org",
+    "d2": "ia801509.us.archive.org",
+    "dir": "/19/items/in.ernet.dli.2015.537663",
+    "files": [
+      {
+        "name": "2015.537663.Mirabai.epub",
+        "source": "derivative",
+        "original": "2015.537663.Mirabai_hocr.html",
+        "mtime": "1718135742",
+        "size": "355155",
+        "md5": "1ba5fc51e4436e1c84e38386d966a422",
+        "crc32": "782c33a8",
+        "sha1": "eb175045a57d21c39db93ea1f8894e351d7f97c8",
+        "format": "EPUB"
+      },
+      {
+        "name": "2015.537663.Mirabai.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "2015.537663.Mirabai_jp2.zip",
+        "mtime": "1492474376",
+        "size": "259415",
+        "md5": "140ae78a86f0b15c2bda212a7b3df538",
+        "crc32": "0543da7a",
+        "sha1": "e62adf67a9ab922044035dc452c9394270c2e396"
+      },
+      {
+        "name": "2015.537663.Mirabai.pdf",
+        "source": "original",
+        "mtime": "1484916377",
+        "size": "6923307",
+        "md5": "c63df6f5cd0ef5be41e0eed8f1ab015c",
+        "crc32": "c68013a2",
+        "sha1": "9e8cfc389c5554fbc5ea12f4ef92cebe026936fa",
+        "format": "Image Container PDF"
+      },
+      {
+        "name": "2015.537663.Mirabai_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+        "ocr_parameters": "-l guj",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.8286",
+        "ocr_detected_lang": "gu",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "2015.537663.Mirabai_jp2.zip",
+        "mtime": "1620904546",
+        "size": "4870815",
+        "md5": "077ac73531ee26999c3260b57d3ac92e",
+        "crc32": "6420ff91",
+        "sha1": "b940543936ec350f30cd89b070b800f49e00a4ee"
+      },
+      {
+        "name": "2015.537663.Mirabai_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "2015.537663.Mirabai_djvu.xml",
+        "mtime": "1620904618",
+        "size": "815966",
+        "md5": "ec3f69fdef85d98f3d17a3ebcd983449",
+        "crc32": "0e3099e4",
+        "sha1": "66074f77471ee55c3ecfdce739a838dd7bc77a62"
+      },
+      {
+        "name": "2015.537663.Mirabai_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "2015.537663.Mirabai_hocr.html",
+        "mtime": "1620904587",
+        "size": "4786829",
+        "md5": "038909c6a480c6edef9a70aa100da7ad",
+        "crc32": "e800ef5e",
+        "sha1": "4d2c113edc14245125ff458e4ef30ef4148b626e"
+      },
+      {
+        "name": "2015.537663.Mirabai_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l guj",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.8286",
+        "ocr_detected_lang": "gu",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "2015.537663.Mirabai_chocr.html.gz",
+        "mtime": "1620904573",
+        "size": "8455632",
+        "md5": "d4d67319f57e3ffda328804b6e96f9ff",
+        "crc32": "1fc9c6e0",
+        "sha1": "539eb4b44024322499b5eaac125642f1f231df90"
+      },
+      {
+        "name": "2015.537663.Mirabai_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "2015.537663.Mirabai_hocr.html",
+        "mtime": "1620904595",
+        "size": "2484",
+        "md5": "077d5edce0263ce46c0b78f245f6cbec",
+        "crc32": "fb733033",
+        "sha1": "e081c7d2d1e8e3cb47d88889dc4922ce7e94fcda"
+      },
+      {
+        "name": "2015.537663.Mirabai_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "2418",
+        "word_conf_11_20": "1192",
+        "word_conf_21_30": "1686",
+        "word_conf_31_40": "2246",
+        "word_conf_41_50": "2698",
+        "word_conf_51_60": "3126",
+        "word_conf_61_70": "3853",
+        "word_conf_71_80": "5118",
+        "word_conf_81_90": "9012",
+        "word_conf_91_100": "24191",
+        "format": "OCR Search Text",
+        "original": "2015.537663.Mirabai_hocr.html",
+        "mtime": "1620904609",
+        "size": "197051",
+        "md5": "a93361c6515a42ec2e2aa045e80c9131",
+        "crc32": "4471bcda",
+        "sha1": "f5783e7a0f67ffdfc5d8cf944ad121babbaac2e3"
+      },
+      {
+        "name": "2015.537663.Mirabai_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "2015.537663.Mirabai.pdf",
+        "mtime": "1492474364",
+        "size": "74571325",
+        "md5": "423a764e403bd94092de66f40a478642",
+        "crc32": "16fa7d72",
+        "sha1": "959d89b94e0e3a296379e0b0d10b88c7a9fa9d48",
+        "filecount": "208"
+      },
+      {
+        "name": "2015.537663.Mirabai_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "2015.537663.Mirabai_djvu.xml",
+        "mtime": "1620904788",
+        "size": "30742",
+        "md5": "f0367804016782b83f3d91b2a0abb712",
+        "crc32": "16f6a903",
+        "sha1": "495c86e4ee4ff27d427eb06b7ac641ca0ff4fcfd"
+      },
+      {
+        "name": "2015.537663.Mirabai_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "2015.537663.Mirabai_djvu.xml",
+        "mtime": "1620904784",
+        "size": "62528",
+        "md5": "6c60f3763db298a03e39aa8554726bf3",
+        "crc32": "45c9dffa",
+        "sha1": "3540e095890d65450736fc68b716b9227e2475ae"
+      },
+      {
+        "name": "2015.537663.Mirabai_text.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.13",
+        "format": "Additional Text PDF",
+        "original": "2015.537663.Mirabai_page_numbers.json",
+        "mtime": "1620905269",
+        "size": "7823562",
+        "md5": "30274ba0086cd0f52c5605b6bd404eb9",
+        "crc32": "21096c78",
+        "sha1": "84d6f41e16b8c268f4021725d9810318c2a8a669"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1718135744",
+        "size": "5925",
+        "md5": "e1399e683e0d92c6c9856c9e484f5176",
+        "crc32": "499c3f3c",
+        "sha1": "46b8da562382e80157aabb834d2a1c1cc5dd71c8",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "in.ernet.dli.2015.537663_archive.torrent",
+        "source": "metadata",
+        "btih": "916172eb6599010dbe6dcf1d9516be60493c4df4",
+        "mtime": "1718135745",
+        "size": "8331",
+        "md5": "a8e266323e0fa5e624f0dcf2b5841877",
+        "crc32": "c9c42cc3",
+        "sha1": "378b9cf583b2357654291a32a071ae8a06570ddb",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "in.ernet.dli.2015.537663_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "2bd8dba0b5e526dcf57d32ac3eaabcad",
+        "summation": "md5"
+      },
+      {
+        "name": "in.ernet.dli.2015.537663_meta.sqlite",
+        "source": "original",
+        "mtime": "1484916392",
+        "size": "15360",
+        "md5": "6fe487ce091cb4957d2ee864bb784423",
+        "crc32": "f9cc44c5",
+        "sha1": "8d96d3ee18cdd931b8f62ec40c752ea386a57a68",
+        "format": "Metadata"
+      },
+      {
+        "name": "in.ernet.dli.2015.537663_meta.xml",
+        "source": "original",
+        "mtime": "1620905297",
+        "size": "2515",
+        "format": "Metadata",
+        "md5": "a0b79c5c3007c569fb7d8e9a71a1ef42",
+        "crc32": "64928c88",
+        "sha1": "6d045ebdf353e4c2c67db2bb186b2a237c568f7a"
+      }
+    ],
+    "files_count": 18,
+    "item_last_updated": 1718135745,
+    "item_size": 109186942,
+    "metadata": {
+      "identifier": "in.ernet.dli.2015.537663",
+      "creator": "M.c.sutariya",
+      "date": "1929",
+      "description": "<p><b>Book Source:</b> <a href=\"http://www.new.dli.ernet.in/handle/2015/537663\" rel=\"nofollow\">Digital Library of India Item 2015.537663</a></p><p>dc.contributor.author: M.c.sutariya<br />dc.date.accessioned: 2015-10-09T12:23:10Z<br />dc.date.available: 2015-10-09T12:23:10Z<br />dc.date.copyright: 1929<br />dc.date.digitalpublicationdate: 2012/10<br />dc.date.citation: 1929<br />dc.identifier.barcode: 99999990287319<br />dc.identifier.origpath: /data9/upload/0285/251<br />dc.identifier.copyno: 1<br />dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/537663<br />dc.description.scanningcentre: Banasthali University<br />dc.description.main: 1<br />dc.description.tagged: 0<br />dc.description.totalpages: 208<br />dc.format.mimetype: application/pdf<br />dc.language.iso: Gujarati<br />dc.publisher.digitalrepublisher: Digital Library Of India<br />dc.publisher: Vadodara,.m C Kothari<br />dc.source.library: Chimanlal Mangaldas Granthalaya Gujarati Sahitya Parishad,ahmedabad<br />dc.subject.classification: Literature<br />dc.title: Mirabai<br />dc.type: Print - Paper<br /></p>",
+      "language": "guj",
+      "mediatype": "texts",
+      "scanner": "Internet Archive Python library 1.1.0",
+      "subject": "Banasthali",
+      "title": "Mirabai",
+      "publicdate": "2017-01-20 12:46:17",
+      "uploader": "carl@media.org",
+      "addeddate": "2017-01-20 12:46:17",
+      "collection": [
+        "digitallibraryindia",
+        "JaiGyan"
+      ],
+      "identifier-access": "http://archive.org/details/in.ernet.dli.2015.537663",
+      "identifier-ark": "ark:/13960/t72v7w00c",
+      "ppi": "300",
+      "repub_state": "4",
+      "backup_location": "ia906305_10",
+      "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+      "ocr_parameters": "-l guj",
+      "ocr_module_version": "0.0.13",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.8286",
+      "ocr_detected_lang": "gu",
+      "ocr_detected_lang_conf": "1.0000",
+      "pdf_module_version": "0.0.13"
+    },
+    "server": "ia801509.us.archive.org",
+    "uniq": 1354814072,
+    "workable_servers": [
+      "ia801509.us.archive.org",
+      "ia601509.us.archive.org"
+    ]
+  }
+}

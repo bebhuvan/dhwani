@@ -1,309 +1,760 @@
-2025-11-07 01:59:50,168 - INFO - ================================================================================
-2025-11-07 01:59:50,168 - INFO - ARCHIVE.ORG DISCOVERY PROCESS STARTED
-2025-11-07 01:59:50,168 - INFO - ================================================================================
-2025-11-07 01:59:50,169 - INFO - 
+2025-11-07 02:47:37,788 - INFO - ================================================================================
+2025-11-07 02:47:37,788 - INFO - ARCHIVE.ORG DISCOVERY PROCESS STARTED
+2025-11-07 02:47:37,788 - INFO - ================================================================================
+2025-11-07 02:47:37,789 - INFO - 
 Total works to search: 21
-2025-11-07 01:59:50,169 - INFO - Priority 1: 13 works
-2025-11-07 01:59:50,169 - INFO - Priority 2: 8 works
-2025-11-07 01:59:50,170 - INFO - 
+2025-11-07 02:47:37,789 - INFO - Priority 1: 13 works
+2025-11-07 02:47:37,789 - INFO - Priority 2: 8 works
+2025-11-07 02:47:37,790 - INFO - 
 ============================================================
-2025-11-07 01:59:50,170 - INFO - [1/21] Searching: Akka Mahadevi Vachanas
-2025-11-07 01:59:50,170 - INFO - Author: Akka Mahadevi, Language: Kannada
-2025-11-07 01:59:50,170 - INFO - Trying strategy: direct_title for 'Akka Mahadevi Vachanas'
-2025-11-07 01:59:50,171 - INFO - Searching Archive.org: title:"Akka Mahadevi Vachanas" AND creator:"Akka Mahadevi" AND mediatype:texts AND date:[1100 TO 1200]
-2025-11-07 01:59:51,035 - INFO - Found 0 results
-2025-11-07 01:59:53,036 - INFO - Trying strategy: fuzzy_title for 'Akka Mahadevi Vachanas'
-2025-11-07 01:59:53,036 - INFO - Searching Archive.org: title:Akka AND title:Mahadevi AND title:Vachanas AND creator:Akka Mahadevi AND mediatype:texts AND date:[1100 TO 1200]
-2025-11-07 01:59:53,249 - INFO - Found 0 results
-2025-11-07 01:59:55,250 - INFO - Trying strategy: author_language for 'Akka Mahadevi Vachanas'
-2025-11-07 01:59:55,250 - INFO - Searching Archive.org: creator:"Akka Mahadevi" AND language:Kannada AND mediatype:texts AND date:[1100 TO 1200]
-2025-11-07 01:59:55,611 - INFO - Found 0 results
-2025-11-07 01:59:57,612 - WARNING - No results found for: Akka Mahadevi Vachanas
-2025-11-07 01:59:57,613 - INFO - 
+2025-11-07 02:47:37,790 - INFO - [1/21] Searching: Shakuntala
+2025-11-07 02:47:37,790 - INFO - Author: Kalidasa, Language: None
+2025-11-07 02:47:37,790 - INFO - Trying strategy: direct_title for 'Shakuntala'
+2025-11-07 02:47:37,790 - INFO - Searching Archive.org: Shakuntala AND mediatype:texts
+2025-11-07 02:47:38,315 - INFO - Found 20 results
+2025-11-07 02:47:40,317 - INFO - Trying strategy: fuzzy_title for 'Shakuntala'
+2025-11-07 02:47:40,317 - INFO - Searching Archive.org: Shakuntala Kalidasa AND mediatype:texts
+2025-11-07 02:47:40,818 - INFO - Found 20 results
+2025-11-07 02:47:42,818 - INFO - Trying strategy: author_language for 'Shakuntala'
+2025-11-07 02:47:42,819 - INFO - Searching Archive.org: Kalidasa AND mediatype:texts
+2025-11-07 02:47:43,307 - INFO - Found 20 results
+2025-11-07 02:47:45,345 - INFO - Found 60 potential matches
+2025-11-07 02:47:45,879 - INFO - Saved metadata: e9194c75726b_isbn_9781475172461.json
+2025-11-07 02:47:47,883 - INFO - 
 ============================================================
-2025-11-07 01:59:57,613 - INFO - [2/21] Searching: Lal Ded
-2025-11-07 01:59:57,614 - INFO - Author: Lalleshwari, Language: Kashmiri
-2025-11-07 01:59:57,614 - INFO - Trying strategy: direct_title for 'Lal Ded'
-2025-11-07 01:59:57,614 - INFO - Searching Archive.org: title:"Lal Ded" AND creator:"Lalleshwari" AND mediatype:texts AND date:[1300 TO 1400]
-2025-11-07 01:59:57,831 - INFO - Found 0 results
-2025-11-07 01:59:59,832 - INFO - Trying strategy: fuzzy_title for 'Lal Ded'
-2025-11-07 01:59:59,832 - INFO - Searching Archive.org:  AND creator:Lalleshwari AND mediatype:texts AND date:[1300 TO 1400]
-2025-11-07 02:00:00,131 - INFO - Found 0 results
-2025-11-07 02:00:02,133 - INFO - Trying strategy: author_language for 'Lal Ded'
-2025-11-07 02:00:02,133 - INFO - Searching Archive.org: creator:"Lalleshwari" AND language:Kashmiri AND mediatype:texts AND date:[1300 TO 1400]
-2025-11-07 02:00:02,380 - INFO - Found 0 results
-2025-11-07 02:00:04,381 - WARNING - No results found for: Lal Ded
-2025-11-07 02:00:04,382 - INFO - 
+2025-11-07 02:47:47,883 - INFO - [2/21] Searching: Meghaduta
+2025-11-07 02:47:47,883 - INFO - Author: Kalidasa, Language: None
+2025-11-07 02:47:47,883 - INFO - Trying strategy: direct_title for 'Meghaduta'
+2025-11-07 02:47:47,883 - INFO - Searching Archive.org: Meghaduta AND mediatype:texts
+2025-11-07 02:47:48,332 - INFO - Found 20 results
+2025-11-07 02:47:50,333 - INFO - Trying strategy: fuzzy_title for 'Meghaduta'
+2025-11-07 02:47:50,333 - INFO - Searching Archive.org: Meghaduta Cloud Messenger AND mediatype:texts
+2025-11-07 02:47:50,769 - INFO - Found 9 results
+2025-11-07 02:47:52,770 - INFO - Trying strategy: author_language for 'Meghaduta'
+2025-11-07 02:47:52,770 - INFO - Searching Archive.org: Cloud Messenger AND mediatype:texts
+2025-11-07 02:47:53,560 - INFO - Found 20 results
+2025-11-07 02:47:55,561 - INFO - Found 44 potential matches
+2025-11-07 02:47:56,012 - INFO - Saved metadata: 93255930a538_meghadutam-kalidas.json
+2025-11-07 02:47:58,014 - INFO - 
 ============================================================
-2025-11-07 02:00:04,382 - INFO - [3/21] Searching: Habba Khatoon
-2025-11-07 02:00:04,382 - INFO - Author: Habba Khatoon, Language: Kashmiri
-2025-11-07 02:00:04,382 - INFO - Trying strategy: direct_title for 'Habba Khatoon'
-2025-11-07 02:00:04,383 - INFO - Searching Archive.org: title:"Habba Khatoon" AND creator:"Habba Khatoon" AND mediatype:texts AND date:[1500 TO 1600]
-2025-11-07 02:00:04,630 - INFO - Found 0 results
-2025-11-07 02:00:06,630 - INFO - Trying strategy: fuzzy_title for 'Habba Khatoon'
-2025-11-07 02:00:06,631 - INFO - Searching Archive.org: title:Habba AND title:Khatoon AND creator:Habba Khatoon AND mediatype:texts AND date:[1500 TO 1600]
-2025-11-07 02:00:06,864 - INFO - Found 0 results
-2025-11-07 02:00:08,865 - INFO - Trying strategy: author_language for 'Habba Khatoon'
-2025-11-07 02:00:08,865 - INFO - Searching Archive.org: creator:"Habba Khatoon" AND language:Kashmiri AND mediatype:texts AND date:[1500 TO 1600]
-2025-11-07 02:00:09,230 - INFO - Found 0 results
-2025-11-07 02:00:11,231 - WARNING - No results found for: Habba Khatoon
-2025-11-07 02:00:11,232 - INFO - 
+2025-11-07 02:47:58,015 - INFO - [3/21] Searching: Gita Govinda
+2025-11-07 02:47:58,015 - INFO - Author: Jayadeva, Language: None
+2025-11-07 02:47:58,015 - INFO - Trying strategy: direct_title for 'Gita Govinda'
+2025-11-07 02:47:58,015 - INFO - Searching Archive.org: Gita Govinda AND mediatype:texts
+2025-11-07 02:47:58,471 - INFO - Found 20 results
+2025-11-07 02:48:00,472 - INFO - Trying strategy: fuzzy_title for 'Gita Govinda'
+2025-11-07 02:48:00,472 - INFO - Searching Archive.org: Gita Govinda Jayadeva AND mediatype:texts
+2025-11-07 02:48:00,914 - INFO - Found 20 results
+2025-11-07 02:48:02,914 - INFO - Trying strategy: author_language for 'Gita Govinda'
+2025-11-07 02:48:02,914 - INFO - Searching Archive.org: Jayadeva AND mediatype:texts
+2025-11-07 02:48:03,520 - INFO - Found 20 results
+2025-11-07 02:48:05,522 - INFO - Found 53 potential matches
+2025-11-07 02:48:06,044 - INFO - Saved metadata: 4bea020582ac_gitagovinda0000jaya.json
+2025-11-07 02:48:08,047 - INFO - 
 ============================================================
-2025-11-07 02:00:11,232 - INFO - [4/21] Searching: Therigatha
-2025-11-07 02:00:11,233 - INFO - Author: Various, Language: Pali
-2025-11-07 02:00:11,233 - INFO - Trying strategy: direct_title for 'Therigatha'
-2025-11-07 02:00:11,233 - INFO - Searching Archive.org: title:"Therigatha" AND mediatype:texts AND date:[-500 TO -400]
-2025-11-07 02:00:11,463 - INFO - Found 0 results
-2025-11-07 02:00:13,464 - INFO - Trying strategy: fuzzy_title for 'Therigatha'
-2025-11-07 02:00:13,464 - INFO - Searching Archive.org: title:Therigatha AND mediatype:texts AND date:[-500 TO -400]
-2025-11-07 02:00:13,773 - INFO - Found 0 results
-2025-11-07 02:00:15,773 - INFO - Trying strategy: author_language for 'Therigatha'
-2025-11-07 02:00:15,773 - WARNING - Could not build query for strategy author_language
-2025-11-07 02:00:15,774 - WARNING - No results found for: Therigatha
-2025-11-07 02:00:15,775 - INFO - 
+2025-11-07 02:48:08,047 - INFO - [4/21] Searching: Arthashastra
+2025-11-07 02:48:08,047 - INFO - Author: Kautilya, Language: None
+2025-11-07 02:48:08,047 - INFO - Trying strategy: direct_title for 'Arthashastra'
+2025-11-07 02:48:08,047 - INFO - Searching Archive.org: Arthashastra AND mediatype:texts
+2025-11-07 02:48:08,663 - INFO - Found 20 results
+2025-11-07 02:48:10,664 - INFO - Trying strategy: fuzzy_title for 'Arthashastra'
+2025-11-07 02:48:10,664 - INFO - Searching Archive.org: Arthashastra Kautilya AND mediatype:texts
+2025-11-07 02:48:11,353 - INFO - Found 20 results
+2025-11-07 02:48:13,354 - INFO - Trying strategy: author_language for 'Arthashastra'
+2025-11-07 02:48:13,355 - INFO - Searching Archive.org: Kautilya AND mediatype:texts
+2025-11-07 02:48:14,031 - INFO - Found 20 results
+2025-11-07 02:48:16,032 - INFO - Found 52 potential matches
+2025-11-07 02:48:17,016 - INFO - Saved metadata: 0ee0c2b29128_arthashastra_202405.json
+2025-11-07 02:48:19,019 - INFO - 
 ============================================================
-2025-11-07 02:00:15,775 - INFO - [5/21] Searching: Andal
-2025-11-07 02:00:15,775 - INFO - Author: Andal, Language: Tamil
-2025-11-07 02:00:15,775 - INFO - Trying strategy: direct_title for 'Andal'
-2025-11-07 02:00:15,775 - INFO - Searching Archive.org: title:"Andal" AND creator:"Andal" AND mediatype:texts AND date:[700 TO 800]
-2025-11-07 02:00:16,005 - INFO - Found 0 results
-2025-11-07 02:00:18,006 - INFO - Trying strategy: fuzzy_title for 'Andal'
-2025-11-07 02:00:18,006 - INFO - Searching Archive.org: title:Andal AND creator:Andal AND mediatype:texts AND date:[700 TO 800]
-2025-11-07 02:00:18,248 - INFO - Found 0 results
-2025-11-07 02:00:20,249 - INFO - Trying strategy: author_language for 'Andal'
-2025-11-07 02:00:20,250 - INFO - Searching Archive.org: creator:"Andal" AND language:Tamil AND mediatype:texts AND date:[700 TO 800]
-2025-11-07 02:00:20,463 - INFO - Found 0 results
-2025-11-07 02:00:22,464 - WARNING - No results found for: Andal
-2025-11-07 02:00:22,466 - INFO - 
+2025-11-07 02:48:19,019 - INFO - [5/21] Searching: Yoga Sutras
+2025-11-07 02:48:19,019 - INFO - Author: Patanjali, Language: None
+2025-11-07 02:48:19,019 - INFO - Trying strategy: direct_title for 'Yoga Sutras'
+2025-11-07 02:48:19,020 - INFO - Searching Archive.org: Yoga Sutras AND mediatype:texts
+2025-11-07 02:48:19,622 - INFO - Found 20 results
+2025-11-07 02:48:21,622 - INFO - Trying strategy: fuzzy_title for 'Yoga Sutras'
+2025-11-07 02:48:21,623 - INFO - Searching Archive.org: Yoga Sutras Patanjali AND mediatype:texts
+2025-11-07 02:48:21,989 - INFO - Found 20 results
+2025-11-07 02:48:23,990 - INFO - Trying strategy: author_language for 'Yoga Sutras'
+2025-11-07 02:48:23,990 - INFO - Searching Archive.org: Patanjali AND mediatype:texts
+2025-11-07 02:48:24,445 - INFO - Found 20 results
+2025-11-07 02:48:26,447 - INFO - Found 51 potential matches
+2025-11-07 02:48:26,657 - INFO - Saved metadata: 2248ab1ee734_yogasutras_201908.json
+2025-11-07 02:48:28,660 - INFO - 
 ============================================================
-2025-11-07 02:00:22,466 - INFO - [6/21] Searching: Kavirajamarga
-2025-11-07 02:00:22,466 - INFO - Author: Amoghavarsha, Language: Kannada
-2025-11-07 02:00:22,466 - INFO - Trying strategy: direct_title for 'Kavirajamarga'
-2025-11-07 02:00:22,467 - INFO - Searching Archive.org: title:"Kavirajamarga" AND creator:"Amoghavarsha" AND mediatype:texts AND date:[800 TO 900]
-2025-11-07 02:00:22,678 - INFO - Found 0 results
-2025-11-07 02:00:24,679 - INFO - Trying strategy: fuzzy_title for 'Kavirajamarga'
-2025-11-07 02:00:24,680 - INFO - Searching Archive.org: title:Kavirajamarga AND creator:Amoghavarsha AND mediatype:texts AND date:[800 TO 900]
-2025-11-07 02:00:24,966 - INFO - Found 0 results
-2025-11-07 02:00:26,967 - INFO - Trying strategy: author_language for 'Kavirajamarga'
-2025-11-07 02:00:26,967 - INFO - Searching Archive.org: creator:"Amoghavarsha" AND language:Kannada AND mediatype:texts AND date:[800 TO 900]
-2025-11-07 02:00:27,257 - INFO - Found 0 results
-2025-11-07 02:00:29,258 - WARNING - No results found for: Kavirajamarga
-2025-11-07 02:00:29,260 - INFO - 
+2025-11-07 02:48:28,660 - INFO - [6/21] Searching: Satakas
+2025-11-07 02:48:28,660 - INFO - Author: Bhartrihari, Language: None
+2025-11-07 02:48:28,661 - INFO - Trying strategy: direct_title for 'Satakas'
+2025-11-07 02:48:28,661 - INFO - Searching Archive.org: Bhartrihari AND mediatype:texts
+2025-11-07 02:48:29,094 - INFO - Found 20 results
+2025-11-07 02:48:31,095 - INFO - Trying strategy: fuzzy_title for 'Satakas'
+2025-11-07 02:48:31,095 - INFO - Searching Archive.org: Bhartrihari Satakas AND mediatype:texts
+2025-11-07 02:48:31,401 - INFO - Found 14 results
+2025-11-07 02:48:33,402 - INFO - Trying strategy: author_language for 'Satakas'
+2025-11-07 02:48:33,402 - INFO - Searching Archive.org: Satakas AND mediatype:texts
+2025-11-07 02:48:33,634 - INFO - Found 20 results
+2025-11-07 02:48:35,635 - INFO - Found 42 potential matches
+2025-11-07 02:48:35,734 - INFO - Saved metadata: 9ea928f1b4ec_vairagyasatakamo025367mbp.json
+2025-11-07 02:48:37,737 - INFO - 
 ============================================================
-2025-11-07 02:00:29,260 - INFO - [7/21] Searching: Basavanna Vachanas
-2025-11-07 02:00:29,260 - INFO - Author: Basavanna, Language: Kannada
-2025-11-07 02:00:29,260 - INFO - Trying strategy: direct_title for 'Basavanna Vachanas'
-2025-11-07 02:00:29,260 - INFO - Searching Archive.org: title:"Basavanna Vachanas" AND creator:"Basavanna" AND mediatype:texts AND date:[1100 TO 1200]
-2025-11-07 02:00:29,685 - INFO - Found 0 results
-2025-11-07 02:00:31,686 - INFO - Trying strategy: fuzzy_title for 'Basavanna Vachanas'
-2025-11-07 02:00:31,686 - INFO - Searching Archive.org: title:Basavanna AND title:Vachanas AND creator:Basavanna AND mediatype:texts AND date:[1100 TO 1200]
-2025-11-07 02:00:31,948 - INFO - Found 0 results
-2025-11-07 02:00:33,949 - INFO - Trying strategy: author_language for 'Basavanna Vachanas'
-2025-11-07 02:00:33,949 - INFO - Searching Archive.org: creator:"Basavanna" AND language:Kannada AND mediatype:texts AND date:[1100 TO 1200]
-2025-11-07 02:00:34,165 - INFO - Found 0 results
-2025-11-07 02:00:36,166 - WARNING - No results found for: Basavanna Vachanas
-2025-11-07 02:00:36,168 - INFO - 
+2025-11-07 02:48:37,737 - INFO - [7/21] Searching: Ramcharitmanas
+2025-11-07 02:48:37,737 - INFO - Author: Tulsidas, Language: None
+2025-11-07 02:48:37,737 - INFO - Trying strategy: direct_title for 'Ramcharitmanas'
+2025-11-07 02:48:37,737 - INFO - Searching Archive.org: Ramcharitmanas AND mediatype:texts
+2025-11-07 02:48:37,937 - INFO - Found 20 results
+2025-11-07 02:48:39,939 - INFO - Trying strategy: fuzzy_title for 'Ramcharitmanas'
+2025-11-07 02:48:39,939 - INFO - Searching Archive.org: Ramcharitmanas Tulsidas AND mediatype:texts
+2025-11-07 02:48:40,394 - INFO - Found 20 results
+2025-11-07 02:48:42,395 - INFO - Trying strategy: author_language for 'Ramcharitmanas'
+2025-11-07 02:48:42,395 - INFO - Searching Archive.org: Tulsidas AND mediatype:texts
+2025-11-07 02:48:42,691 - INFO - Found 20 results
+2025-11-07 02:48:44,693 - INFO - Found 54 potential matches
+2025-11-07 02:48:44,783 - INFO - Saved metadata: 08665ac8f169_tulsi-ramcharitmanas.json
+2025-11-07 02:48:46,786 - INFO - 
 ============================================================
-2025-11-07 02:00:36,168 - INFO - [8/21] Searching: Allama Prabhu Vachanas
-2025-11-07 02:00:36,168 - INFO - Author: Allama Prabhu, Language: Kannada
-2025-11-07 02:00:36,169 - INFO - Trying strategy: direct_title for 'Allama Prabhu Vachanas'
-2025-11-07 02:00:36,169 - INFO - Searching Archive.org: title:"Allama Prabhu Vachanas" AND creator:"Allama Prabhu" AND mediatype:texts AND date:[1100 TO 1200]
-2025-11-07 02:00:36,377 - INFO - Found 0 results
-2025-11-07 02:00:38,378 - INFO - Trying strategy: fuzzy_title for 'Allama Prabhu Vachanas'
-2025-11-07 02:00:38,378 - INFO - Searching Archive.org: title:Allama AND title:Prabhu AND title:Vachanas AND creator:Allama Prabhu AND mediatype:texts AND date:[1100 TO 1200]
-2025-11-07 02:00:38,593 - INFO - Found 0 results
-2025-11-07 02:00:40,594 - INFO - Trying strategy: author_language for 'Allama Prabhu Vachanas'
-2025-11-07 02:00:40,594 - INFO - Searching Archive.org: creator:"Allama Prabhu" AND language:Kannada AND mediatype:texts AND date:[1100 TO 1200]
-2025-11-07 02:00:40,828 - INFO - Found 0 results
-2025-11-07 02:00:42,829 - WARNING - No results found for: Allama Prabhu Vachanas
-2025-11-07 02:00:42,831 - INFO - 
+2025-11-07 02:48:46,786 - INFO - [8/21] Searching: Mricchakatika
+2025-11-07 02:48:46,786 - INFO - Author: Sudraka, Language: None
+2025-11-07 02:48:46,786 - INFO - Trying strategy: direct_title for 'Mricchakatika'
+2025-11-07 02:48:46,786 - INFO - Searching Archive.org: Mricchakatika AND mediatype:texts
+2025-11-07 02:48:46,971 - INFO - Found 13 results
+2025-11-07 02:48:48,972 - INFO - Trying strategy: fuzzy_title for 'Mricchakatika'
+2025-11-07 02:48:48,973 - INFO - Searching Archive.org: Mricchakatika Little Clay Cart AND mediatype:texts
+2025-11-07 02:48:49,289 - INFO - Found 0 results
+2025-11-07 02:48:51,290 - INFO - Trying strategy: author_language for 'Mricchakatika'
+2025-11-07 02:48:51,291 - INFO - Searching Archive.org: Little Clay Cart AND mediatype:texts
+2025-11-07 02:48:52,445 - INFO - Found 20 results
+2025-11-07 02:48:54,446 - INFO - Found 33 potential matches
+2025-11-07 02:48:55,055 - INFO - Saved metadata: 6bd4622c9612_in.ernet.dli.2015.485280.json
+2025-11-07 02:48:57,057 - INFO - 
 ============================================================
-2025-11-07 02:00:42,831 - INFO - [9/21] Searching: Sangita Ratnakara
-2025-11-07 02:00:42,831 - INFO - Author: Sharngadeva, Language: Sanskrit
-2025-11-07 02:00:42,831 - INFO - Trying strategy: direct_title for 'Sangita Ratnakara'
-2025-11-07 02:00:42,831 - INFO - Searching Archive.org: title:"Sangita Ratnakara" AND creator:"Sharngadeva" AND mediatype:texts AND date:[1200 TO 1300]
-2025-11-07 02:00:43,065 - INFO - Found 0 results
-2025-11-07 02:00:45,066 - INFO - Trying strategy: fuzzy_title for 'Sangita Ratnakara'
-2025-11-07 02:00:45,066 - INFO - Searching Archive.org: title:Sangita AND title:Ratnakara AND creator:Sharngadeva AND mediatype:texts AND date:[1200 TO 1300]
-2025-11-07 02:00:45,313 - INFO - Found 0 results
-2025-11-07 02:00:47,314 - INFO - Trying strategy: author_language for 'Sangita Ratnakara'
-2025-11-07 02:00:47,314 - INFO - Searching Archive.org: creator:"Sharngadeva" AND language:Sanskrit AND mediatype:texts AND date:[1200 TO 1300]
-2025-11-07 02:00:47,536 - INFO - Found 0 results
-2025-11-07 02:00:49,537 - WARNING - No results found for: Sangita Ratnakara
-2025-11-07 02:00:49,539 - INFO - 
+2025-11-07 02:48:57,057 - INFO - [9/21] Searching: Panchatantra
+2025-11-07 02:48:57,057 - INFO - Author: Vishnusharma, Language: None
+2025-11-07 02:48:57,057 - INFO - Trying strategy: direct_title for 'Panchatantra'
+2025-11-07 02:48:57,057 - INFO - Searching Archive.org: Panchatantra AND mediatype:texts
+2025-11-07 02:48:57,287 - INFO - Found 20 results
+2025-11-07 02:48:59,288 - INFO - Trying strategy: fuzzy_title for 'Panchatantra'
+2025-11-07 02:48:59,288 - INFO - Searching Archive.org: Panchatantra Panchatatantra AND mediatype:texts
+2025-11-07 02:48:59,496 - INFO - Found 0 results
+2025-11-07 02:49:01,496 - INFO - Trying strategy: author_language for 'Panchatantra'
+2025-11-07 02:49:01,497 - INFO - Searching Archive.org: Panchatatantra AND mediatype:texts
+2025-11-07 02:49:01,681 - INFO - Found 0 results
+2025-11-07 02:49:03,681 - INFO - Found 20 potential matches
+2025-11-07 02:49:03,971 - INFO - Saved metadata: 5992fd378600_trent_0116301634410.json
+2025-11-07 02:49:05,973 - INFO - 
 ============================================================
-2025-11-07 02:00:49,539 - INFO - [10/21] Searching: Brihat Samhita
-2025-11-07 02:00:49,539 - INFO - Author: Varahamihira, Language: Sanskrit
-2025-11-07 02:00:49,539 - INFO - Trying strategy: direct_title for 'Brihat Samhita'
-2025-11-07 02:00:49,540 - INFO - Searching Archive.org: title:"Brihat Samhita" AND creator:"Varahamihira" AND mediatype:texts AND date:[500 TO 600]
-2025-11-07 02:00:49,771 - INFO - Found 0 results
-2025-11-07 02:00:51,772 - INFO - Trying strategy: fuzzy_title for 'Brihat Samhita'
-2025-11-07 02:00:51,772 - INFO - Searching Archive.org: title:Brihat AND title:Samhita AND creator:Varahamihira AND mediatype:texts AND date:[500 TO 600]
-2025-11-07 02:00:52,024 - INFO - Found 0 results
-2025-11-07 02:00:54,025 - INFO - Trying strategy: author_language for 'Brihat Samhita'
-2025-11-07 02:00:54,025 - INFO - Searching Archive.org: creator:"Varahamihira" AND language:Sanskrit AND mediatype:texts AND date:[500 TO 600]
-2025-11-07 02:00:54,295 - INFO - Found 0 results
-2025-11-07 02:00:56,296 - WARNING - No results found for: Brihat Samhita
-2025-11-07 02:00:56,298 - INFO - 
+2025-11-07 02:49:05,973 - INFO - [10/21] Searching: Jataka Tales
+2025-11-07 02:49:05,973 - INFO - Author: Various, Language: None
+2025-11-07 02:49:05,973 - INFO - Trying strategy: direct_title for 'Jataka Tales'
+2025-11-07 02:49:05,973 - INFO - Searching Archive.org: Jataka AND mediatype:texts
+2025-11-07 02:49:06,266 - INFO - Found 20 results
+2025-11-07 02:49:08,266 - INFO - Trying strategy: fuzzy_title for 'Jataka Tales'
+2025-11-07 02:49:08,267 - INFO - Searching Archive.org: Jataka tales AND mediatype:texts
+2025-11-07 02:49:08,579 - INFO - Found 20 results
+2025-11-07 02:49:10,579 - INFO - Trying strategy: author_language for 'Jataka Tales'
+2025-11-07 02:49:10,580 - WARNING - Could not build query for strategy author_language
+2025-11-07 02:49:10,580 - INFO - Found 39 potential matches
+2025-11-07 02:49:10,665 - INFO - Saved metadata: 2cd2c4312ebb_morejatakatales07518gut.json
+2025-11-07 02:49:12,668 - INFO - 
 ============================================================
-2025-11-07 02:00:56,298 - INFO - [11/21] Searching: Brihaddeshi
-2025-11-07 02:00:56,298 - INFO - Author: Matanga, Language: Sanskrit
-2025-11-07 02:00:56,298 - INFO - Trying strategy: direct_title for 'Brihaddeshi'
-2025-11-07 02:00:56,298 - INFO - Searching Archive.org: title:"Brihaddeshi" AND creator:"Matanga" AND mediatype:texts AND date:[800 TO 900]
-2025-11-07 02:00:56,653 - INFO - Found 0 results
-2025-11-07 02:00:58,653 - INFO - Trying strategy: fuzzy_title for 'Brihaddeshi'
-2025-11-07 02:00:58,654 - INFO - Searching Archive.org: title:Brihaddeshi AND creator:Matanga AND mediatype:texts AND date:[800 TO 900]
-2025-11-07 02:00:58,873 - INFO - Found 0 results
-2025-11-07 02:01:00,874 - INFO - Trying strategy: author_language for 'Brihaddeshi'
-2025-11-07 02:01:00,874 - INFO - Searching Archive.org: creator:"Matanga" AND language:Sanskrit AND mediatype:texts AND date:[800 TO 900]
-2025-11-07 02:01:01,137 - INFO - Found 0 results
-2025-11-07 02:01:03,138 - WARNING - No results found for: Brihaddeshi
-2025-11-07 02:01:03,140 - INFO - 
+2025-11-07 02:49:12,668 - INFO - [11/21] Searching: Hitopadesha
+2025-11-07 02:49:12,668 - INFO - Author: Narayana, Language: None
+2025-11-07 02:49:12,668 - INFO - Trying strategy: direct_title for 'Hitopadesha'
+2025-11-07 02:49:12,668 - INFO - Searching Archive.org: Hitopadesha AND mediatype:texts
+2025-11-07 02:49:12,878 - INFO - Found 20 results
+2025-11-07 02:49:14,879 - INFO - Trying strategy: fuzzy_title for 'Hitopadesha'
+2025-11-07 02:49:14,879 - INFO - Searching Archive.org: Hitopadesha Hitopadesa AND mediatype:texts
+2025-11-07 02:49:15,449 - INFO - Found 20 results
+2025-11-07 02:49:17,450 - INFO - Trying strategy: author_language for 'Hitopadesha'
+2025-11-07 02:49:17,450 - INFO - Searching Archive.org: Hitopadesa AND mediatype:texts
+2025-11-07 02:49:17,894 - INFO - Found 20 results
+2025-11-07 02:49:19,895 - INFO - Found 50 potential matches
+2025-11-07 02:49:20,018 - INFO - Saved metadata: 990e6771ca33_hitopadesha_hindi.json
+2025-11-07 02:49:22,021 - INFO - 
 ============================================================
-2025-11-07 02:01:03,140 - INFO - [12/21] Searching: Lilavati
-2025-11-07 02:01:03,140 - INFO - Author: Bhaskara, Language: Sanskrit
-2025-11-07 02:01:03,140 - INFO - Trying strategy: direct_title for 'Lilavati'
-2025-11-07 02:01:03,140 - INFO - Searching Archive.org: title:"Lilavati" AND creator:"Bhaskara" AND mediatype:texts AND date:[1100 TO 1200]
-2025-11-07 02:01:03,385 - INFO - Found 0 results
-2025-11-07 02:01:05,386 - INFO - Trying strategy: fuzzy_title for 'Lilavati'
-2025-11-07 02:01:05,386 - INFO - Searching Archive.org: title:Lilavati AND creator:Bhaskara AND mediatype:texts AND date:[1100 TO 1200]
-2025-11-07 02:01:05,841 - INFO - Found 0 results
-2025-11-07 02:01:07,841 - INFO - Trying strategy: author_language for 'Lilavati'
-2025-11-07 02:01:07,842 - INFO - Searching Archive.org: creator:"Bhaskara" AND language:Sanskrit AND mediatype:texts AND date:[1100 TO 1200]
-2025-11-07 02:01:08,082 - INFO - Found 0 results
-2025-11-07 02:01:10,083 - WARNING - No results found for: Lilavati
-2025-11-07 02:01:10,085 - INFO - 
+2025-11-07 02:49:22,021 - INFO - [12/21] Searching: Kabir Poetry
+2025-11-07 02:49:22,021 - INFO - Author: Kabir, Language: None
+2025-11-07 02:49:22,021 - INFO - Trying strategy: direct_title for 'Kabir Poetry'
+2025-11-07 02:49:22,021 - INFO - Searching Archive.org: Kabir AND mediatype:texts
+2025-11-07 02:49:22,495 - INFO - Found 20 results
+2025-11-07 02:49:24,496 - INFO - Trying strategy: fuzzy_title for 'Kabir Poetry'
+2025-11-07 02:49:24,503 - INFO - Searching Archive.org: Kabir songs AND mediatype:texts
+2025-11-07 02:49:24,843 - INFO - Found 20 results
+2025-11-07 02:49:26,844 - INFO - Trying strategy: author_language for 'Kabir Poetry'
+2025-11-07 02:49:26,844 - INFO - Searching Archive.org: songs AND mediatype:texts
+2025-11-07 02:49:27,138 - INFO - Found 20 results
+2025-11-07 02:49:29,140 - INFO - Found 60 potential matches
+2025-11-07 02:49:29,226 - INFO - Saved metadata: a9569ce18796_songsofkabir00kabi.json
+2025-11-07 02:49:31,229 - INFO - 
 ============================================================
-2025-11-07 02:01:10,085 - INFO - [13/21] Searching: Ashtanga Hridaya
-2025-11-07 02:01:10,086 - INFO - Author: Vagbhata, Language: Sanskrit
-2025-11-07 02:01:10,086 - INFO - Trying strategy: direct_title for 'Ashtanga Hridaya'
-2025-11-07 02:01:10,086 - INFO - Searching Archive.org: title:"Ashtanga Hridaya" AND creator:"Vagbhata" AND mediatype:texts AND date:[600 TO 700]
-2025-11-07 02:01:10,317 - INFO - Found 0 results
-2025-11-07 02:01:12,318 - INFO - Trying strategy: fuzzy_title for 'Ashtanga Hridaya'
-2025-11-07 02:01:12,318 - INFO - Searching Archive.org: title:Ashtanga AND title:Hridaya AND creator:Vagbhata AND mediatype:texts AND date:[600 TO 700]
-2025-11-07 02:01:12,557 - INFO - Found 0 results
-2025-11-07 02:01:14,558 - INFO - Trying strategy: author_language for 'Ashtanga Hridaya'
-2025-11-07 02:01:14,558 - INFO - Searching Archive.org: creator:"Vagbhata" AND language:Sanskrit AND mediatype:texts AND date:[600 TO 700]
-2025-11-07 02:01:14,794 - INFO - Found 0 results
-2025-11-07 02:01:16,794 - WARNING - No results found for: Ashtanga Hridaya
-2025-11-07 02:01:16,796 - INFO - 
+2025-11-07 02:49:31,229 - INFO - [13/21] Searching: Mirabai Songs
+2025-11-07 02:49:31,229 - INFO - Author: Mirabai, Language: None
+2025-11-07 02:49:31,229 - INFO - Trying strategy: direct_title for 'Mirabai Songs'
+2025-11-07 02:49:31,229 - INFO - Searching Archive.org: Mirabai AND mediatype:texts
+2025-11-07 02:49:31,438 - INFO - Found 20 results
+2025-11-07 02:49:33,439 - INFO - Trying strategy: fuzzy_title for 'Mirabai Songs'
+2025-11-07 02:49:33,439 - INFO - Searching Archive.org: Mirabai Meera AND mediatype:texts
+2025-11-07 02:49:33,633 - INFO - Found 2 results
+2025-11-07 02:49:35,634 - INFO - Trying strategy: author_language for 'Mirabai Songs'
+2025-11-07 02:49:35,634 - INFO - Searching Archive.org: Meera AND mediatype:texts
+2025-11-07 02:49:35,857 - INFO - Found 20 results
+2025-11-07 02:49:37,858 - INFO - Found 42 potential matches
+2025-11-07 02:49:37,945 - INFO - Saved metadata: afbfcadf9a80_in.ernet.dli.2015.537663.json
+2025-11-07 02:49:39,948 - INFO - 
 ============================================================
-2025-11-07 02:01:16,796 - INFO - [14/21] Searching: Lilatilakam
-2025-11-07 02:01:16,796 - INFO - Author: Unknown, Language: Malayalam
-2025-11-07 02:01:16,796 - INFO - Trying strategy: direct_title for 'Lilatilakam'
-2025-11-07 02:01:16,796 - INFO - Searching Archive.org: title:"Lilatilakam" AND mediatype:texts AND date:[1300 TO 1400]
-2025-11-07 02:01:17,035 - INFO - Found 0 results
-2025-11-07 02:01:19,036 - INFO - Trying strategy: fuzzy_title for 'Lilatilakam'
-2025-11-07 02:01:19,036 - INFO - Searching Archive.org: title:Lilatilakam AND mediatype:texts AND date:[1300 TO 1400]
-2025-11-07 02:01:19,264 - INFO - Found 0 results
-2025-11-07 02:01:21,265 - INFO - Trying strategy: author_language for 'Lilatilakam'
-2025-11-07 02:01:21,265 - WARNING - Could not build query for strategy author_language
-2025-11-07 02:01:21,265 - WARNING - No results found for: Lilatilakam
-2025-11-07 02:01:21,267 - INFO - 
+2025-11-07 02:49:39,949 - INFO - [14/21] Searching: Thirukkural
+2025-11-07 02:49:39,949 - INFO - Author: Thiruvalluvar, Language: None
+2025-11-07 02:49:39,949 - INFO - Trying strategy: direct_title for 'Thirukkural'
+2025-11-07 02:49:39,949 - INFO - Searching Archive.org: Thirukkural AND mediatype:texts
+2025-11-07 02:49:40,419 - INFO - Found 20 results
+2025-11-07 02:49:42,421 - INFO - Trying strategy: fuzzy_title for 'Thirukkural'
+2025-11-07 02:49:42,421 - INFO - Searching Archive.org: Thirukkural Tirukkural AND mediatype:texts
+2025-11-07 02:49:42,701 - INFO - Found 7 results
+2025-11-07 02:49:44,702 - INFO - Trying strategy: author_language for 'Thirukkural'
+2025-11-07 02:49:44,702 - INFO - Searching Archive.org: Tirukkural AND mediatype:texts
+2025-11-07 02:49:45,176 - INFO - Found 20 results
+2025-11-07 02:49:47,177 - INFO - Found 44 potential matches
+2025-11-07 02:49:47,655 - INFO - Saved metadata: 42b10d02ec6d_THIRUKKURALEnglishTranslationAndCommentaryProjectMadurai.json
+2025-11-07 02:49:49,658 - INFO - 
 ============================================================
-2025-11-07 02:01:21,267 - INFO - [15/21] Searching: Indulekha
-2025-11-07 02:01:21,267 - INFO - Author: Chandu Menon, Language: Malayalam
-2025-11-07 02:01:21,267 - INFO - Trying strategy: direct_title for 'Indulekha'
-2025-11-07 02:01:21,267 - INFO - Searching Archive.org: title:"Indulekha" AND creator:"Chandu Menon" AND mediatype:texts AND date:[1880 TO 1900]
-2025-11-07 02:01:21,518 - INFO - Found 0 results
-2025-11-07 02:01:23,520 - INFO - Trying strategy: fuzzy_title for 'Indulekha'
-2025-11-07 02:01:23,520 - INFO - Searching Archive.org: title:Indulekha AND creator:Chandu Menon AND mediatype:texts AND date:[1880 TO 1900]
-2025-11-07 02:01:23,759 - INFO - Found 0 results
-2025-11-07 02:01:25,761 - INFO - Trying strategy: author_language for 'Indulekha'
-2025-11-07 02:01:25,761 - INFO - Searching Archive.org: creator:"Chandu Menon" AND language:Malayalam AND mediatype:texts AND date:[1880 TO 1900]
-2025-11-07 02:01:25,986 - INFO - Found 0 results
-2025-11-07 02:01:27,987 - WARNING - No results found for: Indulekha
-2025-11-07 02:01:27,989 - INFO - 
+2025-11-07 02:49:49,658 - INFO - [15/21] Searching: Silappatikaram
+2025-11-07 02:49:49,658 - INFO - Author: Ilango Adigal, Language: None
+2025-11-07 02:49:49,659 - INFO - Trying strategy: direct_title for 'Silappatikaram'
+2025-11-07 02:49:49,659 - INFO - Searching Archive.org: Silappatikaram AND mediatype:texts
+2025-11-07 02:49:50,182 - INFO - Found 0 results
+2025-11-07 02:49:52,183 - INFO - Trying strategy: fuzzy_title for 'Silappatikaram'
+2025-11-07 02:49:52,183 - INFO - Searching Archive.org: Silappatikaram Shilappadikaram AND mediatype:texts
+2025-11-07 02:49:52,499 - INFO - Found 0 results
+2025-11-07 02:49:54,500 - INFO - Trying strategy: author_language for 'Silappatikaram'
+2025-11-07 02:49:54,500 - INFO - Searching Archive.org: Shilappadikaram AND mediatype:texts
+2025-11-07 02:49:54,796 - INFO - Found 3 results
+2025-11-07 02:49:56,797 - INFO - Found 3 potential matches
+2025-11-07 02:49:56,990 - INFO - Saved metadata: 4c447b633925_shilappadikaram.json
+2025-11-07 02:49:58,993 - INFO - 
 ============================================================
-2025-11-07 02:01:27,989 - INFO - [16/21] Searching: Chha Mana Atha Guntha
-2025-11-07 02:01:27,989 - INFO - Author: Fakir Mohan Senapati, Language: Odia
-2025-11-07 02:01:27,989 - INFO - Trying strategy: direct_title for 'Chha Mana Atha Guntha'
-2025-11-07 02:01:27,989 - INFO - Searching Archive.org: title:"Chha Mana Atha Guntha" AND creator:"Fakir Mohan Senapati" AND mediatype:texts AND date:[1890 TO 1920]
-2025-11-07 02:01:28,208 - INFO - Found 0 results
-2025-11-07 02:01:30,209 - INFO - Trying strategy: fuzzy_title for 'Chha Mana Atha Guntha'
-2025-11-07 02:01:30,209 - INFO - Searching Archive.org: title:Chha AND title:Mana AND title:Atha AND creator:Fakir Mohan Senapati AND mediatype:texts AND date:[1890 TO 1920]
-2025-11-07 02:01:30,451 - INFO - Found 0 results
-2025-11-07 02:01:32,458 - INFO - Trying strategy: author_language for 'Chha Mana Atha Guntha'
-2025-11-07 02:01:32,458 - INFO - Searching Archive.org: creator:"Fakir Mohan Senapati" AND language:Odia AND mediatype:texts AND date:[1890 TO 1920]
-2025-11-07 02:01:32,718 - INFO - Found 0 results
-2025-11-07 02:01:34,719 - WARNING - No results found for: Chha Mana Atha Guntha
-2025-11-07 02:01:34,720 - INFO - 
+2025-11-07 02:49:58,994 - INFO - [16/21] Searching: Dhammapada
+2025-11-07 02:49:58,994 - INFO - Author: Various, Language: None
+2025-11-07 02:49:58,994 - INFO - Trying strategy: direct_title for 'Dhammapada'
+2025-11-07 02:49:58,994 - INFO - Searching Archive.org: Dhammapada AND mediatype:texts
+2025-11-07 02:49:59,446 - INFO - Found 20 results
+2025-11-07 02:50:01,447 - INFO - Trying strategy: fuzzy_title for 'Dhammapada'
+2025-11-07 02:50:01,447 - INFO - Searching Archive.org: Dhammapada Buddhist AND mediatype:texts
+2025-11-07 02:50:02,183 - INFO - Found 20 results
+2025-11-07 02:50:04,185 - INFO - Trying strategy: author_language for 'Dhammapada'
+2025-11-07 02:50:04,185 - WARNING - Could not build query for strategy author_language
+2025-11-07 02:50:04,186 - INFO - Found 33 potential matches
+2025-11-07 02:50:04,831 - INFO - Saved metadata: b0b424ed25a2_treasury-of-truth-illustrated-dhammapada-chinese-version.json
+2025-11-07 02:50:06,833 - INFO - 
 ============================================================
-2025-11-07 02:01:34,720 - INFO - [17/21] Searching: Purananuru
-2025-11-07 02:01:34,721 - INFO - Author: Various, Language: Tamil
-2025-11-07 02:01:34,721 - INFO - Trying strategy: direct_title for 'Purananuru'
-2025-11-07 02:01:34,721 - INFO - Searching Archive.org: title:"Purananuru" AND mediatype:texts AND date:[-100 TO 300]
-2025-11-07 02:01:34,967 - INFO - Found 0 results
-2025-11-07 02:01:36,968 - INFO - Trying strategy: fuzzy_title for 'Purananuru'
-2025-11-07 02:01:36,968 - INFO - Searching Archive.org: title:Purananuru AND mediatype:texts AND date:[-100 TO 300]
-2025-11-07 02:01:37,223 - INFO - Found 0 results
-2025-11-07 02:01:39,224 - INFO - Trying strategy: author_language for 'Purananuru'
-2025-11-07 02:01:39,224 - WARNING - Could not build query for strategy author_language
-2025-11-07 02:01:39,225 - WARNING - No results found for: Purananuru
-2025-11-07 02:01:39,226 - INFO - 
+2025-11-07 02:50:06,833 - INFO - [17/21] Searching: Uttara Rama Charita
+2025-11-07 02:50:06,833 - INFO - Author: Bhavabhuti, Language: None
+2025-11-07 02:50:06,833 - INFO - Trying strategy: direct_title for 'Uttara Rama Charita'
+2025-11-07 02:50:06,833 - INFO - Searching Archive.org: Uttara Rama Charita AND mediatype:texts
+2025-11-07 02:50:07,732 - INFO - Found 20 results
+2025-11-07 02:50:09,734 - INFO - Trying strategy: fuzzy_title for 'Uttara Rama Charita'
+2025-11-07 02:50:09,734 - INFO - Searching Archive.org: Uttara Rama Charita Bhavabhuti AND mediatype:texts
+2025-11-07 02:50:10,344 - INFO - Found 6 results
+2025-11-07 02:50:12,345 - INFO - Trying strategy: author_language for 'Uttara Rama Charita'
+2025-11-07 02:50:12,346 - INFO - Searching Archive.org: Bhavabhuti AND mediatype:texts
+2025-11-07 02:50:13,236 - INFO - Found 20 results
+2025-11-07 02:50:15,238 - INFO - Found 42 potential matches
+2025-11-07 02:50:15,537 - INFO - Saved metadata: 317b09258546_UttaraRamaCharita.json
+2025-11-07 02:50:17,541 - INFO - 
 ============================================================
-2025-11-07 02:01:39,226 - INFO - [18/21] Searching: Periya Puranam
-2025-11-07 02:01:39,226 - INFO - Author: Sekkizhar, Language: Tamil
-2025-11-07 02:01:39,226 - INFO - Trying strategy: direct_title for 'Periya Puranam'
-2025-11-07 02:01:39,226 - INFO - Searching Archive.org: title:"Periya Puranam" AND creator:"Sekkizhar" AND mediatype:texts AND date:[1100 TO 1200]
-2025-11-07 02:01:39,451 - INFO - Found 0 results
-2025-11-07 02:01:41,451 - INFO - Trying strategy: fuzzy_title for 'Periya Puranam'
-2025-11-07 02:01:41,452 - INFO - Searching Archive.org: title:Periya AND title:Puranam AND creator:Sekkizhar AND mediatype:texts AND date:[1100 TO 1200]
-2025-11-07 02:01:41,687 - INFO - Found 0 results
-2025-11-07 02:01:43,688 - INFO - Trying strategy: author_language for 'Periya Puranam'
-2025-11-07 02:01:43,688 - INFO - Searching Archive.org: creator:"Sekkizhar" AND language:Tamil AND mediatype:texts AND date:[1100 TO 1200]
-2025-11-07 02:01:43,932 - INFO - Found 0 results
-2025-11-07 02:01:45,933 - WARNING - No results found for: Periya Puranam
-2025-11-07 02:01:45,936 - INFO - 
+2025-11-07 02:50:17,542 - INFO - [18/21] Searching: Kadambari
+2025-11-07 02:50:17,542 - INFO - Author: Bana, Language: None
+2025-11-07 02:50:17,542 - INFO - Trying strategy: direct_title for 'Kadambari'
+2025-11-07 02:50:17,542 - INFO - Searching Archive.org: Kadambari AND mediatype:texts
+2025-11-07 02:50:18,163 - INFO - Found 20 results
+2025-11-07 02:50:20,163 - INFO - Trying strategy: fuzzy_title for 'Kadambari'
+2025-11-07 02:50:20,164 - INFO - Searching Archive.org: Kadambari Bana AND mediatype:texts
+2025-11-07 02:50:20,590 - INFO - Found 20 results
+2025-11-07 02:50:22,592 - INFO - Trying strategy: author_language for 'Kadambari'
+2025-11-07 02:50:22,592 - INFO - Searching Archive.org: Bana AND mediatype:texts
+2025-11-07 02:50:23,114 - INFO - Found 20 results
+2025-11-07 02:50:25,116 - INFO - Found 58 potential matches
+2025-11-07 02:50:25,690 - INFO - Saved metadata: 04e922180123_kadambari01bana.json
+2025-11-07 02:50:27,693 - INFO - 
 ============================================================
-2025-11-07 02:01:45,936 - INFO - [19/21] Searching: Heer Ranjha
-2025-11-07 02:01:45,936 - INFO - Author: Waris Shah, Language: Punjabi
-2025-11-07 02:01:45,936 - INFO - Trying strategy: direct_title for 'Heer Ranjha'
-2025-11-07 02:01:45,936 - INFO - Searching Archive.org: title:"Heer Ranjha" AND creator:"Waris Shah" AND mediatype:texts AND date:[1760 TO 1770]
-2025-11-07 02:01:46,186 - INFO - Found 0 results
-2025-11-07 02:01:48,187 - INFO - Trying strategy: fuzzy_title for 'Heer Ranjha'
-2025-11-07 02:01:48,187 - INFO - Searching Archive.org: title:Heer AND title:Ranjha AND creator:Waris Shah AND mediatype:texts AND date:[1760 TO 1770]
-2025-11-07 02:01:48,423 - INFO - Found 0 results
-2025-11-07 02:01:50,424 - INFO - Trying strategy: author_language for 'Heer Ranjha'
-2025-11-07 02:01:50,424 - INFO - Searching Archive.org: creator:"Waris Shah" AND language:Punjabi AND mediatype:texts AND date:[1760 TO 1770]
-2025-11-07 02:01:50,659 - INFO - Found 0 results
-2025-11-07 02:01:52,660 - WARNING - No results found for: Heer Ranjha
-2025-11-07 02:01:52,662 - INFO - 
+2025-11-07 02:50:27,693 - INFO - [19/21] Searching: Kathasaritsagara
+2025-11-07 02:50:27,693 - INFO - Author: Somadeva, Language: None
+2025-11-07 02:50:27,693 - INFO - Trying strategy: direct_title for 'Kathasaritsagara'
+2025-11-07 02:50:27,693 - INFO - Searching Archive.org: Kathasaritsagara AND mediatype:texts
+2025-11-07 02:50:28,404 - INFO - Found 20 results
+2025-11-07 02:50:30,405 - INFO - Trying strategy: fuzzy_title for 'Kathasaritsagara'
+2025-11-07 02:50:30,405 - INFO - Searching Archive.org: Kathasaritsagara Ocean of Story AND mediatype:texts
+2025-11-07 02:50:30,865 - INFO - Found 19 results
+2025-11-07 02:50:32,866 - INFO - Trying strategy: author_language for 'Kathasaritsagara'
+2025-11-07 02:50:32,866 - INFO - Searching Archive.org: Ocean of Story AND mediatype:texts
+2025-11-07 02:50:33,514 - INFO - Found 20 results
+2025-11-07 02:50:35,517 - INFO - Found 55 potential matches
+2025-11-07 02:50:35,985 - INFO - Saved metadata: 2ba90740ea89_kathasaritsagara_202507.json
+2025-11-07 02:50:37,987 - INFO - 
 ============================================================
-2025-11-07 02:01:52,662 - INFO - [20/21] Searching: Bulleh Shah Kafis
-2025-11-07 02:01:52,662 - INFO - Author: Bulleh Shah, Language: Punjabi
-2025-11-07 02:01:52,662 - INFO - Trying strategy: direct_title for 'Bulleh Shah Kafis'
-2025-11-07 02:01:52,662 - INFO - Searching Archive.org: title:"Bulleh Shah Kafis" AND creator:"Bulleh Shah" AND mediatype:texts AND date:[1680 TO 1760]
-2025-11-07 02:01:52,878 - INFO - Found 0 results
-2025-11-07 02:01:54,879 - INFO - Trying strategy: fuzzy_title for 'Bulleh Shah Kafis'
-2025-11-07 02:01:54,879 - INFO - Searching Archive.org: title:Bulleh AND title:Shah AND title:Kafis AND creator:Bulleh Shah AND mediatype:texts AND date:[1680 TO 1760]
-2025-11-07 02:01:55,079 - INFO - Found 0 results
-2025-11-07 02:01:57,081 - INFO - Trying strategy: author_language for 'Bulleh Shah Kafis'
-2025-11-07 02:01:57,081 - INFO - Searching Archive.org: creator:"Bulleh Shah" AND language:Punjabi AND mediatype:texts AND date:[1680 TO 1760]
-2025-11-07 02:01:57,325 - INFO - Found 0 results
-2025-11-07 02:01:59,327 - WARNING - No results found for: Bulleh Shah Kafis
-2025-11-07 02:01:59,328 - INFO - 
+2025-11-07 02:50:37,988 - INFO - [20/21] Searching: Dasakumaracharita
+2025-11-07 02:50:37,988 - INFO - Author: Dandin, Language: None
+2025-11-07 02:50:37,988 - INFO - Trying strategy: direct_title for 'Dasakumaracharita'
+2025-11-07 02:50:37,988 - INFO - Searching Archive.org: Dasakumaracharita AND mediatype:texts
+2025-11-07 02:50:38,475 - INFO - Found 12 results
+2025-11-07 02:50:40,476 - INFO - Trying strategy: fuzzy_title for 'Dasakumaracharita'
+2025-11-07 02:50:40,476 - INFO - Searching Archive.org: Dasakumaracharita Ten Princes AND mediatype:texts
+2025-11-07 02:50:40,809 - INFO - Found 0 results
+2025-11-07 02:50:42,810 - INFO - Trying strategy: author_language for 'Dasakumaracharita'
+2025-11-07 02:50:42,810 - INFO - Searching Archive.org: Ten Princes AND mediatype:texts
+2025-11-07 02:50:43,814 - INFO - Found 20 results
+2025-11-07 02:50:45,816 - INFO - Found 32 potential matches
+2025-11-07 02:50:46,119 - INFO - Saved metadata: 5b8d500f5303_in.ernet.dli.2015.382496.json
+2025-11-07 02:50:48,122 - INFO - 
 ============================================================
-2025-11-07 02:01:59,329 - INFO - [21/21] Searching: Shah Abdul Latif Bhittai Risalo
-2025-11-07 02:01:59,329 - INFO - Author: Shah Abdul Latif Bhittai, Language: Sindhi
-2025-11-07 02:01:59,329 - INFO - Trying strategy: direct_title for 'Shah Abdul Latif Bhittai Risalo'
-2025-11-07 02:01:59,329 - INFO - Searching Archive.org: title:"Shah Abdul Latif Bhittai Risalo" AND creator:"Shah Abdul Latif Bhittai" AND mediatype:texts AND date:[1690 TO 1752]
-2025-11-07 02:01:59,543 - INFO - Found 0 results
-2025-11-07 02:02:01,543 - INFO - Trying strategy: fuzzy_title for 'Shah Abdul Latif Bhittai Risalo'
-2025-11-07 02:02:01,543 - INFO - Searching Archive.org: title:Shah AND title:Abdul AND title:Latif AND creator:Shah Abdul Latif Bhittai AND mediatype:texts AND date:[1690 TO 1752]
-2025-11-07 02:02:01,774 - INFO - Found 0 results
-2025-11-07 02:02:03,775 - INFO - Trying strategy: author_language for 'Shah Abdul Latif Bhittai Risalo'
-2025-11-07 02:02:03,775 - INFO - Searching Archive.org: creator:"Shah Abdul Latif Bhittai" AND language:Sindhi AND mediatype:texts AND date:[1690 TO 1752]
-2025-11-07 02:02:04,020 - INFO - Found 0 results
-2025-11-07 02:02:06,021 - WARNING - No results found for: Shah Abdul Latif Bhittai Risalo
-2025-11-07 02:02:06,025 - INFO - 
+2025-11-07 02:50:48,122 - INFO - [21/21] Searching: Anandamath
+2025-11-07 02:50:48,122 - INFO - Author: Bankim Chandra Chatterjee, Language: None
+2025-11-07 02:50:48,122 - INFO - Trying strategy: direct_title for 'Anandamath'
+2025-11-07 02:50:48,122 - INFO - Searching Archive.org: Anandamath AND mediatype:texts
+2025-11-07 02:50:48,547 - INFO - Found 20 results
+2025-11-07 02:50:50,547 - INFO - Trying strategy: fuzzy_title for 'Anandamath'
+2025-11-07 02:50:50,548 - INFO - Searching Archive.org: Anandamath Bankim Chandra AND mediatype:texts
+2025-11-07 02:50:51,004 - INFO - Found 13 results
+2025-11-07 02:50:53,006 - INFO - Trying strategy: author_language for 'Anandamath'
+2025-11-07 02:50:53,006 - INFO - Searching Archive.org: Bankim Chandra AND mediatype:texts
+2025-11-07 02:50:53,474 - INFO - Found 20 results
+2025-11-07 02:50:55,476 - INFO - Found 45 potential matches
+2025-11-07 02:50:55,917 - INFO - Saved metadata: 754988381da4_anandamath-bankim-chandra-chatterjee.json
+2025-11-07 02:50:57,921 - INFO - 
 ================================================================================
-2025-11-07 02:02:06,025 - INFO - DISCOVERY COMPLETE
-2025-11-07 02:02:06,026 - INFO - ================================================================================
-2025-11-07 02:02:06,026 - INFO - Works searched: 21
-2025-11-07 02:02:06,026 - INFO - Works found: 0
-2025-11-07 02:02:06,026 - INFO - Success rate: 0.0%
-2025-11-07 02:02:06,026 - INFO - 
+2025-11-07 02:50:57,921 - INFO - DISCOVERY COMPLETE
+2025-11-07 02:50:57,921 - INFO - ================================================================================
+2025-11-07 02:50:57,921 - INFO - Works searched: 21
+2025-11-07 02:50:57,921 - INFO - Works found: 21
+2025-11-07 02:50:57,921 - INFO - Success rate: 100.0%
+2025-11-07 02:50:57,921 - INFO - 
 Results saved to: /home/user/dhwani/potential-candidates-2/metadata
-2025-11-07 02:02:06,026 - INFO - 
+2025-11-07 02:50:57,921 - INFO - 
 By category:
+2025-11-07 02:50:57,921 - INFO -   sanskrit_drama: 3 works
+2025-11-07 02:50:57,921 - INFO -   sanskrit_poetry: 3 works
+2025-11-07 02:50:57,921 - INFO -   political_science: 1 works
+2025-11-07 02:50:57,921 - INFO -   philosophy: 1 works
+2025-11-07 02:50:57,921 - INFO -   religious_epic: 1 works
+2025-11-07 02:50:57,921 - INFO -   folk_literature: 2 works
+2025-11-07 02:50:57,921 - INFO -   buddhist_literature: 2 works
+2025-11-07 02:50:57,921 - INFO -   bhakti_poetry: 2 works
+2025-11-07 02:50:57,921 - INFO -   tamil_wisdom: 1 works
+2025-11-07 02:50:57,922 - INFO -   tamil_epic: 1 works
+2025-11-07 02:50:57,922 - INFO -   sanskrit_prose: 2 works
+2025-11-07 02:50:57,922 - INFO -   story_collection: 1 works
+2025-11-07 02:50:57,922 - INFO -   modern_bengali: 1 works
+2025-11-07 02:51:28,775 - INFO - ================================================================================
+2025-11-07 02:51:28,775 - INFO - ARCHIVE.ORG DOWNLOAD PROCESS STARTED
+2025-11-07 02:51:28,775 - INFO - ================================================================================
+2025-11-07 02:51:28,776 - INFO - Found 21 works to download
+2025-11-07 02:51:28,777 - INFO - 
+============================================================
+2025-11-07 02:51:28,777 - INFO - [1/21] Processing: afbfcadf9a80_in.ernet.dli.2015.537663.json
+2025-11-07 02:51:28,777 - INFO - Found 5 download options
+2025-11-07 02:51:28,778 - INFO - Trying option 1/3: 2015.537663.Mirabai_djvu.txt (0.8 MB)
+2025-11-07 02:51:28,778 - INFO - Downloading: https://archive.org/download/in.ernet.dli.2015.537663/2015.537663.Mirabai_djvu.txt
+2025-11-07 02:51:32,063 - INFO - Downloaded: afbfcadf9a80_2015.537663.Mirabai_djvu.txt (796.8 KB)
+2025-11-07 02:51:34,069 - INFO - Successfully extracted 327530 characters
+2025-11-07 02:51:34,138 - INFO - Quality score: 0.46
+2025-11-07 02:51:34,142 - INFO - ✓ Success: Saved to afbfcadf9a80.txt
+2025-11-07 02:51:34,143 - INFO - 
+============================================================
+2025-11-07 02:51:34,143 - INFO - [2/21] Processing: e9194c75726b_isbn_9781475172461.json
+2025-11-07 02:51:34,144 - INFO - Found 7 download options
+2025-11-07 02:51:34,144 - INFO - Trying option 1/3: isbn_9781475172461_djvu.txt (0.2 MB)
+2025-11-07 02:51:34,144 - INFO - Downloading: https://archive.org/download/isbn_9781475172461/isbn_9781475172461_djvu.txt
+2025-11-07 02:51:35,832 - ERROR - Download failed: 401 Client Error: Unauthorized for url: https://dn790007.ca.archive.org/0/items/isbn_9781475172461/isbn_9781475172461_djvu.txt
+2025-11-07 02:51:35,833 - WARNING - Download failed, trying next option...
+2025-11-07 02:51:37,834 - INFO - Trying option 2/3: isbn_9781475172461.pdf (4.0 MB)
+2025-11-07 02:51:37,834 - INFO - Downloading: https://archive.org/download/isbn_9781475172461/isbn_9781475172461.pdf
+2025-11-07 02:51:39,008 - ERROR - Download failed: 401 Client Error: Unauthorized for url: https://dn790007.ca.archive.org/0/items/isbn_9781475172461/isbn_9781475172461.pdf
+2025-11-07 02:51:39,009 - WARNING - Download failed, trying next option...
+2025-11-07 02:51:41,011 - INFO - Trying option 3/3: isbn_9781475172461_encrypted.pdf (4.0 MB)
+2025-11-07 02:51:41,011 - INFO - Downloading: https://archive.org/download/isbn_9781475172461/isbn_9781475172461_encrypted.pdf
+2025-11-07 02:51:50,818 - INFO - Downloaded: e9194c75726b_isbn_9781475172461_encrypted.pdf (4065.8 KB)
+2025-11-07 02:52:46,659 - INFO - ================================================================================
+2025-11-07 02:52:46,659 - INFO - ARCHIVE.ORG DOWNLOAD PROCESS STARTED
+2025-11-07 02:52:46,659 - INFO - ================================================================================
+2025-11-07 02:52:46,660 - INFO - Found 21 works to download
+2025-11-07 02:52:46,661 - INFO - 
+============================================================
+2025-11-07 02:52:46,661 - INFO - [1/21] Processing: afbfcadf9a80_in.ernet.dli.2015.537663.json
+2025-11-07 02:52:46,661 - INFO - Already downloaded successfully, skipping...
+2025-11-07 02:52:46,661 - INFO - 
+============================================================
+2025-11-07 02:52:46,661 - INFO - [2/21] Processing: e9194c75726b_isbn_9781475172461.json
+2025-11-07 02:52:46,661 - INFO - Found 7 download options
+2025-11-07 02:52:46,661 - INFO - Trying option 1/3: isbn_9781475172461_djvu.txt (0.2 MB)
+2025-11-07 02:52:46,662 - INFO - Downloading: https://archive.org/download/isbn_9781475172461/isbn_9781475172461_djvu.txt
+2025-11-07 02:52:47,763 - ERROR - Download failed: 403 Client Error: Forbidden for url: https://ia601907.us.archive.org/18/items/isbn_9781475172461/isbn_9781475172461_djvu.txt
+2025-11-07 02:52:47,764 - WARNING - Download failed, trying next option...
+2025-11-07 02:52:49,765 - INFO - Trying option 2/3: isbn_9781475172461.pdf (4.0 MB)
+2025-11-07 02:52:49,766 - INFO - Downloading: https://archive.org/download/isbn_9781475172461/isbn_9781475172461.pdf
+2025-11-07 02:52:50,443 - ERROR - Download failed: 403 Client Error: Forbidden for url: https://ia601907.us.archive.org/18/items/isbn_9781475172461/isbn_9781475172461.pdf
+2025-11-07 02:52:50,444 - WARNING - Download failed, trying next option...
+2025-11-07 02:52:52,445 - INFO - Trying option 3/3: isbn_9781475172461_encrypted.pdf (4.0 MB)
+2025-11-07 02:52:52,445 - INFO - File already exists: e9194c75726b_isbn_9781475172461_encrypted.pdf
+2025-11-07 02:53:24,794 - INFO - ================================================================================
+2025-11-07 02:53:24,794 - INFO - ARCHIVE.ORG DOWNLOAD PROCESS STARTED
+2025-11-07 02:53:24,794 - INFO - ================================================================================
+2025-11-07 02:53:24,796 - INFO - Found 21 works to download
+2025-11-07 02:53:24,796 - INFO - 
+============================================================
+2025-11-07 02:53:24,796 - INFO - [1/21] Processing: afbfcadf9a80_in.ernet.dli.2015.537663.json
+2025-11-07 02:53:24,796 - INFO - Already downloaded successfully, skipping...
+2025-11-07 02:53:24,796 - INFO - 
+============================================================
+2025-11-07 02:53:24,796 - INFO - [2/21] Processing: e9194c75726b_isbn_9781475172461.json
+2025-11-07 02:53:24,797 - INFO - Found 5 download options
+2025-11-07 02:53:24,797 - INFO - Trying option 1/3: isbn_9781475172461_djvu.txt (0.2 MB)
+2025-11-07 02:53:24,797 - INFO - Downloading: https://archive.org/download/isbn_9781475172461/isbn_9781475172461_djvu.txt
+2025-11-07 02:53:25,402 - ERROR - Download failed: 403 Client Error: Forbidden for url: https://ia801907.us.archive.org/18/items/isbn_9781475172461/isbn_9781475172461_djvu.txt
+2025-11-07 02:53:25,403 - WARNING - Download failed, trying next option...
+2025-11-07 02:53:27,404 - INFO - Trying option 2/3: isbn_9781475172461.epub (6.3 MB)
+2025-11-07 02:53:27,404 - INFO - Downloading: https://archive.org/download/isbn_9781475172461/isbn_9781475172461.epub
+2025-11-07 02:53:28,844 - ERROR - Download failed: 401 Client Error: Unauthorized for url: https://dn790007.ca.archive.org/0/items/isbn_9781475172461/isbn_9781475172461.epub
+2025-11-07 02:53:28,846 - WARNING - Download failed, trying next option...
+2025-11-07 02:53:30,847 - INFO - Trying option 3/3: isbn_9781475172461_encrypted.epub (0.7 MB)
+2025-11-07 02:53:30,848 - INFO - Downloading: https://archive.org/download/isbn_9781475172461/isbn_9781475172461_encrypted.epub
+2025-11-07 02:53:33,086 - INFO - Downloaded: e9194c75726b_isbn_9781475172461_encrypted.epub (755.9 KB)
+2025-11-07 02:53:35,195 - ERROR - Text extraction failed for e9194c75726b_isbn_9781475172461_encrypted.epub: list index out of range
+2025-11-07 02:53:35,195 - WARNING - Extracted text too short or failed, trying next option...
+2025-11-07 02:53:35,195 - ERROR - All download options failed for isbn_9781475172461
+2025-11-07 02:53:35,195 - ERROR - ✗ Failed to download: e9194c75726b
+2025-11-07 02:53:35,197 - INFO - 
+============================================================
+2025-11-07 02:53:35,197 - INFO - [3/21] Processing: 2ba90740ea89_kathasaritsagara_202507.json
+2025-11-07 02:53:35,197 - INFO - Found 2 download options
+2025-11-07 02:53:35,197 - INFO - Trying option 1/2: kathasaritsagara_djvu.txt (3.5 MB)
+2025-11-07 02:53:35,198 - INFO - Downloading: https://archive.org/download/kathasaritsagara_202507/kathasaritsagara_djvu.txt
+2025-11-07 02:53:37,087 - INFO - Downloaded: 2ba90740ea89_kathasaritsagara_djvu.txt (3573.5 KB)
+2025-11-07 02:53:39,097 - INFO - Successfully extracted 3656019 characters
+2025-11-07 02:53:39,465 - INFO - Quality score: 1.00
+2025-11-07 02:53:39,472 - INFO - ✓ Success: Saved to 2ba90740ea89.txt
+2025-11-07 02:53:39,474 - INFO - 
+============================================================
+2025-11-07 02:53:39,474 - INFO - [4/21] Processing: 754988381da4_anandamath-bankim-chandra-chatterjee.json
+2025-11-07 02:53:39,474 - INFO - Found 3 download options
+2025-11-07 02:53:39,474 - INFO - Trying option 1/3: Anandamath_Bankim Chandra Chatterjee_djvu.txt (0.3 MB)
+2025-11-07 02:53:39,475 - INFO - Downloading: https://archive.org/download/anandamath-bankim-chandra-chatterjee/Anandamath_Bankim Chandra Chatterjee_djvu.txt
+2025-11-07 02:53:41,280 - INFO - Downloaded: 754988381da4_Anandamath_Bankim Chandra Chatterjee_djvu.txt (290.4 KB)
+2025-11-07 02:53:43,281 - INFO - Successfully extracted 293423 characters
+2025-11-07 02:53:43,310 - INFO - Quality score: 1.00
+2025-11-07 02:53:43,313 - INFO - ✓ Success: Saved to 754988381da4.txt
+2025-11-07 02:53:43,314 - INFO - 
+============================================================
+2025-11-07 02:53:43,314 - INFO - [5/21] Processing: 990e6771ca33_hitopadesha_hindi.json
+2025-11-07 02:53:43,315 - INFO - Found 4 download options
+2025-11-07 02:53:43,315 - INFO - Trying option 1/3: hitopadesha_hindi_djvu.txt (1.0 MB)
+2025-11-07 02:53:43,315 - INFO - Downloading: https://archive.org/download/hitopadesha_hindi/hitopadesha_hindi_djvu.txt
+2025-11-07 02:53:46,176 - INFO - Downloaded: 990e6771ca33_hitopadesha_hindi_djvu.txt (1054.8 KB)
+2025-11-07 02:53:48,180 - INFO - Successfully extracted 421957 characters
+2025-11-07 02:53:48,263 - INFO - Quality score: 0.46
+2025-11-07 02:53:48,266 - INFO - ✓ Success: Saved to 990e6771ca33.txt
+2025-11-07 02:53:48,268 - INFO - 
+============================================================
+2025-11-07 02:53:48,268 - INFO - [6/21] Processing: 5992fd378600_trent_0116301634410.json
+2025-11-07 02:53:48,268 - INFO - Found 5 download options
+2025-11-07 02:53:48,268 - INFO - Trying option 1/3: trent_0116301634410_djvu.txt (0.6 MB)
+2025-11-07 02:53:48,269 - INFO - Downloading: https://archive.org/download/trent_0116301634410/trent_0116301634410_djvu.txt
+2025-11-07 02:53:48,823 - ERROR - Download failed: 403 Client Error: Forbidden for url: https://ia800907.us.archive.org/0/items/trent_0116301634410/trent_0116301634410_djvu.txt
+2025-11-07 02:53:48,825 - WARNING - Download failed, trying next option...
+2025-11-07 02:53:50,826 - INFO - Trying option 2/3: trent_0116301634410.epub (2.9 MB)
+2025-11-07 02:53:50,826 - INFO - Downloading: https://archive.org/download/trent_0116301634410/trent_0116301634410.epub
+2025-11-07 02:53:51,568 - ERROR - Download failed: 403 Client Error: Forbidden for url: https://ia600907.us.archive.org/0/items/trent_0116301634410/trent_0116301634410.epub
+2025-11-07 02:53:51,569 - WARNING - Download failed, trying next option...
+2025-11-07 02:53:53,570 - INFO - Trying option 3/3: trent_0116301634410_encrypted.epub (1.1 MB)
+2025-11-07 02:53:53,571 - INFO - Downloading: https://archive.org/download/trent_0116301634410/trent_0116301634410_encrypted.epub
+2025-11-07 02:53:55,046 - INFO - Downloaded: 5992fd378600_trent_0116301634410_encrypted.epub (1085.8 KB)
+2025-11-07 02:53:57,051 - ERROR - Text extraction failed for 5992fd378600_trent_0116301634410_encrypted.epub: list index out of range
+2025-11-07 02:53:57,051 - WARNING - Extracted text too short or failed, trying next option...
+2025-11-07 02:53:57,051 - ERROR - All download options failed for trent_0116301634410
+2025-11-07 02:53:57,051 - ERROR - ✗ Failed to download: 5992fd378600
+2025-11-07 02:53:57,053 - INFO - 
+============================================================
+2025-11-07 02:53:57,053 - INFO - [7/21] Processing: a9569ce18796_songsofkabir00kabi.json
+2025-11-07 02:53:57,053 - INFO - Found 2 download options
+2025-11-07 02:53:57,053 - INFO - Trying option 1/2: songsofkabir00kabi_djvu.txt (0.1 MB)
+2025-11-07 02:53:57,054 - INFO - Downloading: https://archive.org/download/songsofkabir00kabi/songsofkabir00kabi_djvu.txt
+2025-11-07 02:53:59,126 - INFO - Downloaded: a9569ce18796_songsofkabir00kabi_djvu.txt (122.3 KB)
+2025-11-07 02:54:01,127 - INFO - Successfully extracted 125035 characters
+2025-11-07 02:54:01,136 - INFO - Quality score: 1.00
+2025-11-07 02:54:01,137 - INFO - ✓ Success: Saved to a9569ce18796.txt
+2025-11-07 02:54:01,139 - INFO - 
+============================================================
+2025-11-07 02:54:01,139 - INFO - [8/21] Processing: 9ea928f1b4ec_vairagyasatakamo025367mbp.json
+2025-11-07 02:54:01,139 - INFO - Found 2 download options
+2025-11-07 02:54:01,139 - INFO - Trying option 1/2: vairagyasatakamo025367mbp_djvu.txt (0.1 MB)
+2025-11-07 02:54:01,140 - INFO - Downloading: https://archive.org/download/vairagyasatakamo025367mbp/vairagyasatakamo025367mbp_djvu.txt
+2025-11-07 02:54:01,782 - INFO - Downloaded: 9ea928f1b4ec_vairagyasatakamo025367mbp_djvu.txt (55.5 KB)
+2025-11-07 02:54:03,783 - INFO - Successfully extracted 56845 characters
+2025-11-07 02:54:03,787 - INFO - Quality score: 1.00
+2025-11-07 02:54:03,788 - INFO - ✓ Success: Saved to 9ea928f1b4ec.txt
+2025-11-07 02:54:03,790 - INFO - 
+============================================================
+2025-11-07 02:54:03,790 - INFO - [9/21] Processing: 4bea020582ac_gitagovinda0000jaya.json
+2025-11-07 02:54:03,790 - INFO - Found 4 download options
+2025-11-07 02:54:03,790 - INFO - Trying option 1/3: gitagovinda0000jaya_djvu.txt (0.1 MB)
+2025-11-07 02:54:03,790 - INFO - Downloading: https://archive.org/download/gitagovinda0000jaya/gitagovinda0000jaya_djvu.txt
+2025-11-07 02:54:05,493 - ERROR - Download failed: 401 Client Error: Unauthorized for url: https://dn710200.ca.archive.org/0/items/gitagovinda0000jaya/gitagovinda0000jaya_djvu.txt
+2025-11-07 02:54:05,494 - WARNING - Download failed, trying next option...
+2025-11-07 02:54:07,496 - INFO - Trying option 2/3: gitagovinda0000jaya.epub (4.5 MB)
+2025-11-07 02:54:07,496 - INFO - Downloading: https://archive.org/download/gitagovinda0000jaya/gitagovinda0000jaya.epub
+2025-11-07 02:54:08,782 - ERROR - Download failed: 401 Client Error: Unauthorized for url: https://dn710200.ca.archive.org/0/items/gitagovinda0000jaya/gitagovinda0000jaya.epub
+2025-11-07 02:54:08,784 - WARNING - Download failed, trying next option...
+2025-11-07 02:54:10,785 - INFO - Trying option 3/3: gitagovinda0000jaya_lcp.epub (4.6 MB)
+2025-11-07 02:54:10,786 - INFO - Downloading: https://archive.org/download/gitagovinda0000jaya/gitagovinda0000jaya_lcp.epub
+2025-11-07 02:54:15,122 - INFO - Downloaded: 4bea020582ac_gitagovinda0000jaya_lcp.epub (4743.4 KB)
+2025-11-07 02:54:17,171 - INFO - Successfully extracted 7150 characters
+2025-11-07 02:54:17,172 - INFO - Quality score: 0.32
+2025-11-07 02:54:17,174 - INFO - ✓ Success: Saved to 4bea020582ac.txt
+2025-11-07 02:54:17,178 - INFO - 
+============================================================
+2025-11-07 02:54:17,178 - INFO - [10/21] Processing: 08665ac8f169_tulsi-ramcharitmanas.json
+2025-11-07 02:54:17,178 - INFO - Found 3 download options
+2025-11-07 02:54:17,179 - INFO - Trying option 1/3: Tulsi-Ramcharitmanas_djvu.txt (1.7 MB)
+2025-11-07 02:54:17,179 - INFO - Downloading: https://archive.org/download/tulsi-ramcharitmanas/Tulsi-Ramcharitmanas_djvu.txt
+2025-11-07 02:54:22,024 - INFO - Downloaded: 08665ac8f169_Tulsi-Ramcharitmanas_djvu.txt (1745.3 KB)
+2025-11-07 02:54:24,033 - INFO - Successfully extracted 725559 characters
+2025-11-07 02:54:24,178 - INFO - Quality score: 0.46
+2025-11-07 02:54:24,182 - INFO - ✓ Success: Saved to 08665ac8f169.txt
+2025-11-07 02:54:24,184 - INFO - 
+============================================================
+2025-11-07 02:54:24,184 - INFO - [11/21] Processing: 04e922180123_kadambari01bana.json
+2025-11-07 02:54:24,185 - INFO - Found 3 download options
+2025-11-07 02:54:24,185 - INFO - Trying option 1/3: kadambari01bana_djvu.txt (1.3 MB)
+2025-11-07 02:54:24,186 - INFO - Downloading: https://archive.org/download/kadambari01bana/kadambari01bana_djvu.txt
+2025-11-07 02:54:26,822 - INFO - Downloaded: 04e922180123_kadambari01bana_djvu.txt (1350.4 KB)
+2025-11-07 02:54:28,825 - INFO - Successfully extracted 514092 characters
+2025-11-07 02:54:28,912 - INFO - Quality score: 0.46
+2025-11-07 02:54:28,916 - INFO - ✓ Success: Saved to 04e922180123.txt
+2025-11-07 02:54:28,918 - INFO - 
+============================================================
+2025-11-07 02:54:28,918 - INFO - [12/21] Processing: 2248ab1ee734_yogasutras_201908.json
+2025-11-07 02:54:28,918 - INFO - Found 2 download options
+2025-11-07 02:54:28,918 - INFO - Trying option 1/2: YOGA_SUTRAS_djvu.txt (0.0 MB)
+2025-11-07 02:54:28,919 - INFO - Downloading: https://archive.org/download/yogasutras_201908/YOGA_SUTRAS_djvu.txt
+2025-11-07 02:54:29,490 - INFO - Downloaded: 2248ab1ee734_YOGA_SUTRAS_djvu.txt (5.5 KB)
+2025-11-07 02:54:31,492 - INFO - Successfully extracted 5309 characters
+2025-11-07 02:54:31,493 - INFO - Quality score: 0.32
+2025-11-07 02:54:31,494 - INFO - ✓ Success: Saved to 2248ab1ee734.txt
+2025-11-07 02:54:31,496 - INFO - 
+============================================================
+2025-11-07 02:54:31,496 - INFO - [13/21] Processing: 42b10d02ec6d_THIRUKKURALEnglishTranslationAndCommentaryProjectMadurai.json
+2025-11-07 02:54:31,497 - INFO - Found 2 download options
+2025-11-07 02:54:31,497 - INFO - Trying option 1/2: THIRUKKURAL English Translation and Commentary - Project Madurai_djvu.txt (0.3 MB)
+2025-11-07 02:54:31,497 - INFO - Downloading: https://archive.org/download/THIRUKKURALEnglishTranslationAndCommentaryProjectMadurai/THIRUKKURAL English Translation and Commentary - Project Madurai_djvu.txt
+2025-11-07 02:54:33,675 - INFO - Downloaded: 42b10d02ec6d_THIRUKKURAL English Translation and Commentary - Project Madurai_djvu.txt (310.3 KB)
+2025-11-07 02:54:35,676 - INFO - Successfully extracted 317707 characters
+2025-11-07 02:54:35,704 - INFO - Quality score: 1.00
+2025-11-07 02:54:35,706 - INFO - ✓ Success: Saved to 42b10d02ec6d.txt
+2025-11-07 02:54:35,707 - INFO - 
+============================================================
+2025-11-07 02:54:35,707 - INFO - [14/21] Processing: 317b09258546_UttaraRamaCharita.json
+2025-11-07 02:54:35,708 - INFO - Found 2 download options
+2025-11-07 02:54:35,708 - INFO - Trying option 1/2: uttara_rama_charitam_djvu.txt (0.2 MB)
+2025-11-07 02:54:35,708 - INFO - Downloading: https://archive.org/download/UttaraRamaCharita/uttara_rama_charitam_djvu.txt
+2025-11-07 02:54:36,461 - INFO - Downloaded: 317b09258546_uttara_rama_charitam_djvu.txt (185.7 KB)
+2025-11-07 02:54:38,462 - INFO - Successfully extracted 187011 characters
+2025-11-07 02:54:38,487 - INFO - Quality score: 0.46
+2025-11-07 02:54:38,488 - INFO - ✓ Success: Saved to 317b09258546.txt
+2025-11-07 02:54:38,489 - INFO - 
+============================================================
+2025-11-07 02:54:38,490 - INFO - [15/21] Processing: 93255930a538_meghadutam-kalidas.json
+2025-11-07 02:54:38,490 - INFO - Found 3 download options
+2025-11-07 02:54:38,490 - INFO - Trying option 1/3: Meghadutam_Kalidas_djvu.txt (0.1 MB)
+2025-11-07 02:54:38,490 - INFO - Downloading: https://archive.org/download/meghadutam-kalidas/Meghadutam_Kalidas_djvu.txt
+2025-11-07 02:54:40,235 - INFO - Downloaded: 93255930a538_Meghadutam_Kalidas_djvu.txt (62.5 KB)
+2025-11-07 02:54:42,236 - INFO - Successfully extracted 24046 characters
+2025-11-07 02:54:42,239 - INFO - Quality score: 0.46
+2025-11-07 02:54:42,241 - INFO - ✓ Success: Saved to 93255930a538.txt
+2025-11-07 02:54:42,244 - INFO - 
+============================================================
+2025-11-07 02:54:42,244 - INFO - [16/21] Processing: 0ee0c2b29128_arthashastra_202405.json
+2025-11-07 02:54:42,244 - INFO - Found 3 download options
+2025-11-07 02:54:42,244 - INFO - Trying option 1/3: Arthashastra_djvu.txt (1.4 MB)
+2025-11-07 02:54:42,245 - INFO - Downloading: https://archive.org/download/arthashastra_202405/Arthashastra_djvu.txt
+2025-11-07 02:54:45,232 - INFO - Downloaded: 0ee0c2b29128_Arthashastra_djvu.txt (1430.8 KB)
+2025-11-07 02:54:47,235 - INFO - Successfully extracted 1459087 characters
+2025-11-07 02:54:47,370 - INFO - Quality score: 1.00
+2025-11-07 02:54:47,373 - INFO - ✓ Success: Saved to 0ee0c2b29128.txt
+2025-11-07 02:54:47,375 - INFO - 
+============================================================
+2025-11-07 02:54:47,375 - INFO - [17/21] Processing: 5b8d500f5303_in.ernet.dli.2015.382496.json
+2025-11-07 02:54:47,375 - INFO - Found 1 download options
+2025-11-07 02:54:47,375 - INFO - Trying option 1/1: 2015.382496.Dasakumaracharita_djvu.txt (1.0 MB)
+2025-11-07 02:54:47,375 - INFO - Downloading: https://archive.org/download/in.ernet.dli.2015.382496/2015.382496.Dasakumaracharita_djvu.txt
+2025-11-07 02:54:50,022 - INFO - Downloaded: 5b8d500f5303_2015.382496.Dasakumaracharita_djvu.txt (1062.6 KB)
+2025-11-07 02:54:52,025 - INFO - Successfully extracted 1067466 characters
+2025-11-07 02:54:52,143 - INFO - Quality score: 0.46
+2025-11-07 02:54:52,146 - INFO - ✓ Success: Saved to 5b8d500f5303.txt
+2025-11-07 02:54:52,148 - INFO - 
+============================================================
+2025-11-07 02:54:52,148 - INFO - [18/21] Processing: 2cd2c4312ebb_morejatakatales07518gut.json
+2025-11-07 02:54:52,149 - INFO - Found 2 download options
+2025-11-07 02:54:52,149 - INFO - Trying option 1/2: mrjtk10.txt (0.1 MB)
+2025-11-07 02:54:52,149 - INFO - Downloading: https://archive.org/download/morejatakatales07518gut/mrjtk10.txt
+2025-11-07 02:54:54,352 - INFO - Downloaded: 2cd2c4312ebb_mrjtk10.txt (77.3 KB)
+2025-11-07 02:54:56,354 - INFO - Successfully extracted 77118 characters
+2025-11-07 02:54:56,360 - INFO - Quality score: 1.00
+2025-11-07 02:54:56,362 - INFO - ✓ Success: Saved to 2cd2c4312ebb.txt
+2025-11-07 02:54:56,364 - INFO - 
+============================================================
+2025-11-07 02:54:56,364 - INFO - [19/21] Processing: 4c447b633925_shilappadikaram.json
+2025-11-07 02:54:56,364 - INFO - Found 3 download options
+2025-11-07 02:54:56,364 - INFO - Trying option 1/3: Shilappadikaram - Ilango Adigal_djvu.txt (0.3 MB)
+2025-11-07 02:54:56,364 - INFO - Downloading: https://archive.org/download/shilappadikaram/Shilappadikaram - Ilango Adigal_djvu.txt
+2025-11-07 02:54:58,760 - INFO - Downloaded: 4c447b633925_Shilappadikaram - Ilango Adigal_djvu.txt (310.2 KB)
+2025-11-07 02:55:00,762 - INFO - Successfully extracted 315486 characters
+2025-11-07 02:55:00,792 - INFO - Quality score: 1.00
+2025-11-07 02:55:00,793 - INFO - ✓ Success: Saved to 4c447b633925.txt
+2025-11-07 02:55:00,795 - INFO - 
+============================================================
+2025-11-07 02:55:00,795 - INFO - [20/21] Processing: b0b424ed25a2_treasury-of-truth-illustrated-dhammapada-chinese-version.json
+2025-11-07 02:55:00,796 - INFO - Found 3 download options
+2025-11-07 02:55:00,796 - INFO - Trying option 1/3: Treasury of Truth - Illustrated Dhammapada (Chinese Version)_djvu.txt (2.0 MB)
+2025-11-07 02:55:00,796 - INFO - Downloading: https://archive.org/download/treasury-of-truth-illustrated-dhammapada-chinese-version/Treasury of Truth - Illustrated Dhammapada (Chinese Version)_djvu.txt
+2025-11-07 02:55:05,018 - INFO - Downloaded: b0b424ed25a2_Treasury of Truth - Illustrated Dhammapada (Chinese Version)_djvu.txt (2034.6 KB)
+2025-11-07 02:55:07,030 - INFO - Successfully extracted 1217097 characters
+2025-11-07 02:55:07,279 - INFO - Quality score: 0.77
+2025-11-07 02:55:07,284 - INFO - ✓ Success: Saved to b0b424ed25a2.txt
+2025-11-07 02:55:07,286 - INFO - 
+============================================================
+2025-11-07 02:55:07,286 - INFO - [21/21] Processing: 6bd4622c9612_in.ernet.dli.2015.485280.json
+2025-11-07 02:55:07,286 - INFO - Found 2 download options
+2025-11-07 02:55:07,286 - INFO - Trying option 1/2: 2015.485280.MRICCHAKATIKA_djvu.txt (0.2 MB)
+2025-11-07 02:55:07,287 - INFO - Downloading: https://archive.org/download/in.ernet.dli.2015.485280/2015.485280.MRICCHAKATIKA_djvu.txt
+2025-11-07 02:55:07,979 - INFO - Downloaded: 6bd4622c9612_2015.485280.MRICCHAKATIKA_djvu.txt (183.7 KB)
+2025-11-07 02:55:09,980 - INFO - Successfully extracted 113494 characters
+2025-11-07 02:55:09,997 - INFO - Quality score: 0.46
+2025-11-07 02:55:09,999 - INFO - ✓ Success: Saved to 6bd4622c9612.txt
+2025-11-07 02:55:10,014 - INFO - 
+================================================================================
+2025-11-07 02:55:10,014 - INFO - DOWNLOAD COMPLETE
+2025-11-07 02:55:10,014 - INFO - ================================================================================
+2025-11-07 02:55:10,014 - INFO - Succeeded: 19
+2025-11-07 02:55:10,014 - INFO - Failed: 2
+2025-11-07 02:55:10,014 - INFO - Success rate: 90.5%
+2025-11-07 02:56:33,076 - INFO - ================================================================================
+2025-11-07 02:56:33,076 - INFO - MARKDOWN CONVERSION PROCESS STARTED
+2025-11-07 02:56:33,076 - INFO - ================================================================================
+2025-11-07 02:56:33,077 - INFO - Found 37 text files to convert
+2025-11-07 02:56:33,078 - INFO - 
+[1/37] Converting: 6bd4622c9612_2015.485280.MRICCHAKATIKA_djvu
+2025-11-07 02:56:33,078 - WARNING - Info file not found: 6bd4622c9612_2015.485280.MRICCHAKATIKA_djvu_info.json
+2025-11-07 02:56:33,078 - INFO - 
+[2/37] Converting: 0ee0c2b29128_Arthashastra_djvu
+2025-11-07 02:56:33,078 - WARNING - Info file not found: 0ee0c2b29128_Arthashastra_djvu_info.json
+2025-11-07 02:56:33,079 - INFO - 
+[3/37] Converting: 04e922180123_kadambari01bana_djvu
+2025-11-07 02:56:33,079 - WARNING - Info file not found: 04e922180123_kadambari01bana_djvu_info.json
+2025-11-07 02:56:33,079 - INFO - 
+[4/37] Converting: 93255930a538
+2025-11-07 02:56:33,081 - INFO - ✓ Converted to markdown: 93255930a538.md
+2025-11-07 02:56:33,082 - INFO - 
+[5/37] Converting: 990e6771ca33
+2025-11-07 02:56:33,092 - INFO - ✓ Converted to markdown: 990e6771ca33.md
+2025-11-07 02:56:33,093 - INFO - 
+[6/37] Converting: 754988381da4
+2025-11-07 02:56:33,097 - INFO - ✓ Converted to markdown: 754988381da4.md
+2025-11-07 02:56:33,098 - INFO - 
+[7/37] Converting: 2cd2c4312ebb_mrjtk10
+2025-11-07 02:56:33,099 - WARNING - Info file not found: 2cd2c4312ebb_mrjtk10_info.json
+2025-11-07 02:56:33,099 - INFO - 
+[8/37] Converting: 42b10d02ec6d_THIRUKKURAL English Translation and Commentary - Project Madurai_djvu
+2025-11-07 02:56:33,099 - WARNING - Info file not found: 42b10d02ec6d_THIRUKKURAL English Translation and Commentary - Project Madurai_djvu_info.json
+2025-11-07 02:56:33,099 - INFO - 
+[9/37] Converting: b0b424ed25a2
+2025-11-07 02:56:33,129 - INFO - ✓ Converted to markdown: b0b424ed25a2.md
+2025-11-07 02:56:33,130 - INFO - 
+[10/37] Converting: 990e6771ca33_hitopadesha_hindi_djvu
+2025-11-07 02:56:33,130 - WARNING - Info file not found: 990e6771ca33_hitopadesha_hindi_djvu_info.json
+2025-11-07 02:56:33,130 - INFO - 
+[11/37] Converting: 4c447b633925
+2025-11-07 02:56:33,133 - INFO - ✓ Converted to markdown: 4c447b633925.md
+2025-11-07 02:56:33,134 - INFO - 
+[12/37] Converting: a9569ce18796_songsofkabir00kabi_djvu
+2025-11-07 02:56:33,134 - WARNING - Info file not found: a9569ce18796_songsofkabir00kabi_djvu_info.json
+2025-11-07 02:56:33,135 - INFO - 
+[13/37] Converting: 754988381da4_Anandamath_Bankim Chandra Chatterjee_djvu
+2025-11-07 02:56:33,135 - WARNING - Info file not found: 754988381da4_Anandamath_Bankim Chandra Chatterjee_djvu_info.json
+2025-11-07 02:56:33,135 - INFO - 
+[14/37] Converting: a9569ce18796
+2025-11-07 02:56:33,137 - INFO - ✓ Converted to markdown: a9569ce18796.md
+2025-11-07 02:56:33,138 - INFO - 
+[15/37] Converting: 04e922180123
+2025-11-07 02:56:33,147 - INFO - ✓ Converted to markdown: 04e922180123.md
+2025-11-07 02:56:33,148 - INFO - 
+[16/37] Converting: 2ba90740ea89
+2025-11-07 02:56:33,170 - INFO - ✓ Converted to markdown: 2ba90740ea89.md
+2025-11-07 02:56:33,171 - INFO - 
+[17/37] Converting: afbfcadf9a80_2015.537663.Mirabai_djvu
+2025-11-07 02:56:33,172 - WARNING - Info file not found: afbfcadf9a80_2015.537663.Mirabai_djvu_info.json
+2025-11-07 02:56:33,172 - INFO - 
+[18/37] Converting: 4c447b633925_Shilappadikaram - Ilango Adigal_djvu
+2025-11-07 02:56:33,172 - WARNING - Info file not found: 4c447b633925_Shilappadikaram - Ilango Adigal_djvu_info.json
+2025-11-07 02:56:33,172 - INFO - 
+[19/37] Converting: 317b09258546_uttara_rama_charitam_djvu
+2025-11-07 02:56:33,173 - WARNING - Info file not found: 317b09258546_uttara_rama_charitam_djvu_info.json
+2025-11-07 02:56:33,173 - INFO - 
+[20/37] Converting: 9ea928f1b4ec_vairagyasatakamo025367mbp_djvu
+2025-11-07 02:56:33,173 - WARNING - Info file not found: 9ea928f1b4ec_vairagyasatakamo025367mbp_djvu_info.json
+2025-11-07 02:56:33,173 - INFO - 
+[21/37] Converting: 93255930a538_Meghadutam_Kalidas_djvu
+2025-11-07 02:56:33,173 - WARNING - Info file not found: 93255930a538_Meghadutam_Kalidas_djvu_info.json
+2025-11-07 02:56:33,173 - INFO - 
+[22/37] Converting: 4bea020582ac
+2025-11-07 02:56:33,175 - INFO - ✓ Converted to markdown: 4bea020582ac.md
+2025-11-07 02:56:33,176 - INFO - 
+[23/37] Converting: 9ea928f1b4ec
+2025-11-07 02:56:33,177 - INFO - ✓ Converted to markdown: 9ea928f1b4ec.md
+2025-11-07 02:56:33,178 - INFO - 
+[24/37] Converting: 5b8d500f5303
+2025-11-07 02:56:33,185 - INFO - ✓ Converted to markdown: 5b8d500f5303.md
+2025-11-07 02:56:33,186 - INFO - 
+[25/37] Converting: 0ee0c2b29128
+2025-11-07 02:56:33,192 - INFO - ✓ Converted to markdown: 0ee0c2b29128.md
+2025-11-07 02:56:33,193 - INFO - 
+[26/37] Converting: 5b8d500f5303_2015.382496.Dasakumaracharita_djvu
+2025-11-07 02:56:33,193 - WARNING - Info file not found: 5b8d500f5303_2015.382496.Dasakumaracharita_djvu_info.json
+2025-11-07 02:56:33,193 - INFO - 
+[27/37] Converting: afbfcadf9a80
+2025-11-07 02:56:33,199 - INFO - ✓ Converted to markdown: afbfcadf9a80.md
+2025-11-07 02:56:33,199 - INFO - 
+[28/37] Converting: 317b09258546
+2025-11-07 02:56:33,202 - INFO - ✓ Converted to markdown: 317b09258546.md
+2025-11-07 02:56:33,202 - INFO - 
+[29/37] Converting: 08665ac8f169_Tulsi-Ramcharitmanas_djvu
+2025-11-07 02:56:33,203 - WARNING - Info file not found: 08665ac8f169_Tulsi-Ramcharitmanas_djvu_info.json
+2025-11-07 02:56:33,203 - INFO - 
+[30/37] Converting: 08665ac8f169
+2025-11-07 02:56:33,213 - INFO - ✓ Converted to markdown: 08665ac8f169.md
+2025-11-07 02:56:33,213 - INFO - 
+[31/37] Converting: 6bd4622c9612
+2025-11-07 02:56:33,216 - INFO - ✓ Converted to markdown: 6bd4622c9612.md
+2025-11-07 02:56:33,216 - INFO - 
+[32/37] Converting: 2248ab1ee734_YOGA_SUTRAS_djvu
+2025-11-07 02:56:33,217 - WARNING - Info file not found: 2248ab1ee734_YOGA_SUTRAS_djvu_info.json
+2025-11-07 02:56:33,217 - INFO - 
+[33/37] Converting: b0b424ed25a2_Treasury of Truth - Illustrated Dhammapada (Chinese Version)_djvu
+2025-11-07 02:56:33,217 - WARNING - Info file not found: b0b424ed25a2_Treasury of Truth - Illustrated Dhammapada (Chinese Version)_djvu_info.json
+2025-11-07 02:56:33,217 - INFO - 
+[34/37] Converting: 42b10d02ec6d
+2025-11-07 02:56:33,219 - INFO - ✓ Converted to markdown: 42b10d02ec6d.md
+2025-11-07 02:56:33,220 - INFO - 
+[35/37] Converting: 2ba90740ea89_kathasaritsagara_djvu
+2025-11-07 02:56:33,220 - WARNING - Info file not found: 2ba90740ea89_kathasaritsagara_djvu_info.json
+2025-11-07 02:56:33,221 - INFO - 
+[36/37] Converting: 2cd2c4312ebb
+2025-11-07 02:56:33,222 - INFO - ✓ Converted to markdown: 2cd2c4312ebb.md
+2025-11-07 02:56:33,223 - INFO - 
+[37/37] Converting: 2248ab1ee734
+2025-11-07 02:56:33,224 - INFO - ✓ Converted to markdown: 2248ab1ee734.md
+2025-11-07 02:56:33,225 - INFO - 
+================================================================================
+2025-11-07 02:56:33,225 - INFO - CONVERSION COMPLETE
+2025-11-07 02:56:33,225 - INFO - ================================================================================
+2025-11-07 02:56:33,225 - INFO - Converted: 19
+2025-11-07 02:56:33,225 - INFO - Failed: 18
+2025-11-07 02:56:33,225 - INFO - Success rate: 51.4%
+2025-11-07 02:56:33,225 - INFO - 
+Markdown files saved to: /home/user/dhwani/potential-candidates-2/processed

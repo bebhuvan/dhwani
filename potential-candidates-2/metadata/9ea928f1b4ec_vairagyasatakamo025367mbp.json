@@ -1,0 +1,268 @@
+{
+  "work": {
+    "title": "Satakas",
+    "author": "Bhartrihari",
+    "original_language": "Sanskrit",
+    "search_terms": [
+      "Bhartrihari",
+      "Satakas",
+      "centuries",
+      "translation"
+    ],
+    "year_range": [
+      1850,
+      2023
+    ],
+    "category": "sanskrit_poetry",
+    "search_mode": "translation"
+  },
+  "search_result": {
+    "creator": "Bhartrihari.",
+    "date": "1916-01-01T00:00:00Z",
+    "downloads": 13527,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "Daisy",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "EPUB",
+      "Item Tile",
+      "Metadata",
+      "Million Books Original Metadata",
+      "Million Books Original TIFF ZIP",
+      "Scandata",
+      "Single Page Processed TIFF ZIP",
+      "Text PDF"
+    ],
+    "identifier": "vairagyasatakamo025367mbp",
+    "language": "eng",
+    "subject": "Literature",
+    "title": "Vairagya satakam. Or the hundred verses on renunciation."
+  },
+  "detailed_metadata": {
+    "created": 1762476730,
+    "d1": "ia600205.us.archive.org",
+    "d2": "ia800205.us.archive.org",
+    "dir": "/29/items/vairagyasatakamo025367mbp",
+    "files": [
+      {
+        "name": "OMETA.xml",
+        "source": "original",
+        "md5": "7a998b08f7035b990d1f70f8f052b5dc",
+        "format": "Million Books Original Metadata",
+        "mtime": "1163136310",
+        "size": "1007",
+        "crc32": "6c5924dd",
+        "sha1": "bd53542e7e68396f8ba0821b297b70ae5cf450d6"
+      },
+      {
+        "name": "OTIFF.zip",
+        "source": "original",
+        "md5": "291d2da9b435f938e1cb04d4620d628a",
+        "format": "Million Books Original TIFF ZIP",
+        "mtime": "1163136312",
+        "size": "4063021",
+        "crc32": "1c23874f",
+        "sha1": "d951d1e3c1da23b8b2d6ac8358c812f03773eaaa",
+        "filecount": "1"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1708195288",
+        "size": "14902",
+        "md5": "d869fbabba8ee57cfa886b31598a75ec",
+        "crc32": "50aac908",
+        "sha1": "c20949b6f6c6195cf3de6c04607963fd93b7e28e",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "vairagyasatakamo025367mbp.djvu",
+        "source": "derivative",
+        "format": "DjVu",
+        "original": "vairagyasatakamo025367mbp_djvu.xml",
+        "md5": "83948fb3eac7bcbdfc7d2bbf7a81f97d",
+        "mtime": "1163213606",
+        "size": "2824370",
+        "crc32": "3186c6c3",
+        "sha1": "58c219923ad43fb273f9d48d98c8380c5eac4188"
+      },
+      {
+        "name": "vairagyasatakamo025367mbp.epub",
+        "source": "derivative",
+        "original": "vairagyasatakamo025367mbp_abbyy.gz",
+        "mtime": "1714427554",
+        "size": "544064",
+        "md5": "a32ed28942aace7c849209fa6d1243ef",
+        "crc32": "4c2b102b",
+        "sha1": "d8e247f90b4ffe4fd533166729f90ca1ccf4fa3e",
+        "format": "EPUB"
+      },
+      {
+        "name": "vairagyasatakamo025367mbp.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "vairagyasatakamo025367mbp_tif.zip",
+        "md5": "3970197908071a74067dfb8c74d089b1",
+        "mtime": "1163211481",
+        "size": "221518",
+        "crc32": "b35c71fc",
+        "sha1": "dac0668a5adffdbe54becaebfae1d4d4f6946041"
+      },
+      {
+        "name": "vairagyasatakamo025367mbp.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "vairagyasatakamo025367mbp_djvu.xml",
+        "md5": "748fa64019e37ac6377bd01888a756b0",
+        "mtime": "1163213706",
+        "size": "3056566",
+        "crc32": "ce4b98be",
+        "sha1": "eeebf7304316bb07177877f3a9d277bcefac5e77"
+      },
+      {
+        "name": "vairagyasatakamo025367mbp_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "vairagyasatakamo025367mbp_tif.zip",
+        "md5": "656510704e3108b8cef7c35f0ae80546",
+        "mtime": "1163213434",
+        "size": "928156",
+        "crc32": "93f4524a",
+        "sha1": "4083aa5fa03622e5be74c69c6e3cd1fd642ac71b"
+      },
+      {
+        "name": "vairagyasatakamo025367mbp_archive.torrent",
+        "source": "metadata",
+        "btih": "835baaae3a9c0529aa706f181bc0849f49ea3737",
+        "mtime": "1714427557",
+        "size": "4396",
+        "md5": "163e3ed6dcf30bb502b5d9cb1750a93a",
+        "crc32": "58ccbb95",
+        "sha1": "3131509656f9501c38c92d14384266c73efec770",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "vairagyasatakamo025367mbp_daisy.zip",
+        "source": "derivative",
+        "original": "vairagyasatakamo025367mbp_abbyy.gz",
+        "mtime": "1708195285",
+        "size": "71881",
+        "md5": "8a0167f2d4035ec90155a92f65e1e805",
+        "crc32": "85aec550",
+        "sha1": "241594161bae0aecfb4ed6570aa981ce7a9a0f5f",
+        "format": "Daisy",
+        "filecount": "9"
+      },
+      {
+        "name": "vairagyasatakamo025367mbp_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "vairagyasatakamo025367mbp.djvu",
+        "md5": "c8670167efab596fa9079e0e9587a983",
+        "mtime": "1163213715",
+        "size": "56845",
+        "crc32": "c1950d82",
+        "sha1": "d984b0c26d3df19571557107509d4c9de66ee3ec"
+      },
+      {
+        "name": "vairagyasatakamo025367mbp_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "vairagyasatakamo025367mbp_abbyy.gz",
+        "md5": "8b057a87b4c2d957ce36ee021d4f437e",
+        "mtime": "1163213567",
+        "size": "524146",
+        "crc32": "e8a25580",
+        "sha1": "337af81eebbc5d6c2ec4d201d83cc521d8e574d0"
+      },
+      {
+        "name": "vairagyasatakamo025367mbp_files.xml",
+        "source": "metadata",
+        "md5": "809e3b997a01dee08a10d261656eaa24",
+        "format": "Metadata",
+        "summation": "md5"
+      },
+      {
+        "name": "vairagyasatakamo025367mbp_meta.xml",
+        "source": "metadata",
+        "format": "Metadata",
+        "mtime": "1609470218",
+        "size": "1462",
+        "md5": "b0dac35d613a770976d04167abe9ba39",
+        "crc32": "b3d60248",
+        "sha1": "a7a314d55808f30e1b09bf95439500aef7cdfc0e"
+      },
+      {
+        "name": "vairagyasatakamo025367mbp_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "vairagyasatakamo025367mbp_djvu.xml",
+        "md5": "9bfaa1707cb620abd5c9c60e58808b30",
+        "mtime": "1244465890",
+        "size": "20541",
+        "crc32": "c0d7590e",
+        "sha1": "afdba9fa35977229128fad67b35c2b23ebbf1e7d"
+      },
+      {
+        "name": "vairagyasatakamo025367mbp_tif.zip",
+        "source": "original",
+        "md5": "5cd3711fffa2eb8d024f4b6c612422ed",
+        "format": "Single Page Processed TIFF ZIP",
+        "mtime": "1163136307",
+        "size": "4080889",
+        "crc32": "f5a9619b",
+        "sha1": "dd152dee7e639c677fac797e222947aa5170d8c5",
+        "filecount": "68"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1714427557,
+    "item_size": 16413764,
+    "metadata": {
+      "identifier": "vairagyasatakamo025367mbp",
+      "mediatype": "texts",
+      "collection": "universallibrary",
+      "call_number": "25367",
+      "pagelayout": "FirstPageRight",
+      "uploader": "mario@archive.org",
+      "imagecount": "68",
+      "title": "Vairagya satakam. Or the hundred verses on renunciation.",
+      "creator": "Bhartrihari.",
+      "barcode": "0325727",
+      "subject": "Literature",
+      "publisher": "Advita ashrama,Mayavati, Lohaghat P. O., Almora, Himalayas.",
+      "contributor": [
+        "--",
+        "---",
+        "Ingwale, Surekha."
+      ],
+      "date": "1916",
+      "language": "eng",
+      "relation": "--",
+      "coverage": "--",
+      "copyrightowner": "Advita ashrama,Mayavati, Lohaghat P. O., Almora, Himalayas.",
+      "copyrightexpirydate": "--",
+      "scanningcenter": "Pune University",
+      "scanner": "20002973",
+      "digitalpublicationdate": "16-01-2003",
+      "identifier-access": "http://www.archive.org/details/vairagyasatakamo025367mbp",
+      "identifier-ark": "ark:/13960/t3610wh3r",
+      "publicdate": "2006-11-10 18:55:26",
+      "repub_state": "4",
+      "backup_location": "ia903600_25",
+      "addeddate": "2006-11-10 18:55:26",
+      "filesxml": "Fri Jan 1 3:03:38 UTC 2021"
+    },
+    "server": "ia800205.us.archive.org",
+    "uniq": 1802592122,
+    "workable_servers": [
+      "ia800205.us.archive.org",
+      "ia600205.us.archive.org"
+    ]
+  }
+}

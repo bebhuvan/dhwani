@@ -54,7 +54,8 @@ class ArchiveDownloader:
             elif name.endswith('.txt'):
                 priority = 2
             elif 'Text PDF' in format_type or name.endswith('.pdf'):
-                priority = 3
+                # Skip PDFs - broken dependencies
+                continue
             elif name.endswith('.epub'):
                 priority = 4
             elif name.endswith('.html') or name.endswith('.htm'):
@@ -120,18 +121,10 @@ class ArchiveDownloader:
                             if page_text:
                                 text.append(page_text)
                     return '\n\n'.join(text)
-                except ImportError:
-                    logger.warning("pdfplumber not available, trying pypdf2")
-                    try:
-                        from pypdf import PdfReader
-                        reader = PdfReader(file_path)
-                        text = []
-                        for page in reader.pages[:500]:
-                            text.append(page.extract_text())
-                        return '\n\n'.join(text)
-                    except:
-                        logger.error("PDF extraction failed - install pdfplumber or pypdf")
-                        return None
+                except Exception as e:
+                    logger.warning(f"PDF extraction failed: {type(e).__name__}")
+                    logger.warning("Skipping PDF - dependencies broken")
+                    return None
 
             # EPUB
             elif suffix == '.epub':

@@ -1,0 +1,369 @@
+{
+  "work": {
+    "title": "Dhammapada",
+    "author": "Various",
+    "original_language": "Pali",
+    "search_terms": [
+      "Dhammapada",
+      "Buddhist",
+      "sayings",
+      "Max Muller"
+    ],
+    "year_range": [
+      1850,
+      2023
+    ],
+    "category": "buddhist_literature",
+    "search_mode": "translation"
+  },
+  "search_result": {
+    "creator": "Ven. Weragoda Sarada Thero",
+    "date": "1994-05-25T00:00:00Z",
+    "description": "Treasury of Truth - Illustrated Dhammapada (Chinese Version) Author: Ven. Weragoda Sarada Maha Thero. Translated by Ms. Ko Guat Hua Illustrations: Mr. P. Wickramanayaka Designs & line drawings: Piyaratna Hewabatage Among the greatest publications in the history of Buddhism; \"Treasury of Truth - Illustrated Dhammapada\" is a monumental work. Over 900 pages of A4 size. Adorned with 423 illustrations in full-colour, at the rate of one especially commissioned illustration for each stanza. Weighs 4 kg. Included in the text are Pali stanza in Roman Characters - literal translation of stanza - Popular translation - original story out of which stanza stems and commentaries on words, expressions and concepts. ISBN: 981-00-8688-1",
+    "downloads": 1897,
+    "format": [
+      "Additional Text PDF",
+      "Archive BitTorrent",
+      "Daisy",
+      "DjVuTXT",
+      "Djvu XML",
+      "EPUB",
+      "Image Container PDF",
+      "Item Tile",
+      "Metadata",
+      "OCR Page Index",
+      "OCR Search Text",
+      "Page Numbers JSON",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "chOCR",
+      "hOCR"
+    ],
+    "identifier": "treasury-of-truth-illustrated-dhammapada-chinese-version",
+    "language": "chi",
+    "subject": [
+      "Treasury of Truth - Illustrated Dhammapada",
+      "Ven. Weragoda Sarada Maha Thero",
+      "Buddhist",
+      "Pali",
+      "Chinese",
+      "Buddhist literature",
+      "Teachings of the Buddha",
+      "Theravada Tradition"
+    ],
+    "title": "Treasury Of Truth Illustrated Dhammapada ( Chinese Version)"
+  },
+  "detailed_metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/treasury-of-truth-illustrated-dhammapada-chinese-version"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/treasury-of-truth-illustrated-dhammapada-chinese-version"
+        }
+      ]
+    },
+    "created": 1762483804,
+    "d1": "ia903401.us.archive.org",
+    "d2": "ia803401.us.archive.org",
+    "dir": "/14/items/treasury-of-truth-illustrated-dhammapada-chinese-version",
+    "files": [
+      {
+        "name": "Treasury of Truth - Illustrated Dhammapada (Chinese Version).epub",
+        "source": "derivative",
+        "original": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_hocr.html",
+        "mtime": "1724844089",
+        "size": "1499594",
+        "md5": "94c56aad54c1204b890129a0b94f4b80",
+        "crc32": "925aa780",
+        "sha1": "b7e67c6b051e9846e8f362051f3a15bf7abfe05e",
+        "format": "EPUB"
+      },
+      {
+        "name": "Treasury of Truth - Illustrated Dhammapada (Chinese Version).pdf",
+        "source": "original",
+        "mtime": "1615066092",
+        "size": "659954293",
+        "md5": "3005b61ccffb86f0aebc2353142b4aaa",
+        "crc32": "0605b745",
+        "sha1": "0060d196239dbe11f5a09747c3115eee564edc23",
+        "format": "Image Container PDF"
+      },
+      {
+        "name": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-alpha-20201231-7-gc75f",
+        "ocr_parameters": "-l chi_sim",
+        "ocr_module_version": "0.0.11",
+        "ocr_detected_script": "Han",
+        "ocr_detected_script_conf": "0.7612",
+        "ocr_detected_lang": "zh",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_jp2.zip",
+        "mtime": "1615096504",
+        "size": "17730150",
+        "md5": "5afa79c63ad7788ab76a3196d3332d43",
+        "crc32": "1b0a6f0c",
+        "sha1": "15b050c0668c94f1dc1869611f815e111811eb1c"
+      },
+      {
+        "name": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_daisy.zip",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "Daisy",
+        "original": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_hocr.html",
+        "mtime": "1753505905",
+        "size": "1129175",
+        "md5": "3c42cbb9f06c2f7521a9e8586004480a",
+        "crc32": "761c50c8",
+        "sha1": "c5c38d22eda617746804a0661f971c90f5ed487a",
+        "filecount": "9"
+      },
+      {
+        "name": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_djvu.xml",
+        "mtime": "1615096947",
+        "size": "2083401",
+        "md5": "0d69ec8e1059e08aa39ef2078d07dd61",
+        "crc32": "95041864",
+        "sha1": "2a9e7c6d33a6935c63ef629e674f5b74672f48c7"
+      },
+      {
+        "name": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_hocr.html",
+        "mtime": "1615096823",
+        "size": "33929727",
+        "md5": "a896c119f51bcd52dd3088e1aa5418fe",
+        "crc32": "63203651",
+        "sha1": "fcf5683fa2dfd630b15a264ca5f1b6b4fcc09174"
+      },
+      {
+        "name": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l chi_sim",
+        "ocr_module_version": "0.0.11",
+        "ocr_detected_script": "Han",
+        "ocr_detected_script_conf": "0.7612",
+        "ocr_detected_lang": "zh",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_chocr.html.gz",
+        "mtime": "1615096617",
+        "size": "61761284",
+        "md5": "f1d9476e9b8c94269ba61026a81a8f23",
+        "crc32": "06153657",
+        "sha1": "5b4a8a1a1b04ea0e27717a25feb28dc763b1c6b4"
+      },
+      {
+        "name": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_hocr.html",
+        "mtime": "1615096885",
+        "size": "11404",
+        "md5": "81bac5202108aed3404a1ddc86c99d1f",
+        "crc32": "2865dadb",
+        "sha1": "ece719840b3f82a40d6a9e0bfa687a303876f2ea"
+      },
+      {
+        "name": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.0.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "49276",
+        "word_conf_11_20": "8231",
+        "word_conf_21_30": "9282",
+        "word_conf_31_40": "10709",
+        "word_conf_41_50": "12115",
+        "word_conf_51_60": "13341",
+        "word_conf_61_70": "15405",
+        "word_conf_71_80": "21247",
+        "word_conf_81_90": "54584",
+        "word_conf_91_100": "246022",
+        "format": "OCR Search Text",
+        "original": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_hocr.html",
+        "mtime": "1615096931",
+        "size": "845304",
+        "md5": "76637bca538d224ffc81af4b4f9b45fc",
+        "crc32": "ab9c5f74",
+        "sha1": "837992a003d4613a23a12757ec2069bce385bddd"
+      },
+      {
+        "name": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Treasury of Truth - Illustrated Dhammapada (Chinese Version).pdf",
+        "mtime": "1615074464",
+        "size": "522983933",
+        "md5": "d1d34623c81554a6a7674a338e2eeedb",
+        "crc32": "f4128461",
+        "sha1": "36841a0229fd04bc69b78c5e86db937299a22662",
+        "filecount": "952"
+      },
+      {
+        "name": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_hocr.html",
+        "mtime": "1753506046",
+        "size": "160583",
+        "md5": "3c4fc146453d6a8894237a77baba54c8",
+        "crc32": "afb2fc1c",
+        "sha1": "049302f6e6781c08fac968d5407a4934a6767868"
+      },
+      {
+        "name": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_scandata.xml",
+        "source": "original",
+        "mtime": "1616087583",
+        "size": "336741",
+        "md5": "c6792094f5afcc25be567a8c4f7cea35",
+        "crc32": "6979f785",
+        "sha1": "11611bd253080a8990ca8c48466dc1432363f3a7",
+        "format": "Scandata"
+      },
+      {
+        "name": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_text.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Additional Text PDF",
+        "original": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_page_numbers.json",
+        "mtime": "1753513959",
+        "size": "72117832",
+        "md5": "a23c10ba6aa583880015dab12c856f62",
+        "crc32": "5ba50191",
+        "sha1": "ed3722e787f29ac430417704422ef2416c1af575"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1681500849",
+        "size": "21674",
+        "md5": "4697ef20cac940992e9e2ff621e4e42b",
+        "crc32": "f579e86b",
+        "sha1": "d4e09bd07cb085d26523f0949f6a7e99c5c03e04",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "history/files/Treasury of Truth - Illustrated Dhammapada (Chinese Version)_scandata.xml.~1~",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Treasury of Truth - Illustrated Dhammapada (Chinese Version)_djvu.xml",
+        "mtime": "1615098217",
+        "size": "336741",
+        "md5": "3c178f638c0f3df7a9020a80bf71feff",
+        "crc32": "7cf112b7",
+        "sha1": "363de6dfbbaad533efceb4027f9dcb33be5ec6aa",
+        "old_version": "true"
+      },
+      {
+        "name": "treasury-of-truth-illustrated-dhammapada-chinese-version_archive.torrent",
+        "source": "metadata",
+        "btih": "1b36454d2cecf4863446c19a4be09f36bd824e93",
+        "mtime": "1753514103",
+        "size": "31482",
+        "md5": "761fd853ab58d3cfe10b2cff8e6e42d4",
+        "crc32": "a97adf21",
+        "sha1": "9fabfdf8b29ba89f7792815211cae59d9b0da62e",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "treasury-of-truth-illustrated-dhammapada-chinese-version_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "3423078bf3b53e10d1657b49eaff662f",
+        "summation": "md5"
+      },
+      {
+        "name": "treasury-of-truth-illustrated-dhammapada-chinese-version_meta.sqlite",
+        "source": "original",
+        "mtime": "1616087605",
+        "size": "26624",
+        "md5": "85f21a00a6f7c4396d108c5337bb1489",
+        "crc32": "ca162900",
+        "sha1": "48ad2c732c604180810dd57cd676c2f3db2c6708",
+        "format": "Metadata"
+      },
+      {
+        "name": "treasury-of-truth-illustrated-dhammapada-chinese-version_meta.xml",
+        "source": "original",
+        "mtime": "1753514095",
+        "size": "4872",
+        "md5": "09ebd28f490138f97036f49f4e63989a",
+        "crc32": "339f0182",
+        "sha1": "943e02b9f879063b4076f54899059f9c3197cbb6",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 19,
+    "item_last_updated": 1753514103,
+    "item_size": 1374964814,
+    "metadata": {
+      "identifier": "treasury-of-truth-illustrated-dhammapada-chinese-version",
+      "mediatype": "texts",
+      "creator": "Ven. Weragoda Sarada Thero",
+      "date": "1994-05-25",
+      "description": "<p class=\"MsoNormal\" style=\"margin-bottom:7.5pt;line-height:normal;background:#FFFFFF;\"><span style=\"font-size:10.5pt;font-family:Helvetica, sans-serif;color:#2C2C2C;\">Treasury of Truth -\nIllustrated Dhammapada (Chinese Version)</span></p><p></p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:7.5pt;line-height:normal;background:#FFFFFF;\"><span style=\"font-size:10.5pt;font-family:Helvetica, sans-serif;color:#2C2C2C;\">Author: Ven. Weragoda\nSarada Maha Thero.</span></p><p></p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:7.5pt;line-height:normal;background:#FFFFFF;\"><span style=\"font-size:10.5pt;font-family:Helvetica, sans-serif;color:#2C2C2C;\">Translated by Ms. Ko\nGuat Hua</span></p><p></p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:7.5pt;line-height:normal;background:#FFFFFF;\"><span style=\"font-size:10.5pt;font-family:Helvetica, sans-serif;color:#2C2C2C;\">Illustrations: Mr. P.\nWickramanayaka</span></p><p></p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:7.5pt;line-height:normal;background:#FFFFFF;\"><span style=\"font-size:10.5pt;font-family:Helvetica, sans-serif;color:#2C2C2C;\">Designs & line\ndrawings: Piyaratna Hewabatage</span></p><p></p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:7.5pt;line-height:normal;background:#FFFFFF;\"><span style=\"font-size:10.5pt;font-family:Helvetica, sans-serif;color:#2C2C2C;\">Among the greatest\npublications in the history of Buddhism; \"Treasury of Truth - Illustrated\nDhammapada\" is a monumental work.</span></p><p></p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:7.5pt;line-height:normal;background:#FFFFFF;\"><span style=\"font-size:10.5pt;font-family:Helvetica, sans-serif;color:#2C2C2C;\">Over 900 pages of A4\nsize.</span></p><p></p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:7.5pt;line-height:normal;background:#FFFFFF;\"><span style=\"font-size:10.5pt;font-family:Helvetica, sans-serif;color:#2C2C2C;\">Adorned with 423\nillustrations in full-colour, at the rate of one especially commissioned\nillustration for each stanza. Weighs 4 kg.</span></p><p></p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:7.5pt;line-height:normal;background:#FFFFFF;\"><span style=\"font-size:10.5pt;font-family:Helvetica, sans-serif;color:#2C2C2C;\">Included in the text\nare Pali stanza in Roman Characters - literal translation of stanza - Popular\ntranslation - original story out of which stanza stems and commentaries on\nwords, expressions and concepts.</span></p><p></p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:7.5pt;line-height:normal;background:#FFFFFF;\"><span style=\"font-size:10.5pt;font-family:Helvetica, sans-serif;color:#2C2C2C;\">ISBN: 981-00-8688-1</span></p><p></p>",
+      "language": "chi",
+      "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+      "subject": [
+        "Treasury of Truth - Illustrated Dhammapada",
+        "Ven. Weragoda Sarada Maha Thero",
+        "Buddhist",
+        "Pali",
+        "Chinese",
+        "Buddhist literature",
+        "Teachings of the Buddha",
+        "Theravada Tradition"
+      ],
+      "title": "Treasury Of Truth Illustrated Dhammapada ( Chinese Version)",
+      "uploader": "vensarada@ymail.com",
+      "publicdate": "2021-03-06 21:28:38",
+      "addeddate": "2021-03-06 21:28:38",
+      "curation": "[curator]validator@archive.org[/curator][date]20210306212953[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/treasury-of-truth-illustrated-dhammapada-chinese-version",
+      "identifier-ark": "ark:/13960/t8gg1360g",
+      "ppi": "300",
+      "ocr": "tesseract 5.0.0-alpha-20201231-7-gc75f",
+      "ocr_parameters": "-l chi_sim",
+      "ocr_module_version": "0.0.11",
+      "ocr_detected_script": "Han",
+      "ocr_detected_script_conf": "0.7612",
+      "ocr_detected_lang": "zh",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "100",
+      "collection": [
+        "booksbylanguage_chinese",
+        "booksbylanguage"
+      ],
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25"
+    },
+    "server": "ia803401.us.archive.org",
+    "uniq": 1206495950,
+    "workable_servers": [
+      "ia803401.us.archive.org",
+      "ia903401.us.archive.org"
+    ]
+  }
+}

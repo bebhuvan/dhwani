@@ -1,12 +1,12 @@
 {
   "total_recommended": 21,
   "searches_attempted": 21,
-  "works_found": 0,
-  "downloads_attempted": 0,
-  "downloads_succeeded": 0,
-  "downloads_failed": 0,
-  "conversions_succeeded": 0,
+  "works_found": 21,
+  "downloads_attempted": 21,
+  "downloads_succeeded": 19,
+  "downloads_failed": 2,
+  "conversions_succeeded": 19,
   "conversions_failed": 0,
   "total_quality_score": 0.0,
-  "last_updated": "2025-11-07T02:02:06.023622"
+  "last_updated": "2025-11-07T02:56:33.225146"
 }

@@ -1,0 +1,291 @@
+{
+  "work": {
+    "title": "Kathasaritsagara",
+    "author": "Somadeva",
+    "original_language": "Sanskrit",
+    "search_terms": [
+      "Kathasaritsagara",
+      "Ocean of Story",
+      "Tawney",
+      "Somadeva"
+    ],
+    "year_range": [
+      1880,
+      2023
+    ],
+    "category": "story_collection",
+    "search_mode": "translation"
+  },
+  "search_result": {
+    "description": "kathasaritsagar",
+    "downloads": 8,
+    "format": [
+      "Archive BitTorrent",
+      "DjVuTXT",
+      "Djvu XML",
+      "Item Tile",
+      "Metadata",
+      "OCR Page Index",
+      "OCR Search Text",
+      "Page Numbers JSON",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF",
+      "chOCR",
+      "hOCR"
+    ],
+    "identifier": "kathasaritsagara_202507",
+    "subject": "kathasaritsagar",
+    "title": "kathasaritsagara"
+  },
+  "detailed_metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721601.ca.archive.org",
+          "dir": "/0/items/kathasaritsagara_202507"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721601.ca.archive.org",
+          "dir": "/0/items/kathasaritsagara_202507"
+        }
+      ]
+    },
+    "created": 1762483835,
+    "d1": "ia600908.us.archive.org",
+    "d2": "ia800908.us.archive.org",
+    "dir": "/18/items/kathasaritsagara_202507",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1753650727",
+        "size": "5942",
+        "md5": "3d5a10466759d9ab1ebdc78cde5e796a",
+        "crc32": "e9513b85",
+        "sha1": "72e6b7286fceefffdc254fbc127299f8411d4044",
+        "format": "Item Tile"
+      },
+      {
+        "name": "kathasaritsagara.pdf",
+        "source": "original",
+        "mtime": "1753627309",
+        "size": "8080398",
+        "md5": "a9d954482060d75bc48bc1617bc705aa",
+        "crc32": "cc346eb8",
+        "sha1": "ee0fa96705f0fc9dfb0564abe87aa453917393b4",
+        "format": "Text PDF",
+        "viruscheck": "1753627675"
+      },
+      {
+        "name": "kathasaritsagara_202507_archive.torrent",
+        "source": "metadata",
+        "btih": "28fd652f6637cebb486528286a5c6a1417d7e50e",
+        "mtime": "1753650730",
+        "size": "39401",
+        "md5": "fc89d65b220c0d0f981a05966e820664",
+        "crc32": "a294d432",
+        "sha1": "fdc13ac457989889a943a509803a882e616788c3",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "kathasaritsagara_202507_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "80bc11c709fa5aec6661bbef4540cff6",
+        "summation": "md5"
+      },
+      {
+        "name": "kathasaritsagara_202507_meta.sqlite",
+        "source": "original",
+        "mtime": "1753627354",
+        "size": "20480",
+        "md5": "6dbf973535776bc5a1c5828af0cd12d6",
+        "crc32": "c4dd5128",
+        "sha1": "bcde9aea76ce1579151e22f40d073113e7019211",
+        "format": "Metadata"
+      },
+      {
+        "name": "kathasaritsagara_202507_meta.xml",
+        "source": "original",
+        "mtime": "1753650654",
+        "size": "1298",
+        "md5": "698a7856f8aeb8f7c0d34aaabae36c46",
+        "crc32": "e7c942c5",
+        "sha1": "be1904c903824de58fa63754a92ac8cb39a638c1",
+        "format": "Metadata"
+      },
+      {
+        "name": "kathasaritsagara_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-eng;lang-Latin;two-pass-disabled;pass-dpi-disabled;autonomous-mode-enabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "kathasaritsagara_jp2.zip",
+        "mtime": "1753649459",
+        "size": "47488599",
+        "md5": "cb648e1609b1d61ede3ea99b2e3daf4b",
+        "crc32": "2b747e3e",
+        "sha1": "74e8f54af60f8ac602838249092fa8243407f454"
+      },
+      {
+        "name": "kathasaritsagara_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "kathasaritsagara_djvu.xml",
+        "mtime": "1753650107",
+        "size": "3659306",
+        "md5": "9bca2cd456b72f2c2ec170ef6751bea4",
+        "crc32": "e37c84ac",
+        "sha1": "87f68ea44d8e552b03a24817a2696d214c47fe51"
+      },
+      {
+        "name": "kathasaritsagara_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "kathasaritsagara_hocr.html",
+        "mtime": "1753649841",
+        "size": "50238274",
+        "md5": "fe9b2c08bbd280459ec4abef5c7a48a6",
+        "crc32": "ae16baeb",
+        "sha1": "cc2a4dde9cd415f013a625145d998bdc07cfdcf3"
+      },
+      {
+        "name": "kathasaritsagara_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.3.0",
+        "hocr_char_to_word_hocr_version": "1.1.56",
+        "ocr_parameters": "lang-eng;lang-Latin;two-pass-disabled;pass-dpi-disabled;autonomous-mode-enabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "kathasaritsagara_chocr.html.gz",
+        "mtime": "1753649743",
+        "size": "94991973",
+        "md5": "7450e990925644e450bdb3b0a062c9a3",
+        "crc32": "6a9e7d29",
+        "sha1": "8b875164182e5a2f11bf2e6cabbaf67152a43fcd"
+      },
+      {
+        "name": "kathasaritsagara_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.1.0",
+        "hocr_pageindex_hocr_version": "1.1.56",
+        "format": "OCR Page Index",
+        "original": "kathasaritsagara_hocr.html",
+        "mtime": "1753649919",
+        "size": "11138",
+        "md5": "bfe2ea2f6a0e5d5b24e28cd71fd3d679",
+        "crc32": "d20d379a",
+        "sha1": "4c0905eb52f2007fdd258fb07e13ae576a666cf5"
+      },
+      {
+        "name": "kathasaritsagara_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.2.0",
+        "hocr_fts_text_hocr_version": "1.1.56",
+        "word_conf_0_10": "3032",
+        "word_conf_11_20": "1279",
+        "word_conf_21_30": "2153",
+        "word_conf_31_40": "2960",
+        "word_conf_41_50": "2498",
+        "word_conf_51_60": "2356",
+        "word_conf_61_70": "3756",
+        "word_conf_71_80": "3404",
+        "word_conf_81_90": "13337",
+        "word_conf_91_100": "613241",
+        "format": "OCR Search Text",
+        "original": "kathasaritsagara_hocr.html",
+        "mtime": "1753650052",
+        "size": "1265653",
+        "md5": "b58aed6df3f5f42d6c8758e54c1f259c",
+        "crc32": "a761e24c",
+        "sha1": "8b1e4b0fedd9d8e658e2f18d53238da7e411746a"
+      },
+      {
+        "name": "kathasaritsagara_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "kathasaritsagara.pdf",
+        "mtime": "1753631282",
+        "size": "732395213",
+        "md5": "02d878c64fc2d865e1c526264183d790",
+        "crc32": "0bbfc043",
+        "sha1": "12af6baaa9ac23d069352a7147b25f9d034cb2d1",
+        "filecount": "869"
+      },
+      {
+        "name": "kathasaritsagara_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "kathasaritsagara_hocr.html",
+        "mtime": "1753650654",
+        "size": "147780",
+        "md5": "c5bfc4374121b1b91e4512a10a780b26",
+        "crc32": "3dbb5898",
+        "sha1": "810df836842637ff29222c702e1cd0efd74fb3d1"
+      },
+      {
+        "name": "kathasaritsagara_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "kathasaritsagara_djvu.xml",
+        "mtime": "1753650654",
+        "size": "279116",
+        "md5": "9d10ca7fb6e4dc688f1afe2f990be4a4",
+        "crc32": "f521a12a",
+        "sha1": "06fa4fb95d3c4d8a50d3613fbb08f10d19fade25"
+      }
+    ],
+    "files_count": 15,
+    "item_last_updated": 1753650730,
+    "item_size": 938624571,
+    "metadata": {
+      "identifier": "kathasaritsagara_202507",
+      "mediatype": "texts",
+      "collection": "opensource",
+      "description": "kathasaritsagar",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": "kathasaritsagar",
+      "title": "kathasaritsagara",
+      "uploader": "sayantanr32@gmail.com",
+      "publicdate": "2025-07-27 14:42:09",
+      "addeddate": "2025-07-27 14:42:09",
+      "curation": "[curator]validator@archive.org[/curator][date]20250727144755[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/kathasaritsagara_202507",
+      "identifier-ark": "ark:/13960/s23bnj9p0dm",
+      "ppi": "300",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l eng+Latin",
+      "ocr_module_version": "0.0.21",
+      "ocr_autonomous": "true",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia800908.us.archive.org",
+    "uniq": 313910134,
+    "workable_servers": [
+      "ia800908.us.archive.org",
+      "ia600908.us.archive.org"
+    ]
+  }
+}

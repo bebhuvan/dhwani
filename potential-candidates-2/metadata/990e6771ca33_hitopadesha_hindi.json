@@ -1,0 +1,2600 @@
+{
+  "work": {
+    "title": "Hitopadesha",
+    "author": "Narayana",
+    "original_language": "Sanskrit",
+    "search_terms": [
+      "Hitopadesha",
+      "Hitopadesa",
+      "fables",
+      "instruction"
+    ],
+    "year_range": [
+      1850,
+      2023
+    ],
+    "category": "folk_literature",
+    "search_mode": "translation"
+  },
+  "search_result": {
+    "creator": "Narayana Pandita",
+    "date": "2017-11-07T00:00:00Z",
+    "description": "Title : Hitopadesha (with Hindi Translation) Translator : Pandit Rameshwar Bhatt Editor : Shri Narayan Ram Acharya 'Kavyatirtha' Published by : Chaukhamba Sanskrit Pratisthan, New Delhi HPD .",
+    "downloads": 59742,
+    "format": [
+      "Additional Text PDF",
+      "Archive BitTorrent",
+      "Cloth Cover Detection Log",
+      "Daisy",
+      "DjVuTXT",
+      "Djvu XML",
+      "EPUB",
+      "Image Container PDF",
+      "Item Tile",
+      "LCP Encrypted EPUB",
+      "Metadata",
+      "OCR Page Index",
+      "OCR Search Text",
+      "Page Numbers JSON",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "chOCR",
+      "hOCR"
+    ],
+    "identifier": "hitopadesha_hindi",
+    "language": "san",
+    "subject": [
+      "sri",
+      "shri",
+      "sree",
+      "shree",
+      "hitopades",
+      "hitopadesa",
+      "hitopadesh",
+      "hitopadesha",
+      "with",
+      "hindi",
+      "translation",
+      "anuvad",
+      "anuvada",
+      "anuvaad",
+      "anuvaada",
+      "translator",
+      "pandit",
+      "pandita",
+      "pundit",
+      "pundita",
+      "ramesvar",
+      "ramesvara",
+      "rameshwar",
+      "rameshwara",
+      "bhat",
+      "bhatt",
+      "bhatta",
+      "narayan",
+      "narayana",
+      "ram",
+      "rama",
+      "acarya",
+      "acharya",
+      "kavya",
+      "tirth",
+      "tirtha",
+      "kavyatirth",
+      "kavyatirtha",
+      "chaukhamba",
+      "sanskrit",
+      "pratisthan",
+      "vrajjivan",
+      "vrajajivana",
+      "vraj",
+      "vraja",
+      "jivan",
+      "jivana",
+      "pracya",
+      "prachya",
+      "bharati",
+      "18",
+      "hpd"
+    ],
+    "title": "Hitopadesha (with Hindi Translation)"
+  },
+  "detailed_metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721201.ca.archive.org",
+          "dir": "/0/items/hitopadesha_hindi"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721201.ca.archive.org",
+          "dir": "/0/items/hitopadesha_hindi"
+        }
+      ]
+    },
+    "created": 1762479269,
+    "d1": "ia904603.us.archive.org",
+    "d2": "ia804603.us.archive.org",
+    "dir": "/31/items/hitopadesha_hindi",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1681503103",
+        "size": "7155",
+        "md5": "2658fa0b0f27c3ed79a432f316046de3",
+        "crc32": "11d6a7e5",
+        "sha1": "43ef5d171c57e98d5976c13a38c9796d35bbba5c",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "hitopadesha_hindi.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "hitopadesha_hindi_hocr.html",
+        "mtime": "1753640394",
+        "size": "483479",
+        "md5": "3434f35e031ec008a332113e8b0daba1",
+        "crc32": "337a0faa",
+        "sha1": "37afffb4df748bd6d6dca83d115e3aabec111e03"
+      },
+      {
+        "name": "hitopadesha_hindi.pdf",
+        "source": "original",
+        "mtime": "1510027812",
+        "size": "7935041",
+        "md5": "fb2a26a3541878316ecea23206a8b5d5",
+        "crc32": "6d5052bc",
+        "sha1": "56bb19f4778742a0d697cb0476ba835c3c23a72a",
+        "format": "Image Container PDF"
+      },
+      {
+        "name": "hitopadesha_hindi_archive.torrent",
+        "source": "metadata",
+        "btih": "70fafc161ae68ee8210b4bccae1d62f09794cfd5",
+        "mtime": "1755521972",
+        "size": "13222",
+        "md5": "4865f8d6459ae478d1b17b933c3eb2cd",
+        "crc32": "676879ff",
+        "sha1": "49e776f997e108eb7efa32d0e8d9419d6c6afe09",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "hitopadesha_hindi_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-san;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Devanagari",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "hi",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "hitopadesha_hindi_jp2.zip",
+        "mtime": "1746134945",
+        "size": "6587130",
+        "md5": "e73304c266f275a653a14761a3c14edb",
+        "crc32": "36d917ea",
+        "sha1": "1f129cf43ddd6505c9dfcb3a7b8c97fb4d60953a"
+      },
+      {
+        "name": "hitopadesha_hindi_cloth_detection.log",
+        "source": "derivative",
+        "format": "Cloth Cover Detection Log",
+        "original": "hitopadesha_hindi_scandata.xml",
+        "mtime": "1746136966",
+        "size": "533",
+        "md5": "9a15bf35657808ff359058821469dca7",
+        "crc32": "86e4c178",
+        "sha1": "510566a09de2e5d9bf3caebcd24a19cc0d80dc79"
+      },
+      {
+        "name": "hitopadesha_hindi_daisy.zip",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "Daisy",
+        "original": "hitopadesha_hindi_hocr.html",
+        "mtime": "1755521933",
+        "size": "50080",
+        "md5": "7f495192e8e69e834b530304ab82503f",
+        "crc32": "2b867503",
+        "sha1": "6ba71a5fac056de1eefb17d69c97c43b66e5ea51",
+        "filecount": "9"
+      },
+      {
+        "name": "hitopadesha_hindi_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "hitopadesha_hindi_djvu.xml",
+        "mtime": "1746136183",
+        "size": "1080116",
+        "md5": "8fb7d344d6c3055b4b60fc7bc0a1f914",
+        "crc32": "6c258d2b",
+        "sha1": "47ba02a8da64de43a3673895e693480dcc7f276d"
+      },
+      {
+        "name": "hitopadesha_hindi_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "hitopadesha_hindi_hocr.html",
+        "mtime": "1746135193",
+        "size": "6216116",
+        "md5": "9166c05610658ec0c040b7c98828679c",
+        "crc32": "f12baf4d",
+        "sha1": "8a38c5b49e5b8cbf22c0104eac8fa1ea03be3719"
+      },
+      {
+        "name": "hitopadesha_hindi_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "7b41639cd46767a9c98f8ceb8fdaec57",
+        "summation": "md5"
+      },
+      {
+        "name": "hitopadesha_hindi_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.3.0",
+        "hocr_char_to_word_hocr_version": "1.1.56",
+        "ocr_parameters": "lang-san;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Devanagari",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "hi",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "hitopadesha_hindi_chocr.html.gz",
+        "mtime": "1746135111",
+        "size": "11159516",
+        "md5": "ab59691cc94828ee2dbeea0d00bef2a0",
+        "crc32": "85b9269d",
+        "sha1": "68f324d157b0cde08727e9dc4142782a9632d04d"
+      },
+      {
+        "name": "hitopadesha_hindi_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.1.0",
+        "hocr_pageindex_hocr_version": "1.1.56",
+        "format": "OCR Page Index",
+        "original": "hitopadesha_hindi_hocr.html",
+        "mtime": "1746135360",
+        "size": "3607",
+        "md5": "9926550f8bf3315fd698fb81fcfa4faa",
+        "crc32": "a6fa0398",
+        "sha1": "e3d31f04a0b27cb14c38bac3dd66daa1a0ab518d"
+      },
+      {
+        "name": "hitopadesha_hindi_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.2.0",
+        "hocr_fts_text_hocr_version": "1.1.56",
+        "word_conf_0_10": "3827",
+        "word_conf_11_20": "2203",
+        "word_conf_21_30": "2902",
+        "word_conf_31_40": "3770",
+        "word_conf_41_50": "4357",
+        "word_conf_51_60": "4926",
+        "word_conf_61_70": "6036",
+        "word_conf_71_80": "8753",
+        "word_conf_81_90": "15433",
+        "word_conf_91_100": "16526",
+        "format": "OCR Search Text",
+        "original": "hitopadesha_hindi_hocr.html",
+        "mtime": "1746135799",
+        "size": "257590",
+        "md5": "ab4b052b6b7961a8f3ac56efbef50694",
+        "crc32": "27313c79",
+        "sha1": "e1c6db70e3f74b406e34f5907a08f170bf6be66a"
+      },
+      {
+        "name": "hitopadesha_hindi_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "hitopadesha_hindi.pdf",
+        "mtime": "1510029984",
+        "size": "173038683",
+        "md5": "599d5efb953328b3953208cb8a5810eb",
+        "crc32": "94da170c",
+        "sha1": "0eb5b5a6ece4194ba75b824b1ef212b3c4845e1c",
+        "filecount": "302"
+      },
+      {
+        "name": "hitopadesha_hindi_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "hitopadesha_hindi.epub",
+        "mtime": "1753640585",
+        "size": "504262",
+        "md5": "a5cad55ca68a40c3730d37df5750bbb2",
+        "crc32": "e9280168",
+        "sha1": "111a3503766a67232a4e7a0a3a0df9b7ecbb903f"
+      },
+      {
+        "name": "hitopadesha_hindi_meta.sqlite",
+        "source": "original",
+        "mtime": "1510027829",
+        "size": "17408",
+        "md5": "5987ead306f44fe630a32453b1116550",
+        "crc32": "7d1b4bd6",
+        "sha1": "7c20b89bf5b12272912c583ea9d43345fe9649a6",
+        "format": "Metadata"
+      },
+      {
+        "name": "hitopadesha_hindi_meta.xml",
+        "source": "original",
+        "mtime": "1755521965",
+        "size": "3803",
+        "format": "Metadata",
+        "md5": "e55c31b69e0b09a89846123e94b1fef2",
+        "crc32": "dedaea1d",
+        "sha1": "e951f8c78c2beed6713105ca6461726d3f56c327"
+      },
+      {
+        "name": "hitopadesha_hindi_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "90",
+        "format": "Page Numbers JSON",
+        "original": "hitopadesha_hindi_hocr.html",
+        "mtime": "1746136671",
+        "size": "53318",
+        "md5": "47fa4b6989931a93fadc51f958178992",
+        "crc32": "35cc1ee8",
+        "sha1": "3273ff042f125c74d8a91616b03a137c85896c69"
+      },
+      {
+        "name": "hitopadesha_hindi_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "hitopadesha_hindi_djvu.xml",
+        "mtime": "1746136671",
+        "size": "100646",
+        "md5": "5225527f5477ccf421e88f04e21737e4",
+        "crc32": "869982c1",
+        "sha1": "e3b2f801919c8debe91a821e6be5250ba10f5ae0"
+      },
+      {
+        "name": "hitopadesha_hindi_text.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Additional Text PDF",
+        "original": "hitopadesha_hindi_page_numbers.json",
+        "mtime": "1746139367",
+        "size": "22483405",
+        "md5": "a573b9c1a4b5e11722df4a39227a99b4",
+        "crc32": "79b43452",
+        "sha1": "128d4f996626f11313273ff35d799534b06c360a"
+      }
+    ],
+    "files_count": 20,
+    "item_last_updated": 1755521972,
+    "item_size": 229995110,
+    "metadata": {
+      "identifier": "hitopadesha_hindi",
+      "mediatype": "texts",
+      "creator": "Narayana Pandita",
+      "date": "2017-11-07",
+      "description": "<b>Title</b>: Hitopadesha (with Hindi Translation)<div><br /></div><div><b>Translator</b>: Pandit Rameshwar Bhatt</div><div><br /></div><div><b>Editor</b>: Shri Narayan Ram Acharya 'Kavyatirtha'</div><div><br /></div><div><b>Published by</b>: Chaukhamba Sanskrit Pratisthan, New Delhi</div><div><br /></div><div><b>HPD</b>.</div>",
+      "language": "san",
+      "licenseurl": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+      "subject": [
+        "sri",
+        "shri",
+        "sree",
+        "shree",
+        "hitopades",
+        "hitopadesa",
+        "hitopadesh",
+        "hitopadesha",
+        "with",
+        "hindi",
+        "translation",
+        "anuvad",
+        "anuvada",
+        "anuvaad",
+        "anuvaada",
+        "translator",
+        "pandit",
+        "pandita",
+        "pundit",
+        "pundita",
+        "ramesvar",
+        "ramesvara",
+        "rameshwar",
+        "rameshwara",
+        "bhat",
+        "bhatt",
+        "bhatta",
+        "narayan",
+        "narayana",
+        "ram",
+        "rama",
+        "acarya",
+        "acharya",
+        "kavya",
+        "tirth",
+        "tirtha",
+        "kavyatirth",
+        "kavyatirtha",
+        "chaukhamba",
+        "sanskrit",
+        "pratisthan",
+        "vrajjivan",
+        "vrajajivana",
+        "vraj",
+        "vraja",
+        "jivan",
+        "jivana",
+        "pracya",
+        "prachya",
+        "bharati",
+        "18",
+        "hpd"
+      ],
+      "title": "Hitopadesha (with Hindi Translation)",
+      "publicdate": "2017-11-07 04:10:13",
+      "uploader": "gopaljiu01@gmail.com",
+      "addeddate": "2017-11-07 04:10:13",
+      "curation": "[curator]validator@archive.org[/curator][date]20171107043600[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/hitopadesha_hindi",
+      "identifier-ark": "ark:/13960/t9p336x9k",
+      "imagecount": "302",
+      "ppi": "600",
+      "repub_state": "4",
+      "backup_location": "ia906509_32",
+      "collection": [
+        "booksbylanguage_sanskrit",
+        "booksbylanguage"
+      ],
+      "foldoutcount": "0",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l san",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Devanagari",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "hi",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "90",
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25",
+      "external-identifier": "urn:lcp:hitopadesha_hindi:epub:cd5ae50a-b045-4617-b1c3-8923ade02e14"
+    },
+    "page_numbers": {
+      "identifier": "hitopadesha_hindi",
+      "format-version": "2",
+      "archive-hocr-tools-version": "1.1.54",
+      "confidence": 90,
+      "pages": [
+        {
+          "leafNum": 0,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 1,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 2,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 3,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 4,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 5,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 6,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 7,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 8,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 9,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 10,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 11,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 12,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 13,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 14,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 15,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 16,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 17,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 18,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 19,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 20,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 21,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 22,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 23,
+          "confidence": 76,
+          "pageNumber": "४",
+          "pageProb": 66,
+          "wordConf": 68
+        },
+        {
+          "leafNum": 24,
+          "confidence": 100,
+          "pageNumber": "५",
+          "pageProb": 92,
+          "wordConf": 74
+        },
+        {
+          "leafNum": 25,
+          "confidence": null,
+          "pageNumber": "6",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 26,
+          "confidence": 100,
+          "pageNumber": "७",
+          "pageProb": 91,
+          "wordConf": 81
+        },
+        {
+          "leafNum": 27,
+          "confidence": 80,
+          "pageNumber": "८",
+          "pageProb": 70,
+          "wordConf": 0
+        },
+        {
+          "leafNum": 28,
+          "confidence": null,
+          "pageNumber": "9",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 29,
+          "confidence": 100,
+          "pageNumber": "१०",
+          "pageProb": 90,
+          "wordConf": 81
+        },
+        {
+          "leafNum": 30,
+          "confidence": null,
+          "pageNumber": "11",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 31,
+          "confidence": null,
+          "pageNumber": "12",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 32,
+          "confidence": 96,
+          "pageNumber": "१३",
+          "pageProb": 86,
+          "wordConf": 38
+        },
+        {
+          "leafNum": 33,
+          "confidence": 99,
+          "pageNumber": "१४",
+          "pageProb": 89,
+          "wordConf": 79
+        },
+        {
+          "leafNum": 34,
+          "confidence": 95,
+          "pageNumber": "१५",
+          "pageProb": 85,
+          "wordConf": 46
+        },
+        {
+          "leafNum": 35,
+          "confidence": 93,
+          "pageNumber": "१६",
+          "pageProb": 83,
+          "wordConf": 93
+        },
+        {
+          "leafNum": 36,
+          "confidence": 98,
+          "pageNumber": "१७",
+          "pageProb": 88,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 37,
+          "confidence": 97,
+          "pageNumber": "१८",
+          "pageProb": 87,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 38,
+          "confidence": 97,
+          "pageNumber": "१९",
+          "pageProb": 87,
+          "wordConf": 73
+        },
+        {
+          "leafNum": 39,
+          "confidence": 95,
+          "pageNumber": "२०",
+          "pageProb": 85,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 40,
+          "confidence": null,
+          "pageNumber": "21",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 41,
+          "confidence": null,
+          "pageNumber": "22",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 42,
+          "confidence": null,
+          "pageNumber": "23",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 43,
+          "confidence": 95,
+          "pageNumber": "२४",
+          "pageProb": 85,
+          "wordConf": 94
+        },
+        {
+          "leafNum": 44,
+          "confidence": 96,
+          "pageNumber": "२५",
+          "pageProb": 86,
+          "wordConf": 88
+        },
+        {
+          "leafNum": 45,
+          "confidence": 81,
+          "pageNumber": "२६",
+          "pageProb": 71,
+          "wordConf": 88
+        },
+        {
+          "leafNum": 46,
+          "confidence": 94,
+          "pageNumber": "२७",
+          "pageProb": 84,
+          "wordConf": 92
+        },
+        {
+          "leafNum": 47,
+          "confidence": 94,
+          "pageNumber": "२८",
+          "pageProb": 84,
+          "wordConf": 95
+        },
+        {
+          "leafNum": 48,
+          "confidence": 99,
+          "pageNumber": "२९",
+          "pageProb": 89,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 49,
+          "confidence": 94,
+          "pageNumber": "३०",
+          "pageProb": 84,
+          "wordConf": 73
+        },
+        {
+          "leafNum": 50,
+          "confidence": null,
+          "pageNumber": "31",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 51,
+          "confidence": null,
+          "pageNumber": "32",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 52,
+          "confidence": null,
+          "pageNumber": "33",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 53,
+          "confidence": null,
+          "pageNumber": "34",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 54,
+          "confidence": 98,
+          "pageNumber": "३५",
+          "pageProb": 88,
+          "wordConf": 70
+        },
+        {
+          "leafNum": 55,
+          "confidence": 98,
+          "pageNumber": "३६",
+          "pageProb": 88,
+          "wordConf": 88
+        },
+        {
+          "leafNum": 56,
+          "confidence": 92,
+          "pageNumber": "३७",
+          "pageProb": 82,
+          "wordConf": 87
+        },
+        {
+          "leafNum": 57,
+          "confidence": 91,
+          "pageNumber": "३८",
+          "pageProb": 81,
+          "wordConf": 82
+        },
+        {
+          "leafNum": 58,
+          "confidence": 93,
+          "pageNumber": "३९",
+          "pageProb": 83,
+          "wordConf": 75
+        },
+        {
+          "leafNum": 59,
+          "confidence": 85,
+          "pageNumber": "४०",
+          "pageProb": 75,
+          "wordConf": 81
+        },
+        {
+          "leafNum": 60,
+          "confidence": null,
+          "pageNumber": "41",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 61,
+          "confidence": null,
+          "pageNumber": "42",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 62,
+          "confidence": null,
+          "pageNumber": "43",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 63,
+          "confidence": 88,
+          "pageNumber": "४४",
+          "pageProb": 78,
+          "wordConf": 91
+        },
+        {
+          "leafNum": 64,
+          "confidence": null,
+          "pageNumber": "45",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 65,
+          "confidence": 96,
+          "pageNumber": "४६",
+          "pageProb": 86,
+          "wordConf": 78
+        },
+        {
+          "leafNum": 66,
+          "confidence": 98,
+          "pageNumber": "४७",
+          "pageProb": 88,
+          "wordConf": 71
+        },
+        {
+          "leafNum": 67,
+          "confidence": null,
+          "pageNumber": "48",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 68,
+          "confidence": null,
+          "pageNumber": "49",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 69,
+          "confidence": 93,
+          "pageNumber": "५०",
+          "pageProb": 83,
+          "wordConf": 87
+        },
+        {
+          "leafNum": 70,
+          "confidence": 96,
+          "pageNumber": "५१",
+          "pageProb": 86,
+          "wordConf": 85
+        },
+        {
+          "leafNum": 71,
+          "confidence": 96,
+          "pageNumber": "५२",
+          "pageProb": 86,
+          "wordConf": 85
+        },
+        {
+          "leafNum": 72,
+          "confidence": 94,
+          "pageNumber": "५३",
+          "pageProb": 84,
+          "wordConf": 63
+        },
+        {
+          "leafNum": 73,
+          "confidence": null,
+          "pageNumber": "54",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 74,
+          "confidence": 97,
+          "pageNumber": "५५",
+          "pageProb": 87,
+          "wordConf": 86
+        },
+        {
+          "leafNum": 75,
+          "confidence": null,
+          "pageNumber": "56",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 76,
+          "confidence": null,
+          "pageNumber": "57",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 77,
+          "confidence": null,
+          "pageNumber": "58",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 78,
+          "confidence": 96,
+          "pageNumber": "५९",
+          "pageProb": 86,
+          "wordConf": 95
+        },
+        {
+          "leafNum": 79,
+          "confidence": 92,
+          "pageNumber": "६०",
+          "pageProb": 82,
+          "wordConf": 86
+        },
+        {
+          "leafNum": 80,
+          "confidence": 97,
+          "pageNumber": "६१",
+          "pageProb": 87,
+          "wordConf": 58
+        },
+        {
+          "leafNum": 81,
+          "confidence": 92,
+          "pageNumber": "६२",
+          "pageProb": 82,
+          "wordConf": 90
+        },
+        {
+          "leafNum": 82,
+          "confidence": 96,
+          "pageNumber": "६३",
+          "pageProb": 86,
+          "wordConf": 91
+        },
+        {
+          "leafNum": 83,
+          "confidence": 95,
+          "pageNumber": "६४",
+          "pageProb": 85,
+          "wordConf": 93
+        },
+        {
+          "leafNum": 84,
+          "confidence": null,
+          "pageNumber": "65",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 85,
+          "confidence": null,
+          "pageNumber": "66",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 86,
+          "confidence": null,
+          "pageNumber": "67",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 87,
+          "confidence": null,
+          "pageNumber": "68",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 88,
+          "confidence": 97,
+          "pageNumber": "६९",
+          "pageProb": 87,
+          "wordConf": 93
+        },
+        {
+          "leafNum": 89,
+          "confidence": 94,
+          "pageNumber": "७०",
+          "pageProb": 84,
+          "wordConf": 94
+        },
+        {
+          "leafNum": 90,
+          "confidence": 98,
+          "pageNumber": "७१",
+          "pageProb": 88,
+          "wordConf": 64
+        },
+        {
+          "leafNum": 91,
+          "confidence": 92,
+          "pageNumber": "७२",
+          "pageProb": 82,
+          "wordConf": 95
+        },
+        {
+          "leafNum": 92,
+          "confidence": 100,
+          "pageNumber": "७३",
+          "pageProb": 90,
+          "wordConf": 95
+        },
+        {
+          "leafNum": 93,
+          "confidence": 93,
+          "pageNumber": "७४",
+          "pageProb": 83,
+          "wordConf": 36
+        },
+        {
+          "leafNum": 94,
+          "confidence": null,
+          "pageNumber": "75",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 95,
+          "confidence": 93,
+          "pageNumber": "७६",
+          "pageProb": 83,
+          "wordConf": 27
+        },
+        {
+          "leafNum": 96,
+          "confidence": 94,
+          "pageNumber": "७७",
+          "pageProb": 84,
+          "wordConf": 84
+        },
+        {
+          "leafNum": 97,
+          "confidence": 84,
+          "pageNumber": "७८",
+          "pageProb": 74,
+          "wordConf": 84
+        },
+        {
+          "leafNum": 98,
+          "confidence": null,
+          "pageNumber": "79",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 99,
+          "confidence": null,
+          "pageNumber": "80",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 100,
+          "confidence": 98,
+          "pageNumber": "८१",
+          "pageProb": 88,
+          "wordConf": 82
+        },
+        {
+          "leafNum": 101,
+          "confidence": 98,
+          "pageNumber": "८२",
+          "pageProb": 88,
+          "wordConf": 92
+        },
+        {
+          "leafNum": 102,
+          "confidence": null,
+          "pageNumber": "83",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 103,
+          "confidence": null,
+          "pageNumber": "84",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 104,
+          "confidence": null,
+          "pageNumber": "85",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 105,
+          "confidence": 95,
+          "pageNumber": "८६",
+          "pageProb": 85,
+          "wordConf": 75
+        },
+        {
+          "leafNum": 106,
+          "confidence": 96,
+          "pageNumber": "८७",
+          "pageProb": 86,
+          "wordConf": 94
+        },
+        {
+          "leafNum": 107,
+          "confidence": 95,
+          "pageNumber": "८८",
+          "pageProb": 85,
+          "wordConf": 50
+        },
+        {
+          "leafNum": 108,
+          "confidence": 98,
+          "pageNumber": "८९",
+          "pageProb": 88,
+          "wordConf": 81
+        },
+        {
+          "leafNum": 109,
+          "confidence": 85,
+          "pageNumber": "९०",
+          "pageProb": 75,
+          "wordConf": 84
+        },
+        {
+          "leafNum": 110,
+          "confidence": 96,
+          "pageNumber": "९१",
+          "pageProb": 86,
+          "wordConf": 74
+        },
+        {
+          "leafNum": 111,
+          "confidence": null,
+          "pageNumber": "92",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 112,
+          "confidence": null,
+          "pageNumber": "93",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 113,
+          "confidence": null,
+          "pageNumber": "94",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 114,
+          "confidence": null,
+          "pageNumber": "95",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 115,
+          "confidence": 89,
+          "pageNumber": "९६",
+          "pageProb": 79,
+          "wordConf": 92
+        },
+        {
+          "leafNum": 116,
+          "confidence": 95,
+          "pageNumber": "९७",
+          "pageProb": 85,
+          "wordConf": 57
+        },
+        {
+          "leafNum": 117,
+          "confidence": null,
+          "pageNumber": "98",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 118,
+          "confidence": 95,
+          "pageNumber": "९९",
+          "pageProb": 85,
+          "wordConf": 77
+        },
+        {
+          "leafNum": 119,
+          "confidence": 85,
+          "pageNumber": "१००",
+          "pageProb": 75,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 120,
+          "confidence": 96,
+          "pageNumber": "१०१",
+          "pageProb": 86,
+          "wordConf": 95
+        },
+        {
+          "leafNum": 121,
+          "confidence": 93,
+          "pageNumber": "१०२",
+          "pageProb": 83,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 122,
+          "confidence": 91,
+          "pageNumber": "१०३",
+          "pageProb": 81,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 123,
+          "confidence": 91,
+          "pageNumber": "१०४",
+          "pageProb": 81,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 124,
+          "confidence": 93,
+          "pageNumber": "१०५",
+          "pageProb": 83,
+          "wordConf": 66
+        },
+        {
+          "leafNum": 125,
+          "confidence": 80,
+          "pageNumber": "१०६",
+          "pageProb": 70,
+          "wordConf": 56
+        },
+        {
+          "leafNum": 126,
+          "confidence": 94,
+          "pageNumber": "१०७",
+          "pageProb": 84,
+          "wordConf": 94
+        },
+        {
+          "leafNum": 127,
+          "confidence": 86,
+          "pageNumber": "१०८",
+          "pageProb": 76,
+          "wordConf": 84
+        },
+        {
+          "leafNum": 128,
+          "confidence": 92,
+          "pageNumber": "१०९",
+          "pageProb": 82,
+          "wordConf": 94
+        },
+        {
+          "leafNum": 129,
+          "confidence": 96,
+          "pageNumber": "११०",
+          "pageProb": 86,
+          "wordConf": 92
+        },
+        {
+          "leafNum": 130,
+          "confidence": 96,
+          "pageNumber": "१११",
+          "pageProb": 86,
+          "wordConf": 72
+        },
+        {
+          "leafNum": 131,
+          "confidence": 79,
+          "pageNumber": "११२",
+          "pageProb": 69,
+          "wordConf": 93
+        },
+        {
+          "leafNum": 132,
+          "confidence": 95,
+          "pageNumber": "११३",
+          "pageProb": 85,
+          "wordConf": 88
+        },
+        {
+          "leafNum": 133,
+          "confidence": 85,
+          "pageNumber": "११४",
+          "pageProb": 75,
+          "wordConf": 93
+        },
+        {
+          "leafNum": 134,
+          "confidence": null,
+          "pageNumber": "115",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 135,
+          "confidence": 80,
+          "pageNumber": "११६",
+          "pageProb": 70,
+          "wordConf": 77
+        },
+        {
+          "leafNum": 136,
+          "confidence": 94,
+          "pageNumber": "११७",
+          "pageProb": 84,
+          "wordConf": 83
+        },
+        {
+          "leafNum": 137,
+          "confidence": 95,
+          "pageNumber": "११८",
+          "pageProb": 85,
+          "wordConf": 95
+        },
+        {
+          "leafNum": 138,
+          "confidence": 93,
+          "pageNumber": "११९",
+          "pageProb": 83,
+          "wordConf": 77
+        },
+        {
+          "leafNum": 139,
+          "confidence": 84,
+          "pageNumber": "१२०",
+          "pageProb": 74,
+          "wordConf": 95
+        },
+        {
+          "leafNum": 140,
+          "confidence": 92,
+          "pageNumber": "१२१",
+          "pageProb": 82,
+          "wordConf": 88
+        },
+        {
+          "leafNum": 141,
+          "confidence": 94,
+          "pageNumber": "१२२",
+          "pageProb": 84,
+          "wordConf": 69
+        },
+        {
+          "leafNum": 142,
+          "confidence": 94,
+          "pageNumber": "१२३",
+          "pageProb": 84,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 143,
+          "confidence": 87,
+          "pageNumber": "१२४",
+          "pageProb": 77,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 144,
+          "confidence": null,
+          "pageNumber": "125",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 145,
+          "confidence": 82,
+          "pageNumber": "१२६",
+          "pageProb": 72,
+          "wordConf": 95
+        },
+        {
+          "leafNum": 146,
+          "confidence": 93,
+          "pageNumber": "१२७",
+          "pageProb": 83,
+          "wordConf": 83
+        },
+        {
+          "leafNum": 147,
+          "confidence": 88,
+          "pageNumber": "१२८",
+          "pageProb": 78,
+          "wordConf": 85
+        },
+        {
+          "leafNum": 148,
+          "confidence": 86,
+          "pageNumber": "१२९",
+          "pageProb": 76,
+          "wordConf": 91
+        },
+        {
+          "leafNum": 149,
+          "confidence": 94,
+          "pageNumber": "१३०",
+          "pageProb": 84,
+          "wordConf": 95
+        },
+        {
+          "leafNum": 150,
+          "confidence": null,
+          "pageNumber": "131",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 151,
+          "confidence": 93,
+          "pageNumber": "१३२",
+          "pageProb": 83,
+          "wordConf": 94
+        },
+        {
+          "leafNum": 152,
+          "confidence": 90,
+          "pageNumber": "१३३",
+          "pageProb": 80,
+          "wordConf": 79
+        },
+        {
+          "leafNum": 153,
+          "confidence": null,
+          "pageNumber": "134",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 154,
+          "confidence": 90,
+          "pageNumber": "१३५",
+          "pageProb": 80,
+          "wordConf": 90
+        },
+        {
+          "leafNum": 155,
+          "confidence": null,
+          "pageNumber": "136",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 156,
+          "confidence": 92,
+          "pageNumber": "१३७",
+          "pageProb": 82,
+          "wordConf": 61
+        },
+        {
+          "leafNum": 157,
+          "confidence": 86,
+          "pageNumber": "१३८",
+          "pageProb": 76,
+          "wordConf": 94
+        },
+        {
+          "leafNum": 158,
+          "confidence": 92,
+          "pageNumber": "१३९",
+          "pageProb": 82,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 159,
+          "confidence": 74,
+          "pageNumber": "१४०",
+          "pageProb": 64,
+          "wordConf": 85
+        },
+        {
+          "leafNum": 160,
+          "confidence": 95,
+          "pageNumber": "१४१",
+          "pageProb": 85,
+          "wordConf": 87
+        },
+        {
+          "leafNum": 161,
+          "confidence": 80,
+          "pageNumber": "१४२",
+          "pageProb": 70,
+          "wordConf": 78
+        },
+        {
+          "leafNum": 162,
+          "confidence": null,
+          "pageNumber": "143",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 163,
+          "confidence": 89,
+          "pageNumber": "१४४",
+          "pageProb": 79,
+          "wordConf": 87
+        },
+        {
+          "leafNum": 164,
+          "confidence": null,
+          "pageNumber": "145",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 165,
+          "confidence": 81,
+          "pageNumber": "१४६",
+          "pageProb": 71,
+          "wordConf": 65
+        },
+        {
+          "leafNum": 166,
+          "confidence": null,
+          "pageNumber": "147",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 167,
+          "confidence": null,
+          "pageNumber": "148",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 168,
+          "confidence": 90,
+          "pageNumber": "१४९",
+          "pageProb": 80,
+          "wordConf": 75
+        },
+        {
+          "leafNum": 169,
+          "confidence": 82,
+          "pageNumber": "१५०",
+          "pageProb": 72,
+          "wordConf": 94
+        },
+        {
+          "leafNum": 170,
+          "confidence": null,
+          "pageNumber": "151",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 171,
+          "confidence": null,
+          "pageNumber": "152",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 172,
+          "confidence": 90,
+          "pageNumber": "१५३",
+          "pageProb": 80,
+          "wordConf": 70
+        },
+        {
+          "leafNum": 173,
+          "confidence": null,
+          "pageNumber": "154",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 174,
+          "confidence": null,
+          "pageNumber": "155",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 175,
+          "confidence": 82,
+          "pageNumber": "१५६",
+          "pageProb": 72,
+          "wordConf": 94
+        },
+        {
+          "leafNum": 176,
+          "confidence": 84,
+          "pageNumber": "१५७",
+          "pageProb": 74,
+          "wordConf": 77
+        },
+        {
+          "leafNum": 177,
+          "confidence": 70,
+          "pageNumber": "१५८",
+          "pageProb": 60,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 178,
+          "confidence": 96,
+          "pageNumber": "१५९",
+          "pageProb": 86,
+          "wordConf": 78
+        },
+        {
+          "leafNum": 179,
+          "confidence": 88,
+          "pageNumber": "१६०",
+          "pageProb": 78,
+          "wordConf": 95
+        },
+        {
+          "leafNum": 180,
+          "confidence": null,
+          "pageNumber": "161",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 181,
+          "confidence": 85,
+          "pageNumber": "१६२",
+          "pageProb": 75,
+          "wordConf": 84
+        },
+        {
+          "leafNum": 182,
+          "confidence": 83,
+          "pageNumber": "१६३",
+          "pageProb": 73,
+          "wordConf": 88
+        },
+        {
+          "leafNum": 183,
+          "confidence": null,
+          "pageNumber": "164",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 184,
+          "confidence": 92,
+          "pageNumber": "१६५",
+          "pageProb": 82,
+          "wordConf": 32
+        },
+        {
+          "leafNum": 185,
+          "confidence": 86,
+          "pageNumber": "१६६",
+          "pageProb": 76,
+          "wordConf": 66
+        },
+        {
+          "leafNum": 186,
+          "confidence": 94,
+          "pageNumber": "१६७",
+          "pageProb": 84,
+          "wordConf": 91
+        },
+        {
+          "leafNum": 187,
+          "confidence": 90,
+          "pageNumber": "१६८",
+          "pageProb": 80,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 188,
+          "confidence": null,
+          "pageNumber": "169",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 189,
+          "confidence": 84,
+          "pageNumber": "१७०",
+          "pageProb": 74,
+          "wordConf": 72
+        },
+        {
+          "leafNum": 190,
+          "confidence": null,
+          "pageNumber": "171",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 191,
+          "confidence": 79,
+          "pageNumber": "१७२",
+          "pageProb": 69,
+          "wordConf": 94
+        },
+        {
+          "leafNum": 192,
+          "confidence": null,
+          "pageNumber": "173",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 193,
+          "confidence": null,
+          "pageNumber": "174",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 194,
+          "confidence": 89,
+          "pageNumber": "१७५",
+          "pageProb": 79,
+          "wordConf": 94
+        },
+        {
+          "leafNum": 195,
+          "confidence": null,
+          "pageNumber": "176",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 196,
+          "confidence": 88,
+          "pageNumber": "१७७",
+          "pageProb": 78,
+          "wordConf": 94
+        },
+        {
+          "leafNum": 197,
+          "confidence": 80,
+          "pageNumber": "१७८",
+          "pageProb": 70,
+          "wordConf": 87
+        },
+        {
+          "leafNum": 198,
+          "confidence": null,
+          "pageNumber": "179",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 199,
+          "confidence": 85,
+          "pageNumber": "१८०",
+          "pageProb": 75,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 200,
+          "confidence": null,
+          "pageNumber": "181",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 201,
+          "confidence": 81,
+          "pageNumber": "१८२",
+          "pageProb": 71,
+          "wordConf": 92
+        },
+        {
+          "leafNum": 202,
+          "confidence": 92,
+          "pageNumber": "१८३",
+          "pageProb": 82,
+          "wordConf": 94
+        },
+        {
+          "leafNum": 203,
+          "confidence": 94,
+          "pageNumber": "१८४",
+          "pageProb": 84,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 204,
+          "confidence": 97,
+          "pageNumber": "१८५",
+          "pageProb": 87,
+          "wordConf": 70
+        },
+        {
+          "leafNum": 205,
+          "confidence": 89,
+          "pageNumber": "१८६",
+          "pageProb": 79,
+          "wordConf": 89
+        },
+        {
+          "leafNum": 206,
+          "confidence": 93,
+          "pageNumber": "१८७",
+          "pageProb": 83,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 207,
+          "confidence": 94,
+          "pageNumber": "१८८",
+          "pageProb": 84,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 208,
+          "confidence": 93,
+          "pageNumber": "१८९",
+          "pageProb": 83,
+          "wordConf": 92
+        },
+        {
+          "leafNum": 209,
+          "confidence": 88,
+          "pageNumber": "१९०",
+          "pageProb": 78,
+          "wordConf": 95
+        },
+        {
+          "leafNum": 210,
+          "confidence": null,
+          "pageNumber": "191",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 211,
+          "confidence": null,
+          "pageNumber": "192",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 212,
+          "confidence": 95,
+          "pageNumber": "१९३",
+          "pageProb": 85,
+          "wordConf": 47
+        },
+        {
+          "leafNum": 213,
+          "confidence": 84,
+          "pageNumber": "१९४",
+          "pageProb": 74,
+          "wordConf": 36
+        },
+        {
+          "leafNum": 214,
+          "confidence": 97,
+          "pageNumber": "१९५",
+          "pageProb": 87,
+          "wordConf": 94
+        },
+        {
+          "leafNum": 215,
+          "confidence": 85,
+          "pageNumber": "१९६",
+          "pageProb": 75,
+          "wordConf": 94
+        },
+        {
+          "leafNum": 216,
+          "confidence": 90,
+          "pageNumber": "१९७",
+          "pageProb": 80,
+          "wordConf": 65
+        },
+        {
+          "leafNum": 217,
+          "confidence": 72,
+          "pageNumber": "१९८",
+          "pageProb": 62,
+          "wordConf": 92
+        },
+        {
+          "leafNum": 218,
+          "confidence": null,
+          "pageNumber": "199",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 219,
+          "confidence": null,
+          "pageNumber": "200",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 220,
+          "confidence": 92,
+          "pageNumber": "२०१",
+          "pageProb": 82,
+          "wordConf": 68
+        },
+        {
+          "leafNum": 221,
+          "confidence": 87,
+          "pageNumber": "२०२",
+          "pageProb": 77,
+          "wordConf": 91
+        },
+        {
+          "leafNum": 222,
+          "confidence": 90,
+          "pageNumber": "२०३",
+          "pageProb": 80,
+          "wordConf": 86
+        },
+        {
+          "leafNum": 223,
+          "confidence": 89,
+          "pageNumber": "२०४",
+          "pageProb": 79,
+          "wordConf": 82
+        },
+        {
+          "leafNum": 224,
+          "confidence": 93,
+          "pageNumber": "२०५",
+          "pageProb": 83,
+          "wordConf": 86
+        },
+        {
+          "leafNum": 225,
+          "confidence": null,
+          "pageNumber": "206",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 226,
+          "confidence": 94,
+          "pageNumber": "२०७",
+          "pageProb": 84,
+          "wordConf": 87
+        },
+        {
+          "leafNum": 227,
+          "confidence": 91,
+          "pageNumber": "२०८",
+          "pageProb": 81,
+          "wordConf": 92
+        },
+        {
+          "leafNum": 228,
+          "confidence": null,
+          "pageNumber": "209",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 229,
+          "confidence": null,
+          "pageNumber": "210",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 230,
+          "confidence": null,
+          "pageNumber": "211",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 231,
+          "confidence": 97,
+          "pageNumber": "२१२",
+          "pageProb": 87,
+          "wordConf": 30
+        },
+        {
+          "leafNum": 232,
+          "confidence": 84,
+          "pageNumber": "२१३",
+          "pageProb": 74,
+          "wordConf": 86
+        },
+        {
+          "leafNum": 233,
+          "confidence": null,
+          "pageNumber": "214",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 234,
+          "confidence": 94,
+          "pageNumber": "२१५",
+          "pageProb": 84,
+          "wordConf": 88
+        },
+        {
+          "leafNum": 235,
+          "confidence": 97,
+          "pageNumber": "२१६",
+          "pageProb": 87,
+          "wordConf": 95
+        },
+        {
+          "leafNum": 236,
+          "confidence": 93,
+          "pageNumber": "२१७",
+          "pageProb": 83,
+          "wordConf": 90
+        },
+        {
+          "leafNum": 237,
+          "confidence": 78,
+          "pageNumber": "२१८",
+          "pageProb": 68,
+          "wordConf": 91
+        },
+        {
+          "leafNum": 238,
+          "confidence": null,
+          "pageNumber": "219",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 239,
+          "confidence": 91,
+          "pageNumber": "२२०",
+          "pageProb": 81,
+          "wordConf": 92
+        },
+        {
+          "leafNum": 240,
+          "confidence": 85,
+          "pageNumber": "२२१",
+          "pageProb": 75,
+          "wordConf": 89
+        },
+        {
+          "leafNum": 241,
+          "confidence": 66,
+          "pageNumber": "२२२",
+          "pageProb": 56,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 242,
+          "confidence": 91,
+          "pageNumber": "२२३",
+          "pageProb": 81,
+          "wordConf": 91
+        },
+        {
+          "leafNum": 243,
+          "confidence": 77,
+          "pageNumber": "२२४",
+          "pageProb": 67,
+          "wordConf": 95
+        },
+        {
+          "leafNum": 244,
+          "confidence": 92,
+          "pageNumber": "२२५",
+          "pageProb": 82,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 245,
+          "confidence": null,
+          "pageNumber": "226",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 246,
+          "confidence": 98,
+          "pageNumber": "२२७",
+          "pageProb": 88,
+          "wordConf": 78
+        },
+        {
+          "leafNum": 247,
+          "confidence": 87,
+          "pageNumber": "२२८",
+          "pageProb": 77,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 248,
+          "confidence": 89,
+          "pageNumber": "२२९",
+          "pageProb": 79,
+          "wordConf": 87
+        },
+        {
+          "leafNum": 249,
+          "confidence": 66,
+          "pageNumber": "२३०",
+          "pageProb": 56,
+          "wordConf": 86
+        },
+        {
+          "leafNum": 250,
+          "confidence": null,
+          "pageNumber": "231",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 251,
+          "confidence": 87,
+          "pageNumber": "२३२",
+          "pageProb": 77,
+          "wordConf": 56
+        },
+        {
+          "leafNum": 252,
+          "confidence": 95,
+          "pageNumber": "२३३",
+          "pageProb": 85,
+          "wordConf": 29
+        },
+        {
+          "leafNum": 253,
+          "confidence": 84,
+          "pageNumber": "२३४",
+          "pageProb": 74,
+          "wordConf": 59
+        },
+        {
+          "leafNum": 254,
+          "confidence": null,
+          "pageNumber": "235",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 255,
+          "confidence": 91,
+          "pageNumber": "२३६",
+          "pageProb": 81,
+          "wordConf": 93
+        },
+        {
+          "leafNum": 256,
+          "confidence": null,
+          "pageNumber": "237",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 257,
+          "confidence": 93,
+          "pageNumber": "२३८",
+          "pageProb": 83,
+          "wordConf": 89
+        },
+        {
+          "leafNum": 258,
+          "confidence": 94,
+          "pageNumber": "२३९",
+          "pageProb": 84,
+          "wordConf": 67
+        },
+        {
+          "leafNum": 259,
+          "confidence": null,
+          "pageNumber": "240",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 260,
+          "confidence": 97,
+          "pageNumber": "२४१",
+          "pageProb": 87,
+          "wordConf": 73
+        },
+        {
+          "leafNum": 261,
+          "confidence": 89,
+          "pageNumber": "२४२",
+          "pageProb": 79,
+          "wordConf": 82
+        },
+        {
+          "leafNum": 262,
+          "confidence": null,
+          "pageNumber": "243",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 263,
+          "confidence": null,
+          "pageNumber": "244",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 264,
+          "confidence": null,
+          "pageNumber": "245",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 265,
+          "confidence": null,
+          "pageNumber": "246",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 266,
+          "confidence": null,
+          "pageNumber": "247",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 267,
+          "confidence": null,
+          "pageNumber": "248",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 268,
+          "confidence": null,
+          "pageNumber": "249",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 269,
+          "confidence": 89,
+          "pageNumber": "२५०",
+          "pageProb": 79,
+          "wordConf": 55
+        },
+        {
+          "leafNum": 270,
+          "confidence": 88,
+          "pageNumber": "२५१",
+          "pageProb": 78,
+          "wordConf": 69
+        },
+        {
+          "leafNum": 271,
+          "confidence": 64,
+          "pageNumber": "२५२",
+          "pageProb": 54,
+          "wordConf": 89
+        },
+        {
+          "leafNum": 272,
+          "confidence": null,
+          "pageNumber": "253",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 273,
+          "confidence": 78,
+          "pageNumber": "२५४",
+          "pageProb": 68,
+          "wordConf": 94
+        },
+        {
+          "leafNum": 274,
+          "confidence": 93,
+          "pageNumber": "२५५",
+          "pageProb": 83,
+          "wordConf": 90
+        },
+        {
+          "leafNum": 275,
+          "confidence": 89,
+          "pageNumber": "२५६",
+          "pageProb": 79,
+          "wordConf": 63
+        },
+        {
+          "leafNum": 276,
+          "confidence": 84,
+          "pageNumber": "२५७",
+          "pageProb": 74,
+          "wordConf": 94
+        },
+        {
+          "leafNum": 277,
+          "confidence": 72,
+          "pageNumber": "२५८",
+          "pageProb": 62,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 278,
+          "confidence": null,
+          "pageNumber": "259",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 279,
+          "confidence": null,
+          "pageNumber": "260",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 280,
+          "confidence": null,
+          "pageNumber": "261",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 281,
+          "confidence": 81,
+          "pageNumber": "२६२",
+          "pageProb": 71,
+          "wordConf": 95
+        },
+        {
+          "leafNum": 282,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 283,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 284,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 285,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 286,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 287,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 288,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 289,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 290,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 291,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 292,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 293,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 294,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 295,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 296,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 297,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 298,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 299,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 300,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 301,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        }
+      ]
+    },
+    "server": "ia904603.us.archive.org",
+    "uniq": 1485557470,
+    "workable_servers": [
+      "ia904603.us.archive.org",
+      "ia804603.us.archive.org"
+    ]
+  }
+}

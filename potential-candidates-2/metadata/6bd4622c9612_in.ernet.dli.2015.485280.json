@@ -1,0 +1,306 @@
+{
+  "work": {
+    "title": "Mricchakatika",
+    "author": "Sudraka",
+    "original_language": "Sanskrit",
+    "search_terms": [
+      "Mricchakatika",
+      "Little Clay Cart",
+      "Sudraka"
+    ],
+    "year_range": [
+      1850,
+      2023
+    ],
+    "category": "sanskrit_drama",
+    "search_mode": "translation"
+  },
+  "search_result": {
+    "creator": "Dr.nishikanta Chattopadaya",
+    "date": "1902-01-01T00:00:00Z",
+    "description": "Book Source: Digital Library of India Item 2015.485280 dc.contributor.author: Dr.nishikanta Chattopadaya dc.date.accessioned: 2015-09-23T17:23:23Z dc.date.available: 2015-09-23T17:23:23Z dc.date.digitalpublicationdate: 25.06.06 dc.date.citation: 1902 dc.identifier.barcode: 05990010098340 dc.identifier.origpath: /rawdataupload/upload/0098/340 dc.identifier.copyno: 1 dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/485280 dc.description.scannerno: ASHOK dc.description.scanningcentre: IIIT, Allahabad dc.description.main: 1 dc.description.tagged: 0 dc.description.totalpages: 96 dc.format.mimetype: application/pdf dc.language.iso: Sanskrit dc.publisher: Vidya Vilas Press Baranasi dc.source.library: University Liberey Allahabad dc.subject.classification: Literature Sanskrit dc.title: Mricchakatika",
+    "downloads": 1348,
+    "format": [
+      "Additional Text PDF",
+      "Archive BitTorrent",
+      "DjVuTXT",
+      "Djvu XML",
+      "Image Container PDF",
+      "Item Tile",
+      "Metadata",
+      "OCR Page Index",
+      "OCR Search Text",
+      "Page Numbers JSON",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "chOCR",
+      "hOCR"
+    ],
+    "identifier": "in.ernet.dli.2015.485280",
+    "language": "san",
+    "subject": "IIIT",
+    "title": "Mricchakatika"
+  },
+  "detailed_metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790003.ca.archive.org",
+          "dir": "/0/items/in.ernet.dli.2015.485280"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790003.ca.archive.org",
+          "dir": "/0/items/in.ernet.dli.2015.485280"
+        }
+      ]
+    },
+    "created": 1762483735,
+    "d1": "ia601506.us.archive.org",
+    "d2": "ia801506.us.archive.org",
+    "dir": "/35/items/in.ernet.dli.2015.485280",
+    "files": [
+      {
+        "name": "2015.485280.MRICCHAKATIKA.pdf",
+        "source": "original",
+        "mtime": "1484946645",
+        "size": "5415543",
+        "md5": "99accfbd44fd6e315094343b6b239f1b",
+        "crc32": "875652b5",
+        "sha1": "288223598024eb0a69161eed376dbc786f7b1eac",
+        "format": "Image Container PDF"
+      },
+      {
+        "name": "2015.485280.MRICCHAKATIKA_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+        "ocr_parameters": "-l san",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "hi",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "2015.485280.MRICCHAKATIKA_jp2.zip",
+        "mtime": "1619957387",
+        "size": "1827064",
+        "md5": "479214f735344ef70c9359f5fae4b194",
+        "crc32": "332414e7",
+        "sha1": "f0c445bbd518dc2e5c44dcd13e608deed01b6a0a"
+      },
+      {
+        "name": "2015.485280.MRICCHAKATIKA_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "2015.485280.MRICCHAKATIKA_djvu.xml",
+        "mtime": "1619957504",
+        "size": "188123",
+        "md5": "a9868a51d8c15240267fe7f1004d6c66",
+        "crc32": "1866fab7",
+        "sha1": "78aa5eff75495bf1a585ffad1cd3da49abc7ee6c"
+      },
+      {
+        "name": "2015.485280.MRICCHAKATIKA_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "2015.485280.MRICCHAKATIKA_hocr.html",
+        "mtime": "1619957443",
+        "size": "1834752",
+        "md5": "6effc14430ae7cd5a950f474af8e768d",
+        "crc32": "1e408bbd",
+        "sha1": "afbaf5971e403da4ddf85cda72e25fb4b8926a2d"
+      },
+      {
+        "name": "2015.485280.MRICCHAKATIKA_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l san",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "hi",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "2015.485280.MRICCHAKATIKA_chocr.html.gz",
+        "mtime": "1619957427",
+        "size": "3339370",
+        "md5": "24f00df21a399e9bc7bb55bb7d7df745",
+        "crc32": "6cee0c92",
+        "sha1": "c298a597fa4f8ce7b4decaf25f2726716220fa6a"
+      },
+      {
+        "name": "2015.485280.MRICCHAKATIKA_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "2015.485280.MRICCHAKATIKA_hocr.html",
+        "mtime": "1619957459",
+        "size": "1108",
+        "md5": "eb9e4b29e00ee4fbb6bcc6905a38d5b8",
+        "crc32": "8de6b092",
+        "sha1": "7872f6686f07c99a2bdc64086fc2c1e7ffd1541e"
+      },
+      {
+        "name": "2015.485280.MRICCHAKATIKA_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "4856",
+        "word_conf_11_20": "1457",
+        "word_conf_21_30": "1654",
+        "word_conf_31_40": "2190",
+        "word_conf_41_50": "2499",
+        "word_conf_51_60": "2493",
+        "word_conf_61_70": "2309",
+        "word_conf_71_80": "1709",
+        "word_conf_81_90": "1548",
+        "word_conf_91_100": "968",
+        "format": "OCR Search Text",
+        "original": "2015.485280.MRICCHAKATIKA_hocr.html",
+        "mtime": "1619957487",
+        "size": "74088",
+        "md5": "e4883b4d4d635b82ac1618c701562492",
+        "crc32": "2a66cda6",
+        "sha1": "9b29d0f74474a68a2fb8c258627e77c6a6e83909"
+      },
+      {
+        "name": "2015.485280.MRICCHAKATIKA_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "2015.485280.MRICCHAKATIKA.pdf",
+        "mtime": "1492837463",
+        "size": "66783875",
+        "md5": "a7e25d97f81c86ad6d98fccc8b427b8e",
+        "crc32": "5cb5acb5",
+        "sha1": "4801a1372967836790757fe5ee85a06b57982f05"
+      },
+      {
+        "name": "2015.485280.MRICCHAKATIKA_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "2015.485280.MRICCHAKATIKA_djvu.xml",
+        "mtime": "1619957585",
+        "size": "18470",
+        "md5": "33e5d1e6721196588ae6ad467e824ab9",
+        "crc32": "835e0f57",
+        "sha1": "f578b48a06179d5f3701ede66ee8184c3f2511ea"
+      },
+      {
+        "name": "2015.485280.MRICCHAKATIKA_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "2015.485280.MRICCHAKATIKA_djvu.xml",
+        "mtime": "1619957585",
+        "size": "31779",
+        "md5": "c0fbf937d6ff470dc81ad0e8467af06f",
+        "crc32": "f0513f8b",
+        "sha1": "6742bcb1539db92b56cb9b68fe4f1cdd6d23a70b"
+      },
+      {
+        "name": "2015.485280.MRICCHAKATIKA_text.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.12",
+        "format": "Additional Text PDF",
+        "original": "2015.485280.MRICCHAKATIKA_page_numbers.json",
+        "mtime": "1619958207",
+        "size": "7362976",
+        "md5": "13df7494a13592d3e837a96e926d233e",
+        "crc32": "b8a552b1",
+        "sha1": "a3224c4579db2241f6a2738db40ddcf03d17697b"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1619958300",
+        "size": "7926",
+        "md5": "0b0f7d71371628be401a4a37348e9220",
+        "crc32": "ecdc6492",
+        "sha1": "584761b76be09c1423396c02f6dceb0caaaa8a5a",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "in.ernet.dli.2015.485280_archive.torrent",
+        "source": "metadata",
+        "btih": "99c8b0a3523b45a36ad233da64c510a230c59afe",
+        "mtime": "1619958279",
+        "size": "7146",
+        "md5": "cbf873b184a5787d2ce216b36e15e433",
+        "crc32": "4cec64c4",
+        "sha1": "03b92b54a05a535476027f61fd63735db8595052",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "in.ernet.dli.2015.485280_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "12452381d5d9f10552ff814bd8f0bc6e",
+        "summation": "md5"
+      },
+      {
+        "name": "in.ernet.dli.2015.485280_meta.sqlite",
+        "source": "original",
+        "mtime": "1484946657",
+        "size": "14336",
+        "md5": "b635b35cbbe83bfa6e3752982f6dbc3f",
+        "crc32": "f4d6dc14",
+        "sha1": "1304b8465e79b7aba13c4a243672bd3b3d76352f",
+        "format": "Metadata"
+      },
+      {
+        "name": "in.ernet.dli.2015.485280_meta.xml",
+        "source": "original",
+        "mtime": "1619958250",
+        "size": "2489",
+        "format": "Metadata",
+        "md5": "87a04b3ea5b0ea23c0c2197605975716",
+        "crc32": "1dee3198",
+        "sha1": "facf60d4c084f843f275731b0676f4a14b89a412"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1619958300,
+    "item_size": 86909045,
+    "metadata": {
+      "identifier": "in.ernet.dli.2015.485280",
+      "creator": "Dr.nishikanta Chattopadaya",
+      "date": "1902",
+      "description": "<p><b>Book Source:</b> <a href=\"http://www.new.dli.ernet.in/handle/2015/485280\" rel=\"nofollow\">Digital Library of India Item 2015.485280</a></p><p>dc.contributor.author: Dr.nishikanta Chattopadaya<br />dc.date.accessioned: 2015-09-23T17:23:23Z<br />dc.date.available: 2015-09-23T17:23:23Z<br />dc.date.digitalpublicationdate: 25.06.06<br />dc.date.citation: 1902<br />dc.identifier.barcode: 05990010098340<br />dc.identifier.origpath: /rawdataupload/upload/0098/340<br />dc.identifier.copyno: 1<br />dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/485280<br />dc.description.scannerno: ASHOK<br />dc.description.scanningcentre: IIIT, Allahabad<br />dc.description.main: 1<br />dc.description.tagged: 0<br />dc.description.totalpages: 96<br />dc.format.mimetype: application/pdf<br />dc.language.iso: Sanskrit<br />dc.publisher: Vidya Vilas Press Baranasi<br />dc.source.library: University Liberey  Allahabad<br />dc.subject.classification: Literature Sanskrit<br />dc.title: Mricchakatika<br /></p>",
+      "language": "san",
+      "mediatype": "texts",
+      "scanner": "Internet Archive Python library 1.1.0",
+      "subject": "IIIT",
+      "title": "Mricchakatika",
+      "publicdate": "2017-01-20 21:10:46",
+      "uploader": "carl@media.org",
+      "addeddate": "2017-01-20 21:10:46",
+      "collection": [
+        "digitallibraryindia",
+        "JaiGyan"
+      ],
+      "identifier-access": "http://archive.org/details/in.ernet.dli.2015.485280",
+      "identifier-ark": "ark:/13960/t4fn6hg7m",
+      "ppi": "600",
+      "repub_state": "4",
+      "backup_location": "ia906305_12",
+      "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+      "ocr_parameters": "-l san",
+      "ocr_module_version": "0.0.13",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "hi",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "88.42",
+      "pdf_module_version": "0.0.12"
+    },
+    "server": "ia801506.us.archive.org",
+    "uniq": 1688783943,
+    "workable_servers": [
+      "ia801506.us.archive.org",
+      "ia601506.us.archive.org"
+    ]
+  }
+}

@@ -1,6 +1,20 @@
 {
   "total_searched": 21,
-  "total_found": 0,
-  "discovery_date": "2025-11-07T02:02:06.024774",
-  "works_by_category": {}
+  "total_found": 21,
+  "discovery_date": "2025-11-07T02:50:57.920390",
+  "works_by_category": {
+    "sanskrit_drama": 3,
+    "sanskrit_poetry": 3,
+    "political_science": 1,
+    "philosophy": 1,
+    "religious_epic": 1,
+    "folk_literature": 2,
+    "buddhist_literature": 2,
+    "bhakti_poetry": 2,
+    "tamil_wisdom": 1,
+    "tamil_epic": 1,
+    "sanskrit_prose": 2,
+    "story_collection": 1,
+    "modern_bengali": 1
+  }
 }

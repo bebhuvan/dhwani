@@ -39,8 +39,8 @@ class ArchiveSearcher:
                      'subject', 'description', 'downloads', 'format'],
             'rows': rows,
             'page': 1,
-            'output': 'json',
-            'mediatype': 'texts'
+            'output': 'json'
+            # Note: Don't use 'mediatype': 'texts' - it breaks search results
         }
 
         logger.info(f"Searching Archive.org: {query}")
@@ -78,13 +78,8 @@ class ArchiveSearcher:
                 logger.warning(f"Could not build query for strategy {strategy}")
                 continue
 
-            # Add common filters
+            # Add mediatype filter to query string (NOT as URL parameter)
             query += ' AND mediatype:texts'
-
-            # Add year filter if available
-            year_range = work.get('year_range')
-            if year_range and len(year_range) == 2:
-                query += f' AND date:[{year_range[0]} TO {year_range[1]}]'
 
             try:
                 results = self.search_archive(query, rows=20)

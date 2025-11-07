@@ -1,0 +1,312 @@
+{
+  "work": {
+    "title": "Anandamath",
+    "author": "Bankim Chandra Chatterjee",
+    "original_language": "Bengali",
+    "search_terms": [
+      "Anandamath",
+      "Bankim Chandra",
+      "Chatterjee"
+    ],
+    "year_range": [
+      1880,
+      2023
+    ],
+    "category": "modern_bengali",
+    "search_mode": "translation"
+  },
+  "search_result": {
+    "creator": "Bankim Chandra Chatterjee",
+    "date": "1910-01-01T00:00:00Z",
+    "description": "Anandamath is a Bengali historical novel, written by Bankim Chandra Chattopadhyay and published in 1882. It is inspired by and set in the background of the Sannyasi Rebellion in the late 18th century, it is considered one of the most important novels in the history of Bengali and Indian literature. Translated from Bengali by Sri Aurobindo and Barindra Kumar Ghosh.",
+    "downloads": 35,
+    "format": [
+      "Archive BitTorrent",
+      "DjVuTXT",
+      "Djvu XML",
+      "EPUB",
+      "Item Tile",
+      "Metadata",
+      "OCR Page Index",
+      "OCR Search Text",
+      "Page Numbers JSON",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF",
+      "chOCR",
+      "hOCR"
+    ],
+    "identifier": "anandamath-bankim-chandra-chatterjee",
+    "language": "eng",
+    "subject": [
+      "Sanyasi",
+      "Rebellion",
+      "History"
+    ],
+    "title": "Anandamath"
+  },
+  "detailed_metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721202.ca.archive.org",
+          "dir": "/0/items/anandamath-bankim-chandra-chatterjee"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721202.ca.archive.org",
+          "dir": "/0/items/anandamath-bankim-chandra-chatterjee"
+        }
+      ]
+    },
+    "created": 1762483855,
+    "d1": "ia601504.us.archive.org",
+    "d2": "ia801504.us.archive.org",
+    "dir": "/27/items/anandamath-bankim-chandra-chatterjee",
+    "files": [
+      {
+        "name": "Anandamath_Bankim Chandra Chatterjee.epub",
+        "source": "original",
+        "mtime": "1744985637",
+        "size": "187967",
+        "md5": "53dc66cb63e26717c46c827a39cfdbab",
+        "crc32": "7e771fc1",
+        "sha1": "2c02930b39fa7f0834f7bf2bc5b7744cb6fee423",
+        "format": "EPUB"
+      },
+      {
+        "name": "Anandamath_Bankim Chandra Chatterjee.pdf",
+        "source": "original",
+        "mtime": "1744985665",
+        "size": "881581",
+        "md5": "596fee337357603fcdb861505e9fecf7",
+        "crc32": "e4fd4c22",
+        "sha1": "e333e5b1acca5939ad59ce2279e4697391ae9197",
+        "format": "Text PDF",
+        "viruscheck": "1744986080"
+      },
+      {
+        "name": "Anandamath_Bankim Chandra Chatterjee_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "Anandamath_Bankim Chandra Chatterjee_jp2.zip",
+        "mtime": "1744987519",
+        "size": "3848708",
+        "md5": "7b5727d1a854719cb9dcfc91b32032b9",
+        "crc32": "616a8fa3",
+        "sha1": "c1006014cd97c500218abe16d27a13335de19e1d"
+      },
+      {
+        "name": "Anandamath_Bankim Chandra Chatterjee_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Anandamath_Bankim Chandra Chatterjee_djvu.xml",
+        "mtime": "1744989219",
+        "size": "297411",
+        "md5": "ab5d553e7c69ce26c4b685c13a4baf1d",
+        "crc32": "f1b42c6a",
+        "sha1": "f06db62f9579f089c34aa41802556a3f148a1d17"
+      },
+      {
+        "name": "Anandamath_Bankim Chandra Chatterjee_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Anandamath_Bankim Chandra Chatterjee_hocr.html",
+        "mtime": "1744988300",
+        "size": "4033780",
+        "md5": "b7d21c3ba99596d356dbeafa20c9b1e0",
+        "crc32": "0b849614",
+        "sha1": "88dad46327fa3e1612c66b897cf8b16b8ee52da6"
+      },
+      {
+        "name": "Anandamath_Bankim Chandra Chatterjee_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.3.0",
+        "hocr_char_to_word_hocr_version": "1.1.56",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "Anandamath_Bankim Chandra Chatterjee_chocr.html.gz",
+        "mtime": "1744988147",
+        "size": "7401881",
+        "md5": "bdecc98a11bce4fa8509eb05803c6566",
+        "crc32": "1d8c82d3",
+        "sha1": "0549ea4f592c5cc0e4a5aa55af20dd2896a58c9b"
+      },
+      {
+        "name": "Anandamath_Bankim Chandra Chatterjee_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.1.0",
+        "hocr_pageindex_hocr_version": "1.1.56",
+        "format": "OCR Page Index",
+        "original": "Anandamath_Bankim Chandra Chatterjee_hocr.html",
+        "mtime": "1744988462",
+        "size": "2158",
+        "md5": "44783dd73527c0db9de431006ac0e7ae",
+        "crc32": "c6b419c0",
+        "sha1": "23107df22941cbfc34b90a1dfde3d9d9d9f9c39c"
+      },
+      {
+        "name": "Anandamath_Bankim Chandra Chatterjee_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.2.0",
+        "hocr_fts_text_hocr_version": "1.1.56",
+        "word_conf_0_10": "4",
+        "word_conf_11_20": "1",
+        "word_conf_21_30": "3",
+        "word_conf_31_40": "13",
+        "word_conf_41_50": "14",
+        "word_conf_51_60": "25",
+        "word_conf_61_70": "49",
+        "word_conf_71_80": "106",
+        "word_conf_81_90": "858",
+        "word_conf_91_100": "50285",
+        "format": "OCR Search Text",
+        "original": "Anandamath_Bankim Chandra Chatterjee_hocr.html",
+        "mtime": "1744989181",
+        "size": "104124",
+        "md5": "da3c2da370255319d7f4dc4a445e5eb0",
+        "crc32": "9034a6d7",
+        "sha1": "b6bdbf4a4406d2c7a1c47826e223cc6f58ff94e4"
+      },
+      {
+        "name": "Anandamath_Bankim Chandra Chatterjee_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Anandamath_Bankim Chandra Chatterjee.pdf",
+        "mtime": "1744986977",
+        "size": "64436820",
+        "md5": "3bb608dbf7ace4e9b54c8c3339f5c1f7",
+        "crc32": "f543af33",
+        "sha1": "9e3d54fee5e704979c1af1de2627c817c994de8a",
+        "filecount": "184"
+      },
+      {
+        "name": "Anandamath_Bankim Chandra Chatterjee_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "Anandamath_Bankim Chandra Chatterjee_hocr.html",
+        "mtime": "1744989387",
+        "size": "31343",
+        "md5": "02c6310d54173c7e0145b2e06fab53b1",
+        "crc32": "bc870e48",
+        "sha1": "cd8cadf2251c4b3b1eafb370b37b63c10e8e4bb5"
+      },
+      {
+        "name": "Anandamath_Bankim Chandra Chatterjee_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Anandamath_Bankim Chandra Chatterjee_djvu.xml",
+        "mtime": "1744989388",
+        "size": "59244",
+        "md5": "2a4a8c6e98c65269a62100e7f22e5dbd",
+        "crc32": "c5d22f32",
+        "sha1": "14ab46c113ceb50f72115da2ccc7c2fa03532a77"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1744989462",
+        "size": "11191",
+        "md5": "085d6e2a63d9fc28497af0dc539a2be5",
+        "crc32": "02d914c8",
+        "sha1": "a0cdef2a13e17f81b511045c14d41aef038af9fc",
+        "format": "Item Tile"
+      },
+      {
+        "name": "anandamath-bankim-chandra-chatterjee_archive.torrent",
+        "source": "metadata",
+        "btih": "c3c51ac4d1986e588ced0af72a7f4616955b0493",
+        "mtime": "1744989465",
+        "size": "7204",
+        "md5": "a8ecd59ba1a25e55ee95302553a1ba1b",
+        "crc32": "5f150abd",
+        "sha1": "eb2276ada278f60a0b5a19ee852f6cb641c05158",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "anandamath-bankim-chandra-chatterjee_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "2161755396c02ce0a019c73969ef83ca",
+        "summation": "md5"
+      },
+      {
+        "name": "anandamath-bankim-chandra-chatterjee_meta.sqlite",
+        "source": "original",
+        "mtime": "1744985697",
+        "size": "28672",
+        "md5": "2ac54e61bd40de04fb9082b84a5a86a8",
+        "crc32": "63326d06",
+        "sha1": "c239e50f504345923566f62c61d72c31b34d46c2",
+        "format": "Metadata"
+      },
+      {
+        "name": "anandamath-bankim-chandra-chatterjee_meta.xml",
+        "source": "original",
+        "mtime": "1744989388",
+        "size": "1769",
+        "md5": "9e8ecbb4db024901820f98c4bd7912dc",
+        "crc32": "b85344aa",
+        "sha1": "beee2996c12f7f85f572d68e5ee3d2957fdfd42e",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1744989465,
+    "item_size": 81333853,
+    "metadata": {
+      "identifier": "anandamath-bankim-chandra-chatterjee",
+      "mediatype": "texts",
+      "collection": "opensource",
+      "creator": "Bankim Chandra Chatterjee",
+      "date": "1910",
+      "description": "Anandamath is a Bengali historical novel, written by Bankim Chandra Chattopadhyay and published in 1882. It is inspired by and set in the background of the Sannyasi Rebellion in the late 18th century, it is considered one of the most important novels in the history of Bengali and Indian literature. Translated from Bengali by Sri Aurobindo and Barindra Kumar Ghosh.",
+      "language": "eng",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "Sanyasi",
+        "Rebellion",
+        "History"
+      ],
+      "title": "Anandamath",
+      "uploader": "sreekanth_j@yahoo.com",
+      "publicdate": "2025-04-18 14:14:24",
+      "addeddate": "2025-04-18 14:14:24",
+      "curation": "[curator]validator@archive.org[/curator][date]20250418142120[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/anandamath-bankim-chandra-chatterjee",
+      "identifier-ark": "ark:/13960/s2g8jk4vb6n",
+      "ppi": "300",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia601504.us.archive.org",
+    "uniq": 876353594,
+    "workable_servers": [
+      "ia601504.us.archive.org",
+      "ia801504.us.archive.org"
+    ]
+  }
+}

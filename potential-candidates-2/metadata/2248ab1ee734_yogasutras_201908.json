@@ -1,0 +1,204 @@
+{
+  "work": {
+    "title": "Yoga Sutras",
+    "author": "Patanjali",
+    "original_language": "Sanskrit",
+    "search_terms": [
+      "Yoga Sutras",
+      "Patanjali",
+      "aphorisms"
+    ],
+    "year_range": [
+      1850,
+      2023
+    ],
+    "category": "philosophy",
+    "search_mode": "translation"
+  },
+  "search_result": {
+    "description": "yoga sastra",
+    "downloads": 219,
+    "format": [
+      "Abbyy GZ",
+      "Archive BitTorrent",
+      "DjVuTXT",
+      "Djvu XML",
+      "EPUB",
+      "Item Tile",
+      "Metadata",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "yogasutras_201908",
+    "language": "French",
+    "subject": "sastra",
+    "title": "YOGA SUTRAS"
+  },
+  "detailed_metadata": {
+    "created": 1762483706,
+    "d1": "ia600908.us.archive.org",
+    "d2": "ia800908.us.archive.org",
+    "dir": "/24/items/yogasutras_201908",
+    "files": [
+      {
+        "name": "YOGA_SUTRAS.epub",
+        "source": "derivative",
+        "original": "YOGA_SUTRAS_abbyy.gz",
+        "mtime": "1717232898",
+        "size": "6476563",
+        "md5": "9b4183dfe2d3d901adcdb63ea66f0167",
+        "crc32": "29f645fc",
+        "sha1": "af49309cc7debbc346186337e6fcc79f1d0411dc",
+        "format": "EPUB"
+      },
+      {
+        "name": "YOGA_SUTRAS.pdf",
+        "source": "original",
+        "mtime": "1566792467",
+        "size": "75606",
+        "md5": "918385dd940a609aabc8904927540c03",
+        "crc32": "b27ebcd3",
+        "sha1": "c48d3fe86a144f3b2b18c87c2b2012fdb95fdf77",
+        "format": "Text PDF"
+      },
+      {
+        "name": "YOGA_SUTRAS_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "YOGA_SUTRAS_jp2.zip",
+        "mtime": "1566792968",
+        "size": "105636",
+        "md5": "8922eb771ce72ba7a20589b285aa8736",
+        "crc32": "4afdc076",
+        "sha1": "cbc901485fb4bf7e7293a5cf4fdbb6fba0c409c6"
+      },
+      {
+        "name": "YOGA_SUTRAS_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "YOGA_SUTRAS_djvu.xml",
+        "mtime": "1566792975",
+        "size": "5582",
+        "md5": "7c2fbb3a7bcb8c439b5fc52d471632f1",
+        "crc32": "05e9f21c",
+        "sha1": "081b982e81e4f23875fdc2d13b452cb402f6389b"
+      },
+      {
+        "name": "YOGA_SUTRAS_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "YOGA_SUTRAS_abbyy.gz",
+        "mtime": "1566792972",
+        "size": "150223",
+        "md5": "a335e376109e063a8c70c4a69eea5441",
+        "crc32": "912b4ebe",
+        "sha1": "518d9355b7d3b6db568179459dd931145c75f73e"
+      },
+      {
+        "name": "YOGA_SUTRAS_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "YOGA_SUTRAS.pdf",
+        "mtime": "1566792822",
+        "size": "5818247",
+        "md5": "0121b601055d0ebff8e778ae025605e4",
+        "crc32": "47147db3",
+        "sha1": "92f858b833fe67937e8219aba376a8303e494117",
+        "filecount": "22"
+      },
+      {
+        "name": "YOGA_SUTRAS_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "YOGA_SUTRAS_djvu.xml",
+        "mtime": "1566792976",
+        "size": "6798",
+        "md5": "39f061786e7457173791233162aec92f",
+        "crc32": "dce9ba67",
+        "sha1": "5dee88b7737e004e73382427de53fd1980d552ca"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1717232900",
+        "size": "5093",
+        "md5": "581fa3c04baff30f2c90362ec4f4324d",
+        "crc32": "19fda569",
+        "sha1": "109db1ee89642c1d5231ccf0ca6830d90b73741f",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "yogasutras_201908_archive.torrent",
+        "source": "metadata",
+        "btih": "dd27f85e366555d6aa39905feff160c4fd984814",
+        "mtime": "1745389749",
+        "size": "3386",
+        "md5": "81de31812190ca9b36e3d03410a8cee8",
+        "crc32": "c3869a0a",
+        "sha1": "a51fe95e4fa472046d58b044ff34dace8be28feb",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "yogasutras_201908_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "10e4ae65410173133771183c39a60db1",
+        "summation": "md5"
+      },
+      {
+        "name": "yogasutras_201908_meta.sqlite",
+        "source": "original",
+        "mtime": "1566792486",
+        "size": "9216",
+        "format": "Metadata",
+        "md5": "41514cbab19818dfbe04e3e155af842e",
+        "crc32": "58bb05cb",
+        "sha1": "d3abf733995985d88e5a616fb69f124f3fa11eb5"
+      },
+      {
+        "name": "yogasutras_201908_meta.xml",
+        "source": "original",
+        "mtime": "1745389748",
+        "size": "1039",
+        "format": "Metadata",
+        "md5": "f65f8027eaa7838c423752fc040aded4",
+        "crc32": "e12f45cc",
+        "sha1": "337f9411d11ef82d47a394d7bf3da3d0119e0cc7"
+      }
+    ],
+    "files_count": 12,
+    "item_last_updated": 1745389749,
+    "item_size": 12657389,
+    "metadata": {
+      "identifier": "yogasutras_201908",
+      "mediatype": "texts",
+      "description": "yoga sastra<div><br /></div>",
+      "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+      "subject": "sastra",
+      "title": "YOGA SUTRAS",
+      "publicdate": "2019-08-26 04:07:48",
+      "uploader": "adigurugranthalaya@gmail.com",
+      "addeddate": "2019-08-26 04:07:48",
+      "curation": "[curator]validator@archive.org[/curator][date]20190826041313[/date][comment]checked for malware[/comment]",
+      "language": "French",
+      "identifier-access": "http://archive.org/details/yogasutras_201908",
+      "identifier-ark": "ark:/13960/t6wx57q4z",
+      "ppi": "300",
+      "ocr": "ABBYY FineReader 11.0 (Extended OCR)",
+      "backup_location": "ia906909_28",
+      "collection": [
+        "booksbylanguage_french",
+        "booksbylanguage"
+      ],
+      "collection_added": "booksbylanguage"
+    },
+    "server": "ia800908.us.archive.org",
+    "uniq": 2058834594,
+    "workable_servers": [
+      "ia800908.us.archive.org",
+      "ia600908.us.archive.org"
+    ]
+  }
+}

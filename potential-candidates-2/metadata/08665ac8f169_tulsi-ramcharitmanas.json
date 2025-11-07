@@ -1,0 +1,317 @@
+{
+  "work": {
+    "title": "Ramcharitmanas",
+    "author": "Tulsidas",
+    "original_language": "Awadhi",
+    "search_terms": [
+      "Ramcharitmanas",
+      "Tulsidas",
+      "Ramayana"
+    ],
+    "year_range": [
+      1850,
+      2023
+    ],
+    "category": "religious_epic",
+    "search_mode": "translation"
+  },
+  "search_result": {
+    "creator": "Goswami Tulsidas",
+    "description": "Shri Ramcharitmanas by Goswami Tulsidas.",
+    "downloads": 16271,
+    "format": [
+      "Archive BitTorrent",
+      "Daisy",
+      "DjVuTXT",
+      "Djvu XML",
+      "EPUB",
+      "Item Tile",
+      "Metadata",
+      "OCR Page Index",
+      "OCR Search Text",
+      "Page Numbers JSON",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF",
+      "chOCR",
+      "hOCR"
+    ],
+    "identifier": "tulsi-ramcharitmanas",
+    "language": "hin",
+    "subject": [
+      "Goswami Tulsidas",
+      "Shri Ramcharitmanas",
+      "Tulsi Granthavali Khand 1"
+    ],
+    "title": "Shri Ramcharitmanas"
+  },
+  "detailed_metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/tulsi-ramcharitmanas"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/tulsi-ramcharitmanas"
+        }
+      ]
+    },
+    "created": 1762424168,
+    "d1": "ia600307.us.archive.org",
+    "d2": "ia800307.us.archive.org",
+    "dir": "/26/items/tulsi-ramcharitmanas",
+    "files": [
+      {
+        "name": "Tulsi-Ramcharitmanas.epub",
+        "source": "derivative",
+        "original": "Tulsi-Ramcharitmanas_hocr.html",
+        "mtime": "1699909267",
+        "size": "1048605",
+        "md5": "dfb896fc38431f6eda8a3623fed18880",
+        "crc32": "acae3ea9",
+        "sha1": "9cb7c8e7b1a6bc850c8f90af4dc9ef1cf9c6be2a",
+        "format": "EPUB"
+      },
+      {
+        "name": "Tulsi-Ramcharitmanas.pdf",
+        "source": "original",
+        "mtime": "1609093828",
+        "size": "2564637",
+        "md5": "4364091c02882876fa0bc1e4d7044b12",
+        "crc32": "9b1ce9f0",
+        "sha1": "21f9c5264978651790e56d28d80fd6c11241dddf",
+        "format": "Text PDF"
+      },
+      {
+        "name": "Tulsi-Ramcharitmanas_chocr.html.gz",
+        "source": "derivative",
+        "format": "chOCR",
+        "original": "Tulsi-Ramcharitmanas_jp2.zip",
+        "mtime": "1609103357",
+        "size": "9506883",
+        "md5": "f91ae5808c003fd5e22b6aaaa4cd02b3",
+        "crc32": "75d7aa48",
+        "sha1": "2920f92696d53c56d0d068d2a6f2d287d2621828"
+      },
+      {
+        "name": "Tulsi-Ramcharitmanas_daisy.zip",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "Daisy",
+        "original": "Tulsi-Ramcharitmanas_hocr.html",
+        "mtime": "1758189488",
+        "size": "558949",
+        "md5": "e82b963aea62481a8c37b1186bcfa9ff",
+        "crc32": "2d4e5ce2",
+        "sha1": "7ec7300a149aa1e625f2471fa1a9257ef6b5812f",
+        "filecount": "9"
+      },
+      {
+        "name": "Tulsi-Ramcharitmanas_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Tulsi-Ramcharitmanas_djvu.xml",
+        "mtime": "1758189563",
+        "size": "1787155",
+        "md5": "1ae9870bee1920da8607bc79726c9f25",
+        "crc32": "b2806b84",
+        "sha1": "656c116f02db33bd719cc173a7f118ee0adb0e04"
+      },
+      {
+        "name": "Tulsi-Ramcharitmanas_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Tulsi-Ramcharitmanas_hocr.html",
+        "mtime": "1758189097",
+        "size": "12529976",
+        "md5": "1f108d435fec73aa22702812ef644317",
+        "crc32": "728ce50a",
+        "sha1": "a0e7fb8a8c7f4389d83e4028ff0efe0aab3be23b"
+      },
+      {
+        "name": "Tulsi-Ramcharitmanas_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "format": "hOCR",
+        "original": "Tulsi-Ramcharitmanas_chocr.html.gz",
+        "mtime": "1617538052",
+        "size": "22195704",
+        "md5": "fb9b7228b117fd1e69a74f3b4998ba6e",
+        "crc32": "365d8385",
+        "sha1": "eefbea6e451d04d292361a5f41834913b59e0ac5"
+      },
+      {
+        "name": "Tulsi-Ramcharitmanas_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "Tulsi-Ramcharitmanas_hocr.html",
+        "mtime": "1617538173",
+        "size": "11911",
+        "md5": "921bb06ea9e53aaf3cf88ab7a0371220",
+        "crc32": "7aeae269",
+        "sha1": "c3d055657994f1f9c9776f4592e1597cba79b903"
+      },
+      {
+        "name": "Tulsi-Ramcharitmanas_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "863",
+        "word_conf_11_20": "182",
+        "word_conf_21_30": "325",
+        "word_conf_31_40": "549",
+        "word_conf_41_50": "926",
+        "word_conf_51_60": "2213",
+        "word_conf_61_70": "3413",
+        "word_conf_71_80": "5239",
+        "word_conf_81_90": "23187",
+        "word_conf_91_100": "105329",
+        "format": "OCR Search Text",
+        "original": "Tulsi-Ramcharitmanas_hocr.html",
+        "mtime": "1617538262",
+        "size": "388147",
+        "md5": "9c71b0e868aa540d5fe3167c749ed38d",
+        "crc32": "73014486",
+        "sha1": "1046f0fb04891d8c4961f44aff003f26bf7bafe8"
+      },
+      {
+        "name": "Tulsi-Ramcharitmanas_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Tulsi-Ramcharitmanas.pdf",
+        "mtime": "1609097887",
+        "size": "160435901",
+        "md5": "3318318e38cb54941aad01880411dd9c",
+        "crc32": "1cc93af6",
+        "sha1": "a53551d1c132ea826301a4bfebaa08ce762a8b67",
+        "filecount": "1015"
+      },
+      {
+        "name": "Tulsi-Ramcharitmanas_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "Tulsi-Ramcharitmanas_hocr.html",
+        "mtime": "1758190145",
+        "size": "172612",
+        "md5": "6f9bb421079e087072ef34f3c33e1e50",
+        "crc32": "684d054a",
+        "sha1": "f319eae7ec753ef6947af2012619d5c7dea9c1f4"
+      },
+      {
+        "name": "Tulsi-Ramcharitmanas_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Tulsi-Ramcharitmanas_djvu.xml",
+        "mtime": "1758190145",
+        "size": "325995",
+        "md5": "bf95d84b8d83d0ace535e59bab8311ec",
+        "crc32": "45e17ac4",
+        "sha1": "2e83350ab40b9885c3881a58d820d899fa1f400f"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1681502558",
+        "size": "16058",
+        "md5": "91907eb6171220f1a719ddcf1bb48de3",
+        "crc32": "27ddf5ae",
+        "sha1": "0bf825494cf674c2582260351e8eae1f35676fba",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "tulsi-ramcharitmanas_archive.torrent",
+        "source": "metadata",
+        "btih": "41b2439ab6e598ed14cb6f96ee2e02f2046adf19",
+        "mtime": "1758190363",
+        "size": "12038",
+        "md5": "3b408d9b7ba49e1f7e3bbbc0c84325f3",
+        "crc32": "a9251af6",
+        "sha1": "82f2b3123e808c4808ae8759b981f9a342afe43a",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "tulsi-ramcharitmanas_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "d0afb227fa11cab64a02bb4f69049668",
+        "summation": "md5"
+      },
+      {
+        "name": "tulsi-ramcharitmanas_meta.sqlite",
+        "source": "original",
+        "mtime": "1609093862",
+        "size": "11264",
+        "md5": "7885ddd476cda8f4ddacbea3c2c4e075",
+        "crc32": "99426773",
+        "sha1": "6d569bacf1d339a3567f2d4edf13bd2be8afdf69",
+        "format": "Metadata"
+      },
+      {
+        "name": "tulsi-ramcharitmanas_meta.xml",
+        "source": "original",
+        "mtime": "1758190360",
+        "size": "1564",
+        "md5": "46ecdc4e93aea87c0cb162f4f0ff2948",
+        "crc32": "f17779c4",
+        "sha1": "661d38e8ad94fa8934ab3b0fbce365d45bb0b8d5",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 17,
+    "item_last_updated": 1758190363,
+    "item_size": 211567399,
+    "metadata": {
+      "identifier": "tulsi-ramcharitmanas",
+      "mediatype": "texts",
+      "creator": "Goswami Tulsidas",
+      "description": "Shri Ramcharitmanas by Goswami Tulsidas.<br />",
+      "language": "hin",
+      "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+      "subject": [
+        "Goswami Tulsidas",
+        "Shri Ramcharitmanas",
+        "Tulsi Granthavali Khand 1"
+      ],
+      "title": "Shri Ramcharitmanas",
+      "uploader": "hindikosh@yahoo.com",
+      "publicdate": "2020-12-27 18:30:56",
+      "addeddate": "2020-12-27 18:30:56",
+      "curation": "[curator]validator@archive.org[/curator][date]20201227183613[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/tulsi-ramcharitmanas",
+      "identifier-ark": "ark:/13960/t1jj3fw8k",
+      "ppi": "300",
+      "ocr": "tesseract 4.1.1",
+      "ocr_parameters": "-l hin",
+      "ocr_module_version": "0.0.10",
+      "ocr_detected_script": "Devanagari",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "hi",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "0",
+      "collection": [
+        "booksbylanguage_hindi",
+        "booksbylanguage"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia800307.us.archive.org",
+    "uniq": 1614152107,
+    "workable_servers": [
+      "ia800307.us.archive.org",
+      "ia600307.us.archive.org"
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "work": {
+    "title": "Arthashastra",
+    "author": "Kautilya",
+    "original_language": "Sanskrit",
+    "search_terms": [
+      "Arthashastra",
+      "Kautilya",
+      "Chanakya",
+      "Shamasastry"
+    ],
+    "year_range": [
+      1900,
+      2023
+    ],
+    "category": "political_science",
+    "search_mode": "translation"
+  },
+  "search_result": {
+    "creator": "Chanakya",
+    "description": "The Arthashastra ( अर्थशास्त्रम् ) is an Ancient Indian Sanskrit treatise on statecraft, political science, economic policy and military strategy. Kautilya, also identified as Vishnugupta and Chanakya, is traditionally credited as the author of the text.",
+    "downloads": 558,
+    "format": [
+      "Archive BitTorrent",
+      "DjVuTXT",
+      "Djvu XML",
+      "EPUB",
+      "Item Tile",
+      "Metadata",
+      "OCR Page Index",
+      "OCR Search Text",
+      "Page Numbers JSON",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF",
+      "chOCR",
+      "hOCR"
+    ],
+    "identifier": "arthashastra_202405",
+    "language": "eng",
+    "subject": [
+      "Political Science",
+      "Economic Policy",
+      "Statecraft",
+      "Military Strategy",
+      "Arthashastra"
+    ],
+    "title": "Arthashastra"
+  },
+  "detailed_metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721600.ca.archive.org",
+          "dir": "/0/items/arthashastra_202405"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721600.ca.archive.org",
+          "dir": "/0/items/arthashastra_202405"
+        }
+      ]
+    },
+    "created": 1762483696,
+    "d1": "ia600600.us.archive.org",
+    "d2": "ia800600.us.archive.org",
+    "dir": "/29/items/arthashastra_202405",
+    "files": [
+      {
+        "name": "Arthashastra.epub",
+        "source": "derivative",
+        "original": "Arthashastra_hocr.html",
+        "mtime": "1717064886",
+        "size": "3940478",
+        "md5": "7186913ff2ad25b0f1737c51f49d4420",
+        "crc32": "8a83cc74",
+        "sha1": "8766d480025e4d21c39f22a43e6504f3d242721d",
+        "format": "EPUB"
+      },
+      {
+        "name": "Arthashastra.pdf",
+        "source": "original",
+        "mtime": "1717052487",
+        "size": "17300791",
+        "md5": "736ea48de8860a4ace591cbfd7176320",
+        "crc32": "fc9944cf",
+        "sha1": "1bcc099f2b09c3d0b6c9c87e4b0e65289212cf7e",
+        "format": "Text PDF",
+        "viruscheck": "1717053039"
+      },
+      {
+        "name": "Arthashastra_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9915",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "Arthashastra_jp2.zip",
+        "mtime": "1717059522",
+        "size": "19053828",
+        "md5": "c27dd67a69722a5070f987e85dc5530c",
+        "crc32": "778b92cb",
+        "sha1": "6f05bb771348fd0d773c402e323cb500d7e76652"
+      },
+      {
+        "name": "Arthashastra_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Arthashastra_djvu.xml",
+        "mtime": "1717061116",
+        "size": "1465174",
+        "md5": "86efc0c22eb80857204244a1f411ef80",
+        "crc32": "2d22a2c1",
+        "sha1": "ab00c8192068ad4c8349d3e2961fb2e2f4fb181d"
+      },
+      {
+        "name": "Arthashastra_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Arthashastra_hocr.html",
+        "mtime": "1717059931",
+        "size": "19092162",
+        "md5": "e271afb60eb5fc4c27bdebf19541420b",
+        "crc32": "b5fce790",
+        "sha1": "86dcc7a6a17da788d3f9ff9f82ee04a5c1dd50b4"
+      },
+      {
+        "name": "Arthashastra_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.3.0",
+        "hocr_char_to_word_hocr_version": "1.1.56",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9915",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "Arthashastra_chocr.html.gz",
+        "mtime": "1717059763",
+        "size": "35224341",
+        "md5": "894c950e20666bb5234fb3aac21e851f",
+        "crc32": "a7832b1f",
+        "sha1": "6c002a30f5d532127ffbc5e0b99981064cd404d2"
+      },
+      {
+        "name": "Arthashastra_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.1.0",
+        "hocr_pageindex_hocr_version": "1.1.56",
+        "format": "OCR Page Index",
+        "original": "Arthashastra_hocr.html",
+        "mtime": "1717060119",
+        "size": "10616",
+        "md5": "a87684fa91fe1c902dd1055e45b00f3b",
+        "crc32": "5c842fe2",
+        "sha1": "e5e5cb6c426e94b27ab2224b9c056741204d5400"
+      },
+      {
+        "name": "Arthashastra_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.2.0",
+        "hocr_fts_text_hocr_version": "1.1.56",
+        "word_conf_0_10": "790",
+        "word_conf_11_20": "272",
+        "word_conf_21_30": "370",
+        "word_conf_31_40": "393",
+        "word_conf_41_50": "396",
+        "word_conf_51_60": "484",
+        "word_conf_61_70": "531",
+        "word_conf_71_80": "791",
+        "word_conf_81_90": "3667",
+        "word_conf_91_100": "227599",
+        "format": "OCR Search Text",
+        "original": "Arthashastra_hocr.html",
+        "mtime": "1717060849",
+        "size": "512149",
+        "md5": "6d4e1b37df865b92d159db5759c37398",
+        "crc32": "a229df72",
+        "sha1": "21ac699345d411492f709731cf889b448006e3ef"
+      },
+      {
+        "name": "Arthashastra_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Arthashastra.pdf",
+        "mtime": "1717056079",
+        "size": "349681171",
+        "md5": "8b9fa3dbe5ebaaed690f6840448bad35",
+        "crc32": "79b1888c",
+        "sha1": "d51fb7bf8207f430cb6956e85ebe1954b684b3f5",
+        "filecount": "874"
+      },
+      {
+        "name": "Arthashastra_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "Arthashastra_hocr.html",
+        "mtime": "1717061778",
+        "size": "148626",
+        "md5": "cb4347d5c011b62832bb0d85ce12a817",
+        "crc32": "27663ebd",
+        "sha1": "6cf5b6d27901d4594f43719d9f1b17cae5c8dced"
+      },
+      {
+        "name": "Arthashastra_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Arthashastra_djvu.xml",
+        "mtime": "1717061778",
+        "size": "280717",
+        "md5": "10d51cf74ab12c9700a61a0b54a922ea",
+        "crc32": "095408d3",
+        "sha1": "88f6930fac46d86244d3268a23a2d21ab1a7d85b"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1717061900",
+        "size": "21581",
+        "md5": "2dd2335c2e85b9f7541a4d5d24706d6c",
+        "crc32": "c1993fed",
+        "sha1": "d03f31af060ad6273ee80c0cae40fe6bf9767fe1",
+        "format": "Item Tile"
+      },
+      {
+        "name": "arthashastra_202405_archive.torrent",
+        "source": "metadata",
+        "btih": "2b39605669abeb1f18ea039b7b3e2f604f11ab29",
+        "mtime": "1717064901",
+        "size": "20737",
+        "md5": "e25061450a9859269aaa26bc8655799d",
+        "crc32": "28b43d17",
+        "sha1": "f752280f6230fec04cd9ee84f9bf3c2e714ae95d",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "arthashastra_202405_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "1bab13daae86472660b8006ee74cf797",
+        "summation": "md5"
+      },
+      {
+        "name": "arthashastra_202405_meta.sqlite",
+        "source": "original",
+        "mtime": "1717052578",
+        "size": "20480",
+        "md5": "e59b03f12e3df4f28555b35f3d462cfa",
+        "crc32": "66f10ac9",
+        "sha1": "9155cbed7a0bcac5699d4fc2d194753c0ccb31d9",
+        "format": "Metadata"
+      },
+      {
+        "name": "arthashastra_202405_meta.xml",
+        "source": "original",
+        "mtime": "1717061778",
+        "size": "1906",
+        "md5": "bc3a17e020ea88479d0447440d3c44cb",
+        "crc32": "09a92d6e",
+        "sha1": "f7d277050fe732cb568e3d6abd750d5e61003fc7",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1717064901,
+    "item_size": 446774757,
+    "metadata": {
+      "identifier": "arthashastra_202405",
+      "mediatype": "texts",
+      "collection": "opensource",
+      "creator": "Chanakya",
+      "description": "The <i><b>Arthashastra</b></i> (<span lang=\"sa\" xml:lang=\"sa\"><i><b>अर्थशास्त्रम्</b></i></span>) is an Ancient Indian Sanskrit treatise on statecraft, political science, economic policy and military strategy. Kautilya, also identified as Vishnugupta and Chanakya, is traditionally credited as the author of the text.",
+      "language": "eng",
+      "licenseurl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "Political Science",
+        "Economic Policy",
+        "Statecraft",
+        "Military Strategy",
+        "Arthashastra"
+      ],
+      "title": "Arthashastra",
+      "uploader": "sxcjoker53@gmail.com",
+      "publicdate": "2024-05-30 07:02:06",
+      "addeddate": "2024-05-30 07:02:06",
+      "curation": "[curator]validator@archive.org[/curator][date]20240530071040[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/arthashastra_202405",
+      "identifier-ark": "ark:/13960/s27n4mq0k46",
+      "ppi": "300",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9915",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia600600.us.archive.org",
+    "uniq": 546230718,
+    "workable_servers": [
+      "ia600600.us.archive.org",
+      "ia800600.us.archive.org"
+    ]
+  }
+}

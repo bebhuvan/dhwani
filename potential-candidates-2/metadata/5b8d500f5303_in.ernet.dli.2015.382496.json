@@ -1,0 +1,232 @@
+{
+  "work": {
+    "title": "Dasakumaracharita",
+    "author": "Dandin",
+    "original_language": "Sanskrit",
+    "search_terms": [
+      "Dasakumaracharita",
+      "Ten Princes",
+      "Dandin"
+    ],
+    "year_range": [
+      1900,
+      2023
+    ],
+    "category": "sanskrit_prose",
+    "search_mode": "translation"
+  },
+  "search_result": {
+    "creator": "M.r.kale",
+    "date": "1925-01-01T00:00:00Z",
+    "description": "Book Source: Digital Library of India Item 2015.382496 dc.contributor.author: M.r.kale dc.date.accessioned: 2015-09-09T14:20:42Z dc.date.available: 2015-09-09T14:20:42Z dc.date.digitalpublicationdate: 22/7/2004 dc.date.citation: 1925 dc.identifier.other: Poorna Prajna Vidya Pheeta Banglore dc.identifier.barcode: 02040100048892 dc.identifier.origpath: /data/upload/0048/897 dc.identifier.copyno: 1 dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/382496 dc.description.scanningcentre: S.V. Digital Library, Tirupati dc.description.main: 1 dc.description.tagged: 0 dc.description.totalpages: 577 dc.format.mimetype: application/pdf dc.language.iso: Multilingual dc.publisher.digitalrepublisher: Udl Ttd Tirupati dc.publisher: Gopal Narayan Bombay dc.source.library: Poorna Prajna Vidya Pheeta Banglore dc.title: Dasakumaracharita dc.type: Book",
+    "downloads": 3571,
+    "format": [
+      "Abbyy GZ",
+      "Additional Text PDF",
+      "Archive BitTorrent",
+      "Daisy",
+      "DjVuTXT",
+      "Djvu XML",
+      "EPUB",
+      "Image Container PDF",
+      "Item Tile",
+      "Metadata",
+      "Scandata",
+      "Single Page Processed JP2 ZIP"
+    ],
+    "identifier": "in.ernet.dli.2015.382496",
+    "language": "mul",
+    "subject": "SV",
+    "title": "Dasakumaracharita"
+  },
+  "detailed_metadata": {
+    "created": 1762483846,
+    "d1": "ia903201.us.archive.org",
+    "d2": "ia803201.us.archive.org",
+    "dir": "/16/items/in.ernet.dli.2015.382496",
+    "files": [
+      {
+        "name": "2015.382496.Dasakumaracharita.epub",
+        "source": "derivative",
+        "original": "2015.382496.Dasakumaracharita_abbyy.gz",
+        "mtime": "1711273535",
+        "size": "900347725",
+        "md5": "4e790b292f020811bdebc39a64c1e554",
+        "crc32": "5ce6375e",
+        "sha1": "2fc4763def9a79ad11ed00a246609fd5d7842bfa",
+        "format": "EPUB"
+      },
+      {
+        "name": "2015.382496.Dasakumaracharita.pdf",
+        "source": "original",
+        "mtime": "1484932196",
+        "size": "81896059",
+        "md5": "9a9d641a178c00a11e10762a45a40ac7",
+        "crc32": "2dfc8667",
+        "sha1": "9a18f4f99633f434f22831d3294cb24035c745c7",
+        "format": "Image Container PDF"
+      },
+      {
+        "name": "2015.382496.Dasakumaracharita_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "2015.382496.Dasakumaracharita_jp2.zip",
+        "mtime": "1492648534",
+        "size": "17755392",
+        "md5": "feb6d9dda7d64a795c22c0f62fd6f2ce",
+        "crc32": "f117f63c",
+        "sha1": "2f13e5f2d595a2b70e434397455568cdf4814425"
+      },
+      {
+        "name": "2015.382496.Dasakumaracharita_daisy.zip",
+        "source": "derivative",
+        "original": "2015.382496.Dasakumaracharita_abbyy.gz",
+        "mtime": "1725360659",
+        "size": "689300",
+        "md5": "30a4884e71b2f4722d201f3fff22e2b1",
+        "crc32": "626abb58",
+        "sha1": "6064b8ccc61914813ef9269077d1c0e4ab6e21b9",
+        "format": "Daisy",
+        "filecount": "9"
+      },
+      {
+        "name": "2015.382496.Dasakumaracharita_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "2015.382496.Dasakumaracharita_djvu.xml",
+        "mtime": "1492651437",
+        "size": "1088134",
+        "md5": "0c9bdeaa320f08f7a9b18488d0efe013",
+        "crc32": "4e66ea93",
+        "sha1": "b31b27a49933ddc24bb2ab13ceaa9c32e0c44a62"
+      },
+      {
+        "name": "2015.382496.Dasakumaracharita_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "2015.382496.Dasakumaracharita_abbyy.gz",
+        "mtime": "1492648881",
+        "size": "10491217",
+        "md5": "9be302e5ea990af2fc2ef3144d349933",
+        "crc32": "66cb40a4",
+        "sha1": "4e079cd5efc1d2eb37b33cab3283c9df4e7ecf4f"
+      },
+      {
+        "name": "2015.382496.Dasakumaracharita_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "2015.382496.Dasakumaracharita.pdf",
+        "mtime": "1492637873",
+        "size": "875035801",
+        "md5": "50fa9b80760e9619e25a624951ba1d5e",
+        "crc32": "020b897b",
+        "sha1": "bf308bd8a0a9bccdcf64d1fdbdeb4dcf9efeec29",
+        "filecount": "577"
+      },
+      {
+        "name": "2015.382496.Dasakumaracharita_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "2015.382496.Dasakumaracharita_djvu.xml",
+        "mtime": "1492651446",
+        "size": "173227",
+        "md5": "e5b17e7c923b5daef1f114830769007e",
+        "crc32": "e4959be7",
+        "sha1": "740b21c1cb06df13b80226406269bc1fa506c47c"
+      },
+      {
+        "name": "2015.382496.Dasakumaracharita_text.pdf",
+        "source": "derivative",
+        "format": "Additional Text PDF",
+        "original": "2015.382496.Dasakumaracharita_djvu.xml",
+        "mtime": "1492651430",
+        "size": "83660822",
+        "md5": "d5225c16f8b2363749e04bcee5c68660",
+        "crc32": "b72cb419",
+        "sha1": "f8a71cafb5a2b50017c0939707aea49161eb7d43"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1711273546",
+        "size": "9036",
+        "md5": "b217baa1ed5dce1ea911ad56cb9c3f2b",
+        "crc32": "99c5e831",
+        "sha1": "3000b559b861d7b065aaff780b462d805175f9d9",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "in.ernet.dli.2015.382496_archive.torrent",
+        "source": "metadata",
+        "btih": "6f3fb5030e5cae035169f265807849547b59c9ab",
+        "mtime": "1725360678",
+        "size": "41086",
+        "md5": "572e8c4550be4ae31f86b9f406d2d86c",
+        "crc32": "1d59fc0a",
+        "sha1": "6cfeaa1a1d9276b17b35b0b53d975ab735ac2e4e",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "in.ernet.dli.2015.382496_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "ef294af7f7c1185470cdf6b8cf7dc11e",
+        "summation": "md5"
+      },
+      {
+        "name": "in.ernet.dli.2015.382496_meta.sqlite",
+        "source": "original",
+        "mtime": "1484932215",
+        "size": "15360",
+        "md5": "adfcfeb96a36963a0464db38574eaaf7",
+        "crc32": "e4c9188c",
+        "sha1": "23ab6eb96ed23f4ce3af0434c4ce448d438e5651",
+        "format": "Metadata"
+      },
+      {
+        "name": "in.ernet.dli.2015.382496_meta.xml",
+        "source": "original",
+        "mtime": "1739274876",
+        "size": "2101",
+        "format": "Metadata",
+        "md5": "8e458c6dd8b69e02ff78bd8b8eed3099",
+        "crc32": "d8b44173",
+        "sha1": "3816fb3c8ccc49222bd974647d650eb8f129c101"
+      }
+    ],
+    "files_count": 14,
+    "item_last_updated": 1739274876,
+    "item_size": 1971205260,
+    "metadata": {
+      "identifier": "in.ernet.dli.2015.382496",
+      "creator": "M.r.kale",
+      "date": "1925",
+      "description": "<p><b>Book Source:</b> <a href=\"http://www.new.dli.ernet.in/handle/2015/382496\" rel=\"ugc nofollow\">Digital Library of India Item 2015.382496</a></p><p>dc.contributor.author: M.r.kale<br />dc.date.accessioned: 2015-09-09T14:20:42Z<br />dc.date.available: 2015-09-09T14:20:42Z<br />dc.date.digitalpublicationdate: 22/7/2004<br />dc.date.citation: 1925<br />dc.identifier.other: Poorna Prajna Vidya Pheeta Banglore<br />dc.identifier.barcode: 02040100048892<br />dc.identifier.origpath: /data/upload/0048/897<br />dc.identifier.copyno: 1<br />dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/382496<br />dc.description.scanningcentre: S.V. Digital Library, Tirupati<br />dc.description.main: 1<br />dc.description.tagged: 0<br />dc.description.totalpages: 577<br />dc.format.mimetype: application/pdf<br />dc.language.iso: Multilingual<br />dc.publisher.digitalrepublisher: Udl Ttd Tirupati<br />dc.publisher: Gopal Narayan Bombay<br />dc.source.library: Poorna Prajna Vidya Pheeta Banglore<br />dc.title: Dasakumaracharita<br />dc.type: Book<br /></p>",
+      "language": "mul",
+      "mediatype": "texts",
+      "scanner": "Internet Archive Python library 1.2.0.dev4",
+      "subject": "SV",
+      "title": "Dasakumaracharita",
+      "publicdate": "2017-01-20 17:09:56",
+      "uploader": "carl@media.org",
+      "addeddate": "2017-01-20 17:09:56",
+      "collection": [
+        "digitallibraryindia",
+        "JaiGyan"
+      ],
+      "identifier-access": "http://archive.org/details/in.ernet.dli.2015.382496",
+      "identifier-ark": "ark:/13960/t34229h6n",
+      "ppi": "600",
+      "ocr": "ABBYY FineReader 11.0",
+      "repub_state": "4",
+      "backup_location": "ia906305_11"
+    },
+    "server": "ia803201.us.archive.org",
+    "uniq": 1386091370,
+    "workable_servers": [
+      "ia803201.us.archive.org",
+      "ia903201.us.archive.org"
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "work": {
+    "title": "Silappatikaram",
+    "author": "Ilango Adigal",
+    "original_language": "Tamil",
+    "search_terms": [
+      "Silappatikaram",
+      "Shilappadikaram",
+      "Tamil epic"
+    ],
+    "year_range": [
+      1900,
+      2023
+    ],
+    "category": "tamil_epic",
+    "search_mode": "translation"
+  },
+  "search_result": {
+    "creator": "Ilango Adigal",
+    "date": "1965-01-01T00:00:00Z",
+    "description": "Shilappadikaram is the earliest Tamil epic. It is a poem of 5,730 lines in almost entirely akaval (aciriyam) meter. The epic is a tragic love story of an ordinary couple, Kannaki and her husband Kovalan. It is attributed to a prince-turned-monk Ilango Adigal, and was probably composed in the 5th or 6th century CE. Translated by Alain Danielou.",
+    "downloads": 524,
+    "format": [
+      "Archive BitTorrent",
+      "DjVuTXT",
+      "Djvu XML",
+      "EPUB",
+      "Item Tile",
+      "Metadata",
+      "OCR Page Index",
+      "OCR Search Text",
+      "Page Numbers JSON",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF",
+      "chOCR",
+      "hOCR"
+    ],
+    "identifier": "shilappadikaram",
+    "language": "eng",
+    "subject": [
+      "Sangam",
+      "Tamil",
+      "Classic",
+      "Love",
+      "Tragedy"
+    ],
+    "title": "Shilappadikaram"
+  },
+  "detailed_metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720001.ca.archive.org",
+          "dir": "/0/items/shilappadikaram"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720001.ca.archive.org",
+          "dir": "/0/items/shilappadikaram"
+        }
+      ]
+    },
+    "created": 1762482928,
+    "d1": "ia601402.us.archive.org",
+    "d2": "ia801402.us.archive.org",
+    "dir": "/14/items/shilappadikaram",
+    "files": [
+      {
+        "name": "Shilappadikaram - Ilango Adigal.epub",
+        "source": "original",
+        "mtime": "1740446386",
+        "size": "352164",
+        "md5": "edda0780e037c44c44d35f2edd8dbf9e",
+        "crc32": "6d14329b",
+        "sha1": "2f649e85870b851f68e91fda8116bc8fe34b33f2",
+        "format": "EPUB"
+      },
+      {
+        "name": "Shilappadikaram - Ilango Adigal.pdf",
+        "source": "original",
+        "mtime": "1740446374",
+        "size": "998406",
+        "md5": "7a3ca1872ee489608f3dfed226e93b6c",
+        "crc32": "6a19e90d",
+        "sha1": "65797c3115e4b6a8f5a3fd2e802abf8639f9ecab",
+        "format": "Text PDF",
+        "viruscheck": "1740446607"
+      },
+      {
+        "name": "Shilappadikaram - Ilango Adigal_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "Shilappadikaram - Ilango Adigal_jp2.zip",
+        "mtime": "1740505565",
+        "size": "4075598",
+        "md5": "dbc914a406a5efd9c0b0f3ca0a0b0958",
+        "crc32": "028b95ee",
+        "sha1": "83f9aec00b3d9ea7ec6e4326bd70d1a0b96ea20b"
+      },
+      {
+        "name": "Shilappadikaram - Ilango Adigal_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Shilappadikaram - Ilango Adigal_djvu.xml",
+        "mtime": "1740506377",
+        "size": "317606",
+        "md5": "4a73b6b79af26a5ba2e5a1a2af49693a",
+        "crc32": "de36c31c",
+        "sha1": "f2b1cf5eb41b4f42cc36e36a9fb95901505a3fa9"
+      },
+      {
+        "name": "Shilappadikaram - Ilango Adigal_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Shilappadikaram - Ilango Adigal_hocr.html",
+        "mtime": "1740505897",
+        "size": "4224025",
+        "md5": "7992f155123912bf4c3b0020294e373d",
+        "crc32": "2c4bcf2c",
+        "sha1": "a4aef8006e94958b2596644906618621346601a4"
+      },
+      {
+        "name": "Shilappadikaram - Ilango Adigal_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.3.0",
+        "hocr_char_to_word_hocr_version": "1.1.56",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "Shilappadikaram - Ilango Adigal_chocr.html.gz",
+        "mtime": "1740505812",
+        "size": "7767724",
+        "md5": "a5c6492ca56b5170cf9801db05d8e5a2",
+        "crc32": "f0fa5be8",
+        "sha1": "2fa6c33973fb2f9c1e36837275fa0ed276683804"
+      },
+      {
+        "name": "Shilappadikaram - Ilango Adigal_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.1.0",
+        "hocr_pageindex_hocr_version": "1.1.56",
+        "format": "OCR Page Index",
+        "original": "Shilappadikaram - Ilango Adigal_hocr.html",
+        "mtime": "1740506003",
+        "size": "1838",
+        "md5": "8ef991a2673e181099ceb0137a642ac8",
+        "crc32": "c4f7c4c3",
+        "sha1": "6306a4636563f7395f33392f2fa3a88a4b40fa55"
+      },
+      {
+        "name": "Shilappadikaram - Ilango Adigal_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.2.0",
+        "hocr_fts_text_hocr_version": "1.1.56",
+        "word_conf_0_10": "109",
+        "word_conf_11_20": "60",
+        "word_conf_21_30": "82",
+        "word_conf_31_40": "84",
+        "word_conf_41_50": "112",
+        "word_conf_51_60": "152",
+        "word_conf_61_70": "218",
+        "word_conf_71_80": "397",
+        "word_conf_81_90": "1291",
+        "word_conf_91_100": "51608",
+        "format": "OCR Search Text",
+        "original": "Shilappadikaram - Ilango Adigal_hocr.html",
+        "mtime": "1740506234",
+        "size": "118862",
+        "md5": "cf2082ba4c4dba38cba4e1d0ebbcf173",
+        "crc32": "1f72e968",
+        "sha1": "f295bd6062b40caa4e0929127adbdaa6a196f01f"
+      },
+      {
+        "name": "Shilappadikaram - Ilango Adigal_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Shilappadikaram - Ilango Adigal.pdf",
+        "mtime": "1740447545",
+        "size": "56289450",
+        "md5": "e004c4978cf8e93ed03f12fe29992d9b",
+        "crc32": "e3618b6f",
+        "sha1": "29285c841687daf449286d99ba885d8bd4f8ee38",
+        "filecount": "154"
+      },
+      {
+        "name": "Shilappadikaram - Ilango Adigal_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "Shilappadikaram - Ilango Adigal_hocr.html",
+        "mtime": "1740506626",
+        "size": "26222",
+        "md5": "58ca98b9bfd32463d5bfdd11cc21b0ee",
+        "crc32": "2809c946",
+        "sha1": "8506487e0d35012c2c6fdc5ab7b19e8f74e8ee8e"
+      },
+      {
+        "name": "Shilappadikaram - Ilango Adigal_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Shilappadikaram - Ilango Adigal_djvu.xml",
+        "mtime": "1740506627",
+        "size": "49592",
+        "md5": "98a25fd9d66bc639a583ff8ecc440a6f",
+        "crc32": "39ca08d4",
+        "sha1": "d855e025d5525211245f470927f583fa112bf92a"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1740506847",
+        "size": "20474",
+        "md5": "fc81518af12bb692e99a0de426df92b9",
+        "crc32": "5abf59ab",
+        "sha1": "9603fb145a1827999ba3cbc447245051abd5ec26",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "shilappadikaram_archive.torrent",
+        "source": "metadata",
+        "btih": "0996e80e7e2fe019b6de4534e1d8456c9ab05b67",
+        "mtime": "1740506850",
+        "size": "6680",
+        "md5": "bb28ac9612b9fb8ff29ac1ab5f507dde",
+        "crc32": "31e360aa",
+        "sha1": "0f4e522cf0185767d326d2d56c01bcd623e916d9",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "shilappadikaram_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "29fc6f92c6f5cd5cdc312ac41c13ef30",
+        "summation": "md5"
+      },
+      {
+        "name": "shilappadikaram_meta.sqlite",
+        "source": "original",
+        "mtime": "1740448297",
+        "size": "20480",
+        "md5": "57a26c8352eb2ed61132f0e4c1f6243c",
+        "crc32": "e2f2277d",
+        "sha1": "d3ff39f3437ef40bb7e89a8d7ecb6ef721c84984",
+        "format": "Metadata"
+      },
+      {
+        "name": "shilappadikaram_meta.xml",
+        "source": "original",
+        "mtime": "1740506627",
+        "size": "1788",
+        "md5": "93fdb6a82ef7153271626da8416d1638",
+        "crc32": "d0ebf241",
+        "sha1": "4e3a91d57eba2f4a46bc4680f68e0b83b040c551",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1740506850,
+    "item_size": 74270909,
+    "metadata": {
+      "identifier": "shilappadikaram",
+      "mediatype": "texts",
+      "collection": [
+        "opensource",
+        "community"
+      ],
+      "creator": "Ilango Adigal",
+      "date": "1965",
+      "description": "Shilappadikaram is the earliest Tamil epic. It is a poem of 5,730 lines in almost entirely akaval (aciriyam) meter. The epic is a tragic love story of an ordinary couple, Kannaki and her husband Kovalan. It is attributed to a prince-turned-monk Ilango Adigal, and was probably composed in the 5th or 6th century CE. Translated by Alain Danielou.",
+      "language": "eng",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "Sangam",
+        "Tamil",
+        "Classic",
+        "Love",
+        "Tragedy"
+      ],
+      "title": "Shilappadikaram",
+      "uploader": "sreekanth_j@yahoo.com",
+      "publicdate": "2022-12-03 05:06:21",
+      "addeddate": "2022-12-03 05:06:21",
+      "curation": "[curator]validator@archive.org[/curator][date]20221203050636[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/shilappadikaram",
+      "identifier-ark": "ark:/13960/s2vsxg8s55v",
+      "ppi": "300",
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000"
+    },
+    "server": "ia801402.us.archive.org",
+    "uniq": 1882340176,
+    "workable_servers": [
+      "ia801402.us.archive.org",
+      "ia601402.us.archive.org"
+    ]
+  }
+}
