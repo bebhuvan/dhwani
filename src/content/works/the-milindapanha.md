@@ -1,5 +1,5 @@
 ---
-title: 'The Milindapañho'
+title: The Milindapañho
 author:
 - Vilhelm Trenckner
 year: 1880
@@ -10,13 +10,35 @@ genre:
 - Dialogues
 - Pali literature
 - Religious texts
-description: |
-  The Milindapañho represents a pivotal philosophical text capturing the intellectual cross-pollination between Hellenistic and Buddhist thought in ancient India during the post-Mauryan period (circa 2nd century BCE). This sophisticated Pali dialogic work features intricate exchanges between Indo-Greek King Menander I (Milinda) and the Buddhist monk Nāgasena, exploring profound metaphysical and doctrinal questions through a rigorous dialectical method reminiscent of Greek philosophical traditions. Structured as a series of nuanced questions and penetrating responses, the text systematically examines core Buddhist philosophical concepts such as anatta (non-self), karma, rebirth, and the nature of consciousness, demonstrating remarkable intellectual sophistication in navigating complex philosophical terrain. Trenckner's 1880 critical edition made this manuscript accessible to Western scholarship, revealing the remarkable intellectual exchanges occurring along the Hellenistic-Indian frontier. The text illuminates the syncretic intellectual environment of Northwestern India, where Greek philosophical methods intersected with Buddhist contemplative traditions, producing a unique philosophical discourse that transcended cultural boundaries. Beyond its philosophical significance, the Milindapañho offers crucial insights into the religious syncretism, intercultural dialogue, and philosophical pluralism characteristic of the Indo-Greek kingdoms. Its systematic exploration of Buddhist doctrine through dialectical reasoning provides scholars with an extraordinary window into the sophisticated intellectual practices of ancient Indian religious and philosophical thought, demonstrating the remarkable capacity for philosophical innovation and cross-cultural intellectual engagement during this transformative historical period.
+description: 'The Milindapañho represents a pivotal philosophical text capturing the
+  intellectual cross-pollination between Hellenistic and Buddhist thought in ancient
+  India during the post-Mauryan period (circa 2nd century BCE). This sophisticated
+  Pali dialogic work features intricate exchanges between Indo-Greek King Menander
+  I (Milinda) and the Buddhist monk Nāgasena, exploring profound metaphysical and
+  doctrinal questions through a rigorous dialectical method reminiscent of Greek philosophical
+  traditions. Structured as a series of nuanced questions and penetrating responses,
+  the text systematically examines core Buddhist philosophical concepts such as anatta
+  (non-self), karma, rebirth, and the nature of consciousness, demonstrating remarkable
+  intellectual sophistication in navigating complex philosophical terrain. Trenckner''s
+  1880 critical edition made this manuscript accessible to Western scholarship, revealing
+  the remarkable intellectual exchanges occurring along the Hellenistic-Indian frontier.
+  The text illuminates the syncretic intellectual environment of Northwestern India,
+  where Greek philosophical methods intersected with Buddhist contemplative traditions,
+  producing a unique philosophical discourse that transcended cultural boundaries.
+  Beyond its philosophical significance, the Milindapañho offers crucial insights
+  into the religious syncretism, intercultural dialogue, and philosophical pluralism
+  characteristic of the Indo-Greek kingdoms. Its systematic exploration of Buddhist
+  doctrine through dialectical reasoning provides scholars with an extraordinary window
+  into the sophisticated intellectual practices of ancient Indian religious and philosophical
+  thought, demonstrating the remarkable capacity for philosophical innovation and
+  cross-cultural intellectual engagement during this transformative historical period.
+
+  '
 collections:
 - buddhist-texts
 - pali-literature
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/milindapahobeing00tren
   type: other
 references:
@@ -44,6 +66,9 @@ references:
 - name: 'Open Library: The Milindapañho year'
   url: https://openlibrary.org/search?q=The+Milindapañho+year+1880+language+Pali+Vilhelm+Trenckner
   type: other
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: false
 publishDate: 2025-10-30
 ---

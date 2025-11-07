@@ -1,5 +1,5 @@
 ---
-title: 'The Dhammapada'
+title: The Dhammapada
 author:
 - F. Max Müller
 year: 1881
@@ -9,19 +9,40 @@ genre:
 - Buddhism—Sacred books
 - Pali literature
 - Buddhist canonical texts
-description: |
-  F. Max Müller's seminal 1881 English translation of the Dhammapada represents a critical milestone in the scholarly interpretation of Buddhist canonical literature, emerging during the late 19th-century European engagement with Asian philosophical traditions. Comprising 423 verses attributed to Gautama Buddha, this translation—part of the influential Sacred Books of the East series—provided unprecedented access to a foundational Pali text that encapsulates core Buddhist ethical and philosophical principles. Rooted in the Theravada Buddhist tradition, the Dhammapada articulates profound insights into human psychology, moral development, and the transformative path of spiritual cultivation. Müller's scholarly rendering meticulously translated verses that explore fundamental Buddhist concepts such as impermanence (anicca), suffering (dukkha), and the cultivation of mindful awareness, making these complex philosophical constructs intelligible to Western academic and spiritual audiences. The work's significance extends beyond mere linguistic translation, serving as a crucial scholarly intervention that contextualized Buddhist thought within emerging comparative religious studies. By presenting the Buddha's teachings with philological precision, Müller facilitated cross-cultural philosophical dialogue and introduced nuanced Buddhist epistemological frameworks to European intellectual circles. The translation's methodical approach illuminated core Buddhist principles of personal responsibility, mental discipline, and the potential for individual transformation through conscious awareness, thereby bridging substantial hermeneutical and cultural distances between Eastern contemplative traditions and Western scholarly discourse.
+description: 'F. Max Müller''s seminal 1881 English translation of the Dhammapada
+  represents a critical milestone in the scholarly interpretation of Buddhist canonical
+  literature, emerging during the late 19th-century European engagement with Asian
+  philosophical traditions. Comprising 423 verses attributed to Gautama Buddha, this
+  translation—part of the influential Sacred Books of the East series—provided unprecedented
+  access to a foundational Pali text that encapsulates core Buddhist ethical and philosophical
+  principles. Rooted in the Theravada Buddhist tradition, the Dhammapada articulates
+  profound insights into human psychology, moral development, and the transformative
+  path of spiritual cultivation. Müller''s scholarly rendering meticulously translated
+  verses that explore fundamental Buddhist concepts such as impermanence (anicca),
+  suffering (dukkha), and the cultivation of mindful awareness, making these complex
+  philosophical constructs intelligible to Western academic and spiritual audiences.
+  The work''s significance extends beyond mere linguistic translation, serving as
+  a crucial scholarly intervention that contextualized Buddhist thought within emerging
+  comparative religious studies. By presenting the Buddha''s teachings with philological
+  precision, Müller facilitated cross-cultural philosophical dialogue and introduced
+  nuanced Buddhist epistemological frameworks to European intellectual circles. The
+  translation''s methodical approach illuminated core Buddhist principles of personal
+  responsibility, mental discipline, and the potential for individual transformation
+  through conscious awareness, thereby bridging substantial hermeneutical and cultural
+  distances between Eastern contemplative traditions and Western scholarly discourse.
+
+  '
 collections:
 - buddhist-texts
 - scholarly-translations
 sources:
-- name: 'Internet Archive (Original Edition)'
+- name: Internet Archive (Original Edition)
   url: https://archive.org/details/thedhammapada00unknuoft
   type: other
-- name: 'Internet Archive (Sacred Books of the East - Volume 1)'
+- name: Internet Archive (Sacred Books of the East - Volume 1)
   url: https://archive.org/details/dhammapadacollection01ml
   type: other
-- name: 'Internet Archive (Sacred Books of the East - Volume 2)'
+- name: Internet Archive (Sacred Books of the East - Volume 2)
   url: https://archive.org/details/dhammapadacollec02ml
   type: other
 references:
@@ -46,6 +67,9 @@ references:
 - name: 'Open Library: F. Max Müller'
   url: https://openlibrary.org/authors/OL1950A/F._Max_Müller
   type: openlibrary
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: false
 publishDate: 2025-10-26
 ---

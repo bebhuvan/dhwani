@@ -1,5 +1,5 @@
 ---
-title: 'Tikapatthana of the Abhidhamma Pitaka'
+title: Tikapatthana of the Abhidhamma Pitaka
 author:
 - Buddhaghosa
 - Caroline Augusta Foley Rhys Davids
@@ -11,13 +11,35 @@ genre:
 - Abhidhamma Pitaka
 - Pali canonical texts
 - Buddhist commentary
-description: |
-  The Tikapatthana represents a seminal scholarly exposition of Buddhist metaphysical and philosophical analysis within the Abhidhamma Pitaka, a foundational text of Theravada Buddhist scholastic tradition. Composed during the transformative early 5th century CE in Sri Lanka, this critical commentary emerges from a period of intense philosophical systematization and intellectual consolidation in Buddhist thought. Attributed to the renowned scholar-monk Buddhaghosa, who was instrumental in synthesizing and codifying earlier Buddhist commentarial traditions, the work provides a meticulous philosophical exploration of doctrinal categories and conceptual frameworks underlying Buddhist metaphysical understanding. Buddhaghosa, originally from the Indian subcontinent and working within the intellectual milieu of Anuradhapura, Sri Lanka, drew upon extensive Pali canonical sources to construct a comprehensive philosophical apparatus that would profoundly influence Buddhist hermeneutics across South and Southeast Asia. The Tikapatthana critically examines complex Buddhist ontological principles, particularly focusing on the intricate relationships between mental phenomena, consciousness states, and philosophical categories of experience. Its methodical analysis represents a pivotal moment in the development of Buddhist philosophical discourse, demonstrating sophisticated analytical techniques that transformed understanding of consciousness, causality, and phenomenological experience. As a cornerstone text in the Abhidhamma tradition, it exemplifies the remarkable intellectual sophistication of Indian Buddhist scholarship, presenting a nuanced philosophical framework that transcends mere doctrinal exposition to offer profound insights into the nature of perception, cognition, and existential understanding.
+description: 'The Tikapatthana represents a seminal scholarly exposition of Buddhist
+  metaphysical and philosophical analysis within the Abhidhamma Pitaka, a foundational
+  text of Theravada Buddhist scholastic tradition. Composed during the transformative
+  early 5th century CE in Sri Lanka, this critical commentary emerges from a period
+  of intense philosophical systematization and intellectual consolidation in Buddhist
+  thought. Attributed to the renowned scholar-monk Buddhaghosa, who was instrumental
+  in synthesizing and codifying earlier Buddhist commentarial traditions, the work
+  provides a meticulous philosophical exploration of doctrinal categories and conceptual
+  frameworks underlying Buddhist metaphysical understanding. Buddhaghosa, originally
+  from the Indian subcontinent and working within the intellectual milieu of Anuradhapura,
+  Sri Lanka, drew upon extensive Pali canonical sources to construct a comprehensive
+  philosophical apparatus that would profoundly influence Buddhist hermeneutics across
+  South and Southeast Asia. The Tikapatthana critically examines complex Buddhist
+  ontological principles, particularly focusing on the intricate relationships between
+  mental phenomena, consciousness states, and philosophical categories of experience.
+  Its methodical analysis represents a pivotal moment in the development of Buddhist
+  philosophical discourse, demonstrating sophisticated analytical techniques that
+  transformed understanding of consciousness, causality, and phenomenological experience.
+  As a cornerstone text in the Abhidhamma tradition, it exemplifies the remarkable
+  intellectual sophistication of Indian Buddhist scholarship, presenting a nuanced
+  philosophical framework that transcends mere doctrinal exposition to offer profound
+  insights into the nature of perception, cognition, and existential understanding.
+
+  '
 collections:
 - buddhist-texts
 - pali-literature
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/tikapatthanaofab03budduoft
   type: other
 references:
@@ -33,6 +55,9 @@ references:
 - name: 'Open Library: Tikapatthana of the Abhidhamma'
   url: https://openlibrary.org/search?q=Tikapatthana+of+the+Abhidhamma+Pitaka+year+Buddhaghosa
   type: other
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: false
 publishDate: 2025-10-30
 ---

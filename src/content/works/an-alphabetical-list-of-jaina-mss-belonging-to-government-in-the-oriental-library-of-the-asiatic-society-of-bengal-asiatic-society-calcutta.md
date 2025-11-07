@@ -1,5 +1,6 @@
 ---
-title: 'An alphabetical list of Jaina MSS, belonging to government in the Oriental Library of the Asiatic Society of Bengal'
+title: An alphabetical list of Jaina MSS, belonging to government in the Oriental
+  Library of the Asiatic Society of Bengal
 author:
 - Asiatic Society (Calcutta, India). Library
 - Kuñjavihr Nyyabhshana, Pandit
@@ -8,16 +9,40 @@ language:
 - English
 genre:
 - Buddhist & Jain Literature
-description: |
-  During the late British colonial period, this comprehensive alphabetical catalog of Jaina manuscripts represents a pivotal moment in the systematic documentation and preservation of India's textual heritage. Published in 1908 by the Asiatic Society of Bengal, the work emerges during a critical scholarly era characterized by rigorous manuscript classification and archival practices. The catalog meticulously inventories Jaina manuscripts held in the government's Oriental Library, reflecting the emerging scholarly methodologies of manuscript preservation that were instrumental in understanding and protecting India's complex religious and literary traditions.
-  
-  This work is particularly significant within the broader context of colonial-era scholarship, where European and Indian scholars collaborated to document and analyze India's extensive manuscript collections. The Jaina manuscript list provides crucial insights into the textual traditions of Jainism, a significant indigenous philosophical and religious tradition with roots tracing back to the 6th century BCE. By cataloging these manuscripts alphabetically, the work enables scholars to understand the breadth and depth of Jain literary production, including philosophical treatises, religious commentaries, historical texts, and literary compositions.
-  
-  The catalog's importance extends beyond mere bibliographic documentation. It represents an essential scholarly intervention in preserving intellectual knowledge that might have otherwise been lost during a period of significant cultural and political transformation. By systematically recording and organizing these manuscripts, the Asiatic Society of Bengal contributed to a critical preservation effort that would inform future research in Indology, religious studies, linguistics, and cultural history, providing subsequent generations with a detailed window into the rich intellectual landscape of Jain textual traditions.
+description: 'During the late British colonial period, this comprehensive alphabetical
+  catalog of Jaina manuscripts represents a pivotal moment in the systematic documentation
+  and preservation of India''s textual heritage. Published in 1908 by the Asiatic
+  Society of Bengal, the work emerges during a critical scholarly era characterized
+  by rigorous manuscript classification and archival practices. The catalog meticulously
+  inventories Jaina manuscripts held in the government''s Oriental Library, reflecting
+  the emerging scholarly methodologies of manuscript preservation that were instrumental
+  in understanding and protecting India''s complex religious and literary traditions.
+
+
+  This work is particularly significant within the broader context of colonial-era
+  scholarship, where European and Indian scholars collaborated to document and analyze
+  India''s extensive manuscript collections. The Jaina manuscript list provides crucial
+  insights into the textual traditions of Jainism, a significant indigenous philosophical
+  and religious tradition with roots tracing back to the 6th century BCE. By cataloging
+  these manuscripts alphabetically, the work enables scholars to understand the breadth
+  and depth of Jain literary production, including philosophical treatises, religious
+  commentaries, historical texts, and literary compositions.
+
+
+  The catalog''s importance extends beyond mere bibliographic documentation. It represents
+  an essential scholarly intervention in preserving intellectual knowledge that might
+  have otherwise been lost during a period of significant cultural and political transformation.
+  By systematically recording and organizing these manuscripts, the Asiatic Society
+  of Bengal contributed to a critical preservation effort that would inform future
+  research in Indology, religious studies, linguistics, and cultural history, providing
+  subsequent generations with a detailed window into the rich intellectual landscape
+  of Jain textual traditions.
+
+  '
 collections:
 - buddhist-texts
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/alphabeticallist00asia
   type: archive
 references:
@@ -30,6 +55,9 @@ references:
 - name: 'OpenLibrary: An alphabetical list of Jaina '
   url: https://openlibrary.org/works/OL2854076W
   type: other
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: false
 publishDate: 2025-01-22
 ---

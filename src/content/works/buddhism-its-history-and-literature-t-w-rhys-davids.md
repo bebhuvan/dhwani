@@ -9,12 +9,35 @@ genre:
 - Religious Studies
 - History
 - Buddhist Literature
-description: |
-  Published during the intellectually vibrant interwar period of colonial British India, "Buddhism: Its History and Literature" represents a critical scholarly intervention in understanding Buddhist intellectual traditions through rigorous Western academic methodologies. T.W. Rhys Davids, a pioneering British Orientalist and linguist who mastered Pali and conducted extensive research in Ceylon (modern Sri Lanka), synthesizes decades of scholarly investigation into a comprehensive examination of Buddhism's historical development and textual genealogy. The work emerges from a transformative moment in colonial scholarship, when European researchers were systematically documenting and analyzing Eastern religious traditions with unprecedented scholarly precision. Rhys Davids, as founder of the Pali Text Society, played a pivotal role in translating and interpreting complex Buddhist canonical texts, making them accessible to Western academic audiences while simultaneously generating nuanced insights into the philosophical and historical dimensions of Buddhist thought. The text traces Buddhism's evolutionary trajectory from Gautama Buddha's foundational teachings through the emergence of diverse philosophical schools, doctrinal interpretations, and textual traditions across South and Southeast Asia. By employing comparative historical analysis and philological methodologies, Rhys Davids illuminates the intricate intellectual networks that shaped Buddhist philosophical discourse, demonstrating how religious ideas circulated, transformed, and developed across cultural boundaries. His work is particularly significant in contextualizing Buddhism as a dynamic, intellectually sophisticated tradition deeply embedded in India's complex cultural and philosophical landscape, challenging prevailing colonial-era reductive representations of Eastern religious thought.
+description: 'Published during the intellectually vibrant interwar period of colonial
+  British India, "Buddhism: Its History and Literature" represents a critical scholarly
+  intervention in understanding Buddhist intellectual traditions through rigorous
+  Western academic methodologies. T.W. Rhys Davids, a pioneering British Orientalist
+  and linguist who mastered Pali and conducted extensive research in Ceylon (modern
+  Sri Lanka), synthesizes decades of scholarly investigation into a comprehensive
+  examination of Buddhism''s historical development and textual genealogy. The work
+  emerges from a transformative moment in colonial scholarship, when European researchers
+  were systematically documenting and analyzing Eastern religious traditions with
+  unprecedented scholarly precision. Rhys Davids, as founder of the Pali Text Society,
+  played a pivotal role in translating and interpreting complex Buddhist canonical
+  texts, making them accessible to Western academic audiences while simultaneously
+  generating nuanced insights into the philosophical and historical dimensions of
+  Buddhist thought. The text traces Buddhism''s evolutionary trajectory from Gautama
+  Buddha''s foundational teachings through the emergence of diverse philosophical
+  schools, doctrinal interpretations, and textual traditions across South and Southeast
+  Asia. By employing comparative historical analysis and philological methodologies,
+  Rhys Davids illuminates the intricate intellectual networks that shaped Buddhist
+  philosophical discourse, demonstrating how religious ideas circulated, transformed,
+  and developed across cultural boundaries. His work is particularly significant in
+  contextualizing Buddhism as a dynamic, intellectually sophisticated tradition deeply
+  embedded in India''s complex cultural and philosophical landscape, challenging prevailing
+  colonial-era reductive representations of Eastern religious thought.
+
+  '
 collections:
 - spiritual-texts
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/buddhismitshisto00davi
   type: other
 references:
@@ -24,9 +47,12 @@ references:
 - name: 'Wikipedia: Buddhism'
   url: https://en.wikipedia.org/wiki/Buddhism
   type: wikipedia
-- name: 'Open Library'
+- name: Open Library
   url: https://openlibrary.org/search?q=Buddhism+History+Literature+Rhys+Davids&mode=everything
   type: other
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: true
 publishDate: 2025-10-21
 ---

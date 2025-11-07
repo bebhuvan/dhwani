@@ -1,5 +1,5 @@
 ---
-title: 'Asoka, the Buddhist Emperor of India'
+title: Asoka, the Buddhist Emperor of India
 author:
 - Vincent Arthur Smith
 year: 1920
@@ -8,13 +8,36 @@ language:
 genre:
 - Biography
 - History
-description: |
-  Vincent Arthur Smith's seminal biographical study "Asoka, the Buddhist Emperor of India" represents a critical scholarly examination of one of the most transformative monarchs in ancient Indian history, published during the complex intellectual landscape of British colonial historiography. Focusing on the Mauryan emperor Ashoka (304-232 BCE), Smith's work meticulously reconstructs the political, cultural, and religious trajectory of a ruler who fundamentally reshaped the sociopolitical and spiritual dimensions of the Indian subcontinent. Drawing upon archaeological evidence, inscriptional records, and contemporary textual sources, Smith provides a comprehensive analysis of Ashoka's remarkable transition from a military conquerer to a philosophical Buddhist monarch committed to ethical governance and universal moral principles. The biography critically examines Ashoka's implementation of dharmic governance, his extensive administrative reforms, and his pioneering role in propagating Buddhist teachings across South and Central Asia. Smith's scholarly approach contextualizes Ashoka within the broader Mauryan imperial framework, exploring the complex interactions between political power, religious philosophy, and imperial administration. As a prominent British Orientalist historian, Smith's work significantly contributed to Western scholarly understanding of pre-colonial Indian civilization, offering a nuanced interpretation that challenged contemporary colonial narratives about Indian historical and cultural development. The biography remains a foundational text in understanding the intellectual, political, and spiritual transformations of the Mauryan period, providing crucial insights into how a single ruler's philosophical evolution could profoundly influence an entire civilization's cultural and ethical landscape.
+description: 'Vincent Arthur Smith''s seminal biographical study "Asoka, the Buddhist
+  Emperor of India" represents a critical scholarly examination of one of the most
+  transformative monarchs in ancient Indian history, published during the complex
+  intellectual landscape of British colonial historiography. Focusing on the Mauryan
+  emperor Ashoka (304-232 BCE), Smith''s work meticulously reconstructs the political,
+  cultural, and religious trajectory of a ruler who fundamentally reshaped the sociopolitical
+  and spiritual dimensions of the Indian subcontinent. Drawing upon archaeological
+  evidence, inscriptional records, and contemporary textual sources, Smith provides
+  a comprehensive analysis of Ashoka''s remarkable transition from a military conquerer
+  to a philosophical Buddhist monarch committed to ethical governance and universal
+  moral principles. The biography critically examines Ashoka''s implementation of
+  dharmic governance, his extensive administrative reforms, and his pioneering role
+  in propagating Buddhist teachings across South and Central Asia. Smith''s scholarly
+  approach contextualizes Ashoka within the broader Mauryan imperial framework, exploring
+  the complex interactions between political power, religious philosophy, and imperial
+  administration. As a prominent British Orientalist historian, Smith''s work significantly
+  contributed to Western scholarly understanding of pre-colonial Indian civilization,
+  offering a nuanced interpretation that challenged contemporary colonial narratives
+  about Indian historical and cultural development. The biography remains a foundational
+  text in understanding the intellectual, political, and spiritual transformations
+  of the Mauryan period, providing crucial insights into how a single ruler''s philosophical
+  evolution could profoundly influence an entire civilization''s cultural and ethical
+  landscape.
+
+  '
 collections:
 - modern-literature
 - spiritual-texts
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/asokabuddhistemp00smitiala
   type: other
 references:
@@ -27,6 +50,9 @@ references:
 - name: 'Open Library: Asoka, the Buddhist Emperor'
   url: https://openlibrary.org/search?q=Asoka+the+Buddhist+Emperor+of+India+Vincent+Arthur+Smith
   type: other
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: true
 publishDate: 2025-10-30
 ---

@@ -1,5 +1,6 @@
 ---
-title: 'The Trident, The Crescent and The Cross: A View of the Religious History of India During the Hindu, Buddhist, Mohammedan and Christian Periods'
+title: 'The Trident, The Crescent and The Cross: A View of the Religious History of
+  India During the Hindu, Buddhist, Mohammedan and Christian Periods'
 author:
 - Herbert M. Vaughan
 year: 1907
@@ -8,18 +9,44 @@ language:
 genre:
 - Religious History
 - Comparative Religion
-description: |
-  Published in 1907 during the late British colonial period, Herbert M. Vaughan's "The Trident, The Crescent and The Cross" represents a critical scholarly examination of India's complex religious landscape at a pivotal moment of imperial intellectual engagement. Emerging from the complex academic milieu of early 20th-century Orientalist scholarship, the work offers a comprehensive historical survey tracing religious transformations across the Indian subcontinent from ancient Hindu civilizations through the emergence of Buddhism, the Islamic medieval period, and culminating in the Christian colonial era. Vaughan's meticulously researched text draws upon contemporary archaeological evidence, textual analysis, and emerging anthropological methodologies to construct a nuanced chronological narrative of religious development and interreligious dynamics. By systematically exploring the theological, cultural, and sociopolitical interactions between Hinduism, Buddhism, Islam, and Christianity, the work provides unprecedented insight into the syncretic religious traditions that shaped the Indian subcontinent's intellectual and spiritual heritage. The text is particularly significant in its attempt to contextualize religious evolution within broader historical frameworks, demonstrating how theological systems both influenced and were transformed by political, social, and cultural shifts. Vaughan's scholarly approach, while reflective of colonial-era perspectives, nonetheless represents an important early academic effort to comprehensively document and analyze India's rich religious pluralism. The work stands as a critical historical document capturing the intellectual discourse surrounding religious studies during a complex transitional period in Indian cultural and scholarly understanding, bridging indigenous knowledge traditions with emerging Western academic methodologies.
+description: 'Published in 1907 during the late British colonial period, Herbert M.
+  Vaughan''s "The Trident, The Crescent and The Cross" represents a critical scholarly
+  examination of India''s complex religious landscape at a pivotal moment of imperial
+  intellectual engagement. Emerging from the complex academic milieu of early 20th-century
+  Orientalist scholarship, the work offers a comprehensive historical survey tracing
+  religious transformations across the Indian subcontinent from ancient Hindu civilizations
+  through the emergence of Buddhism, the Islamic medieval period, and culminating
+  in the Christian colonial era. Vaughan''s meticulously researched text draws upon
+  contemporary archaeological evidence, textual analysis, and emerging anthropological
+  methodologies to construct a nuanced chronological narrative of religious development
+  and interreligious dynamics. By systematically exploring the theological, cultural,
+  and sociopolitical interactions between Hinduism, Buddhism, Islam, and Christianity,
+  the work provides unprecedented insight into the syncretic religious traditions
+  that shaped the Indian subcontinent''s intellectual and spiritual heritage. The
+  text is particularly significant in its attempt to contextualize religious evolution
+  within broader historical frameworks, demonstrating how theological systems both
+  influenced and were transformed by political, social, and cultural shifts. Vaughan''s
+  scholarly approach, while reflective of colonial-era perspectives, nonetheless represents
+  an important early academic effort to comprehensively document and analyze India''s
+  rich religious pluralism. The work stands as a critical historical document capturing
+  the intellectual discourse surrounding religious studies during a complex transitional
+  period in Indian cultural and scholarly understanding, bridging indigenous knowledge
+  traditions with emerging Western academic methodologies.
+
+  '
 collections:
 - spiritual-texts
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/tridentcrescentc00vaug
   type: other
 references:
-- name: 'Open Library'
+- name: Open Library
   url: https://openlibrary.org/search?q=The+Trident%2C+The+Crescent+and+The+Cross&mode=everything
   type: other
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: true
 publishDate: 2025-10-02
 ---

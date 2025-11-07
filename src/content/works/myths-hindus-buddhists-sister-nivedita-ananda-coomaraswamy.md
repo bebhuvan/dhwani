@@ -1,5 +1,5 @@
 ---
-title: 'Myths of the Hindus & Buddhists'
+title: Myths of the Hindus & Buddhists
 author:
 - Sister Nivedita
 - Ananda Coomaraswamy
@@ -10,12 +10,35 @@ genre:
 - Mythology
 - Religious Studies
 - Cultural Studies
-description: |
-  "Myths of the Hindus & Buddhists" represents a seminal early 20th-century scholarly exploration of Indian mythological traditions, produced during a critical period of cultural translation and intellectual exchange between India and the West. Published in 1913 during the late colonial era, the work emerges from the collaborative scholarship of Sister Nivedita (Margaret Noble), an Irish-born disciple of Swami Vivekananda, and Ananda Coomaraswamy, a pioneering Ceylon-born art historian and cultural theorist. Their text meticulously unpacks complex Hindu and Buddhist mythological narratives, offering Western audiences a nuanced, scholarly interpretation of India's rich spiritual and symbolic traditions. Drawing from Sanskrit textual sources including the Puranas, Mahabharata, and Buddhist canonical texts, the work provides comprehensive analyses of fundamental mythological cycles, divine narratives, and metaphysical concepts. Coomaraswamy's rigorous scholarly methodology combined with Nivedita's intimate understanding of Indian spiritual philosophy enabled a profound hermeneutic approach that transcended mere literal translation. The work critically illuminates philosophical and symbolic dimensions of Indian mythology, exploring themes of cosmic order, divine intervention, human dharma, and spiritual transformation. By contextualizing mythological narratives within broader cultural and philosophical frameworks, Nivedita and Coomaraswamy challenged prevailing Orientalist representations and presented Indian spiritual traditions as sophisticated, intellectually complex systems of thought. Their collaborative scholarship significantly contributed to global understanding of Indian cultural heritage, establishing an important scholarly precedent for cross-cultural mythological interpretation and fostering deeper transnational intellectual engagement with Indian philosophical and religious traditions.
+description: '"Myths of the Hindus & Buddhists" represents a seminal early 20th-century
+  scholarly exploration of Indian mythological traditions, produced during a critical
+  period of cultural translation and intellectual exchange between India and the West.
+  Published in 1913 during the late colonial era, the work emerges from the collaborative
+  scholarship of Sister Nivedita (Margaret Noble), an Irish-born disciple of Swami
+  Vivekananda, and Ananda Coomaraswamy, a pioneering Ceylon-born art historian and
+  cultural theorist. Their text meticulously unpacks complex Hindu and Buddhist mythological
+  narratives, offering Western audiences a nuanced, scholarly interpretation of India''s
+  rich spiritual and symbolic traditions. Drawing from Sanskrit textual sources including
+  the Puranas, Mahabharata, and Buddhist canonical texts, the work provides comprehensive
+  analyses of fundamental mythological cycles, divine narratives, and metaphysical
+  concepts. Coomaraswamy''s rigorous scholarly methodology combined with Nivedita''s
+  intimate understanding of Indian spiritual philosophy enabled a profound hermeneutic
+  approach that transcended mere literal translation. The work critically illuminates
+  philosophical and symbolic dimensions of Indian mythology, exploring themes of cosmic
+  order, divine intervention, human dharma, and spiritual transformation. By contextualizing
+  mythological narratives within broader cultural and philosophical frameworks, Nivedita
+  and Coomaraswamy challenged prevailing Orientalist representations and presented
+  Indian spiritual traditions as sophisticated, intellectually complex systems of
+  thought. Their collaborative scholarship significantly contributed to global understanding
+  of Indian cultural heritage, establishing an important scholarly precedent for cross-cultural
+  mythological interpretation and fostering deeper transnational intellectual engagement
+  with Indian philosophical and religious traditions.
+
+  '
 collections:
 - spiritual-texts
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/mythsofthehindus00niveuoft
   type: other
 references:
@@ -25,9 +48,12 @@ references:
 - name: 'Wikipedia: Sister Nivedita'
   url: https://en.wikipedia.org/wiki/Sister_Nivedita
   type: wikipedia
-- name: 'Open Library'
+- name: Open Library
   url: https://openlibrary.org/search?q=Myths+of+the+Hindus+%26+Buddhists&mode=everything
   type: other
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: false
 publishDate: 2025-09-28
 ---

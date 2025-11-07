@@ -9,21 +9,46 @@ genre:
 - Children's Literature
 - Buddhist Literature
 - Folklore
-description: |
-  Ellen C. Babbitt's "Jataka Tales: Animal Stories" represents a significant cross-cultural translation and adaptation of classical Buddhist narrative traditions, bridging late colonial-era intellectual discourse with traditional Indian philosophical storytelling. Published in 1912, the work draws from the extensive Pali Canon's jātaka corpus, which chronicles the previous life incarnations (births) of Siddhartha Gautama Buddha, presenting moral and philosophical teachings through allegorical animal narratives. Babbitt's scholarly approach transformed these ancient didactic texts into accessible children's literature, making complex Buddhist ethical principles comprehensible to Western audiences during a period of increasing transnational cultural exchange. As an American educator deeply engaged with comparative religious studies, she carefully selected and translated stories that emphasized universal moral principles of compassion, wisdom, selflessness, and ethical conduct. These narratives, originating from centuries-old South Asian oral and textual traditions, typically feature animals demonstrating human-like qualities of intelligence, sacrifice, and moral reasoning—a narrative technique characteristic of Indian philosophical storytelling. The collection's significance extends beyond mere translation, serving as a critical intermediary text that introduced Western readers to the sophisticated moral philosophy embedded in Buddhist narrative traditions. By presenting these stories for children, Babbitt contributed to a broader intellectual movement that sought to contextualize Eastern philosophical wisdom within global pedagogical and literary frameworks, facilitating cross-cultural understanding during a complex period of colonial intellectual exchange and emerging postcolonial consciousness.
+description: 'Ellen C. Babbitt''s "Jataka Tales: Animal Stories" represents a significant
+  cross-cultural translation and adaptation of classical Buddhist narrative traditions,
+  bridging late colonial-era intellectual discourse with traditional Indian philosophical
+  storytelling. Published in 1912, the work draws from the extensive Pali Canon''s
+  jātaka corpus, which chronicles the previous life incarnations (births) of Siddhartha
+  Gautama Buddha, presenting moral and philosophical teachings through allegorical
+  animal narratives. Babbitt''s scholarly approach transformed these ancient didactic
+  texts into accessible children''s literature, making complex Buddhist ethical principles
+  comprehensible to Western audiences during a period of increasing transnational
+  cultural exchange. As an American educator deeply engaged with comparative religious
+  studies, she carefully selected and translated stories that emphasized universal
+  moral principles of compassion, wisdom, selflessness, and ethical conduct. These
+  narratives, originating from centuries-old South Asian oral and textual traditions,
+  typically feature animals demonstrating human-like qualities of intelligence, sacrifice,
+  and moral reasoning—a narrative technique characteristic of Indian philosophical
+  storytelling. The collection''s significance extends beyond mere translation, serving
+  as a critical intermediary text that introduced Western readers to the sophisticated
+  moral philosophy embedded in Buddhist narrative traditions. By presenting these
+  stories for children, Babbitt contributed to a broader intellectual movement that
+  sought to contextualize Eastern philosophical wisdom within global pedagogical and
+  literary frameworks, facilitating cross-cultural understanding during a complex
+  period of colonial intellectual exchange and emerging postcolonial consciousness.
+
+  '
 collections:
 - modern-literature
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/jatakatalesanima00babb
   type: other
 references:
 - name: 'Wikipedia: Jataka tales'
   url: https://en.wikipedia.org/wiki/Jataka_tales
   type: wikipedia
-- name: 'Open Library'
+- name: Open Library
   url: https://openlibrary.org/search?q=Jataka+Tales+Animal+Stories+Babbitt&mode=everything
   type: other
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: true
 publishDate: 2025-10-22
 ---

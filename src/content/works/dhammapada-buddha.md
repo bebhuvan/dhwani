@@ -1,40 +1,78 @@
 ---
-title: "Dhammapada (Path of Dharma)"
-author: ["The Buddha"]
+title: Dhammapada (Path of Dharma)
+author:
+- The Buddha
 year: -300
-language: ["Pali", "English"]
-genre: ["Buddhist Literature", "Religious Texts", "Poetry", "Wisdom Literature"]
-description: "The Dhammapada stands as Buddhism's most beloved and widely translated text, comprising 423 verses across 26 chapters distilling the Buddha's ethical and spiritual teachings into memorable aphorisms accessible to all practitioners. Composed in Pali and forming part of the Khuddaka Nikaya (Minor Collection) within the Sutta Pitaka, these verses address fundamental themes: impermanence, suffering's causes, mind's primacy in creating experience, ethical conduct's importance, meditation practice, wisdom development, and liberation attainment. Each verse employs simple yet profound language, often paradoxical or metaphorical, designed for memorization and contemplation. The text's democratic accessibility—requiring no specialized philosophical training while offering depths for advanced practitioners—explains its enduring popularity across Buddhist traditions and beyond. F.L. Woodward's and Max Müller's English translations introduced this foundational text to Western audiences, revealing Buddhism's practical ethical emphasis and psychological sophistication."
-collections: ['buddhist-texts', 'pali-literature', 'religious-texts', 'ancient-wisdom', 'poetry-collection', 'spiritual-texts']
+language:
+- Pali
+- English
+genre:
+- Buddhist Literature
+- Religious Texts
+- Poetry
+- Wisdom Literature
+description: 'The Dhammapada stands as Buddhism''s most beloved and widely translated
+  text, comprising 423 verses across 26 chapters distilling the Buddha''s ethical
+  and spiritual teachings into memorable aphorisms accessible to all practitioners.
+  Composed in Pali and forming part of the Khuddaka Nikaya (Minor Collection) within
+  the Sutta Pitaka, these verses address fundamental themes: impermanence, suffering''s
+  causes, mind''s primacy in creating experience, ethical conduct''s importance, meditation
+  practice, wisdom development, and liberation attainment. Each verse employs simple
+  yet profound language, often paradoxical or metaphorical, designed for memorization
+  and contemplation. The text''s democratic accessibility—requiring no specialized
+  philosophical training while offering depths for advanced practitioners—explains
+  its enduring popularity across Buddhist traditions and beyond. F.L. Woodward''s
+  and Max Müller''s English translations introduced this foundational text to Western
+  audiences, revealing Buddhism''s practical ethical emphasis and psychological sophistication.'
+collections:
+- buddhist-texts
+- pali-literature
+- religious-texts
+- ancient-wisdom
+- poetry-collection
+- spiritual-texts
 sources:
-  - name: "Project Gutenberg (F.L. Woodward translation)"
-    url: "https://www.gutenberg.org/ebooks/2017"
-    type: "other"
-  - name: "Project Gutenberg (Max Müller translation)"
-    url: "https://www.gutenberg.org/ebooks/2014"
-    type: "other"
+- name: Project Gutenberg (F.L. Woodward translation)
+  url: https://www.gutenberg.org/ebooks/2017
+  type: other
+- name: Project Gutenberg (Max Müller translation)
+  url: https://www.gutenberg.org/ebooks/2014
+  type: other
 references:
-  - name: "Wikipedia: Dhammapada"
-    url: "https://en.wikipedia.org/wiki/Dhammapada"
-    type: "wikipedia"
-  - name: "Wikipedia: Pali Canon"
-    url: "https://en.wikipedia.org/wiki/Pali_Canon"
-    type: "wikipedia"
-  - name: "Wikipedia: Buddha"
-    url: "https://en.wikipedia.org/wiki/Gautama_Buddha"
-    type: "wikipedia"
-  - name: "Wikipedia: Buddhist texts"
-    url: "https://en.wikipedia.org/wiki/Buddhist_texts"
-    type: "wikipedia"
-  - name: "Wikisource: Dhammapada (Max Müller translation)"
-    url: "https://en.wikisource.org/wiki/Dhammapada_(Muller)"
-    type: "wikisource"
-  - name: "OpenLibrary: The Dhammapada"
-    url: "https://openlibrary.org/works/OL6670789W/The_Dhammapada"
-    type: "openlibrary"
+- name: 'Wikipedia: Dhammapada'
+  url: https://en.wikipedia.org/wiki/Dhammapada
+  type: wikipedia
+- name: 'Wikipedia: Pali Canon'
+  url: https://en.wikipedia.org/wiki/Pali_Canon
+  type: wikipedia
+- name: 'Wikipedia: Buddha'
+  url: https://en.wikipedia.org/wiki/Gautama_Buddha
+  type: wikipedia
+- name: 'Wikipedia: Buddhist texts'
+  url: https://en.wikipedia.org/wiki/Buddhist_texts
+  type: wikipedia
+- name: 'Wikisource: Dhammapada (Max Müller translation)'
+  url: https://en.wikisource.org/wiki/Dhammapada_(Muller)
+  type: wikisource
+- name: 'OpenLibrary: The Dhammapada'
+  url: https://openlibrary.org/works/OL6670789W/The_Dhammapada
+  type: openlibrary
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: true
 publishDate: 2025-10-30
-tags: ["Dhammapada", "Buddhism", "Pali Canon", "Buddhist ethics", "wisdom literature", "meditation", "Theravada", "ancient India", "religious texts", "public domain"]
+tags:
+- Dhammapada
+- Buddhism
+- Pali Canon
+- Buddhist ethics
+- wisdom literature
+- meditation
+- Theravada
+- ancient India
+- religious texts
+- public domain
 ---
 
 # Dhammapada (Path of Dharma)

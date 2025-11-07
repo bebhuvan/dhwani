@@ -1,5 +1,5 @@
 ---
-title: "Bodhicharyavatara (A Guide to the Bodhisattva's Way of Life)"
+title: Bodhicharyavatara (A Guide to the Bodhisattva's Way of Life)
 author:
 - Shantideva
 year: 700
@@ -10,39 +10,53 @@ genre:
 - Mahayana Buddhism
 - Spiritual Literature
 - Poetry
-description: |
-  The Bodhicharyavatara ('Entering the Path of Enlightenment') emerged during the remarkable Pala Empire period (750-1174 CE), a golden age of Buddhist intellectual and artistic development in northeastern India, when monastic universities like Nalanda were flourishing as global centers of learning. Written by the Buddhist monk Shantideva, likely associated with Nalanda University during the 8th century, the text reflects a critical moment of philosophical sophistication in Mahayana Buddhist thought, when complex metaphysical and ethical frameworks were being systematically articulated. This celebrated 8th-century masterpiece presents the Mahayana Buddhist path of the bodhisattva—the spiritual warrior who vows to attain enlightenment for the benefit of all sentient beings. This profound yet accessible text combines philosophical depth with practical guidance on cultivating compassion, wisdom, and skillful conduct.
+description: 'The Bodhicharyavatara (''Entering the Path of Enlightenment'') emerged
+  during the remarkable Pala Empire period (750-1174 CE), a golden age of Buddhist
+  intellectual and artistic development in northeastern India, when monastic universities
+  like Nalanda were flourishing as global centers of learning. Written by the Buddhist
+  monk Shantideva, likely associated with Nalanda University during the 8th century,
+  the text reflects a critical moment of philosophical sophistication in Mahayana
+  Buddhist thought, when complex metaphysical and ethical frameworks were being systematically
+  articulated. This celebrated 8th-century masterpiece presents the Mahayana Buddhist
+  path of the bodhisattva—the spiritual warrior who vows to attain enlightenment for
+  the benefit of all sentient beings. This profound yet accessible text combines philosophical
+  depth with practical guidance on cultivating compassion, wisdom, and skillful conduct.
+
+  '
 collections:
 - buddhist-texts
 - buddhist-texts
 - spiritual-texts
 - ancient-wisdom
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/bodhicaryavatara00sant
   type: other
-- name: 'Sacred Texts'
+- name: Sacred Texts
   url: https://sacred-texts.com/bud/index.htm
   type: other
 references:
-- name: "Wikipedia: Bodhicharyavatara"
+- name: 'Wikipedia: Bodhicharyavatara'
   url: https://en.wikipedia.org/wiki/Bodhisattvacharyāvatāra
   type: wikipedia
-- name: "Wikipedia: Shantideva"
+- name: 'Wikipedia: Shantideva'
   url: https://en.wikipedia.org/wiki/Shantideva
   type: wikipedia
-- name: "Wikipedia: Bodhisattva"
+- name: 'Wikipedia: Bodhisattva'
   url: https://en.wikipedia.org/wiki/Bodhisattva
   type: wikipedia
-- name: "Wikipedia: Mahayana"
+- name: 'Wikipedia: Mahayana'
   url: https://en.wikipedia.org/wiki/Mahayana
   type: wikipedia
-- name: "Wikipedia: Bodhicitta"
+- name: 'Wikipedia: Bodhicitta'
   url: https://en.wikipedia.org/wiki/Bodhicitta
   type: wikipedia
-- name: "Open Library: Bodhicharyavatara (A Guide to"
+- name: 'Open Library: Bodhicharyavatara (A Guide to'
   url: https://openlibrary.org/search?q=Bodhicharyavatara+A+Guide+to+the+Bodhisattvas+Shantideva
   type: other
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: true
 publishDate: 2025-10-30
 ---

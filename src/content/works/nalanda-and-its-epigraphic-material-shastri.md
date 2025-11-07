@@ -1,5 +1,5 @@
 ---
-title: 'Nalanda and Its Epigraphic Material'
+title: Nalanda and Its Epigraphic Material
 author:
 - Hiranand Shastri
 year: 1942
@@ -10,22 +10,48 @@ genre:
 - Epigraphy
 - Archaeology
 - Buddhist Studies
-description: |
-  In the late colonial period of British India, amidst profound archaeological and historical reassessments, Hiranand Shastri's 1942 Memoirs (Archaeological Survey of India No. 66) represent a pivotal scholarly intervention in understanding Nalanda's complex Buddhist intellectual ecosystem. Situated within the broader context of national historical reconstruction, this comprehensive epigraphic catalog meticulously documents the administrative, economic, and intellectual infrastructures of one of medieval India's most significant monastic universities. Shastri's work critically examines hundreds of inscriptions, revealing intricate networks of donor relationships, institutional governance, and scholarly patronage that characterized Nalanda's remarkable academic environment between the 5th and 12th centuries CE. By systematically analyzing Sanskrit and Prakrit inscriptions, Shastri illuminates the university's sophisticated organizational structures, including its curriculum, funding mechanisms, and intellectual exchanges with regional and transnational Buddhist networks. The text provides unprecedented insights into the socio-economic dynamics of medieval Indian educational institutions, demonstrating how epigraphic evidence can reconstruct complex institutional histories. For scholars of Buddhist studies, medieval Indian history, and archaeological methodologies, Shastri's work represents a foundational text that transcends mere documentation, offering a nuanced understanding of knowledge production, institutional power, and cultural transmission in pre-colonial Indian intellectual landscapes. His meticulous research not only recovers a critical chapter of India's educational heritage but also challenges colonial-era narratives about indigenous scholarly traditions, positioning Nalanda as a globally significant center of learning, philosophical innovation, and cross-cultural intellectual exchange.
+description: 'In the late colonial period of British India, amidst profound archaeological
+  and historical reassessments, Hiranand Shastri''s 1942 Memoirs (Archaeological Survey
+  of India No. 66) represent a pivotal scholarly intervention in understanding Nalanda''s
+  complex Buddhist intellectual ecosystem. Situated within the broader context of
+  national historical reconstruction, this comprehensive epigraphic catalog meticulously
+  documents the administrative, economic, and intellectual infrastructures of one
+  of medieval India''s most significant monastic universities. Shastri''s work critically
+  examines hundreds of inscriptions, revealing intricate networks of donor relationships,
+  institutional governance, and scholarly patronage that characterized Nalanda''s
+  remarkable academic environment between the 5th and 12th centuries CE. By systematically
+  analyzing Sanskrit and Prakrit inscriptions, Shastri illuminates the university''s
+  sophisticated organizational structures, including its curriculum, funding mechanisms,
+  and intellectual exchanges with regional and transnational Buddhist networks. The
+  text provides unprecedented insights into the socio-economic dynamics of medieval
+  Indian educational institutions, demonstrating how epigraphic evidence can reconstruct
+  complex institutional histories. For scholars of Buddhist studies, medieval Indian
+  history, and archaeological methodologies, Shastri''s work represents a foundational
+  text that transcends mere documentation, offering a nuanced understanding of knowledge
+  production, institutional power, and cultural transmission in pre-colonial Indian
+  intellectual landscapes. His meticulous research not only recovers a critical chapter
+  of India''s educational heritage but also challenges colonial-era narratives about
+  indigenous scholarly traditions, positioning Nalanda as a globally significant center
+  of learning, philosophical innovation, and cross-cultural intellectual exchange.
+
+  '
 collections:
 - ancient-wisdom
 - modern-literature
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/in.ernet.dli.2015.35487
   type: other
 references:
 - name: 'Wikipedia: Nalanda'
   url: https://en.wikipedia.org/wiki/Nalanda
   type: wikipedia
-- name: 'Open Library'
+- name: Open Library
   url: https://openlibrary.org/search?q=Nalanda+Epigraphic+Material+Shastri&mode=everything
   type: other
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: true
 publishDate: 2025-10-22
 ---

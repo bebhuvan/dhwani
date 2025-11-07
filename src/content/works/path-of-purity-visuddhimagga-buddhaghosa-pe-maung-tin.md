@@ -1,5 +1,5 @@
 ---
-title: 'The Path of Purity (Visuddhimagga)'
+title: The Path of Purity (Visuddhimagga)
 author:
 - Buddhaghosa
 - tr. Pe Maung Tin
@@ -11,22 +11,44 @@ genre:
 - Buddhist Philosophy
 - Religious Literature
 - Meditation Manual
-description: |
-  The *Visuddhimagga* represents a seminal work of Theravada Buddhist scholarship, composed in the early 5th century CE in Sri Lanka during the classical period of Buddhist systematic philosophy. Authored by the renowned Buddhist commentator Buddhaghosa, working at the Mahavihara monastery in Anuravideh (modern Colombo), the text comprehensively synthesizes earlier Buddhist doctrinal and contemplative traditions into a systematic treatise on meditation, philosophical psychology, and soteriological practice. Drawing from Pali canonical sources and extensive monastic commentarial traditions, Buddhaghosa's work provides an exhaustive phenomenological mapping of mental states, meditation techniques, and the progressive stages of spiritual cultivation leading to enlightenment. The text is critically important for understanding the intellectual developments of Indian Buddhist thought, particularly the Theravada school's sophisticated epistemological and contemplative frameworks. It systematically explores the nature of consciousness, detailed meditation methodologies, and the progressive transformations of consciousness through contemplative practices, offering an intricate schema of mental purification and liberation. Significantly, the *Visuddhimagga* bridges scholastic Buddhist philosophy with practical contemplative techniques, demonstrating the complex interplay between theoretical understanding and experiential transformation characteristic of Indian spiritual traditions. Pe Maung Tin's 1922 English translation through the Pali Text Society marked a crucial moment in making this sophisticated philosophical manual accessible to Western scholarly and practitioner audiences, facilitating cross-cultural understanding of Buddhist contemplative science and philosophical psychology.
+description: 'The *Visuddhimagga* represents a seminal work of Theravada Buddhist
+  scholarship, composed in the early 5th century CE in Sri Lanka during the classical
+  period of Buddhist systematic philosophy. Authored by the renowned Buddhist commentator
+  Buddhaghosa, working at the Mahavihara monastery in Anuravideh (modern Colombo),
+  the text comprehensively synthesizes earlier Buddhist doctrinal and contemplative
+  traditions into a systematic treatise on meditation, philosophical psychology, and
+  soteriological practice. Drawing from Pali canonical sources and extensive monastic
+  commentarial traditions, Buddhaghosa''s work provides an exhaustive phenomenological
+  mapping of mental states, meditation techniques, and the progressive stages of spiritual
+  cultivation leading to enlightenment. The text is critically important for understanding
+  the intellectual developments of Indian Buddhist thought, particularly the Theravada
+  school''s sophisticated epistemological and contemplative frameworks. It systematically
+  explores the nature of consciousness, detailed meditation methodologies, and the
+  progressive transformations of consciousness through contemplative practices, offering
+  an intricate schema of mental purification and liberation. Significantly, the *Visuddhimagga*
+  bridges scholastic Buddhist philosophy with practical contemplative techniques,
+  demonstrating the complex interplay between theoretical understanding and experiential
+  transformation characteristic of Indian spiritual traditions. Pe Maung Tin''s 1922
+  English translation through the Pali Text Society marked a crucial moment in making
+  this sophisticated philosophical manual accessible to Western scholarly and practitioner
+  audiences, facilitating cross-cultural understanding of Buddhist contemplative science
+  and philosophical psychology.
+
+  '
 collections:
 - spiritual-texts
 - ancient-wisdom
 sources:
-- name: 'Internet Archive (Pe Maung Tin translation, Vol 1)'
+- name: Internet Archive (Pe Maung Tin translation, Vol 1)
   url: https://archive.org/details/pathofpuritybein01budduoft
   type: other
-- name: "Internet Archive (Buddhaghosa's Parables)"
+- name: Internet Archive (Buddhaghosa's Parables)
   url: https://archive.org/details/buddhaghoshaspar00budd
   type: other
-- name: 'Internet Archive (Cornell University Edition)'
+- name: Internet Archive (Cornell University Edition)
   url: https://archive.org/details/cu31924077744054
   type: other
-- name: 'Sacred Texts'
+- name: Sacred Texts
   url: https://sacred-texts.com/bud/index.htm
   type: other
 references:
@@ -36,9 +58,12 @@ references:
 - name: 'Wikipedia: Buddhaghosa'
   url: https://en.wikipedia.org/wiki/Buddhaghosa
   type: wikipedia
-- name: 'Open Library'
+- name: Open Library
   url: https://openlibrary.org/search?q=Path+of+Purity+Visuddhimagga+Buddhaghosa&mode=everything
   type: other
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: true
 publishDate: 2025-10-21
 ---

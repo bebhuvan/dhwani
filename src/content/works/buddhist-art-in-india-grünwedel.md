@@ -1,5 +1,5 @@
 ---
-title: 'Buddhist art in India'
+title: Buddhist art in India
 author:
 - Grünwedel
 - Albert
@@ -10,12 +10,37 @@ language:
 genre:
 - Arts & Aesthetics
 - Buddhist & Jain Literature
-description: |
-  Buddhist art in India by Albert Grünwedel represents a pivotal scholarly contribution to understanding Buddhist visual traditions during the late 19th and early 20th centuries, emerging from the complex intellectual landscape of European Orientalist scholarship. Published in 1901, the work is rooted in the German academic tradition of systematic cultural documentation, reflecting the period's intense scholarly engagement with Asian cultural heritage during the colonial era. Grünwedel, a prominent German Indologist and archaeologist affiliated with the Berlin Museum's ethnographic collections, drew upon extensive research from archaeological expeditions to Central Asia and the Indian subcontinent, offering a meticulously detailed exploration of Buddhist iconographic development across multiple historical periods. The work provides critical insights into the visual languages of Buddhist artistic expression, systematically analyzing sculptural forms, architectural elements, and iconographic representations from regions including Gandhara, Central Asia, and the Indian heartland. Grünwedel's comprehensive approach integrated archaeological evidence, textual analysis, and comparative cultural studies, presenting a nuanced understanding of how Buddhist artistic traditions evolved through complex interactions between indigenous Indian aesthetic traditions and external cultural influences. By documenting intricate details of Buddhist visual culture—including representations of the Buddha, Bodhisattvas, narrative scenes, and symbolic motifs—the text became a foundational reference for subsequent scholars studying Buddhist art history. Its significance extends beyond mere aesthetic documentation, offering profound insights into the philosophical, religious, and social contexts that shaped artistic production in pre-modern Indian Buddhist communities, thereby contributing substantially to understanding the broader intellectual and cultural dynamics of the region during a transformative historical period.
+description: 'Buddhist art in India by Albert Grünwedel represents a pivotal scholarly
+  contribution to understanding Buddhist visual traditions during the late 19th and
+  early 20th centuries, emerging from the complex intellectual landscape of European
+  Orientalist scholarship. Published in 1901, the work is rooted in the German academic
+  tradition of systematic cultural documentation, reflecting the period''s intense
+  scholarly engagement with Asian cultural heritage during the colonial era. Grünwedel,
+  a prominent German Indologist and archaeologist affiliated with the Berlin Museum''s
+  ethnographic collections, drew upon extensive research from archaeological expeditions
+  to Central Asia and the Indian subcontinent, offering a meticulously detailed exploration
+  of Buddhist iconographic development across multiple historical periods. The work
+  provides critical insights into the visual languages of Buddhist artistic expression,
+  systematically analyzing sculptural forms, architectural elements, and iconographic
+  representations from regions including Gandhara, Central Asia, and the Indian heartland.
+  Grünwedel''s comprehensive approach integrated archaeological evidence, textual
+  analysis, and comparative cultural studies, presenting a nuanced understanding of
+  how Buddhist artistic traditions evolved through complex interactions between indigenous
+  Indian aesthetic traditions and external cultural influences. By documenting intricate
+  details of Buddhist visual culture—including representations of the Buddha, Bodhisattvas,
+  narrative scenes, and symbolic motifs—the text became a foundational reference for
+  subsequent scholars studying Buddhist art history. Its significance extends beyond
+  mere aesthetic documentation, offering profound insights into the philosophical,
+  religious, and social contexts that shaped artistic production in pre-modern Indian
+  Buddhist communities, thereby contributing substantially to understanding the broader
+  intellectual and cultural dynamics of the region during a transformative historical
+  period.
+
+  '
 collections:
 - buddhist-texts
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/buddhistartinind00gruoft
   type: other
 references:
@@ -46,6 +71,9 @@ references:
 - name: 'Wikisource: Buddhist art in India...'
   url: https://en.wikisource.org/wiki/Asoka_-_the_Buddhist_Emperor_of_India/Chapter_1
   type: wikisource
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: false
 publishDate: 2025-01-22
 ---

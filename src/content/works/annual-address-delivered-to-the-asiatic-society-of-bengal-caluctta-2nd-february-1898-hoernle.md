@@ -1,5 +1,6 @@
 ---
-title: 'Annual address delivered to the Asiatic Society of Bengal, Caluctta, 2nd February, 1898'
+title: Annual address delivered to the Asiatic Society of Bengal, Caluctta, 2nd February,
+  1898
 author:
 - Hoernle, August Friedrich Rudolf, 1841-1918
 - Asiatic Society (Calcutta, India)
@@ -9,19 +10,46 @@ language:
 genre:
 - History & Culture
 - Buddhist & Jain Literature
-description: |
-  August Friedrich Rudolf Hoernle's annual address to the Asiatic Society of Bengal represents a critical scholarly intervention in late 19th-century Orientalist research, illuminating the complex intellectual landscape of British colonial scholarship in India. Delivered during a transformative period of cultural documentation and linguistic analysis, this work exemplifies the systematic European scholarly engagement with Indian historical and religious traditions. Hoernle, a distinguished German Indologist employed by the British colonial administration, brought rigorous linguistic and paleographic methodologies to the study of ancient Indian manuscripts, particularly focusing on Buddhist and Jain textual traditions. His address synthesizes emerging scholarly insights into the archaeological, linguistic, and cultural dimensions of South Asian heritage, reflecting the period's intellectual ambitions to systematically catalog and interpret India's rich intellectual history. The work is particularly significant for its nuanced examination of Buddhist manuscript traditions, drawing on Hoernle's extensive expertise in paleography and comparative linguistics. By presenting detailed scholarly observations about manuscript preservation, linguistic evolution, and cultural transmission, Hoernle contributed substantially to understanding the complex intellectual networks that sustained religious and literary traditions across the Indian subcontinent. His research methodology represented a sophisticated approach to cultural documentation that went beyond mere colonial documentation, seeking to comprehend the intrinsic intellectual mechanisms of Indian scholarly traditions. The address stands as a pivotal text in the emerging discipline of Indology, bridging European scholarly perspectives with indigenous knowledge systems and providing crucial insights into the intellectual exchanges that characterized late 19th-century scholarly engagement with Indian cultural heritage.
+description: 'August Friedrich Rudolf Hoernle''s annual address to the Asiatic Society
+  of Bengal represents a critical scholarly intervention in late 19th-century Orientalist
+  research, illuminating the complex intellectual landscape of British colonial scholarship
+  in India. Delivered during a transformative period of cultural documentation and
+  linguistic analysis, this work exemplifies the systematic European scholarly engagement
+  with Indian historical and religious traditions. Hoernle, a distinguished German
+  Indologist employed by the British colonial administration, brought rigorous linguistic
+  and paleographic methodologies to the study of ancient Indian manuscripts, particularly
+  focusing on Buddhist and Jain textual traditions. His address synthesizes emerging
+  scholarly insights into the archaeological, linguistic, and cultural dimensions
+  of South Asian heritage, reflecting the period''s intellectual ambitions to systematically
+  catalog and interpret India''s rich intellectual history. The work is particularly
+  significant for its nuanced examination of Buddhist manuscript traditions, drawing
+  on Hoernle''s extensive expertise in paleography and comparative linguistics. By
+  presenting detailed scholarly observations about manuscript preservation, linguistic
+  evolution, and cultural transmission, Hoernle contributed substantially to understanding
+  the complex intellectual networks that sustained religious and literary traditions
+  across the Indian subcontinent. His research methodology represented a sophisticated
+  approach to cultural documentation that went beyond mere colonial documentation,
+  seeking to comprehend the intrinsic intellectual mechanisms of Indian scholarly
+  traditions. The address stands as a pivotal text in the emerging discipline of Indology,
+  bridging European scholarly perspectives with indigenous knowledge systems and providing
+  crucial insights into the intellectual exchanges that characterized late 19th-century
+  scholarly engagement with Indian cultural heritage.
+
+  '
 collections:
 - historical-texts
 - buddhist-texts
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/annualaddressdel00hoeruoft
   type: archive
 references:
 - name: 'Open Library: Annual address delivered to'
   url: https://openlibrary.org/search?q=Annual+address+delivered+to+the+Asiatic+Hoernle+August+Friedrich+Rudolf+1841-1918
   type: other
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: false
 publishDate: 2025-01-22
 ---

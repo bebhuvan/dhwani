@@ -11,13 +11,36 @@ genre:
 - Buddhism
 - Buddhist sutras
 - Pali literature
-description: |
-  Charles Francis Horne's 1917 anthology represents a landmark scholarly compilation of Buddhist textual heritage during an era of emerging cross-cultural intellectual exchange between Western scholarship and Indian philosophical traditions. Compiled during the late colonial period, this comprehensive volume systematically introduces American readers to foundational Buddhist writings, presenting carefully translated primary sources spanning multiple genres and historical periods. The work synthesizes diverse textual materials including royal inscriptions like Asoka's edicts, early canonical suttas, narrative Jataka tales, philosophical excerpts from the Dhammapada, and critical historical documents that illuminate Buddhist intellectual and spiritual development. Situated within the Progressive Era's growing academic interest in comparative religious studies, Horne's anthology strategically bridges scholarly rigor with accessible narrative, making complex philosophical and historical materials comprehensible to educated non-specialists. By presenting meticulously contextualized translations, the volume offers critical insights into Buddhist literary traditions, philosophical concepts, ethical frameworks, and historical transformations across different regional and temporal contexts of the Indian subcontinent. The anthology's significance extends beyond mere translation, representing an important moment in cross-cultural intellectual transmission where Western scholars began systematically engaging with and interpreting Indian sacred literature. Through careful selection and scholarly annotation, Horne's work helps decode the nuanced philosophical and cultural complexity of Buddhist textual traditions, making an important contribution to early twentieth-century understanding of Indian intellectual heritage and religious thought.
+description: 'Charles Francis Horne''s 1917 anthology represents a landmark scholarly
+  compilation of Buddhist textual heritage during an era of emerging cross-cultural
+  intellectual exchange between Western scholarship and Indian philosophical traditions.
+  Compiled during the late colonial period, this comprehensive volume systematically
+  introduces American readers to foundational Buddhist writings, presenting carefully
+  translated primary sources spanning multiple genres and historical periods. The
+  work synthesizes diverse textual materials including royal inscriptions like Asoka''s
+  edicts, early canonical suttas, narrative Jataka tales, philosophical excerpts from
+  the Dhammapada, and critical historical documents that illuminate Buddhist intellectual
+  and spiritual development. Situated within the Progressive Era''s growing academic
+  interest in comparative religious studies, Horne''s anthology strategically bridges
+  scholarly rigor with accessible narrative, making complex philosophical and historical
+  materials comprehensible to educated non-specialists. By presenting meticulously
+  contextualized translations, the volume offers critical insights into Buddhist literary
+  traditions, philosophical concepts, ethical frameworks, and historical transformations
+  across different regional and temporal contexts of the Indian subcontinent. The
+  anthology''s significance extends beyond mere translation, representing an important
+  moment in cross-cultural intellectual transmission where Western scholars began
+  systematically engaging with and interpreting Indian sacred literature. Through
+  careful selection and scholarly annotation, Horne''s work helps decode the nuanced
+  philosophical and cultural complexity of Buddhist textual traditions, making an
+  important contribution to early twentieth-century understanding of Indian intellectual
+  heritage and religious thought.
+
+  '
 collections:
 - buddhist-texts
 - scholarly-translations
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/sacredbooksearly10hornuoft
   type: other
 references:
@@ -30,9 +53,12 @@ references:
 - name: 'Wikipedia: Pali Canon'
   url: https://en.wikipedia.org/wiki/Pali_Canon
   type: wikipedia
-- name: 'Open Library'
+- name: Open Library
   url: https://openlibrary.org/books/OL14691633M/The_Sacred_books_and_early_literature_of_the_East
   type: openlibrary
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: false
 publishDate: 2025-10-26
 ---

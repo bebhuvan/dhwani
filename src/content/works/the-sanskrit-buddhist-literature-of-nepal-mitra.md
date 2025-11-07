@@ -1,5 +1,5 @@
 ---
-title: 'The Sanskrit Buddhist Literature of Nepal'
+title: The Sanskrit Buddhist Literature of Nepal
 author:
 - Rajendralala Mitra
 year: 1882
@@ -9,13 +9,38 @@ genre:
 - Buddhist Studies
 - Philology
 - Bibliography
-description: |
-  Rajendralala Mitra's seminal 1882 scholarly work represents a groundbreaking documentation of Sanskrit Buddhist manuscripts preserved in Nepal's monastic libraries during a critical period of historical manuscript preservation. Emerging in the late 19th century when many Buddhist textual traditions were at risk of permanent loss, Mitra's comprehensive catalogue meticulously documented manuscripts from the Newar Buddhist communities, capturing textual traditions that had largely disappeared from the Indian subcontinent following the decline of Buddhist institutional networks after the 12th century. The work is particularly significant in revealing the extensive Mahayana and Vajrayana manuscript collections that survived in Nepal's secluded monastic libraries, providing scholars with unprecedented insights into Buddhist intellectual and philosophical developments that were otherwise unattested in contemporary textual records. Mitra, a prominent Bengali intellectual and scholar associated with the Asiatic Society of Bengal, employed rigorous philological methodologies to catalog and describe these manuscripts, identifying numerous texts previously unknown to scholarly communities in India and Europe. His systematic approach included detailed descriptions of manuscript provenance, physical characteristics, and critical textual analysis, thereby establishing foundational research methodologies for Buddhist manuscript studies. The publication critically illuminates Nepal's role as a crucial repository of Buddhist literary heritage, demonstrating how peripheral regions preserved intellectual traditions that had been systematically marginalized or destroyed in their original geographical contexts. By meticulously documenting these manuscripts, Mitra's work not only rescued significant philosophical and religious texts from potential oblivion but also provided crucial evidence of the complex intellectual exchanges and evolutionary trajectories of Buddhist thought across the Indian cultural landscape.
+description: 'Rajendralala Mitra''s seminal 1882 scholarly work represents a groundbreaking
+  documentation of Sanskrit Buddhist manuscripts preserved in Nepal''s monastic libraries
+  during a critical period of historical manuscript preservation. Emerging in the
+  late 19th century when many Buddhist textual traditions were at risk of permanent
+  loss, Mitra''s comprehensive catalogue meticulously documented manuscripts from
+  the Newar Buddhist communities, capturing textual traditions that had largely disappeared
+  from the Indian subcontinent following the decline of Buddhist institutional networks
+  after the 12th century. The work is particularly significant in revealing the extensive
+  Mahayana and Vajrayana manuscript collections that survived in Nepal''s secluded
+  monastic libraries, providing scholars with unprecedented insights into Buddhist
+  intellectual and philosophical developments that were otherwise unattested in contemporary
+  textual records. Mitra, a prominent Bengali intellectual and scholar associated
+  with the Asiatic Society of Bengal, employed rigorous philological methodologies
+  to catalog and describe these manuscripts, identifying numerous texts previously
+  unknown to scholarly communities in India and Europe. His systematic approach included
+  detailed descriptions of manuscript provenance, physical characteristics, and critical
+  textual analysis, thereby establishing foundational research methodologies for Buddhist
+  manuscript studies. The publication critically illuminates Nepal''s role as a crucial
+  repository of Buddhist literary heritage, demonstrating how peripheral regions preserved
+  intellectual traditions that had been systematically marginalized or destroyed in
+  their original geographical contexts. By meticulously documenting these manuscripts,
+  Mitra''s work not only rescued significant philosophical and religious texts from
+  potential oblivion but also provided crucial evidence of the complex intellectual
+  exchanges and evolutionary trajectories of Buddhist thought across the Indian cultural
+  landscape.
+
+  '
 collections:
 - ancient-wisdom
 - spiritual-texts
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/sanskritbuddhist00mitr
   type: other
 references:
@@ -25,12 +50,15 @@ references:
 - name: 'Wikipedia: Newar Buddhism'
   url: https://en.wikipedia.org/wiki/Newar_Buddhism
   type: wikipedia
-- name: 'OpenLibrary Search'
+- name: OpenLibrary Search
   url: https://openlibrary.org/search?q=Sanskrit+Buddhist+Literature+Nepal+Mitra
   type: other
 - name: 'Wikidata: Rajendralala Mitra'
   url: https://www.wikidata.org/wiki/Q3563146
   type: other
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: false
 publishDate: 2025-01-22
 ---

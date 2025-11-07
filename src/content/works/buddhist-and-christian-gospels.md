@@ -1,5 +1,5 @@
 ---
-title: 'Buddhist and Christian Gospels'
+title: Buddhist and Christian Gospels
 author:
 - Albert Joseph Edmunds
 - Masaharu Anesaki
@@ -11,13 +11,38 @@ genre:
 - Buddhism
 - Comparative religious studies
 - Pali literature
-description: |
-  "Buddhist and Christian Gospels" represents a landmark scholarly exploration of comparative religious textual analysis during the early 20th-century intellectual renaissance, systematically investigating profound parallelisms between Buddhist Pali canonical texts and Christian scriptural traditions. Published in 1914, this collaborative work by American scholar Albert Joseph Edmunds and Japanese Buddhist expert Masaharu Anesaki emerged during a pivotal period of cross-cultural academic exchange, presenting meticulous comparative analysis of ethical teachings, narrative structures, and philosophical frameworks across Buddhist and Christian traditions. The study's significance extends beyond mere textual comparison, offering nuanced insights into shared humanistic principles embedded in religious discourse, particularly illuminating the philosophical sophistication of Indian Buddhist thought. By employing rigorous parallel-text methodology, Edmunds and Anesaki systematically traced textual and conceptual resonances, demonstrating remarkable structural and thematic similarities in parables, moral teachings, and narrative techniques between these seemingly disparate spiritual traditions. The work critically contributes to understanding Buddhism's philosophical depth, highlighting its universal ethical principles and sophisticated hermeneutical approaches that transcend cultural boundaries. For Indian intellectual heritage, this study represents an early, scholarly engagement with Buddhism's global philosophical significance, challenging prevailing colonial-era epistemological frameworks and presenting indigenous religious thought as a complex, intellectually robust tradition. The text's methodological innovation lies in its dispassionate, comparative approach, eschewing reductive orientalist perspectives and instead emphasizing substantive philosophical dialogue between Eastern and Western religious frameworks, thereby positioning Indian Buddhist scholarship within a sophisticated global intellectual landscape.
+description: '"Buddhist and Christian Gospels" represents a landmark scholarly exploration
+  of comparative religious textual analysis during the early 20th-century intellectual
+  renaissance, systematically investigating profound parallelisms between Buddhist
+  Pali canonical texts and Christian scriptural traditions. Published in 1914, this
+  collaborative work by American scholar Albert Joseph Edmunds and Japanese Buddhist
+  expert Masaharu Anesaki emerged during a pivotal period of cross-cultural academic
+  exchange, presenting meticulous comparative analysis of ethical teachings, narrative
+  structures, and philosophical frameworks across Buddhist and Christian traditions.
+  The study''s significance extends beyond mere textual comparison, offering nuanced
+  insights into shared humanistic principles embedded in religious discourse, particularly
+  illuminating the philosophical sophistication of Indian Buddhist thought. By employing
+  rigorous parallel-text methodology, Edmunds and Anesaki systematically traced textual
+  and conceptual resonances, demonstrating remarkable structural and thematic similarities
+  in parables, moral teachings, and narrative techniques between these seemingly disparate
+  spiritual traditions. The work critically contributes to understanding Buddhism''s
+  philosophical depth, highlighting its universal ethical principles and sophisticated
+  hermeneutical approaches that transcend cultural boundaries. For Indian intellectual
+  heritage, this study represents an early, scholarly engagement with Buddhism''s
+  global philosophical significance, challenging prevailing colonial-era epistemological
+  frameworks and presenting indigenous religious thought as a complex, intellectually
+  robust tradition. The text''s methodological innovation lies in its dispassionate,
+  comparative approach, eschewing reductive orientalist perspectives and instead emphasizing
+  substantive philosophical dialogue between Eastern and Western religious frameworks,
+  thereby positioning Indian Buddhist scholarship within a sophisticated global intellectual
+  landscape.
+
+  '
 collections:
 - buddhist-texts
 - scholarly-translations
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/buddhistandchris02edmuuoft
   type: other
 references:
@@ -36,6 +61,9 @@ references:
 - name: 'Open Library: Buddhist & Christian Gospels'
   url: https://openlibrary.org/books/OL23283236M/Buddhist_Christian_gospels
   type: openlibrary
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: false
 publishDate: 2025-10-26
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'The Buddhavaṃsa and the Cariyā-piṭaka'
+title: The Buddhavaṃsa and the Cariyā-piṭaka
 author:
 - Richard Morris
 year: 1882
@@ -9,13 +9,34 @@ genre:
 - Buddhist texts
 - Religious literature
 - Pali canonical texts
-description: |
-  Richard Morris's critical Pali edition of the Buddhavaṃsa and Cariyāpiṭaka represents a seminal scholarly intervention in late 19th-century Buddhist textual scholarship during the colonial period of systematic Indological research. Published in 1882 through the Pali Text Society, this work comprises two significant canonical texts from the Khuddaka Nikaya, offering profound insights into Theravada Buddhist cosmological and philosophical traditions. The Buddhavaṃsa meticulously chronicles the lineage of Gautama Buddha, detailing the lives and spiritual achievements of twenty-four predecessor Buddhas, thereby illuminating the complex Buddhist conception of successive enlightened beings across cosmic time. Complementing this, the Cariyāpiṭaka presents thirty-five Jātaka stories that exemplify the ten pāramitās (perfections), providing a comprehensive narrative exploration of the Bodhisattva path of spiritual development. Morris's scholarly edition was crucial in preserving and interpreting these texts during a critical period of emerging Western academic engagement with Buddhist literature, making these traditionally orally transmitted narratives accessible to global scholarly discourse. The work significantly contributes to understanding the intricate philosophical and narrative traditions of Indian Buddhist thought, revealing the sophisticated literary and spiritual methodologies of Theravada Buddhist intellectuals. By meticulously translating and annotating these texts, Morris facilitated a deeper cross-cultural comprehension of Buddhist cosmology, ethical philosophy, and narrative traditions, bridging medieval South Asian religious scholarship with emerging comparative religious studies in the late 19th century.
+description: 'Richard Morris''s critical Pali edition of the Buddhavaṃsa and Cariyāpiṭaka
+  represents a seminal scholarly intervention in late 19th-century Buddhist textual
+  scholarship during the colonial period of systematic Indological research. Published
+  in 1882 through the Pali Text Society, this work comprises two significant canonical
+  texts from the Khuddaka Nikaya, offering profound insights into Theravada Buddhist
+  cosmological and philosophical traditions. The Buddhavaṃsa meticulously chronicles
+  the lineage of Gautama Buddha, detailing the lives and spiritual achievements of
+  twenty-four predecessor Buddhas, thereby illuminating the complex Buddhist conception
+  of successive enlightened beings across cosmic time. Complementing this, the Cariyāpiṭaka
+  presents thirty-five Jātaka stories that exemplify the ten pāramitās (perfections),
+  providing a comprehensive narrative exploration of the Bodhisattva path of spiritual
+  development. Morris''s scholarly edition was crucial in preserving and interpreting
+  these texts during a critical period of emerging Western academic engagement with
+  Buddhist literature, making these traditionally orally transmitted narratives accessible
+  to global scholarly discourse. The work significantly contributes to understanding
+  the intricate philosophical and narrative traditions of Indian Buddhist thought,
+  revealing the sophisticated literary and spiritual methodologies of Theravada Buddhist
+  intellectuals. By meticulously translating and annotating these texts, Morris facilitated
+  a deeper cross-cultural comprehension of Buddhist cosmology, ethical philosophy,
+  and narrative traditions, bridging medieval South Asian religious scholarship with
+  emerging comparative religious studies in the late 19th century.
+
+  '
 collections:
 - buddhist-texts
 - pali-literature
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/buddhavasaandca00morrgoog
   type: other
 references:
@@ -31,9 +52,12 @@ references:
 - name: 'Wikipedia: Pali Canon'
   url: https://en.wikipedia.org/wiki/Pali_Canon
   type: wikipedia
-- name: 'Open Library'
+- name: Open Library
   url: https://openlibrary.org/books/OL6576767M/The_Buddhavam%CC%A3sa_and_the_Cariya%CC%84-pit%CC%A3aka.
   type: openlibrary
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: false
 publishDate: 2025-10-26
 ---

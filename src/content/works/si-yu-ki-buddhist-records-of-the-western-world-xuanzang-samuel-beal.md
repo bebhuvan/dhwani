@@ -11,13 +11,37 @@ genre:
 - Travel Literature
 - Buddhist Literature
 - Historical Geography
-description: |
-  The Si-yu-ki (西域記, *Da Tang Xiyu Ji*) represents a pivotal historical and cultural narrative of Buddhist scholarly exploration during the Tang Dynasty's zenith, chronicling Xuanzang's comprehensive sixteen-year pilgrimage (629-645 CE) across the complex geopolitical landscape of Central and South Asia. As a seminal monk-scholar from Chang'an, Xuanzang undertook an extraordinary overland journey through treacherous Silk Road territories, meticulously documenting geographical, cultural, and religious observations of regions including modern-day Afghanistan, Pakistan, Nepal, and India. His detailed account provides unparalleled insights into the socio-religious environments of medieval Buddhist kingdoms, offering nuanced descriptions of monastic institutions, philosophical practices, and regional political structures. The text is particularly significant for Indian studies, presenting one of the most comprehensive external perspectives on 7th-century Indian civilization, including detailed observations of Gupta and post-Gupta cultural contexts. Xuanzang's scholarly rigor is evident in his systematic documentation of Buddhist philosophical schools, architectural descriptions of major monasteries like Nalanda, and ethnographic observations of regional cultures. Beyond its immediate historical value, the Si-yu-ki served as a critical bridge of cultural understanding between China and the Indian subcontinent, facilitating unprecedented cross-cultural knowledge transmission. Samuel Beal's 1884 translation was instrumental in introducing this profound work to Western scholarly discourse, enabling broader academic engagement with this remarkable firsthand account of medieval Buddhist intellectual and cultural landscapes. The text remains an indispensable primary source for historians, religious scholars, and anthropologists studying trans-continental cultural interactions during this pivotal period of Asian intellectual exchange.
+description: 'The Si-yu-ki (西域記, *Da Tang Xiyu Ji*) represents a pivotal historical
+  and cultural narrative of Buddhist scholarly exploration during the Tang Dynasty''s
+  zenith, chronicling Xuanzang''s comprehensive sixteen-year pilgrimage (629-645 CE)
+  across the complex geopolitical landscape of Central and South Asia. As a seminal
+  monk-scholar from Chang''an, Xuanzang undertook an extraordinary overland journey
+  through treacherous Silk Road territories, meticulously documenting geographical,
+  cultural, and religious observations of regions including modern-day Afghanistan,
+  Pakistan, Nepal, and India. His detailed account provides unparalleled insights
+  into the socio-religious environments of medieval Buddhist kingdoms, offering nuanced
+  descriptions of monastic institutions, philosophical practices, and regional political
+  structures. The text is particularly significant for Indian studies, presenting
+  one of the most comprehensive external perspectives on 7th-century Indian civilization,
+  including detailed observations of Gupta and post-Gupta cultural contexts. Xuanzang''s
+  scholarly rigor is evident in his systematic documentation of Buddhist philosophical
+  schools, architectural descriptions of major monasteries like Nalanda, and ethnographic
+  observations of regional cultures. Beyond its immediate historical value, the Si-yu-ki
+  served as a critical bridge of cultural understanding between China and the Indian
+  subcontinent, facilitating unprecedented cross-cultural knowledge transmission.
+  Samuel Beal''s 1884 translation was instrumental in introducing this profound work
+  to Western scholarly discourse, enabling broader academic engagement with this remarkable
+  firsthand account of medieval Buddhist intellectual and cultural landscapes. The
+  text remains an indispensable primary source for historians, religious scholars,
+  and anthropologists studying trans-continental cultural interactions during this
+  pivotal period of Asian intellectual exchange.
+
+  '
 collections:
 - spiritual-texts
 - ancient-wisdom
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/siyukibuddhistre01hsuoft
   type: other
 references:
@@ -27,9 +51,12 @@ references:
 - name: 'Wikipedia: Great Tang Records on the Western Regions'
   url: https://en.wikipedia.org/wiki/Great_Tang_Records_on_the_Western_Regions
   type: wikipedia
-- name: 'Open Library'
+- name: Open Library
   url: https://openlibrary.org/search?q=Si-yu-ki+Buddhist+Records+Western+World&mode=everything
   type: other
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: true
 publishDate: 2025-10-21
 ---

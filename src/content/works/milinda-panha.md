@@ -1,5 +1,5 @@
 ---
-title: 'Milinda Panha (Questions of King Milinda)'
+title: Milinda Panha (Questions of King Milinda)
 author:
 - Nagasena
 year: -100
@@ -9,17 +9,38 @@ genre:
 - Buddhist Philosophy
 - Dialogues
 - Religious Literature
-description: |
-  The Milinda Panha ('Questions of King Milinda') is a Buddhist philosophical text composed circa 2nd century BCE, presenting a dialogic encounter between the Indo-Greek King Menander I (Milinda) and the Buddhist monk Nagasena. Produced during the Hellenistic period following Alexander the Great's conquests, the text documents intellectual exchanges between Greco-Buddhist cultures in Northwest India and Bactria. It represents a critical moment of philosophical syncretism, where Hellenistic dialectical methods intersect with early Buddhist analytical traditions. Nagasena, representing the Theravada philosophical tradition, engages Menander in a detailed discourse exploring fundamental metaphysical questions, including the nature of self, consciousness, personal identity, and Buddhist doctrinal principles such as karma and rebirth. The dialogue systematically addresses philosophical challenges through rational argumentation, demonstrating the analytical approach of Buddhist epistemology when confronting external philosophical perspectives. Structurally, the text employs a question-and-answer format, with Menander presenting philosophical inquiries and Nagasena responding with multilayered answers drawing from Buddhist scriptural knowledge and logical reasoning. Historically, the Milinda Panha provides evidence of the intellectual exchange and philosophical discourse across cultural boundaries in ancient India, illustrating Buddhism's capacity for complex philosophical engagement during a period of significant cultural interaction. Its preservation offers scholars critical insights into the intellectual practices and cross-cultural philosophical negotiations of the late Hellenistic period in the Indian subcontinent.
+description: 'The Milinda Panha (''Questions of King Milinda'') is a Buddhist philosophical
+  text composed circa 2nd century BCE, presenting a dialogic encounter between the
+  Indo-Greek King Menander I (Milinda) and the Buddhist monk Nagasena. Produced during
+  the Hellenistic period following Alexander the Great''s conquests, the text documents
+  intellectual exchanges between Greco-Buddhist cultures in Northwest India and Bactria.
+  It represents a critical moment of philosophical syncretism, where Hellenistic dialectical
+  methods intersect with early Buddhist analytical traditions. Nagasena, representing
+  the Theravada philosophical tradition, engages Menander in a detailed discourse
+  exploring fundamental metaphysical questions, including the nature of self, consciousness,
+  personal identity, and Buddhist doctrinal principles such as karma and rebirth.
+  The dialogue systematically addresses philosophical challenges through rational
+  argumentation, demonstrating the analytical approach of Buddhist epistemology when
+  confronting external philosophical perspectives. Structurally, the text employs
+  a question-and-answer format, with Menander presenting philosophical inquiries and
+  Nagasena responding with multilayered answers drawing from Buddhist scriptural knowledge
+  and logical reasoning. Historically, the Milinda Panha provides evidence of the
+  intellectual exchange and philosophical discourse across cultural boundaries in
+  ancient India, illustrating Buddhism''s capacity for complex philosophical engagement
+  during a period of significant cultural interaction. Its preservation offers scholars
+  critical insights into the intellectual practices and cross-cultural philosophical
+  negotiations of the late Hellenistic period in the Indian subcontinent.
+
+  '
 collections:
 - buddhist-texts
 - pali-literature
 - ancient-wisdom
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/milindapahobeing00tren
   type: other
-- name: 'Sacred Texts'
+- name: Sacred Texts
   url: https://sacred-texts.com/bud/sbe35/index.htm
   type: other
 references:
@@ -41,6 +62,9 @@ references:
 - name: 'Open Library: Milinda Panha (Questions of'
   url: https://openlibrary.org/search?q=Milinda+Panha+Questions+of+King+Milinda+Nagasena
   type: other
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: true
 publishDate: 2025-10-30
 ---

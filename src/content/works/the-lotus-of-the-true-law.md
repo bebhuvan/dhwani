@@ -1,5 +1,5 @@
 ---
-title: 'The Saddharma-pundarîka; or, The Lotus of the True Law'
+title: The Saddharma-pundarîka; or, The Lotus of the True Law
 author:
 - Hendrik Kern
 year: 1884
@@ -10,13 +10,35 @@ genre:
 - Mahayana Buddhism
 - Buddhist sutras
 - Sanskrit literature in translation
-description: |
-  Hendrik Kern's seminal 1884 English translation of the Saddharma-pundarîka (Lotus Sutra) represents a pivotal moment in cross-cultural Buddhist scholarship during the late 19th-century colonial period of Indological research. Originally composed between 100 BCE and 200 CE in Sanskrit, this fundamental Mahayana Buddhist text emerged during a critical period of philosophical and religious transformation in the Indian subcontinent. Kern, a prominent Dutch Orientalist and linguist, meticulously translated the manuscript, making this complex philosophical treatise accessible to Western academic discourse and significantly advancing comparative religious studies. The sutra's revolutionary theological concepts—including the doctrine of universal Buddha-nature, the notion of skillful means (upaya), and the transcendental understanding of enlightenment—fundamentally reshaped interpretations of Buddhist metaphysics and soteriological thought. Its intricate narrative structure combines doctrinal exposition with allegorical parables, cosmic vision sequences, and profound philosophical arguments that challenge traditional hierarchical understandings of spiritual attainment. The text's emphasis on compassionate adaptation, spiritual inclusivity, and the potential for enlightenment across diverse social and existential conditions profoundly influenced East Asian Buddhist traditions, particularly Tiantai, Nichiren, and Pure Land schools. Beyond its immediate religious significance, the Lotus Sutra represents a sophisticated literary artifact embodying complex Sanskrit philosophical and narrative traditions, offering critical insights into medieval Indian intellectual and spiritual conceptualizations of consciousness, liberation, and existential transformation.
+description: 'Hendrik Kern''s seminal 1884 English translation of the Saddharma-pundarîka
+  (Lotus Sutra) represents a pivotal moment in cross-cultural Buddhist scholarship
+  during the late 19th-century colonial period of Indological research. Originally
+  composed between 100 BCE and 200 CE in Sanskrit, this fundamental Mahayana Buddhist
+  text emerged during a critical period of philosophical and religious transformation
+  in the Indian subcontinent. Kern, a prominent Dutch Orientalist and linguist, meticulously
+  translated the manuscript, making this complex philosophical treatise accessible
+  to Western academic discourse and significantly advancing comparative religious
+  studies. The sutra''s revolutionary theological concepts—including the doctrine
+  of universal Buddha-nature, the notion of skillful means (upaya), and the transcendental
+  understanding of enlightenment—fundamentally reshaped interpretations of Buddhist
+  metaphysics and soteriological thought. Its intricate narrative structure combines
+  doctrinal exposition with allegorical parables, cosmic vision sequences, and profound
+  philosophical arguments that challenge traditional hierarchical understandings of
+  spiritual attainment. The text''s emphasis on compassionate adaptation, spiritual
+  inclusivity, and the potential for enlightenment across diverse social and existential
+  conditions profoundly influenced East Asian Buddhist traditions, particularly Tiantai,
+  Nichiren, and Pure Land schools. Beyond its immediate religious significance, the
+  Lotus Sutra represents a sophisticated literary artifact embodying complex Sanskrit
+  philosophical and narrative traditions, offering critical insights into medieval
+  Indian intellectual and spiritual conceptualizations of consciousness, liberation,
+  and existential transformation.
+
+  '
 collections:
 - buddhist-texts
 - scholarly-translations
 sources:
-- name: 'Internet Archive'
+- name: Internet Archive
   url: https://archive.org/details/saddharmapundar00cambuoft
   type: other
 references:
@@ -44,6 +66,9 @@ references:
 - name: 'Open Library: The Saddharma-pundarîka; or, The'
   url: https://openlibrary.org/search?q=The+Saddharma-pundarîka+or+The+Lotus+of+Hendrik+Kern
   type: other
+- name: 'Stanford Encyclopedia: Buddha and Buddhist Philosophy'
+  url: https://plato.stanford.edu/entries/buddha/
+  type: academic
 featured: false
 publishDate: 2025-10-30
 ---
