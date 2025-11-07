@@ -1,0 +1,22 @@
+# Core dependencies for Archive.org fetch system
+requests>=2.31.0
+PyYAML>=6.0
+
+# PDF extraction (optional but recommended)
+pdfplumber>=0.10.0
+pypdf>=3.17.0
+
+# EPUB extraction (optional)
+ebooklib>=0.18
+beautifulsoup4>=4.12.0
+
+# HTML parsing
+lxml>=4.9.0
+
+# Progress bars (optional)
+tqdm>=4.66.0
+colorama>=0.4.6
+
+# Fuzzy string matching (optional, for better title matching)
+python-Levenshtein>=0.21.0
+fuzzywuzzy>=0.18.0
