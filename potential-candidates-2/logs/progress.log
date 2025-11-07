@@ -1,0 +1,309 @@
+2025-11-07 01:59:50,168 - INFO - ================================================================================
+2025-11-07 01:59:50,168 - INFO - ARCHIVE.ORG DISCOVERY PROCESS STARTED
+2025-11-07 01:59:50,168 - INFO - ================================================================================
+2025-11-07 01:59:50,169 - INFO - 
+Total works to search: 21
+2025-11-07 01:59:50,169 - INFO - Priority 1: 13 works
+2025-11-07 01:59:50,169 - INFO - Priority 2: 8 works
+2025-11-07 01:59:50,170 - INFO - 
+============================================================
+2025-11-07 01:59:50,170 - INFO - [1/21] Searching: Akka Mahadevi Vachanas
+2025-11-07 01:59:50,170 - INFO - Author: Akka Mahadevi, Language: Kannada
+2025-11-07 01:59:50,170 - INFO - Trying strategy: direct_title for 'Akka Mahadevi Vachanas'
+2025-11-07 01:59:50,171 - INFO - Searching Archive.org: title:"Akka Mahadevi Vachanas" AND creator:"Akka Mahadevi" AND mediatype:texts AND date:[1100 TO 1200]
+2025-11-07 01:59:51,035 - INFO - Found 0 results
+2025-11-07 01:59:53,036 - INFO - Trying strategy: fuzzy_title for 'Akka Mahadevi Vachanas'
+2025-11-07 01:59:53,036 - INFO - Searching Archive.org: title:Akka AND title:Mahadevi AND title:Vachanas AND creator:Akka Mahadevi AND mediatype:texts AND date:[1100 TO 1200]
+2025-11-07 01:59:53,249 - INFO - Found 0 results
+2025-11-07 01:59:55,250 - INFO - Trying strategy: author_language for 'Akka Mahadevi Vachanas'
+2025-11-07 01:59:55,250 - INFO - Searching Archive.org: creator:"Akka Mahadevi" AND language:Kannada AND mediatype:texts AND date:[1100 TO 1200]
+2025-11-07 01:59:55,611 - INFO - Found 0 results
+2025-11-07 01:59:57,612 - WARNING - No results found for: Akka Mahadevi Vachanas
+2025-11-07 01:59:57,613 - INFO - 
+============================================================
+2025-11-07 01:59:57,613 - INFO - [2/21] Searching: Lal Ded
+2025-11-07 01:59:57,614 - INFO - Author: Lalleshwari, Language: Kashmiri
+2025-11-07 01:59:57,614 - INFO - Trying strategy: direct_title for 'Lal Ded'
+2025-11-07 01:59:57,614 - INFO - Searching Archive.org: title:"Lal Ded" AND creator:"Lalleshwari" AND mediatype:texts AND date:[1300 TO 1400]
+2025-11-07 01:59:57,831 - INFO - Found 0 results
+2025-11-07 01:59:59,832 - INFO - Trying strategy: fuzzy_title for 'Lal Ded'
+2025-11-07 01:59:59,832 - INFO - Searching Archive.org:  AND creator:Lalleshwari AND mediatype:texts AND date:[1300 TO 1400]
+2025-11-07 02:00:00,131 - INFO - Found 0 results
+2025-11-07 02:00:02,133 - INFO - Trying strategy: author_language for 'Lal Ded'
+2025-11-07 02:00:02,133 - INFO - Searching Archive.org: creator:"Lalleshwari" AND language:Kashmiri AND mediatype:texts AND date:[1300 TO 1400]
+2025-11-07 02:00:02,380 - INFO - Found 0 results
+2025-11-07 02:00:04,381 - WARNING - No results found for: Lal Ded
+2025-11-07 02:00:04,382 - INFO - 
+============================================================
+2025-11-07 02:00:04,382 - INFO - [3/21] Searching: Habba Khatoon
+2025-11-07 02:00:04,382 - INFO - Author: Habba Khatoon, Language: Kashmiri
+2025-11-07 02:00:04,382 - INFO - Trying strategy: direct_title for 'Habba Khatoon'
+2025-11-07 02:00:04,383 - INFO - Searching Archive.org: title:"Habba Khatoon" AND creator:"Habba Khatoon" AND mediatype:texts AND date:[1500 TO 1600]
+2025-11-07 02:00:04,630 - INFO - Found 0 results
+2025-11-07 02:00:06,630 - INFO - Trying strategy: fuzzy_title for 'Habba Khatoon'
+2025-11-07 02:00:06,631 - INFO - Searching Archive.org: title:Habba AND title:Khatoon AND creator:Habba Khatoon AND mediatype:texts AND date:[1500 TO 1600]
+2025-11-07 02:00:06,864 - INFO - Found 0 results
+2025-11-07 02:00:08,865 - INFO - Trying strategy: author_language for 'Habba Khatoon'
+2025-11-07 02:00:08,865 - INFO - Searching Archive.org: creator:"Habba Khatoon" AND language:Kashmiri AND mediatype:texts AND date:[1500 TO 1600]
+2025-11-07 02:00:09,230 - INFO - Found 0 results
+2025-11-07 02:00:11,231 - WARNING - No results found for: Habba Khatoon
+2025-11-07 02:00:11,232 - INFO - 
+============================================================
+2025-11-07 02:00:11,232 - INFO - [4/21] Searching: Therigatha
+2025-11-07 02:00:11,233 - INFO - Author: Various, Language: Pali
+2025-11-07 02:00:11,233 - INFO - Trying strategy: direct_title for 'Therigatha'
+2025-11-07 02:00:11,233 - INFO - Searching Archive.org: title:"Therigatha" AND mediatype:texts AND date:[-500 TO -400]
+2025-11-07 02:00:11,463 - INFO - Found 0 results
+2025-11-07 02:00:13,464 - INFO - Trying strategy: fuzzy_title for 'Therigatha'
+2025-11-07 02:00:13,464 - INFO - Searching Archive.org: title:Therigatha AND mediatype:texts AND date:[-500 TO -400]
+2025-11-07 02:00:13,773 - INFO - Found 0 results
+2025-11-07 02:00:15,773 - INFO - Trying strategy: author_language for 'Therigatha'
+2025-11-07 02:00:15,773 - WARNING - Could not build query for strategy author_language
+2025-11-07 02:00:15,774 - WARNING - No results found for: Therigatha
+2025-11-07 02:00:15,775 - INFO - 
+============================================================
+2025-11-07 02:00:15,775 - INFO - [5/21] Searching: Andal
+2025-11-07 02:00:15,775 - INFO - Author: Andal, Language: Tamil
+2025-11-07 02:00:15,775 - INFO - Trying strategy: direct_title for 'Andal'
+2025-11-07 02:00:15,775 - INFO - Searching Archive.org: title:"Andal" AND creator:"Andal" AND mediatype:texts AND date:[700 TO 800]
+2025-11-07 02:00:16,005 - INFO - Found 0 results
+2025-11-07 02:00:18,006 - INFO - Trying strategy: fuzzy_title for 'Andal'
+2025-11-07 02:00:18,006 - INFO - Searching Archive.org: title:Andal AND creator:Andal AND mediatype:texts AND date:[700 TO 800]
+2025-11-07 02:00:18,248 - INFO - Found 0 results
+2025-11-07 02:00:20,249 - INFO - Trying strategy: author_language for 'Andal'
+2025-11-07 02:00:20,250 - INFO - Searching Archive.org: creator:"Andal" AND language:Tamil AND mediatype:texts AND date:[700 TO 800]
+2025-11-07 02:00:20,463 - INFO - Found 0 results
+2025-11-07 02:00:22,464 - WARNING - No results found for: Andal
+2025-11-07 02:00:22,466 - INFO - 
+============================================================
+2025-11-07 02:00:22,466 - INFO - [6/21] Searching: Kavirajamarga
+2025-11-07 02:00:22,466 - INFO - Author: Amoghavarsha, Language: Kannada
+2025-11-07 02:00:22,466 - INFO - Trying strategy: direct_title for 'Kavirajamarga'
+2025-11-07 02:00:22,467 - INFO - Searching Archive.org: title:"Kavirajamarga" AND creator:"Amoghavarsha" AND mediatype:texts AND date:[800 TO 900]
+2025-11-07 02:00:22,678 - INFO - Found 0 results
+2025-11-07 02:00:24,679 - INFO - Trying strategy: fuzzy_title for 'Kavirajamarga'
+2025-11-07 02:00:24,680 - INFO - Searching Archive.org: title:Kavirajamarga AND creator:Amoghavarsha AND mediatype:texts AND date:[800 TO 900]
+2025-11-07 02:00:24,966 - INFO - Found 0 results
+2025-11-07 02:00:26,967 - INFO - Trying strategy: author_language for 'Kavirajamarga'
+2025-11-07 02:00:26,967 - INFO - Searching Archive.org: creator:"Amoghavarsha" AND language:Kannada AND mediatype:texts AND date:[800 TO 900]
+2025-11-07 02:00:27,257 - INFO - Found 0 results
+2025-11-07 02:00:29,258 - WARNING - No results found for: Kavirajamarga
+2025-11-07 02:00:29,260 - INFO - 
+============================================================
+2025-11-07 02:00:29,260 - INFO - [7/21] Searching: Basavanna Vachanas
+2025-11-07 02:00:29,260 - INFO - Author: Basavanna, Language: Kannada
+2025-11-07 02:00:29,260 - INFO - Trying strategy: direct_title for 'Basavanna Vachanas'
+2025-11-07 02:00:29,260 - INFO - Searching Archive.org: title:"Basavanna Vachanas" AND creator:"Basavanna" AND mediatype:texts AND date:[1100 TO 1200]
+2025-11-07 02:00:29,685 - INFO - Found 0 results
+2025-11-07 02:00:31,686 - INFO - Trying strategy: fuzzy_title for 'Basavanna Vachanas'
+2025-11-07 02:00:31,686 - INFO - Searching Archive.org: title:Basavanna AND title:Vachanas AND creator:Basavanna AND mediatype:texts AND date:[1100 TO 1200]
+2025-11-07 02:00:31,948 - INFO - Found 0 results
+2025-11-07 02:00:33,949 - INFO - Trying strategy: author_language for 'Basavanna Vachanas'
+2025-11-07 02:00:33,949 - INFO - Searching Archive.org: creator:"Basavanna" AND language:Kannada AND mediatype:texts AND date:[1100 TO 1200]
+2025-11-07 02:00:34,165 - INFO - Found 0 results
+2025-11-07 02:00:36,166 - WARNING - No results found for: Basavanna Vachanas
+2025-11-07 02:00:36,168 - INFO - 
+============================================================
+2025-11-07 02:00:36,168 - INFO - [8/21] Searching: Allama Prabhu Vachanas
+2025-11-07 02:00:36,168 - INFO - Author: Allama Prabhu, Language: Kannada
+2025-11-07 02:00:36,169 - INFO - Trying strategy: direct_title for 'Allama Prabhu Vachanas'
+2025-11-07 02:00:36,169 - INFO - Searching Archive.org: title:"Allama Prabhu Vachanas" AND creator:"Allama Prabhu" AND mediatype:texts AND date:[1100 TO 1200]
+2025-11-07 02:00:36,377 - INFO - Found 0 results
+2025-11-07 02:00:38,378 - INFO - Trying strategy: fuzzy_title for 'Allama Prabhu Vachanas'
+2025-11-07 02:00:38,378 - INFO - Searching Archive.org: title:Allama AND title:Prabhu AND title:Vachanas AND creator:Allama Prabhu AND mediatype:texts AND date:[1100 TO 1200]
+2025-11-07 02:00:38,593 - INFO - Found 0 results
+2025-11-07 02:00:40,594 - INFO - Trying strategy: author_language for 'Allama Prabhu Vachanas'
+2025-11-07 02:00:40,594 - INFO - Searching Archive.org: creator:"Allama Prabhu" AND language:Kannada AND mediatype:texts AND date:[1100 TO 1200]
+2025-11-07 02:00:40,828 - INFO - Found 0 results
+2025-11-07 02:00:42,829 - WARNING - No results found for: Allama Prabhu Vachanas
+2025-11-07 02:00:42,831 - INFO - 
+============================================================
+2025-11-07 02:00:42,831 - INFO - [9/21] Searching: Sangita Ratnakara
+2025-11-07 02:00:42,831 - INFO - Author: Sharngadeva, Language: Sanskrit
+2025-11-07 02:00:42,831 - INFO - Trying strategy: direct_title for 'Sangita Ratnakara'
+2025-11-07 02:00:42,831 - INFO - Searching Archive.org: title:"Sangita Ratnakara" AND creator:"Sharngadeva" AND mediatype:texts AND date:[1200 TO 1300]
+2025-11-07 02:00:43,065 - INFO - Found 0 results
+2025-11-07 02:00:45,066 - INFO - Trying strategy: fuzzy_title for 'Sangita Ratnakara'
+2025-11-07 02:00:45,066 - INFO - Searching Archive.org: title:Sangita AND title:Ratnakara AND creator:Sharngadeva AND mediatype:texts AND date:[1200 TO 1300]
+2025-11-07 02:00:45,313 - INFO - Found 0 results
+2025-11-07 02:00:47,314 - INFO - Trying strategy: author_language for 'Sangita Ratnakara'
+2025-11-07 02:00:47,314 - INFO - Searching Archive.org: creator:"Sharngadeva" AND language:Sanskrit AND mediatype:texts AND date:[1200 TO 1300]
+2025-11-07 02:00:47,536 - INFO - Found 0 results
+2025-11-07 02:00:49,537 - WARNING - No results found for: Sangita Ratnakara
+2025-11-07 02:00:49,539 - INFO - 
+============================================================
+2025-11-07 02:00:49,539 - INFO - [10/21] Searching: Brihat Samhita
+2025-11-07 02:00:49,539 - INFO - Author: Varahamihira, Language: Sanskrit
+2025-11-07 02:00:49,539 - INFO - Trying strategy: direct_title for 'Brihat Samhita'
+2025-11-07 02:00:49,540 - INFO - Searching Archive.org: title:"Brihat Samhita" AND creator:"Varahamihira" AND mediatype:texts AND date:[500 TO 600]
+2025-11-07 02:00:49,771 - INFO - Found 0 results
+2025-11-07 02:00:51,772 - INFO - Trying strategy: fuzzy_title for 'Brihat Samhita'
+2025-11-07 02:00:51,772 - INFO - Searching Archive.org: title:Brihat AND title:Samhita AND creator:Varahamihira AND mediatype:texts AND date:[500 TO 600]
+2025-11-07 02:00:52,024 - INFO - Found 0 results
+2025-11-07 02:00:54,025 - INFO - Trying strategy: author_language for 'Brihat Samhita'
+2025-11-07 02:00:54,025 - INFO - Searching Archive.org: creator:"Varahamihira" AND language:Sanskrit AND mediatype:texts AND date:[500 TO 600]
+2025-11-07 02:00:54,295 - INFO - Found 0 results
+2025-11-07 02:00:56,296 - WARNING - No results found for: Brihat Samhita
+2025-11-07 02:00:56,298 - INFO - 
+============================================================
+2025-11-07 02:00:56,298 - INFO - [11/21] Searching: Brihaddeshi
+2025-11-07 02:00:56,298 - INFO - Author: Matanga, Language: Sanskrit
+2025-11-07 02:00:56,298 - INFO - Trying strategy: direct_title for 'Brihaddeshi'
+2025-11-07 02:00:56,298 - INFO - Searching Archive.org: title:"Brihaddeshi" AND creator:"Matanga" AND mediatype:texts AND date:[800 TO 900]
+2025-11-07 02:00:56,653 - INFO - Found 0 results
+2025-11-07 02:00:58,653 - INFO - Trying strategy: fuzzy_title for 'Brihaddeshi'
+2025-11-07 02:00:58,654 - INFO - Searching Archive.org: title:Brihaddeshi AND creator:Matanga AND mediatype:texts AND date:[800 TO 900]
+2025-11-07 02:00:58,873 - INFO - Found 0 results
+2025-11-07 02:01:00,874 - INFO - Trying strategy: author_language for 'Brihaddeshi'
+2025-11-07 02:01:00,874 - INFO - Searching Archive.org: creator:"Matanga" AND language:Sanskrit AND mediatype:texts AND date:[800 TO 900]
+2025-11-07 02:01:01,137 - INFO - Found 0 results
+2025-11-07 02:01:03,138 - WARNING - No results found for: Brihaddeshi
+2025-11-07 02:01:03,140 - INFO - 
+============================================================
+2025-11-07 02:01:03,140 - INFO - [12/21] Searching: Lilavati
+2025-11-07 02:01:03,140 - INFO - Author: Bhaskara, Language: Sanskrit
+2025-11-07 02:01:03,140 - INFO - Trying strategy: direct_title for 'Lilavati'
+2025-11-07 02:01:03,140 - INFO - Searching Archive.org: title:"Lilavati" AND creator:"Bhaskara" AND mediatype:texts AND date:[1100 TO 1200]
+2025-11-07 02:01:03,385 - INFO - Found 0 results
+2025-11-07 02:01:05,386 - INFO - Trying strategy: fuzzy_title for 'Lilavati'
+2025-11-07 02:01:05,386 - INFO - Searching Archive.org: title:Lilavati AND creator:Bhaskara AND mediatype:texts AND date:[1100 TO 1200]
+2025-11-07 02:01:05,841 - INFO - Found 0 results
+2025-11-07 02:01:07,841 - INFO - Trying strategy: author_language for 'Lilavati'
+2025-11-07 02:01:07,842 - INFO - Searching Archive.org: creator:"Bhaskara" AND language:Sanskrit AND mediatype:texts AND date:[1100 TO 1200]
+2025-11-07 02:01:08,082 - INFO - Found 0 results
+2025-11-07 02:01:10,083 - WARNING - No results found for: Lilavati
+2025-11-07 02:01:10,085 - INFO - 
+============================================================
+2025-11-07 02:01:10,085 - INFO - [13/21] Searching: Ashtanga Hridaya
+2025-11-07 02:01:10,086 - INFO - Author: Vagbhata, Language: Sanskrit
+2025-11-07 02:01:10,086 - INFO - Trying strategy: direct_title for 'Ashtanga Hridaya'
+2025-11-07 02:01:10,086 - INFO - Searching Archive.org: title:"Ashtanga Hridaya" AND creator:"Vagbhata" AND mediatype:texts AND date:[600 TO 700]
+2025-11-07 02:01:10,317 - INFO - Found 0 results
+2025-11-07 02:01:12,318 - INFO - Trying strategy: fuzzy_title for 'Ashtanga Hridaya'
+2025-11-07 02:01:12,318 - INFO - Searching Archive.org: title:Ashtanga AND title:Hridaya AND creator:Vagbhata AND mediatype:texts AND date:[600 TO 700]
+2025-11-07 02:01:12,557 - INFO - Found 0 results
+2025-11-07 02:01:14,558 - INFO - Trying strategy: author_language for 'Ashtanga Hridaya'
+2025-11-07 02:01:14,558 - INFO - Searching Archive.org: creator:"Vagbhata" AND language:Sanskrit AND mediatype:texts AND date:[600 TO 700]
+2025-11-07 02:01:14,794 - INFO - Found 0 results
+2025-11-07 02:01:16,794 - WARNING - No results found for: Ashtanga Hridaya
+2025-11-07 02:01:16,796 - INFO - 
+============================================================
+2025-11-07 02:01:16,796 - INFO - [14/21] Searching: Lilatilakam
+2025-11-07 02:01:16,796 - INFO - Author: Unknown, Language: Malayalam
+2025-11-07 02:01:16,796 - INFO - Trying strategy: direct_title for 'Lilatilakam'
+2025-11-07 02:01:16,796 - INFO - Searching Archive.org: title:"Lilatilakam" AND mediatype:texts AND date:[1300 TO 1400]
+2025-11-07 02:01:17,035 - INFO - Found 0 results
+2025-11-07 02:01:19,036 - INFO - Trying strategy: fuzzy_title for 'Lilatilakam'
+2025-11-07 02:01:19,036 - INFO - Searching Archive.org: title:Lilatilakam AND mediatype:texts AND date:[1300 TO 1400]
+2025-11-07 02:01:19,264 - INFO - Found 0 results
+2025-11-07 02:01:21,265 - INFO - Trying strategy: author_language for 'Lilatilakam'
+2025-11-07 02:01:21,265 - WARNING - Could not build query for strategy author_language
+2025-11-07 02:01:21,265 - WARNING - No results found for: Lilatilakam
+2025-11-07 02:01:21,267 - INFO - 
+============================================================
+2025-11-07 02:01:21,267 - INFO - [15/21] Searching: Indulekha
+2025-11-07 02:01:21,267 - INFO - Author: Chandu Menon, Language: Malayalam
+2025-11-07 02:01:21,267 - INFO - Trying strategy: direct_title for 'Indulekha'
+2025-11-07 02:01:21,267 - INFO - Searching Archive.org: title:"Indulekha" AND creator:"Chandu Menon" AND mediatype:texts AND date:[1880 TO 1900]
+2025-11-07 02:01:21,518 - INFO - Found 0 results
+2025-11-07 02:01:23,520 - INFO - Trying strategy: fuzzy_title for 'Indulekha'
+2025-11-07 02:01:23,520 - INFO - Searching Archive.org: title:Indulekha AND creator:Chandu Menon AND mediatype:texts AND date:[1880 TO 1900]
+2025-11-07 02:01:23,759 - INFO - Found 0 results
+2025-11-07 02:01:25,761 - INFO - Trying strategy: author_language for 'Indulekha'
+2025-11-07 02:01:25,761 - INFO - Searching Archive.org: creator:"Chandu Menon" AND language:Malayalam AND mediatype:texts AND date:[1880 TO 1900]
+2025-11-07 02:01:25,986 - INFO - Found 0 results
+2025-11-07 02:01:27,987 - WARNING - No results found for: Indulekha
+2025-11-07 02:01:27,989 - INFO - 
+============================================================
+2025-11-07 02:01:27,989 - INFO - [16/21] Searching: Chha Mana Atha Guntha
+2025-11-07 02:01:27,989 - INFO - Author: Fakir Mohan Senapati, Language: Odia
+2025-11-07 02:01:27,989 - INFO - Trying strategy: direct_title for 'Chha Mana Atha Guntha'
+2025-11-07 02:01:27,989 - INFO - Searching Archive.org: title:"Chha Mana Atha Guntha" AND creator:"Fakir Mohan Senapati" AND mediatype:texts AND date:[1890 TO 1920]
+2025-11-07 02:01:28,208 - INFO - Found 0 results
+2025-11-07 02:01:30,209 - INFO - Trying strategy: fuzzy_title for 'Chha Mana Atha Guntha'
+2025-11-07 02:01:30,209 - INFO - Searching Archive.org: title:Chha AND title:Mana AND title:Atha AND creator:Fakir Mohan Senapati AND mediatype:texts AND date:[1890 TO 1920]
+2025-11-07 02:01:30,451 - INFO - Found 0 results
+2025-11-07 02:01:32,458 - INFO - Trying strategy: author_language for 'Chha Mana Atha Guntha'
+2025-11-07 02:01:32,458 - INFO - Searching Archive.org: creator:"Fakir Mohan Senapati" AND language:Odia AND mediatype:texts AND date:[1890 TO 1920]
+2025-11-07 02:01:32,718 - INFO - Found 0 results
+2025-11-07 02:01:34,719 - WARNING - No results found for: Chha Mana Atha Guntha
+2025-11-07 02:01:34,720 - INFO - 
+============================================================
+2025-11-07 02:01:34,720 - INFO - [17/21] Searching: Purananuru
+2025-11-07 02:01:34,721 - INFO - Author: Various, Language: Tamil
+2025-11-07 02:01:34,721 - INFO - Trying strategy: direct_title for 'Purananuru'
+2025-11-07 02:01:34,721 - INFO - Searching Archive.org: title:"Purananuru" AND mediatype:texts AND date:[-100 TO 300]
+2025-11-07 02:01:34,967 - INFO - Found 0 results
+2025-11-07 02:01:36,968 - INFO - Trying strategy: fuzzy_title for 'Purananuru'
+2025-11-07 02:01:36,968 - INFO - Searching Archive.org: title:Purananuru AND mediatype:texts AND date:[-100 TO 300]
+2025-11-07 02:01:37,223 - INFO - Found 0 results
+2025-11-07 02:01:39,224 - INFO - Trying strategy: author_language for 'Purananuru'
+2025-11-07 02:01:39,224 - WARNING - Could not build query for strategy author_language
+2025-11-07 02:01:39,225 - WARNING - No results found for: Purananuru
+2025-11-07 02:01:39,226 - INFO - 
+============================================================
+2025-11-07 02:01:39,226 - INFO - [18/21] Searching: Periya Puranam
+2025-11-07 02:01:39,226 - INFO - Author: Sekkizhar, Language: Tamil
+2025-11-07 02:01:39,226 - INFO - Trying strategy: direct_title for 'Periya Puranam'
+2025-11-07 02:01:39,226 - INFO - Searching Archive.org: title:"Periya Puranam" AND creator:"Sekkizhar" AND mediatype:texts AND date:[1100 TO 1200]
+2025-11-07 02:01:39,451 - INFO - Found 0 results
+2025-11-07 02:01:41,451 - INFO - Trying strategy: fuzzy_title for 'Periya Puranam'
+2025-11-07 02:01:41,452 - INFO - Searching Archive.org: title:Periya AND title:Puranam AND creator:Sekkizhar AND mediatype:texts AND date:[1100 TO 1200]
+2025-11-07 02:01:41,687 - INFO - Found 0 results
+2025-11-07 02:01:43,688 - INFO - Trying strategy: author_language for 'Periya Puranam'
+2025-11-07 02:01:43,688 - INFO - Searching Archive.org: creator:"Sekkizhar" AND language:Tamil AND mediatype:texts AND date:[1100 TO 1200]
+2025-11-07 02:01:43,932 - INFO - Found 0 results
+2025-11-07 02:01:45,933 - WARNING - No results found for: Periya Puranam
+2025-11-07 02:01:45,936 - INFO - 
+============================================================
+2025-11-07 02:01:45,936 - INFO - [19/21] Searching: Heer Ranjha
+2025-11-07 02:01:45,936 - INFO - Author: Waris Shah, Language: Punjabi
+2025-11-07 02:01:45,936 - INFO - Trying strategy: direct_title for 'Heer Ranjha'
+2025-11-07 02:01:45,936 - INFO - Searching Archive.org: title:"Heer Ranjha" AND creator:"Waris Shah" AND mediatype:texts AND date:[1760 TO 1770]
+2025-11-07 02:01:46,186 - INFO - Found 0 results
+2025-11-07 02:01:48,187 - INFO - Trying strategy: fuzzy_title for 'Heer Ranjha'
+2025-11-07 02:01:48,187 - INFO - Searching Archive.org: title:Heer AND title:Ranjha AND creator:Waris Shah AND mediatype:texts AND date:[1760 TO 1770]
+2025-11-07 02:01:48,423 - INFO - Found 0 results
+2025-11-07 02:01:50,424 - INFO - Trying strategy: author_language for 'Heer Ranjha'
+2025-11-07 02:01:50,424 - INFO - Searching Archive.org: creator:"Waris Shah" AND language:Punjabi AND mediatype:texts AND date:[1760 TO 1770]
+2025-11-07 02:01:50,659 - INFO - Found 0 results
+2025-11-07 02:01:52,660 - WARNING - No results found for: Heer Ranjha
+2025-11-07 02:01:52,662 - INFO - 
+============================================================
+2025-11-07 02:01:52,662 - INFO - [20/21] Searching: Bulleh Shah Kafis
+2025-11-07 02:01:52,662 - INFO - Author: Bulleh Shah, Language: Punjabi
+2025-11-07 02:01:52,662 - INFO - Trying strategy: direct_title for 'Bulleh Shah Kafis'
+2025-11-07 02:01:52,662 - INFO - Searching Archive.org: title:"Bulleh Shah Kafis" AND creator:"Bulleh Shah" AND mediatype:texts AND date:[1680 TO 1760]
+2025-11-07 02:01:52,878 - INFO - Found 0 results
+2025-11-07 02:01:54,879 - INFO - Trying strategy: fuzzy_title for 'Bulleh Shah Kafis'
+2025-11-07 02:01:54,879 - INFO - Searching Archive.org: title:Bulleh AND title:Shah AND title:Kafis AND creator:Bulleh Shah AND mediatype:texts AND date:[1680 TO 1760]
+2025-11-07 02:01:55,079 - INFO - Found 0 results
+2025-11-07 02:01:57,081 - INFO - Trying strategy: author_language for 'Bulleh Shah Kafis'
+2025-11-07 02:01:57,081 - INFO - Searching Archive.org: creator:"Bulleh Shah" AND language:Punjabi AND mediatype:texts AND date:[1680 TO 1760]
+2025-11-07 02:01:57,325 - INFO - Found 0 results
+2025-11-07 02:01:59,327 - WARNING - No results found for: Bulleh Shah Kafis
+2025-11-07 02:01:59,328 - INFO - 
+============================================================
+2025-11-07 02:01:59,329 - INFO - [21/21] Searching: Shah Abdul Latif Bhittai Risalo
+2025-11-07 02:01:59,329 - INFO - Author: Shah Abdul Latif Bhittai, Language: Sindhi
+2025-11-07 02:01:59,329 - INFO - Trying strategy: direct_title for 'Shah Abdul Latif Bhittai Risalo'
+2025-11-07 02:01:59,329 - INFO - Searching Archive.org: title:"Shah Abdul Latif Bhittai Risalo" AND creator:"Shah Abdul Latif Bhittai" AND mediatype:texts AND date:[1690 TO 1752]
+2025-11-07 02:01:59,543 - INFO - Found 0 results
+2025-11-07 02:02:01,543 - INFO - Trying strategy: fuzzy_title for 'Shah Abdul Latif Bhittai Risalo'
+2025-11-07 02:02:01,543 - INFO - Searching Archive.org: title:Shah AND title:Abdul AND title:Latif AND creator:Shah Abdul Latif Bhittai AND mediatype:texts AND date:[1690 TO 1752]
+2025-11-07 02:02:01,774 - INFO - Found 0 results
+2025-11-07 02:02:03,775 - INFO - Trying strategy: author_language for 'Shah Abdul Latif Bhittai Risalo'
+2025-11-07 02:02:03,775 - INFO - Searching Archive.org: creator:"Shah Abdul Latif Bhittai" AND language:Sindhi AND mediatype:texts AND date:[1690 TO 1752]
+2025-11-07 02:02:04,020 - INFO - Found 0 results
+2025-11-07 02:02:06,021 - WARNING - No results found for: Shah Abdul Latif Bhittai Risalo
+2025-11-07 02:02:06,025 - INFO - 
+================================================================================
+2025-11-07 02:02:06,025 - INFO - DISCOVERY COMPLETE
+2025-11-07 02:02:06,026 - INFO - ================================================================================
+2025-11-07 02:02:06,026 - INFO - Works searched: 21
+2025-11-07 02:02:06,026 - INFO - Works found: 0
+2025-11-07 02:02:06,026 - INFO - Success rate: 0.0%
+2025-11-07 02:02:06,026 - INFO - 
+Results saved to: /home/user/dhwani/potential-candidates-2/metadata
+2025-11-07 02:02:06,026 - INFO - 
+By category:

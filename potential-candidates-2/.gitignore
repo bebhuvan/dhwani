@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Downloaded files (large binary files)
+downloads/*.txt
+downloads/*.pdf
+downloads/*.epub
+downloads/*.html
+
+# Keep the directories but not their contents initially
+!downloads/.gitkeep
+!processed/.gitkeep
