@@ -1,0 +1,817 @@
+{
+  "wave": 8,
+  "description": "Buddhism, Jainism, Regional Languages (Marathi, Kannada, Telugu), Art, Folklore, Religion & Social Life",
+  "totalWorks": 135,
+  "allResults": [
+    {
+      "id": "accountofembass00turn",
+      "title": "An account of an embassy to the court of the Teshoo Lama, in Tibet",
+      "creator": "Turner, Samuel",
+      "year": 1800
+    },
+    {
+      "id": "recherchessurbud00ozer",
+      "title": "Recherches sur Buddou ou Boudou",
+      "creator": "Ozeray, Michel Jean Francois",
+      "year": 1817
+    },
+    {
+      "id": "asiapolyglotta00klap_0",
+      "title": "Asia polyglotta",
+      "creator": "Klaproth, Julius von",
+      "year": 1823
+    },
+    {
+      "id": "acompendiouspal00tolfgoog",
+      "title": "A Compendious Pali Grammar: With a Vocabulary in the Same Language",
+      "creator": "Benjamin Clough, William Tolfrey",
+      "year": 1824
+    },
+    {
+      "id": "bub_gb_y5TdFtrNqUwC",
+      "title": "Essai sur le pali",
+      "creator": "Burnouf, Émile; Lassen, Christian",
+      "year": 1826
+    },
+    {
+      "id": "historydoctrineo00upha",
+      "title": "The history and doctrine of Budhism, popularly illustrated",
+      "creator": "Upham, Edward",
+      "year": 1829
+    },
+    {
+      "id": "translationsfrom00neum",
+      "title": "Translations from the Chinese and Armenian",
+      "creator": "Neumann, Karl Friedrich",
+      "year": 1831
+    },
+    {
+      "id": "catechismofshama00choorich",
+      "title": "The Catechism of the shamans, or, The laws and regulations of the priesthood of Buddha in China",
+      "creator": "Choo-hung; Neumann, Karl Friedrich",
+      "year": 1831
+    },
+    {
+      "id": "mahvansirj01upha",
+      "title": "The Mhávansi, the Ráj́aratná́cari, and the Rá́javali Vol. 1",
+      "creator": "Upham, Edward; Abharaya; Fox, William Buckley; Mahanama",
+      "year": 1833
+    },
+    {
+      "id": "mahvansirj02upha",
+      "title": "The Mhávansi, the Ráj́aratná́cari, and the Rá́javali Vol. 2",
+      "creator": "Upham, Edward; Abharaya; Fox, William Buckley; Mahanama",
+      "year": 1833
+    },
+    {
+      "id": "mahvansirj03upha",
+      "title": "The Mhávansi, the Ráj́aratná́cari, and the Rá́javali Vol. 3",
+      "creator": "Upham, Edward; Abharaya; Fox, William Buckley; Mahanama",
+      "year": 1833
+    },
+    {
+      "id": "fokoukiourelatio00fahs",
+      "title": "Fo Kou Ki: ou, Relation des royaumes bouddhiques",
+      "creator": "Fa-hsien; Rémusat, Abel; Klaproth, Julius von",
+      "year": 1836
+    },
+    {
+      "id": "anepitomehistor00turngoog",
+      "title": "An Epitome of the History of Ceylon Compiled from Native Annals",
+      "creator": "George Turnour",
+      "year": 1836
+    },
+    {
+      "id": "mahwanoinromanc00mahgoog",
+      "title": "The Mahawanso in roman characters, with the translation subjoined",
+      "creator": "Mahanama; Turnour, George",
+      "year": 1837
+    },
+    {
+      "id": "in.gov.ignca.9258",
+      "title": "The Mahawanso vol.1",
+      "creator": "Turnour, George",
+      "year": 1837
+    },
+    {
+      "id": "treatiseonbuddhi00desi",
+      "title": "A treatise on Buddhist philosophy or Abidhamma",
+      "creator": "De Silva, C. L. A",
+      "year": 1837
+    },
+    {
+      "id": "illustrationsofl00hodg_0",
+      "title": "Illustrations of the literature and religion of the Buddhists",
+      "creator": "Hodgson, B. H.",
+      "year": 1841
+    },
+    {
+      "id": "MN41423ucmf_0",
+      "title": "Introduction à l'histoire du buddhisme indien, t. 1",
+      "creator": "Burnouf, Eugène",
+      "year": 1844
+    },
+    {
+      "id": "visuddhimrgaya01budduoft",
+      "title": "Visuddhimrgaya Vol. 1",
+      "creator": "Buddhaghosa; Dhammaratana, Kamburupitiye; Parkrama Bhu",
+      "year": 1847
+    },
+    {
+      "id": "visuddhimrgaya02budduoft",
+      "title": "Visuddhimrgaya Vol. 2",
+      "creator": "Buddhaghosa; Dhammaratana, Kamburupitiye; Parkrama Bhu",
+      "year": 1847
+    },
+    {
+      "id": "pilgrimageoffahi00faxi",
+      "title": "The pilgrimage of Fa Hian",
+      "creator": "Faxian",
+      "year": 1848
+    },
+    {
+      "id": "kalpasutranavata00stevrich",
+      "title": "The Kalpa sutra, and Nava tatva: two works illustrative of the Jain religion and philosophy",
+      "creator": "Stevenson, J. (John)",
+      "year": 1848
+    },
+    {
+      "id": "kalpasutraandna00bhadgoog",
+      "title": "The Kalpa sutra, and Nava tatva",
+      "creator": "Bhadrabhahu; Stevenson, J.",
+      "year": 1848
+    },
+    {
+      "id": "the-indian-empire-volume-1",
+      "title": "The Indian Empire, Volume 1",
+      "creator": "Government of India",
+      "year": 1857
+    },
+    {
+      "id": "the-indian-empire-volume-2",
+      "title": "The Indian Empire, Volume 2",
+      "creator": "Government of India",
+      "year": 1857
+    },
+    {
+      "id": "the-indian-empire-volume-3",
+      "title": "The Indian Empire, Volume 3",
+      "creator": "Government of India",
+      "year": 1857
+    },
+    {
+      "id": "essayslectureson01wils",
+      "title": "Essays and lectures on the religions of the Hindus Vol. 1",
+      "creator": "Wilson, H. H.; Rost, Reinhold",
+      "year": 1861
+    },
+    {
+      "id": "essayslectureson02wils",
+      "title": "Essays and lectures on the religions of the Hindus Vol. 2",
+      "creator": "Wilson, H. H.; Rost, Reinhold",
+      "year": 1861
+    },
+    {
+      "id": "the-swastika-the-earliest-known-symbol-and-its-migrations-with-observations",
+      "title": "THE SWASTIKA, THE EARLIEST KNOWN SYMBOL, AND ITS MIGRATIONS",
+      "creator": "Thomas Wilson",
+      "year": 1868
+    },
+    {
+      "id": "ain-i-akbari-administration-of-akbar-volume-1",
+      "title": "Ain I Akbari, Administration of Mughal Emperor Akbar, Volume 1",
+      "creator": "Abul Fazl",
+      "year": 1873
+    },
+    {
+      "id": "ain-i-akbari-administration-of-akbar-volume-2",
+      "title": "Ain I Akbari, Administration of Mughal Emperor Akbar, Volume 2",
+      "creator": "Abul Fazl",
+      "year": 1873
+    },
+    {
+      "id": "overdegodsdiens00warrgoog",
+      "title": "Over de godsdienstige en wijsgeerige begrippen der jaina's",
+      "creator": "Warren, Sybrandus Johannes",
+      "year": 1875
+    },
+    {
+      "id": "cu31924022953529",
+      "title": "Jainism, or, The early faith of Asoka: with illustrations of the ancient religions of the East",
+      "creator": "Thomas, Edward",
+      "year": 1877
+    },
+    {
+      "id": "jainism_00thom",
+      "title": "Jainism",
+      "creator": "Thomas, Edward",
+      "year": 1877
+    },
+    {
+      "id": "in.gov.ignca.35386",
+      "title": "Jainism on the early faith of Asoka",
+      "creator": "Thomas, Edward",
+      "year": 1877
+    },
+    {
+      "id": "b30094483",
+      "title": "The Kalpasûtra of Bhadrabâhu",
+      "creator": "Bhadrabahu",
+      "year": 1879
+    },
+    {
+      "id": "cu31924023004512",
+      "title": "The religions of India",
+      "creator": "Barthe, Auguste; Wood, James",
+      "year": 1882
+    },
+    {
+      "id": "religionsofindia00bart",
+      "title": "The religions of India",
+      "creator": "Barth, Auguste; Wood, James",
+      "year": 1882
+    },
+    {
+      "id": "dasaupaptikas00leum",
+      "title": "Das Aupapâtika Sûtra, erstes Upânga der Jaina. 1. Theil",
+      "creator": "Leumann, Ernst",
+      "year": 1883
+    },
+    {
+      "id": "gainastras02jaco",
+      "title": "Gaina sûtras",
+      "creator": "Jacobi, Hermann Georg",
+      "year": 1884
+    },
+    {
+      "id": "sacredbookseast17mulluoft",
+      "title": "Gaina sutras",
+      "creator": "Jacobi, Hermann Georg",
+      "year": 1884
+    },
+    {
+      "id": "gainasutras01jacouoft",
+      "title": "Gaina sutras",
+      "creator": "Jacobi, Hermann Georg",
+      "year": 1884
+    },
+    {
+      "id": "lesideesphilosop00warr",
+      "title": "Les idées philosophiques et religieuses des Jainas",
+      "creator": "Warren, Sybrandus Johannes; Pointet, J",
+      "year": 1887
+    },
+    {
+      "id": "hoernle-the-uvasagadasao-v.-2-1888",
+      "title": "Hoernle The Uvāsagadāsāo V. 2",
+      "creator": "A. F. R. Hoernle",
+      "year": 1888
+    },
+    {
+      "id": "dli.csl.6823",
+      "title": "Inscriptions at Sravana Belgola a chief seat of the Jains",
+      "creator": "Rice, B. Lewis",
+      "year": 1889
+    },
+    {
+      "id": "inscriptionsatsr00rice",
+      "title": "Inscriptions at Sravana Belgola: a chief seat of the Jains",
+      "creator": "Rice, B. Lewis; Archaeological Survey of Mysore",
+      "year": 1889
+    },
+    {
+      "id": "upasakadaasutram01uvasuoft",
+      "title": "Upasakadaa-sutram",
+      "creator": "Uvasagadasao; Abhayadeva Suri; Hoernle, August Friedrich Rudolf",
+      "year": 1890
+    },
+    {
+      "id": "b30095207",
+      "title": "Daśavaikalika-sûtra",
+      "creator": "Bhadrabāhu; Leumann, Ernst; Śayyambhava",
+      "year": 1892
+    },
+    {
+      "id": "b24879691",
+      "title": "The Kathákoc­a: or, Treasury of stories",
+      "creator": "Leumann, Ernst",
+      "year": 1895
+    },
+    {
+      "id": "cu31924023155595",
+      "title": "The Kathákoc­a; or, Treasury of stories",
+      "creator": "Tawney, C. H.; Leumann, Ernst",
+      "year": 1895
+    },
+    {
+      "id": "cu31924023005279",
+      "title": "Parsi, Jaina and Sikh, or, Some minor religious sects in India",
+      "creator": "Thornton, Douglas Montagu",
+      "year": 1898
+    },
+    {
+      "id": "dli.ministry.26355",
+      "title": "Marathi translation of Berquin's children's friend",
+      "creator": "Various",
+      "year": 1828
+    },
+    {
+      "id": "dli.ministry.25532",
+      "title": "Conversations on Natural Philosophy, translated from English into Marathi",
+      "creator": "Keśavajī, Harī",
+      "year": 1833
+    },
+    {
+      "id": "marathi1835",
+      "title": "Marathi Book of Common Prayer",
+      "creator": "Church of England",
+      "year": 1835
+    },
+    {
+      "id": "in.ernet.dli.2015.382310",
+      "title": "Marathi Theptar",
+      "creator": "Bhawe, Vinayak Laxman",
+      "year": 1839
+    },
+    {
+      "id": "in.ernet.dli.2015.30400",
+      "title": "Farsi Marathi Kosh",
+      "creator": "Madhav",
+      "year": 1847
+    },
+    {
+      "id": "dli.ernet.14948",
+      "title": "A Dictionary English and Marathi (1847)",
+      "creator": "Various",
+      "year": 1847
+    },
+    {
+      "id": "in.ernet.dli.2015.169475",
+      "title": "A Dictionary English And Marathi",
+      "creator": "J.t. Molesworth",
+      "year": 1847
+    },
+    {
+      "id": "oldtestamentinm00socigoog",
+      "title": "The Old Testament in the Marathi language",
+      "creator": "Bombay Auxiliary Bible Society",
+      "year": 1853
+    },
+    {
+      "id": "burgess-grammar-of-the-marathi-language",
+      "title": "Grammar of the Marathi language",
+      "creator": "Burgess, Ebenezer",
+      "year": 1854
+    },
+    {
+      "id": "glossaryofjudici00wilsuoft",
+      "title": "A glossary of judicial and revenue terms and of useful words occurring in official documents",
+      "creator": "Wilson, H. H.",
+      "year": 1855
+    },
+    {
+      "id": "marathi-bible",
+      "title": "Marathi Bible",
+      "creator": "Bombay Auxiliary Bible Society",
+      "year": 1855
+    },
+    {
+      "id": "compendiumofmole00mole",
+      "title": "A compendium of Molesworth's Marathi and English dictionary",
+      "creator": "Molesworth, J. T.; Padmanji, Baba",
+      "year": 1863
+    },
+    {
+      "id": "dli.ministry.03795",
+      "title": "Life and Exploits of Shivaji : translated into English from an unpublished Marathi Manuscript",
+      "creator": "Mankar, Jagannath Lakshuman",
+      "year": 1867
+    },
+    {
+      "id": "grammarofmarathi00belluoft",
+      "title": "A grammar of the Marathi language",
+      "creator": "Bellairs, Henry Spencer Kenrick; Lakshmana Yadava Askhedkar",
+      "year": 1868
+    },
+    {
+      "id": "comprehensivedic00padmrich",
+      "title": "A comprehensive dictionary, English and Marathi",
+      "creator": "Padmanji, Baba",
+      "year": 1870
+    },
+    {
+      "id": "acomparativegra04beamgoog",
+      "title": "A comparative grammar of the modern Aryan languages of India : to wit, Hindi, Panjabi, Sindhi, Gujarati, Marathi, Oriya, and Bangali",
+      "creator": "Beames, John",
+      "year": 1872
+    },
+    {
+      "id": "comparativegramm03beamuoft",
+      "title": "A comparative grammar of the modern Aryan languages of India Vol. 3",
+      "creator": "Beames, John",
+      "year": 1872
+    },
+    {
+      "id": "dictionaryenglis00molerich",
+      "title": "Dictionary English and Marathi : compiled for the government of Bombay",
+      "creator": "Molesworth, J. T.; Candy, T.",
+      "year": 1873
+    },
+    {
+      "id": "kannada-john-print",
+      "title": "Kannada - John (Print)",
+      "creator": "Bible Society",
+      "year": 1831
+    },
+    {
+      "id": "in.ernet.dli.2015.31379",
+      "title": "Dictionary Kannada And English",
+      "creator": "W. Reeve",
+      "year": 1858
+    },
+    {
+      "id": "dli.CiXIV254",
+      "title": "An elementary grammar of the Kannada, or Canarese language",
+      "creator": "T. C. Hodson",
+      "year": 1859
+    },
+    {
+      "id": "dli.ministry.01847",
+      "title": "An elementary grammar of the Kannada, or Canarese language",
+      "creator": "Thomas Hodson",
+      "year": 1859
+    },
+    {
+      "id": "hodson-an-elementary-grammar-of-the-kannada-or-canarese-language-1864",
+      "title": "An elementary grammar of the Kannada, or Canarese language (1864)",
+      "creator": "Thomas Hodson",
+      "year": 1864
+    },
+    {
+      "id": "kannadaenglishsc00buchrich",
+      "title": "Kannada-English school-dictionary",
+      "creator": "J. Bucher, F. Kittel",
+      "year": 1899
+    },
+    {
+      "id": "grammarofkannada00kittuoft",
+      "title": "A grammar of the Kannada language in English",
+      "creator": "F. Kittel",
+      "year": 1903
+    },
+    {
+      "id": "dli.CiXIV43",
+      "title": "A Grammar of the Telugu language",
+      "creator": "Charles Philip Brown",
+      "year": 1840
+    },
+    {
+      "id": "grammaroftelugul0000brow",
+      "title": "A Grammar of the Telugu Language",
+      "creator": "Brown, Charles Philip",
+      "year": 1840
+    },
+    {
+      "id": "ghanavrttam-in-telugu-script",
+      "title": "Ghanavrttam In Telugu Script",
+      "creator": "Korada Ramachandra Sastri",
+      "year": 1850
+    },
+    {
+      "id": "Upamavali",
+      "title": "Upamavali (Telugu Script)",
+      "creator": "Korada Ramachandra Sastri",
+      "year": 1850
+    },
+    {
+      "id": "brown-a-dictionary-telugu-and-english",
+      "title": "A Dictionary, Telugu and English",
+      "creator": "Brown, Charles Philip",
+      "year": 1852
+    },
+    {
+      "id": "brown-vakyavali-or-exercises-in-idioms-english-and-telugu",
+      "title": "Vakyavali; or, Exercises in idioms, English and Telugu",
+      "creator": "Charles Philip Brown",
+      "year": 1852
+    },
+    {
+      "id": "in.ernet.dli.2015.108849",
+      "title": "English-Telugu Dictionary",
+      "creator": "Charles Philip Brown",
+      "year": 1852
+    },
+    {
+      "id": "dli.CiXIV59",
+      "title": "Dialogues in Telugu and English, with a grammatical analysis",
+      "creator": "Brown, Charles Philip",
+      "year": 1853
+    },
+    {
+      "id": "dictionaryofmixe0000char",
+      "title": "A Dictionary of the Mixed Telugu",
+      "creator": "Charles Philip Brown",
+      "year": 1854
+    },
+    {
+      "id": "brown-a-grammar-of-the-telugu-language",
+      "title": "A grammar of the Telugu language",
+      "creator": "Brown, Charles Philip",
+      "year": 1857
+    },
+    {
+      "id": "teluguenglishdic0000revp",
+      "title": "Telugu-English Dictionary",
+      "creator": "Rev. P. Percival",
+      "year": 1862
+    },
+    {
+      "id": "teluguenglishdic00perc",
+      "title": "Telugu-English dictionary",
+      "creator": "Percival, P",
+      "year": 1862
+    },
+    {
+      "id": "dli.ministry.04264",
+      "title": "A memoir of the Rev. Robert Turlington Noble",
+      "creator": "Noble, John",
+      "year": 1868
+    },
+    {
+      "id": "wg238",
+      "title": "1868 - A Collection Of Telugu Proverbs",
+      "creator": "M W Carr",
+      "year": 1868
+    },
+    {
+      "id": "dli.CiXIV64",
+      "title": "A supplement to the collection of Telugu proverbs",
+      "creator": "Carr, Mark William",
+      "year": 1868
+    },
+    {
+      "id": "arden-a-progressive-grammar-of-the-telugu-language",
+      "title": "A progressive Grammar of the Telugu language",
+      "creator": "Arden, Albert Henry",
+      "year": 1873
+    },
+    {
+      "id": "dli.ministry.05425",
+      "title": "Progressive grammar of the telugu language",
+      "creator": "Arden, A H",
+      "year": 1873
+    },
+    {
+      "id": "dli.ministry.05202",
+      "title": "Pictures of England: translated from the telugu",
+      "creator": "Ragaviah, Pothum Janakummah",
+      "year": 1876
+    },
+    {
+      "id": "in.ernet.dli.2015.46653",
+      "title": "Telugu Reader",
+      "creator": "Arden, A. H.",
+      "year": 1879
+    },
+    {
+      "id": "companiontelugur00ardeiala",
+      "title": "A companion Telugu reader to Arden's Progressive Telugu grammar",
+      "creator": "Arden, Albert Henry",
+      "year": 1879
+    },
+    {
+      "id": "holybiblecontain00madr",
+      "title": "The Holy Bible, containing the Old and New Testaments",
+      "creator": "Bible Society",
+      "year": 1881
+    },
+    {
+      "id": "fromdarknesstoli00clou",
+      "title": "From darkness to light: a story of the Telugu awakening",
+      "creator": "Clough, John Everett",
+      "year": 1882
+    },
+    {
+      "id": "dli.csl.8028",
+      "title": "Report on illustration of archaic architecture of india",
+      "creator": "Watson, Forbes",
+      "year": 1869
+    },
+    {
+      "id": "in.gov.ignca.29161",
+      "title": "Handbook of the manufactures and arts vol.II",
+      "creator": "Powell, B.H. Baden",
+      "year": 1872
+    },
+    {
+      "id": "in.gov.ignca.23103",
+      "title": "Hand-book of the manufactures and arts of the Punjab vol.II",
+      "creator": "Powell, B.H.Baden",
+      "year": 1872
+    },
+    {
+      "id": "amanualhistoric01zerfgoog",
+      "title": "A Manual of the Historical Development of Art",
+      "creator": "George Gustavus Zerffi",
+      "year": 1876
+    },
+    {
+      "id": "dli.ministry.03084",
+      "title": "Indian and eastern architecture",
+      "creator": "Fergusson, James",
+      "year": 1876
+    },
+    {
+      "id": "S0001967",
+      "title": "The industrial arts of India",
+      "creator": "Birdwood, George C. M., Sir",
+      "year": 1880
+    },
+    {
+      "id": "memorialsjeypor1hend",
+      "title": "Memorials of the Jeypore Exhibition 1883",
+      "creator": "Hendley, Thomas Holbein",
+      "year": 1883
+    },
+    {
+      "id": "archaeologyinin00ferggoog",
+      "title": "Archaeology in India",
+      "creator": "James Fergusson",
+      "year": 1884
+    },
+    {
+      "id": "dli.csl.7397",
+      "title": "Technical art series of illustrations of Indian architectural decorative work Vol-I",
+      "creator": "Various",
+      "year": 1888
+    },
+    {
+      "id": "dli.csl.7412",
+      "title": "Technical art series of illustrations of Indian architectural decorative work Vol-II",
+      "creator": "Various",
+      "year": 1888
+    },
+    {
+      "id": "in.gov.ignca.37177",
+      "title": "Technical art series of illustrations of Indian architectural decorative work",
+      "creator": "Various",
+      "year": 1890
+    },
+    {
+      "id": "in.gov.ignca.22965",
+      "title": "Modern Indian Architecture",
+      "creator": "Ishwar",
+      "year": 1892
+    },
+    {
+      "id": "dli.csl.7704",
+      "title": "The journal of Indian art",
+      "creator": "Various",
+      "year": 1892
+    },
+    {
+      "id": "dli.csl.7040",
+      "title": "Folk-Tales of Kashmir",
+      "creator": "Knowles, J. Hinton",
+      "year": 1893
+    },
+    {
+      "id": "saurashtra-ni-rasdhar",
+      "title": "સૌરાષ્ટ્રની રસધાર (Saurashtra ni Rasdhar)",
+      "creator": "Jhaverchand Meghani",
+      "year": 1923
+    },
+    {
+      "id": "dli.csl.5156",
+      "title": "Hatim's tales Kashmiri stories and songs recorded with the assistance of Pandit Govind Kaul",
+      "creator": "Stein, Aurel",
+      "year": 1923
+    },
+    {
+      "id": "morningcallsinin00gard",
+      "title": "Morning calls in India",
+      "creator": "Gardner, Sarah F",
+      "year": 1800
+    },
+    {
+      "id": "tableaureligieu00bassgoog",
+      "title": "Tableau religieux et politique de l'Indostan",
+      "creator": "C*** (de Courcy), Mr",
+      "year": 1803
+    },
+    {
+      "id": "indianrecreation01tennuoft",
+      "title": "Indian recreations; consisting chiefly of strictures on the domestic and rural economy of the Mahomedans and Hindoos",
+      "creator": "Tennant, William",
+      "year": 1804
+    },
+    {
+      "id": "eastindiavademec02will",
+      "title": "The East India vade-mecum",
+      "creator": "Williamson, Thomas",
+      "year": 1810
+    },
+    {
+      "id": "descriptionofcha00dubo",
+      "title": "Description of the character, manners, and customs of the people of India",
+      "creator": "Dubois, J. A.",
+      "year": 1817
+    },
+    {
+      "id": "descriptionofcha01dubo",
+      "title": "Description of the character, manners, and customs of the people of India Vol. 1",
+      "creator": "Dubois, Jean Antoine",
+      "year": 1818
+    },
+    {
+      "id": "descriptionofcha02dubo",
+      "title": "Description of the character, manners, and customs of the people of India Vol. 2",
+      "creator": "Dubois, Jean Antoine",
+      "year": 1818
+    },
+    {
+      "id": "essaysrelativeto00bentrich",
+      "title": "Essays relative to the habits, character, and moral improvement of the Hindoos",
+      "creator": "Bentley, John",
+      "year": 1823
+    },
+    {
+      "id": "generaleastindi00unkngoog",
+      "title": "The general east India guide and vade mecum",
+      "creator": "Gilchrist, John Borthwick",
+      "year": 1825
+    },
+    {
+      "id": "panduranghro01hock",
+      "title": "Pandurang Hàrî, or Memoirs of a Hindoo Vol. 1",
+      "creator": "Hockley, W. B.",
+      "year": 1826
+    },
+    {
+      "id": "tomrawgriffinbur00doylrich",
+      "title": "Tom Raw, the Griffin",
+      "creator": "D'Oyly, Charles, Sir",
+      "year": 1828
+    },
+    {
+      "id": "narrativeofjourn01hebeuoft",
+      "title": "Narrative of a journey through the upper provinces of India Vol. 1",
+      "creator": "Heber, Reginald",
+      "year": 1828
+    },
+    {
+      "id": "qanooneislamorcu00jafa",
+      "title": "Qanoon-e-Islam, or, the Customs of the Moosulmans of India",
+      "creator": "Ja'far Sharif; Herklots, Gerhard Andreas",
+      "year": 1832
+    },
+    {
+      "id": "eastindisketchbo02bentrich",
+      "title": "The East India sketch-book",
+      "creator": "Various",
+      "year": 1832
+    },
+    {
+      "id": "indianrecollecti00statrich",
+      "title": "Indian recollections",
+      "creator": "Statham, John",
+      "year": 1832
+    },
+    {
+      "id": "orientalfragment00moorrich",
+      "title": "Oriental fragments",
+      "creator": "Moor, Edward",
+      "year": 1834
+    },
+    {
+      "id": "historyantiquit03martgoog",
+      "title": "The history, antiquities, topography, and statistics of eastern India",
+      "creator": "Martin, Robert Montgomery",
+      "year": 1838
+    },
+    {
+      "id": "kathasaritsagar00brocgoog",
+      "title": "Katha sarit sagara",
+      "creator": "Somadeva Bhatta",
+      "year": 1839
+    },
+    {
+      "id": "ramblesrecollect01sleeuoft",
+      "title": "Rambles and recollections of an Indian official Vol. 1",
+      "creator": "Sleeman, Sir, William Henry",
+      "year": 1844
+    },
+    {
+      "id": "ramblesrecollect02sleeuoft",
+      "title": "Rambles and recollections of an Indian official Vol. 2",
+      "creator": "Sleeman, Sir, William Henry",
+      "year": 1844
+    },
+    {
+      "id": "indiaitsnativesm00trevuoft",
+      "title": "India: its natives and missions",
+      "creator": "Trevor, George",
+      "year": 1850
+    }
+  ]
+}
