@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "generated": "2025-11-08",
+    "total_works": 80,
+    "categories": {
+      "HIGH": 8,
+      "MEDIUM": 35,
+      "LOW": 37
+    },
+    "description": "Complete database of missing Indian works from Project Gutenberg for Dhwani"
+  },
+  "works": {
+    "HIGH_PRIORITY": [
+      {
+        "id": "amb-castes",
+        "gutenbergId": 63231,
+        "title": "Castes In India: Their Mechanism, Genesis and Development",
+        "author": "B. R. Ambedkar",
+        "year": 1916,
+        "status": "COMPLETED",
+        "priority": "HIGH",
+        "type": "indian_author",
+        "genre": ["Social Science", "Anthropology", "Political Philosophy"],
+        "collections": ["modern-literature", "social-studies"]
+      },
+      {
+        "id": "lajpat-young-india",
+        "gutenbergId": 49329,
+        "title": "Young India: An Interpretation and a History of the Nationalist Movement from Within",
+        "author": "Lala Lajpat Rai",
+        "year": 1916,
+        "status": "COMPLETED",
+        "priority": "HIGH",
+        "type": "indian_author",
+        "genre": ["Political Literature", "History", "Nationalist Literature"],
+        "collections": ["modern-literature", "political-philosophy"]
+      },
+      {
+        "id": "lajpat-political-future",
+        "gutenbergId": 41819,
+        "title": "The Political Future of India",
+        "author": "Lala Lajpat Rai",
+        "year": 1919,
+        "status": "COMPLETED",
+        "priority": "HIGH",
+        "type": "indian_author",
+        "genre": ["Political Literature", "Political Philosophy"],
+        "collections": ["modern-literature", "political-philosophy"]
+      },
+      {
+        "id": "lajpat-lloyd-george",
+        "gutenbergId": 39874,
+        "title": "An Open Letter to the Right Honorable David Lloyd George",
+        "author": "Lala Lajpat Rai",
+        "year": 1917,
+        "priority": "HIGH",
+        "type": "indian_author",
+        "genre": ["Political Literature", "Letters"],
+        "collections": ["modern-literature", "political-philosophy"],
+        "archiveLinks": ["https://archive.org/details/openlettertorigh00lajpuoft"]
+      },
+      {
+        "id": "kipling-jungle-book",
+        "gutenbergId": 236,
+        "title": "The Jungle Book",
+        "author": "Rudyard Kipling",
+        "year": 1894,
+        "priority": "HIGH",
+        "type": "western_about_india",
+        "genre": ["Fiction", "Short Stories", "Children's Literature"],
+        "collections": ["classical-literature"],
+        "archiveLinks": [
+          "https://archive.org/details/the-jungle-book-rudyard-kipling",
+          "https://archive.org/details/junglebook1894ed0000rudy",
+          "https://archive.org/details/junglebookkipl"
+        ]
+      },
+      {
+        "id": "kipling-second-jungle",
+        "gutenbergId": 1937,
+        "title": "The Second Jungle Book",
+        "author": "Rudyard Kipling",
+        "year": 1895,
+        "priority": "HIGH",
+        "type": "western_about_india",
+        "genre": ["Fiction", "Short Stories", "Children's Literature"],
+        "collections": ["classical-literature"],
+        "archiveLinks": [
+          "https://archive.org/details/secondjunglebook00kipluoft",
+          "https://archive.org/details/thesecondjungleb37364gut",
+          "https://archive.org/details/secondjunglebook0000kipl_f5d5"
+        ]
+      },
+      {
+        "id": "kipling-kim",
+        "gutenbergId": 2226,
+        "title": "Kim",
+        "author": "Rudyard Kipling",
+        "year": 1901,
+        "priority": "HIGH",
+        "type": "western_about_india",
+        "genre": ["Fiction", "Adventure", "Spy Fiction"],
+        "collections": ["classical-literature"],
+        "archiveLinks": [
+          "https://archive.org/details/kimkipling00kipluoft",
+          "https://archive.org/details/kim-full",
+          "https://archive.org/details/kim0000rudy_o0y7"
+        ]
+      },
+      {
+        "id": "thurston-omens",
+        "gutenbergId": 35690,
+        "title": "Omens and Superstitions of Southern India",
+        "author": "Edgar Thurston",
+        "year": 1912,
+        "priority": "HIGH",
+        "type": "ethnography",
+        "genre": ["Ethnography", "Folklore", "Anthropology"],
+        "collections": ["folklore", "social-studies"],
+        "archiveLinks": [
+          "https://archive.org/details/omenssuperstitio00thur",
+          "https://archive.org/details/ThurstonOmensSuperstitionsSouthernIndia",
+          "https://archive.org/details/in.ernet.dli.2015.529439"
+        ]
+      }
+    ],
+    "MEDIUM_PRIORITY": [
+      {
+        "gutenbergId": 18237,
+        "title": "A Bird Calendar for Northern India",
+        "author": "Douglas Dewar",
+        "year": 1916,
+        "type": "natural_history",
+        "genre": ["Natural History", "Ornithology"],
+        "collections": ["natural-history"]
+      },
+      {
+        "gutenbergId": 23755,
+        "title": "Birds of the Indian Hills",
+        "author": "Douglas Dewar",
+        "year": 1915,
+        "type": "natural_history",
+        "genre": ["Natural History", "Ornithology"],
+        "collections": ["natural-history"]
+      },
+      {
+        "gutenbergId": 46017,
+        "title": "Indian Birds: A Key to the Common Birds of the Plains of India",
+        "author": "Douglas Dewar",
+        "year": 1909,
+        "type": "natural_history",
+        "genre": ["Natural History", "Ornithology", "Field Guide"],
+        "collections": ["natural-history"]
+      },
+      {
+        "gutenbergId": 46318,
+        "title": "Jungle Folk: Indian Natural History Sketches",
+        "author": "Douglas Dewar",
+        "year": 1912,
+        "type": "natural_history",
+        "genre": ["Natural History", "Wildlife"],
+        "collections": ["natural-history"]
+      },
+      {
+        "gutenbergId": 46394,
+        "title": "Birds of the Plains",
+        "author": "Douglas Dewar",
+        "year": 1909,
+        "type": "natural_history",
+        "genre": ["Natural History", "Ornithology"],
+        "collections": ["natural-history"]
+      },
+      {
+        "gutenbergId": 46425,
+        "title": "Glimpses of Indian Birds",
+        "author": "Douglas Dewar",
+        "year": 1913,
+        "type": "natural_history",
+        "genre": ["Natural History", "Ornithology"],
+        "collections": ["natural-history"]
+      },
+      {
+        "gutenbergId": 4400,
+        "title": "Hira Singh: when India came to fight in Flanders",
+        "author": "Talbot Mundy",
+        "year": 1918,
+        "type": "fiction_india",
+        "genre": ["Fiction", "Adventure", "Historical Fiction"],
+        "collections": ["classical-literature"]
+      },
+      {
+        "gutenbergId": 5153,
+        "title": "Rung Ho! A Novel",
+        "author": "Talbot Mundy",
+        "year": 1914,
+        "type": "fiction_india",
+        "genre": ["Fiction", "Adventure", "Historical Fiction"],
+        "collections": ["classical-literature"]
+      },
+      {
+        "gutenbergId": 5315,
+        "title": "Told in the East",
+        "author": "Talbot Mundy",
+        "year": 1920,
+        "type": "fiction_india",
+        "genre": ["Fiction", "Adventure", "Short Stories"],
+        "collections": ["classical-literature"]
+      },
+      {
+        "gutenbergId": 5606,
+        "title": "Guns of the Gods: A Story of Yasmini's Youth",
+        "author": "Talbot Mundy",
+        "year": 1921,
+        "type": "fiction_india",
+        "genre": ["Fiction", "Adventure"],
+        "collections": ["classical-literature"]
+      },
+      {
+        "gutenbergId": 6751,
+        "title": "The Winds of the World",
+        "author": "Talbot Mundy",
+        "year": 1917,
+        "type": "fiction_india",
+        "genre": ["Fiction", "Adventure", "Historical Fiction"],
+        "collections": ["classical-literature"]
+      },
+      {
+        "gutenbergId": 63231,
+        "title": "Castes In India",
+        "author": "B. R. Ambedkar",
+        "year": 1916,
+        "type": "indian_author",
+        "genre": ["Social Science", "Anthropology"],
+        "collections": ["modern-literature", "social-studies"]
+      },
+      {
+        "gutenbergId": 73610,
+        "title": "Sketches of Social Life in India",
+        "author": "Various",
+        "year": 1880,
+        "type": "social_studies",
+        "genre": ["Social Studies", "Ethnography"],
+        "collections": ["social-studies"]
+      },
+      {
+        "gutenbergId": 29109,
+        "title": "Les Parsis",
+        "author": "Delphine Menant",
+        "year": 1898,
+        "type": "ethnography",
+        "genre": ["Ethnography", "Religious Studies"],
+        "collections": ["social-studies"],
+        "language": ["French"]
+      },
+      {
+        "gutenbergId": 57468,
+        "title": "A Group of Eastern Romances and Stories from the Persian, Tamil and Urdu",
+        "author": "W. A. Clouston",
+        "year": 1889,
+        "type": "folklore",
+        "genre": ["Folklore", "Literature"],
+        "collections": ["folklore"]
+      },
+      {
+        "gutenbergId": 32528,
+        "title": "The Lusiad; Or, The Discovery of India, an Epic Poem",
+        "author": "Luís de Camões",
+        "year": 1655,
+        "type": "literature",
+        "genre": ["Epic Poetry", "Literature"],
+        "collections": ["classical-literature"]
+      },
+      {
+        "gutenbergId": 62346,
+        "title": "In Black and White",
+        "author": "Rudyard Kipling",
+        "year": 1888,
+        "type": "fiction_india",
+        "genre": ["Fiction", "Short Stories"],
+        "collections": ["classical-literature"]
+      }
+    ]
+  }
+}
