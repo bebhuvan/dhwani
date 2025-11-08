@@ -1,0 +1,651 @@
+{
+  "metadata": {
+    "generated": "2025-11-08",
+    "total_works": 80,
+    "status": "PROCESSING_ALL"
+  },
+  "HIGH_PRIORITY": [
+    {
+      "gutenbergId": 63231,
+      "title": "Castes In India: Their Mechanism, Genesis and Development",
+      "author": "B. R. Ambedkar",
+      "year": 1916,
+      "type": "indian_author",
+      "genre": ["Social Science", "Anthropology", "Political Philosophy"],
+      "collections": ["modern-literature", "social-studies"],
+      "status": "COMPLETED"
+    },
+    {
+      "gutenbergId": 49329,
+      "title": "Young India: An Interpretation and a History of the Nationalist Movement from Within",
+      "author": "Lala Lajpat Rai",
+      "year": 1916,
+      "type": "indian_author",
+      "genre": ["Political Literature", "History"],
+      "collections": ["modern-literature", "political-philosophy"],
+      "status": "COMPLETED"
+    },
+    {
+      "gutenbergId": 41819,
+      "title": "The Political Future of India",
+      "author": "Lala Lajpat Rai",
+      "year": 1919,
+      "type": "indian_author",
+      "genre": ["Political Literature", "Political Philosophy"],
+      "collections": ["modern-literature", "political-philosophy"],
+      "status": "COMPLETED"
+    },
+    {
+      "gutenbergId": 39874,
+      "title": "An Open Letter to the Right Honorable David Lloyd George",
+      "author": "Lala Lajpat Rai",
+      "year": 1917,
+      "type": "indian_author",
+      "genre": ["Political Literature", "Letters"],
+      "collections": ["modern-literature", "political-philosophy"],
+      "status": "COMPLETED"
+    },
+    {
+      "gutenbergId": 236,
+      "title": "The Jungle Book",
+      "author": "Rudyard Kipling",
+      "year": 1894,
+      "type": "western_about_india",
+      "genre": ["Fiction", "Short Stories", "Children's Literature"],
+      "collections": ["classical-literature"],
+      "status": "COMPLETED"
+    },
+    {
+      "gutenbergId": 1937,
+      "title": "The Second Jungle Book",
+      "author": "Rudyard Kipling",
+      "year": 1895,
+      "type": "western_about_india",
+      "genre": ["Fiction", "Short Stories", "Children's Literature"],
+      "collections": ["classical-literature"],
+      "status": "COMPLETED"
+    },
+    {
+      "gutenbergId": 2226,
+      "title": "Kim",
+      "author": "Rudyard Kipling",
+      "year": 1901,
+      "type": "western_about_india",
+      "genre": ["Fiction", "Adventure"],
+      "collections": ["classical-literature"],
+      "status": "COMPLETED"
+    },
+    {
+      "gutenbergId": 35690,
+      "title": "Omens and Superstitions of Southern India",
+      "author": "Edgar Thurston",
+      "year": 1912,
+      "type": "ethnography",
+      "genre": ["Ethnography", "Folklore", "Anthropology"],
+      "collections": ["folklore", "social-studies"],
+      "status": "COMPLETED"
+    }
+  ],
+  "MEDIUM_PRIORITY": [
+    {
+      "gutenbergId": 18237,
+      "title": "A Bird Calendar for Northern India",
+      "author": "Douglas Dewar",
+      "year": 1916,
+      "type": "natural_history",
+      "genre": ["Natural History", "Ornithology"],
+      "collections": ["natural-history"]
+    },
+    {
+      "gutenbergId": 23755,
+      "title": "Birds of the Indian Hills",
+      "author": "Douglas Dewar",
+      "year": 1915,
+      "type": "natural_history",
+      "genre": ["Natural History", "Ornithology"],
+      "collections": ["natural-history"]
+    },
+    {
+      "gutenbergId": 46017,
+      "title": "Indian Birds: A Key to the Common Birds of the Plains of India",
+      "author": "Douglas Dewar",
+      "year": 1909,
+      "type": "natural_history",
+      "genre": ["Natural History", "Ornithology", "Field Guide"],
+      "collections": ["natural-history"]
+    },
+    {
+      "gutenbergId": 46318,
+      "title": "Jungle Folk: Indian Natural History Sketches",
+      "author": "Douglas Dewar",
+      "year": 1912,
+      "type": "natural_history",
+      "genre": ["Natural History", "Wildlife"],
+      "collections": ["natural-history"]
+    },
+    {
+      "gutenbergId": 46394,
+      "title": "Birds of the Plains",
+      "author": "Douglas Dewar",
+      "year": 1909,
+      "type": "natural_history",
+      "genre": ["Natural History", "Ornithology"],
+      "collections": ["natural-history"]
+    },
+    {
+      "gutenbergId": 46425,
+      "title": "Glimpses of Indian Birds",
+      "author": "Douglas Dewar",
+      "year": 1913,
+      "type": "natural_history",
+      "genre": ["Natural History", "Ornithology"],
+      "collections": ["natural-history"]
+    },
+    {
+      "gutenbergId": 4400,
+      "title": "Hira Singh: when India came to fight in Flanders",
+      "author": "Talbot Mundy",
+      "year": 1918,
+      "type": "fiction_india",
+      "genre": ["Fiction", "Adventure", "Historical Fiction"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 5153,
+      "title": "Rung Ho! A Novel",
+      "author": "Talbot Mundy",
+      "year": 1914,
+      "type": "fiction_india",
+      "genre": ["Fiction", "Adventure", "Historical Fiction"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 5315,
+      "title": "Told in the East",
+      "author": "Talbot Mundy",
+      "year": 1920,
+      "type": "fiction_india",
+      "genre": ["Fiction", "Adventure", "Short Stories"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 5606,
+      "title": "Guns of the Gods: A Story of Yasmini's Youth",
+      "author": "Talbot Mundy",
+      "year": 1921,
+      "type": "fiction_india",
+      "genre": ["Fiction", "Adventure"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 6751,
+      "title": "The Winds of the World",
+      "author": "Talbot Mundy",
+      "year": 1917,
+      "type": "fiction_india",
+      "genre": ["Fiction", "Adventure", "Historical Fiction"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 63231,
+      "title": "Castes In India",
+      "author": "B. R. Ambedkar",
+      "year": 1916,
+      "type": "indian_author",
+      "genre": ["Social Science", "Anthropology"],
+      "collections": ["modern-literature", "social-studies"]
+    },
+    {
+      "gutenbergId": 46260,
+      "title": "Up the Country: Letters from Upper Provinces of India",
+      "author": "Emily Eden",
+      "year": 1866,
+      "type": "ethnography",
+      "genre": ["Travel", "Letters", "Colonial Literature"],
+      "collections": ["travel-literature"]
+    },
+    {
+      "gutenbergId": 46440,
+      "title": "A Journal of the First Voyage of Vasco da Gama 1497-1499",
+      "author": "Vasco da Gama",
+      "year": 1497,
+      "type": "ethnography",
+      "genre": ["Travel", "History", "Exploration"],
+      "collections": ["travel-literature", "historical-documents"]
+    },
+    {
+      "gutenbergId": 49177,
+      "title": "India under Ripon: A Private Diary",
+      "author": "Wilfrid Scawen Blunt",
+      "year": 1909,
+      "type": "ethnography",
+      "genre": ["Diary", "Political Commentary", "Colonial History"],
+      "collections": ["historical-documents"]
+    },
+    {
+      "gutenbergId": 74042,
+      "title": "Wanderings of a pilgrim in search of the picturesque, Volume 1",
+      "author": "Fanny Parkes Parlby",
+      "year": 1850,
+      "type": "ethnography",
+      "genre": ["Travel", "Memoir"],
+      "collections": ["travel-literature"]
+    },
+    {
+      "gutenbergId": 74043,
+      "title": "Wanderings of a pilgrim in search of the picturesque, Volume 2",
+      "author": "Fanny Parkes Parlby",
+      "year": 1850,
+      "type": "ethnography",
+      "genre": ["Travel", "Memoir"],
+      "collections": ["travel-literature"]
+    },
+    {
+      "gutenbergId": 52896,
+      "title": "Life and Travel in India",
+      "author": "Anna Harriette Leonowens",
+      "year": 1884,
+      "type": "ethnography",
+      "genre": ["Travel", "Memoir"],
+      "collections": ["travel-literature"]
+    },
+    {
+      "gutenbergId": 71505,
+      "title": "Through India and Burmah with pen and brush",
+      "author": "A. Hugh Fisher",
+      "year": 1897,
+      "type": "ethnography",
+      "genre": ["Travel", "Art"],
+      "collections": ["travel-literature"]
+    },
+    {
+      "gutenbergId": 57153,
+      "title": "Enchanted India",
+      "author": "Bozidar Karadordevic",
+      "year": 1929,
+      "type": "ethnography",
+      "genre": ["Travel"],
+      "collections": ["travel-literature"]
+    },
+    {
+      "gutenbergId": 43997,
+      "title": "Wanderings in India",
+      "author": "John Lang",
+      "year": 1859,
+      "type": "ethnography",
+      "genre": ["Travel", "Memoir"],
+      "collections": ["travel-literature"]
+    },
+    {
+      "gutenbergId": 60006,
+      "title": "Grand moving diorama of Hindostan",
+      "author": "Fanny Parkes Parlby",
+      "year": 1850,
+      "type": "ethnography",
+      "genre": ["Travel", "Visual Arts"],
+      "collections": ["travel-literature"]
+    },
+    {
+      "gutenbergId": 32528,
+      "title": "The Lusiad; Or, The Discovery of India, an Epic Poem",
+      "author": "Luís de Camões",
+      "year": 1655,
+      "type": "western_about_india",
+      "genre": ["Epic Poetry", "Literature"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 62346,
+      "title": "In Black and White",
+      "author": "Rudyard Kipling",
+      "year": 1888,
+      "type": "western_about_india",
+      "genre": ["Fiction", "Short Stories"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 61221,
+      "title": "A Passage to India",
+      "author": "E. M. Forster",
+      "year": 1924,
+      "type": "western_about_india",
+      "genre": ["Fiction", "Literary Fiction"],
+      "collections": ["classical-literature"]
+    }
+  ],
+  "LOW_PRIORITY": [
+    {
+      "gutenbergId": 5194,
+      "title": "The Ivory Trail",
+      "author": "Talbot Mundy",
+      "year": 1919,
+      "type": "fiction_india",
+      "genre": ["Fiction", "Adventure"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 5241,
+      "title": "The Eye of Zeitoon",
+      "author": "Talbot Mundy",
+      "year": 1920,
+      "type": "fiction_india",
+      "genre": ["Fiction", "Adventure"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 10551,
+      "title": "Affair in Araby",
+      "author": "Talbot Mundy",
+      "year": 1923,
+      "type": "fiction_india",
+      "genre": ["Fiction", "Adventure"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 18970,
+      "title": "Caves of Terror",
+      "author": "Talbot Mundy",
+      "year": 1922,
+      "type": "fiction_india",
+      "genre": ["Fiction", "Adventure"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 69586,
+      "title": "Om: The secret of Ahbor Valley",
+      "author": "Talbot Mundy",
+      "year": 1924,
+      "type": "fiction_india",
+      "genre": ["Fiction", "Adventure"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 40045,
+      "title": "Voices in the Night",
+      "author": "Flora Annie Webster Steel",
+      "year": 1900,
+      "type": "fiction_india",
+      "genre": ["Fiction", "Short Stories"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 39832,
+      "title": "In the Permanent Way",
+      "author": "Flora Annie Webster Steel",
+      "year": 1898,
+      "type": "fiction_india",
+      "genre": ["Fiction", "Short Stories"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 39813,
+      "title": "A Sovereign Remedy",
+      "author": "Flora Annie Webster Steel",
+      "year": 1906,
+      "type": "fiction_india",
+      "genre": ["Fiction"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 39795,
+      "title": "In the Guardianship of God",
+      "author": "Flora Annie Webster Steel",
+      "year": 1903,
+      "type": "fiction_india",
+      "genre": ["Fiction"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 40142,
+      "title": "Miss Stuart's Legacy",
+      "author": "Flora Annie Webster Steel",
+      "year": 1893,
+      "type": "fiction_india",
+      "genre": ["Fiction"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 39810,
+      "title": "A Prince of Dreamers",
+      "author": "Flora Annie Webster Steel",
+      "year": 1908,
+      "type": "fiction_india",
+      "genre": ["Fiction", "Historical Fiction"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 40136,
+      "title": "The Mercy of the Lord",
+      "author": "Flora Annie Webster Steel",
+      "year": 1901,
+      "type": "fiction_india",
+      "genre": ["Fiction"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 39987,
+      "title": "The Flower of Forgiveness",
+      "author": "Flora Annie Webster Steel",
+      "year": 1894,
+      "type": "fiction_india",
+      "genre": ["Fiction", "Short Stories"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 40141,
+      "title": "Red Rowans",
+      "author": "Flora Annie Webster Steel",
+      "year": 1899,
+      "type": "fiction_india",
+      "genre": ["Fiction"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 39985,
+      "title": "The Potter's Thumb",
+      "author": "Flora Annie Webster Steel",
+      "year": 1894,
+      "type": "fiction_india",
+      "genre": ["Fiction"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 39821,
+      "title": "From the Five Rivers",
+      "author": "Flora Annie Webster Steel",
+      "year": 1893,
+      "type": "fiction_india",
+      "genre": ["Fiction", "Short Stories"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 39794,
+      "title": "King-Errant",
+      "author": "Flora Annie Webster Steel",
+      "year": 1912,
+      "type": "fiction_india",
+      "genre": ["Fiction"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 39991,
+      "title": "The Hosts of the Lord",
+      "author": "Flora Annie Webster Steel",
+      "year": 1900,
+      "type": "fiction_india",
+      "genre": ["Fiction"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 39857,
+      "title": "Marmaduke",
+      "author": "Flora Annie Webster Steel",
+      "year": 1917,
+      "type": "fiction_india",
+      "genre": ["Fiction"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 39847,
+      "title": "In the Tideway",
+      "author": "Flora Annie Webster Steel",
+      "year": 1896,
+      "type": "fiction_india",
+      "genre": ["Fiction"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 10974,
+      "title": "A Ride to India across Persia and Baluchistán",
+      "author": "Harry De Windt",
+      "year": 1891,
+      "type": "ethnography",
+      "genre": ["Travel"],
+      "collections": ["travel-literature"]
+    },
+    {
+      "gutenbergId": 22749,
+      "title": "From Edinburgh to India & Burmah",
+      "author": "W. G. Burn Murdoch",
+      "year": 1908,
+      "type": "ethnography",
+      "genre": ["Travel"],
+      "collections": ["travel-literature"]
+    },
+    {
+      "gutenbergId": 24416,
+      "title": "Life and Work in Benares and Kumaon, 1839-1877",
+      "author": "James Kennedy",
+      "year": 1884,
+      "type": "ethnography",
+      "genre": ["Memoir", "Religious Work"],
+      "collections": ["travel-literature"]
+    },
+    {
+      "gutenbergId": 27113,
+      "title": "Narrative of a Voyage to India",
+      "author": "W. B. Cramp",
+      "year": 1823,
+      "type": "ethnography",
+      "genre": ["Travel"],
+      "collections": ["travel-literature"]
+    },
+    {
+      "gutenbergId": 27260,
+      "title": "East of Suez",
+      "author": "Frederic Courtland Penfield",
+      "year": 1907,
+      "type": "ethnography",
+      "genre": ["Travel"],
+      "collections": ["travel-literature"]
+    },
+    {
+      "gutenbergId": 44968,
+      "title": "Peeps at Many Lands—India",
+      "author": "John Finnemore",
+      "year": 1910,
+      "type": "ethnography",
+      "genre": ["Travel", "Children's Non-fiction"],
+      "collections": ["travel-literature"]
+    },
+    {
+      "gutenbergId": 46823,
+      "title": "Ten Years in India, in the 16th Queen's Lancers",
+      "author": "W. J. D. Gould",
+      "year": 1915,
+      "type": "ethnography",
+      "genre": ["Memoir", "Military History"],
+      "collections": ["travel-literature"]
+    },
+    {
+      "gutenbergId": 55593,
+      "title": "Travels in Peru and India",
+      "author": "Sir Clements R. Markham",
+      "year": 1862,
+      "type": "ethnography",
+      "genre": ["Travel"],
+      "collections": ["travel-literature"]
+    },
+    {
+      "gutenbergId": 56853,
+      "title": "Journal of a Cavalry Officer",
+      "author": "W. W. W. Humbley",
+      "year": 1854,
+      "type": "ethnography",
+      "genre": ["Memoir", "Military History"],
+      "collections": ["travel-literature"]
+    },
+    {
+      "gutenbergId": 6428,
+      "title": "The Surgeon's Daughter",
+      "author": "Walter Scott",
+      "year": 1827,
+      "type": "western_about_india",
+      "genre": ["Fiction", "Historical Fiction"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 13340,
+      "title": "Mr. Isaacs, A Tale of Modern India",
+      "author": "F. Marion Crawford",
+      "year": 1882,
+      "type": "western_about_india",
+      "genre": ["Fiction"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 34813,
+      "title": "Caravans By Night: A Romance of India",
+      "author": "Harry Hervey",
+      "year": 1922,
+      "type": "western_about_india",
+      "genre": ["Fiction", "Romance"],
+      "collections": ["classical-literature"]
+    },
+    {
+      "gutenbergId": 16269,
+      "title": "Thought-Forms",
+      "author": "Annie Besant",
+      "year": 1901,
+      "type": "indian_author",
+      "genre": ["Theosophy", "Philosophy"],
+      "collections": ["modern-literature", "philosophy"]
+    },
+    {
+      "gutenbergId": 26938,
+      "title": "Esoteric Christianity, or The Lesser Mysteries",
+      "author": "Annie Besant",
+      "year": 1901,
+      "type": "indian_author",
+      "genre": ["Theosophy", "Religious Studies"],
+      "collections": ["modern-literature", "philosophy"]
+    },
+    {
+      "gutenbergId": 16058,
+      "title": "Occult Chemistry",
+      "author": "Annie Besant",
+      "year": 1908,
+      "type": "indian_author",
+      "genre": ["Theosophy", "Pseudoscience"],
+      "collections": ["modern-literature", "philosophy"]
+    },
+    {
+      "gutenbergId": 47000,
+      "title": "Marriage, As It Was, As It Is, and As It Should Be",
+      "author": "Annie Besant",
+      "year": 1882,
+      "type": "indian_author",
+      "genre": ["Social Reform", "Essays"],
+      "collections": ["modern-literature", "social-studies"]
+    },
+    {
+      "gutenbergId": 37234,
+      "title": "My Path to Atheism",
+      "author": "Annie Besant",
+      "year": 1878,
+      "type": "indian_author",
+      "genre": ["Autobiography", "Philosophy"],
+      "collections": ["modern-literature", "philosophy"]
+    }
+  ]
+}
