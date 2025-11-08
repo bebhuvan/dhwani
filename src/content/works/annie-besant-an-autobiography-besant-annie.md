@@ -20,7 +20,7 @@ description: |
   The autobiography stands as both a personal testament and a historical document, offering insights into Victorian social reform movements while illuminating the character of a woman who would become, according to Jawaharlal Nehru, "a tremendous figure" who "played a conspicuous role in India's fight for freedom." Besant's unflinching honesty about her struggles with faith, marriage, public scandal, and social ostracism makes this memoir a compelling study of courage, intellectual integrity, and the power of personal transformation to influence historical change.
 collections:
 - historical-texts
-- biography-and-memoir
+- historical-literature
 sources:
 - name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/12085

@@ -6,22 +6,30 @@ publishDate: 2025-11-07
 language: ["English"]
 genre: ["Philosophy", "Religious Literature"]
 collections: ["ancient-wisdom", "philosophy"]
+description: |
+  The Yoga-Vasishtha Maharamayana, Volume 3, Part 2, concludes the third major section of this Advaita Vedanta masterwork, completing the profound exploration of creation and the nature of phenomenal reality.
 featured: false
 license: "Public Domain"
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/46531"
+    type: "other"
   - name: "Archive.org - Yoga Vasishtha Maharamayana Vol 3"
     url: "https://archive.org/details/yoga-vasishtha-maharamayana-vol-3"
+    type: "other"
   - name: "Archive.org - Volume 3 Part 2 (Project Gutenberg)"
     url: "https://archive.org/details/theyogavasishtha46531gut"
+    type: "other"
   - name: "Archive.org - Complete Yoga Vasishtha Maharamayana"
     url: "https://archive.org/details/yoga-vasishtha-maharamayana"
-referenceLinks:
+    type: "other"
+references:
   - name: "Wikipedia - Yoga Vasistha"
     url: "https://en.wikipedia.org/wiki/Yoga_Vasistha"
+    type: "wikipedia"
   - name: "Open Library - Yoga Vasistha"
     url: "https://openlibrary.org/works/OL3385589W/Yoga_Vasistha"
+    type: "other"
 ---
 
 The Yoga-Vasishtha Maharamayana, Volume 3, Part 2, completes the third major division of this seven-volume treatise on Advaita Vedanta philosophy and the path to spiritual liberation. This concluding section of Volume 3 brings to fruition the profound metaphysical investigations begun in Part 1, deepening the philosophical dialogue between the enlightened sage Vasistha and the truth-seeking Prince Rama. Through masterful exposition and illustrative narratives, this volume consolidates crucial teachings on consciousness, reality, and the means to transcendent wisdom.

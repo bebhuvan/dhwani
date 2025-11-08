@@ -6,20 +6,27 @@ publishDate: 2025-11-07
 language: ["English"]
 genre: ["Philosophy", "Religious Literature"]
 collections: ["ancient-wisdom", "philosophy"]
+description: |
+  The Yoga-Vasishtha Maharamayana, Volume 4, Part 1, initiates the culminating section of this monumental exposition of Advaita Vedanta philosophy, presenting the most profound teachings on liberation, Nirvana, and supreme consciousness.
 featured: false
 license: "Public Domain"
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/71248"
+    type: "other"
   - name: "Archive.org - Yoga-vasishtha-maharamayana Of Valmiki Vol.4"
     url: "https://archive.org/details/in.ernet.dli.2015.96046"
+    type: "other"
   - name: "Archive.org - Complete Yoga Vasishtha Maharamayana"
     url: "https://archive.org/details/yoga-vasishtha-maharamayana"
-referenceLinks:
+    type: "other"
+references:
   - name: "Wikipedia - Yoga Vasistha"
     url: "https://en.wikipedia.org/wiki/Yoga_Vasistha"
+    type: "wikipedia"
   - name: "Open Library - Yoga Vasistha"
     url: "https://openlibrary.org/works/OL3385589W/Yoga_Vasistha"
+    type: "other"
 ---
 
 The Yoga-Vasishtha Maharamayana, Volume 4, Part 1, initiates the culminating section of this monumental seven-volume exposition of Advaita Vedanta philosophy. This penultimate volume advances the sacred dialogue between sage Vasistha and Prince Rama toward its ultimate resolution, presenting the most profound teachings on liberation, the nature of Nirvana, and the state of supreme consciousness. As the fourth volume in this complete series, it synthesizes and transcends all preceding philosophical developments, guiding seekers toward the highest realization.

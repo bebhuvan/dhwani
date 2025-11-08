@@ -6,20 +6,27 @@ publishDate: 2025-11-07
 language: ["English"]
 genre: ["Philosophy", "Religious Literature"]
 collections: ["ancient-wisdom", "philosophy"]
+description: |
+  The Yoga-Vasishtha Maharamayana, Volume 4, Part 2, brings to completion the fourth and final major volume of this masterwork on Advaita Vedanta philosophy, delivering the most profound and liberating wisdom of the entire Maharamayana.
 featured: false
 license: "Public Domain"
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/71249"
+    type: "other"
   - name: "Archive.org - Yoga-vasishtha-maharamayana Of Valmiki Vol.4"
     url: "https://archive.org/details/in.ernet.dli.2015.96046"
+    type: "other"
   - name: "Archive.org - Complete Yoga Vasishtha Maharamayana"
     url: "https://archive.org/details/yoga-vasishtha-maharamayana"
-referenceLinks:
+    type: "other"
+references:
   - name: "Wikipedia - Yoga Vasistha"
     url: "https://en.wikipedia.org/wiki/Yoga_Vasistha"
+    type: "wikipedia"
   - name: "Open Library - Yoga Vasistha"
     url: "https://openlibrary.org/works/OL3385589W/Yoga_Vasistha"
+    type: "other"
 ---
 
 The Yoga-Vasishtha Maharamayana, Volume 4, Part 2, brings to completion the fourth and final major volume of this seven-volume masterwork on Advaita Vedanta philosophy and the path to supreme liberation. This concluding section represents the culmination of the transformative dialogue between the enlightened sage Vasistha and Prince Rama, synthesizing all previous teachings into a unified vision of ultimate reality and presenting the final instructions on abiding in the state of absolute freedom. As the concluding part of Volume 4 in the complete series, it delivers the most profound and liberating wisdom of the entire Maharamayana.

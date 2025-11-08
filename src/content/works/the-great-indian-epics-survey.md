@@ -13,8 +13,8 @@ description: |
 
   Oman's scholarly survey examines how these epics function as comprehensive repositories of Indian cultural knowledge, transmitting religious beliefs, social values, ethical frameworks, and cosmological understandings across generations. The narrative structures of both epics employ complex nested storytelling techniques, frame narratives, and extensive interpolations that create vast literary universes encompassing divine intervention, heroic action, philosophical reflection, and moral instruction. Key themes explored include the tension between fate and free will, the complexities of dharma in ambiguous situations, the nature of kingship and governance, the power of devotion and sacrifice, and the eternal struggle between cosmic order and chaos. These epics have profoundly influenced subsequent Indian literature, inspiring countless regional retellings, adaptations, and artistic interpretations across languages, theatrical traditions, dance forms, painting, sculpture, and contemporary media. Their narratives provide foundational archetypes, moral exemplars, and philosophical frameworks that continue to inform Indian ethical reasoning, social relationships, and cultural identity. For scholars and general readers seeking to understand Indian civilization, these epics remain indispensable texts whose themes, characters, and teachings continue to resonate throughout South Asian cultural and religious life, representing living traditions rather than merely historical artifacts.
 collections:
-- scholarly-works
-- epics-and-classics
+- reference-works
+- epic-poetry
 sources:
 - name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/73417

@@ -6,22 +6,30 @@ publishDate: 2025-11-07
 language: ["English"]
 genre: ["Philosophy", "Religious Literature"]
 collections: ["ancient-wisdom", "philosophy"]
+description: |
+  The Yoga-Vasishtha Maharamayana, Volume 3, Part 1, marks a pivotal turn in this philosophical masterwork, delving into the Utpatti Prakarana (Book of Creation) which examines how consciousness generates the appearance of phenomenal reality.
 featured: false
 license: "Public Domain"
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/71095"
+    type: "other"
   - name: "Archive.org - Yoga Vasishtha Maharamayana Vol 3"
     url: "https://archive.org/details/yoga-vasishtha-maharamayana-vol-3"
+    type: "other"
   - name: "Archive.org - Book 3 Utpatti Khanda (On Creation)"
     url: "https://archive.org/details/YogaVasisthaMaharamayanaBook3UtpattiKhandaOnCreation"
+    type: "other"
   - name: "Archive.org - Complete Yoga Vasishtha Maharamayana"
     url: "https://archive.org/details/yoga-vasishtha-maharamayana"
-referenceLinks:
+    type: "other"
+references:
   - name: "Wikipedia - Yoga Vasistha"
     url: "https://en.wikipedia.org/wiki/Yoga_Vasistha"
+    type: "wikipedia"
   - name: "Open Library - Yoga Vasistha"
     url: "https://openlibrary.org/works/OL3385589W/Yoga_Vasistha"
+    type: "other"
 ---
 
 The Yoga-Vasishtha Maharamayana, Volume 3, Part 1, represents a crucial midpoint in the complete seven-volume exposition of Advaita Vedanta philosophy. This volume advances the profound dialogue between sage Vasistha and Prince Rama into increasingly subtle territories of metaphysical inquiry, exploring the nature of creation, the mechanics of perception, and the paths to transcendental knowledge. As the third volume in this monumental series, it builds systematically upon the philosophical foundations laid in the preceding volumes.

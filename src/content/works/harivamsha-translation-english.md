@@ -5,9 +5,28 @@ author: ["Vyasa"]
 translator: ["Manmatha Nath Dutt"]
 genre: ["Epic", "Religious Literature"]
 language: ["English"]
-year: "Ancient text, English translation 1897"
+year: 1897
 description: "A prose English translation of the Harivamsha, the important appendix to the Mahabharata chronicling Krishna's genealogy and life story"
-collections: ["epics-and-classics", "ancient-wisdom"]
+collections:
+- epic-poetry
+- ancient-wisdom
+sources:
+- name: 'Project Gutenberg'
+  url: https://www.gutenberg.org/ebooks/61937
+  type: other
+- name: 'Archive.org Backup 1'
+  url: https://archive.org/details/a-prose-english-translation-of-harivamsha
+  type: other
+- name: 'Archive.org Backup 2'
+  url: https://archive.org/details/AProseEnglishTranslationOfHarivamsh
+  type: other
+references:
+- name: 'Wikipedia: Harivamsha'
+  url: https://en.wikipedia.org/wiki/Harivamsa
+  type: wikipedia
+- name: 'Open Library: Search Harivamsha'
+  url: https://openlibrary.org/search?q=Harivamsha
+  type: other
 featured: false
 publishDate: 2025-11-07
 ---

@@ -16,7 +16,7 @@ description: |
 
   Tagore's critique proved prescient and controversial. Written during World War I and published as Indian nationalism intensified, the novel challenged the prevailing narrative that all forms of anti-colonial resistance were equally legitimate. By exposing the moral bankruptcy beneath nationalist rhetoric, Tagore risked—and received—accusations of collaborating with colonial power. Yet the novel's enduring significance lies precisely in its refusal of political simplification, its insistence that means cannot be separated from ends, and its demonstration that the most dangerous forms of oppression often wear the mask of liberation. The work remains essential reading for understanding the tensions between individual conscience and collective movements, the gendered dimensions of nationalist discourse, and the ethical complexities of anti-colonial struggle.
 collections:
-- fiction
+- modern-literature
 - classical-literature
 sources:
 - name: 'Project Gutenberg'

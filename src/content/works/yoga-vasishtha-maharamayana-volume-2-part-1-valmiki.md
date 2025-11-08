@@ -6,20 +6,27 @@ publishDate: 2025-11-07
 language: ["English"]
 genre: ["Philosophy", "Religious Literature"]
 collections: ["ancient-wisdom", "philosophy"]
+description: |
+  The Yoga-Vasishtha Maharamayana, Volume 2, Part 1, continues the profound philosophical dialogue between the sage Vasistha and Prince Rama, presenting advanced teachings on the nature of consciousness, reality, and spiritual liberation.
 featured: false
 license: "Public Domain"
 sources:
   - name: "Project Gutenberg"
     url: "https://www.gutenberg.org/ebooks/71063"
+    type: "other"
   - name: "Archive.org - Yoga-Vasishtha Maharamayana Vol.2"
     url: "https://archive.org/details/dli.bengal.10689.7196"
+    type: "other"
   - name: "Archive.org - Complete Yoga Vasishtha Maharamayana"
     url: "https://archive.org/details/yoga-vasishtha-maharamayana"
-referenceLinks:
+    type: "other"
+references:
   - name: "Wikipedia - Yoga Vasistha"
     url: "https://en.wikipedia.org/wiki/Yoga_Vasistha"
+    type: "wikipedia"
   - name: "Open Library - Yoga Vasistha"
     url: "https://openlibrary.org/works/OL3385589W/Yoga_Vasistha"
+    type: "other"
 ---
 
 The Yoga-Vasishtha Maharamayana, Volume 2, Part 1, continues the profound philosophical dialogue between the sage Vasistha and Prince Rama, presenting advanced teachings on the nature of consciousness, reality, and spiritual liberation. As the second volume in this monumental seven-volume series, this work delves deeper into the Advaita Vedanta tradition, exploring the illusory nature of the phenomenal world and the path to supreme wisdom.

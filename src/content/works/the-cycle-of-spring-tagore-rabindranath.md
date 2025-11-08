@@ -16,7 +16,7 @@ description: |
 
   The English translation, completed primarily by C.F. Andrews and Professor Nishikanta Sen and revised by Tagore himself, preserves much of the original's lyrical beauty while making this distinctively Bengali work accessible to international audiences. The play's ultimate resolution—which celebrates youth's vitality while acknowledging the wisdom that comes with age—offers a nuanced vision of life's cyclical nature, suggesting that renewal and continuity, youth and age, are not opposites but complementary forces in the eternal dance of existence.
 collections:
-- drama-and-performance
+- sanskrit-drama
 - classical-literature
 sources:
 - name: 'Project Gutenberg'

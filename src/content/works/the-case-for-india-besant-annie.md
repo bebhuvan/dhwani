@@ -22,7 +22,7 @@ description: |
   "The Case for India" represents a pivotal moment in the Indian independence movement, articulating comprehensive arguments for self-rule when Home Rule agitation reached peak intensity. Besant's contribution to the independence struggle, though often overshadowed by later Gandhian mass movements with which she eventually disagreed, was foundational in mobilizing middle-class support and legitimizing demands for self-governance among both Indian and international audiences.
 collections:
 - historical-texts
-- biography-and-memoir
+- historical-literature
 sources:
 - name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/12820

@@ -14,7 +14,7 @@ description: |
 collections:
 - spiritual-texts
 - philosophy
-- vedanta-philosophy
+- philosophy
 sources:
 - name: 'Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/72368
