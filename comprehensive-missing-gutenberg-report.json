@@ -1,0 +1,1366 @@
+{
+  "generated": "2025-11-08T10:03:06.706Z",
+  "summary": {
+    "existingCount": 294,
+    "totalChecked": 63,
+    "missingCount": 63,
+    "byPriority": {
+      "HIGH": 8,
+      "MEDIUM": 18,
+      "LOW": 37
+    }
+  },
+  "missingByCategory": {
+    "Classic Indian Fiction by Western Authors": [
+      {
+        "id": 236,
+        "title": "The Jungle Book",
+        "author": "Rudyard Kipling",
+        "priority": "HIGH",
+        "category": "Classic Indian Fiction by Western Authors"
+      },
+      {
+        "id": 1937,
+        "title": "The Second Jungle Book",
+        "author": "Rudyard Kipling",
+        "priority": "HIGH",
+        "category": "Classic Indian Fiction by Western Authors"
+      },
+      {
+        "id": 2226,
+        "title": "Kim",
+        "author": "Rudyard Kipling",
+        "priority": "HIGH",
+        "category": "Classic Indian Fiction by Western Authors"
+      },
+      {
+        "id": 61221,
+        "title": "A Passage to India",
+        "author": "E. M. Forster",
+        "priority": "HIGH",
+        "category": "Classic Indian Fiction by Western Authors"
+      },
+      {
+        "id": 62346,
+        "title": "In Black and White",
+        "author": "Rudyard Kipling",
+        "priority": "MEDIUM",
+        "category": "Classic Indian Fiction by Western Authors"
+      }
+    ],
+    "Talbot Mundy - India Adventure Novels": [
+      {
+        "id": 4400,
+        "title": "Hira Singh: when India came to fight in Flanders",
+        "author": "Talbot Mundy",
+        "priority": "MEDIUM",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 5153,
+        "title": "Rung Ho! A Novel",
+        "author": "Talbot Mundy",
+        "priority": "MEDIUM",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 5194,
+        "title": "The Ivory Trail",
+        "author": "Talbot Mundy",
+        "priority": "LOW",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 5241,
+        "title": "The Eye of Zeitoon",
+        "author": "Talbot Mundy",
+        "priority": "LOW",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 5315,
+        "title": "Told in the East",
+        "author": "Talbot Mundy",
+        "priority": "MEDIUM",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 5606,
+        "title": "Guns of the Gods: A Story of Yasmini's Youth",
+        "author": "Talbot Mundy",
+        "priority": "MEDIUM",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 6751,
+        "title": "The Winds of the World",
+        "author": "Talbot Mundy",
+        "priority": "MEDIUM",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 10551,
+        "title": "Affair in Araby",
+        "author": "Talbot Mundy",
+        "priority": "LOW",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 18970,
+        "title": "Caves of Terror",
+        "author": "Talbot Mundy",
+        "priority": "LOW",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 69586,
+        "title": "Om: The secret of Ahbor Valley",
+        "author": "Talbot Mundy",
+        "priority": "LOW",
+        "category": "Talbot Mundy - India Adventure Novels"
+      }
+    ],
+    "Fiction Set in India": [
+      {
+        "id": 6428,
+        "title": "The Surgeon's Daughter",
+        "author": "Walter Scott",
+        "priority": "LOW",
+        "category": "Fiction Set in India"
+      },
+      {
+        "id": 13340,
+        "title": "Mr. Isaacs, A Tale of Modern India",
+        "author": "F. Marion Crawford",
+        "priority": "LOW",
+        "category": "Fiction Set in India"
+      },
+      {
+        "id": 34813,
+        "title": "Caravans By Night: A Romance of India",
+        "author": "Harry Hervey",
+        "priority": "LOW",
+        "category": "Fiction Set in India"
+      }
+    ],
+    "Travel Narratives & Memoirs": [
+      {
+        "id": 10974,
+        "title": "A Ride to India across Persia and Baluchistán",
+        "author": "Harry De Windt",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 22749,
+        "title": "From Edinburgh to India & Burmah",
+        "author": "W. G. Burn Murdoch",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 24416,
+        "title": "Life and Work in Benares and Kumaon, 1839-1877",
+        "author": "James Kennedy",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 27113,
+        "title": "Narrative of a Voyage to India",
+        "author": "W. B. Cramp",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 27260,
+        "title": "East of Suez",
+        "author": "Frederic Courtland Penfield",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 43997,
+        "title": "Wanderings in India",
+        "author": "John Lang",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 44968,
+        "title": "Peeps at Many Lands—India",
+        "author": "John Finnemore",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 46260,
+        "title": "Up the Country: Letters from Upper Provinces of India",
+        "author": "Emily Eden",
+        "priority": "MEDIUM",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 46440,
+        "title": "A Journal of the First Voyage of Vasco da Gama 1497-1499",
+        "author": "Vasco da Gama",
+        "priority": "MEDIUM",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 46823,
+        "title": "Ten Years in India, in the 16th Queen's Lancers",
+        "author": "W. J. D. Gould",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 49177,
+        "title": "India under Ripon: A Private Diary",
+        "author": "Wilfrid Scawen Blunt",
+        "priority": "MEDIUM",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 52896,
+        "title": "Life and Travel in India",
+        "author": "Anna Harriette Leonowens",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 55593,
+        "title": "Travels in Peru and India",
+        "author": "Sir Clements R. Markham",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 56853,
+        "title": "Journal of a Cavalry Officer",
+        "author": "W. W. W. Humbley",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 57153,
+        "title": "Enchanted India",
+        "author": "Bozidar Karadordevic",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 60006,
+        "title": "Grand moving diorama of Hindostan",
+        "author": "Fanny Parkes Parlby",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 71505,
+        "title": "Through India and Burmah with pen and brush",
+        "author": "A. Hugh Fisher",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 74042,
+        "title": "Wanderings of a pilgrim in search of the picturesque, Volume 1",
+        "author": "Fanny Parkes Parlby",
+        "priority": "MEDIUM",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 74043,
+        "title": "Wanderings of a pilgrim in search of the picturesque, Volume 2",
+        "author": "Fanny Parkes Parlby",
+        "priority": "MEDIUM",
+        "category": "Travel Narratives & Memoirs"
+      }
+    ],
+    "Douglas Dewar - Indian Natural History": [
+      {
+        "id": 18237,
+        "title": "A Bird Calendar for Northern India",
+        "author": "Douglas Dewar",
+        "priority": "MEDIUM",
+        "category": "Douglas Dewar - Indian Natural History"
+      },
+      {
+        "id": 23755,
+        "title": "Birds of the Indian Hills",
+        "author": "Douglas Dewar",
+        "priority": "MEDIUM",
+        "category": "Douglas Dewar - Indian Natural History"
+      },
+      {
+        "id": 46017,
+        "title": "Indian Birds: A Key to the Common Birds of the Plains of India",
+        "author": "Douglas Dewar",
+        "priority": "MEDIUM",
+        "category": "Douglas Dewar - Indian Natural History"
+      },
+      {
+        "id": 46318,
+        "title": "Jungle Folk: Indian Natural History Sketches",
+        "author": "Douglas Dewar",
+        "priority": "MEDIUM",
+        "category": "Douglas Dewar - Indian Natural History"
+      },
+      {
+        "id": 46394,
+        "title": "Birds of the Plains",
+        "author": "Douglas Dewar",
+        "priority": "MEDIUM",
+        "category": "Douglas Dewar - Indian Natural History"
+      },
+      {
+        "id": 46425,
+        "title": "Glimpses of Indian Birds",
+        "author": "Douglas Dewar",
+        "priority": "MEDIUM",
+        "category": "Douglas Dewar - Indian Natural History"
+      }
+    ],
+    "Epic Poetry": [
+      {
+        "id": 32528,
+        "title": "The Lusiad; Or, The Discovery of India, an Epic Poem",
+        "author": "Luís de Camões",
+        "priority": "MEDIUM",
+        "category": "Epic Poetry"
+      }
+    ],
+    "Indian Folklore & Culture": [
+      {
+        "id": 35690,
+        "title": "Omens and Superstitions of Southern India",
+        "author": "Edgar Thurston",
+        "priority": "HIGH",
+        "category": "Indian Folklore & Culture"
+      }
+    ],
+    "Flora Annie Steel - India Fiction & Tales": [
+      {
+        "id": 39794,
+        "title": "King-Errant",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39795,
+        "title": "In the Guardianship of God",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39810,
+        "title": "A Prince of Dreamers",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39813,
+        "title": "A Sovereign Remedy",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39821,
+        "title": "From the Five Rivers",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39832,
+        "title": "In the Permanent Way",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39847,
+        "title": "In the Tideway",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39857,
+        "title": "Marmaduke",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39985,
+        "title": "The Potter's Thumb",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39987,
+        "title": "The Flower of Forgiveness",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39991,
+        "title": "The Hosts of the Lord",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 40045,
+        "title": "Voices in the Night",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 40136,
+        "title": "The Mercy of the Lord",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 40141,
+        "title": "Red Rowans",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 40142,
+        "title": "Miss Stuart's Legacy",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      }
+    ],
+    "Indian Nationalist Leaders": [
+      {
+        "id": 39874,
+        "title": "An Open Letter to the Right Honorable David Lloyd George",
+        "author": "Lala Lajpat Rai",
+        "priority": "HIGH",
+        "category": "Indian Nationalist Leaders"
+      },
+      {
+        "id": 41819,
+        "title": "The Political Future of India",
+        "author": "Lala Lajpat Rai",
+        "priority": "HIGH",
+        "category": "Indian Nationalist Leaders"
+      },
+      {
+        "id": 49329,
+        "title": "Young India",
+        "author": "Lala Lajpat Rai",
+        "priority": "HIGH",
+        "category": "Indian Nationalist Leaders"
+      }
+    ]
+  },
+  "missingByPriority": {
+    "HIGH": [
+      {
+        "id": 236,
+        "title": "The Jungle Book",
+        "author": "Rudyard Kipling",
+        "priority": "HIGH",
+        "category": "Classic Indian Fiction by Western Authors"
+      },
+      {
+        "id": 1937,
+        "title": "The Second Jungle Book",
+        "author": "Rudyard Kipling",
+        "priority": "HIGH",
+        "category": "Classic Indian Fiction by Western Authors"
+      },
+      {
+        "id": 2226,
+        "title": "Kim",
+        "author": "Rudyard Kipling",
+        "priority": "HIGH",
+        "category": "Classic Indian Fiction by Western Authors"
+      },
+      {
+        "id": 35690,
+        "title": "Omens and Superstitions of Southern India",
+        "author": "Edgar Thurston",
+        "priority": "HIGH",
+        "category": "Indian Folklore & Culture"
+      },
+      {
+        "id": 39874,
+        "title": "An Open Letter to the Right Honorable David Lloyd George",
+        "author": "Lala Lajpat Rai",
+        "priority": "HIGH",
+        "category": "Indian Nationalist Leaders"
+      },
+      {
+        "id": 41819,
+        "title": "The Political Future of India",
+        "author": "Lala Lajpat Rai",
+        "priority": "HIGH",
+        "category": "Indian Nationalist Leaders"
+      },
+      {
+        "id": 49329,
+        "title": "Young India",
+        "author": "Lala Lajpat Rai",
+        "priority": "HIGH",
+        "category": "Indian Nationalist Leaders"
+      },
+      {
+        "id": 61221,
+        "title": "A Passage to India",
+        "author": "E. M. Forster",
+        "priority": "HIGH",
+        "category": "Classic Indian Fiction by Western Authors"
+      }
+    ],
+    "MEDIUM": [
+      {
+        "id": 4400,
+        "title": "Hira Singh: when India came to fight in Flanders",
+        "author": "Talbot Mundy",
+        "priority": "MEDIUM",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 5153,
+        "title": "Rung Ho! A Novel",
+        "author": "Talbot Mundy",
+        "priority": "MEDIUM",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 5315,
+        "title": "Told in the East",
+        "author": "Talbot Mundy",
+        "priority": "MEDIUM",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 5606,
+        "title": "Guns of the Gods: A Story of Yasmini's Youth",
+        "author": "Talbot Mundy",
+        "priority": "MEDIUM",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 6751,
+        "title": "The Winds of the World",
+        "author": "Talbot Mundy",
+        "priority": "MEDIUM",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 18237,
+        "title": "A Bird Calendar for Northern India",
+        "author": "Douglas Dewar",
+        "priority": "MEDIUM",
+        "category": "Douglas Dewar - Indian Natural History"
+      },
+      {
+        "id": 23755,
+        "title": "Birds of the Indian Hills",
+        "author": "Douglas Dewar",
+        "priority": "MEDIUM",
+        "category": "Douglas Dewar - Indian Natural History"
+      },
+      {
+        "id": 32528,
+        "title": "The Lusiad; Or, The Discovery of India, an Epic Poem",
+        "author": "Luís de Camões",
+        "priority": "MEDIUM",
+        "category": "Epic Poetry"
+      },
+      {
+        "id": 46017,
+        "title": "Indian Birds: A Key to the Common Birds of the Plains of India",
+        "author": "Douglas Dewar",
+        "priority": "MEDIUM",
+        "category": "Douglas Dewar - Indian Natural History"
+      },
+      {
+        "id": 46260,
+        "title": "Up the Country: Letters from Upper Provinces of India",
+        "author": "Emily Eden",
+        "priority": "MEDIUM",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 46318,
+        "title": "Jungle Folk: Indian Natural History Sketches",
+        "author": "Douglas Dewar",
+        "priority": "MEDIUM",
+        "category": "Douglas Dewar - Indian Natural History"
+      },
+      {
+        "id": 46394,
+        "title": "Birds of the Plains",
+        "author": "Douglas Dewar",
+        "priority": "MEDIUM",
+        "category": "Douglas Dewar - Indian Natural History"
+      },
+      {
+        "id": 46425,
+        "title": "Glimpses of Indian Birds",
+        "author": "Douglas Dewar",
+        "priority": "MEDIUM",
+        "category": "Douglas Dewar - Indian Natural History"
+      },
+      {
+        "id": 46440,
+        "title": "A Journal of the First Voyage of Vasco da Gama 1497-1499",
+        "author": "Vasco da Gama",
+        "priority": "MEDIUM",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 49177,
+        "title": "India under Ripon: A Private Diary",
+        "author": "Wilfrid Scawen Blunt",
+        "priority": "MEDIUM",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 62346,
+        "title": "In Black and White",
+        "author": "Rudyard Kipling",
+        "priority": "MEDIUM",
+        "category": "Classic Indian Fiction by Western Authors"
+      },
+      {
+        "id": 74042,
+        "title": "Wanderings of a pilgrim in search of the picturesque, Volume 1",
+        "author": "Fanny Parkes Parlby",
+        "priority": "MEDIUM",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 74043,
+        "title": "Wanderings of a pilgrim in search of the picturesque, Volume 2",
+        "author": "Fanny Parkes Parlby",
+        "priority": "MEDIUM",
+        "category": "Travel Narratives & Memoirs"
+      }
+    ],
+    "LOW": [
+      {
+        "id": 5194,
+        "title": "The Ivory Trail",
+        "author": "Talbot Mundy",
+        "priority": "LOW",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 5241,
+        "title": "The Eye of Zeitoon",
+        "author": "Talbot Mundy",
+        "priority": "LOW",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 6428,
+        "title": "The Surgeon's Daughter",
+        "author": "Walter Scott",
+        "priority": "LOW",
+        "category": "Fiction Set in India"
+      },
+      {
+        "id": 10551,
+        "title": "Affair in Araby",
+        "author": "Talbot Mundy",
+        "priority": "LOW",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 10974,
+        "title": "A Ride to India across Persia and Baluchistán",
+        "author": "Harry De Windt",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 13340,
+        "title": "Mr. Isaacs, A Tale of Modern India",
+        "author": "F. Marion Crawford",
+        "priority": "LOW",
+        "category": "Fiction Set in India"
+      },
+      {
+        "id": 18970,
+        "title": "Caves of Terror",
+        "author": "Talbot Mundy",
+        "priority": "LOW",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 22749,
+        "title": "From Edinburgh to India & Burmah",
+        "author": "W. G. Burn Murdoch",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 24416,
+        "title": "Life and Work in Benares and Kumaon, 1839-1877",
+        "author": "James Kennedy",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 27113,
+        "title": "Narrative of a Voyage to India",
+        "author": "W. B. Cramp",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 27260,
+        "title": "East of Suez",
+        "author": "Frederic Courtland Penfield",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 34813,
+        "title": "Caravans By Night: A Romance of India",
+        "author": "Harry Hervey",
+        "priority": "LOW",
+        "category": "Fiction Set in India"
+      },
+      {
+        "id": 39794,
+        "title": "King-Errant",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39795,
+        "title": "In the Guardianship of God",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39810,
+        "title": "A Prince of Dreamers",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39813,
+        "title": "A Sovereign Remedy",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39821,
+        "title": "From the Five Rivers",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39832,
+        "title": "In the Permanent Way",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39847,
+        "title": "In the Tideway",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39857,
+        "title": "Marmaduke",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39985,
+        "title": "The Potter's Thumb",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39987,
+        "title": "The Flower of Forgiveness",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 39991,
+        "title": "The Hosts of the Lord",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 40045,
+        "title": "Voices in the Night",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 40136,
+        "title": "The Mercy of the Lord",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 40141,
+        "title": "Red Rowans",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 40142,
+        "title": "Miss Stuart's Legacy",
+        "author": "Flora Annie Webster Steel",
+        "priority": "LOW",
+        "category": "Flora Annie Steel - India Fiction & Tales"
+      },
+      {
+        "id": 43997,
+        "title": "Wanderings in India",
+        "author": "John Lang",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 44968,
+        "title": "Peeps at Many Lands—India",
+        "author": "John Finnemore",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 46823,
+        "title": "Ten Years in India, in the 16th Queen's Lancers",
+        "author": "W. J. D. Gould",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 52896,
+        "title": "Life and Travel in India",
+        "author": "Anna Harriette Leonowens",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 55593,
+        "title": "Travels in Peru and India",
+        "author": "Sir Clements R. Markham",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 56853,
+        "title": "Journal of a Cavalry Officer",
+        "author": "W. W. W. Humbley",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 57153,
+        "title": "Enchanted India",
+        "author": "Bozidar Karadordevic",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 60006,
+        "title": "Grand moving diorama of Hindostan",
+        "author": "Fanny Parkes Parlby",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      },
+      {
+        "id": 69586,
+        "title": "Om: The secret of Ahbor Valley",
+        "author": "Talbot Mundy",
+        "priority": "LOW",
+        "category": "Talbot Mundy - India Adventure Novels"
+      },
+      {
+        "id": 71505,
+        "title": "Through India and Burmah with pen and brush",
+        "author": "A. Hugh Fisher",
+        "priority": "LOW",
+        "category": "Travel Narratives & Memoirs"
+      }
+    ]
+  },
+  "allMissing": [
+    {
+      "id": 236,
+      "title": "The Jungle Book",
+      "author": "Rudyard Kipling",
+      "priority": "HIGH",
+      "category": "Classic Indian Fiction by Western Authors"
+    },
+    {
+      "id": 1937,
+      "title": "The Second Jungle Book",
+      "author": "Rudyard Kipling",
+      "priority": "HIGH",
+      "category": "Classic Indian Fiction by Western Authors"
+    },
+    {
+      "id": 2226,
+      "title": "Kim",
+      "author": "Rudyard Kipling",
+      "priority": "HIGH",
+      "category": "Classic Indian Fiction by Western Authors"
+    },
+    {
+      "id": 4400,
+      "title": "Hira Singh: when India came to fight in Flanders",
+      "author": "Talbot Mundy",
+      "priority": "MEDIUM",
+      "category": "Talbot Mundy - India Adventure Novels"
+    },
+    {
+      "id": 5153,
+      "title": "Rung Ho! A Novel",
+      "author": "Talbot Mundy",
+      "priority": "MEDIUM",
+      "category": "Talbot Mundy - India Adventure Novels"
+    },
+    {
+      "id": 5194,
+      "title": "The Ivory Trail",
+      "author": "Talbot Mundy",
+      "priority": "LOW",
+      "category": "Talbot Mundy - India Adventure Novels"
+    },
+    {
+      "id": 5241,
+      "title": "The Eye of Zeitoon",
+      "author": "Talbot Mundy",
+      "priority": "LOW",
+      "category": "Talbot Mundy - India Adventure Novels"
+    },
+    {
+      "id": 5315,
+      "title": "Told in the East",
+      "author": "Talbot Mundy",
+      "priority": "MEDIUM",
+      "category": "Talbot Mundy - India Adventure Novels"
+    },
+    {
+      "id": 5606,
+      "title": "Guns of the Gods: A Story of Yasmini's Youth",
+      "author": "Talbot Mundy",
+      "priority": "MEDIUM",
+      "category": "Talbot Mundy - India Adventure Novels"
+    },
+    {
+      "id": 6428,
+      "title": "The Surgeon's Daughter",
+      "author": "Walter Scott",
+      "priority": "LOW",
+      "category": "Fiction Set in India"
+    },
+    {
+      "id": 6751,
+      "title": "The Winds of the World",
+      "author": "Talbot Mundy",
+      "priority": "MEDIUM",
+      "category": "Talbot Mundy - India Adventure Novels"
+    },
+    {
+      "id": 10551,
+      "title": "Affair in Araby",
+      "author": "Talbot Mundy",
+      "priority": "LOW",
+      "category": "Talbot Mundy - India Adventure Novels"
+    },
+    {
+      "id": 10974,
+      "title": "A Ride to India across Persia and Baluchistán",
+      "author": "Harry De Windt",
+      "priority": "LOW",
+      "category": "Travel Narratives & Memoirs"
+    },
+    {
+      "id": 13340,
+      "title": "Mr. Isaacs, A Tale of Modern India",
+      "author": "F. Marion Crawford",
+      "priority": "LOW",
+      "category": "Fiction Set in India"
+    },
+    {
+      "id": 18237,
+      "title": "A Bird Calendar for Northern India",
+      "author": "Douglas Dewar",
+      "priority": "MEDIUM",
+      "category": "Douglas Dewar - Indian Natural History"
+    },
+    {
+      "id": 18970,
+      "title": "Caves of Terror",
+      "author": "Talbot Mundy",
+      "priority": "LOW",
+      "category": "Talbot Mundy - India Adventure Novels"
+    },
+    {
+      "id": 22749,
+      "title": "From Edinburgh to India & Burmah",
+      "author": "W. G. Burn Murdoch",
+      "priority": "LOW",
+      "category": "Travel Narratives & Memoirs"
+    },
+    {
+      "id": 23755,
+      "title": "Birds of the Indian Hills",
+      "author": "Douglas Dewar",
+      "priority": "MEDIUM",
+      "category": "Douglas Dewar - Indian Natural History"
+    },
+    {
+      "id": 24416,
+      "title": "Life and Work in Benares and Kumaon, 1839-1877",
+      "author": "James Kennedy",
+      "priority": "LOW",
+      "category": "Travel Narratives & Memoirs"
+    },
+    {
+      "id": 27113,
+      "title": "Narrative of a Voyage to India",
+      "author": "W. B. Cramp",
+      "priority": "LOW",
+      "category": "Travel Narratives & Memoirs"
+    },
+    {
+      "id": 27260,
+      "title": "East of Suez",
+      "author": "Frederic Courtland Penfield",
+      "priority": "LOW",
+      "category": "Travel Narratives & Memoirs"
+    },
+    {
+      "id": 32528,
+      "title": "The Lusiad; Or, The Discovery of India, an Epic Poem",
+      "author": "Luís de Camões",
+      "priority": "MEDIUM",
+      "category": "Epic Poetry"
+    },
+    {
+      "id": 34813,
+      "title": "Caravans By Night: A Romance of India",
+      "author": "Harry Hervey",
+      "priority": "LOW",
+      "category": "Fiction Set in India"
+    },
+    {
+      "id": 35690,
+      "title": "Omens and Superstitions of Southern India",
+      "author": "Edgar Thurston",
+      "priority": "HIGH",
+      "category": "Indian Folklore & Culture"
+    },
+    {
+      "id": 39794,
+      "title": "King-Errant",
+      "author": "Flora Annie Webster Steel",
+      "priority": "LOW",
+      "category": "Flora Annie Steel - India Fiction & Tales"
+    },
+    {
+      "id": 39795,
+      "title": "In the Guardianship of God",
+      "author": "Flora Annie Webster Steel",
+      "priority": "LOW",
+      "category": "Flora Annie Steel - India Fiction & Tales"
+    },
+    {
+      "id": 39810,
+      "title": "A Prince of Dreamers",
+      "author": "Flora Annie Webster Steel",
+      "priority": "LOW",
+      "category": "Flora Annie Steel - India Fiction & Tales"
+    },
+    {
+      "id": 39813,
+      "title": "A Sovereign Remedy",
+      "author": "Flora Annie Webster Steel",
+      "priority": "LOW",
+      "category": "Flora Annie Steel - India Fiction & Tales"
+    },
+    {
+      "id": 39821,
+      "title": "From the Five Rivers",
+      "author": "Flora Annie Webster Steel",
+      "priority": "LOW",
+      "category": "Flora Annie Steel - India Fiction & Tales"
+    },
+    {
+      "id": 39832,
+      "title": "In the Permanent Way",
+      "author": "Flora Annie Webster Steel",
+      "priority": "LOW",
+      "category": "Flora Annie Steel - India Fiction & Tales"
+    },
+    {
+      "id": 39847,
+      "title": "In the Tideway",
+      "author": "Flora Annie Webster Steel",
+      "priority": "LOW",
+      "category": "Flora Annie Steel - India Fiction & Tales"
+    },
+    {
+      "id": 39857,
+      "title": "Marmaduke",
+      "author": "Flora Annie Webster Steel",
+      "priority": "LOW",
+      "category": "Flora Annie Steel - India Fiction & Tales"
+    },
+    {
+      "id": 39874,
+      "title": "An Open Letter to the Right Honorable David Lloyd George",
+      "author": "Lala Lajpat Rai",
+      "priority": "HIGH",
+      "category": "Indian Nationalist Leaders"
+    },
+    {
+      "id": 39985,
+      "title": "The Potter's Thumb",
+      "author": "Flora Annie Webster Steel",
+      "priority": "LOW",
+      "category": "Flora Annie Steel - India Fiction & Tales"
+    },
+    {
+      "id": 39987,
+      "title": "The Flower of Forgiveness",
+      "author": "Flora Annie Webster Steel",
+      "priority": "LOW",
+      "category": "Flora Annie Steel - India Fiction & Tales"
+    },
+    {
+      "id": 39991,
+      "title": "The Hosts of the Lord",
+      "author": "Flora Annie Webster Steel",
+      "priority": "LOW",
+      "category": "Flora Annie Steel - India Fiction & Tales"
+    },
+    {
+      "id": 40045,
+      "title": "Voices in the Night",
+      "author": "Flora Annie Webster Steel",
+      "priority": "LOW",
+      "category": "Flora Annie Steel - India Fiction & Tales"
+    },
+    {
+      "id": 40136,
+      "title": "The Mercy of the Lord",
+      "author": "Flora Annie Webster Steel",
+      "priority": "LOW",
+      "category": "Flora Annie Steel - India Fiction & Tales"
+    },
+    {
+      "id": 40141,
+      "title": "Red Rowans",
+      "author": "Flora Annie Webster Steel",
+      "priority": "LOW",
+      "category": "Flora Annie Steel - India Fiction & Tales"
+    },
+    {
+      "id": 40142,
+      "title": "Miss Stuart's Legacy",
+      "author": "Flora Annie Webster Steel",
+      "priority": "LOW",
+      "category": "Flora Annie Steel - India Fiction & Tales"
+    },
+    {
+      "id": 41819,
+      "title": "The Political Future of India",
+      "author": "Lala Lajpat Rai",
+      "priority": "HIGH",
+      "category": "Indian Nationalist Leaders"
+    },
+    {
+      "id": 43997,
+      "title": "Wanderings in India",
+      "author": "John Lang",
+      "priority": "LOW",
+      "category": "Travel Narratives & Memoirs"
+    },
+    {
+      "id": 44968,
+      "title": "Peeps at Many Lands—India",
+      "author": "John Finnemore",
+      "priority": "LOW",
+      "category": "Travel Narratives & Memoirs"
+    },
+    {
+      "id": 46017,
+      "title": "Indian Birds: A Key to the Common Birds of the Plains of India",
+      "author": "Douglas Dewar",
+      "priority": "MEDIUM",
+      "category": "Douglas Dewar - Indian Natural History"
+    },
+    {
+      "id": 46260,
+      "title": "Up the Country: Letters from Upper Provinces of India",
+      "author": "Emily Eden",
+      "priority": "MEDIUM",
+      "category": "Travel Narratives & Memoirs"
+    },
+    {
+      "id": 46318,
+      "title": "Jungle Folk: Indian Natural History Sketches",
+      "author": "Douglas Dewar",
+      "priority": "MEDIUM",
+      "category": "Douglas Dewar - Indian Natural History"
+    },
+    {
+      "id": 46394,
+      "title": "Birds of the Plains",
+      "author": "Douglas Dewar",
+      "priority": "MEDIUM",
+      "category": "Douglas Dewar - Indian Natural History"
+    },
+    {
+      "id": 46425,
+      "title": "Glimpses of Indian Birds",
+      "author": "Douglas Dewar",
+      "priority": "MEDIUM",
+      "category": "Douglas Dewar - Indian Natural History"
+    },
+    {
+      "id": 46440,
+      "title": "A Journal of the First Voyage of Vasco da Gama 1497-1499",
+      "author": "Vasco da Gama",
+      "priority": "MEDIUM",
+      "category": "Travel Narratives & Memoirs"
+    },
+    {
+      "id": 46823,
+      "title": "Ten Years in India, in the 16th Queen's Lancers",
+      "author": "W. J. D. Gould",
+      "priority": "LOW",
+      "category": "Travel Narratives & Memoirs"
+    },
+    {
+      "id": 49177,
+      "title": "India under Ripon: A Private Diary",
+      "author": "Wilfrid Scawen Blunt",
+      "priority": "MEDIUM",
+      "category": "Travel Narratives & Memoirs"
+    },
+    {
+      "id": 49329,
+      "title": "Young India",
+      "author": "Lala Lajpat Rai",
+      "priority": "HIGH",
+      "category": "Indian Nationalist Leaders"
+    },
+    {
+      "id": 52896,
+      "title": "Life and Travel in India",
+      "author": "Anna Harriette Leonowens",
+      "priority": "LOW",
+      "category": "Travel Narratives & Memoirs"
+    },
+    {
+      "id": 55593,
+      "title": "Travels in Peru and India",
+      "author": "Sir Clements R. Markham",
+      "priority": "LOW",
+      "category": "Travel Narratives & Memoirs"
+    },
+    {
+      "id": 56853,
+      "title": "Journal of a Cavalry Officer",
+      "author": "W. W. W. Humbley",
+      "priority": "LOW",
+      "category": "Travel Narratives & Memoirs"
+    },
+    {
+      "id": 57153,
+      "title": "Enchanted India",
+      "author": "Bozidar Karadordevic",
+      "priority": "LOW",
+      "category": "Travel Narratives & Memoirs"
+    },
+    {
+      "id": 60006,
+      "title": "Grand moving diorama of Hindostan",
+      "author": "Fanny Parkes Parlby",
+      "priority": "LOW",
+      "category": "Travel Narratives & Memoirs"
+    },
+    {
+      "id": 61221,
+      "title": "A Passage to India",
+      "author": "E. M. Forster",
+      "priority": "HIGH",
+      "category": "Classic Indian Fiction by Western Authors"
+    },
+    {
+      "id": 62346,
+      "title": "In Black and White",
+      "author": "Rudyard Kipling",
+      "priority": "MEDIUM",
+      "category": "Classic Indian Fiction by Western Authors"
+    },
+    {
+      "id": 69586,
+      "title": "Om: The secret of Ahbor Valley",
+      "author": "Talbot Mundy",
+      "priority": "LOW",
+      "category": "Talbot Mundy - India Adventure Novels"
+    },
+    {
+      "id": 71505,
+      "title": "Through India and Burmah with pen and brush",
+      "author": "A. Hugh Fisher",
+      "priority": "LOW",
+      "category": "Travel Narratives & Memoirs"
+    },
+    {
+      "id": 74042,
+      "title": "Wanderings of a pilgrim in search of the picturesque, Volume 1",
+      "author": "Fanny Parkes Parlby",
+      "priority": "MEDIUM",
+      "category": "Travel Narratives & Memoirs"
+    },
+    {
+      "id": 74043,
+      "title": "Wanderings of a pilgrim in search of the picturesque, Volume 2",
+      "author": "Fanny Parkes Parlby",
+      "priority": "MEDIUM",
+      "category": "Travel Narratives & Memoirs"
+    }
+  ]
+}
