@@ -43,9 +43,37 @@ const resources = [
     description: 'Digital archive of Vachana literature, profound spiritual prose-poetry by 12th-century Kannada mystics.'
   },
   {
+    name: 'Indic Archive',
+    url: 'https://indicarchive.org',
+    description: 'Digital preservation of Indic cultural and literary works, focusing on making rare texts and manuscripts accessible to contemporary audiences.'
+  },
+  {
     name: 'Sacred Texts: Hinduism',
     url: 'https://sacred-texts.com/hin/index.htm',
     description: 'Comprehensive collection of Hindu sacred texts, scriptures, and philosophical works in English translation.'
+  }
+];
+
+const people = [
+  {
+    name: 'Carl Malamud',
+    url: 'https://public.resource.org',
+    description: 'Founder of Public.Resource.Org and tireless advocate for universal access to public domain materials, government documents, and the law. His work has fundamentally shaped the modern public access movement.'
+  },
+  {
+    name: 'Omshivaprakash',
+    url: 'https://sanchaya.org',
+    description: 'Creator and maintainer of Sanchaya, dedicating years to digitally preserving Kannada literary heritage, making centuries of Kannada literature freely accessible to scholars and readers worldwide.'
+  },
+  {
+    name: 'Michael Hart',
+    url: 'https://en.wikipedia.org/wiki/Michael_S._Hart',
+    description: 'Founder of Project Gutenberg (1971), the first digital library. His vision that "anything that can be entered into a computer can be reproduced indefinitely" laid the foundation for all digital preservation efforts.'
+  },
+  {
+    name: 'Brewster Kahle',
+    url: 'https://archive.org',
+    description: 'Founder of the Internet Archive, building a digital library of unprecedented scale. His commitment to "universal access to all knowledge" has preserved billions of web pages, books, and cultural artifacts.'
   }
 ];
 ---
@@ -87,6 +115,44 @@ const resources = [
               </div>
             </a>
           ))}
+        </div>
+
+        <!-- People Section -->
+        <div class="mt-20 md:mt-24">
+          <h2 class="font-serif text-[2rem] md:text-[2.25rem] font-normal leading-[1.15] tracking-[-0.02em] text-ink mb-6 md:mb-8">
+            People
+          </h2>
+
+          <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-12 md:mb-16">
+            Servants of knowledge who have dedicated their lives to preserving and democratizing access to our shared cultural heritage.
+          </p>
+
+          <div class="space-y-10 md:space-y-12">
+            {people.map((person) => (
+              <a
+                href={person.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="group block pb-10 md:pb-12 border-b border-line hover:border-accent transition-colors duration-300"
+              >
+                <div class="flex justify-between items-start gap-6">
+                  <div class="flex-1">
+                    <h3 class="font-serif text-[1.25rem] md:text-[1.4rem] font-normal text-ink group-hover:text-accent transition-colors mb-3">
+                      {person.name}
+                    </h3>
+                    <p class="font-serif-body text-[0.95rem] md:text-[1.0rem] leading-[1.75] text-ink-light font-light">
+                      {person.description}
+                    </p>
+                  </div>
+                  <div class="text-accent opacity-40 group-hover:opacity-100 group-hover:translate-x-0.5 transition-all flex-shrink-0 mt-1">
+                    <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                      <path stroke-linecap="round" stroke-linejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                    </svg>
+                  </div>
+                </div>
+              </a>
+            ))}
+          </div>
         </div>
 
         <div class="mt-16 md:mt-20 pt-12 border-t border-line">
