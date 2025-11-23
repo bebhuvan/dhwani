@@ -42,7 +42,9 @@ references:
     type: wikipedia
 featured: false
 publishDate: 2025-11-16
-  - Regional Languages
+---
+
+# 1829 Malayalam New Testament
 
 ## Historical Context and Publication
 
