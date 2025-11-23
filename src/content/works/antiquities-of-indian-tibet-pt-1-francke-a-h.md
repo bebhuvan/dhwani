@@ -61,6 +61,7 @@ references:
     type: wikipedia
 featured: false
 publishDate: 2025-11-16
+---
 _subject: Indian Art & Architecture---
 
 ## Historical Context and Publication

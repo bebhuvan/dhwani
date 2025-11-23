@@ -58,8 +58,7 @@ references:
     type: other
 featured: false
 publishDate: 2025-11-16
-  - Sanskrit
-  - Public domain
+---
 
 ## Historical Context and Publication
 

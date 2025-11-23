@@ -40,8 +40,7 @@ references:
     type: other
 featured: false
 publishDate: 2025-11-16
-  - Linguistics
-  - Reference
+---
 
 ## Historical Context and Publication
 

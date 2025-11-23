@@ -78,6 +78,7 @@ references:
 featured: true
 publishDate: 2025-11-16
 ---
+---
 
 # Tamil Bhagavata Purana (Complete 12 Skandams)
 

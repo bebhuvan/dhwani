@@ -41,7 +41,7 @@ references:
     type: other
 featured: false
 publishDate: 2025-11-16
-  - Literature
+---
 
 ## Historical Context and Publication
 

@@ -47,6 +47,7 @@ references:
     type: other
 featured: false
 publishDate: 2025-11-16
+---
 ## Historical Context and Publication
 
 "A Freelance in Kashmir" was published in 1914, positioned at the end of the long reign of Maharaja Pratap Singh (1885-1925) of Jammu and Kashmir and on the eve of World War I. George Fletcher MacMunn (1869-1952), a British military officer who would later become Lieutenant-General Sir George MacMunn, wrote this account based on his experiences traveling through Kashmir as an independent observer rather than in an official capacity—hence the "freelance" designation. The work appeared during a period of increased British interest in Kashmir's strategic importance and internal administration, as the princely state's relationship with the British Raj involved complex arrangements of indirect rule through the resident system.

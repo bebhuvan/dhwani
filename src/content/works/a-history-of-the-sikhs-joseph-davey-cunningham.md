@@ -51,6 +51,7 @@ references:
 featured: false
 publishDate: 2025-11-16
 ---
+---
 
 ## Historical Context and Publication
 

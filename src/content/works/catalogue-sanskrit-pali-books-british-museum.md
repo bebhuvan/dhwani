@@ -49,6 +49,7 @@ references:
 featured: false
 publishDate: 2025-11-23
 ---
+---
 
 # Catalogue of Sanskrit and Pali Books in the British Museum
 
