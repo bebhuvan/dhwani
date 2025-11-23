@@ -1,0 +1,4474 @@
+[0;34m╔══════════════════════════════════════════════════════════════════╗[0m
+[0;34m║                                                                  ║[0m
+[0;34m║         DHWANI - Processing First 200 Candidates                ║[0m
+[0;34m║         Batches of 25 for Manual Review                         ║[0m
+[0;34m║                                                                  ║[0m
+[0;34m╚══════════════════════════════════════════════════════════════════╝[0m
+
+[0;32mTotal candidates: 200[0m
+
+[0;34m━━━ STEP 1: Checking for Duplicates ━━━[0m
+Comparing against src/content/works...
+✅ No duplicates found!
+
+[0;34m━━━ STEP 2: Generating Scholarly Descriptions ━━━[0m
+Using Claude Haiku 4 API...
+📝 Starting Scholarly Description Generation
+
+Found 200 files to process
+
+[1/200] 10-part-1-bhagavatam-dashama-skandam-poorva-ba-a-v-narasimhacharya.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1695 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[2/200] 10-part-2-tamil-bhagavatam-dashama-skandam-uttaraartam-a-v-narasimhacharya.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1777 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[3/200] 11-12-tamil-bhagavatam-ekadasha-dwadasha-skandams-a-v-narasimhacharya.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1661 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[4/200] 1829-malayalam-new-testament-benjamin-bailey.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1981 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[5/200] 1839-the-book-of-psalms-malayalam-benjamin-bailey.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1770 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[6/200] 1846-malayalam-english-dictionary-benjamin-bailey.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2600 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[7/200] 1851-malayalam-selections-with-translations-grammatical-analyses-and-vocabulary-a-j-arbuthnot.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1917 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[8/200] 1856-a-dictionary-of-the-malayalam-and-english-e-laseron.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1973 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[9/200] 1856-the-malayalam-reader-charles-collett.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1973 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[10/200] 1860-an-anglo-malayalam-vocabulary-and-phrase-book-p-john-aymanam.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2227 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[11/200] 1862-madhavnidan-krishnashashtri-bhatvadekar.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1920 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[12/200] 1867-catechism-of-malayalam-grammar-liston-garthwaite.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2074 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[13/200] 1868-a-collection-of-telugu-proverbs-m-w-carr.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1875 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[14/200] 1870-school-dictionary-english-and-malayalam-muller.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2097 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[15/200] 1877-materia-medica-of-the-hindus-udoy-chand-dutt.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2135 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[16/200] 1883-the-essentials-of-malayalam-grammar-liston-garthwaite.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1828 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[17/200] 1914-ayurvedaprakasha-of-madhava-vidya-jadavji-tricumji-acharya.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1980 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[18/200] 3-tamil-bhagavatam-tritiya-skandam-a-v-narasimhacharya.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1858 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[19/200] 4-tamil-bhagavatam-chadurta-skandam-a-v-narasimhacharya.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1834 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[20/200] 5-6-tamil-bhagavatam-panchama-shashta-skandams-a-v-narasimhacharya.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1842 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[21/200] 7-8-tamil-bhagavatam-saptama-ashtama-skandams-a-v-narasimhacharya.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1637 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[22/200] 9-tamil-bhagavatam-navama-skandam-a-v-narasimhacharya.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1831 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[23/200] a-bengali-grammar-yates-r-w-wenger-j.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1755 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[24/200] a-bibliography-of-the-sanskrit-drama-schuyler-montgomery-1877.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2069 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[25/200] a-bibliography-of-the-sanskrit-drama-with-an-introductory-sketch-schuyler-montgomery-1877.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1927 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 80/100)
+[26/200] a-brief-review-of-the-trade-of-india-hunter-william-wilson.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2341 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[27/200] a-catalogue-of-palm-leaf-and-selected-paper-mss-belonging-to-the-durbar-library-nepal-hara-prasad-sh.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1819 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 80/100)
+[28/200] a-catalogue-of-the-tamil-books-in-the-library-of-the-british-museum-british-museum-lionel-d-barnett-.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1971 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 80/100)
+[29/200] a-companion-telugu-reader-to-arden-s-progressive-telugu-grammar-arden-albert-henry.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2162 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[30/200] a-comparative-grammar-of-modern-aryan-languages-john-beames.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2257 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 80/100)
+[31/200] a-comparative-grammar-of-the-dravidian-or-south-indian-family-of-languages-caldwell-robert.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2258 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bgroundbreaking\b
+   ✅ Generated (quality: 80/100)
+[32/200] a-comparative-grammar-of-the-languages-of-further-india-hoernle-a-f-rudolf.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1877 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[33/200] a-comparative-grammar-of-the-modern-aryan-languages-of-india-to-wit-hindi-panjabi-sindhi-gujarati-ma.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1949 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 80/100)
+[34/200] a-comparative-grammar-of-the-modern-aryan-languages-of-india-vol-3-beames-john.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2055 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[35/200] a-comparative-study-of-english-and-malayalam-tatta-kanaran-joseph-muliyil.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1866 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[36/200] a-compendious-pali-grammar-with-a-vocabulary-in-the-same-language-benjamin-clough-william-tolfrey.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1928 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[37/200] a-compendium-of-molesworth-s-marathi-and-english-dictionary-molesworth-j-t-padmanji-baba.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1814 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[38/200] a-complete-dictionary-of-the-terms-used-by-criminal-tribes-in-the-punjab-unknown.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2126 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 80/100)
+[39/200] a-comprehensive-dictionary-english-and-marathi-padmanji-baba.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1885 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[40/200] a-defence-of-hindoo-theism-rammohun-roy-raja-sankara-sastri.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1982 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[41/200] a-descriptive-and-historical-account-of-british-india-murray-hugh.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2028 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[42/200] a-descriptive-catalogue-of-the-sanskrit-manuscripts-in-the-adyar-library-theosophical-society-vol-i-.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1934 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 80/100)
+[43/200] a-dictionary-bengali-and-sanskrit-explained-in-english-graves-champney-haughton.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2181 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[44/200] a-dictionary-english-and-gujarati-montgomery-robert.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1904 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[45/200] a-dictionary-english-and-marathi-1847-various.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1735 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[46/200] a-dictionary-english-and-marathi-j-t-molesworth.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2040 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 80/100)
+[47/200] a-dictionary-gujarati-and-english-shapurji-edalji.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1979 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[48/200] a-dictionary-hindustani-and-english-shakespeare-john.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2199 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[49/200] a-dictionary-in-assamese-and-english-miles-bronson.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2047 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[50/200] a-dictionary-of-english-and-punjabi-captain-starkey.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2130 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[51/200] a-dictionary-of-hindustani-proverbs-s-w-fallon.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2054 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[52/200] a-dictionary-of-kashmiri-proverbs-sayings-james-hinton-knowles.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2211 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[53/200] a-dictionary-of-the-bengali-language-carey-w.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2169 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[54/200] a-dictionary-of-the-bengali-language-rev-william-morton.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1754 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[55/200] a-dictionary-of-the-bengali-language-with-bengali-synonyms-and-an-english-interpretation-morton-will.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2164 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[56/200] a-dictionary-of-the-mixed-telugu-charles-philip-brown.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2027 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[57/200] a-dictionary-of-the-panjabi-language-committee-of-lodiana-mission.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2309 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[58/200] a-dictionary-of-the-punjabi-language-lodiana-mission.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1873 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[59/200] a-dictionary-of-the-tamil-and-english-languages-rottler-j-p.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2181 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[60/200] a-dictionary-of-urdu-classical-hindi-and-english-platts-john-thompson.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1812 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[61/200] a-dictionary-telugu-and-english-brown-charles-philip.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2336 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[62/200] a-freelance-in-kashmir-macmunn-george-fletcher.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2086 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[63/200] a-gazetteer-of-southern-india-vol-1-pharoah-and-co.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1838 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[64/200] a-gazetteer-of-southern-india-vol-2-pharoah-and-co.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2218 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[65/200] a-general-index-to-the-names-and-subject-matter-m-winternitz.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1744 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[66/200] a-general-index-to-the-sacred-books-of-the-east-f-max-muller.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1896 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[67/200] a-glimpse-of-assam-susan-r-ward.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1871 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[68/200] a-glossary-bengali-and-english-haughton-graves-chamney-mrityunjaya.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2013 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[69/200] a-glossary-of-judicial-and-revenue-terms-and-of-useful-words-occurring-in-official-documents-wilson-.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1738 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[70/200] a-glossary-of-judicial-and-revenue-terms-wilson-h-h.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1867 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 80/100)
+[71/200] a-glossary-of-the-tribes-and-castes-of-the-punjab-and-north-west-frontier-province-rose-h-a-ibbetson.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1909 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[72/200] a-grammar-of-the-gujarati-language-clarkson-william.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2137 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[73/200] a-grammar-of-the-high-dialect-of-the-tamil-language-beschi-costantino-giuseppe.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2032 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 80/100)
+[74/200] a-grammar-of-the-hindi-language-kellogg-samuel-henry.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1885 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 80/100)
+[75/200] a-grammar-of-the-kannada-language-in-english-f-kittel.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2005 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[76/200] a-grammar-of-the-malayalam-language-hermann-gundert.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2115 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[77/200] a-grammar-of-the-marathi-language-bellairs-henry-spencer-kenrick-lakshmana-yadava-askhedkar.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1977 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[78/200] a-grammar-of-the-prakrit-languages-pischel-richard.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1856 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[79/200] a-grammar-of-the-tamil-language-rhenius-c-t-e.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1722 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[80/200] a-grammar-of-the-tamil-language-vol-2-rhenius-charles-theophilus-ewald.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1819 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[81/200] a-grammar-of-the-telugu-language-brown-charles-philip.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1804 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[82/200] a-grammar-of-the-telugu-language-charles-philip-brown.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1887 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[83/200] a-group-of-eastern-romances-and-stories-clouston-rehatsek.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1840 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[84/200] a-hand-book-of-hindu-pantheism-the-panchadasi-madhava.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2151 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[85/200] a-hindi-manual-kellogg-samuel-henry.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1800 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[86/200] a-hindustani-english-dictionary-fallon-s-w.md
+
+   🤖 Generating scholarly description...
+   ⏭️  Skipped (Overloaded)
+[87/200] a-history-of-hindu-chemistry-vol-1-praphulla-chandra-ray.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1893 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[88/200] a-history-of-hindu-civilisation-during-british-rule-pramatha-nath-bose.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1765 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[89/200] a-history-of-indian-philosophy-vol-1-variant-dasgupta-surendranath.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1780 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[90/200] a-history-of-indian-philosophy-vol-3-dasgupta-surendranath.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1902 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[91/200] a-history-of-indian-philosophy-vol-4-dasgupta-surendranath.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1957 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[92/200] a-history-of-indian-philosophy-vol-5-dasgupta-surendranath.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1774 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[93/200] a-history-of-sanskrit-literature-a-berriedale-keith.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1856 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[94/200] a-history-of-sanskrit-literature-macdonell-arthur-anthony.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1733 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[95/200] a-history-of-sanskrit-literature-macdonell.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1952 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[96/200] a-history-of-the-maratha-people-vol-2-kincaid-charles-augustus.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1683 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[97/200] a-history-of-the-maratha-people-vol-3-kincaid-charles-augustus.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1890 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[98/200] a-history-of-the-military-transactions-of-the-british-nation-in-indostan-from-the-year-1745-vol-1-or.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1787 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[99/200] a-history-of-the-military-transactions-of-the-british-nation-in-indostan-orme-robert.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2161 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[100/200] a-history-of-the-sikhs-from-the-origin-of-the-nation-to-the-battles-of-the-sutlej-davey-cunningham-j.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2136 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[101/200] a-history-of-the-sikhs-joseph-davey-cunningham.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1960 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[102/200] a-literary-history-of-india-frazer-r-w-robert-watson.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1762 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[103/200] a-literary-history-of-india-r-w-frazer.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2038 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[104/200] a-malabar-and-english-dictionary-fabricius-johann-philipp.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1819 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[105/200] a-malayalam-and-english-dictionary-hermann-gundert.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1831 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 80/100)
+[106/200] a-malayalam-medical-dictionary-nayattinkaray-krishna-pillay.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2000 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[107/200] a-manual-of-hindu-pantheism-the-vedantasara-jacob-george-adolphus.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1948 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[108/200] a-manual-of-hindu-pantheism-the-vedantasara-sadananda-yogindra-george-adolphus-jacob.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1871 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[109/200] a-manual-of-the-historical-development-of-art-george-gustavus-zerffi.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1928 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[110/200] a-manual-of-urdu-or-hindustani-platts-john-thompson.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1861 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[111/200] a-memoir-of-the-rev-robert-turlington-noble-noble-john.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2006 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[112/200] a-note-on-indian-wheat-rusts-cunningham-d-d.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1598 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[113/200] a-personal-narrative-of-a-visit-to-ghuzni-kabul-and-afghanistan-vigne-godfrey-thomas.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1871 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[114/200] a-practical-grammar-of-the-sanskrit-language-monier-monier-williams.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2198 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[115/200] a-practical-grammar-of-the-sanskrit-language-monier-williams.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1806 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[116/200] a-primer-of-tamil-literature-purnalingam-pillai-m-s.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1773 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[117/200] a-progressive-grammar-of-the-malayalam-language-for-europeans-various.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1928 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[118/200] a-progressive-grammar-of-the-telugu-language-arden-albert-henry.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1877 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[119/200] a-prose-english-translation-of-vishnupuranam.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1673 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[120/200] a-record-of-the-expeditions-undertaken-against-the-north-west-frontier-tribes-paget-w-h.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2076 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[121/200] a-sanskrit-english-dictionary-macdonell-arthur-a.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1720 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[122/200] a-sanskrit-english-dictionary-monier-williams.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1939 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[123/200] a-second-defence-of-the-monotheistic-system-of-the-veda-rammohun-roy.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2001 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[124/200] a-second-exposure-of-the-hindu-religion-wilson-john.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2315 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[125/200] a-selection-of-articles-and-letters-on-various-indian-questions-hodgson-pratt.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1715 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[126/200] a-selection-of-morals-from-the-best-english-and-bengali-mitter-gopal-lol.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1843 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[127/200] a-short-account-of-the-kachcha-naga-empeo-tribe-in-the-north-cachar-hills-soppitt-c-a.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1920 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[128/200] a-short-history-of-indian-literature-horrwitz-e-p.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1823 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[129/200] a-simplified-grammar-and-reading-book-william-st-clair-tisdall.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2063 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[130/200] a-sindhi-english-dictionary-george-shirt.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1985 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[131/200] a-sketch-of-the-state-of-british-india-bryce-james.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2059 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[132/200] a-soldier-s-daughter-and-other-stories-g-a-henty.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2133 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[133/200] a-study-of-indian-economics-pramathanath-banerjea.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1710 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[134/200] a-summer-in-kashmir-neve-arthur.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1844 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[135/200] a-supplement-to-the-collection-of-telugu-proverbs-carr-mark-william.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2046 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[136/200] a-tour-through-the-famine-district-of-india-francis-henry-shafton-merewether.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2024 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[137/200] a-tour-through-the-famine-districts-of-india-f-h-s-merewether.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1890 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[138/200] a-treatise-on-buddhist-philosophy-or-abidhamma-de-silva-c-l-a.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1654 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[139/200] a-treatise-on-the-yoga-philosophy-2nd-ed-n-c-paul.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1994 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[140/200] a-treatise-on-the-yoga-philosophy-n-c-paul.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2086 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[141/200] a-vedic-reader-for-students-macdonell-arthur-anthony.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2156 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[142/200] a-view-of-all-religions-and-the-religious-ceremonies-of-all-nations-robbins-thomas-ward-william.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1729 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[143/200] a-view-of-the-history-literature-and-religion-of-the-hindoos-ward-william.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1999 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[144/200] abhinava-raga-manjari-by-pandit-vishnu-narayan-bhatkhande-1921-dr-k-j-kunte-with-assistance-by-karti.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2026 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[145/200] across-india-at-the-dawn-of-the-20th-century-lucy-evangeline-guinness.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1925 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[146/200] addresses-and-speeches-relating-to-the-mahomedan-anglo-oriental-college-mohsin-ul-mulk.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1964 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[147/200] adi-granth-or-the-holy-scriptures-of-the-sikhs-trumpp-ernest.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2074 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 80/100)
+[148/200] adi-granth-or-the-holy-scriptures-of-the-sikhs-various.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2210 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[149/200] agad-tantra-sharmaa-thaakuradatt-vaidya.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1789 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[150/200] agananuru-m-kamalakannan.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1942 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[151/200] agastya-in-the-tamil-land-sivaraja-pillai-k-narayanan.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1874 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[152/200] agricultural-insurance-a-practical-scheme-suited-to-indian-conditions-chakravarti-j-s.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1747 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[153/200] ain-i-akbari-administration-of-mughal-emperor-akbar-volume-1-abul-fazl.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2134 chars)
+   🔍 Quality score: 60/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bindispensable\b
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 60/100)
+[154/200] ain-i-akbari-administration-of-mughal-emperor-akbar-volume-2-abul-fazl.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1934 chars)
+   🔍 Quality score: 60/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bindispensable\b
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 60/100)
+[155/200] aitareya-aranyaka-keith-berriedale.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1901 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bgroundbreaking\b
+   ✅ Generated (quality: 80/100)
+[156/200] aitareya-brahmana-of-the-rigveda-martin-haug.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1909 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[157/200] aitareya-brahmana-of-the-rigveda-vol-1-haug-martin.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1815 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[158/200] akbar-s-tomb-sikandarah-near-agra-described-and-illustarated-smith-edmund-w.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2065 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[159/200] akbars-tomb-sikandarah-near-agra-edmund-w-smith.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1729 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[160/200] akhlaq-e-muhammadi-sindhi-hakim-fateh-muhammad-sewhani.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2036 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[161/200] american-primitive-music-with-especial-attention-to-the-songs-of-the-ojibways-frederick-russell-burt.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1925 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[162/200] an-account-of-an-embassy-to-the-court-of-the-teshoo-lama-in-tibet-turner-samuel.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1953 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[163/200] an-account-of-assam-wade-john-peter.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1743 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[164/200] an-appeal-to-christian-mothers-in-behalf-of-the-heathen-scudder-john.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1879 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[165/200] an-elementary-grammar-of-the-kannada-or-canarese-language-1864-thomas-hodson.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2286 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[166/200] an-elementary-grammar-of-the-kannada-or-canarese-language-t-c-hodson.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1931 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[167/200] an-elementary-grammar-of-the-kannada-or-canarese-language-thomas-hodson.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2092 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[168/200] an-elementary-grammar-of-the-sanscrit-language-monier-williams.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1957 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[169/200] an-epitome-of-the-history-of-ceylon-compiled-from-native-annals-george-turnour.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1976 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[170/200] an-exposure-of-the-hindu-religion-wilson-john-mora-bhatta-dandekara.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1762 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[171/200] an-historical-disquisition-concerning-the-knowledge-which-the-ancients-had-of-india-robertson-willia.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2028 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[172/200] an-historical-sketch-of-sanscrit-literature-adelung-friedrich-von-talboys-d-a.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2027 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[173/200] an-introduction-to-biology-for-students-india-r-e-lloyd.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1860 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[174/200] an-oriya-and-english-dictionary-designed-for-the-use-of-european-and-native-brooks-william.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1878 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[175/200] an-outline-grammar-of-the-dafla-language-robert-clifton-hamilton.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1918 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[176/200] ancient-geography-of-india-mccrindle-john-watson.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1684 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[177/200] ancient-india-as-described-by-ktesias-the-knidian-mccrindle-john-watson.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2091 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[178/200] ancient-india-as-described-by-megasthenes-and-arrian-mccrindle-john-watson.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1879 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[179/200] ancient-india-as-described-by-ptolemy-mccrindle-john-watson.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1827 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[180/200] ancient-india-as-described-in-classical-literature-mccrindle-john-watson.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1733 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[181/200] ancient-india-from-the-earliest-times-to-the-first-century-e-j-rapson.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2108 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 80/100)
+[182/200] ancient-india-krishnaswami-aiyangar-sakkottai.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2159 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[183/200] ancient-tenures-and-modern-land-legislation-in-british-india-hutton-henry-dix.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2076 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[184/200] ancient-wings-harindranath-chattopadhyay.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1724 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[185/200] anecdotes-of-virtue-and-valour.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2062 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[186/200] anglo-indian-prize-poems-w-s-thomson.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1738 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[187/200] annals-and-antiouities-of-rajasthan-vol-iii-lieut-col-james-tod.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1833 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 80/100)
+[188/200] annals-and-antiqqities-of-rajasthan-james-tod.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2104 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 80/100)
+[189/200] annals-and-antiquities-of-rajasthan-vol-001-james-tod.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1962 chars)
+   🔍 Quality score: 80/100
+   ⚠️  Quality issues:
+      - Marketing fluff detected: \bunprecedented\b
+   ✅ Generated (quality: 80/100)
+[190/200] annals-and-antiquities-of-rajasthan-vol-i-james-tod.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1829 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[191/200] annals-and-antiquities-of-rajasthan-vol-ii-james-tod.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2018 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[192/200] annals-antiquities-of-rajasthan-james-tod.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1951 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[193/200] annals-antiquities-of-rajasthan-vol-ii-james-tod.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2048 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[194/200] annals-of-the-honorable-east-india-company-vol-1-bruce-john.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1923 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[195/200] annals-of-the-honorable-east-india-company-vol-2-bruce-john.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1682 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[196/200] annual-progress-report-of-the-archaeological-survey-archaeological-survey-of-india.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1780 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[197/200] annual-report-of-the-archaeological-department-southern-circle-madras-archaeological-survey-of-india.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (2183 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[198/200] annual-reports-of-archaeological-survey-of-india-m-kamalakannan.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1890 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[199/200] anthologia-sanscritica-lassen-christian.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1632 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+[200/200] antiquities-of-indian-tibet-pt-1-francke-a-h.md
+
+   🤖 Generating scholarly description...
+   📝 Description generated (1866 chars)
+   🔍 Quality score: 100/100
+   ✅ Generated (quality: 100/100)
+
+============================================================
+✅ Processed: 200 files
+📝 Generated: 199 descriptions
+📊 Average quality: 98/100
+============================================================
+
+[0;34m━━━ STEP 3: Finding Wikipedia & Reference Links ━━━[0m
+🔗 Smart Link Finder (AI-Powered)
+
+Found 200 files to process
+
+[1/200] 10-part-1-bhagavatam-dashama-skandam-poorva-ba-a-v-narasimhacharya.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Bhagavata_Purana... ✓
+      Checking Krishna... ✓
+      Checking A._V._Narasimhacharya... ✗
+      Checking Purana... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[2/200] 10-part-2-tamil-bhagavatam-dashama-skandam-uttaraartam-a-v-narasimhacharya.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Bhagavata_Purana... ✓
+      Checking Tamil_literature... ✓
+      Checking Krishna... ✓
+      Checking Tamil_language... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[3/200] 11-12-tamil-bhagavatam-ekadasha-dwadasha-skandams-a-v-narasimhacharya.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Bhagavata_Purana... ✓
+      Checking Tamil_literature... ✓
+      Checking Vaishnavism... ✓
+      Checking Tamil_Nadu... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[4/200] 1829-malayalam-new-testament-benjamin-bailey.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Malayalam_literature... ✓
+      Checking Benjamin_Bailey_(missionary)... ✓
+      Checking Bible_translations_in_India... ✗
+      Checking Kerala_Christians... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[5/200] 1839-the-book-of-psalms-malayalam-benjamin-bailey.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Book_of_Psalms... ✓
+      Checking Malayalam_language... ✓
+      Checking Christian_missionaries_in_Kerala... ✗
+      Checking Benjamin_Bailey... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[6/200] 1846-malayalam-english-dictionary-benjamin-bailey.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Malayalam_language... ✓
+      Checking Benjamin_Bailey_(missionary)... ✓
+      Checking Travancore... ✓
+      Checking Lexicography... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[7/200] 1851-malayalam-selections-with-translations-grammatical-analyses-and-vocabulary-a-j-arbuthnot.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Malayalam_language... ✓
+      Checking British_India... ✓
+      Checking A._J._Arbuthnot... ✗
+      Checking Linguistic_documentation... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[8/200] 1856-a-dictionary-of-the-malayalam-and-english-e-laseron.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Malayalam_language... ✓
+      Checking Kerala... ✓
+      Checking Dravidian_languages... ✓
+      Checking Lexicography... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[9/200] 1856-the-malayalam-reader-charles-collett.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Malayalam_language... ✓
+      Checking Kerala... ✓
+      Checking British_India... ✓
+      Checking Charles_Collett... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[10/200] 1860-an-anglo-malayalam-vocabulary-and-phrase-book-p-john-aymanam.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Malayalam_language... ✓
+      Checking Kerala_literature... ✗
+      Checking British_India... ✓
+      Checking Lexicography... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[11/200] 1862-madhavnidan-krishnashashtri-bhatvadekar.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Ayurveda... ✓
+      Checking Maharashtra... ✓
+      Checking Sanskrit_medical_manuscripts... ✗
+      Checking Traditional_medicine_in_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[12/200] 1867-catechism-of-malayalam-grammar-liston-garthwaite.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Malayalam_language... ✓
+      Checking Kerala_linguistics... ✗
+      Checking Linguistics_in_India... ✗
+      Checking British_Colonial_Linguistics... ✗
+      Checking Wikisource... ✗
+   ✅ Added 1 verified links
+[13/200] 1868-a-collection-of-telugu-proverbs-m-w-carr.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Telugu_language... ✓
+      Checking Proverbs... ✓
+      Checking Andhra_Pradesh... ✓
+      Checking Oral_tradition... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[14/200] 1870-school-dictionary-english-and-malayalam-muller.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Malayalam_language... ✓
+      Checking Kerala_literature... ✗
+      Checking Lexicography... ✓
+      Checking British_India... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[15/200] 1877-materia-medica-of-the-hindus-udoy-chand-dutt.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Ayurveda... ✓
+      Checking Traditional_medicine_in_India... ✗
+      Checking Materia_medica... ✓
+      Checking Wikisource:Materia_Medica_of_the_Hindus...       Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[16/200] 1883-the-essentials-of-malayalam-grammar-liston-garthwaite.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Malayalam_language... ✓
+      Checking Linguistics_of_India... ✗
+      Checking Kerala... ✓
+      Checking Dravidian_languages... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[17/200] 1914-ayurvedaprakasha-of-madhava-vidya-jadavji-tricumji-acharya.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Ayurveda... ✓
+      Checking Traditional_Indian_medicine... ✓
+      Checking History_of_medicine_in_India... ✗
+      Checking Sanskrit_medical_manuscripts... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[18/200] 3-tamil-bhagavatam-tritiya-skandam-a-v-narasimhacharya.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Bhagavata_Purana... ✓
+      Checking Tamil_language... ✓
+      Checking Purana... ✓
+      Checking Wikisource:Tamil_texts...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[19/200] 4-tamil-bhagavatam-chadurta-skandam-a-v-narasimhacharya.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Bhagavata_Purana... ✓
+      Checking Tamil_language... ✓
+      Checking Vaishnavism... ✓
+      Checking Puranas... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[20/200] 5-6-tamil-bhagavatam-panchama-shashta-skandams-a-v-narasimhacharya.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Bhagavata_Purana... ✓
+      Checking Tamil_literature... ✓
+      Checking Puranas... ✓
+      Checking A._V._Narasimhacharya... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[21/200] 7-8-tamil-bhagavatam-saptama-ashtama-skandams-a-v-narasimhacharya.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Bhagavata_Purana... ✓
+      Checking Tamil_language... ✓
+      Checking Vaishnavism... ✓
+      Checking A._V._Narasimhacharya... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[22/200] 9-tamil-bhagavatam-navama-skandam-a-v-narasimhacharya.md
+
+   🤖 Using AI to find relevant links...
+   ⚠️  AI suggestion error: Unexpected non-whitespace character after JSON at position 534
+   ⏭️  Skipped (no suggestions)
+[23/200] a-bengali-grammar-yates-r-w-wenger-j.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Bengali_language... ✓
+      Checking Colonial_linguistics... ✗
+      Checking British_Raj... ✓
+      Checking Category:1819_in_literature... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[24/200] a-bibliography-of-the-sanskrit-drama-schuyler-montgomery-1877.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Sanskrit_drama... ✓
+      Checking Sanskrit_literature... ✓
+      Checking Montgomery_Schuyler... ✓
+      Checking Classical_Sanskrit_literature... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[25/200] a-bibliography-of-the-sanskrit-drama-with-an-introductory-sketch-schuyler-montgomery-1877.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Sanskrit_drama... ✓
+      Checking Sanskrit_literature... ✓
+      Checking Classical_Sanskrit_literature... ✓
+      Checking Wikisource:Sanskrit_drama...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[26/200] a-brief-review-of-the-trade-of-india-hunter-william-wilson.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking William_Wilson_Hunter... ✓
+      Checking British_Raj... ✓
+      Checking Indian_economy_under_British_rule... ✗
+      Checking Economic_history_of_India... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[27/200] a-catalogue-of-palm-leaf-and-selected-paper-mss-belonging-to-the-durbar-library-nepal-hara-prasad-sh.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Ayurveda... ✓
+      Checking Hara_Prasad_Shastri... ✓
+      Checking Nepal_national_library... ✗
+      Checking Palm_leaf_manuscript... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[28/200] a-catalogue-of-the-tamil-books-in-the-library-of-the-british-museum-british-museum-lionel-d-barnett-.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Tamil_literature... ✓
+      Checking British_Museum_Library... ✓
+      Checking Lionel_David_Barnett... ✓
+      Checking George_Uglow_Pope... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[29/200] a-companion-telugu-reader-to-arden-s-progressive-telugu-grammar-arden-albert-henry.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Telugu_language... ✓
+      Checking Linguistic_research_in_colonial_India... ✗
+      Checking Albert_Henry_Arden... ✗
+      Checking Andhra_Pradesh... ✓
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[30/200] a-comparative-grammar-of-modern-aryan-languages-john-beames.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Indo-Aryan_languages... ✓
+      Checking John_Beames... ✓
+      Checking Historical_linguistics... ✓
+      Checking Comparative_linguistics... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[31/200] a-comparative-grammar-of-the-dravidian-or-south-indian-family-of-languages-caldwell-robert.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Dravidian_languages... ✓
+      Checking Robert_Caldwell... ✓
+      Checking Comparative_linguistics... ✓
+      Checking Wikisource:A_Comparative_Grammar_of_the_Dravidian_Languages...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[32/200] a-comparative-grammar-of-the-languages-of-further-india-hoernle-a-f-rudolf.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Languages_of_Southeast_Asia... ✓
+      Checking A._F._Rudolf_Hoernle... ✓
+      Checking Comparative_linguistics... ✓
+      Checking Asiatic_Society_of_Bengal... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[33/200] a-comparative-grammar-of-the-modern-aryan-languages-of-india-to-wit-hindi-panjabi-sindhi-gujarati-ma.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Indo-Aryan_languages... ✓
+      Checking John_Beames... ✓
+      Checking Linguistic_survey_of_India... ✗
+      Checking A_Comparative_Grammar_of_the_Modern_Aryan_Languages_of_India...       Checking Wikisource... ✓
+   ✅ Added 3 verified links
+[34/200] a-comparative-grammar-of-the-modern-aryan-languages-of-india-vol-3-beames-john.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Indo-Aryan_languages... ✓
+      Checking John_Beames... ✓
+      Checking Comparative_linguistics... ✓
+      Checking Linguistics_in_British_India... ✗
+      Checking Wikisource... ✓
+   ✅ Added 4 verified links
+[35/200] a-comparative-study-of-english-and-malayalam-tatta-kanaran-joseph-muliyil.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Malayalam_language... ✓
+      Checking Comparative_linguistics... ✓
+      Checking Kerala_literature... ✗
+      Checking English_language_in_India... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[36/200] a-compendious-pali-grammar-with-a-vocabulary-in-the-same-language-benjamin-clough-william-tolfrey.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Pali_language... ✓
+      Checking Orientalism... ✓
+      Checking Buddhist_philology... ✗
+      Checking Pali_Canon... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[37/200] a-compendium-of-molesworth-s-marathi-and-english-dictionary-molesworth-j-t-padmanji-baba.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Marathi_language... ✓
+      Checking Linguistics_of_India... ✗
+      Checking J._T._Molesworth... ✓
+      Checking Marathi_literature... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[38/200] a-complete-dictionary-of-the-terms-used-by-criminal-tribes-in-the-punjab-unknown.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Criminal_Tribes_Act... ✓
+      Checking Punjab,_India... ✓
+      Checking British_Raj... ✓
+      Checking Ethnography_in_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[39/200] a-comprehensive-dictionary-english-and-marathi-padmanji-baba.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Marathi_language... ✓
+      Checking Lexicography... ✓
+      Checking British_Raj... ✓
+      Checking Baba_Padmanji... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[40/200] a-defence-of-hindoo-theism-rammohun-roy-raja-sankara-sastri.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Rammohun_Roy... ✓
+      Checking Bengal_Renaissance... ✓
+      Checking Monotheism_in_Hinduism... ✓
+      Checking Brahmo_Samaj... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[41/200] a-descriptive-and-historical-account-of-british-india-murray-hugh.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking British_East_India_Company... ✓
+      Checking Hugh_Murray_(geographer)... ✓
+      Checking Historiography_of_British_India... ✗
+      Checking British_Raj... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[42/200] a-descriptive-catalogue-of-the-sanskrit-manuscripts-in-the-adyar-library-theosophical-society-vol-i-.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Upanishads... ✓
+      Checking Adyar_Library... ✓
+      Checking Theosophical_Society... ✓
+      Checking Sanskrit_manuscripts... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[43/200] a-dictionary-bengali-and-sanskrit-explained-in-english-graves-champney-haughton.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Bengali_language... ✓
+      Checking Sanskrit... ✓
+      Checking Lexicography... ✓
+      Checking Graves_Champney_Haughton... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[44/200] a-dictionary-english-and-gujarati-montgomery-robert.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Gujarati_language... ✓
+      Checking British_Raj... ✓
+      Checking Lexicography... ✓
+      Checking Robert_Montgomery_(linguist)... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[45/200] a-dictionary-english-and-marathi-1847-various.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Marathi_language... ✓
+      Checking Lexicography... ✓
+      Checking British_India... ✓
+      Checking English_language_in_India... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[46/200] a-dictionary-english-and-marathi-j-t-molesworth.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Marathi_language... ✓
+      Checking British_Colonial_Linguistics... ✗
+      Checking Lexicography... ✓
+      Checking J._T._Molesworth... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[47/200] a-dictionary-gujarati-and-english-shapurji-edalji.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Gujarati_language... ✓
+      Checking Lexicography... ✓
+      Checking Languages_of_India... ✓
+      Checking British_India... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[48/200] a-dictionary-hindustani-and-english-shakespeare-john.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Hindustani_language... ✓
+      Checking Linguistic_studies_in_British_India... ✗
+      Checking John_Shakespeare_(lexicographer)... ✗
+      Checking British_Raj... ✓
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[49/200] a-dictionary-in-assamese-and-english-miles-bronson.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Assamese_language... ✓
+      Checking Miles_Bronson... ✓
+      Checking Linguistic_history_of_Assam... ✗
+      Checking Assamese_literature... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[50/200] a-dictionary-of-english-and-punjabi-captain-starkey.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Punjabi_language... ✓
+      Checking British_India... ✓
+      Checking Lexicography... ✓
+      Checking Linguistic_colonialism... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[51/200] a-dictionary-of-hindustani-proverbs-s-w-fallon.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Hindustani_language... ✓
+      Checking Proverb... ✓
+      Checking Colonial_India... ✓
+      Checking Wikisource:A_Dictionary_of_Hindustani_Proverbs...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[52/200] a-dictionary-of-kashmiri-proverbs-sayings-james-hinton-knowles.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 5 suggestions
+      Checking Kashmiri_language... ✓
+      Checking Kashmir_Region... ✓
+      Checking Proverb... ✓
+      Checking James_Hinton_Knowles... ✓
+      Checking British_Raj... ✓
+      Checking Wikisource... ✗
+   ✅ Added 5 verified links
+[53/200] a-dictionary-of-the-bengali-language-carey-w.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking William_Carey_(missionary)... ✓
+      Checking Bengali_language... ✓
+      Checking Serampore_Mission... ✗
+      Checking Missionary_linguistics... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[54/200] a-dictionary-of-the-bengali-language-rev-william-morton.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Bengali_language... ✓
+      Checking William_Carey_(missionary)... ✓
+      Checking Linguistics_in_British_India... ✗
+      Checking Colonial_linguistics... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[55/200] a-dictionary-of-the-bengali-language-with-bengali-synonyms-and-an-english-interpretation-morton-will.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 3 suggestions
+      Checking Bengali_language... ✓
+      Checking Linguistics_of_Bengal... ✗
+      Checking British_linguistic_scholarship_in_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 1 verified links
+[56/200] a-dictionary-of-the-mixed-telugu-charles-philip-brown.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Telugu_language... ✓
+      Checking Charles_Philip_Brown... ✓
+      Checking Madras_Presidency... ✓
+      Checking Linguistics_of_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[57/200] a-dictionary-of-the-panjabi-language-committee-of-lodiana-mission.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Punjabi_language... ✓
+      Checking Ludhiana_Mission... ✗
+      Checking Lexicography... ✓
+      Checking Panjabi_Dictionary_(1854)...       Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[58/200] a-dictionary-of-the-punjabi-language-lodiana-mission.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Punjabi_language... ✓
+      Checking Lodiana_Mission... ✗
+      Checking Punjab,_India... ✓
+      Checking Lexicography... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[59/200] a-dictionary-of-the-tamil-and-english-languages-rottler-j-p.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Tamil_language... ✓
+      Checking Lexicography... ✓
+      Checking Linguistic_research_in_colonial_India... ✗
+      Checking J._P._Rottler... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[60/200] a-dictionary-of-urdu-classical-hindi-and-english-platts-john-thompson.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Urdu_language... ✓
+      Checking John_Thompson_Platts... ✓
+      Checking Lexicography... ✓
+      Checking Languages_of_India... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[61/200] a-dictionary-telugu-and-english-brown-charles-philip.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Telugu_language... ✓
+      Checking Charles_Philip_Brown... ✓
+      Checking Lexicography... ✓
+      Checking A_Dictionary,_Telugu_and_English...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[62/200] a-freelance-in-kashmir-macmunn-george-fletcher.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Kashmir... ✓
+      Checking British_India... ✓
+      Checking George_Fletcher_MacMunn... ✗
+      Checking Princely_states_of_India... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[63/200] a-gazetteer-of-southern-india-vol-1-pharoah-and-co.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Madras_Presidency... ✓
+      Checking British_India... ✓
+      Checking Gazetteer... ✓
+      Checking Wikisource:A_Gazetteer_of_Southern_India...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[64/200] a-gazetteer-of-southern-india-vol-2-pharoah-and-co.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking British_India... ✓
+      Checking Presidency_of_Madras... ✓
+      Checking Gazetteer... ✓
+      Checking Southern_India... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[65/200] a-general-index-to-the-names-and-subject-matter-m-winternitz.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Indology... ✓
+      Checking Maurice_Winternitz... ✗
+      Checking History_of_Indian_literature... ✗
+      Checking Orientalism... ✓
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[66/200] a-general-index-to-the-sacred-books-of-the-east-f-max-muller.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Max_Müller... ✓
+      Checking Sacred_Books_of_the_East... ✓
+      Checking Indology... ✓
+      Checking Vedic_literature... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[67/200] a-glimpse-of-assam-susan-r-ward.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Assam... ✓
+      Checking Assamese_literature... ✓
+      Checking British_colonial_period_in_India... ✗
+      Checking Ethnography_of_Northeast_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[68/200] a-glossary-bengali-and-english-haughton-graves-chamney-mrityunjaya.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Bengali_language... ✓
+      Checking Lexicography... ✓
+      Checking British_India... ✓
+      Checking Graves_Chamney_Haughton... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[69/200] a-glossary-of-judicial-and-revenue-terms-and-of-useful-words-occurring-in-official-documents-wilson-.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking H._H._Wilson... ✓
+      Checking British_India... ✓
+      Checking Lexicography... ✓
+      Checking Wikisource:A_glossary_of_judicial_and_revenue_terms...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[70/200] a-glossary-of-judicial-and-revenue-terms-wilson-h-h.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Glossary_of_British_India... ✗
+      Checking Horace_Hayman_Wilson... ✓
+      Checking British_India... ✓
+      Checking Judicial_system_in_British_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[71/200] a-glossary-of-the-tribes-and-castes-of-the-punjab-and-north-west-frontier-province-rose-h-a-ibbetson.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Punjab_region... ✓
+      Checking Caste_system_in_India... ✓
+      Checking British_India... ✓
+      Checking Tribes_of_India... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[72/200] a-grammar-of-the-gujarati-language-clarkson-william.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Gujarati_language... ✓
+      Checking Gujarat... ✓
+      Checking Linguistic_research_in_British_India... ✗
+      Checking Wikisource:A_Grammar_of_the_Gujarati_Language...       Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[73/200] a-grammar-of-the-high-dialect-of-the-tamil-language-beschi-costantino-giuseppe.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Tamil_language... ✓
+      Checking Costantino_Giuseppe_Beschi... ✓
+      Checking Linguistics_of_Tamil... ✗
+      Checking European_scholarship_in_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[74/200] a-grammar-of-the-hindi-language-kellogg-samuel-henry.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Hindi_language... ✓
+      Checking Samuel_Henry_Kellogg... ✓
+      Checking Linguistics_of_Indo-Aryan_languages... ✗
+      Checking A_Grammar_of_the_Hindi_Language...       Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[75/200] a-grammar-of-the-kannada-language-in-english-f-kittel.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Kannada_language... ✓
+      Checking Ferdinand_Kittel... ✓
+      Checking Linguistic_research_in_British_India... ✗
+      Checking A_Grammar_of_the_Kannada_Language_in_English...       Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[76/200] a-grammar-of-the-malayalam-language-hermann-gundert.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Malayalam_language... ✓
+      Checking Hermann_Gundert... ✓
+      Checking Linguistics_of_South_India... ✗
+      Checking Kerala_linguistics... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[77/200] a-grammar-of-the-marathi-language-bellairs-henry-spencer-kenrick-lakshmana-yadava-askhedkar.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Marathi_language... ✓
+      Checking Maharashtra... ✓
+      Checking Linguistics_of_Indo-Aryan_languages... ✗
+      Checking Marathi_grammar... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[78/200] a-grammar-of-the-prakrit-languages-pischel-richard.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Prakrit... ✓
+      Checking Middle_Indo-Aryan_languages... ✓
+      Checking Richard_Pischel... ✓
+      Checking Linguistic_description... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[79/200] a-grammar-of-the-tamil-language-rhenius-c-t-e.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Tamil_language... ✓
+      Checking Linguistic_research_in_British_India... ✗
+      Checking Christian_missionaries_in_India... ✗
+      Checking Tamil_grammar... ✓
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[80/200] a-grammar-of-the-tamil-language-vol-2-rhenius-charles-theophilus-ewald.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Tamil_language... ✓
+      Checking Comparative_linguistics... ✓
+      Checking British_India... ✓
+      Checking Linguistic_description... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[81/200] a-grammar-of-the-telugu-language-brown-charles-philip.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Telugu_language... ✓
+      Checking Dravidian_languages... ✓
+      Checking Charles_Philip_Brown... ✓
+      Checking Linguistics_in_colonial_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[82/200] a-grammar-of-the-telugu-language-charles-philip-brown.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Telugu_language... ✓
+      Checking Charles_Philip_Brown... ✓
+      Checking Linguistic_research_in_British_India... ✗
+      Checking Madras_Presidency... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[83/200] a-group-of-eastern-romances-and-stories-clouston-rehatsek.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Eastern_literature... ✗
+      Checking British_Orientalism... ✗
+      Checking Indian_literature... ✓
+      Checking Translation_in_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 1 verified links
+[84/200] a-hand-book-of-hindu-pantheism-the-panchadasi-madhava.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Advaita_Vedanta... ✓
+      Checking Madhava_Acharya... ✓
+      Checking Panchadasi... ✓
+      Checking Hindu_philosophy... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[85/200] a-hindi-manual-kellogg-samuel-henry.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Hindi_language... ✓
+      Checking Samuel_Henry_Kellogg... ✓
+      Checking Linguistics_of_Indian_languages... ✗
+      Checking British_Raj... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[86/200] a-hindustani-english-dictionary-fallon-s-w.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Hindustani_language... ✓
+      Checking Hindi_dictionary... ✗
+      Checking S._W._Fallon... ✗
+      Checking A_Hindustani-English_Dictionary...       Checking Wikisource... ✗
+   ✅ Added 1 verified links
+[87/200] a-history-of-hindu-chemistry-vol-1-praphulla-chandra-ray.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Prafulla_Chandra_Ray... ✓
+      Checking History_of_chemistry_in_India... ✗
+      Checking Science_in_India... ✓
+      Checking A_History_of_Hindu_Chemistry...       Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[88/200] a-history-of-hindu-civilisation-during-british-rule-pramatha-nath-bose.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking British_Raj... ✓
+      Checking Pramatha_Nath_Bose... ✓
+      Checking Indian_historiography... ✓
+      Checking Hinduism_in_the_19th_century... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[89/200] a-history-of-indian-philosophy-vol-1-variant-dasgupta-surendranath.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Indian_philosophy... ✓
+      Checking Surendranath_Dasgupta... ✓
+      Checking Vedic_philosophy... ✓
+      Checking A_History_of_Indian_Philosophy...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[90/200] a-history-of-indian-philosophy-vol-3-dasgupta-surendranath.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Indian_philosophy... ✓
+      Checking Surendranath_Dasgupta... ✓
+      Checking Hindu_philosophy... ✓
+      Checking A_History_of_Indian_Philosophy...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[91/200] a-history-of-indian-philosophy-vol-4-dasgupta-surendranath.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Indian_philosophy... ✓
+      Checking Surendranath_Dasgupta... ✓
+      Checking Hindu_philosophy... ✓
+      Checking Wikisource:A_history_of_Indian_philosophy...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[92/200] a-history-of-indian-philosophy-vol-5-dasgupta-surendranath.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Indian_philosophy... ✗
+      Checking Surendranath_Dasgupta... ✓
+      Checking Hindu_philosophy... ✓
+      Checking History_of_philosophy_in_India... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[93/200] a-history-of-sanskrit-literature-a-berriedale-keith.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Sanskrit_literature... ✓
+      Checking A._B._Keith... ✓
+      Checking Vedic_literature... ✓
+      Checking Wikisource:A_History_of_Sanskrit_Literature...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[94/200] a-history-of-sanskrit-literature-macdonell-arthur-anthony.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Sanskrit_literature... ✓
+      Checking Arthur_Anthony_Macdonell... ✓
+      Checking Vedic_Sanskrit_literature... ✗
+      Checking A_History_of_Sanskrit_Literature...       Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[95/200] a-history-of-sanskrit-literature-macdonell.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Sanskrit_literature... ✓
+      Checking Arthur_Anthony_Macdonell... ✓
+      Checking Vedic_Sanskrit_literature... ✗
+      Checking Wikisource:A_History_of_Sanskrit_Literature...       Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[96/200] a-history-of-the-maratha-people-vol-2-kincaid-charles-augustus.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Maratha_Empire... ✓
+      Checking Charles_Augustus_Kincaid... ✓
+      Checking Maratha_people... ✓
+      Checking 18th_century_in_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[97/200] a-history-of-the-maratha-people-vol-3-kincaid-charles-augustus.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Maratha_Empire... ✓
+      Checking Charles_Augustus_Kincaid... ✓
+      Checking History_of_Maharashtra... ✓
+      Checking Wikisource:A_History_of_the_Maratha_People...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[98/200] a-history-of-the-military-transactions-of-the-british-nation-in-indostan-from-the-year-1745-vol-1-or.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Robert_Orme... ✓
+      Checking British_East_India_Company... ✓
+      Checking Military_history_of_India... ✓
+      Checking Carnatic_Wars... ✓
+      Checking Wikisource... ✓
+   ✅ Added 5 verified links
+[99/200] a-history-of-the-military-transactions-of-the-british-nation-in-indostan-orme-robert.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking British_East_India_Company... ✓
+      Checking Robert_Orme... ✓
+      Checking Military_history_of_British_India... ✗
+      Checking Carnatic_Wars... ✓
+      Checking Wikisource... ✓
+   ✅ Added 4 verified links
+[100/200] a-history-of-the-sikhs-from-the-origin-of-the-nation-to-the-battles-of-the-sutlej-davey-cunningham-j.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Sikh_Empire... ✓
+      Checking Joseph_Davey_Cunningham... ✓
+      Checking Anglo-Sikh_Wars... ✓
+      Checking History_of_Sikhism... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[101/200] a-history-of-the-sikhs-joseph-davey-cunningham.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Sikh_history... ✓
+      Checking Joseph_Davey_Cunningham... ✓
+      Checking Sikhism... ✓
+      Checking A_History_of_the_Sikhs...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[102/200] a-literary-history-of-india-frazer-r-w-robert-watson.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Indian_literature... ✓
+      Checking Literature_in_British_India... ✗
+      Checking R.W._Frazer... ✗
+      Checking A_Literary_History_of_India...       Checking Wikisource... ✗
+   ✅ Added 1 verified links
+[103/200] a-literary-history-of-india-r-w-frazer.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Sanskrit_literature... ✓
+      Checking Indology... ✓
+      Checking Indian_literature... ✓
+      Checking Wikisource:A_Literary_History_of_India...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[104/200] a-malabar-and-english-dictionary-fabricius-johann-philipp.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Malayalam_language... ✓
+      Checking Malabar_Coast... ✓
+      Checking Lexicography... ✓
+      Checking Linguistic_colonialism... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[105/200] a-malayalam-and-english-dictionary-hermann-gundert.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Malayalam_language... ✓
+      Checking Hermann_Gundert... ✓
+      Checking Kerala... ✓
+      Checking Lexicography... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[106/200] a-malayalam-medical-dictionary-nayattinkaray-krishna-pillay.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Malayalam_language... ✓
+      Checking Medical_dictionary... ✓
+      Checking Kerala... ✓
+      Checking Ayurveda... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[107/200] a-manual-of-hindu-pantheism-the-vedantasara-jacob-george-adolphus.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Vedanta... ✓
+      Checking Advaita_Vedanta... ✓
+      Checking George_Adolphus_Jacob... ✗
+      Checking Vedantasara... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[108/200] a-manual-of-hindu-pantheism-the-vedantasara-sadananda-yogindra-george-adolphus-jacob.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Advaita_Vedanta... ✓
+      Checking Vedanta... ✓
+      Checking Sadananda_Yogindra... ✗
+      Checking Hindu_philosophy... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[109/200] a-manual-of-the-historical-development-of-art-george-gustavus-zerffi.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking History_of_Indian_art... ✗
+      Checking George_Gustavus_Zerffi... ✓
+      Checking Victorian_era... ✓
+      Checking Art_history... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[110/200] a-manual-of-urdu-or-hindustani-platts-john-thompson.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Urdu_language... ✓
+      Checking John_Thompson_Platts... ✓
+      Checking Hindustani_language... ✓
+      Checking Colonial_linguistics... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[111/200] a-memoir-of-the-rev-robert-turlington-noble-noble-john.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Christian_missions_in_India... ✗
+      Checking British_India... ✓
+      Checking Protestant_missionaries_in_India... ✗
+      Checking Wikisource:A_memoir_of_the_Rev._Robert_Turlington_Noble...       Checking Wikisource... ✗
+   ✅ Added 1 verified links
+[112/200] a-note-on-indian-wheat-rusts-cunningham-d-d.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Wheat_rust... ✓
+      Checking Agricultural_science_in_British_India... ✗
+      Checking Botany_in_India... ✗
+      Checking Plant_pathology... ✓
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[113/200] a-personal-narrative-of-a-visit-to-ghuzni-kabul-and-afghanistan-vigne-godfrey-thomas.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking First_Anglo-Afghan_War... ✓
+      Checking Godfrey_Thomas_Vigne... ✓
+      Checking Afghanistan... ✓
+      Checking British_India... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[114/200] a-practical-grammar-of-the-sanskrit-language-monier-monier-williams.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Sanskrit_language... ✓
+      Checking Monier_Monier-Williams... ✓
+      Checking Sanskrit_grammar... ✓
+      Checking Orientalism... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[115/200] a-practical-grammar-of-the-sanskrit-language-monier-williams.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Sanskrit_grammar... ✓
+      Checking Monier_Monier-Williams... ✓
+      Checking Pāṇini... ✓
+      Checking Wikisource:A_Practical_Grammar_of_the_Sanskrit_Language...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[116/200] a-primer-of-tamil-literature-purnalingam-pillai-m-s.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Tamil_literature... ✓
+      Checking Purnalingam_Pillai... ✗
+      Checking Tamil_language... ✓
+      Checking A_Primer_of_Tamil_Literature...       Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[117/200] a-progressive-grammar-of-the-malayalam-language-for-europeans-various.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Malayalam_language... ✓
+      Checking Linguistics_of_South_India... ✗
+      Checking Colonial_linguistics... ✗
+      Checking Malayalam_grammar... ✓
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[118/200] a-progressive-grammar-of-the-telugu-language-arden-albert-henry.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Telugu_language... ✓
+      Checking Dravidian_languages... ✓
+      Checking Linguistics_of_India... ✗
+      Checking Madras_Presidency... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[119/200] a-prose-english-translation-of-vishnupuranam.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Vishnu_Purana... ✓
+      Checking Puranas... ✓
+      Checking Sanskrit_literature... ✓
+      Checking British_Orientalism... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[120/200] a-record-of-the-expeditions-undertaken-against-the-north-west-frontier-tribes-paget-w-h.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking British_Raj... ✓
+      Checking North-West_Frontier_Province... ✓
+      Checking Anglo-Afghan_Wars... ✓
+      Checking British_Indian_Army... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[121/200] a-sanskrit-english-dictionary-macdonell-arthur-a.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Sanskrit_language... ✓
+      Checking Arthur_Macdonell... ✓
+      Checking Indology... ✓
+      Checking Lexicography... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[122/200] a-sanskrit-english-dictionary-monier-williams.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Sanskrit_language... ✓
+      Checking Monier_Williams... ✓
+      Checking Sanskrit_literature... ✓
+      Checking Lexicography... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[123/200] a-second-defence-of-the-monotheistic-system-of-the-veda-rammohun-roy.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 5 suggestions
+      Checking Rammohun_Roy... ✓
+      Checking Bengal_Renaissance... ✓
+      Checking Vedas... ✓
+      Checking Monotheism_in_Hinduism... ✓
+      Checking Brahmo_Samaj... ✓
+      Checking Wikisource... ✗
+   ✅ Added 5 verified links
+[124/200] a-second-exposure-of-the-hindu-religion-wilson-john.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Hinduism... ✓
+      Checking John_Wilson_(missionary)... ✓
+      Checking British_Orientalism... ✗
+      Checking Christian_missions_in_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[125/200] a-selection-of-articles-and-letters-on-various-indian-questions-hodgson-pratt.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 3 suggestions
+      Checking Indian_Rebellion_of_1857... ✓
+      Checking British_Raj... ✓
+      Checking Colonialism_in_India... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[126/200] a-selection-of-morals-from-the-best-english-and-bengali-mitter-gopal-lol.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 3 suggestions
+      Checking Bengali_Renaissance... ✓
+      Checking Bengali_literature... ✓
+      Checking Early_colonial_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[127/200] a-short-account-of-the-kachcha-naga-empeo-tribe-in-the-north-cachar-hills-soppitt-c-a.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Naga_people... ✓
+      Checking North_Cachar_Hills... ✓
+      Checking Anthropology_in_India... ✗
+      Checking British_India... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[128/200] a-short-history-of-indian-literature-horrwitz-e-p.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 3 suggestions
+      Checking Sanskrit_literature... ✓
+      Checking Indology... ✓
+      Checking Vedic_literature... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[129/200] a-simplified-grammar-and-reading-book-william-st-clair-tisdall.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Linguistics_in_India... ✗
+      Checking Missionary_linguistics... ✗
+      Checking British_India... ✓
+      Checking William_St_Clair_Tisdall... ✗
+      Checking Wikisource... ✗
+   ✅ Added 1 verified links
+[130/200] a-sindhi-english-dictionary-george-shirt.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Sindhi_language... ✓
+      Checking British_Raj... ✓
+      Checking Lexicography... ✓
+      Checking Sindh... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[131/200] a-sketch-of-the-state-of-british-india-bryce-james.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking British_East_India_Company... ✓
+      Checking Presidency_of_the_British_East_India_Company... ✗
+      Checking James_Bryce,_1st_Viscount_Bryce... ✓
+      Checking Company_rule_in_India... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[132/200] a-soldier-s-daughter-and-other-stories-g-a-henty.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking G._A._Henty... ✓
+      Checking British_India... ✓
+      Checking Anglo-Indian_literature... ✗
+      Checking English_literature_in_colonial_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[133/200] a-study-of-indian-economics-pramathanath-banerjea.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Indian_economic_history... ✓
+      Checking Economics_of_British_India... ✗
+      Checking Pramathanath_Banerjea... ✗
+      Checking Indian_economics... ✓
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[134/200] a-summer-in-kashmir-neve-arthur.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Kashmir... ✓
+      Checking British_India... ✓
+      Checking Arthur_Neve... ✓
+      Checking Church_Missionary_Society... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[135/200] a-supplement-to-the-collection-of-telugu-proverbs-carr-mark-william.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Telugu_language... ✓
+      Checking Proverbs... ✓
+      Checking Andhra_Pradesh... ✓
+      Checking British_India... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[136/200] a-tour-through-the-famine-district-of-india-francis-henry-shafton-merewether.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Great_Famine_of_1876–1878... ✓
+      Checking Famines_in_India... ✓
+      Checking British_Raj... ✓
+      Checking Indian_agriculture_in_the_19th_century... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[137/200] a-tour-through-the-famine-districts-of-india-f-h-s-merewether.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Indian_famine_of_1896–1897... ✓
+      Checking Famines_in_India... ✓
+      Checking British_Raj... ✓
+      Checking Wikisource:A_Tour_through_the_Famine_Districts_of_India...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[138/200] a-treatise-on-buddhist-philosophy-or-abidhamma-de-silva-c-l-a.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Abhidharma... ✓
+      Checking Theravada... ✓
+      Checking Buddhist_philosophy... ✓
+      Checking Sri_Lanka_Buddhism... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[139/200] a-treatise-on-the-yoga-philosophy-2nd-ed-n-c-paul.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Yoga... ✓
+      Checking Yoga_philosophy... ✓
+      Checking Hatha_Yoga... ✓
+      Checking Wikisource:A_Treatise_on_the_Yoga_Philosophy...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[140/200] a-treatise-on-the-yoga-philosophy-n-c-paul.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Yoga_philosophy... ✓
+      Checking Yoga_in_India... ✗
+      Checking Yoga_in_colonial_period... ✗
+      Checking Yoga_Sutras_of_Patanjali... ✓
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[141/200] a-vedic-reader-for-students-macdonell-arthur-anthony.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Vedas... ✓
+      Checking Arthur_Anthony_Macdonell... ✓
+      Checking Sanskrit_language... ✓
+      Checking Indology... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[142/200] a-view-of-all-religions-and-the-religious-ceremonies-of-all-nations-robbins-thomas-ward-william.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Comparative_religion... ✓
+      Checking Religious_studies... ✓
+      Checking British_Orientalism... ✗
+      Checking Missionary_work_in_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[143/200] a-view-of-the-history-literature-and-religion-of-the-hindoos-ward-william.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Hinduism... ✓
+      Checking Bengal_Presidency... ✓
+      Checking William_Ward_(missionary)... ✓
+      Checking Sanskrit_literature... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[144/200] abhinava-raga-manjari-by-pandit-vishnu-narayan-bhatkhande-1921-dr-k-j-kunte-with-assistance-by-karti.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Hindustani_classical_music... ✓
+      Checking Raga... ✓
+      Checking Music_of_India... ✓
+      Checking Vishnu_Narayan_Bhatkhande... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[145/200] across-india-at-the-dawn-of-the-20th-century-lucy-evangeline-guinness.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking British_Raj... ✓
+      Checking Travel_literature... ✓
+      Checking Lucy_Evangeline_Guinness... ✗
+      Checking Imperialism... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[146/200] addresses-and-speeches-relating-to-the-mahomedan-anglo-oriental-college-mohsin-ul-mulk.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Aligarh_Muslim_University... ✓
+      Checking Mohsin-ul-Mulk... ✓
+      Checking Muslim_education_in_British_India... ✗
+      Checking Sir_Syed_Ahmad_Khan... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[147/200] adi-granth-or-the-holy-scriptures-of-the-sikhs-trumpp-ernest.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Guru_Granth_Sahib... ✓
+      Checking Ernest_Trumpp... ✓
+      Checking Sikhism... ✓
+      Checking Adi_Granth... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[148/200] adi-granth-or-the-holy-scriptures-of-the-sikhs-various.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Guru_Granth_Sahib... ✓
+      Checking Sikhism... ✓
+      Checking Adi_Granth... ✓
+      Checking Guru_Arjan... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[149/200] agad-tantra-sharmaa-thaakuradatt-vaidya.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Ayurveda... ✓
+      Checking Toxicology... ✓
+      Checking Forensic_medicine... ✓
+      Checking Indian_medicine... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[150/200] agananuru-m-kamalakannan.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Sangam_literature... ✓
+      Checking Tamil_literature... ✓
+      Checking Akam_poetry... ✗
+      Checking Wikisource:Agananuru...       Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[151/200] agastya-in-the-tamil-land-sivaraja-pillai-k-narayanan.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Agastya... ✓
+      Checking Tamil_literature... ✓
+      Checking Tamil_language... ✓
+      Checking Wikisource:Tamil_language...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[152/200] agricultural-insurance-a-practical-scheme-suited-to-indian-conditions-chakravarti-j-s.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Agricultural_insurance... ✓
+      Checking Agriculture_in_British_India... ✗
+      Checking Indian_economic_history... ✓
+      Checking Risk_management... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[153/200] ain-i-akbari-administration-of-mughal-emperor-akbar-volume-1-abul-fazl.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Ain-i-Akbari... ✗
+      Checking Abul_Fazl... ✓
+      Checking Mughal_Empire... ✓
+      Checking Akbar... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[154/200] ain-i-akbari-administration-of-mughal-emperor-akbar-volume-2-abul-fazl.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Ain-i-Akbari... ✓
+      Checking Abul_Fazl... ✓
+      Checking Mughal_Empire... ✓
+      Checking Akbar... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[155/200] aitareya-aranyaka-keith-berriedale.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Aitareya_Aranyaka... ✓
+      Checking Aranyaka... ✓
+      Checking Berriedale_Keith... ✓
+      Checking Rigveda... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[156/200] aitareya-brahmana-of-the-rigveda-martin-haug.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Rigveda... ✓
+      Checking Brahmana... ✓
+      Checking Martin_Haug... ✓
+      Checking Vedic_Sanskrit... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[157/200] aitareya-brahmana-of-the-rigveda-vol-1-haug-martin.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Rigveda... ✓
+      Checking Brahmana... ✓
+      Checking Martin_Haug... ✓
+      Checking Vedic_Sanskrit... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[158/200] akbar-s-tomb-sikandarah-near-agra-described-and-illustarated-smith-edmund-w.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Akbar's_Tomb... ✓
+      Checking Mughal_architecture... ✓
+      Checking Sikandra,_Agra... ✓
+      Checking Edmund_William_Smith... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[159/200] akbars-tomb-sikandarah-near-agra-edmund-w-smith.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Akbar... ✓
+      Checking Mughal_architecture... ✓
+      Checking Sikandra,_Agra... ✓
+      Checking Edmund_William_Smith... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[160/200] akhlaq-e-muhammadi-sindhi-hakim-fateh-muhammad-sewhani.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Islamic_ethics... ✓
+      Checking Sindhi_language... ✓
+      Checking Sindh... ✓
+      Checking Sufism_in_India... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[161/200] american-primitive-music-with-especial-attention-to-the-songs-of-the-ojibways-frederick-russell-burt.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Ojibwe_music... ✗
+      Checking Ethnomusicology... ✓
+      Checking Native_American_music... ✓
+      Checking Frederick_Russell_Burton... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[162/200] an-account-of-an-embassy-to-the-court-of-the-teshoo-lama-in-tibet-turner-samuel.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Tibet... ✓
+      Checking Samuel_Turner_(diplomat)... ✓
+      Checking Tibetan_Buddhism... ✓
+      Checking British_East_India_Company... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[163/200] an-account-of-assam-wade-john-peter.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Assam... ✓
+      Checking British_East_India_Company... ✓
+      Checking History_of_Assam... ✓
+      Checking Assam_in_the_British_period... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[164/200] an-appeal-to-christian-mothers-in-behalf-of-the-heathen-scudder-john.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Christian_missions_in_India... ✗
+      Checking American_Board_of_Commissioners_for_Foreign_Missions... ✓
+      Checking John_Scudder_(missionary)... ✓
+      Checking Tamil_Nadu... ✓
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[165/200] an-elementary-grammar-of-the-kannada-or-canarese-language-1864-thomas-hodson.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Kannada_language... ✓
+      Checking Dravidian_languages... ✓
+      Checking Thomas_Hodson... ✓
+      Checking Linguistic_description_of_Indian_languages... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[166/200] an-elementary-grammar-of-the-kannada-or-canarese-language-t-c-hodson.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Kannada_language... ✓
+      Checking Linguistic_research_in_British_India... ✗
+      Checking Karnataka... ✓
+      Checking Wikisource:An_elementary_grammar_of_the_Kannada,_or_Canarese_language...       Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[167/200] an-elementary-grammar-of-the-kannada-or-canarese-language-thomas-hodson.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Kannada_language... ✓
+      Checking Dravidian_languages... ✓
+      Checking Linguistic_research_in_British_India... ✗
+      Checking Thomas_Hodson_(linguist)... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[168/200] an-elementary-grammar-of-the-sanscrit-language-monier-williams.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Sanskrit_language... ✓
+      Checking Monier_Monier-Williams... ✓
+      Checking Orientalism... ✓
+      Checking Wikisource:An_elementary_grammar_of_the_Sanscrit_language...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[169/200] an-epitome-of-the-history-of-ceylon-compiled-from-native-annals-george-turnour.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 5 suggestions
+      Checking History_of_Sri_Lanka... ✓
+      Checking George_Turnour... ✓
+      Checking Sinhalese_people... ✓
+      Checking British_Ceylon... ✓
+      Checking Buddhism_in_Sri_Lanka... ✓
+      Checking Wikisource... ✗
+   ✅ Added 5 verified links
+[170/200] an-exposure-of-the-hindu-religion-wilson-john-mora-bhatta-dandekara.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Hinduism... ✓
+      Checking John_Wilson_(scholar)... ✓
+      Checking Orientalism... ✓
+      Checking British_Orientalism... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[171/200] an-historical-disquisition-concerning-the-knowledge-which-the-ancients-had-of-india-robertson-willia.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking William_Robertson_(historian)... ✓
+      Checking Historiography_of_India... ✓
+      Checking British_Orientalism... ✗
+      Checking European_scholarship_on_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[172/200] an-historical-sketch-of-sanscrit-literature-adelung-friedrich-von-talboys-d-a.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Sanskrit_literature... ✓
+      Checking Orientalism... ✓
+      Checking Friedrich_von_Adelung... ✓
+      Checking Wikisource:An_historical_sketch_of_Sanscrit_literature...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[173/200] an-introduction-to-biology-for-students-india-r-e-lloyd.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Biology_in_India... ✗
+      Checking Science_in_British_India... ✗
+      Checking History_of_science_and_technology_in_India... ✓
+      Checking Education_in_British_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 1 verified links
+[174/200] an-oriya-and-english-dictionary-designed-for-the-use-of-european-and-native-brooks-william.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Odia_language... ✓
+      Checking Odisha... ✓
+      Checking Lexicography_in_India... ✗
+      Checking Colonial_period_in_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[175/200] an-outline-grammar-of-the-dafla-language-robert-clifton-hamilton.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Nyishi_language... ✓
+      Checking Tibeto-Burman_languages... ✓
+      Checking Northeast_India... ✓
+      Checking Linguistic_documentation... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[176/200] ancient-geography-of-india-mccrindle-john-watson.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Historical_geography_of_India... ✗
+      Checking John_Watson_McCrindle... ✓
+      Checking Ancient_Greek_geography... ✓
+      Checking Wikisource:Ancient_Geography_of_India...       Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[177/200] ancient-india-as-described-by-ktesias-the-knidian-mccrindle-john-watson.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Ktesias... ✗
+      Checking Ancient_Greece_and_India... ✗
+      Checking John_Watson_McCrindle... ✓
+      Checking Classical_antiquity... ✓
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[178/200] ancient-india-as-described-by-megasthenes-and-arrian-mccrindle-john-watson.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Megasthenes... ✓
+      Checking Maurya_Empire... ✓
+      Checking John_Watson_McCrindle... ✓
+      Checking Ancient_India... ✓
+      Checking Wikisource... ✓
+   ✅ Added 5 verified links
+[179/200] ancient-india-as-described-by-ptolemy-mccrindle-john-watson.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Ptolemy... ✓
+      Checking Ancient_India... ✓
+      Checking John_Watson_McCrindle... ✓
+      Checking Historical_geography_of_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[180/200] ancient-india-as-described-in-classical-literature-mccrindle-john-watson.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Classical_sources_on_ancient_India... ✗
+      Checking John_Watson_McCrindle... ✓
+      Checking Greco-Roman_perception_of_India... ✗
+      Checking Ancient_India... ✓
+      Checking Wikisource... ✓
+   ✅ Added 3 verified links
+[181/200] ancient-india-from-the-earliest-times-to-the-first-century-e-j-rapson.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking History_of_India... ✓
+      Checking Archaeology_in_India... ✓
+      Checking Indology... ✓
+      Checking Cambridge_History_of_India... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[182/200] ancient-india-krishnaswami-aiyangar-sakkottai.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking History_of_India... ✓
+      Checking Sakkottai_Krishnaswami_Aiyangar... ✓
+      Checking Tamil_literature... ✓
+      Checking Ancient_India_(book)...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[183/200] ancient-tenures-and-modern-land-legislation-in-british-india-hutton-henry-dix.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Land_tenure_in_British_India... ✗
+      Checking British_Raj... ✓
+      Checking Property_rights_in_India... ✗
+      Checking Henry_Dix_Hutton... ✗
+      Checking Wikisource... ✗
+   ✅ Added 1 verified links
+[184/200] ancient-wings-harindranath-chattopadhyay.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Harindranath_Chattopadhyay... ✓
+      Checking Indian_English_literature... ✓
+      Checking Modernist_poetry... ✓
+      Checking Indian_independence_movement... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[185/200] anecdotes-of-virtue-and-valour.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Bengali_literature... ✓
+      Checking Colonial_India... ✓
+      Checking Moral_tales... ✗
+      Checking Early_19th_century_in_literature... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[186/200] anglo-indian-prize-poems-w-s-thomson.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Anglo-Indian_literature... ✗
+      Checking British_Raj... ✓
+      Checking Indian_poetry_in_English... ✓
+      Checking Poetry_of_British_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[187/200] annals-and-antiouities-of-rajasthan-vol-iii-lieut-col-james-tod.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking James_Tod... ✓
+      Checking Rajputana... ✓
+      Checking History_of_Rajasthan... ✓
+      Checking Annals_and_Antiquities_of_Rajasthan... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[188/200] annals-and-antiqqities-of-rajasthan-james-tod.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 5 suggestions
+      Checking James_Tod... ✓
+      Checking Rajasthan... ✓
+      Checking Rajput... ✓
+      Checking Annals_and_Antiquities_of_Rajasthan... ✓
+      Checking British_East_India_Company... ✓
+      Checking Wikisource... ✗
+   ✅ Added 5 verified links
+[189/200] annals-and-antiquities-of-rajasthan-vol-001-james-tod.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Rajasthan... ✓
+      Checking James_Tod... ✓
+      Checking Rajput... ✓
+      Checking Annals_and_Antiquities_of_Rajasthan...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[190/200] annals-and-antiquities-of-rajasthan-vol-i-james-tod.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking James_Tod... ✓
+      Checking Rajputana... ✓
+      Checking British_East_India_Company... ✓
+      Checking Annals_and_Antiquities_of_Rajasthan... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[191/200] annals-and-antiquities-of-rajasthan-vol-ii-james-tod.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking James_Tod... ✓
+      Checking Rajasthan... ✓
+      Checking Rajput... ✓
+      Checking Annals_and_Antiquities_of_Rajasthan... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+[192/200] annals-antiquities-of-rajasthan-james-tod.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking James_Tod... ✓
+      Checking Rajputana... ✓
+      Checking Rajput... ✓
+      Checking Annals_and_Antiquities_of_Rajasthan...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[193/200] annals-antiquities-of-rajasthan-vol-ii-james-tod.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking James_Tod... ✓
+      Checking Rajasthan... ✓
+      Checking Rajput... ✓
+      Checking Annals_and_Antiquities_of_Rajasthan...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[194/200] annals-of-the-honorable-east-india-company-vol-1-bruce-john.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking British_East_India_Company... ✓
+      Checking John_Bruce_(historian)... ✓
+      Checking Company_rule_in_India... ✓
+      Checking Annals_of_the_Honorable_East-India_Company...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[195/200] annals-of-the-honorable-east-india-company-vol-2-bruce-john.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking British_East_India_Company... ✓
+      Checking John_Bruce_(writer)... ✗
+      Checking Colonial_India... ✓
+      Checking Annals_of_the_Honorable_East-India_Company...       Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[196/200] annual-progress-report-of-the-archaeological-survey-archaeological-survey-of-india.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Archaeological_Survey_of_India... ✓
+      Checking Alexander_Cunningham... ✓
+      Checking British_Archaeology_in_India... ✗
+      Checking Annual_Report_of_the_Archaeological_Survey_of_India...       Checking Wikisource... ✗
+   ✅ Added 2 verified links
+[197/200] annual-report-of-the-archaeological-department-southern-circle-madras-archaeological-survey-of-india.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Archaeological_Survey_of_India... ✓
+      Checking Madras_Presidency... ✓
+      Checking Indian_archaeology... ✓
+      Checking Colonial_archaeology_in_India... ✗
+      Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[198/200] annual-reports-of-archaeological-survey-of-india-m-kamalakannan.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Archaeological_Survey_of_India... ✓
+      Checking British_Archaeology_in_India... ✗
+      Checking History_of_Archaeology_in_India... ✗
+      Checking Wikisource:Archaeological_Survey_of_India_Reports...       Checking Wikisource... ✗
+   ✅ Added 1 verified links
+[199/200] anthologia-sanscritica-lassen-christian.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Sanskrit_literature... ✓
+      Checking Christian_Lassen... ✓
+      Checking Orientalism... ✓
+      Checking Anthologia_Sanscritica...       Checking Wikisource... ✗
+   ✅ Added 3 verified links
+[200/200] antiquities-of-indian-tibet-pt-1-francke-a-h.md
+
+   🤖 Using AI to find relevant links...
+   📋 Got 4 suggestions
+      Checking Ladakh... ✓
+      Checking Tibetan_Buddhism... ✓
+      Checking Archaeological_sites_in_India... ✓
+      Checking A._H._Francke... ✓
+      Checking Wikisource... ✗
+   ✅ Added 4 verified links
+
+============================================================
+✅ Processed: 200 files
+🔗 Links added: 599
+============================================================
+
+[0;34m━━━ STEP 4: Verifying Archive.org Links ━━━[0m
+⚠️  Invalid link: 1829-malayalam-new-testament-benjamin-bailey.md -> https://archive.org/details/1829-malayalam-new-testament
+⚠️  Invalid link: 1839-the-book-of-psalms-malayalam-benjamin-bailey.md -> https://archive.org/details/1839-the-book-of-psalms-malayalam
+⚠️  Invalid link: 1846-malayalam-english-dictionary-benjamin-bailey.md -> https://archive.org/details/1846-malayalam-english-dictionary
+⚠️  Invalid link: 1851-malayalam-selections-with-translations-grammatical-analyses-and-vocabulary-a-j-arbuthnot.md -> https://archive.org/details/1851-malayalam-selections-with-translations-grammatical-analyses-and-vocabulary
+⚠️  Invalid link: 1856-a-dictionary-of-the-malayalam-and-english-e-laseron.md -> https://archive.org/details/1856-a-dictionary-of-the-malayalam-and-english
+⚠️  Invalid link: 1856-the-malayalam-reader-charles-collett.md -> https://archive.org/details/1856-the-malayalam-reader
+⚠️  Invalid link: 1867-catechism-of-malayalam-grammar-liston-garthwaite.md -> https://archive.org/details/1867-catechism-of-malayalam-grammar
+⚠️  Invalid link: 1870-school-dictionary-english-and-malayalam-muller.md -> https://archive.org/details/1870-school-dictionary-english-and-malayalam
+⚠️  Invalid link: 1883-the-essentials-of-malayalam-grammar-liston-garthwaite.md -> https://archive.org/details/1883-the-essentials-of-malayalam-grammar
+⚠️  Invalid link: a-brief-review-of-the-trade-of-india-hunter-william-wilson.md -> https://archive.org/details/commerceindiain00huntgoog
+⚠️  Invalid link: a-comparative-grammar-of-modern-aryan-languages-john-beames.md -> https://archive.org/details/beames-comparative-grammar-1872
+⚠️  Invalid link: a-comparative-grammar-of-the-languages-of-further-india-hoernle-a-f-rudolf.md -> https://archive.org/details/comparativegramm00hoer
+⚠️  Invalid link: a-comparative-study-of-english-and-malayalam-tatta-kanaran-joseph-muliyil.md -> https://archive.org/details/comparative-study-of-english-and-malayalam
+⚠️  Invalid link: a-descriptive-and-historical-account-of-british-india-murray-hugh.md -> https://archive.org/details/indiainfifte00coryrich
+⚠️  Invalid link: a-dictionary-hindustani-and-english-shakespeare-john.md -> https://archive.org/details/hindusaniengli00shak
+⚠️  Invalid link: a-dictionary-of-hindustani-proverbs-s-w-fallon.md -> https://archive.org/details/dictionary-hindustani-proverbs
+⚠️  Invalid link: a-dictionary-of-the-panjabi-language-committee-of-lodiana-mission.md -> https://archive.org/details/dictionary-panjabi-language-1854
+⚠️  Invalid link: a-dictionary-of-the-punjabi-language-lodiana-mission.md -> https://archive.org/details/a-dictionary-of-the-punjabi-language
+⚠️  Invalid link: a-dictionary-of-urdu-classical-hindi-and-english-platts-john-thompson.md -> https://archive.org/details/dictionaryhindus00plat
+⚠️  Invalid link: a-glossary-of-judicial-and-revenue-terms-wilson-h-h.md -> https://archive.org/details/glossaryjudicia00wilsuoft
+⚠️  Invalid link: a-grammar-of-the-hindi-language-kellogg-samuel-henry.md -> https://archive.org/details/grammarhindusta00kell
+⚠️  Invalid link: a-grammar-of-the-malayalam-language-hermann-gundert.md -> https://archive.org/details/grammarofmalayalam00gund
+⚠️  Invalid link: a-grammar-of-the-prakrit-languages-pischel-richard.md -> https://archive.org/details/prakritgrammar00pischgoog
+⚠️  Invalid link: a-hindi-manual-kellogg-samuel-henry.md -> https://archive.org/details/hindimanual00kell
+⚠️  Invalid link: a-hindustani-english-dictionary-fallon-s-w.md -> https://archive.org/details/hindustaniengli00falluoft
+⚠️  Invalid link: a-history-of-indian-philosophy-vol-4-dasgupta-surendranath.md -> https://archive.org/details/indianphilosophy04dasguoft
+⚠️  Invalid link: a-malayalam-and-english-dictionary-hermann-gundert.md -> https://archive.org/details/malayalam-and-english-dictionary-gundert
+⚠️  Invalid link: a-malayalam-medical-dictionary-nayattinkaray-krishna-pillay.md -> https://archive.org/details/malayalam-medical-dictionary
+⚠️  Invalid link: a-manual-of-urdu-or-hindustani-platts-john-thompson.md -> https://archive.org/details/urduhindimanuua00platgoog
+⚠️  Invalid link: a-personal-narrative-of-a-visit-to-ghuzni-kabul-and-afghanistan-vigne-godfrey-thomas.md -> https://archive.org/details/cashmereitsancie00vign
+⚠️  Invalid link: a-progressive-grammar-of-the-malayalam-language-for-europeans-various.md -> https://archive.org/details/progressive-grammar-of-the-malayalam-language
+⚠️  Invalid link: a-simplified-grammar-and-reading-book-william-st-clair-tisdall.md -> https://archive.org/details/simplified-grammar-reading-book
+⚠️  Invalid link: a-summer-in-kashmir-neve-arthur.md -> https://archive.org/details/kashmirhandbookf00neve
+⚠️  Invalid link: ancient-geography-of-india-mccrindle-john-watson.md -> https://archive.org/details/ancientgeography00mccrrich
+⚠️  Invalid link: ancient-india-as-described-by-ktesias-the-knidian-mccrindle-john-watson.md -> https://archive.org/details/ancientindiades03ktsi
+⚠️  Invalid link: ancient-india-as-described-by-megasthenes-and-arrian-mccrindle-john-watson.md -> https://archive.org/details/ancientindiades00megh
+⚠️  Invalid link: ancient-india-as-described-by-ptolemy-mccrindle-john-watson.md -> https://archive.org/details/ancientindiades02ptol
+⚠️  Invalid link: ancient-india-as-described-in-classical-literature-mccrindle-john-watson.md -> https://archive.org/details/ancientindiades01mccr
+⚠️  Invalid link: ancient-india-from-the-earliest-times-to-the-first-century-e-j-rapson.md -> https://archive.org/details/cambridgehistory00raps
+✅ Checked: 201 links
+✅ Valid: 162
+❌ Invalid: 39
+
+[0;34m━━━ STEP 5: Finding Alternative Archive.org Links ━━━[0m
+🔗 Finding Alternative Archive.org Links
+
+Found 200 files to process
+
+[1/200] 10-part-1-bhagavatam-dashama-skandam-poorva-ba-a-v-narasimhacharya.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[2/200] 10-part-2-tamil-bhagavatam-dashama-skandam-uttaraartam-a-v-narasimhacharya.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[3/200] 11-12-tamil-bhagavatam-ekadasha-dwadasha-skandams-a-v-narasimhacharya.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[4/200] 1829-malayalam-new-testament-benjamin-bailey.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[5/200] 1839-the-book-of-psalms-malayalam-benjamin-bailey.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 2 new alternative sources
+   ✅ Added 2 alternative sources
+[6/200] 1846-malayalam-english-dictionary-benjamin-bailey.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[7/200] 1851-malayalam-selections-with-translations-grammatical-analyses-and-vocabulary-a-j-arbuthnot.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[8/200] 1856-a-dictionary-of-the-malayalam-and-english-e-laseron.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[9/200] 1856-the-malayalam-reader-charles-collett.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[10/200] 1860-an-anglo-malayalam-vocabulary-and-phrase-book-p-john-aymanam.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[11/200] 1862-madhavnidan-krishnashashtri-bhatvadekar.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[12/200] 1867-catechism-of-malayalam-grammar-liston-garthwaite.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[13/200] 1868-a-collection-of-telugu-proverbs-m-w-carr.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 3 potential matches
+   ✓ Adding 2 new alternative sources
+   ✅ Added 2 alternative sources
+[14/200] 1870-school-dictionary-english-and-malayalam-muller.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[15/200] 1877-materia-medica-of-the-hindus-udoy-chand-dutt.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[16/200] 1883-the-essentials-of-malayalam-grammar-liston-garthwaite.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[17/200] 1914-ayurvedaprakasha-of-madhava-vidya-jadavji-tricumji-acharya.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[18/200] 3-tamil-bhagavatam-tritiya-skandam-a-v-narasimhacharya.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[19/200] 4-tamil-bhagavatam-chadurta-skandam-a-v-narasimhacharya.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[20/200] 5-6-tamil-bhagavatam-panchama-shashta-skandams-a-v-narasimhacharya.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[21/200] 7-8-tamil-bhagavatam-saptama-ashtama-skandams-a-v-narasimhacharya.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[22/200] 9-tamil-bhagavatam-navama-skandam-a-v-narasimhacharya.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[23/200] a-bengali-grammar-yates-r-w-wenger-j.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[24/200] a-bibliography-of-the-sanskrit-drama-schuyler-montgomery-1877.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 5 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[25/200] a-bibliography-of-the-sanskrit-drama-with-an-introductory-sketch-schuyler-montgomery-1877.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[26/200] a-brief-review-of-the-trade-of-india-hunter-william-wilson.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 3 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[27/200] a-catalogue-of-palm-leaf-and-selected-paper-mss-belonging-to-the-durbar-library-nepal-hara-prasad-sh.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 3 potential matches
+   ✓ Adding 2 new alternative sources
+   ✅ Added 2 alternative sources
+[28/200] a-catalogue-of-the-tamil-books-in-the-library-of-the-british-museum-british-museum-lionel-d-barnett-.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[29/200] a-companion-telugu-reader-to-arden-s-progressive-telugu-grammar-arden-albert-henry.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[30/200] a-comparative-grammar-of-modern-aryan-languages-john-beames.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[31/200] a-comparative-grammar-of-the-dravidian-or-south-indian-family-of-languages-caldwell-robert.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[32/200] a-comparative-grammar-of-the-languages-of-further-india-hoernle-a-f-rudolf.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[33/200] a-comparative-grammar-of-the-modern-aryan-languages-of-india-to-wit-hindi-panjabi-sindhi-gujarati-ma.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 4 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[34/200] a-comparative-grammar-of-the-modern-aryan-languages-of-india-vol-3-beames-john.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[35/200] a-comparative-study-of-english-and-malayalam-tatta-kanaran-joseph-muliyil.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[36/200] a-compendious-pali-grammar-with-a-vocabulary-in-the-same-language-benjamin-clough-william-tolfrey.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[37/200] a-compendium-of-molesworth-s-marathi-and-english-dictionary-molesworth-j-t-padmanji-baba.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[38/200] a-complete-dictionary-of-the-terms-used-by-criminal-tribes-in-the-punjab-unknown.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[39/200] a-comprehensive-dictionary-english-and-marathi-padmanji-baba.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 5 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[40/200] a-defence-of-hindoo-theism-rammohun-roy-raja-sankara-sastri.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[41/200] a-descriptive-and-historical-account-of-british-india-murray-hugh.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[42/200] a-descriptive-catalogue-of-the-sanskrit-manuscripts-in-the-adyar-library-theosophical-society-vol-i-.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[43/200] a-dictionary-bengali-and-sanskrit-explained-in-english-graves-champney-haughton.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[44/200] a-dictionary-english-and-gujarati-montgomery-robert.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[45/200] a-dictionary-english-and-marathi-1847-various.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[46/200] a-dictionary-english-and-marathi-j-t-molesworth.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[47/200] a-dictionary-gujarati-and-english-shapurji-edalji.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[48/200] a-dictionary-hindustani-and-english-shakespeare-john.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[49/200] a-dictionary-in-assamese-and-english-miles-bronson.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 4 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[50/200] a-dictionary-of-english-and-punjabi-captain-starkey.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[51/200] a-dictionary-of-hindustani-proverbs-s-w-fallon.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[52/200] a-dictionary-of-kashmiri-proverbs-sayings-james-hinton-knowles.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 4 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[53/200] a-dictionary-of-the-bengali-language-carey-w.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 3 potential matches
+   ✓ Adding 2 new alternative sources
+   ✅ Added 2 alternative sources
+[54/200] a-dictionary-of-the-bengali-language-rev-william-morton.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[55/200] a-dictionary-of-the-bengali-language-with-bengali-synonyms-and-an-english-interpretation-morton-will.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[56/200] a-dictionary-of-the-mixed-telugu-charles-philip-brown.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[57/200] a-dictionary-of-the-panjabi-language-committee-of-lodiana-mission.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[58/200] a-dictionary-of-the-punjabi-language-lodiana-mission.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[59/200] a-dictionary-of-the-tamil-and-english-languages-rottler-j-p.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[60/200] a-dictionary-of-urdu-classical-hindi-and-english-platts-john-thompson.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 2 new alternative sources
+   ✅ Added 2 alternative sources
+[61/200] a-dictionary-telugu-and-english-brown-charles-philip.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 9 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[62/200] a-freelance-in-kashmir-macmunn-george-fletcher.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[63/200] a-gazetteer-of-southern-india-vol-1-pharoah-and-co.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[64/200] a-gazetteer-of-southern-india-vol-2-pharoah-and-co.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[65/200] a-general-index-to-the-names-and-subject-matter-m-winternitz.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[66/200] a-general-index-to-the-sacred-books-of-the-east-f-max-muller.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[67/200] a-glimpse-of-assam-susan-r-ward.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[68/200] a-glossary-bengali-and-english-haughton-graves-chamney-mrityunjaya.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[69/200] a-glossary-of-judicial-and-revenue-terms-and-of-useful-words-occurring-in-official-documents-wilson-.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[70/200] a-glossary-of-judicial-and-revenue-terms-wilson-h-h.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 4 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[71/200] a-glossary-of-the-tribes-and-castes-of-the-punjab-and-north-west-frontier-province-rose-h-a-ibbetson.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[72/200] a-grammar-of-the-gujarati-language-clarkson-william.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[73/200] a-grammar-of-the-high-dialect-of-the-tamil-language-beschi-costantino-giuseppe.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[74/200] a-grammar-of-the-hindi-language-kellogg-samuel-henry.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 6 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[75/200] a-grammar-of-the-kannada-language-in-english-f-kittel.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 6 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[76/200] a-grammar-of-the-malayalam-language-hermann-gundert.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 3 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[77/200] a-grammar-of-the-marathi-language-bellairs-henry-spencer-kenrick-lakshmana-yadava-askhedkar.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[78/200] a-grammar-of-the-prakrit-languages-pischel-richard.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[79/200] a-grammar-of-the-tamil-language-rhenius-c-t-e.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 3 potential matches
+   ✓ Adding 2 new alternative sources
+   ✅ Added 2 alternative sources
+[80/200] a-grammar-of-the-tamil-language-vol-2-rhenius-charles-theophilus-ewald.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[81/200] a-grammar-of-the-telugu-language-brown-charles-philip.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[82/200] a-grammar-of-the-telugu-language-charles-philip-brown.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[83/200] a-group-of-eastern-romances-and-stories-clouston-rehatsek.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[84/200] a-hand-book-of-hindu-pantheism-the-panchadasi-madhava.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[85/200] a-hindi-manual-kellogg-samuel-henry.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[86/200] a-hindustani-english-dictionary-fallon-s-w.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[87/200] a-history-of-hindu-chemistry-vol-1-praphulla-chandra-ray.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[88/200] a-history-of-hindu-civilisation-during-british-rule-pramatha-nath-bose.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[89/200] a-history-of-indian-philosophy-vol-1-variant-dasgupta-surendranath.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[90/200] a-history-of-indian-philosophy-vol-3-dasgupta-surendranath.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[91/200] a-history-of-indian-philosophy-vol-4-dasgupta-surendranath.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[92/200] a-history-of-indian-philosophy-vol-5-dasgupta-surendranath.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[93/200] a-history-of-sanskrit-literature-a-berriedale-keith.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 9 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[94/200] a-history-of-sanskrit-literature-macdonell-arthur-anthony.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 5 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[95/200] a-history-of-sanskrit-literature-macdonell.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[96/200] a-history-of-the-maratha-people-vol-2-kincaid-charles-augustus.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 3 potential matches
+   ✓ Adding 2 new alternative sources
+   ✅ Added 2 alternative sources
+[97/200] a-history-of-the-maratha-people-vol-3-kincaid-charles-augustus.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 3 potential matches
+   ✓ Adding 2 new alternative sources
+   ✅ Added 2 alternative sources
+[98/200] a-history-of-the-military-transactions-of-the-british-nation-in-indostan-from-the-year-1745-vol-1-or.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[99/200] a-history-of-the-military-transactions-of-the-british-nation-in-indostan-orme-robert.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[100/200] a-history-of-the-sikhs-from-the-origin-of-the-nation-to-the-battles-of-the-sutlej-davey-cunningham-j.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[101/200] a-history-of-the-sikhs-joseph-davey-cunningham.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[102/200] a-literary-history-of-india-frazer-r-w-robert-watson.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 4 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[103/200] a-literary-history-of-india-r-w-frazer.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 6 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[104/200] a-malabar-and-english-dictionary-fabricius-johann-philipp.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 7 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[105/200] a-malayalam-and-english-dictionary-hermann-gundert.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 7 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[106/200] a-malayalam-medical-dictionary-nayattinkaray-krishna-pillay.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[107/200] a-manual-of-hindu-pantheism-the-vedantasara-jacob-george-adolphus.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 4 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[108/200] a-manual-of-hindu-pantheism-the-vedantasara-sadananda-yogindra-george-adolphus-jacob.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[109/200] a-manual-of-the-historical-development-of-art-george-gustavus-zerffi.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 4 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[110/200] a-manual-of-urdu-or-hindustani-platts-john-thompson.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[111/200] a-memoir-of-the-rev-robert-turlington-noble-noble-john.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 3 potential matches
+   ✓ Adding 2 new alternative sources
+   ✅ Added 2 alternative sources
+[112/200] a-note-on-indian-wheat-rusts-cunningham-d-d.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[113/200] a-personal-narrative-of-a-visit-to-ghuzni-kabul-and-afghanistan-vigne-godfrey-thomas.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 6 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[114/200] a-practical-grammar-of-the-sanskrit-language-monier-monier-williams.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[115/200] a-practical-grammar-of-the-sanskrit-language-monier-williams.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[116/200] a-primer-of-tamil-literature-purnalingam-pillai-m-s.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[117/200] a-progressive-grammar-of-the-malayalam-language-for-europeans-various.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[118/200] a-progressive-grammar-of-the-telugu-language-arden-albert-henry.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 4 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[119/200] a-prose-english-translation-of-vishnupuranam.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[120/200] a-record-of-the-expeditions-undertaken-against-the-north-west-frontier-tribes-paget-w-h.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[121/200] a-sanskrit-english-dictionary-macdonell-arthur-a.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 7 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[122/200] a-sanskrit-english-dictionary-monier-williams.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[123/200] a-second-defence-of-the-monotheistic-system-of-the-veda-rammohun-roy.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[124/200] a-second-exposure-of-the-hindu-religion-wilson-john.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 5 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[125/200] a-selection-of-articles-and-letters-on-various-indian-questions-hodgson-pratt.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[126/200] a-selection-of-morals-from-the-best-english-and-bengali-mitter-gopal-lol.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[127/200] a-short-account-of-the-kachcha-naga-empeo-tribe-in-the-north-cachar-hills-soppitt-c-a.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[128/200] a-short-history-of-indian-literature-horrwitz-e-p.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[129/200] a-simplified-grammar-and-reading-book-william-st-clair-tisdall.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 3 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[130/200] a-sindhi-english-dictionary-george-shirt.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[131/200] a-sketch-of-the-state-of-british-india-bryce-james.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[132/200] a-soldier-s-daughter-and-other-stories-g-a-henty.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[133/200] a-study-of-indian-economics-pramathanath-banerjea.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[134/200] a-summer-in-kashmir-neve-arthur.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[135/200] a-supplement-to-the-collection-of-telugu-proverbs-carr-mark-william.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[136/200] a-tour-through-the-famine-district-of-india-francis-henry-shafton-merewether.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[137/200] a-tour-through-the-famine-districts-of-india-f-h-s-merewether.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 3 potential matches
+   ✓ Adding 2 new alternative sources
+   ✅ Added 2 alternative sources
+[138/200] a-treatise-on-buddhist-philosophy-or-abidhamma-de-silva-c-l-a.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[139/200] a-treatise-on-the-yoga-philosophy-2nd-ed-n-c-paul.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[140/200] a-treatise-on-the-yoga-philosophy-n-c-paul.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 4 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[141/200] a-vedic-reader-for-students-macdonell-arthur-anthony.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[142/200] a-view-of-all-religions-and-the-religious-ceremonies-of-all-nations-robbins-thomas-ward-william.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[143/200] a-view-of-the-history-literature-and-religion-of-the-hindoos-ward-william.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[144/200] abhinava-raga-manjari-by-pandit-vishnu-narayan-bhatkhande-1921-dr-k-j-kunte-with-assistance-by-karti.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[145/200] across-india-at-the-dawn-of-the-20th-century-lucy-evangeline-guinness.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 4 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[146/200] addresses-and-speeches-relating-to-the-mahomedan-anglo-oriental-college-mohsin-ul-mulk.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[147/200] adi-granth-or-the-holy-scriptures-of-the-sikhs-trumpp-ernest.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 5 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[148/200] adi-granth-or-the-holy-scriptures-of-the-sikhs-various.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[149/200] agad-tantra-sharmaa-thaakuradatt-vaidya.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[150/200] agananuru-m-kamalakannan.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[151/200] agastya-in-the-tamil-land-sivaraja-pillai-k-narayanan.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[152/200] agricultural-insurance-a-practical-scheme-suited-to-indian-conditions-chakravarti-j-s.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[153/200] ain-i-akbari-administration-of-mughal-emperor-akbar-volume-1-abul-fazl.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[154/200] ain-i-akbari-administration-of-mughal-emperor-akbar-volume-2-abul-fazl.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[155/200] aitareya-aranyaka-keith-berriedale.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 6 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[156/200] aitareya-brahmana-of-the-rigveda-martin-haug.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 7 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[157/200] aitareya-brahmana-of-the-rigveda-vol-1-haug-martin.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 4 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[158/200] akbar-s-tomb-sikandarah-near-agra-described-and-illustarated-smith-edmund-w.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[159/200] akbars-tomb-sikandarah-near-agra-edmund-w-smith.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 3 potential matches
+   ✓ Adding 2 new alternative sources
+   ✅ Added 2 alternative sources
+[160/200] akhlaq-e-muhammadi-sindhi-hakim-fateh-muhammad-sewhani.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[161/200] american-primitive-music-with-especial-attention-to-the-songs-of-the-ojibways-frederick-russell-burt.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 6 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[162/200] an-account-of-an-embassy-to-the-court-of-the-teshoo-lama-in-tibet-turner-samuel.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 6 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[163/200] an-account-of-assam-wade-john-peter.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[164/200] an-appeal-to-christian-mothers-in-behalf-of-the-heathen-scudder-john.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 3 potential matches
+   ✓ Adding 2 new alternative sources
+   ✅ Added 2 alternative sources
+[165/200] an-elementary-grammar-of-the-kannada-or-canarese-language-1864-thomas-hodson.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[166/200] an-elementary-grammar-of-the-kannada-or-canarese-language-t-c-hodson.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[167/200] an-elementary-grammar-of-the-kannada-or-canarese-language-thomas-hodson.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[168/200] an-elementary-grammar-of-the-sanscrit-language-monier-williams.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[169/200] an-epitome-of-the-history-of-ceylon-compiled-from-native-annals-george-turnour.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[170/200] an-exposure-of-the-hindu-religion-wilson-john-mora-bhatta-dandekara.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[171/200] an-historical-disquisition-concerning-the-knowledge-which-the-ancients-had-of-india-robertson-willia.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[172/200] an-historical-sketch-of-sanscrit-literature-adelung-friedrich-von-talboys-d-a.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[173/200] an-introduction-to-biology-for-students-india-r-e-lloyd.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 4 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[174/200] an-oriya-and-english-dictionary-designed-for-the-use-of-european-and-native-brooks-william.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[175/200] an-outline-grammar-of-the-dafla-language-robert-clifton-hamilton.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[176/200] ancient-geography-of-india-mccrindle-john-watson.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 3 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[177/200] ancient-india-as-described-by-ktesias-the-knidian-mccrindle-john-watson.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[178/200] ancient-india-as-described-by-megasthenes-and-arrian-mccrindle-john-watson.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 4 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[179/200] ancient-india-as-described-by-ptolemy-mccrindle-john-watson.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 2 new alternative sources
+   ✅ Added 2 alternative sources
+[180/200] ancient-india-as-described-in-classical-literature-mccrindle-john-watson.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[181/200] ancient-india-from-the-earliest-times-to-the-first-century-e-j-rapson.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 3 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[182/200] ancient-india-krishnaswami-aiyangar-sakkottai.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[183/200] ancient-tenures-and-modern-land-legislation-in-british-india-hutton-henry-dix.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[184/200] ancient-wings-harindranath-chattopadhyay.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[185/200] anecdotes-of-virtue-and-valour.md
+
+   🔍 Searching for alternative copies...
+   ⏭️  No alternative copies found
+   ⏭️  no matches found
+[186/200] anglo-indian-prize-poems-w-s-thomson.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[187/200] annals-and-antiouities-of-rajasthan-vol-iii-lieut-col-james-tod.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[188/200] annals-and-antiqqities-of-rajasthan-james-tod.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[189/200] annals-and-antiquities-of-rajasthan-vol-001-james-tod.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[190/200] annals-and-antiquities-of-rajasthan-vol-i-james-tod.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[191/200] annals-and-antiquities-of-rajasthan-vol-ii-james-tod.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 8 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[192/200] annals-antiquities-of-rajasthan-james-tod.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[193/200] annals-antiquities-of-rajasthan-vol-ii-james-tod.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 2 potential matches
+   ✓ Adding 1 new alternative sources
+   ✅ Added 1 alternative sources
+[194/200] annals-of-the-honorable-east-india-company-vol-1-bruce-john.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 6 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[195/200] annals-of-the-honorable-east-india-company-vol-2-bruce-john.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 6 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[196/200] annual-progress-report-of-the-archaeological-survey-archaeological-survey-of-india.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 8 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[197/200] annual-report-of-the-archaeological-department-southern-circle-madras-archaeological-survey-of-india.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 3 potential matches
+   ✓ Adding 2 new alternative sources
+   ✅ Added 2 alternative sources
+[198/200] annual-reports-of-archaeological-survey-of-india-m-kamalakannan.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 1 potential matches
+   ⏭️  No new sources (all existing sources already listed)
+   ⏭️  no new sources
+[199/200] anthologia-sanscritica-lassen-christian.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 10 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+[200/200] antiquities-of-indian-tibet-pt-1-francke-a-h.md
+
+   🔍 Searching for alternative copies...
+   📚 Found 5 potential matches
+   ✓ Adding 3 new alternative sources
+   ✅ Added 3 alternative sources
+
+============================================================
+✅ Processed: 200 files
+🔗 Total alternative sources added: 269
+============================================================
+
+[0;34m━━━ STEP 6: Organizing into Batches of 25 ━━━[0m
+Creating 8 batches of 25 works each...
+  ✓ Batch 1: 25 works in testing-batches/batch-01
+  ✓ Batch 2: 25 works in testing-batches/batch-02
+  ✓ Batch 3: 25 works in testing-batches/batch-03
+  ✓ Batch 4: 25 works in testing-batches/batch-04
+  ✓ Batch 5: 25 works in testing-batches/batch-05
+  ✓ Batch 6: 25 works in testing-batches/batch-06
+  ✓ Batch 7: 25 works in testing-batches/batch-07
+  ✓ Batch 8: 25 works in testing-batches/batch-08
+
+[0;32m╔══════════════════════════════════════════════════════════════════╗[0m
+[0;32m║                     PROCESSING COMPLETE                          ║[0m
+[0;32m╚══════════════════════════════════════════════════════════════════╝[0m
+
+[0;34mSummary:[0m
+  Total processed: 200 works
+  Batches created: 8
+  Output location: testing-batches
+
+[0;34mNext Steps:[0m
+  1. Review each batch in: testing-batches
+  2. Check BATCH-MANIFEST.md in each folder
+  3. Verify quality of 2-3 works per batch
+  4. Mark checklist items as you review
+  5. Move approved batches to production
+
+[0;32mReady for manual review! 🇮🇳[0m

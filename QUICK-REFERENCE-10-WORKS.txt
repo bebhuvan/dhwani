@@ -1,0 +1,52 @@
+═══════════════════════════════════════════════════════════════════
+                    10 WORKS ADDED - QUICK REFERENCE
+═══════════════════════════════════════════════════════════════════
+
+1. Ain-i-Akbari, Vol 1 (1873) - Abul Fazl
+   📁 ain-i-akbari-administration-of-mughal-emperor-akbar-volume-1-abul-fazl.md
+   🔗 https://archive.org/details/ain-i-akbari-administration-of-akbar-volume-1
+
+2. A History of the Sikhs (1918) - Joseph Davey Cunningham
+   📁 a-history-of-the-sikhs-joseph-davey-cunningham.md
+   🔗 https://archive.org/details/in.ernet.dli.2015.31113
+
+3. A Personal Narrative: Afghanistan (1840) - Godfrey Thomas Vigne
+   📁 a-personal-narrative-of-a-visit-to-ghuzni-kabul-and-afghanistan-vigne-godfrey-thomas.md
+   🔗 https://archive.org/details/personalnarrativ00vign
+
+4. A Literary History of India (1907) - R. W. Frazer
+   📁 a-literary-history-of-india-frazer-r-w-robert-watson.md
+   🔗 https://archive.org/details/literaryhistoryo00frazrich
+
+5. Antiquities of Indian Tibet, Pt 1 (1914) - A. H. Francke
+   📁 antiquities-of-indian-tibet-pt-1-francke-a-h.md
+   🔗 https://archive.org/details/in.gov.ignca.24281
+
+6. 1829 Malayalam New Testament - Benjamin Bailey
+   📁 1829-malayalam-new-testament-benjamin-bailey.md
+   🔗 https://archive.org/details/1829_Malayalam_NewTestament
+
+7. A Dictionary of Bengali Language (1826) - William Carey
+   📁 a-dictionary-of-the-bengali-language-carey-w.md
+   🔗 https://archive.org/details/in.ernet.dli.2015.31090
+
+8. A History of Hindu Chemistry, Vol 1 (1903) - P. C. Ray
+   📁 a-history-of-hindu-chemistry-vol-1-praphulla-chandra-ray.md
+   🔗 https://archive.org/details/in.ernet.dli.2015.39319
+
+9. A Freelance in Kashmir (1914) - George Fletcher MacMunn
+   📁 a-freelance-in-kashmir-macmunn-george-fletcher.md
+   🔗 https://archive.org/details/freelanceinkashm00macmiala
+
+10. A History of Hindu Civilisation (1894) - Pramatha Nath Bose
+    📁 a-history-of-hindu-civilisation-during-british-rule-pramatha-nath-bose.md
+    🔗 https://archive.org/details/ahistoryhinduci00bosegoog
+
+═══════════════════════════════════════════════════════════════════
+
+POTENTIAL MULTI-VOLUME SERIES TO CHECK:
+• Ain-i-Akbari (has Volume 2)
+• A History of Hindu Chemistry (has Volume 2)
+• Antiquities of Indian Tibet (may have Part 2)
+
+All files located in: src/content/works/

@@ -15,8 +15,11 @@ description: |
 collections:
 - modern-literature
 sources:
-- name: 'Internet Archive'
+- name: 'Internet Archive: University of California Edition'
   url: https://archive.org/details/introductiontohi00shakrich
+  type: other
+- name: 'Internet Archive: DLI Scan (512 pages)'
+  url: https://archive.org/details/in.ernet.dli.2015.44114
   type: other
 references:
 - name: 'Wikipedia: John Shakespear'
@@ -25,11 +28,17 @@ references:
 - name: 'Wikipedia: Hindustani language'
   url: https://en.wikipedia.org/wiki/Hindustani_language
   type: wikipedia
-- name: 'OpenLibrary Search'
-  url: https://openlibrary.org/search?q=Introduction+to+the+Hindustani+Language+John+Shakespear
+- name: 'Wikipedia: History of Hindustani'
+  url: https://en.wikipedia.org/wiki/History_of_Hindustani
+  type: wikipedia
+- name: 'Open Library: An Introduction to the Hindustani Language'
+  url: https://openlibrary.org/works/OL13135241W
   type: other
 - name: 'Wikidata: John Shakespear'
   url: https://www.wikidata.org/wiki/Q18810952
+  type: other
+- name: 'Wikisource: Dictionary of National Biography - John Shakespear'
+  url: https://en.wikisource.org/wiki/Shakespear,_John_(DNB00)
   type: other
 featured: false
 publishDate: 2025-01-22
