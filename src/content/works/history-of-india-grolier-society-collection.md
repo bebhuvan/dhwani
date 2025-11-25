@@ -19,7 +19,25 @@ description: |
 collections:
 - modern-literature
 sources:
-- name: 'Internet Archive (University of Toronto)'
+- name: 'Internet Archive (Volume 1, Google digitization, 431 pages)'
+  url: https://archive.org/details/historyindia01lyalgoog
+  type: other
+- name: 'Internet Archive (Volume 2, Google digitization, 371 pages)'
+  url: https://archive.org/details/historyindia02lyalgoog
+  type: other
+- name: 'Internet Archive (Volume 4, Google digitization, 352 pages)'
+  url: https://archive.org/details/historyindia03lyalgoog
+  type: other
+- name: 'Internet Archive (Volume 5, Google digitization, 495 pages)'
+  url: https://archive.org/details/historyindia05lyalgoog
+  type: other
+- name: 'Internet Archive (Volume 6, Google digitization, 401 pages)'
+  url: https://archive.org/details/historyindia04lyalgoog
+  type: other
+- name: 'Internet Archive (Volume 6-7, Google digitization, 571 pages)'
+  url: https://archive.org/details/historyindia06lyalgoog
+  type: other
+- name: 'Internet Archive (Volume 1, University of Toronto)'
   url: https://archive.org/details/historyofindia01jackuoft
   type: other
 references:
