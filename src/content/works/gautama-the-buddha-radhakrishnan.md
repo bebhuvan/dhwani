@@ -10,7 +10,7 @@ genre:
   - "Philosophy"
   - "Religious Studies"
 description: |
-      Sarvepalli Radhakrishnan's "Gautama the Buddha" (1938), originally delivered as the Annual Lecture on a Master Mind to the British Academy on June 28, 1938, and subsequently published by Milford (London) before appearing in the first Indian edition through Hind Kitabs (Bombay, 1945), represents the Oxford Spalding Professor's systematic exposition of the Buddha's life, teachings, and philosophical significance for both historical Buddhist studies and contemporary interfaith dialogue.
+        Sarvepalli Radhakrishnan's "Gautama the Buddha" (1938), originally delivered as the Annual Lecture on a Master Mind to the British Academy on June 28, 1938, and subsequently published by Milford (London) before appearing in the first Indian edition through Hind Kitabs (Bombay, 1945), represents the Oxford Spalding Professor's systematic exposition of the Buddha's life, teachings, and philosophical significance for both historical Buddhist studies and contemporary interfaith dialogue..
 collections:
   - "philosophical-works"
   - "comparative-religion"

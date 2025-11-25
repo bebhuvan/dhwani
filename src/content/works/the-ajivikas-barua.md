@@ -10,7 +10,7 @@ genre:
   - "Religious Studies"
   - "Historical Analysis"
 description: |
-      Benimadhab Barua's "The Ajivikas" (1920), published by the University of Calcutta as part of the Journal of the Department of Letters, constitutes the first systematic English-language scholarly examination of the Ajivika sect—an ancient Indian heterodox (nāstika) philosophical and ascetic movement contemporaneous with early Buddhism and Jainism that espoused radical determinism (niyati) and persisted until approximately the fourteenth century CE before vanishing from the Indian religious landscape.
+        Benimadhab Barua's "The Ajivikas" (1920), published by the University of Calcutta as part of the Journal of the Department of Letters, constitutes the first systematic English-language scholarly examination of the Ajivika sect—an ancient Indian heterodox (nāstika) philosophical and ascetic movement contemporaneous with early Buddhism and Jainism that espoused radical determinism (niyati) and persisted until approximately the fourteenth century CE before vanishing from the Indian religious landscape..
 collections:
   - "philosophical-works"
   - "religious-texts"

@@ -10,7 +10,7 @@ genre:
   - "Literary Criticism"
   - "Biography"
 description: |
-      Sarvepalli Radhakrishnan's "The Philosophy of Rabindranath Tagore" (1918), published by Macmillan in London and Calcutta while Radhakrishnan taught at Madras Presidency College, represents one of the earliest systematic English-language expositions demonstrating that Tagore (1861-1941)—internationally celebrated as Nobel laureate poet (1913), Bengali Renaissance polymath, educator, social reformer, and cultural nationalist—articulated sophisticated philosophical positions integrating Vedantic metaphysics, humanistic ethics, aesthetic theory, and spiritual universalism beyond his literary achievements.
+        Sarvepalli Radhakrishnan's "The Philosophy of Rabindranath Tagore" (1918), published by Macmillan in London and Calcutta while Radhakrishnan taught at Madras Presidency College, represents one of the earliest systematic English-language expositions demonstrating that Tagore (1861-1941)—internationally celebrated as Nobel laureate poet (1913), Bengali Renaissance polymath, educator, social reformer, and cultural nationalist—articulated sophisticated philosophical positions integrating Vedantic metaphysics, humanistic ethics, aesthetic theory, and spiritual universalism beyond his literary achievements..
 collections:
   - "philosophical-works"
   - "modern-literature"

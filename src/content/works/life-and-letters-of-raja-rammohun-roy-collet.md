@@ -11,7 +11,7 @@ genre:
   - "Correspondence"
   - "Social Reform"
 description: |
-      Sophia Dobson Collet's biographical and documentary compilation on Raja Rammohun Roy (1772-1833), founder of the Brahmo Sabha and architect of India's nineteenth-century social reform movement, represents the foundational English-language study of the figure often designated the "Father of the Indian Renaissance." Published posthumously in 1900 after Collet's death in 1894, with editorial completion by F.
+        Sophia Dobson Collet's biographical and documentary compilation on Raja Rammohun Roy (1772-1833), founder of the Brahmo Sabha and architect of India's nineteenth-century social reform movement, represents the foundational English-language study of the figure often designated the "Father of the Indian Renaissance." Published posthumously in 1900 after Collet's death in 1894, with editorial completion by F..
 collections:
   - "historical-literature"
   - "colonial-india"

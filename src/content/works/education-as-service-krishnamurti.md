@@ -11,7 +11,7 @@ genre:
   - "Education"
   - "Theosophy"
 description: |
-      Jiddu Krishnamurti's "Education as Service" (1912), published by the Theosophical Publishing Society in Adyar, Madras, with foreword by Annie Besant, represents the seventeen-year-old future philosopher's first published book, articulating an idealistic educational vision shaped by Theosophical cosmology, Vedantic philosophical concepts, and Victorian progressive pedagogy during the period when Besant and Charles Webster Leadbeater were grooming him as the anticipated "World Teacher" and vehicle for the Lord Maitreya's manifestation.
+        Jiddu Krishnamurti's "Education as Service" (1912), published by the Theosophical Publishing Society in Adyar, Madras, with foreword by Annie Besant, represents the seventeen-year-old future philosopher's first published book, articulating an idealistic educational vision shaped by Theosophical cosmology, Vedantic philosophical concepts, and Victorian progressive pedagogy during the period when Besant and Charles Webster Leadbeater were grooming him as the anticipated "World Teacher" and vehicle for the Lord Maitreya's manifestation..
 collections:
   - "philosophical-works"
   - "modern-literature"

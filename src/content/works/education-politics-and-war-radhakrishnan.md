@@ -10,7 +10,7 @@ genre:
 - Educational Philosophy
 - Social Commentary
 description: |
-      Published during the tumultuous final years of World War II and on the cusp of Indian independence, Sarvepalli Radhakrishnan's "Education, Politics and War" (1944) represents a critical intervention in wartime philosophical discourse, addressing the intersections of educational reform, democratic governance, and spiritual freedom amid global conflict.
+        Published during the tumultuous final years of World War II and on the cusp of Indian independence, Sarvepalli Radhakrishnan's "Education, Politics and War" (1944) represents a critical intervention in wartime philosophical discourse, addressing the intersections of educational reform, democratic governance, and spiritual freedom amid global conflict..
 collections:
 - modern-literature
 - political-philosophy

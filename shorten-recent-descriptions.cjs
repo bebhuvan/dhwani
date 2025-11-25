@@ -42,12 +42,12 @@ function shortenDescription(content) {
 
   const fullDescription = descMatch[1];
 
-  // Get first sentence only (roughly 50-80 words)
+  // Get first 2-3 sentences (roughly 100-150 words)
   const sentences = fullDescription.split(/\.\s+/);
-  const shortDescription = sentences[0] + '.';
+  const shortDescription = sentences.slice(0, 3).join('. ') + '.';
 
   // Rest goes to body
-  const remainingDescription = sentences.slice(1).join('. ').trim();
+  const remainingDescription = sentences.slice(3).join('. ').trim();
 
   // Replace description in frontmatter
   const newFrontmatter = frontmatter.replace(

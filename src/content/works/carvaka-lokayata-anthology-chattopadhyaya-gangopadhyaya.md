@@ -12,7 +12,7 @@ genre:
   - "Anthology"
   - "Reference"
 description: |
-      Debiprasad Chattopadhyaya and Mrinal Kanti Gangopadhyaya's "Cārvāka/Lokāyata: An Anthology of Source Materials and Some Recent Studies" (1990), published by the Indian Council of Philosophical Research in New Delhi in association with Rddhi-India (Calcutta), represents the most comprehensive scholarly compilation of primary textual sources, modern critical studies, and analytical surveys documenting the Charvaka (Lokayata) materialist philosophical tradition—ancient India's most prominent heterodox school rejecting Vedic authority, supernatural doctrines, and metaphysical speculation in favor of empiricist epistemology, naturalistic ontology, and hedonistic ethics.
+        Debiprasad Chattopadhyaya and Mrinal Kanti Gangopadhyaya's "Cārvāka/Lokāyata: An Anthology of Source Materials and Some Recent Studies" (1990), published by the Indian Council of Philosophical Research in New Delhi in association with Rddhi-India (Calcutta), represents the most comprehensive scholarly compilation of primary textual sources, modern critical studies, and analytical surveys documenting the Charvaka (Lokayata) materialist philosophical tradition—ancient India's most prominent heterodox school rejecting Vedic authority, supernatural doctrines, and metaphysical speculation in favor of empiricist epistemology, naturalistic ontology, and hedonistic ethics..
 collections:
   - "philosophical-works"
   - "reference-works"

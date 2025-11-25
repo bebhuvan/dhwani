@@ -11,7 +11,7 @@ genre:
   - "Travel Literature"
   - "Personal Essays"
 description: |
-      Rabindranath Tagore's "Letters from Abroad" (1924), compiled and edited by Charles Freer Andrews, collects correspondence documenting the poet-philosopher's extensive travels during the 1920s, written primarily to Andrews himself during periods when the English missionary and educator resided at Santiniketan while Tagore journeyed across Asia, Europe, and South America.
+        Rabindranath Tagore's "Letters from Abroad" (1924), compiled and edited by Charles Freer Andrews, collects correspondence documenting the poet-philosopher's extensive travels during the 1920s, written primarily to Andrews himself during periods when the English missionary and educator resided at Santiniketan while Tagore journeyed across Asia, Europe, and South America..
 collections:
   - "historical-literature"
   - "colonial-india"

@@ -10,7 +10,7 @@ genre:
   - "Translation"
   - "Classical Literature"
 description: |
-      Ralph Thomas Hotchkin Griffith's "Specimens of Old Indian Poetry" (1852), published in London by A.
+        Ralph Thomas Hotchkin Griffith's "Specimens of Old Indian Poetry" (1852), published in London by A..
 collections:
   - "classical-literature"
   - "scholarly-translations"
