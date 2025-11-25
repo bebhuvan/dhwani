@@ -10,7 +10,7 @@ genre:
   - "Archaeology"
   - "Literary Criticism"
 description: |
-        T..
+  T. G. Aravamuthan's 131-page thesis (1925), awarded the Sankara-Parvati Prize by University of Madras, examines connections between ancient Tamil Sangam literature and North Indian political history. The work investigates references in classical Tamil poetry to the Maukhari dynasty and proposes controversial historical reconstructions of Tamil military expeditions to the Ganges valley. Combining literary analysis, numismatic evidence, and archaeological findings, Aravamuthan argues for direct interactions between Tamil kingdoms and North Indian dynasties, though his chronological proposals received scholarly skepticism and remain contested.
 collections:
   - "historical-literature"
   - "regional-literature"

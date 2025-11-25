@@ -10,7 +10,7 @@ genre:
   - "Translation"
   - "Classical Literature"
 description: |
-        Ralph Thomas Hotchkin Griffith's "Specimens of Old Indian Poetry" (1852), published in London by A..
+  Ralph Thomas Hotchkin Griffith's pioneering 1852 anthology presents English verse translations of classical Sanskrit poetry including selections from Kalidasa's works, the Ramayana, Mahabharata, and other ancient texts. Published in London, this early Victorian work introduced Sanskrit literary tradition to English audiences through metrical translations. Griffith, who later produced complete translations of the Vedas, established his reputation with this collection demonstrating Sanskrit poetry's aesthetic sophistication and thematic range to Western readers unfamiliar with Indian classical literature.
 collections:
   - "classical-literature"
   - "scholarly-translations"
