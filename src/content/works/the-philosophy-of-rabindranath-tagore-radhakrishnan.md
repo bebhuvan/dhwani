@@ -52,7 +52,7 @@ references:
     url: "https://openlibrary.org/authors/OL2061A/Sarvepalli_Radhakrishnan"
     type: "other"
 featured: false
-publishDate: 2025-12-04
+publishDate: 2025-11-24
 ---
 
 ## Publication Context and Early Career

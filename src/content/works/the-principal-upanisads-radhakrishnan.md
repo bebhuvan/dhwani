@@ -64,7 +64,7 @@ references:
     url: "https://openlibrary.org/books/OL9080461M/The_Principal_Upanishads"
     type: "other"
 featured: false
-publishDate: 2025-12-08
+publishDate: 2025-11-25
 ---
 
 ## Publication Context and Radhakrishnan's Authority

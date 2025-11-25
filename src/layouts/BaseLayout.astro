@@ -105,6 +105,17 @@ const currentPath = Astro.url.pathname;
               Blog
             </a>
             <a
+              href="/log"
+              class:list={[
+                "text-[0.9rem] tracking-[0.01em] transition-colors relative",
+                currentPath.startsWith('/log')
+                  ? "text-ink font-medium"
+                  : "text-ink-light hover:text-ink"
+              ]}
+            >
+              Log
+            </a>
+            <a
               href="/about"
               class:list={[
                 "text-[0.9rem] tracking-[0.01em] transition-colors relative",
@@ -164,6 +175,17 @@ const currentPath = Astro.url.pathname;
               ]}
             >
               Blog
+            </a>
+            <a
+              href="/log"
+              class:list={[
+                "text-[0.95rem] tracking-[0.01em] transition-colors py-2",
+                currentPath.startsWith('/log')
+                  ? "text-ink font-medium"
+                  : "text-ink-light hover:text-ink"
+              ]}
+            >
+              Log
             </a>
             <a
               href="/about"
