@@ -15,7 +15,6 @@ description: |
 collections:
 - comparative-religion
 - philosophical-works
-- modern-literature
 sources:
 - name: 'Internet Archive (Digital Library of India)'
   url: https://archive.org/details/in.ernet.dli.2015.148190
