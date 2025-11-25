@@ -11,7 +11,7 @@ genre:
   - "History"
   - "Religious Studies"
 description: |
-      Dakshinaranjan Shastri's "A Short History of Indian Materialism, Sensationalism and Hedonism" (1930), published by Bookland Private Ltd.
+  Dakshinaranjan Shastri's 73-page monograph (1930) presents the first systematic English-language historical survey of the Charvaka (Lokayata) materialist philosophical tradition. Following his 1928 edition of "Charvaka-shashti," Shastri reconstructs ancient India's heterodox materialist school from fragmentary evidence preserved in Buddhist, Jain, and Brahmanical sources. The work examines Charvaka's ontological materialism, epistemological empiricism accepting only sensory perception, rejection of souls and supernatural causation, critique of Vedic authority, and ethical hedonism advocating worldly pleasure over ascetic renunciation.
 collections:
   - "philosophical-works"
   - "historical-literature"
