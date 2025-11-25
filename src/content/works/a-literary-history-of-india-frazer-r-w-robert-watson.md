@@ -12,33 +12,33 @@ description: |
   Frazer's 1907 survey examines Indian literature from Vedic Sanskrit through Persian influences to 19th-century vernacular writing. Organized linguistically, it covers Sanskrit classics (Kalidasa, Bhavabhuti), Pali Buddhist texts, Prakrit drama, Tamil Sangam poetry, and regional literatures including Bengali, Hindi, Marathi, and Telugu. The work reflects early British academic approaches to cataloging India's literary traditions, providing coverage of major authors, genres, and periodization across multiple language families.
 
 collections:
-- historical-works
+- historical-literature
 sources:
   - name: Internet Archive
-    url: https://archive.org/details/literaryhistoryo00frazrich
-    type: other
+    url: "https://archive.org/details/literaryhistoryo00frazrich"
+    type: "other"
   - name: Internet Archive (b24868334)
-    url: https://archive.org/details/b24868334
-    type: other
+    url: "https://archive.org/details/b24868334"
+    type: "other"
   - name: Internet Archive (cu31924022944601)
-    url: https://archive.org/details/cu31924022944601
-    type: other
+    url: "https://archive.org/details/cu31924022944601"
+    type: "other"
   - name: Internet Archive (literaryhistoryo00frazuoft)
-    url: https://archive.org/details/literaryhistoryo00frazuoft
-    type: other
+    url: "https://archive.org/details/literaryhistoryo00frazuoft"
+    type: "other"
   - name: Possible DLI (Digital Library of India) scan
-    url: https://archive.org/details/in.ernet.dli.2015.55163
-    type: other
+    url: "https://archive.org/details/in.ernet.dli.2015.55163"
+    type: "other"
 references:
   - name: 'Wikipedia: Indian literature'
-    url: https://en.wikipedia.org/wiki/Indian_literature
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Indian_literature"
+    type: "wikipedia"
   - name: Open Library
-    url: https://openlibrary.org/works/OL1770552W
-    type: other
+    url: "https://openlibrary.org/works/OL1770552W"
+    type: "other"
   - name: 'Google Books'
-    url: https://books.google.com/books?id=literaryhistory
-    type: other
+    url: "https://books.google.com/books?id=literaryhistory"
+    type: "other"
 featured: false
 publishDate: 2025-11-16
 ---

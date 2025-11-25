@@ -11,54 +11,54 @@ description: |
   A. H. Francke's 1914 archaeological survey documents Buddhist monuments, rock inscriptions, and monasteries in Western Tibet and Ladakh. Part 1 covers the Shey Palace inscriptions, Alchi monastery complex with its wall paintings and sculptures, and rock carvings at Mulbekh and other sites along the Indus valley. Francke provides detailed descriptions of artistic styles, transliterations of Tibetan inscriptions, and photographs of architectural features. The work draws on field observations conducted during his missionary residence in the region from 1896-1908.
 
 collections:
-- historical-works
+- historical-literature
 sources:
   - name: Internet Archive
-    url: https://archive.org/details/in.gov.ignca.24281
-    type: other
+    url: "https://archive.org/details/in.gov.ignca.24281"
+    type: "other"
   - name: Internet Archive (in.ernet.dli.2015.104279)
-    url: https://archive.org/details/in.ernet.dli.2015.104279
-    type: other
+    url: "https://archive.org/details/in.ernet.dli.2015.104279"
+    type: "other"
   - name: Internet Archive (in.ernet.dli.2015.104275)
-    url: https://archive.org/details/in.ernet.dli.2015.104275
-    type: other
+    url: "https://archive.org/details/in.ernet.dli.2015.104275"
+    type: "other"
   - name: Internet Archive (in.gov.ignca.24327)
-    url: https://archive.org/details/in.gov.ignca.24327
-    type: other
+    url: "https://archive.org/details/in.gov.ignca.24327"
+    type: "other"
   - name: DLI Bengal collection pattern for colonial-era archaeology
-    url: https://archive.org/details/dli.bengal.10689.16987
-    type: other
-  - name: Internet Archive: Antiquities Of Indian Tibet Pt. 1
-    url: https://archive.org/details/in.ernet.dli.2015.530510
-    type: other
+    url: "https://archive.org/details/dli.bengal.10689.16987"
+    type: "other"
+  - name: "Internet Archive: Antiquities Of Indian Tibet Pt. 1"
+    url: "https://archive.org/details/in.ernet.dli.2015.530510"
+    type: "other"
 references:
   - name: 'Wikipedia: Ladakh'
-    url: https://en.wikipedia.org/wiki/Ladakh
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Ladakh"
+    type: "wikipedia"
   - name: 'Wikipedia: Tibetan Buddhism'
-    url: https://en.wikipedia.org/wiki/Tibetan_Buddhism
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Tibetan_Buddhism"
+    type: "wikipedia"
   - name: 'Wikipedia: Archaeological sites in India'
-    url: https://en.wikipedia.org/wiki/Archaeological_sites_in_India
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Archaeological_sites_in_India"
+    type: "wikipedia"
   - name: 'Wikipedia: A. H. Francke'
-    url: https://en.wikipedia.org/wiki/A._H._Francke
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/A._H._Francke"
+    type: "wikipedia"
   - name: 'Wikipedia: August Hermann Francke'
-    url: https://en.wikipedia.org/wiki/August_Hermann_Francke_(Tibetologist)
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/August_Hermann_Francke_(Tibetologist)"
+    type: "wikipedia"
   - name: 'Wikipedia: Alchi Monastery'
-    url: https://en.wikipedia.org/wiki/Alchi_Monastery
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Alchi_Monastery"
+    type: "wikipedia"
   - name: 'Open Library: Antiquities of Indian Tibet'
-    url: https://openlibrary.org/works/OL5851923W
-    type: other
+    url: "https://openlibrary.org/works/OL5851923W"
+    type: "other"
   - name: 'IGNCA: Francke Collection'
-    url: https://ignca.gov.in/
-    type: other
+    url: "https://ignca.gov.in/"
+    type: "other"
   - name: 'Wikipedia: Archaeological Survey of India publications'
-    url: https://en.wikipedia.org/wiki/Archaeological_Survey_of_India
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Archaeological_Survey_of_India"
+    type: "wikipedia"
 featured: false
 publishDate: 2025-11-16
 ---

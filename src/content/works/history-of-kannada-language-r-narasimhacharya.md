@@ -15,7 +15,7 @@ description: |
 collections:
   - linguistic-works
   - reference-works
-  - historical-works
+  - historical-literature
 sources:
   - name: Internet Archive (1934 University of Mysore edition)
     url: https://archive.org/details/HistoryKannadaLanguage

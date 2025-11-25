@@ -18,63 +18,63 @@ collections:
 - classical-literature
 sources:
 - name: 'Internet Archive: Skandams 1 & 2 (Pratama & Dwitiya)'
-  url: https://archive.org/details/12BhagavatamPratamaDwitiyaSkandams
-  type: other
+  url: "https://archive.org/details/12BhagavatamPratamaDwitiyaSkandams"
+  type: "other"
 - name: 'Internet Archive: Skandam 3 (Tritiya)'
-  url: https://archive.org/details/3BhagavatamTritiyaSkandam
-  type: other
+  url: "https://archive.org/details/3BhagavatamTritiyaSkandam"
+  type: "other"
 - name: 'Internet Archive: Skandam 4 (Chaturtha)'
-  url: https://archive.org/details/4BhagavatamChadurtaSkandam
-  type: other
+  url: "https://archive.org/details/4BhagavatamChadurtaSkandam"
+  type: "other"
 - name: 'Internet Archive: Skandams 5 & 6 (Panchama & Shashta)'
-  url: https://archive.org/details/56BhagavatamPanchamaShashtaSkandams
-  type: other
+  url: "https://archive.org/details/56BhagavatamPanchamaShashtaSkandams"
+  type: "other"
 - name: 'Internet Archive: Skandams 7 & 8 (Saptama & Ashtama)'
-  url: https://archive.org/details/78BhagavatamSaptamaAshtamaSkandams
-  type: other
+  url: "https://archive.org/details/78BhagavatamSaptamaAshtamaSkandams"
+  type: "other"
 - name: 'Internet Archive: Skandam 9 (Navama)'
-  url: https://archive.org/details/9BhagavatamNavamaSkandam
-  type: other
+  url: "https://archive.org/details/9BhagavatamNavamaSkandam"
+  type: "other"
 - name: 'Internet Archive: Skandam 10 Part 1 (Dashama Poorva)'
-  url: https://archive.org/details/10Part1BhagavatamDashamaSkandamPoorvaBa
-  type: other
+  url: "https://archive.org/details/10Part1BhagavatamDashamaSkandamPoorvaBa"
+  type: "other"
 - name: 'Internet Archive: Skandam 10 Part 2 (Dashama Uttara)'
-  url: https://archive.org/details/10Part2BhagavatamDashamaSkandamUttaraartam
-  type: other
+  url: "https://archive.org/details/10Part2BhagavatamDashamaSkandamUttaraartam"
+  type: "other"
 - name: 'Internet Archive: Skandams 11 & 12 (Ekadasha & Dwadasha)'
-  url: https://archive.org/details/1112BhagavatamEkaadashaDwadashaSkandams
-  type: other
+  url: "https://archive.org/details/1112BhagavatamEkaadashaDwadashaSkandams"
+  type: "other"
 references:
 - name: 'Wikipedia: Bhagavata Purana (English)'
-  url: https://en.wikipedia.org/wiki/Bhagavata_Purana
-  type: wikipedia
+  url: "https://en.wikipedia.org/wiki/Bhagavata_Purana"
+  type: "wikipedia"
 - name: 'Tamil Wikipedia: பாகவதம் (புராணம்)'
-  url: https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%B5%E0%AE%A4%E0%AE%AE%E0%AF%8D_(%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AE%BE%E0%AE%A3%E0%AE%AE%E0%AF%8D)
-  type: wikipedia
+  url: "https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%B5%E0%AE%A4%E0%AE%AE%E0%AF%8D_(%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AE%BE%E0%AE%A3%E0%AE%AE%E0%AF%8D)"
+  type: "wikipedia"
 - name: 'Wikipedia: Vaishnavism'
-  url: https://en.wikipedia.org/wiki/Vaishnavism
-  type: wikipedia
+  url: "https://en.wikipedia.org/wiki/Vaishnavism"
+  type: "wikipedia"
 - name: 'Wikipedia: Tamil literature'
-  url: https://en.wikipedia.org/wiki/Tamil_literature
-  type: wikipedia
+  url: "https://en.wikipedia.org/wiki/Tamil_literature"
+  type: "wikipedia"
 - name: 'Wikipedia: Krishna'
-  url: https://en.wikipedia.org/wiki/Krishna
-  type: wikipedia
+  url: "https://en.wikipedia.org/wiki/Krishna"
+  type: "wikipedia"
 - name: 'Wikipedia: Puranas'
-  url: https://en.wikipedia.org/wiki/Puranas
-  type: wikipedia
+  url: "https://en.wikipedia.org/wiki/Puranas"
+  type: "wikipedia"
 - name: 'Wikisource: Bhagavata Purana (Sanskrit)'
-  url: https://sa.wikisource.org/wiki/श्रीमद्भागवतपुराणम्
-  type: other
+  url: "https://sa.wikisource.org/wiki/श्रीमद्भागवतपुराणम्"
+  type: "other"
 - name: 'Acharya.org: Purana Texts Collection'
-  url: https://acharya.org/bk/index.php?Type=ab&allByCat&Name=Puranam
-  type: other
+  url: "https://acharya.org/bk/index.php?Type=ab&allByCat&Name=Puranam"
+  type: "other"
 - name: 'Open Library: Bhagavata Purana'
-  url: https://openlibrary.org/search?q=Bhagavata+Purana
-  type: other
+  url: "https://openlibrary.org/search?q=Bhagavata+Purana"
+  type: "other"
 - name: 'Open Library: Tamil Bhagavatam Narasimhacharya'
-  url: https://openlibrary.org/search?q=Tamil+Bhagavatam+Narasimhacharya
-  type: other
+  url: "https://openlibrary.org/search?q=Tamil+Bhagavatam+Narasimhacharya"
+  type: "other"
 featured: true
 publishDate: 2025-11-16
 ---

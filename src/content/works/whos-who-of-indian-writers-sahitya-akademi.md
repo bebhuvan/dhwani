@@ -15,27 +15,27 @@ collections:
   - reference-works
 sources:
   - name: 'Internet Archive: DLI Scan (446 pages)'
-    url: https://archive.org/details/in.ernet.dli.2015.278465
-    type: other
+    url: "https://archive.org/details/in.ernet.dli.2015.278465"
+    type: "other"
   - name: 'Internet Archive: Alternative Edition'
-    url: https://archive.org/details/whoswhoofindianw0000sahi
-    type: other
+    url: "https://archive.org/details/whoswhoofindianw0000sahi"
+    type: "other"
 references:
   - name: 'Wikipedia: Sahitya Akademi'
-    url: https://en.wikipedia.org/wiki/Sahitya_Akademi
-    type: wikipedia
-  - name: 'Open Library: Who''s Who of Indian Writers'
-    url: https://openlibrary.org/works/OL29330405W
-    type: other
+    url: "https://en.wikipedia.org/wiki/Sahitya_Akademi"
+    type: "wikipedia"
+  - name: "Open Library: Who's Who of Indian Writers"
+    url: "https://openlibrary.org/works/OL29330405W"
+    type: "other"
   - name: 'Sahitya Akademi Official Website'
-    url: https://sahitya-akademi.gov.in
-    type: other
+    url: "https://sahitya-akademi.gov.in"
+    type: "other"
   - name: 'Sahitya Akademi: Index of Publications'
-    url: https://sahitya-akademi.gov.in/publications/index_of_publication.jsp
-    type: other
+    url: "https://sahitya-akademi.gov.in/publications/index_of_publication.jsp"
+    type: "other"
   - name: 'Wikipedia: Sahitya Akademi Award'
-    url: https://en.wikipedia.org/wiki/Sahitya_Akademi_Award
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Sahitya_Akademi_Award"
+    type: "wikipedia"
 featured: false
 publishDate: 2025-11-23
 ---

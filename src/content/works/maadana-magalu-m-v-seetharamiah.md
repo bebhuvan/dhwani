@@ -14,27 +14,27 @@ description: |
 
 collections:
   - modern-literature
-  - regional-languages
+  - regional-literature
 sources:
   - name: Internet Archive (Digital Library of India)
-    url: https://archive.org/details/in.ernet.dli.2015.362820
-    type: other
+    url: "https://archive.org/details/in.ernet.dli.2015.362820"
+    type: "other"
 references:
   - name: 'Wikipedia: M. V. Seetharamiah'
-    url: https://en.wikipedia.org/wiki/M._V._Seetharamiah
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/M._V._Seetharamiah"
+    type: "wikipedia"
   - name: 'Kannada Wikipedia: ಎಂ.ವಿ.ಸೀತಾರಾಮಯ್ಯ'
-    url: https://kn.wikipedia.org/wiki/ಎಂ.ವಿ.ಸೀತಾರಾಮಯ್ಯ
-    type: wikipedia
+    url: "https://kn.wikipedia.org/wiki/ಎಂ.ವಿ.ಸೀತಾರಾಮಯ್ಯ"
+    type: "wikipedia"
   - name: 'Wikipedia: Modern Kannada literature'
-    url: https://en.wikipedia.org/wiki/Modern_Kannada_literature
-    type: wikipedia
-  - name: 'Kannada Wikisource: Kavirajamarga (mentions author''s scholarship)'
-    url: https://kn.wikisource.org/wiki/ಪುಟ:ಕವಿರಾಜ_ಮಾರ್ಗಂ.pdf/೫೧೫
-    type: wikisource
+    url: "https://en.wikipedia.org/wiki/Modern_Kannada_literature"
+    type: "wikipedia"
+  - name: "Kannada Wikisource: Kavirajamarga (mentions author's scholarship)"
+    url: "https://kn.wikisource.org/wiki/ಪುಟ:ಕವಿರಾಜ_ಮಾರ್ಗಂ.pdf/೫೧೫"
+    type: "wikisource"
   - name: 'Open Library: Search for Maadana Magalu'
-    url: https://openlibrary.org/search?q=Maadana+Magalu+M.V.+Seetharamiah
-    type: other
+    url: "https://openlibrary.org/search?q=Maadana+Magalu+M.V.+Seetharamiah"
+    type: "other"
 featured: false
 publishDate: 2025-11-23
 ---

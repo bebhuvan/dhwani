@@ -14,24 +14,24 @@ description: |
 
 collections:
   - modern-literature
-  - regional-languages
+  - regional-literature
 sources:
   - name: Internet Archive (Digital Library of India)
-    url: https://archive.org/details/in.ernet.dli.2015.364795
-    type: other
+    url: "https://archive.org/details/in.ernet.dli.2015.364795"
+    type: "other"
 references:
   - name: 'Kannada Wikipedia: ಅ.ನ.ಕೃಷ್ಣರಾಯ (A. N. Krishnarao)'
-    url: https://kn.wikipedia.org/wiki/ಅ.ನ.ಕೃಷ್ಣರಾಯ
-    type: wikipedia
+    url: "https://kn.wikipedia.org/wiki/ಅ.ನ.ಕೃಷ್ಣರಾಯ"
+    type: "wikipedia"
   - name: 'Kannada Wikisource: Mysore University Encyclopedia entry on A. N. Krishnarao'
-    url: https://kn.wikisource.org/wiki/ಮೈಸೂರು_ವಿಶ್ವವಿದ್ಯಾನಿಲಯ_ವಿಶ್ವಕೋಶ/ಕೃಷ್ಣರಾಯ,_ಅ_ನ
-    type: wikisource
+    url: "https://kn.wikisource.org/wiki/ಮೈಸೂರು_ವಿಶ್ವವಿದ್ಯಾನಿಲಯ_ವಿಶ್ವಕೋಶ/ಕೃಷ್ಣರಾಯ,_ಅ_ನ"
+    type: "wikisource"
   - name: 'Wikipedia: Modern Kannada literature'
-    url: https://en.wikipedia.org/wiki/Modern_Kannada_literature
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Modern_Kannada_literature"
+    type: "wikipedia"
   - name: 'Open Library: Search for Jeevanadi'
-    url: https://openlibrary.org/search?q=Jeevanadi+A.N.+Krishnarao
-    type: other
+    url: "https://openlibrary.org/search?q=Jeevanadi+A.N.+Krishnarao"
+    type: "other"
 featured: false
 publishDate: 2025-11-23
 ---

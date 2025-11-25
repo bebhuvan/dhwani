@@ -12,60 +12,60 @@ description: |
   Pramatha Nath Bose's 1894 work examines Hindu society and institutions during the 19th century under British administration. The text analyzes changes in education systems, religious practices, land tenure, caste structures, and economic conditions. Drawing on government reports, census data, and contemporary observations, Bose documents transformations in Indian social organization, intellectual life, and material culture. The work represents early indigenous historiography by an Indian geologist and scholar engaging with colonial-era social changes through empirical documentation.
 
 collections:
-- historical-works
+- historical-literature
 sources:
   - name: Internet Archive
-    url: https://archive.org/details/ahistoryhinduci00bosegoog
-    type: other
+    url: "https://archive.org/details/ahistoryhinduci00bosegoog"
+    type: "other"
   - name: Internet Archive (historyofhinduci02boseuoft)
-    url: https://archive.org/details/historyofhinduci02boseuoft
-    type: other
+    url: "https://archive.org/details/historyofhinduci02boseuoft"
+    type: "other"
   - name: Internet Archive (ahistoryhinduci05bosegoog)
-    url: https://archive.org/details/ahistoryhinduci05bosegoog
-    type: other
+    url: "https://archive.org/details/ahistoryhinduci05bosegoog"
+    type: "other"
   - name: Internet Archive (dli.ernet.242446)
-    url: https://archive.org/details/dli.ernet.242446
-    type: other
+    url: "https://archive.org/details/dli.ernet.242446"
+    type: "other"
   - name: Likely Volume 1 scan
-    url: https://archive.org/details/historyofhinduci01bose
-    type: other
-  - name: Internet Archive: History Of Hindu Civilisation During British Rule
-    url: https://archive.org/details/in.ernet.dli.2015.213178
-    type: other
-  - name: Internet Archive: A History Of Hindu Civilisation During British Rule Vol Iii
-    url: https://archive.org/details/in.ernet.dli.2015.174316
-    type: other
-  - name: Internet Archive: A History Of Hindu Civilisation During British Rule Vol-3
-    url: https://archive.org/details/AHistoryOfHinduCivilisationDuringBritishRuleVol3
-    type: other
-  - name: Internet Archive: A History of Hindu Civilisation During British Rule
-    url: https://archive.org/details/ahistoryhinduci07bosegoog
-    type: other
-  - name: Internet Archive: A History of Hindu Civilisation During British Rule
-    url: https://archive.org/details/ahistoryhinduci02bosegoog
-    type: other
+    url: "https://archive.org/details/historyofhinduci01bose"
+    type: "other"
+  - name: "Internet Archive: History Of Hindu Civilisation During British Rule"
+    url: "https://archive.org/details/in.ernet.dli.2015.213178"
+    type: "other"
+  - name: "Internet Archive: A History Of Hindu Civilisation During British Rule Vol Iii"
+    url: "https://archive.org/details/in.ernet.dli.2015.174316"
+    type: "other"
+  - name: "Internet Archive: A History Of Hindu Civilisation During British Rule Vol-3"
+    url: "https://archive.org/details/AHistoryOfHinduCivilisationDuringBritishRuleVol3"
+    type: "other"
+  - name: "Internet Archive: A History of Hindu Civilisation During British Rule"
+    url: "https://archive.org/details/ahistoryhinduci07bosegoog"
+    type: "other"
+  - name: "Internet Archive: A History of Hindu Civilisation During British Rule"
+    url: "https://archive.org/details/ahistoryhinduci02bosegoog"
+    type: "other"
 references:
   - name: 'Wikipedia: British Raj'
-    url: https://en.wikipedia.org/wiki/British_Raj
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/British_Raj"
+    type: "wikipedia"
   - name: 'Wikipedia: Pramatha Nath Bose'
-    url: https://en.wikipedia.org/wiki/Pramatha_Nath_Bose
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Pramatha_Nath_Bose"
+    type: "wikipedia"
   - name: 'Wikipedia: Indian historiography'
-    url: https://en.wikipedia.org/wiki/Indian_historiography
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Indian_historiography"
+    type: "wikipedia"
   - name: Open Library
-    url: https://openlibrary.org/works/OL67794W
-    type: other
+    url: "https://openlibrary.org/works/OL67794W"
+    type: "other"
   - name: 'Wikidata entry for Pramatha Nath Bose'
-    url: https://www.wikidata.org/wiki/Q7238475
-    type: other
+    url: "https://www.wikidata.org/wiki/Q7238475"
+    type: "other"
   - name: 'Google Books'
-    url: https://books.google.com/books?id=historyofhinducivilisation
-    type: other
+    url: "https://books.google.com/books?id=historyofhinducivilisation"
+    type: "other"
   - name: 'Wikipedia: Historiography of India'
-    url: https://en.wikipedia.org/wiki/Historiography_of_India
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Historiography_of_India"
+    type: "wikipedia"
 featured: false
 publishDate: 2025-11-16
 ---

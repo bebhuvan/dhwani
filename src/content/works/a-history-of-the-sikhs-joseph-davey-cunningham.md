@@ -12,42 +12,42 @@ description: |
   Cunningham's 1849 work (reprinted 1918) traces Sikh history from Guru Nanak's birth in 1469 through the British annexation of Punjab in 1849. The text examines the ten Gurus, the formation of the Khalsa, Ranjit Singh's empire, and the Anglo-Sikh Wars. Drawing on Persian chronicles, Sikh manuscripts, and eyewitness accounts from Cunningham's service in Punjab, it provides detailed military and political analysis. The work's sympathetic treatment led to Cunningham's dismissal from the East India Company.
 
 collections:
-- historical-works
+- historical-literature
 sources:
   - name: Internet Archive
-    url: https://archive.org/details/in.ernet.dli.2015.31113
-    type: other
+    url: "https://archive.org/details/in.ernet.dli.2015.31113"
+    type: "other"
   - name: Internet Archive (ahistorysikhsfr00cunngoog)
-    url: https://archive.org/details/ahistorysikhsfr00cunngoog
-    type: other
+    url: "https://archive.org/details/ahistorysikhsfr00cunngoog"
+    type: "other"
   - name: Internet Archive (historyofsikhsfr00cunn_0)
-    url: https://archive.org/details/historyofsikhsfr00cunn_0
-    type: other
+    url: "https://archive.org/details/historyofsikhsfr00cunn_0"
+    type: "other"
   - name: Internet Archive (historyofsikhsfr01cunn)
-    url: https://archive.org/details/historyofsikhsfr01cunn
-    type: other
+    url: "https://archive.org/details/historyofsikhsfr01cunn"
+    type: "other"
   - name: DLI Bengal collection identifier
-    url: https://archive.org/details/dli.bengal.10689.16178
-    type: other
+    url: "https://archive.org/details/dli.bengal.10689.16178"
+    type: "other"
 references:
   - name: 'Wikipedia: Sikh history'
-    url: https://en.wikipedia.org/wiki/Sikh_history
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Sikh_history"
+    type: "wikipedia"
   - name: 'Wikipedia: Joseph Davey Cunningham'
-    url: https://en.wikipedia.org/wiki/Joseph_Davey_Cunningham
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Joseph_Davey_Cunningham"
+    type: "wikipedia"
   - name: 'Wikipedia: Sikhism'
-    url: https://en.wikipedia.org/wiki/Sikhism
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Sikhism"
+    type: "wikipedia"
   - name: Open Library
-    url: https://openlibrary.org/search?q=History+of+Sikhs+Cunningham
-    type: other
+    url: "https://openlibrary.org/search?q=History+of+Sikhs+Cunningham"
+    type: "other"
   - name: 'Google Books'
-    url: https://books.google.com/books?id=OCLJAAAAMAAJ
-    type: other
+    url: "https://books.google.com/books?id=OCLJAAAAMAAJ"
+    type: "other"
   - name: 'Sikh Wiki'
-    url: https://www.sikhiwiki.org/index.php/Joseph_Davey_Cunningham
-    type: other
+    url: "https://www.sikhiwiki.org/index.php/Joseph_Davey_Cunningham"
+    type: "other"
 featured: false
 publishDate: 2025-11-16
 ---

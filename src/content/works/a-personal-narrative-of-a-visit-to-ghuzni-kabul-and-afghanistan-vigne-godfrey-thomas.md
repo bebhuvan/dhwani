@@ -11,57 +11,57 @@ description: |
   Vigne's 1840 account documents his travels through Afghanistan during 1836-1838, covering Ghazni, Kabul, and surrounding regions. The narrative includes observations on Afghan tribal structures, architecture, geography, and political conditions preceding the First Anglo-Afghan War. Vigne describes urban centers, rural landscapes, and interactions with local rulers including Dost Mohammad Khan. The work contains ethnographic details on Pashtun and other communities, notes on fortifications and historical monuments, and reflects British strategic interests in the region during the Great Game era.
 
 collections:
-- historical-works
+- historical-literature
 sources:
   - name: Internet Archive (personalnarrativ00vign)
-    url: https://archive.org/details/personalnarrativ00vign
-    type: other
+    url: "https://archive.org/details/personalnarrativ00vign"
+    type: "other"
   - name: Internet Archive (personalnarrativ0000vign)
-    url: https://archive.org/details/personalnarrativ0000vign
-    type: other
+    url: "https://archive.org/details/personalnarrativ0000vign"
+    type: "other"
   - name: Internet Archive (32882019280620-apersonalnarrat)
-    url: https://archive.org/details/32882019280620-apersonalnarrat
-    type: other
+    url: "https://archive.org/details/32882019280620-apersonalnarrat"
+    type: "other"
   - name: Potential DLI scan of Vigne's Afghanistan narrative
-    url: https://archive.org/details/in.ernet.dli.2015.97887
-    type: other
-  - name: Internet Archive: A personal narrative of a visit to Ghuzni, Kabul, and Afghanistan, and of a residence at the court of Dost Mohamed, with notices of Runjit Sing, Khiva, and the Russian expedition
-    url: https://archive.org/details/apersonalnarrat01vigngoog
-    type: other
-  - name: Internet Archive: A personal narrative of a visit to Ghuzni, Kabul, and Afghanistan and of a residence at the court of Dost Mohamed with notices of Runjit Sing, Khiva and the Russian edpedition
-    url: https://archive.org/details/personalnarrativ00gtvi
-    type: other
+    url: "https://archive.org/details/in.ernet.dli.2015.97887"
+    type: "other"
+  - name: "Internet Archive: A personal narrative of a visit to Ghuzni, Kabul, and Afghanistan, and of a residence at the court of Dost Mohamed, with notices of Runjit Sing, Khiva, and the Russian expedition"
+    url: "https://archive.org/details/apersonalnarrat01vigngoog"
+    type: "other"
+  - name: "Internet Archive: A personal narrative of a visit to Ghuzni, Kabul, and Afghanistan and of a residence at the court of Dost Mohamed with notices of Runjit Sing, Khiva and the Russian edpedition"
+    url: "https://archive.org/details/personalnarrativ00gtvi"
+    type: "other"
 references:
   - name: 'Wikipedia: First Anglo-Afghan War'
-    url: https://en.wikipedia.org/wiki/First_Anglo-Afghan_War
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/First_Anglo-Afghan_War"
+    type: "wikipedia"
   - name: 'Wikipedia: Godfrey Thomas Vigne'
-    url: https://en.wikipedia.org/wiki/Godfrey_Thomas_Vigne
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Godfrey_Thomas_Vigne"
+    type: "wikipedia"
   - name: 'Wikipedia: Afghanistan'
-    url: https://en.wikipedia.org/wiki/Afghanistan
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Afghanistan"
+    type: "wikipedia"
   - name: 'Wikipedia: British India'
-    url: https://en.wikipedia.org/wiki/British_India
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/British_India"
+    type: "wikipedia"
   - name: Open Library
-    url: https://openlibrary.org/works/OL4946895W
-    type: other
+    url: "https://openlibrary.org/works/OL4946895W"
+    type: "other"
   - name: 'Wikipedia: Godfrey Thomas Vigne'
-    url: https://en.wikipedia.org/wiki/Godfrey_Thomas_Vigne
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Godfrey_Thomas_Vigne"
+    type: "wikipedia"
   - name: 'Wikipedia: First Anglo-Afghan War'
-    url: https://en.wikipedia.org/wiki/First_Anglo-Afghan_War
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/First_Anglo-Afghan_War"
+    type: "wikipedia"
   - name: 'Wikipedia: Dost Mohammad Khan'
-    url: https://en.wikipedia.org/wiki/Dost_Mohammad_Khan
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Dost_Mohammad_Khan"
+    type: "wikipedia"
   - name: 'Open Library: A Personal Narrative'
-    url: https://openlibrary.org/works/OL4946895W
-    type: other
+    url: "https://openlibrary.org/works/OL4946895W"
+    type: "other"
   - name: 'Google Books: Vigne Afghanistan 1840'
-    url: https://books.google.com/books?q=vigne+personal+narrative+ghuzni+kabul
-    type: other
+    url: "https://books.google.com/books?q=vigne+personal+narrative+ghuzni+kabul"
+    type: "other"
 featured: false
 publishDate: 2025-11-16
 ---

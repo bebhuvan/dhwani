@@ -12,43 +12,43 @@ description: |
   Abul Fazl's Ain-i-Akbari, completed circa 1598, documents Emperor Akbar's administration through systematic accounts of imperial institutions, military organization, household management, and provincial governance. This work entry provides access to all three volumes of the English translation: Volume 1 (H. Blochmann, 1873) covers the imperial establishment, including administrative ranks (mansabdari system), military departments, mint operations, court customs, and detailed biographical notices of Akbar's nobles and officials. Volume 2 continues with provincial administration and revenue systems. Volume 3 (H. S. Jarrett, 1894) contains geographical and statistical information about the empire's territories. Together, these volumes serve as the primary administrative and statistical record of the Mughal Empire during Akbar's reign (1556-1605).
 
 collections:
-- historical-works
+- historical-literature
 - reference-works
 sources:
   - name: 'Internet Archive: Volume 1 (H. Blochmann translation, 1873)'
-    url: https://archive.org/details/ain-i-akbari-administration-of-akbar-volume-1
-    type: other
+    url: "https://archive.org/details/ain-i-akbari-administration-of-akbar-volume-1"
+    type: "other"
   - name: 'Internet Archive: Volume 2'
-    url: https://archive.org/details/ain-i-akbari-administration-of-akbar-volume-2
-    type: other
+    url: "https://archive.org/details/ain-i-akbari-administration-of-akbar-volume-2"
+    type: "other"
   - name: 'Internet Archive: Volume 3 (H. S. Jarrett translation, 1894)'
-    url: https://archive.org/details/in.ernet.dli.2015.46757
-    type: other
+    url: "https://archive.org/details/in.ernet.dli.2015.46757"
+    type: "other"
   - name: 'Internet Archive: DLI scan'
-    url: https://archive.org/details/in.ernet.dli.2015.94336
-    type: other
+    url: "https://archive.org/details/in.ernet.dli.2015.94336"
+    type: "other"
 references:
   - name: 'Wikipedia: Abul Fazl'
-    url: https://en.wikipedia.org/wiki/Abul_Fazl
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Abul_Fazl"
+    type: "wikipedia"
   - name: 'Wikipedia: Mughal Empire'
-    url: https://en.wikipedia.org/wiki/Mughal_Empire
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Mughal_Empire"
+    type: "wikipedia"
   - name: 'Wikipedia: Akbar'
-    url: https://en.wikipedia.org/wiki/Akbar
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Akbar"
+    type: "wikipedia"
   - name: 'Wikipedia: Ain-i-Akbari'
-    url: https://en.wikipedia.org/wiki/Ain-i-Akbari
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Ain-i-Akbari"
+    type: "wikipedia"
   - name: 'Open Library: Ain-i-Akbari'
-    url: https://openlibrary.org/search?q=Ain-i-Akbari+Abul+Fazl
-    type: other
+    url: "https://openlibrary.org/search?q=Ain-i-Akbari+Abul+Fazl"
+    type: "other"
   - name: 'Wikipedia: H. Blochmann (translator)'
-    url: https://en.wikipedia.org/wiki/Henry_Blochmann
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Henry_Blochmann"
+    type: "wikipedia"
   - name: 'Google Books: Ain-i-Akbari Volume 1'
-    url: https://books.google.com/books?id=DI8-AAAAcAAJ
-    type: other
+    url: "https://books.google.com/books?id=DI8-AAAAcAAJ"
+    type: "other"
 featured: false
 publishDate: 2025-11-16
 ---

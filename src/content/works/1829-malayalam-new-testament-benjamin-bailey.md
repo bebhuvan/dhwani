@@ -16,30 +16,30 @@ collections:
 - linguistic-works
 sources:
   - name: Internet Archive (1829_Malayalam_NewTestament)
-    url: https://archive.org/details/1829_Malayalam_NewTestament
-    type: other
+    url: "https://archive.org/details/1829_Malayalam_NewTestament"
+    type: "other"
   - name: Potential Digital Library of India scan
-    url: https://archive.org/details/dli.bengal.10689.17836
-    type: other
+    url: "https://archive.org/details/dli.bengal.10689.17836"
+    type: "other"
 references:
   - name: 'Wikipedia: Malayalam literature'
-    url: https://en.wikipedia.org/wiki/Malayalam_literature
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Malayalam_literature"
+    type: "wikipedia"
   - name: 'Wikipedia: Benjamin Bailey (missionary)'
-    url: https://en.wikipedia.org/wiki/Benjamin_Bailey_(missionary)
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Benjamin_Bailey_(missionary)"
+    type: "wikipedia"
   - name: 'Wikipedia: Bible translations into Malayalam'
-    url: https://en.wikipedia.org/wiki/Bible_translations_into_Malayalam
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Bible_translations_into_Malayalam"
+    type: "wikipedia"
   - name: 'Wikisource: Malayalam Bible texts'
-    url: https://ml.wikisource.org/
-    type: wikisource
+    url: "https://ml.wikisource.org/"
+    type: "wikisource"
   - name: 'Open Library: 1829 Malayalam New Testament'
-    url: https://openlibrary.org/search?q=Malayalam+New+Testament+Benjamin+Bailey
-    type: other
+    url: "https://openlibrary.org/search?q=Malayalam+New+Testament+Benjamin+Bailey"
+    type: "other"
   - name: 'Wikipedia: CMS Press Kottayam'
-    url: https://en.wikipedia.org/wiki/CMS_Press
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/CMS_Press"
+    type: "wikipedia"
 featured: false
 publishDate: 2025-11-16
 ---

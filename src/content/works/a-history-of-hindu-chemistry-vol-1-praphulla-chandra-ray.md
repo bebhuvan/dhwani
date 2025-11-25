@@ -11,51 +11,51 @@ description: |
   Praphulla Chandra Ray's 1903 study traces chemical knowledge in ancient and medieval India through Sanskrit texts including the Charaka Samhita, Sushruta Samhita, and Rasarnava. Volume 1 covers alchemical theory, mercurial preparations, metallic compounds, pharmaceutical formulations, and technological processes like distillation and calcination. Ray provides Sanskrit quotations with translations, analyzes chemical terminology, and compares Indian practices with Greek, Arabic, and Chinese traditions. The work includes chapters on rasashastra (alchemy), dhatuvada (metallurgy), and the historical development of chemical knowledge from Vedic times through medieval rasavidya.
 
 collections:
-- historical-works
+- historical-literature
 sources:
   - name: Digital Library of India
-    url: https://archive.org/details/in.ernet.dli.2015.39319
-    type: other
+    url: "https://archive.org/details/in.ernet.dli.2015.39319"
+    type: "other"
   - name: Internet Archive (in.ernet.dli.2015.238540)
-    url: https://archive.org/details/in.ernet.dli.2015.238540
-    type: other
+    url: "https://archive.org/details/in.ernet.dli.2015.238540"
+    type: "other"
   - name: Internet Archive (dli.bengal.10689.20692)
-    url: https://archive.org/details/dli.bengal.10689.20692
-    type: other
+    url: "https://archive.org/details/dli.bengal.10689.20692"
+    type: "other"
   - name: Internet Archive (history-of-hindu-chemistry-vol-2)
-    url: https://archive.org/details/history-of-hindu-chemistry-vol-2
-    type: other
-  - name: Internet Archive: A History Of Hindu Chemistry, Vol. II
-    url: https://archive.org/details/AHistoryOfHinduChemistryVol.II
-    type: other
-  - name: Internet Archive: History Of Hindu Chemistry, Vol. 1
-    url: https://archive.org/details/HistoryOfHinduChemistryVol.1
-    type: other
-  - name: Internet Archive: A History of Hindu Chemistry-Vol-2
-    url: https://archive.org/details/a-history-of-hindu-chemistry-vol-2
-    type: other
+    url: "https://archive.org/details/history-of-hindu-chemistry-vol-2"
+    type: "other"
+  - name: "Internet Archive: A History Of Hindu Chemistry, Vol. II"
+    url: "https://archive.org/details/AHistoryOfHinduChemistryVol.II"
+    type: "other"
+  - name: "Internet Archive: History Of Hindu Chemistry, Vol. 1"
+    url: "https://archive.org/details/HistoryOfHinduChemistryVol.1"
+    type: "other"
+  - name: "Internet Archive: A History of Hindu Chemistry-Vol-2"
+    url: "https://archive.org/details/a-history-of-hindu-chemistry-vol-2"
+    type: "other"
 references:
   - name: 'Wikipedia: Prafulla Chandra Ray'
-    url: https://en.wikipedia.org/wiki/Prafulla_Chandra_Ray
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Prafulla_Chandra_Ray"
+    type: "wikipedia"
   - name: 'Wikipedia: Science in India'
-    url: https://en.wikipedia.org/wiki/Science_in_India
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Science_in_India"
+    type: "wikipedia"
   - name: 'Open Library: A History of Hindu Chemistry'
-    url: https://openlibrary.org/works/OL2648563W
-    type: other
+    url: "https://openlibrary.org/works/OL2648563W"
+    type: "other"
   - name: 'Wikisource: Author page - Prafulla Chandra Ray'
-    url: https://en.wikisource.org/wiki/Author:Prafulla_Chandra_Ray
-    type: wikisource
+    url: "https://en.wikisource.org/wiki/Author:Prafulla_Chandra_Ray"
+    type: "wikisource"
   - name: 'Wikipedia: A History of Hindu Chemistry'
-    url: https://en.wikipedia.org/wiki/A_History_of_Hindu_Chemistry
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/A_History_of_Hindu_Chemistry"
+    type: "wikipedia"
   - name: 'Google Books: A History of Hindu Chemistry Vol. 1'
-    url: https://books.google.com/books?id=various_editions
-    type: other
-  - name: 'Biodiversity Heritage Library: Ray's scientific works'
-    url: https://www.biodiversitylibrary.org/creator/51077
-    type: other
+    url: "https://books.google.com/books?id=various_editions"
+    type: "other"
+  - name: "Biodiversity Heritage Library: Ray's scientific works"
+    url: "https://www.biodiversitylibrary.org/creator/51077"
+    type: "other"
 featured: false
 publishDate: 2025-11-16
 ---

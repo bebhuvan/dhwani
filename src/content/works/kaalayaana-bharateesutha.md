@@ -14,21 +14,21 @@ description: |
 
 collections:
   - modern-literature
-  - regional-languages
+  - regional-literature
 sources:
   - name: Internet Archive (Digital Library of India)
-    url: https://archive.org/details/in.ernet.dli.2015.364539
-    type: other
+    url: "https://archive.org/details/in.ernet.dli.2015.364539"
+    type: "other"
 references:
   - name: 'Kannada Wikipedia: ಭಾರತೀಸುತ (Bharateesutha)'
-    url: https://kn.wikipedia.org/wiki/ಭಾರತೀಸುತ
-    type: wikipedia
+    url: "https://kn.wikipedia.org/wiki/ಭಾರತೀಸುತ"
+    type: "wikipedia"
   - name: 'Wikipedia: Kannada literature'
-    url: https://en.wikipedia.org/wiki/Kannada_literature
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Kannada_literature"
+    type: "wikipedia"
   - name: 'Open Library: Search for Kaalayaana'
-    url: https://openlibrary.org/search?q=Kaalayaana+Bharateesutha
-    type: other
+    url: "https://openlibrary.org/search?q=Kaalayaana+Bharateesutha"
+    type: "other"
 featured: false
 publishDate: 2025-11-23
 ---

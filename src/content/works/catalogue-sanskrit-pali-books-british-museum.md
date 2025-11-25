@@ -16,36 +16,36 @@ collections:
   - reference-works
 sources:
   - name: 'Internet Archive: Catalogue of Sanskrit and Pali Books'
-    url: https://archive.org/details/CatalogueOfSanskritAndPaliBooksIn
-    type: other
+    url: "https://archive.org/details/CatalogueOfSanskritAndPaliBooksIn"
+    type: "other"
   - name: 'Internet Archive: 1876-92 Acquisitions (Cecil Bendall)'
-    url: https://archive.org/details/cataloguesanskr00bendgoog
-    type: other
+    url: "https://archive.org/details/cataloguesanskr00bendgoog"
+    type: "other"
   - name: 'Internet Archive: Supplementary Catalogue 1892-1906'
-    url: https://archive.org/details/b24864158
-    type: other
+    url: "https://archive.org/details/b24864158"
+    type: "other"
   - name: 'Internet Archive: Sanskrit Manuscripts Catalogue (1902)'
-    url: https://archive.org/details/catalogueofsansk00brituoft
-    type: other
+    url: "https://archive.org/details/catalogueofsansk00brituoft"
+    type: "other"
 references:
   - name: 'Wikipedia: Cecil Bendall'
-    url: https://en.wikipedia.org/wiki/Cecil_Bendall
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Cecil_Bendall"
+    type: "wikipedia"
   - name: 'Wikipedia: British Museum'
-    url: https://en.wikipedia.org/wiki/British_Museum
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/British_Museum"
+    type: "wikipedia"
   - name: 'Wikisource: Dictionary of National Biography - Cecil Bendall'
-    url: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1912_supplement/Bendall,_Cecil
-    type: other
+    url: "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1912_supplement/Bendall,_Cecil"
+    type: "other"
   - name: 'HathiTrust: Catalogue Record'
-    url: https://catalog.hathitrust.org/Record/100807477
-    type: other
+    url: "https://catalog.hathitrust.org/Record/100807477"
+    type: "other"
   - name: 'British Library: Asian and African Collections - Sanskrit'
-    url: https://blogs.bl.uk/asian-and-african/sanskrit/
-    type: other
+    url: "https://blogs.bl.uk/asian-and-african/sanskrit/"
+    type: "other"
   - name: 'British Library: Oriental Manuscripts Guide'
-    url: https://bl.libguides.com/reference-services/asian-and-african-studies/introduction/oriental-manuscripts
-    type: other
+    url: "https://bl.libguides.com/reference-services/asian-and-african-studies/introduction/oriental-manuscripts"
+    type: "other"
 featured: false
 publishDate: 2025-11-23
 ---

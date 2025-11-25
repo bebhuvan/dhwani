@@ -8,7 +8,7 @@ description: |
   George Fletcher MacMunn's 1914 account of his experiences as a freelance soldier and traveler in Kashmir during the early 20th century. The work combines personal narrative with observations on Kashmir's geography, military history, political administration under Maharaja Pratap Singh, and social conditions. MacMunn describes his travels through the region, interactions with local populations and British residents, and provides ethnographic details about Kashmiri society, including religious practices, customs, and the economic conditions of the princely state during the late colonial period.
 
 collections:
-- historical-works
+- historical-literature
 sources:
   - name: "Internet Archive"
     url: "https://archive.org/details/freelanceinkashm00macmiala"
@@ -16,12 +16,12 @@ sources:
   - name: "Internet Archive (freelancekashmir00macmiala)"
     url: "https://archive.org/details/freelancekashmir00macmiala"
     type: "other"
-  - name: Possible DLI scan identifier pattern
-    url: https://archive.org/details/in.ernet.dli.2015.176543
-    type: other
-  - name: Internet Archive: A Freelance In Kashmir Second Edition
-    url: https://archive.org/details/in.ernet.dli.2015.284827
-    type: other
+  - name: "Possible DLI scan identifier pattern"
+    url: "https://archive.org/details/in.ernet.dli.2015.176543"
+    type: "other"
+  - name: "Internet Archive: A Freelance In Kashmir Second Edition"
+    url: "https://archive.org/details/in.ernet.dli.2015.284827"
+    type: "other"
 references:
   - name: "Wikipedia: Kashmir"
     url: "https://en.wikipedia.org/wiki/Kashmir"
@@ -32,19 +32,18 @@ references:
   - name: "Wikipedia: Princely states of India"
     url: "https://en.wikipedia.org/wiki/Princely_states_of_India"
     type: "wikipedia"
-  - name: "Wikipedia search"
   - name: 'Open Library: A freelance in Kashmir'
-    url: https://openlibrary.org/works/OL16480831W
-    type: other
+    url: "https://openlibrary.org/works/OL16480831W"
+    type: "other"
   - name: 'Wikipedia: Pratap Singh of Jammu and Kashmir'
-    url: https://en.wikipedia.org/wiki/Pratap_Singh_of_Jammu_and_Kashmir
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Pratap_Singh_of_Jammu_and_Kashmir"
+    type: "wikipedia"
   - name: 'Wikipedia: Kashmir Princely State'
-    url: https://en.wikipedia.org/wiki/Jammu_and_Kashmir_(princely_state)
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Jammu_and_Kashmir_(princely_state)"
+    type: "wikipedia"
   - name: 'Google Books'
-    url: https://books.google.com/books?id=freelance+kashmir+macmunn
-    type: other
+    url: "https://books.google.com/books?id=freelance+kashmir+macmunn"
+    type: "other"
 featured: false
 publishDate: 2025-11-16
 ---

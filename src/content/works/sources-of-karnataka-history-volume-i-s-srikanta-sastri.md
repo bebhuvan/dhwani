@@ -14,7 +14,7 @@ description: |
 
 collections:
   - reference-works
-  - historical-works
+  - historical-literature
 sources:
   - name: Internet Archive (Digital Library of India - C-DAK Kolkata scan)
     url: https://archive.org/details/in.ernet.dli.2015.95713

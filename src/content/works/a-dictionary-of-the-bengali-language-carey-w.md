@@ -17,27 +17,27 @@ collections:
 - regional-voices
 sources:
   - name: Internet Archive
-    url: https://archive.org/details/in.ernet.dli.2015.31090
-    type: other
+    url: "https://archive.org/details/in.ernet.dli.2015.31090"
+    type: "other"
   - name: Internet Archive (in.ernet.dli.2015.462171)
-    url: https://archive.org/details/in.ernet.dli.2015.462171
-    type: other
+    url: "https://archive.org/details/in.ernet.dli.2015.462171"
+    type: "other"
   - name: Internet Archive (in.ernet.dli.2015.547564)
-    url: https://archive.org/details/in.ernet.dli.2015.547564
-    type: other
+    url: "https://archive.org/details/in.ernet.dli.2015.547564"
+    type: "other"
 references:
   - name: 'Wikipedia: William Carey (missionary)'
-    url: https://en.wikipedia.org/wiki/William_Carey_(missionary)
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/William_Carey_(missionary)"
+    type: "wikipedia"
   - name: 'Wikipedia: Bengali language'
-    url: https://en.wikipedia.org/wiki/Bengali_language
-    type: wikipedia
+    url: "https://en.wikipedia.org/wiki/Bengali_language"
+    type: "wikipedia"
   - name: 'Open Library: A Dictionary of the Bengali Language'
-    url: https://openlibrary.org/works/OL8574359W
-    type: other
+    url: "https://openlibrary.org/works/OL8574359W"
+    type: "other"
   - name: 'Google Books: A Dictionary of the Bengali Language'
-    url: https://books.google.com/books?id=bengali+dictionary+carey+1826
-    type: other
+    url: "https://books.google.com/books?id=bengali+dictionary+carey+1826"
+    type: "other"
 featured: false
 publishDate: 2025-11-16
 ---
