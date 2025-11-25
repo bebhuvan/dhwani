@@ -51,7 +51,7 @@ references:
     url: "https://archive.org/details/LokayataAStudyInAncientIndianMaterialismDebiprasadChattopadhyaya"
     type: "other"
 featured: false
-publishDate: 2025-12-02
+publishDate: 2025-11-23
 ---
 
 ## Editorial Context and Scholarly Significance
