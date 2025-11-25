@@ -52,7 +52,7 @@ references:
     url: "https://iep.utm.edu/radhakri/"
     type: "other"
 featured: false
-publishDate: 2025-11-24
+publishDate: 2025-11-25
 ---
 
 ## Oxford Context and Spalding Professorship

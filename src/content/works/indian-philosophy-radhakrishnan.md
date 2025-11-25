@@ -64,7 +64,7 @@ references:
     url: "https://iep.utm.edu/radhakri/"
     type: "other"
 featured: false
-publishDate: 2025-11-23
+publishDate: 2025-11-25
 ---
 
 ## Historical Context and Publication

@@ -49,7 +49,7 @@ references:
     url: "https://en.wikipedia.org/wiki/Poompuhar"
     type: "wikipedia"
 featured: false
-publishDate: 2025-11-30
+publishDate: 2025-11-25
 ---
 
 ## Scholarly Context and Tamil Historical Research

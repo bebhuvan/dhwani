@@ -43,7 +43,7 @@ references:
     url: "https://archive.org/details/dli.ernet.505774"
     type: "other"
 featured: false
-publishDate: 2025-11-28
+publishDate: 2025-11-25
 ---
 
 ## Scholarly Context and Publication

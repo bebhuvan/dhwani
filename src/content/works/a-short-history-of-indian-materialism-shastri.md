@@ -50,7 +50,7 @@ references:
     url: "https://iep.utm.edu/indmat/"
     type: "other"
 featured: false
-publishDate: 2025-11-23
+publishDate: 2025-11-25
 ---
 
 ## Publication Context and Scholarly Significance

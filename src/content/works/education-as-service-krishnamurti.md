@@ -47,7 +47,7 @@ references:
     url: "https://openlibrary.org/authors/OL43148A/Jiddu_Krishnamurti"
     type: "other"
 featured: false
-publishDate: 2025-11-29
+publishDate: 2025-11-25
 ---
 
 ## Publication and Theosophical Context

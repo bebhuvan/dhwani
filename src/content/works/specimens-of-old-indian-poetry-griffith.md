@@ -46,7 +46,7 @@ references:
     url: "https://openlibrary.org/authors/OL208289A/Ralph_T._H._Griffith"
     type: "other"
 featured: false
-publishDate: 2025-11-27
+publishDate: 2025-11-25
 ---
 
 ## Publication Context and Victorian Orientalism

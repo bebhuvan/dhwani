@@ -53,7 +53,7 @@ references:
     url: "https://openlibrary.org/works/OL42642330W"
     type: "other"
 featured: false
-publishDate: 2025-11-26
+publishDate: 2025-11-25
 ---
 
 ## Publication Context and Editorial History
