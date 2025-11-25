@@ -1,71 +1,42 @@
 #!/bin/bash
 
-# Complete workflow: Wait for generation, then polish
-
-API_KEY="$1"
-
-if [ -z "$API_KEY" ]; then
-    echo "Usage: ./complete-workflow.sh YOUR_API_KEY"
-    exit 1
-fi
-
-export ANTHROPIC_API_KEY="$API_KEY"
-
-echo "╔══════════════════════════════════════════════════════════════╗"
-echo "║         Automated Description Generation + Polish            ║"
-echo "╚══════════════════════════════════════════════════════════════╝"
+echo "🔄 DHWANI COMPLETE LINK WORKFLOW"
+echo "================================="
 echo ""
 
-FINAL_DIR="/home/bhuvanesh.r/AA/A main projects/Dhwani files/new-dhwani/final-set2"
-EXPECTED_COUNT=84
-
-# Monitor generation progress
-echo "⏳ Waiting for description generation to complete..."
-echo "   Expected: $EXPECTED_COUNT files"
-echo ""
-
-while true; do
-    CURRENT_COUNT=$(ls "$FINAL_DIR"/*.md 2>/dev/null | wc -l)
-    PERCENT=$((CURRENT_COUNT * 100 / EXPECTED_COUNT))
-
-    printf "\r   Progress: %d/%d (%d%%)  " "$CURRENT_COUNT" "$EXPECTED_COUNT" "$PERCENT"
-
-    if [ "$CURRENT_COUNT" -ge "$EXPECTED_COUNT" ]; then
-        echo ""
-        echo ""
-        echo "✅ Description generation complete!"
-        break
-    fi
-
-    sleep 10
+# Step 1: Wait for validation to complete
+echo "⏳ Step 1: Waiting for link validation..."
+while pgrep -f "validate-links.cjs" > /dev/null; do
+  FILES_DONE=$(grep -c "📄" /tmp/link-validation-output.log 2>/dev/null || echo "0")
+  echo -ne "\r   🔍 Validated: $FILES_DONE/189 files..."
+  sleep 5
 done
-
 echo ""
-echo "⏳ Waiting 5 seconds for files to finalize..."
-sleep 5
-
-echo ""
-echo "╔══════════════════════════════════════════════════════════════╗"
-echo "║              Starting Polish Pass (Second Pass)              ║"
-echo "╚══════════════════════════════════════════════════════════════╝"
+echo "✅ Validation complete!"
 echo ""
 
-node polish-descriptions.js
+# Step 2: Run link cleanup
+echo "⏳ Step 2: Removing invalid links..."
+cd "/home/bhuvanesh.r/AA/A main projects/Dhwani files/new-dhwani"
+node fix-invalid-links.cjs
+echo ""
 
+# Step 3: Find good links
+echo "⏳ Step 3: Finding verified good alternative sources..."
+echo "   (This will take ~30 minutes for comprehensive search)"
 echo ""
-echo "╔══════════════════════════════════════════════════════════════╗"
-echo "║                    ALL PROCESSING COMPLETE                   ║"
-echo "╚══════════════════════════════════════════════════════════════╝"
+node find-good-links.cjs
 echo ""
-echo "📊 Final Summary:"
-echo "   • Set 1: 10 works (unique-works/)"
-echo "   • Set 2: 84 works (final-set2/)"
-echo "   • Total: 94 publication-ready works"
+
+# Step 4: Summary
+echo "================================="
+echo "✅ COMPLETE WORKFLOW FINISHED!"
+echo "================================="
 echo ""
-echo "📁 Next steps:"
-echo "   1. Review samples in final-set2/"
-echo "   2. Copy to production:"
-echo "      cp unique-works/*.md src/content/works/"
-echo "      cp final-set2/*.md src/content/works/"
-echo "   3. Build and deploy!"
+echo "📊 Results:"
+echo "  1. Invalid links removed (see link-validation-report.json)"
+echo "  2. Backups saved (see link-fix-backup/)"
+echo "  3. Good links found (see good-links-found.json)"
+echo ""
+echo "Next: Review good-links-found.json and add them to works"
 echo ""

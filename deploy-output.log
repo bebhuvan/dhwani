@@ -1,0 +1,25 @@
+
+> dhwani@2.0.0 deploy
+> npm run build && wrangler deploy
+
+
+> dhwani@2.0.0 build
+> npm run generate-og && astro build && npm run pagefind && npm run generate-related
+
+
+> dhwani@2.0.0 generate-og
+> node scripts/generate-og-image.js
+
+✅ OG image created successfully at public/og-image.jpg
+11:36:15 [content] Syncing content
+11:36:15 [WARN] [glob-loader] No files found matching "**/*{.md,.mdx},!**/_*/**/*{.md,.mdx},!**/_*{.md,.mdx}" in directory "src/content/authors"
+11:36:15 [WARN] [glob-loader] No files found matching "**/*{.md,.mdx},!**/_*/**/*{.md,.mdx},!**/_*{.md,.mdx}" in directory "src/content/collections"
+bad indentation of a mapping entry
+  Location:
+    /home/bhuvanesh.r/AA/A main projects/Dhwani files/new-dhwani/src/content/works/a-soldiers-experience-or-a-voice-from-the-ranks-showing-the-cost-of-war-in-blood-and-treasure-a.md:21:30
+  Stack trace:
+    at generateError (file:///home/bhuvanesh.r/AA/A%20main%20projects/Dhwani%20files/new-dhwani/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at readBlockMapping (file:///home/bhuvanesh.r/AA/A%20main%20projects/Dhwani%20files/new-dhwani/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at readBlockSequence (file:///home/bhuvanesh.r/AA/A%20main%20projects/Dhwani%20files/new-dhwani/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at readBlockMapping (file:///home/bhuvanesh.r/AA/A%20main%20projects/Dhwani%20files/new-dhwani/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at readDocument (file:///home/bhuvanesh.r/AA/A%20main%20projects/Dhwani%20files/new-dhwani/node_modules/js-yaml/dist/js-yaml.mjs:2715:3)

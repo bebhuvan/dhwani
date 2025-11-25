@@ -1,0 +1,66 @@
+{
+  "total": 188,
+  "processed": 188,
+  "succeeded": 180,
+  "failed": 8,
+  "flagged": [
+    {
+      "file": "a-soldier-s-daughter-and-other-stories-g-a-henty.md",
+      "reason": "British author's fiction set in India, not an Indian cultural or scholarly work. This is colonial adventure fiction written for British audiences, not a work of Indian Studies scholarship, Indian-language literature, or documentation of Indian knowledge systems. While it depicts India, it represents British popular literature about empire rather than preservation of Indian heritage."
+    },
+    {
+      "file": "american-primitive-music-with-especial-attention-to-the-songs-of-the-ojibways-frederick-russell-burt.md",
+      "reason": "This work focuses on Ojibway (Native American/First Nations) musical traditions from North America, not Indian subcontinent cultures. Despite the confusing 'Indian Music' genre tag, this concerns Indigenous peoples of the Great Lakes region (Minnesota, Ontario), not India. Not appropriate for Dhwani's focus on Indian public domain works."
+    },
+    {
+      "file": "an-appeal-to-christian-mothers-in-behalf-of-the-heathen-scudder-john.md",
+      "reason": "This is an American missionary text published in the United States, targeting American audiences for fundraising purposes. While it discusses India and contains observations about Tamil society, it is not an Indian publication, not written for Indian audiences, and does not represent Indian literary, scholarly, or cultural production. It is a Western work about India rather than an Indian work, falling outside Dhwani's mission to preserve Indian works in the public domain."
+    },
+    {
+      "file": "an-introduction-to-biology-for-students-india-r-e-lloyd.md",
+      "reason": "This is a Western-authored general biology textbook adapted for the Indian market, not a work about Indian heritage, culture, or knowledge systems. It represents imported Western scientific education rather than Indian intellectual traditions or regional scholarship. While pedagogically significant for Indian education history, it falls into the category of 'Western textbooks adapted for India' which should be excluded per guidelines."
+    }
+  ],
+  "errors": [
+    {
+      "file": "9-tamil-bhagavatam-navama-skandam-a-v-narasimhacharya.md",
+      "error": "Invalid API response format"
+    },
+    {
+      "file": "a-general-index-to-the-sacred-books-of-the-east-f-max-muller.md",
+      "error": "Invalid API response format"
+    },
+    {
+      "file": "a-practical-grammar-of-the-sanskrit-language-monier-monier-williams.md",
+      "error": "Invalid API response format"
+    },
+    {
+      "file": "a-practical-grammar-of-the-sanskrit-language-monier-williams.md",
+      "error": "Invalid API response format"
+    },
+    {
+      "file": "a-tour-through-the-famine-district-of-india-francis-henry-shafton-merewether.md",
+      "error": "Invalid API response format"
+    },
+    {
+      "file": "a-tour-through-the-famine-districts-of-india-f-h-s-merewether.md",
+      "error": "Invalid API response format"
+    },
+    {
+      "file": "across-india-at-the-dawn-of-the-20th-century-lucy-evangeline-guinness.md",
+      "error": "Invalid API response format"
+    },
+    {
+      "file": "ancient-india-as-described-by-megasthenes-and-arrian-mccrindle-john-watson.md",
+      "error": "Invalid API response format"
+    }
+  ],
+  "byCollection": {
+    "classical-texts": 24,
+    "regional-voices": 78,
+    "ayurveda-medicine": 8,
+    "archaeology-history": 55,
+    "buddhist-jain": 2,
+    "reform-renaissance": 8
+  }
+}

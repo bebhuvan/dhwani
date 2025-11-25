@@ -1,0 +1,25 @@
+
+> dhwani@2.0.0 deploy
+> npm run build && wrangler deploy
+
+
+> dhwani@2.0.0 build
+> npm run generate-og && astro build && npm run pagefind && npm run generate-related
+
+
+> dhwani@2.0.0 generate-og
+> node scripts/generate-og-image.js
+
+✅ OG image created successfully at public/og-image.jpg
+10:50:15 [content] Syncing content
+10:50:15 [WARN] [glob-loader] No files found matching "**/*{.md,.mdx},!**/_*/**/*{.md,.mdx},!**/_*{.md,.mdx}" in directory "src/content/authors"
+10:50:15 [WARN] [glob-loader] No files found matching "**/*{.md,.mdx},!**/_*/**/*{.md,.mdx},!**/_*{.md,.mdx}" in directory "src/content/collections"
+the stream contains non-printable characters
+  Location:
+    /home/bhuvanesh.r/AA/A main projects/Dhwani files/new-dhwani/src/content/works/anthology-of-modern-indian-poetry-gwendoline-goodwin.md:11:4170
+  Stack trace:
+    at generateError (file:///home/bhuvanesh.r/AA/A%20main%20projects/Dhwani%20files/new-dhwani/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at captureSegment (file:///home/bhuvanesh.r/AA/A%20main%20projects/Dhwani%20files/new-dhwani/node_modules/js-yaml/dist/js-yaml.mjs:1371:7)
+    at composeNode (file:///home/bhuvanesh.r/AA/A%20main%20projects/Dhwani%20files/new-dhwani/node_modules/js-yaml/dist/js-yaml.mjs:2535:35)
+    at composeNode (file:///home/bhuvanesh.r/AA/A%20main%20projects/Dhwani%20files/new-dhwani/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at loadDocuments (file:///home/bhuvanesh.r/AA/A%20main%20projects/Dhwani%20files/new-dhwani/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)

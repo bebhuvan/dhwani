@@ -1,0 +1,25 @@
+
+> dhwani@2.0.0 build
+> npm run generate-og && astro build && npm run pagefind && npm run generate-related
+
+
+> dhwani@2.0.0 generate-og
+> node scripts/generate-og-image.js
+
+✅ OG image created successfully at public/og-image.jpg
+10:19:44 [content] Syncing content
+10:19:44 [WARN] [glob-loader] No files found matching "**/*{.md,.mdx},!**/_*/**/*{.md,.mdx},!**/_*{.md,.mdx}" in directory "src/content/authors"
+10:19:44 [WARN] [glob-loader] No files found matching "**/*{.md,.mdx},!**/_*/**/*{.md,.mdx},!**/_*{.md,.mdx}" in directory "src/content/collections"
+[InvalidContentEntryDataError] works → history-of-kannada-language-r-narasimhacharya data does not match collection schema.
+
+  collections.2**: **collections.2: Invalid enum value. Expected 'academic-journals' | 'ancient-history' | 'ancient-wisdom' | 'archaeology' | 'archival-sources' | 'arts-texts' | 'astronomy' | 'buddhist-texts' | 'classical-literature' | 'colonial-india' | 'comparative-religion' | 'court-chronicles' | 'devotional-literature' | 'devotional-poetry' | 'epigraphy' | 'epic-poetry' | 'ethnographic-studies' | 'ethnography' | 'folklore' | 'folklore-collection' | 'genealogy' | 'historical-literature' | 'historical-texts' | 'indology' | 'jain-literature' | 'jain-texts' | 'legal-texts' | 'linguistic-works' | 'mathematics' | 'medical-texts' | 'medieval-india' | 'modern-literature' | 'mughal-history' | 'mughal-india' | 'musicology' | 'numismatics' | 'oral-literature' | 'pali-literature' | 'philosophical-works' | 'philosophy' | 'poetry-collection' | 'political-philosophy' | 'reference-texts' | 'reference-works' | 'regional-history' | 'regional-literature' | 'regional-voices' | 'religious-texts' | 'ritual-texts' | 'sanskrit-drama' | 'scholarly-translations' | 'science' | 'scientific-texts' | 'scientific-works' | 'spiritual-texts' | 'technical-manuals' | 'tribal-studies', received 'historical-works'
+
+  Hint:
+    See https://docs.astro.build/en/guides/content-collections/ for more information on content schemas.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/invalid-content-entry-data-error/
+  Location:
+    /home/bhuvanesh.r/AA/A main projects/new-dhwani/src/content/works/history-of-kannada-language-r-narasimhacharya.md:0:0
+  Stack trace:
+    at getEntryDataAndImages (file:///home/bhuvanesh.r/AA/A%20main%20projects/new-dhwani/node_modules/astro/dist/content/utils.js:161:26)
+    at async syncData (file:///home/bhuvanesh.r/AA/A%20main%20projects/new-dhwani/node_modules/astro/dist/content/loaders/glob.js:94:28)
