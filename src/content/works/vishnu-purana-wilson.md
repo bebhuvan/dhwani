@@ -24,6 +24,15 @@ sources:
 - name: 'Internet Archive (H.H. Wilson translation, 1840)'
   url: https://archive.org/details/vishnu-purana-wilson
   type: other
+- name: 'Internet Archive - Vol. 1 (Fitzedward Hall ed., 1864)'
+  url: https://archive.org/details/in.ernet.dli.2015.40655
+  type: other
+- name: 'Internet Archive - Vol. 2 (Fitzedward Hall ed., 1865)'
+  url: https://archive.org/details/in.ernet.dli.2015.40656
+  type: other
+- name: 'Internet Archive - Vol. 3 (Fitzedward Hall ed., 1866)'
+  url: https://archive.org/details/dli.ernet.242183
+  type: other
 references:
 - name: 'Wikipedia: Vishnu Purana'
   url: https://en.wikipedia.org/wiki/Vishnu_Purana

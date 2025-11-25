@@ -26,6 +26,9 @@ sources:
 - name: 'Internet Archive (University of Toronto Edition)'
   url: https://archive.org/details/indianpoetrycont00arnouoft
   type: other
+- name: 'Internet Archive (1915 Kegan Paul edition)'
+  url: https://archive.org/details/in.ernet.dli.2015.208130
+  type: other
 references:
 - name: 'Wikipedia: Edwin Arnold'
   url: https://en.wikipedia.org/wiki/Edwin_Arnold

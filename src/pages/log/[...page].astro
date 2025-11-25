@@ -1,20 +1,25 @@
 ---
 import { getCollection } from 'astro:content';
-import BaseLayout from '../layouts/BaseLayout.astro';
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
 
-// Get all works and sort by publishDate (most recent first)
-const allWorks = await getCollection('works');
-const sortedWorks = allWorks.sort((a, b) => {
-  const dateA = new Date(a.data.publishDate || '2024-01-01');
-  const dateB = new Date(b.data.publishDate || '2024-01-01');
-  return dateB.getTime() - dateA.getTime();
-});
+export const getStaticPaths = (async ({ paginate }) => {
+  // Get all works and sort by publishDate (most recent first)
+  const allWorks = await getCollection('works');
+  const sortedWorks = allWorks.sort((a, b) => {
+    const dateA = new Date(a.data.publishDate || '2024-01-01');
+    const dateB = new Date(b.data.publishDate || '2024-01-01');
+    return dateB.getTime() - dateA.getTime();
+  });
 
-// Take only the most recent 100 works
-const recentWorks = sortedWorks.slice(0, 100);
+  // Paginate with 100 works per page
+  return paginate(sortedWorks, { pageSize: 100 });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
 
 // Group works by month for better readability
-const worksByMonth = recentWorks.reduce((acc, work) => {
+const worksByMonth = page.data.reduce((acc, work) => {
   const date = new Date(work.data.publishDate || '2024-01-01');
   const monthKey = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long' });
 
@@ -23,7 +28,7 @@ const worksByMonth = recentWorks.reduce((acc, work) => {
   }
   acc[monthKey].push(work);
   return acc;
-}, {} as Record<string, typeof recentWorks>);
+}, {} as Record<string, typeof page.data>);
 
 function formatDate(dateString: string | Date) {
   const date = new Date(dateString);
@@ -38,7 +43,7 @@ function getAuthorString(authors: string | string[]) {
 }
 ---
 
-<BaseLayout title="Log - Recent Additions - Dhwani">
+<BaseLayout title={`Log${page.currentPage > 1 ? ` - Page ${page.currentPage}` : ''} - Recent Additions - Dhwani`}>
   <main>
     <article class="py-16 md:py-20 lg:py-24 px-6 md:px-8 lg:px-12">
       <div class="max-w-[880px] mx-auto">
@@ -47,7 +52,7 @@ function getAuthorString(authors: string | string[]) {
         </h1>
 
         <p class="font-serif-body text-[1.05rem] md:text-[1.15rem] leading-[1.85] text-ink-light font-normal mb-12 max-w-[680px]">
-          Recent additions to the Dhwani collection. Showing the most recent 100 works added.
+          Recent additions to the Dhwani collection. {page.total} total works.
         </p>
 
         <div class="space-y-12">
@@ -89,11 +94,38 @@ function getAuthorString(authors: string | string[]) {
           ))}
         </div>
 
-        <div class="mt-16 pt-8 border-t border-ink/10">
-          <p class="font-serif-body text-[0.95rem] text-ink-lighter">
-            Showing {recentWorks.length} most recent additions out of {allWorks.length} total works in the collection.
-          </p>
-        </div>
+        <!-- Pagination Controls -->
+        <nav class="mt-16 pt-8 border-t border-ink/10" aria-label="Pagination">
+          <div class="flex items-center justify-between">
+            <p class="font-serif-body text-[0.95rem] text-ink-lighter">
+              Showing {page.start + 1}–{page.end + 1} of {page.total} works
+            </p>
+
+            <div class="flex gap-2">
+              {page.url.prev && (
+                <a
+                  href={page.url.prev}
+                  class="px-4 py-2 font-serif-body text-[0.9rem] text-ink hover:text-accent border border-ink/20 hover:border-accent/30 rounded transition-colors"
+                >
+                  ← Previous
+                </a>
+              )}
+
+              <span class="px-4 py-2 font-serif-body text-[0.9rem] text-ink-lighter">
+                Page {page.currentPage} of {page.lastPage}
+              </span>
+
+              {page.url.next && (
+                <a
+                  href={page.url.next}
+                  class="px-4 py-2 font-serif-body text-[0.9rem] text-ink hover:text-accent border border-ink/20 hover:border-accent/30 rounded transition-colors"
+                >
+                  Next →
+                </a>
+              )}
+            </div>
+          </div>
+        </nav>
       </div>
     </article>
   </main>
