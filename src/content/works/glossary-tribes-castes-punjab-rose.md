@@ -15,7 +15,7 @@ description: |
   Horace Arthur Rose's three-volume Glossary (1911-1919), compiled from Punjab census reports of 1883 (Denzil Ibbetson) and 1892 (Edward Maclagan), systematically documents ethnic groups, castes, tribes, and social structures across colonial Punjab and the North-West Frontier Province. This ethnographic reference catalogs social organization, religious practices, customary laws, and cultural traditions through alphabetically arranged entries covering over 2,500 groups.
 
 collections:
-- anthropology
+- ethnographic-studies
 - historical-texts
 sources:
   - name: Internet Archive - Volume I (A-Indus)
